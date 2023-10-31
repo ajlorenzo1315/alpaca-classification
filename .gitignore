@@ -1,3 +1,6 @@
 not_git/*
 *.pth
 data/*
+llama-cpp-python
+**.gguf
+samples/*

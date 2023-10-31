@@ -40,8 +40,38 @@ huggingface-cli login --token YOUR_TOKEN
 
 [pasos](https://github.com/facebookresearch/llama-recipes/blob/main/docs/Dataset.md#training-on-custom-data)
 
+## Llama cpp short
 
+[low_models_weigth](https://huggingface.co/TheBloke/Llama-2-7B-GGUF)
+[llama cpp](https://github.com/abetlen/llama-cpp-python)
 
+Pasos
+
+```bash
+git clone https://github.com/abetlen/llama-cpp-python.git
+
+cd llama-cpp-python
+
+conda create --name alpaca python=3.11
+conda activate alpaca
+
+pip install llama-cpp-python
+
+#aceleration Hardware
+
+CMAKE_ARGS="-DLLAMA_BLAS=ON -DLLAMA_BLAS_VENDOR=OpenBLAS -DLLAMA_CUBLAS=on -DLLAMA_CLBLAST=on -DLLAMA_METAL=on -DLLAMA_HIPBLAS=on" pip install llama-cpp-python
+
+```
+
+opcional 
+
+```bash
+pip3 install jupyter
+```
+
+link
+
+https://promptengineering.org/how-does-llama-2-compare-to-gpt-and-other-ai-language-models/
 
 ## Citation
 

@@ -1,0 +1,66 @@
+CMAKE_ARGS="-DLLAMA_BLAS=ON -DLLAMA_BLAS_VENDOR=OpenBLAS -DLLAMA_CUBLAS=on -DLLAMA_CLBLAST=on -DLLAMA_METAL=on -DLLAMA_HIPBLAS=on" pip install llama-cpp-python --force-reinstall --upgrade --no-cache-dir
+Collecting llama-cpp-python
+  Downloading llama_cpp_python-0.2.11.tar.gz (3.6 MB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 3.6/3.6 MB 12.8 MB/s eta 0:00:00
+  Installing build dependencies ... done
+  Getting requirements to build wheel ... done
+  Installing backend dependencies ... done
+  Preparing metadata (pyproject.toml) ... done
+Collecting typing-extensions>=4.5.0 (from llama-cpp-python)
+  Downloading typing_extensions-4.8.0-py3-none-any.whl.metadata (3.0 kB)
+Collecting numpy>=1.20.0 (from llama-cpp-python)
+  Downloading numpy-1.26.1-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl.metadata (61 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 61.2/61.2 kB 143.9 MB/s eta 0:00:00
+Collecting diskcache>=5.6.1 (from llama-cpp-python)
+  Downloading diskcache-5.6.3-py3-none-any.whl.metadata (20 kB)
+Downloading diskcache-5.6.3-py3-none-any.whl (45 kB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 45.5/45.5 kB 76.6 MB/s eta 0:00:00
+Downloading numpy-1.26.1-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (18.2 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 18.2/18.2 MB 26.5 MB/s eta 0:00:00
+Downloading typing_extensions-4.8.0-py3-none-any.whl (31 kB)
+Building wheels for collected packages: llama-cpp-python
+  Building wheel for llama-cpp-python (pyproject.toml) ... error
+  error: subprocess-exited-with-error
+  
+  × Building wheel for llama-cpp-python (pyproject.toml) did not run successfully.
+  │ exit code: 1
+  ╰─> [28 lines of output]
+      *** scikit-build-core 0.6.0 using CMake 3.27.7 (wheel)
+      *** Configuring CMake...
+      2023-10-30 16:45:23,659 - scikit_build_core - WARNING - libdir/ldlibrary: /home/alourido/anaconda3/envs/alpaca/lib/libpython3.11.a is not a real file!
+      2023-10-30 16:45:23,659 - scikit_build_core - WARNING - Can't find a Python library, got libdir=/home/alourido/anaconda3/envs/alpaca/lib, ldlibrary=libpython3.11.a, multiarch=x86_64-linux-gnu, masd=None
+      loading initial cache file /tmp/tmplbvf25r9/build/CMakeInit.txt
+      -- The C compiler identification is GNU 11.4.0
+      -- The CXX compiler identification is GNU 11.4.0
+      -- Detecting C compiler ABI info
+      -- Detecting C compiler ABI info - done
+      -- Check for working C compiler: /usr/bin/cc - skipped
+      -- Detecting C compile features
+      -- Detecting C compile features - done
+      -- Detecting CXX compiler ABI info
+      -- Detecting CXX compiler ABI info - done
+      -- Check for working CXX compiler: /usr/bin/c++ - skipped
+      -- Detecting CXX compile features
+      -- Detecting CXX compile features - done
+      -- Found Git: /usr/bin/git (found version "2.34.1")
+      -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+      -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+      -- Found Threads: TRUE
+      CMake Error at vendor/llama.cpp/CMakeLists.txt:174 (find_library):
+        Could not find FOUNDATION_LIBRARY using the following names: Foundation
+      
+      
+      -- Configuring incomplete, errors occurred!
+      
+      *** CMake configuration failed
+      [end of output]
+  
+  note: This error originates from a subprocess, and is likely not a problem with pip.
+  ERROR: Failed building wheel for llama-cpp-python
+Failed to build llama-cpp-python
+ERROR: Could not build wheels for llama-cpp-python, which is required to install pyproject.toml-based projects
+
+
+SOL: solution 
+
+CUDACXX=/usr/local/cuda-12/bin/nvcc CMAKE_ARGS="-DLLAMA_CUBLAS=on -DCMAKE_CUDA_ARCHITECTURES=native" FORCE_CMAKE=1 pip install llama-cpp-python --no-cache-dir --force-reinstall --upgrade
