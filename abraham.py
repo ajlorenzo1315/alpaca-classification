@@ -2,25 +2,6 @@ import logging
 from llama_cpp import Llama
 import json
 import os
-import csv
-
-
-def guardar_en_csv(nombre_archivo, datos):
-    """
-    Guarda datos en un archivo CSV con dos columnas: 'Titulo' y 'Resultado'.
-    
-    :param nombre_archivo: Nombre del archivo CSV de salida.
-    :param datos: Una lista de tuplas donde cada tupla contiene el título y el resultado.
-    """
-    with open(nombre_archivo, 'w', newline='') as archivo_csv:
-        escritor = csv.writer(archivo_csv)
-        
-        # Escribe la cabecera con los nombres de las columnas
-        escritor.writerow(['Titulo', 'Resultado'])
-        
-        # Escribe los datos en el archivo CSV
-        for dato in datos:
-            escritor.writerow(dato)
 
 def guardar_en_json(nombre_archivo, datos):
     """
@@ -38,82 +19,75 @@ def guardar_en_json(nombre_archivo, datos):
         json.dump(datos_json, archivo_json, indent=4)
 
 
+def cargar_datos_json(ruta_archivo):
+    """Carga y devuelve los datos de un archivo JSON."""
+    with open(ruta_archivo) as archivo:
+        datos = json.load(archivo)
+    return datos
 
-# ### System: You possess expertise in web page classification
-# ### User:
-def get_file(path_file):
-    with open(path_file) as f:
-        data = json.load(f)
-    # print(data.keys())
-    return ('\n').join([f"{data[key].split('Content-length')}" for key in data.keys() if key != 'ground_truth' and key != 'Título']),data['ground_truth']
+def obtener_datos_filtrados_y_ground_truth(ruta_archivo, claves_excluidas=('ground_truth', 'Título')):
+    """Extrae los datos del JSON y devuelve junto con el ground_truth, excluyendo claves no deseadas."""
+    datos = cargar_datos_json(ruta_archivo)
+    datos_filtrados = {clave: datos[clave] for clave in datos if clave not in claves_excluidas}
+    ground_truth = datos.get('ground_truth')
+    return datos_filtrados, ground_truth
 
-def get_file_2(path_file):  
-  #print(path_file)
-  with open(path_file) as f:
-      data = json.load(f)
-  #print(data.keys())
-  return [f"{key} : {data[key]}" for key in data.keys() if key != 'ground_truth' ],data['ground_truth']
-  
+def listar_directorios(ruta):
+    """Devuelve una lista de nombres de directorios dentro de la ruta dada si existe."""
+    if not os.path.isdir(ruta):
+        print("La ruta especificada no existe o no es un directorio válido.")
+        return []
+    return [nombre for nombre in os.listdir(ruta) if os.path.isdir(os.path.join(ruta, nombre))]
 
-def get_class(train_path):
-#   print(train_path)
-  if os.path.exists(train_path) and os.path.isdir(train_path):
-    carpetas = [nombre for nombre in os.listdir(train_path) if os.path.isdir(os.path.join(train_path, nombre))]
-    return carpetas
-  else:
-    print("El directorio especificado no existe o no es un directorio válido.")
+def listar_archivos(ruta):
+    """Devuelve una lista de rutas de archivos dentro del directorio dado."""
+    if not os.path.isdir(ruta):
+        print("La ruta especificada no existe o no es un directorio válido.")
+        return []
+    return [os.path.join(ruta, nombre) for nombre in os.listdir(ruta) if os.path.isfile(os.path.join(ruta, nombre))]
 
+def crear_prompt_clasificacion(nombres_clases, ejemplos, texto_a_clasificar):
+    """Crea un prompt de texto para la clasificación de texto."""
+    lista_clases = ', '.join(nombres_clases) if isinstance(nombres_clases, (list, tuple)) else nombres_clases
+    ejemplos_formateados = "\n\n".join([f" Texto: '{texto}'\n Clasificación: {etiqueta}" for texto, etiqueta in ejemplos])
+    
+    return (
+        f"Clasifica el texto en esta clase: {lista_clases}. "
+        f"Responde solo con una palabra: {lista_clases}.\n\n"
+        f"Ejemplos:\n{ejemplos_formateados}\n\n"
+        f"Texto: '{texto_a_clasificar}'\n"
+        f"Clasificación: "
+    )
 
-def get_archives(train_path):
-  if os.path.exists(train_path) and os.path.isdir(train_path):
-    carpetas = [os.path.join(train_path,nombre) for nombre in os.listdir(train_path) if os.path.isfile(os.path.join(train_path, nombre))]
-    return carpetas
-  else:
-    print("El directorio especificado no existe o no es un directorio válido.")
+def obtener_todos_los_datos_archivo(ruta_base, maximo=-1):
+    """Reúne todos los datos de los archivos y los prompts de los directorios bajo la ruta base."""
+    directorios = listar_directorios(ruta_base)
+    archivos_por_clase = {}
+    prompts_por_clase = {}
+    todos_prompts = []
+    todos_archivos = []
 
-def creating_promt(class_name,text_traindata,text_classification):
-  if isinstance(class_name, (list, tuple)):
-      class_name = (', ').join(class_name)
-  text_traindata = ('\n\n').join([f" Text:'{text}' \n Classication: {label}" for text,label in text_traindata])
-  return f" Classify the text in this class : {class_name}. Reply with only one word:  {class_name}. \n\
-  Examples: \n\
-  {text_traindata} \n\n\
-  Text: '{text_classification}' \n\
-  Classication: "
+    for nombre_clase in directorios or ['test']:
+        archivos = listar_archivos(os.path.join(ruta_base, nombre_clase))[:maximo]
+        archivos_por_clase[nombre_clase] = archivos
+        prompts = [obtener_datos_filtrados_y_ground_truth(archivo) for archivo in archivos]
+        prompts_por_clase[nombre_clase] = prompts
+        todos_prompts.extend(prompts)
+        todos_archivos.extend(archivos)
 
-def get_all_files(path_data,max_cont=-1):
-    #'./data/splits/train_json'
-    classes=get_class(path_data)
-    archiver_per_clases={}
-    prompt_per_clases={}
-    promt_all_reson=[]
-    archiver_all_reson=[]
-    if len(classes)>0:
-      for class_name in classes:
-        #print(get_archives(os.path.join(path_data,i)))
-        archiver_per_clases[class_name]=get_archives(os.path.join(path_data,class_name))[0:max_cont]
-        prompt_per_clases[class_name]=[get_file_2(archive) for archive in  archiver_per_clases[class_name]]
-        promt_all_reson.extend(prompt_per_clases[class_name])
-        archiver_all_reson.extend(archiver_per_clases[class_name])
+    return archivos_por_clase, prompts_por_clase, todos_prompts, todos_archivos
 
-        # print(len(archiver_per_clases[class_name]),promt_all_reson)
-    else:
-       archiver_per_clases['test']=get_archives(os.path.join(path_data,class_name))
-       prompt_per_clases['test']=[get_file_2(archive) for archive  in  archiver_per_clases['test']]
-    return archiver_per_clases,prompt_per_clases,promt_all_reson,archiver_all_reson
 
  
 def promting(llm,prompt,logging):
     # Genera la respuesta
     output = llm(prompt)
-    #, max_tokens=32, stop=["Q:", "\n"], echo=True)
 
     # Registra el prompt y la respuesta en el archivo de registro
     logging.info("Prompt: %s", prompt)
     logging.info("Respuesta: %s", output['choices'])
     logging.info("ALL_INFO: %s", output)
-    # print(output['choices'])
-    # print(output['choices'][0]['text'])
+    print(output)
     return output['choices'][0]['text']
 
 # Configura el archivo de registro
@@ -125,11 +99,11 @@ model_path = "./llama_models/llama-2-7b.Q4_K_M.gguf"
 logging.info("Modelo: %s", model_path)
 llm = Llama(model_path=model_path, n_ctx=4096, n_gpu_layers=30)
 
-class_name=get_class('./data/splits/train')
-train,promt_train,b,d=get_all_files('./data/splits/train_json',1)
-test,promt_test,a,c=get_all_files('./data/splits/test',10)
+class_name = listar_directorios('./data/splits/train')
+train,promt_train,b,d = obtener_todos_los_datos_archivo('./data/splits/train_json',1)
+test,promt_test,a,c = obtener_todos_los_datos_archivo('./data/splits/test',100)
 
-prompts=[creating_promt(class_name,b[:3],text_class )for text_class in a]
+prompts=[crear_prompt_clasificacion(class_name,b[:3],text_class )for text_class in a]
 
 datos_a_guardar = []
 
@@ -137,9 +111,6 @@ for idx,prompt in enumerate(prompts):
     result=promting(llm,prompt,logging)
     datos_a_guardar.append((c[idx],result))
 
-print("\n\n\n\n\n\n\n\n\n")
-print(datos_a_guardar)
-print("\n\n\n\n\n\n\n\n\n")
 guardar_en_json('resultados.json', datos_a_guardar)   
 
 # Cierra el archivo de registro
