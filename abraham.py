@@ -1,10 +1,7 @@
 import logging
 from llama_cpp import Llama
 import json
-from tqdm import tqdm
 import os
-
-
 import csv
 
 
@@ -25,28 +22,30 @@ def guardar_en_csv(nombre_archivo, datos):
         for dato in datos:
             escritor.writerow(dato)
 
+def guardar_en_json(nombre_archivo, datos):
+    """
+    Guarda datos en un archivo JSON con una lista de diccionarios con las claves 'Titulo' y 'Resultado'.
+    
+    :param nombre_archivo: Nombre del archivo JSON de salida.
+    :param datos: Una lista de tuplas donde cada tupla contiene el título y el resultado.
+    """
+    # Convertir los datos a una lista de diccionarios
+    datos_json = [{'Titulo': titulo, 'Resultado': resultado} for titulo, resultado in datos]
+    
+    # Abrir el archivo para escritura en modo texto
+    with open(nombre_archivo, 'w') as archivo_json:
+        # Guardar los datos en formato JSON
+        json.dump(datos_json, archivo_json, indent=4)
 
 
-# ./main -m models/speechless-llama2-13b.Q4_K_M.gguf -ngl 36 -n 3620 -c 3620
-#-p "### System: You possess expertise in creating articles with markdown formatting. 
-# ### User: Craft an article in encyclopedia-style on the topic 'tesla stock' in English. 
-# The article length should range from 800 to 2400 words. Utilize markdown for styling, using 
-# '#' for headers, '##' for sub-headers, and so on. Refrain from employing HTML; only markdown should be used.
-# Enhance the article's readability with markdown features like bold, italics, and hyperlinks pointing to Wikipedia entries where relevant.
-# Commence the article with '# [title]', 
-#followed immediately by '## Table of Contents\n1. '..., and then start the first subheading with '## 1. '... and continue accordingly." --temp 0.3
 
 # ### System: You possess expertise in web page classification
 # ### User:
 def get_file(path_file):
     with open(path_file) as f:
         data = json.load(f)
-    print(data.keys())
+    # print(data.keys())
     return ('\n').join([f"{data[key].split('Content-length')}" for key in data.keys() if key != 'ground_truth' and key != 'Título']),data['ground_truth']
-
-def proces_file(key,text):
-    if key=="Cuerpo":
-      text.split(': ')
 
 def get_file_2(path_file):  
   #print(path_file)
@@ -57,7 +56,7 @@ def get_file_2(path_file):
   
 
 def get_class(train_path):
-  print(train_path)
+#   print(train_path)
   if os.path.exists(train_path) and os.path.isdir(train_path):
     carpetas = [nombre for nombre in os.listdir(train_path) if os.path.isdir(os.path.join(train_path, nombre))]
     return carpetas
@@ -97,7 +96,7 @@ def get_all_files(path_data,max_cont=-1):
         promt_all_reson.extend(prompt_per_clases[class_name])
         archiver_all_reson.extend(archiver_per_clases[class_name])
 
-        print(len(archiver_per_clases[class_name]),promt_all_reson)
+        # print(len(archiver_per_clases[class_name]),promt_all_reson)
     else:
        archiver_per_clases['test']=get_archives(os.path.join(path_data,class_name))
        prompt_per_clases['test']=[get_file_2(archive) for archive  in  archiver_per_clases['test']]
@@ -113,48 +112,20 @@ def promting(llm,prompt,logging):
     logging.info("Prompt: %s", prompt)
     logging.info("Respuesta: %s", output['choices'])
     logging.info("ALL_INFO: %s", output)
-    print(output['choices'])
-    print(output['choices'][0]['text'])
+    # print(output['choices'])
+    # print(output['choices'][0]['text'])
     return output['choices'][0]['text']
 
 # Configura el archivo de registro
 log_filename = "llama_promt_log.txt"
 logging.basicConfig(filename=log_filename, level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
 
-# Inicializa Llama
 # Inicializa Llama y guarda la información del modelo en el registro
 model_path = "./llama_models/llama-2-7b.Q4_K_M.gguf"
 logging.info("Modelo: %s", model_path)
-llm = Llama(model_path=model_path, n_ctx=4096)
+llm = Llama(model_path=model_path, n_ctx=4096, n_gpu_layers=30)
 
-
-# Define el prompt
-#prompts = ["{ 'prompt': 'Can you explain what a transformer is (in a machine learning context)?','system_prompt': 'You are a pirate' }",
-#         "{ 'prompt': 'Can you explain what a transformer is (in a machine learning context)?','system_prompt': 'You are responding to highly technical customers' }",
-#         "[INST] Hi! [/INST]",
-#         "Write a poem about a flower"
-#        ]
-
-template = "Classify the text into neutral, negative, or positive. Reply with only one word: Positive, Negative, or Neutral. \n  \
-Examples: \n  \
-Text: Big variety of snacks (sweet and savoury) and very good espresso Machiatto with reasonable prices,\
-you can't get wrong if you choose the place for a quick meal or coffee. \n  \
-Sentiment: Positive. \n  \
-Text: I got food poisoning \n  \
-Sentiment: Negative. \n  \
-Text: {text} \n  \
-Sentiment: "
-
-
-template=""" Classify the text into neutral, negative, or positive. Reply with only one word: Positive, Negative, or Neutral.
-  """
-
-
-# text,label=get_file('./data/dummy.json')
-# text_2,label_2=get_file('./data/dummy_2.json')
 class_name=get_class('./data/splits/train')
-# template=creating_promt(class_name,[[text,label],[text_2,label_2]],text_2 )
-#print(template)
 train,promt_train,b,d=get_all_files('./data/splits/train_json',1)
 test,promt_test,a,c=get_all_files('./data/splits/test',10)
 
@@ -166,9 +137,10 @@ for idx,prompt in enumerate(prompts):
     result=promting(llm,prompt,logging)
     datos_a_guardar.append((c[idx],result))
 
-guardar_en_csv('resultados.csv', datos_a_guardar)   
-# Imprime la respuesta
-#print(output)
+print("\n\n\n\n\n\n\n\n\n")
+print(datos_a_guardar)
+print("\n\n\n\n\n\n\n\n\n")
+guardar_en_json('resultados.json', datos_a_guardar)   
 
 # Cierra el archivo de registro
 logging.shutdown()

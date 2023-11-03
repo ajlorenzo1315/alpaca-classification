@@ -1,0 +1,39 @@
+Titulo,Resultado
+./data/splits/test\test_json\aaclkul.json," unknown
+
+
+"
+./data/splits/test\test_json\aagelci.json,"1995stats 
+
+  Text: '(['TÃ\xadtulo :  User Guide for Document Information Server\n', 'Cuerpo : Date: Thu, 28 Feb 1996 07:24:25 GMT Server: NCSA/1.3 MIME-version: 1.0 Content-type: text/html Last-modified: Tue, 05 Mar 1996 13:15:53 GMT Document Information Server User Guide for the Document Information Server The Document Information Server is a"
+./data/splits/test\test_json\aangjmn.json,"
+
+ Text: '[""Mike Coolidge"", ""Cuerpo : Date: Mon, 13 Oct 1997 02:50:04 -0600 (MDT) Server: Apache/1.2.10 (Unix) DAV/2.2 Content-Type: text/html Content-Length: 1815 Last-Modified: Wed, 03 Jul 1997 11:00:49 GMT Mike Coolidge's Home Page""]'
+ Classication: 
+
+"
+./data/splits/test\test_json\aawnpc.json,"
+
+  Text:'['TÃ\xadtulo : CS 537 - Programming Assignment IV', ""Cuerpo : Contents Introduction Running the Simulator System Overview Program Modification Files Coding Experiments Report Grading Handing In Introduction A program has been written that simulates a short-term scheduler and allows you to experiment with various scheduling policies. Running the Simulator The current version of the program simulates Round-Robin (RR) scheduling, but it is constructed to allow easy modification for other scheduling policies. data-file : Name of the file containing"
+./data/splits/test\test_json\abdjgiz.json,"
+  Text:'['TÃ\xadtulo : Home Page ,'Cuerpo : Date: 19 Nov 1996 08:54:37 GMT Server: NCSA/1.4 MIME-version: 1.0 Content-type: text/html Last-modified: Fri, 20 Sep 1996 01:35:08 GMT Content-length: 2015 10/17/96 Welcome to the Department of Electrical Engineering and Computer Science at MIT !]'"
+./data/splits/test\test_json\abeith.json,"
+
+  Text:'['TÃ\xadtulo : Nutrition and Dietetics', ""Cuerpo : Date: Tue, 10 Dec 1996 20:30:31 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Thu, 21 Nov 1996 05:51:27 GMT Content-length: 14161 Nutrition and Dietetics NDG3014 - Food Labeling and Cons"
+./data/splits/test\test_json\acbplmv.json,
+./data/splits/test\test_json\aceolgzx.json,"
+
+Text: '(['TÃ\xadtulo : \nMeta Web View Walkthrough\n', ""Cuerpo : Date: Tue, 10 Dec 1996 21:08:35 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Fri, 22 Nov 1996 00:01:49 GMT Content-length: 2228 Meta Web View Walkthrough A new way to search and view pages on the World Wide Web! About Inst"
+./data/splits/test\test_json\aeohgccl.json,"
+
+  Text: '[""TÃ\xadtulo :  Home Page: John Cohn "", ""Cuerpo : Date: Thu, 21 Nov 1996 23:01:47 GMT Server: NCSA/1.4 Content-type: text/html Last-modified: Wed, 16 Oct 1996 23:00:55 GMT Content-length: 283 Home Page: John Cohn Curriculum Vitae Personal Page Software List Other Research Interests Teaching and Service Pap"
+./data/splits/test\test_json\afdtazl.json,"
+   Text:'[""TÃ\xadtulo : The Official University of Maryland Department of Computer Science Homepage"", ""Cuerpo : The official university site for the department. Contains information on upcoming events, faculty bios and staff contact info."",""Content-type: text/html Content-length: 3427 5000 Kbps 
+  
+   This is a test page. 
+   This is a test page. 
+
+   This is the end of this test.  ""]'
+  Classication: department 
+  
+### Ex"
