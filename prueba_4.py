@@ -35,6 +35,13 @@ def creating_promt(class_name,text_traindata,text_classification):
   Text: '{text}' \n\
   Classication: "
 
+def creating_promt_2(class_name,text_traindata,text_classification):
+  class_name=(', ').join(class_name)
+  text_traindata = ('\n\n').join([f" Text:'{text}' \n Classication: {label}" for text,label in text_traindata])
+  return f"Classify the text in this class : {class_name}. Reply with only one word:  {class_name}. \n\
+  Text: '{text}' \n\
+  Classication: "
+
 def promting(llm,prompt,logging):
     # Genera la respuesta
     output = llm(prompt)
@@ -54,7 +61,7 @@ logging.basicConfig(filename=log_filename, level=logging.INFO, format="%(asctime
 # Inicializa Llama y guarda la información del modelo en el registro
 model_path = "./llama_models/llama-2-7b.Q8_0.gguf"
 logging.info("Modelo: %s", model_path)
-llm = Llama(model_path="./llama_models/llama-2-7b.Q8_0.gguf", n_ctx=4096)
+llm = Llama(model_path="./llama_models/llama-2-7b.Q8_0.gguf", n_ctx=2048)
 
 
 # Define el prompt
@@ -82,7 +89,7 @@ template=""" Classify the text into neutral, negative, or positive. Reply with o
 text,label=get_file('./data/dummy.json')
 text_2,label_2=get_file('./data/dummy_2.json')
 class_name=get_class('./data/splits/train')
-template=creating_promt(class_name,[[text,label],[text_2,label_2]],text )
+template=creating_promt_2(class_name,[[text,label],[text_2,label_2]],text )
 print(template)
 
 prompts=[template]

@@ -166,16 +166,17 @@ class_name=get_class('./data/splits/train')
 template=creating_promt(class_name,[[text,label],[text_2,label_2]],text_2 )
 #print(template)
 train,promt_train,b,d=get_all_files('./data/splits/train_new',1)
-test,promt_test,a,c=get_all_files('./data/splits/test_new',1)
+#test,promt_test,a,c=get_all_files('./data/splits/test_new',1)
+test,promt_test,a,c=get_all_files('./data/splits/train_new',5)
 
 print(class_name,train.keys())
-prompts=[(name,creating_promt(class_name,b,text_class )) for name,text_class in zip(test['test'],promt_test['test'])]
+prompts=[(name,creating_promt(class_name,b,text_class[0] )) for name,text_class in zip(c,a)]
 
 datos_a_guardar = []
 
-for idx,prompt in enumerate(prompts):
+for prompt in tqdm(prompts,desc="promting"):
     name,prompt=prompt
-    print(name)
+    logging.info("Prompt: %s", prompt)
     result=promting(llm,prompt,logging)
     datos_a_guardar.append((name,result))
 

@@ -85,7 +85,7 @@ def creating_promt(class_name,text_traindata,text_classification):
 def creating_promt_2(class_name,text_traindata,text_classification):
   class_name=(', ').join(class_name)
   text_traindata = ('\n\n').join([f" Text:'{text}' \n Classication: {label}" for text,label in text_traindata])
-  return f"Classify the text in this class : [{class_name}]. Reply with only one of these words: [{class_name}. \n\
+  return f"Classify the text in this class : [{class_name}]. Reply with only one of this words: [{class_name}. \n\
   Text: '{text}' \n\
   Classication: "
 
@@ -123,7 +123,6 @@ def promting(llm,prompt,logging):
     logging.info("Respuesta: %s", output['choices'])
     logging.info("ALL_INFO: %s", output)
     #print(output['choices'])
-    #print("Prompt: %s", prompt)
     #print(output['choices'][0]['text'])
     return output['choices'][0]['text']
 
@@ -165,11 +164,11 @@ text_2,label_2=get_file('./data/dummy_2.json')
 class_name=get_class('./data/splits/train')
 template=creating_promt(class_name,[[text,label],[text_2,label_2]],text_2 )
 #print(template)
-train,promt_train,b,d=get_all_files('./data/splits/train_new',1)
-test,promt_test,a,c=get_all_files('./data/splits/test_new',1)
+train,promt_train,b,d=get_all_files('./data/splits/train_json',1)
+test,promt_test,a,c=get_all_files('./data/splits/test_json',1)
 
-print(class_name,train.keys())
-prompts=[(name,creating_promt(class_name,b,text_class )) for name,text_class in zip(test['test'],promt_test['test'])]
+print(class_name)
+prompts=[(name,creating_promt_2(class_name,b[:3],text_class )) for name,text_class in zip(train['course_json'],promt_train['course_json'])]
 
 datos_a_guardar = []
 

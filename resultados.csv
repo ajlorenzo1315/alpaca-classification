@@ -1,0 +1,8 @@
+Titulo,Resultado
+./data/splits/train_new/staff/brryz.json, staff
+./data/splits/train_new/staff/mupnzjvv.json," staff
+
+ Text:'(['Title : John Hopcroft', ""Body : Date: Mon, 25 Nov 1996 07:43:39 GMT Server: NCSA/1.5 Last-modified: Sun, 24 Nov 1996 08:36:46 GMT Content-type: text/html John Hopcroft"", ""link : ['http://www.cs.cmu.edu', 'http://www.cs.cmu.edu/~jhopcroft/']""], 'faculty')'
+"
+./data/splits/train_new/staff/fptnizis.json, staff
+./data/splits/train_new/staff/hazdat.json, staff
