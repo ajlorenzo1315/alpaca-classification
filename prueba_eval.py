@@ -90,6 +90,14 @@ def creating_promt_2(class_name,text_traindata,text_classification):
   Classication: "
 
 
+def creating_promt_3(class_name,text_traindata,text_classification):
+  class_name=(', ').join(class_name)
+  text_traindata = ('\n\n').join([f" Text:'{text}' \n Classication: {label}" for text,label in text_traindata])
+  return f"<s>[INST] <<SYS>> You are a helpful assistant. <</SYS>> Classify the text in this class : [{class_name}]. Reply with only one of these words: [{class_name}. \n\
+  Text: '{text}' \n\
+  Classication: \n\
+  [/INST] "
+
 def get_all_files(path_data,max_cont=-1):
     #'./data/splits/train_json'
     classes=get_class(path_data)
@@ -166,8 +174,8 @@ class_name=get_class('./data/splits/train')
 template=creating_promt(class_name,[[text,label],[text_2,label_2]],text_2 )
 #print(template)
 train,promt_train,b,d=get_all_files('./data/splits/train_new',1)
-#test,promt_test,a,c=get_all_files('./data/splits/test_new',1)
-test,promt_test,a,c=get_all_files('./data/splits/train_new',5)
+test,promt_test,a,c=get_all_files('./data/splits/test_new',-1)
+#test,promt_test,a,c=get_all_files('./data/splits/train_new',2)
 
 print(class_name,train.keys())
 prompts=[(name,creating_promt(class_name,b,text_class[0] )) for name,text_class in zip(c,a)]
@@ -179,8 +187,7 @@ for prompt in tqdm(prompts,desc="promting"):
     logging.info("Prompt: %s", prompt)
     result=promting(llm,prompt,logging)
     datos_a_guardar.append((name,result))
-
-guardar_en_csv('resultados.csv', datos_a_guardar)   
+    guardar_en_csv('resultados.csv', datos_a_guardar)   
 # Imprime la respuesta
 #print(output)
 

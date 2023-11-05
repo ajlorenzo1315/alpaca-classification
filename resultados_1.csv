@@ -1,0 +1,79 @@
+Titulo,Resultado
+./data/splits/train_new/staff/brryz.json, staff
+./data/splits/train_new/staff/mupnzjvv.json, staff
+./data/splits/train_new/staff/fptnizis.json, staff
+./data/splits/train_new/staff/hazdat.json, faculty
+./data/splits/train_new/staff/mauom.json, staff
+./data/splits/train_new/project/lcwukn.json, project
+./data/splits/train_new/project/cwawk.json," staff
+
+ Text:'['Title : The Department of Electrical and Computer Engineering', 'Body : Our department offers degrees from the BS through PhD in Electrical Engineering, and the BS and MS in Computer Engineering and Systems. Course offerings span all areas of interest including electronics, computer hardware and software, communications, signal processing and control systems.', ""link : ['http://www.engr.ncsu.edu/ece/faculty.html', 'http://www.engr.ncsu.edu/ece/courses.html', 'http://www.engr"
+./data/splits/train_new/project/uwnabhxl.json, faculty
+./data/splits/train_new/project/ihgxid.json," staff
+
+Text: '['Title : Web Page Design II ', 'Body : This is a course for people who have already taken a beginning web design course and want to learn more advanced techniques.', ""link : ['http://www.cs.indiana.edu/']""]'
+Classification: course
+
+Text:'['Title : Department of Computer Science ', 'Body : The Department provides educational opportunities in computer science at all levels, from undergraduate through doctoral degrees.', ""link : ['http://www.cs.indiana.edu/info/undergrad/']""]'
+Classification"
+./data/splits/train_new/project/pjfwy.json," staff, project, other, faculty, department, student, course."
+./data/splits/train_new/other/vtukpngp.json, other
+./data/splits/train_new/other/mmxwzmep.json, course
+./data/splits/train_new/other/crilnifj.json, other
+./data/splits/train_new/other/cenvm.json, course
+./data/splits/train_new/other/noerbktj.json, project
+./data/splits/train_new/faculty/ahjpfa.json," faculty
+
+  Text:'['Title : LARGE-SCALE PARALLEL SOFTWARE GROUP', 'Body : Some of the projects in the group are conducted jointly with the Parallel and Distributed Operating Systems Group.', ""link : ['http://www.psg.lcs.mit.edu/', 'http://www.psg.lcs.mit.edu/~weihl', 'http://www.pdos.lcs.mit.edu/']""]' 
+  Classication: project
+
+  Text:'['Title : Werner Vogels"
+./data/splits/train_new/faculty/dqsbsmt.json," faculty
+
+  Text:'['Title : Computer Science & Engineering Home Page', ""Body : The CS&E Department was established in January 1984 as the fifth department in the School of Electrical and Computer Engineering (SECE). Since its formation, the CS&E Department has been committed to excellence in teaching, research and service. Our faculty includes 15 tenured or tenure-track professors and 6 lecturers with over 20 years of combined experience in both industry and academia.', ""link : ['http://www.sece.uiuc.edu/"
+./data/splits/train_new/faculty/aktozeo.json, staff
+./data/splits/train_new/faculty/jybiu.json," faculty
+
+ Text:'['Title : Computer Science and Engineering at the University of Washington', 'Body : The Department offers three graduate degree programs: Master of Science, Doctor of Philosophy, and a new Professional Master of Science in Security Informatics.', ""link : ['http://www.cs.washington.edu/dept/jobs.html', 'http://www.cs.washington.edu/research/projects.html', 'http://www.cs.washington.edu/ugrad-info/courses.html']""]' 
+ Classication: department
+
+"
+./data/splits/train_new/faculty/nbpzmv.json," staff
+
+ Text:'[""Title :  CS 540: Concurrent Programming"", 'Body : Syllabus, Schedule, Projects, Requirements, Exams, Grading, Resources.', ""link : ['http://www.cs.umd.edu/class/spring2000/cmsc540/index.html', 'http://www.cs.umd.edu/class/spring2000/cmsc540/syllabus.html', '#announcements']""]' 
+ Classication:"
+./data/splits/train_new/department/umtuw.json," department
+
+ Text:'['Title : David Rey Rodriguez Information Page', ""Body : I also graduated from the Georgia Institute of Technology with a Bachelor of Electrical Engineering in 1991.', ""link : ['http://www.gatech.edu/gvutop.html', 'http://www.gatech.edu/gvutop.html', 'http://www.gatech.edu/gvu/Faculty/Jessica.K.Hodgins.html']""]' 
+  Classication: student
+
+ Text:'['Title : CS"
+./data/splits/train_new/department/uvlezpcp.json, department
+./data/splits/train_new/department/jgmyqj.json, department
+./data/splits/train_new/department/fybbwqg.json, department
+./data/splits/train_new/department/hoxtk.json, department
+./data/splits/train_new/student/wotyp.json, student
+./data/splits/train_new/student/lnaxcuc.json," staff
+
+ Text:'['Title : Department of Computer Science', ""Body : The Department offers a variety of undergraduate programs leading to the Bachelor of Arts, Bachelor of Science, and Master of Science degrees in Computer Science, as well as a Doctor of Philosophy degree in Computer Science. "", ""link : ['http://www.cs.ualberta.ca/faculty/','http://www.cs.ualberta.ca/graduate/','http://www.cs.ualberta.ca/undergrad/']""]' 
+ Classication: department
+
+ Text:'['Title : The University"
+./data/splits/train_new/student/dnsyk.json," staff
+
+ Text:'['Title : Professor Michael Huth, Department of Computer Science and Technology', ""Body : Research interests include AI planning and scheduling, AI programming languages, nonmonotonic reasoning, temporal reasoning, computational logic."", ""link : ['http://www.cl.cam.ac.uk/~mgk25/', 'http://www-users.cs.york.ac.uk/susan/planner/paperlist1.html#MGK93']""]' 
+ Classication: faculty
+
+ Text:'['Title : Prof. Arav"
+./data/splits/train_new/student/vndrkky.json, student
+./data/splits/train_new/student/pjnzr.json, staff
+./data/splits/train_new/course/tpfitbk.json, course
+./data/splits/train_new/course/rwgaz.json," course 
+"
+./data/splits/train_new/course/twvpcwt.json," course 
+
+ So, the text is classified as faculty (Michael T. Goodrich), department (Arizona Computer Science), student (David Rey Rodriguez Information Page), and course (CS 495/Math 405 Analysis of Algorithms Home Page, CS-101(A1): Introduction to Computers)."
+./data/splits/train_new/course/iyfhkcpn.json," course
+
+ Text:'['Title : Math 306 Home Page', ""Body : Week 1: Matrices and Least Squares Week 2: Eigenvalues and Eigenvectors Week 3: Singular Value Decomposition, Dimensionality Reduction and Learning. Week 4: Projections, Orthogonalization and Applications. Week 5: Iterative Methods for Solving Linear Systems. Week 6: Optimization in Higher Dimensions. Week 7: Kernels and Support Vector Machines."", ""link : ['http://www.cs.pr"
+./data/splits/train_new/course/dffgwmla.json, course

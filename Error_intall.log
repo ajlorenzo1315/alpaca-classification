@@ -64,3 +64,38 @@ ERROR: Could not build wheels for llama-cpp-python, which is required to install
 SOL: solution 
 
 CUDACXX=/usr/local/cuda-12/bin/nvcc CMAKE_ARGS="-DLLAMA_CUBLAS=on -DCMAKE_CUDA_ARCHITECTURES=native" FORCE_CMAKE=1 pip install llama-cpp-python --no-cache-dir --force-reinstall --upgrade
+
+
+
+Collecting faiss-gpu==1.6.1
+  Downloading faiss-gpu-1.6.1.tar.gz (15 kB)
+  Preparing metadata (setup.py) ... done
+Requirement already satisfied: numpy in /home/alourido/anaconda3/envs/alpaca/lib/python3.11/site-packages (from faiss-gpu==1.6.1) (1.26.1)
+Building wheels for collected packages: faiss-gpu
+  Building wheel for faiss-gpu (setup.py) ... error
+  error: subprocess-exited-with-error
+  
+  × python setup.py bdist_wheel did not run successfully.
+  │ exit code: 1
+  ╰─> [7 lines of output]
+      running bdist_wheel
+      running build
+      running build_ext
+      building 'faiss._swigfaiss' extension
+      swigging python/swigfaiss.i to python/swigfaiss_wrap.cpp
+      swig -python -c++ -Doverride= -I/usr/local/include/faiss -I/usr/local/cuda/include -DGPU_WRAPPER -DSWIGWORDSIZE64 -o python/swigfaiss_wrap.cpp python/swigfaiss.i
+      error: command 'swig' failed: No such file or directory
+      [end of output]
+  
+  note: This error originates from a subprocess, and is likely not a problem with pip.
+  ERROR: Failed building wheel for faiss-gpu
+  Running setup.py clean for faiss-gpu
+Failed to build faiss-gpu
+ERROR: Could not build wheels for faiss-gpu, which is required to install pyproject.toml-based projects
+solutuion
+
+
+conda install faiss-gpu
+
+pip cache purge
+pip install --upgrade pip

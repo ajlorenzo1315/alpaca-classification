@@ -4,3 +4,4 @@ data/*
 llama-cpp-python
 **.gguf
 samples/*
+local-rag/*

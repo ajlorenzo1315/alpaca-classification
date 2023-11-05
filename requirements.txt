@@ -8,3 +8,5 @@ ujson
 black
 isort
 flake8
+langchain
+sentence-transformers

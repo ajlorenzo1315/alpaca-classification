@@ -1,8 +1,328 @@
 Titulo,Resultado
-./data/splits/train_new/staff/brryz.json, staff
-./data/splits/train_new/staff/mupnzjvv.json," staff
+./data/splits/test_new/test/gotjzb.json, staff
+./data/splits/test_new/test/yawspc.json, faculty
+./data/splits/test_new/test/uqrfyv.json," staff, project, other, faculty, department, student, course"
+./data/splits/test_new/test/gtchjnzw.json, faculty
+./data/splits/test_new/test/aktnyrw.json, student
+./data/splits/test_new/test/egjrrq.json," staff, project, other, faculty, department, student, course"
+./data/splits/test_new/test/ukgoagzq.json, other
+./data/splits/test_new/test/kjjbbt.json, other
+./data/splits/test_new/test/igamsti.json," course 
 
- Text:'(['Title : John Hopcroft', ""Body : Date: Mon, 25 Nov 1996 07:43:39 GMT Server: NCSA/1.5 Last-modified: Sun, 24 Nov 1996 08:36:46 GMT Content-type: text/html John Hopcroft"", ""link : ['http://www.cs.cmu.edu', 'http://www.cs.cmu.edu/~jhopcroft/']""], 'faculty')'
+ So, the classification for each text is as follows:
+
+Text 1: staff
+Text 2: project
+Text 3: other
+Text 4: faculty
+Text 5: department
+Text 6: student
+Text 7: course
+Text 8: course
+Text 9: course"
+./data/splits/test_new/test/ckemt.json," staff
+
+ Text:'['Title : CS 406 Computer Architecture Home Page', ""Body : The course is designed to present the fundamentals of computer architecture in a manner which highlights the relationship between hardware and software. We will cover topics such as CPU design, pipelining, memory hierarchies, input/output, and parallel processing. It is intended for students with an intermediate knowledge of programming, e.g., those who have completed CS 2113.', ""link : ['http://www.cs.uidaho.edu/~baker/cs406.html', 'http"
+./data/splits/test_new/test/apcgc.json, faculty
+./data/splits/test_new/test/akbfdvs.json," staff
+
+Text: '[""Title : CS 263 - Database Systems"", ""Body : Syllabus for the class will be available soon, please check back later."", ""link : ['http://www.cs.iastate.edu/', 'http://www.cs.iastate.edu/~taylor/db-systems/index.html', '#classinfo']""]' 
+  Classication: course
+
+Text: '[""Title : CS Faculty and Staff"", ""Body : You can find the list of our faculty and staff here."", ""link : ['http://www"
+./data/splits/test_new/test/sphiqtdr.json, other
+./data/splits/test_new/test/hpsaouip.json, course
+./data/splits/test_new/test/pznqy.json, staff
+./data/splits/test_new/test/beveykcq.json, staff
+./data/splits/test_new/test/uuyzux.json, course
+./data/splits/test_new/test/sorah.json," project
+
+Text:'['Title : CSci 201: Introduction to Computing', 'Body : Course Description: An introduction to the field of computing, this course surveys various aspects of computer science, including an introduction to software and hardware, algorithms, programming, and ethical issues.', ""link : ['http://www.cs.colorado.edu/~johnston/courses/fall01/CSci201/index.html', 'http://www.cs.colorado.edu/dept/courses/fall01/CSci201/course"
+./data/splits/test_new/test/nwqios.json, staff
+./data/splits/test_new/test/lfukf.json, course
+./data/splits/test_new/test/uihixqum.json, course
+./data/splits/test_new/test/espxbh.json," other 
+
+ Text:'['Title : CS 521: Database Management Systems', 'Body : This is a graduate course on the design and implementation of database management systems. Topics include data modeling, relational databases, query processing, recovery, security, and emerging issues.', ""link : ['http://www.cs.washington.edu/homes/nick/courses/cse521/syllabus.html']""]' 
+ Classication: course 
+
+ Text:'['Title : Acknowledgements', 'Body : I would also like to"
+./data/splits/test_new/test/oneaef.json, faculty
+./data/splits/test_new/test/wuuif.json, faculty
+./data/splits/test_new/test/rteuy.json," staff
+
+ Text: '[""Title : CS101 Introduction to Computer Science"", ""Body : The course will cover the basic concepts of computer science, including programming methods and algorithms, computational complexity, computer organization, software development, data structure, and introduction to artificial intelligence. It is designed for students with little or no background in computer science."", ""link : ['http://www.cs.dartmouth.edu/~cs101/index.html', 'http://www.dartmouth.edu/academics/departments/computer-science/undergraduate-program', '#syllab"
+./data/splits/test_new/test/khtaydx.json, staff
+./data/splits/test_new/test/xyqyyd.json, faculty
+./data/splits/test_new/test/pxcwhekn.json, course
+./data/splits/test_new/test/pjnwjfgw.json," staff
+
+ Text:'[""Title : Department of Computer Science at the University of Illinois"", ""Body : The department offers BS, MS, and PhD degrees in Computer Science. Our faculty are engaged in research that covers all areas of computer science."", ""link : ['http://www.cs.uiuc.edu/', 'http://www.cs.uiuc.edu/about/faculty.html', 'http://www.cs.uiuc.edu/degrees/']""]' 
+  Classication: department
+
+ Text:'[""Title : Computer Science"", ""Body : The Department"
+./data/splits/test_new/test/fhayg.json, faculty
+./data/splits/test_new/test/gyutr.json, project
+./data/splits/test_new/test/xuoppkn.json," other 
+
+Text:'['Title : CS 142 Introduction to Database Systems Winter 2000', ""Body : The course is offered by the University of Washington Department of Computer Science & Engineering.,'link : ['http://www.cs.washington.edu/']""]'
+Classification: course"
+./data/splits/test_new/test/kxbknr.json, faculty
+./data/splits/test_new/test/wognyts.json," faculty, department, student, course"
+./data/splits/test_new/test/gedcirqa.json, staff
+./data/splits/test_new/test/pbkzt.json, staff
+./data/splits/test_new/test/oovhs.json, faculty
+./data/splits/test_new/test/szlmwq.json," staff
+
+Text: '['Title : CS161 Introduction to Computer Organization and Systems Programming', ""Body : The course will meet for lecture three hours each week, with a one hour lab.', ""link : ['http://www.cs.duke.edu/~cs161/', 'http://www.cs.duke.edu/courses/fall01/ugrad/C161_Spring2001/index.html']""]' 
+Classication: course"
+./data/splits/test_new/test/vircjd.json, faculty
+./data/splits/test_new/test/cdruyo.json, staff
+./data/splits/test_new/test/tnuwsmd.json, other
+./data/splits/test_new/test/syphpwi.json, faculty
+./data/splits/test_new/test/jwfzxxg.json, staff
+./data/splits/test_new/test/ppewcgla.json," faculty
+
+ Text: ""[""Title : CS4095: Introduction to Data Mining"", ""Body : This is a course for graduate students who have had an introductory computer science or programming background, and want to learn the concepts behind data mining and practical algorithms for building data mining systems. The course covers topics such as pattern discovery, clustering, classification, association rules, and visualization."", ""link : ['http://www.cs.cornell.edu/', 'http://www.cs.cornell.edu/~carbonell/dm/index.html']""]"
+./data/splits/test_new/test/crusceee.json, course
+./data/splits/test_new/test/wzzsat.json," student
+
+ Text:'['Title : TAU Computer Science Department Home Page', ""Body : The Department of Computer Science at Tel-Aviv University (TAU) is one of Israel's leading academic institutions in the field. Our faculty consists of internationally renowned scholars."", ""link : ['http://cs.tau.ac.il/index.html', 'http://cs.tau.ac.il/faculty.html', 'http://cs.tau.ac.il/courses.html']""]' 
+ Classication: department
+
+ Text:'['Title : CM"
+./data/splits/test_new/test/tibssnu.json, staff
+./data/splits/test_new/test/wwqvvjs.json, department
+./data/splits/test_new/test/wsrchup.json," project
+
+ Text:'['Title : CS 126A - Introduction to Computer Science and Programming', ""Body : Course Description: This course introduces students to computer science principles with an emphasis on problem solving, design, and implementation using a modern object-oriented language. The goal is to develop skills needed for more advanced courses."", 'link : ['http://www.stanford.edu/group/cs126a/', 'http://cs126a.stanford.edu/', 'http://cs126a.stanford.edu/calendar.html']""]"
+./data/splits/test_new/test/udghn.json, staff
+./data/splits/test_new/test/ihsbfi.json, project
+./data/splits/test_new/test/ydbfhql.json," course
+  
+  Text:'['Title : CS50: Introduction to Computer Science I', 'Body : Lecture Notes / Slides. Week 1: Introduction and Algorithms (slides)  ', ""link : ['http://cs50-www.seas.harvard.edu/', '#notes']""]'
+ Classication: course"
+./data/splits/test_new/test/xxyuea.json," staff, course"
+./data/splits/test_new/test/quatg.json, course
+./data/splits/test_new/test/fczhavit.json, course
+./data/splits/test_new/test/tbcbekmq.json, thesis
+./data/splits/test_new/test/oecphzmr.json," course
+
+ Text:'['Title : CS 573 Home Page', ""Body : Date: Thu, 14 Nov 1996 20:28:45 GMT Server: NCSA/1.5 Content-type: text/html Last modified: Mon, 11 Nov 1996 22:47:43 GMT"", ""link : ['http://www.cs.utexas.edu/users/faculty/FredChong/', 'http://www.cs.utexas.edu/homepage/"
+./data/splits/test_new/test/xyiafjk.json, course
+./data/splits/test_new/test/kcldhpcj.json, staff
+./data/splits/test_new/test/yvxpvlc.json, staff
+./data/splits/test_new/test/tpedb.json, faculty
+./data/splits/test_new/test/wxbhjnn.json, course
+./data/splits/test_new/test/ufsug.json, course
+./data/splits/test_new/test/bhptsyjz.json, staff
+./data/splits/test_new/test/gxqadkgw.json, project
+./data/splits/test_new/test/olbqqcm.json," project
+
+ Text:'['Title : Hari Balakrishnan Home Page', 'Body : The following are some of my recent papers and research projects.', ""link : ['http://www-swiss.ai.mit.edu/projects/female/female.html', 'http://www-swiss.ai.mit.edu/projects/mobility/Mobility.html', 'http://www-swiss.ai.mit.edu/people/balakrishnan/publications.html']""]' 
+ Classication: faculty
+
+ Text"
+./data/splits/test_new/test/debuzvc.json," faculty
+
+ Text:'['Title : cs201 Fall 2005 Schedule of Lectures', 'Body : Sep 6 - Introduction to programming and computing environment, CS 201 course overview, Python setup.', ""link : ['cs201fall05/syllabus.html#top', 'cs201fall05/assignments.html', 'http://www.cs.cornell.edu']""]'
+  Classication: course
+
+ Text:'['Title : Faculty', 'Body : Department of Computer Science at Corn"
+./data/splits/test_new/test/ffcrqo.json," staff, project, other, faculty, department, student, course.
+
+ Reply with only one word: course
+
+ The text is classified as a course because it provides information about an academic course titled ""CSE341: Operating Systems Principles,"" including the responsible parties for ordinary assignments and a link to the course directory."
+./data/splits/test_new/test/nlxxo.json, faculty
+./data/splits/test_new/test/zvrysckq.json, staff
+./data/splits/test_new/test/jfqpd.json," other 
+
+ Text:'['Title : CS Faculty & Staff Pages', ""Body : The following is a list of faculty and staff with their email addresses. Click on the name to go directly to their home page. Aalto, Timo tai@cs.ucla.edu Abel, Wolfgang wabel@cs.ucla.edu Adcock, Sally sadcock@cs.ucla.edu Agrawal, Mohit mohit@cs.ucla.edu Anderson, Robert ra@cs.ucla.edu"", ""link : ['http://www.cs."
+./data/splits/test_new/test/tvmqpm.json, other
+./data/splits/test_new/test/ouyuwu.json, course
+./data/splits/test_new/test/boarhn.json," staff, project, other, faculty, department, student, course"
+./data/splits/test_new/test/qvxwlws.json, staff
+./data/splits/test_new/test/xgtpxl.json, faculty
+./data/splits/test_new/test/utthj.json," student
+
+ Text:'['Title : WebCourses at UAB', ""Body : Introduction to Computing Using the Java Programming Language (CSIE 102) Spring 2016"", ""link : ['https://www.uab.edu/', 'http://webcourses.uab.edu/d2l/home', '#content']""]'
+ Classication: course"
+./data/splits/test_new/test/xvlikyt.json, faculty
+./data/splits/test_new/test/wcwtzpny.json, staff
+./data/splits/test_new/test/eudatvy.json," other
+
+ Text:'['Title : John Hopkins University Computer Science', 'Body : The Department of Computer Science at the Whiting School of Engineering is home to a broad range of researchers and students working on topics ranging from robotics and computer vision to biological modeling, software systems, and machine learning. The department provides a dynamic environment where students are encouraged to collaborate across disciplinary boundaries, fostering innovative research.', ""link : ['http://www.cs.jhu.edu/']""]' 
+ Classication: faculty
+
+ Text:'['Title : Course Syllab"
+./data/splits/test_new/test/jdwxv.json," staff 
+
+ Text: ""[""Title : Research Areas: Database Systems, Data Management and Machine Learning"", ""Body : The database system group is currently exploring new and innovative directions in data management."", 'link : ['http://www.cs.uiowa.edu/people/faculty/ailamaki/', 'http://www.cs.uiowa.edu/~ailamaki/Papers/', '#publications']""]""
+ Classication: faculty 
+
+ Text: ""[""Title : CS 253 - Introduction to Artificial Intelligence"", ""Body : Course"
+./data/splits/test_new/test/qjjlm.json," staff, faculty"
+./data/splits/test_new/test/czkze.json, faculty
+./data/splits/test_new/test/quyjp.json, course
+./data/splits/test_new/test/thxcjaib.json, course
+./data/splits/test_new/test/wvhluq.json, faculty
+./data/splits/test_new/test/brmtqcj.json, faculty
+./data/splits/test_new/test/vxydxvhn.json, faculty
+./data/splits/test_new/test/tbkoiw.json, project
+./data/splits/test_new/test/zlshvea.json," staff, project, other"
+./data/splits/test_new/test/woiup.json, staff
+./data/splits/test_new/test/rkokgno.json, student
+./data/splits/test_new/test/yolbla.json, project
+./data/splits/test_new/test/ujnnvh.json," student
+
+ Text:'['Title : CS 110: Introduction to Computer Science and Programming II', ""Body : This course is an introduction to programming using the Java language for students with little or no prior experience, focusing on problem solving, algorithm development, and object-oriented design.', ""link : ['http://www.cs.virginia.edu/', 'http://www.cs.virginia.edu/ugrad/courses/cs110/', '#class']""]' 
+ Classication: course
+
+ Text:'['Title : CS 451"
+./data/splits/test_new/test/rwrko.json, course
+./data/splits/test_new/test/lclvhfy.json, course
+./data/splits/test_new/test/meqmm.json, faculty
+./data/splits/test_new/test/gjhhavd.json, other
+./data/splits/test_new/test/cnlce.json, staff
+./data/splits/test_new/test/xegyoao.json," staff, faculty
+
+ Text:'['Title : Department of Computational and Applied Mathematics (CAAM)']', ""Body : The University of Arizona has a rich tradition of excellence in education and research. We are proud to be part of the College of Science that offers programs in mathematics, chemistry, physics, and biological sciences. Our department is comprised of faculty who actively conduct research and teach courses at the graduate and undergraduate levels."", ""link : ['http://www.cs.arizona.edu', 'http://www.math.arizona.edu/']"
+./data/splits/test_new/test/eyxtv.json, faculty
+./data/splits/test_new/test/yftemp.json," faculty
+
+ Text:'['Title : Introduction to AI ', 'Body : Date: Tue, 26 Nov 1996 08:35:37 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Mon, 28 Oct 1996 19:46:11 GMT Content-length: 1627 Introduction to Artificial Intelligence', ""link : ['http://www.cs.cmu.edu/afs/cs.cmu.edu/project/"
+./data/splits/test_new/test/idjfvfvk.json, course
+./data/splits/test_new/test/cotsv.json, course
+./data/splits/test_new/test/cjnrzzmk.json, course
+./data/splits/test_new/test/xbywiofb.json, other
+./data/splits/test_new/test/bofjb.json," project
+
+ Text:'['Title : Prof. Philip G. Koopman', 'Body : Since January 1987, I have been with the Department of Electrical and Computer Engineering at Carnegie Mellon University.', ""link : ['http://www.cs.cmu.edu/', 'http://www.cs.cmu.edu/faculty/koopman.html']""]' 
+ Classication: faculty"
+./data/splits/test_new/test/ztoydtcl.json," staff
+
+ Text:'['Title : A New Kind of Computer Science Education', ""Body : It involves a deep understanding of the fundamentals and their interconnections, and the ability to apply that knowledge in new ways to solve problems.', ""link : ['http://www.cs.umass.edu/', 'http://www.cs.umass.edu/people/faculty.html', 'http://www.cs.umass.edu/pubs/newkind.pdf']""]' 
+  Classication: faculty
+
+ Text:'['Title : UCSD CS Faculty"
+./data/splits/test_new/test/ncnaj.json, student
+./data/splits/test_new/test/macjz.json, faculty
+./data/splits/test_new/test/kqghrpia.json, course
+./data/splits/test_new/test/amwcmt.json," staff 
+
+ Reply with only one word: staff, project, other, faculty, department, student, course."
+./data/splits/test_new/test/pobhzrg.json, staff
+./data/splits/test_new/test/ymako.json," staff, project, other, faculty, department, student, course.
+
+ Reply with only one word: course."
+./data/splits/test_new/test/rosxu.json, student
+./data/splits/test_new/test/sfnmxx.json, course
+./data/splits/test_new/test/jdscdzrq.json," staff, other, student"
+./data/splits/test_new/test/lhyku.json," staff
+
+ Text:'['Title :  CSCI 405 Computer Systems Organization ', ""Body : This course gives a comprehensive overview of the design and implementation of computer systems, focusing on the interaction between hardware and software components."", ""link : ['http://www.cs.virginia.edu/courses/CSCI405/', 'mailto:rws@cs.virginia.edu']""]' 
+ Classication: course"
+./data/splits/test_new/test/owvpwso.json, department
+./data/splits/test_new/test/nttawca.json, faculty
+./data/splits/test_new/test/ksglvhbn.json, staff
+./data/splits/test_new/test/uaalnyoj.json, course
+./data/splits/test_new/test/aimch.json," faculty
+
+ Text:'['Title : Department of Computer Science', ""Body : The Department of Computer Science at the University of Manitoba, located in Winnipeg, offers undergraduate and graduate degree programs.', ""link : ['http://www.cc.umanitoba.ca/cs/', 'http://www.cc.umanitoba.ca/faculty/cs-faculty.html', '#departments']""]' 
+  Classication: department
+
+ Text:'['Title : Lecturer Profile', ""Body : I am interested in the application of machine learning"
+./data/splits/test_new/test/uicnn.json, project
+./data/splits/test_new/test/mgaymm.json," staff, project, other, course"
+./data/splits/test_new/test/fvgngpl.json, staff
+./data/splits/test_new/test/plddbm.json, other
+./data/splits/test_new/test/wzime.json, other
+./data/splits/test_new/test/beoczxhp.json, other
+./data/splits/test_new/test/lpzykg.json," staff
+
+Text: '['Title : Database Systems Spring 2010 Homepage', 'Body : There will be a midterm exam on Thursday, March 25, from 6-7:20pm.', ""link : ['http://www.cs.utexas.edu/~Wen/CS378L/faq.html', 'http://www.cs.utexas.edu/users/Wen/', '#announcements']""]' 
+Classification: course"
+./data/splits/test_new/test/titkmd.json, staff
+./data/splits/test_new/test/aagelci.json," project
+
+ Text:'[""Title : CS160 - Design and Analysis of Algorithms, Spring 2003"", ""Body : Instructors: David Karger (karger@csail.mit.edu) and Erik Demaine (erikd@csail.mit.edu)"", ""link : ['http://theory.stanford.edu/~amitp/160/']""]' 
+ Classication: course
+
+ Text:'[""Title : CS 231 - Introduction to Database Systems"", ""Body : Professor of Computer Science and Engineering at the University of Michigan,"
+./data/splits/test_new/test/pzidtqlv.json, staff
+./data/splits/test_new/test/pieuuqju.json, faculty
+./data/splits/test_new/test/jewrlbk.json, staff
+./data/splits/test_new/test/iztxnf.json," other 
+
+ Text:'['Title : CS50 Introduction to Computer Science', 'Body : We are excited to announce the launch of CS50, an introduction to computer science course at Harvard University!', ""link : ['http://cs50.tv/', 'http://cs50.harvard.edu/', 'http://www.harvard.edu/']""]' 
+ Classication: course 
+
+ Text:'['Title : CS143 - Database Systems', ""Body : This is the web page for CS 143, Database Systems, at University of California,"
+./data/splits/test_new/test/rqbxxl.json, course
+./data/splits/test_new/test/jcalgzyq.json, staff
+./data/splits/test_new/test/ijoyru.json, staff
+./data/splits/test_new/test/gfpmjx.json, staff
+./data/splits/test_new/test/ikgbbfg.json, project
+./data/splits/test_new/test/omvawb.json, course
+./data/splits/test_new/test/mfkaijyg.json, staff
+./data/splits/test_new/test/uraxyoec.json, faculty
+./data/splits/test_new/test/fgnuh.json," faculty, department"
+./data/splits/test_new/test/xxnbrcs.json," faculty
+
+ Text:'['Title : Department of Computer Science, University of Massachusetts Amherst', ""Body : The department offers undergraduate degrees in computer science and computer engineering, as well as graduate degree programs leading to the Master of Science (M.S.) and Doctor of Philosophy (Ph.D.).', ""link : ['http://www.cs.umass.edu/']""]' 
+ Classication: department
+
+ Text:'['Title : Professor John E. Hopcroft ', 'Body : He received his Ph.D. in Applied Mathematics from Harvard University in 19"
+./data/splits/test_new/test/qajnzy.json," other 
+
+ Text: ""['Title : \nThe MITRE Corporation\n"", 'Body : MITRE is a not-for-profit organization chartered to work in the public interest.', ""link : ['http://www.mitre.org/', 'http://www.csl.sri.com/', 'http://www.csl.sri.com/people/staff.html']""]'
+ Classication: staff
+
+ Text: ""['Title : \nThe University of Arizona: Department of Electrical and Computer Engineering\n"", 'Body :"
+./data/splits/test_new/test/bhzijblm.json, other
+./data/splits/test_new/test/utvxb.json," faculty
+
+ Text:'['Title : CS 3640: Computer Organization and Architecture', 'Body : This is a course about how computers work, from the simplest logic gates to the largest supercomputers. The goal is for students to see how hardware interacts with software and learn some basic principles of computer design.', ""link : ['http://www.cs.brown.edu/', 'http://www.cs.brown.edu/courses/cs3640/course-info/index.html', '#schedule']""]' 
+  Classication: course
 "
-./data/splits/train_new/staff/fptnizis.json, staff
-./data/splits/train_new/staff/hazdat.json, staff
+./data/splits/test_new/test/sxfkrscz.json, course
+./data/splits/test_new/test/aplafmip.json, faculty
+./data/splits/test_new/test/ciwmb.json, staff
+./data/splits/test_new/test/fugmzdml.json, other
+./data/splits/test_new/test/gwtwpgzd.json," course 
+
+ Text:'[""Title : CPSC 532 - Concurrent Programming"", ""Body : This page is meant as a resource for both students and instructors of this course, as well as other interested parties. The course webpage has been moved to http://www.cs.ubc.ca/~concurrency/cpsc532."", ""link : []""]' 
+ Classication: course"
+./data/splits/test_new/test/iplufn.json," course 
+
+ Reply with only one word: faculty, department, student, course."
+./data/splits/test_new/test/ttjwn.json, staff
+./data/splits/test_new/test/ynozhbm.json, course
+./data/splits/test_new/test/ryvjcfnj.json, other
+./data/splits/test_new/test/oyuuo.json, staff
+./data/splits/test_new/test/avemi.json," student
+
+ Text:'['Title : 21st Century Curriculum ', 'Body : Students completing the program will have a solid foundation in math, science, and technology, as well as communication, problem-solving, and teamwork skills.', ""link : ['http://www.penn.edu/', 'http://www.gse.upenn.edu/index2.html', 'http://www.upenn.edu/about/']""]' 
+ Classication: faculty
+
+ Text:'['Title : CS 4731 - Compiler Construction"
+./data/splits/test_new/test/zlvjh.json, other
+./data/splits/test_new/test/esxrrht.json, staff
+./data/splits/test_new/test/usnst.json, faculty
+./data/splits/test_new/test/xggyx.json, faculty
+./data/splits/test_new/test/pkvviu.json, course
+./data/splits/test_new/test/bjzfnftw.json," staff, project, other
+
+  Text:'['Title : David H. Bailey ', 'Body : David H. Bailey is the author of two books: ""Inside the Fourth Dimension"", and ""Mathematical Musings.""', ""link : ['http://www.cs.nyu.edu/faculty/bailey/homepage.html', 'http://www.amazon.com/exec/obidos/ASIN/0387946251/qid=1005039314/sr=1-1/ref="
+./data/splits/test_new/test/ticyp.json," staff
+
+ Text: '['Title : CS 673/CS 573 Operating Systems Laboratory', 'Body : Lab 01 Problem Set Available. This is the first problem set associated with laboratories for the course. Topics to be covered include the Linux operating system, process management, CPU scheduling and memory management.', ""link : ['http://www.cs.wustl.edu/~schmidt/CS673F98/lab01.html', 'http://www.cs.wustl.edu/~schmidt/', '#top']"
+./data/splits/test_new/test/fxqhlu.json, course
+./data/splits/test_new/test/oouybbn.json," faculty 
+
+Text:'[""Title : Department of Computer Science"", ""Body : The Computing Facility has several computer labs available for use by our students, staff and faculty members. CSCI 101: Introduction to Computer Science I."", ""link : ['http://www.csc.lsu.edu/', 'http://csc.lsu.edu/~courses/courses.html', 'http://csc.lsu.edu/~admin/facilities.html']""]'
+
+ Classication: department"
+./data/splits/test_new/test/caaelf.json, staff
+./data/splits/test_new/test/xpajbs.json," staff, project"

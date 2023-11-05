@@ -73,9 +73,20 @@ link
 
 https://promptengineering.org/how-does-llama-2-compare-to-gpt-and-other-ai-language-models/
 
+https://github.com/Aschen/web-classification
+
+https://www.mlexpert.io/machine-learning/tutorials/alpaca-fine-tuning
+
+https://github.com/georgian-io/LLM-Finetuning-Hub
+
+https://www.maartengrootendorst.com/blog/improving-llms/
+https://medium.com/unstructured-io/setting-up-a-private-retrieval-augmented-generation-rag-system-with-local-vector-database-d42f34692ca7
+
 ## Citation
 
 It would be welcome citing my work if you use my codebase for your research.
+
+
 
 ```
 @software{Lee_Simple_Text_Classification_2023,
