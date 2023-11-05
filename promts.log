@@ -1,1 +1,0 @@
-{'id': 'cmpl-eae44a8b-4c09-4617-ba41-e1cd2ab98e2a', 'object': 'text_completion', 'created': 1698681716, 'model': './llama_models/llama-2-7b.Q8_0.gguf', 'choices': [{'text': 'Q: Name the planets in the solar system? A: 9.', 'index': 0, 'logprobs': None, 'finish_reason': 'stop'}], 'usage': {'prompt_tokens': 15, 'completion_tokens': 3, 'total_tokens': 18}}
