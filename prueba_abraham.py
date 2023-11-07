@@ -41,20 +41,17 @@ def get_archives(train_path):
 def creating_promt(class_name,text_traindata,text_classification):
   class_name=(', ').join(class_name)
   text_traindata = ('\n\n').join([f" Text:'{text}' \n Classication: {label}" for text,label in text_traindata])
-
-  return f"Classify the text given in one of this classes: {class_name}. Reply with only the name of the class. \n\
+  return f" Classify the text in this class : {class_name}. Reply with only one word:  {class_name}. \n\
   Examples: \n\
   {text_traindata} \n\n\
   Text: '{text_classification}' \n\
   Classication: "
+  # return f"Classify the text given in one of this classes: {class_name}. Reply with only the name of the class. \n\
+  # Examples: \n\
+  # {text_traindata} \n\n\
+  # Text: '{text_classification}' \n\
+  # Classication: "
 
-# def creating_promt_3(class_name,text_traindata,text_classification):
-#   class_name=(', ').join(class_name)
-#   text_traindata = ('\n\n').join([f" Text:'{text}' \n Classication: {label}" for text,label in text_traindata])
-#   return f"<s>[INST] <<SYS>> You are a helpful assistant. <</SYS>> Classify the text in this class : [{class_name}]. Reply with only one of these words: [{class_name}. \n\
-#   Text: '{text}' \n\
-#   Classication: \n\
-#   [/INST] "
 
 def get_all_files(path_data,max_cont=-1):
     classes=get_class(path_data)
@@ -93,13 +90,15 @@ logging.basicConfig(filename=log_filename, level=logging.INFO, format="%(asctime
 
 # Inicializa Llama
 # Inicializa Llama y guarda la información del modelo en el registro
-model_path = "./llama_models/llama-2-7b.Q4_K_M.gguf"
+# model_path = "./llama_models/llama-2-7b.Q4_K_M.gguf"
+model_path = "./llama_models/llama2-chat-ayb-13b.Q5_K_M.gguf"
 logging.info("Modelo: %s", model_path)
 
 
 llm = Llama(model_path=model_path, n_ctx=4096)
 
-llm_gpu = ()
+llm_gpu = Llama(model_path=model_path, 
+            n_gpu_layers=28, n_threads=6, n_ctx=3584, n_batch=521, verbose=True)
 
 
 class_name=get_class('./data/splits/train')
@@ -117,13 +116,6 @@ fecha_actual = datetime.now()
 sufijo_fecha = fecha_actual.strftime("%Y-%m-%d_%H-%M-%S")
 nombre_archivo_con_fecha = f"resultados_{sufijo_fecha}.json"
 
-# for prompt in tqdm(prompts,desc="promting"):
-#     name,prompt=prompt
-#     logging.info("Prompt: %s", prompt)
-#     result=promting(llm,prompt,logging)
-#     datos_a_guardar.append((name,result))
-#     guardar_en_json(nombre_archivo_con_fecha, datos_a_guardar)   
-
 palabras_clave = ['course', 'department', 'faculty', 'other', 'project', 'staff', 'student']
 
 for prompt in tqdm(prompts, desc="promting"):
@@ -136,7 +128,8 @@ for prompt in tqdm(prompts, desc="promting"):
     while not resultado_valido:
         intentos += 1  # Incrementar el contador de intentos
         # Ejecutar la función de prompting
-        result = promting(llm, prompt_text, logging)
+        # result = promting(llm, prompt_text, logging)
+        result = promting(llm_gpu, prompt_text, logging)
         
         # Verificar si alguna palabra clave está en el resultado
         if any(palabra in result for palabra in palabras_clave):
