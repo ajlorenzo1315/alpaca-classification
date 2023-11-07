@@ -7,7 +7,7 @@ import json
 from datetime import datetime
 
 def guardar_en_json(nombre_archivo, datos):
-    cabecera = ['Titulo', 'Resultado']
+    cabecera = ['Titulo', 'Resultado', 'Intentos']
 
     for dato in datos:
         datos = dict(zip(cabecera, dato))
@@ -117,12 +117,38 @@ fecha_actual = datetime.now()
 sufijo_fecha = fecha_actual.strftime("%Y-%m-%d_%H-%M-%S")
 nombre_archivo_con_fecha = f"resultados_{sufijo_fecha}.json"
 
-for prompt in tqdm(prompts,desc="promting"):
-    name,prompt=prompt
-    logging.info("Prompt: %s", prompt)
-    result=promting(llm,prompt,logging)
-    datos_a_guardar.append((name,result))
-    guardar_en_json(nombre_archivo_con_fecha, datos_a_guardar)   
+# for prompt in tqdm(prompts,desc="promting"):
+#     name,prompt=prompt
+#     logging.info("Prompt: %s", prompt)
+#     result=promting(llm,prompt,logging)
+#     datos_a_guardar.append((name,result))
+#     guardar_en_json(nombre_archivo_con_fecha, datos_a_guardar)   
+
+palabras_clave = ['course', 'department', 'faculty', 'other', 'project', 'staff', 'student']
+
+for prompt in tqdm(prompts, desc="promting"):
+    name, prompt_text = prompt
+    logging.info("Prompt: %s", prompt_text)
+    resultado_valido = False
+    result = None
+    intentos = 0  # Inicializar contador de intentos
+    
+    while not resultado_valido:
+        intentos += 1  # Incrementar el contador de intentos
+        # Ejecutar la función de prompting
+        result = promting(llm, prompt_text, logging)
+        
+        # Verificar si alguna palabra clave está en el resultado
+        if any(palabra in result for palabra in palabras_clave):
+            # Escoger la primera palabra clave encontrada
+            result = next((palabra for palabra in palabras_clave if palabra in result), result)
+            resultado_valido = True
+        else:
+            logging.info("Resultado no válido, repitiendo el prompting para: %s", name)
+    
+    # Una vez obtenido un resultado válido, guardarlo
+    datos_a_guardar.append((name, result, intentos))
+    guardar_en_json(nombre_archivo_con_fecha, datos_a_guardar)
 
 # Cierra el archivo de registro
 logging.shutdown()
