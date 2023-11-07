@@ -1,5 +1,6 @@
 [
     {
+        "Prompt": "Classify the text given in one of this classes: {class_name}. Reply with only the name of the class. \n\n Examples: \n\n 'text_traindata' \n\n Text: 'text_classification' \n\n Classication: ",
         "Tiempo": "promting: 100%|████████| 1658/1658 [6:00:28<00:00, 13.04s/it]"
     },
     {

@@ -42,7 +42,7 @@ def creating_promt(class_name,text_traindata,text_classification):
   class_name=(', ').join(class_name)
   text_traindata = ('\n\n').join([f" Text:'{text}' \n Classication: {label}" for text,label in text_traindata])
 
-  return f" Classify the text in this class : {class_name}. Reply with only one word:  {class_name}. \n\
+  return f"Classify the text given in one of this classes: {class_name}. Reply with only the name of the class. \n\
   Examples: \n\
   {text_traindata} \n\n\
   Text: '{text_classification}' \n\
