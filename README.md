@@ -80,7 +80,21 @@ https://www.mlexpert.io/machine-learning/tutorials/alpaca-fine-tuning
 https://github.com/georgian-io/LLM-Finetuning-Hub
 
 https://www.maartengrootendorst.com/blog/improving-llms/
+
 https://medium.com/unstructured-io/setting-up-a-private-retrieval-augmented-generation-rag-system-with-local-vector-database-d42f34692ca7
+
+https://github.com/abetlen/llama-cpp-python/issues/506
+
+https://sh-tsang.medium.com/review-rag-model-retrieval-augmented-generation-for-knowledge-intensive-nlp-tasks-82374b830b81
+
+
+https://github.com/ray-project/llm-applications/blob/main/notebooks/rag.ipynb
+
+https://github.com/ray-project/llm-applications/tree/main
+
+https://github.com/zjunlp/PromptKG
+
+https://agi-sphere.com/retrieval-augmented-generation-llama2/
 
 ## Citation
 

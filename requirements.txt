@@ -10,3 +10,6 @@ isort
 flake8
 langchain
 sentence-transformers
+faiss-gpu
+ray
+rag

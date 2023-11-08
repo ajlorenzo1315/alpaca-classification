@@ -1,0 +1,64 @@
+Para generar un modelo RAG para clasificar páginas web, basándonos en el ejemplo de HTML que proporcionaste y en un notebook que podría ser similar al de Llama 2-13b RetrievalQA, seguirías estos pasos:
+
+    Preprocesamiento de Datos:
+        Extraer texto y metadatos relevantes del HTML.
+        Limpiar el texto para eliminar etiquetas y código innecesario.
+        Estructurar la información en un formato adecuado para el entrenamiento, como pares de pregunta-respuesta o entrada-salida.
+
+    Construcción del Dataset:
+        Convertir los datos preprocesados en un formato de dataset que el modelo de recuperación (retriever) pueda utilizar.
+        El dataset debe contener la información relevante que quieres que el RAG utilice para la clasificación.
+
+    Entrenamiento del Retriever:
+        Utilizar un modelo de recuperación de información como Dense Passage Retrieval (DPR) para entrenar el retriever con el dataset.
+        Asegurarte de que el modelo puede recuperar información relevante basada en las consultas que se le hagan.
+
+    Integración del Generador:
+        Conectar el retriever con un modelo generativo, como GPT-2 o GPT-3.
+        Configurar el modelo generativo para que tome la información recuperada por el retriever y la utilice para generar la clasificación deseada.
+
+    Entrenamiento del Modelo RAG:
+        Entrenar el RAG con ejemplos de clasificación de páginas web.
+        Asegurarte de que el modelo generativo aprenda a producir la clasificación correcta basada en la información recuperada.
+
+    Evaluación y Ajustes:
+        Evaluar el modelo en un conjunto de datos de prueba para ver cómo clasifica nuevas páginas web.
+        Ajustar el entrenamiento y la configuración del modelo según sea necesario para mejorar la precisión.
+
+    Despliegue:
+        Desplegar el modelo RAG en un entorno donde pueda recibir páginas web en HTML y devolver clasificaciones.
+
+Para proceder, necesitaríamos acceder al notebook para ver el código específico y cómo se implementan estos pasos allí. Vamos a abrir el notebook que has proporcionado y revisar su contenido para brindarte una guía más detallada.
+
+The output from the notebook is too extensive to be displayed in full here. However, from the part that is visible, it appears that the notebook contains code cells, possibly with instructions for training or utilizing a RAG model, or some other form of text generation or retrieval based on a given prompt.
+
+To proceed, I'll parse the notebook content to identify the relevant sections and code snippets that pertain to building a RAG model for web page classification. Once we have this information, we can understand the flow and logic of the notebook, which will help in adapting it to classify HTML content as provided in your example. Let's go ahead and parse through the notebook content.​
+
+​
+
+The notebook appears to be structured as follows:
+
+    Installation of necessary libraries.
+    Initialization of an embedding pipeline using Hugging Face models.
+    Creation of document embeddings.
+    Building a vector index and initializing it with Pinecone (a vector database service).
+    Embedding documents and querying the index.
+    Integration of the retriever with a large language model (LLM) to create a RAG pipeline.
+    Testing of the RAG pipeline with different prompts to compare responses with and without the retrieval component.
+
+For creating a RAG model for web page classification, you would adapt the notebook to:
+
+    Embed Web Pages: Use the embedding model to transform your web pages into vector embeddings.
+
+    Build and Initialize the Vector Index: Store the embeddings in a vector index so they can be efficiently retrieved later.
+
+    Create RAG Pipeline: Integrate the retriever (vector index) with an LLM to create a RAG pipeline. The retriever will fetch relevant document embeddings based on the input, and the LLM will use this information to generate the classification.
+
+    Classify Web Pages: Feed your HTML content to the RAG pipeline and get classifications in return.
+
+You would need to feed in your HTML content to the model in a preprocessed format, perhaps by extracting text and relevant metadata and creating a representation that the model can understand.
+
+The specific cells that would likely be most relevant for your task are the ones related to building the vector index and initializing it (cells with indices 6, 7, and 8), embedding documents and querying the index (cells with indices 9 to 34), and creating the RAG pipeline (cells with indices 35 and 36).
+
+Now, if you would like to proceed with adapting the code from this notebook to work with your data, we can start by extracting text from your example HTML and preparing it for embedding and classification. Would you like to proceed with this next step?​
+​

@@ -95,7 +95,10 @@ ERROR: Could not build wheels for faiss-gpu, which is required to install pyproj
 solutuion
 
 
+conda install -c conda-forge faiss-gpu
 conda install faiss-gpu
 
 pip cache purge
 pip install --upgrade pip
+
+#-c pytorch

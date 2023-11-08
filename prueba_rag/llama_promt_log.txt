@@ -1,0 +1,703 @@
+2023-11-07 18:47:48,368 - INFO - Classify the text in this class : [staff, project, other, faculty, department, student, course]. Reply with only one of these words: [staff, project, other, faculty, department, student, course]. 
+  Text: '../data/splits/train_new_short/staff/brryz.json' 
+  Classication: 
+2023-11-07 18:47:54,913 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2023-11-07 18:47:55,446 - INFO - Created a temporary directory at /tmp/tmpw5rlqee8
+2023-11-07 18:47:55,446 - INFO - Writing /tmp/tmpw5rlqee8/_remote_module_non_scriptable.py
+2023-11-07 18:49:20,148 - INFO - Classify the text in this class : [staff, project, other, faculty, department, student, course]. Reply with only one of these words: [staff, project, other, faculty, department, student, course]. 
+  Text: '({'Title': 'Werner Vogels', 'Body': 'If we want to take our distributed systems to a global scope, there is a need to find a generic mechanism to support failure suspision, detection and management of processes, nodes and networks.', 'link': ['mailto:vogels@cs.cornell.edu', 'http://www.cs.cornell.edu/Info/Projects/HORUS', 'http://www.cs.cornell.edu/Info/Projects/ATM']}, 'staff')' 
+  Classication: 
+2023-11-07 18:55:09,186 - INFO - Classify the text in this class : [staff, project, other, faculty, department, student, course]. Reply with only one of these words: [staff, project, other, faculty, department, student, course]. 
+  Text: '{'Title': 'Werner Vogels', 'Body': 'If we want to take our distributed systems to a global scope, there is a need to find a generic mechanism to support failure suspision, detection and management of processes, nodes and networks.', 'link': ['mailto:vogels@cs.cornell.edu', 'http://www.cs.cornell.edu/Info/Projects/HORUS', 'http://www.cs.cornell.edu/Info/Projects/ATM']}' 
+  Classication: 
+2023-11-07 18:55:09,186 - INFO -  Classify the text in this class : staff, project, other, faculty, department, student, course. Reply with only one word:  staff, project, other, faculty, department, student, course. 
+  Examples: 
+   Text:'{'Title': 'Werner Vogels', 'Body': 'If we want to take our distributed systems to a global scope, there is a need to find a generic mechanism to support failure suspision, detection and management of processes, nodes and networks.', 'link': ['mailto:vogels@cs.cornell.edu', 'http://www.cs.cornell.edu/Info/Projects/HORUS', 'http://www.cs.cornell.edu/Info/Projects/ATM']}' 
+ Classication: staff
+
+ Text:'{'Title': 'Jason Collins', 'Body': "Date: Tue, 26 Nov 1996 19:24:33 GMT Server: NCSA/1.5.1 Last-modified: Wed, 30 Oct 1996 17:45:00 GMT Content-type: text/html Content-length: 2607 Jason Collins La Page de Jason Collins I'm currently working as a Research Associate at the University of Saskatchewan Department of Computer Science .", 'link': ['http://www.usask.ca', 'http://www.cs.usask.ca', 'http://www.cs.usask.ca/projects/aries/']}' 
+ Classication: staff
+
+ Text:'{'Title': 'LARGE-SCALE PARALLEL SOFTWARE GROUP', 'Body': 'Some of the projects in the group are conducted jointly with the Parallel and Distributed Operating Systems Group.', 'link': ['http://www.psg.lcs.mit.edu/', 'http://www.psg.lcs.mit.edu/~weihl', 'http://www.pdos.lcs.mit.edu/']}' 
+ Classication: project
+
+ Text:'{'Title': '\nSimultaneous Multithreading home page\n', 'Body': 'People Faculty Susan Eggers Hank Levy Graduate students Jack Lo Dean Tullsen Industrial collaborators (Digital Equipment Corporation) Joel S. Emer Rebecca L. Stamm Publications Converting Thread-Level Parallelism Into Instruction-Level Parallelism via Simultaneous Multithreading ( Abstract , Postscript ) J.L.', 'link': ['http://www.cs.washington.edu/research/smt/index.html#Overview', 'http://www.cs.washington.edu/research/smt/index.html#People', 'http://www.cs.washington.edu/research/smt/index.html#Publications']}' 
+ Classication: project
+
+ Text:'{'Title': " Dave's Faves ", 'Body': "Symphony 4 - Sibelius III I IV Selling England by the Pound - Genesis Dancing with the Moonlit Knight The Cinema Show Firth of Fifth Pure - Godflesh & Don't Bring Me Flowers Pure II I Wasn't Born to Follow Mind: The Perpetual Intercourse - Skinny Puppy & Dig It(Remix) One Time One Place Antagonism Louder Than Bombs - The Smiths Shoplifters of the World Unite* Sheila Takes a Bow Hand in Glove Closer - Joy Division twenty four hours* the eternal heart and soul Secrets of the Beehive - David Sylvian Waterfront Orpheus The Devil's Own The End Complete - Obituary The End Complete* Back to One I'm In Pain 99% - Meat Beat Manifesto Psyche Out Deviate Now Land of Rape and Honey - Ministry & The Missing/Deity* You Know What You Are Golden Dawn Heaven or Las Vegas - Cocteau Twins Fotzepolitic* Heaven or Las Vegas Road, river and rail The Low End Theory - A Tribe Called Quest Scenario Rap Promoter Butter Symphony 6 - Mahler III I IV Black Sheets of Rain - Bob Mould One Good Reason Sacrifice/Let There Be Peace It's Too Late Tomb of the Mutilated - Cannibal Corpse Addicted to Vaginal Skin Hammer Smashed Face Beyond the Cemetery Gone to Earth - David Sylvian Album 1: Before the Bullfight Riverman Wave Album 2: Home* Answered Prayers Where the Railroad Meets the Sea Melissa - Mercyful Fate Into the Coven* Curse of the Pharoahs Satan's Fall Belief - Nitzer Ebb captivate shame for fun Duck Stab - The Residents Hello Skinny* The Electrocutioner The Sinister Exaggerator Never Mind the Bollocks... - Sex Pistols New York No Feelings Holidays in the Sun Slow Waves, Soft Stars - Anthony Phillips Vanishing Streets/Slow Waves, Soft Stars Ice Flight End of the Affair Fear, Emptiness, Despair - Napalm Death Remain Nameless* Hung Twist the Knife (Slowly) String Quartet 4 - Shostakovich 1: Allegretto IV: Allegretto II: Andantino ...And Then There Were Three - Genesis Undertow* Burning Rope Follow You Follow Me Pictures at an Exhibition - arr.", 'link': []}' 
+ Classication: other
+
+ Text:'{'Title': 'CSE/ENGR 142 Reference List', 'Body': "What's more, when you buy the book you get a diskette with the full text of the book in HTML.", 'link': ['cbooks.txt', 'cbooks.txt', 'http://vinny.csd.mu.edu']}' 
+ Classication: other
+
+ Text:'{'Title': ' Michael T. Goodrich ', 'Body': 'He is co-director of the Center for Geometric Computing at Johns Hopkins University, which is part of a larger collaborative center at Brown, Duke and Johns Hopkins, and is supported by the Army Research Office.', 'link': ['http://www.cs.jhu.edu/~goodrich/goodrich.gif', 'http://www.cs.jhu.edu/goodrich/publications.html', 'http://www.cs.jhu.edu/goodrich/colleagues.html']}' 
+ Classication: faculty
+
+ Text:'{'Title': 'Daniel E. Atkins', 'Body': 'Date: Mon, 25 Nov 1996 23:15:55 GMT Server: NCSA/1.5.2 Last-modified: Thu, 14 Nov 1996 16:28:18 GMT Content-type: text/html Content-length: 2551 Daniel E. Atkins Daniel E. Atkins Dean and Professor, School of Information (SI) Professor, Electrical Engineering and Computer Science Office Address School of Information The University of Michigan 304 West Hall 550 East University Ann Arbor, Michigan 48109-1092 Voice: (313) 647-3576 E-mail: atkins@umich.edu Fax: (313) 764-2475 For additional information about Dr. Atkins, please explore the documents listed below.', 'link': ['mailto:atkins@umich.edu', 'http://www.sils.umich.edu/hp/ai/bulletin/dean.html', 'http://www.sils.umich.edu/People/atkins/brief-bio.html']}' 
+ Classication: faculty
+
+ Text:'{'Title': 'Arizona Computer Science: Home Page', 'Body': "Date: Tue, 26 Nov 1996 22:40:41 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Mon, 28 Oct 1996 20:09:55 GMT Content-length: 3876 Arizona Computer Science: Home Page Overview: The Department, Faculty, The University, Tucson and Arizona Degree Programs: Bachelor's, Master's, Doctorate, Doctoral Minor, Related Majors Graduate Admissions: Requirements, Prerequisites, Financial Aid Courses: Course Catalog, Class Schedules for Spring, Summer, Fall Research: Projects, Colloquium Speakers Jobs: Faculty Positions, Research Staff Positions, Graduating Student Résumés, Doctoral Candidates Alumni: Alumni People: Faculty, Technical Staff, Administration, Visiting Scholars, Students Other Servers: Internal Server, CS Bibliography Search, Technical Reports, FTP Area, JapanCS Department of Computer Science The University of Arizona Gould-Simpson Building, Room 721 1040 E. Fourth St. Tucson, AZ  85721-0077 (520) 621-6613 (520) 621-4246 [FAX] other addresses visiting us [ Top of Page | Department Home Page ] http://www.cs.arizona.edu/index.html Last updated October 28, 1996 Wendy Swartz (webmaster@cs.arizona.edu)", 'link': ['http://www.cs.arizona.edu/general/department.html', 'http://www.cs.arizona.edu/personnel/faculty.html', 'http://www.arizona.edu/']}' 
+ Classication: department
+
+ Text:'{'Title': ' EECS Department at Lehigh University ', 'Body': "Date: Tue, 26 Nov 1996 22:53:51 GMT Server: NCSA/1.5.1 Last-modified: Fri, 15 Nov 1996 01:12:22 GMT Content-type: text/html Content-length: 1986 EECS Department at Lehigh University Lehigh University 's We are hosting part of the Mid-Atlantic region of the ACM programming contest.", 'link': ['http://www.lehigh.edu', 'http://renoir.vill.edu:80/~midatl/', 'http://www.eecs.lehigh.edu/acmcontest.html']}' 
+ Classication: department
+
+ Text:'{'Title': 'David Rey Rodriguez Information Page', 'Body': 'I also graduated from the Georgia Institute of Technology with a Bachelor of Electrical Engineering in 1991.', 'link': ['http://www.gatech.edu/gvutop.html', 'http://www.gatech.edu/gvutop.html', 'http://www.gatech.edu/gvu/Faculty/Jessica.K.Hodgins.html']}' 
+ Classication: student
+
+ Text:'{'Title': 'Home Page: Ping Yuan', 'Body': 'If you have any questions or comments about the page, please let me know.', 'link': ['mailto: ping@cs.ualberta.ca', 'http://www.cs.ualberta.ca/cgi-bin/finger?ping@cs.ualberta.ca', 'http://web.cs.ualberta.ca/~ping/']}' 
+ Classication: student
+
+ Text:'{'Title': 'CS 495/Math 405 Analysis of Algorithms Home Page', 'Body': 'Solutions to homework one are available now.', 'link': ['http://www.cs.uidaho.edu/faculty/foster.html', 'http://www.cs.uidaho.edu/~foster/495s96/syllabus.html', '#announcements']}' 
+ Classication: course
+
+ Text:'{'Title': 'CSc425/525 Home Page', 'Body': 'Date: Wed, 15 Jan 1997 00:07:09 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Wed, 08 Jan 1997 18:03:16 GMT Content-length: 2365 CSc425/525 Home Page CSc 425/525 Principles of Computer Networking This course is an introduction to the principles of computer networking.', 'link': ['http://www.cs.arizona.edu/classes/cs452', 'http://www.cs.arizona.edu/people/llp', 'mailto:llp@cs']}' 
+ Classication: course 
+
+  Text: '{'Title': 'Werner Vogels', 'Body': 'If we want to take our distributed systems to a global scope, there is a need to find a generic mechanism to support failure suspision, detection and management of processes, nodes and networks.', 'link': ['mailto:vogels@cs.cornell.edu', 'http://www.cs.cornell.edu/Info/Projects/HORUS', 'http://www.cs.cornell.edu/Info/Projects/ATM']}' 
+  Classication: 
+2023-11-07 18:55:15,270 - INFO - {'dimension': 384,
+ 'index_fullness': 0.066,
+ 'namespaces': {'': {'vector_count': 6600}},
+ 'total_vector_count': 6600}
+2023-11-07 18:55:16,942 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2023-11-07 18:55:17,489 - INFO - Created a temporary directory at /tmp/tmpppk0s5c7
+2023-11-07 18:55:17,489 - INFO - Writing /tmp/tmpppk0s5c7/_remote_module_non_scriptable.py
+2023-11-07 18:55:19,369 - INFO - 
+
+2
+
+
+2023-11-07 18:55:36,636 - INFO - 
+  staff
+2023-11-07 18:55:57,905 - INFO - Classify the text in this class : [staff, project, other, faculty, department, student, course]. Reply with only one of these words: [staff, project, other, faculty, department, student, course]. 
+  Text: '{'Title': 'Werner Vogels', 'Body': 'If we want to take our distributed systems to a global scope, there is a need to find a generic mechanism to support failure suspision, detection and management of processes, nodes and networks.', 'link': ['mailto:vogels@cs.cornell.edu', 'http://www.cs.cornell.edu/Info/Projects/HORUS', 'http://www.cs.cornell.edu/Info/Projects/ATM']}' 
+  Classication: 
+2023-11-07 18:55:57,905 - INFO -  Classify the text in this class : staff, project, other, faculty, department, student, course. Reply with only one word:  staff, project, other, faculty, department, student, course. 
+  Examples: 
+   Text:'{'Title': 'Werner Vogels', 'Body': 'If we want to take our distributed systems to a global scope, there is a need to find a generic mechanism to support failure suspision, detection and management of processes, nodes and networks.', 'link': ['mailto:vogels@cs.cornell.edu', 'http://www.cs.cornell.edu/Info/Projects/HORUS', 'http://www.cs.cornell.edu/Info/Projects/ATM']}' 
+ Classication: staff
+
+ Text:'{'Title': 'Jason Collins', 'Body': "Date: Tue, 26 Nov 1996 19:24:33 GMT Server: NCSA/1.5.1 Last-modified: Wed, 30 Oct 1996 17:45:00 GMT Content-type: text/html Content-length: 2607 Jason Collins La Page de Jason Collins I'm currently working as a Research Associate at the University of Saskatchewan Department of Computer Science .", 'link': ['http://www.usask.ca', 'http://www.cs.usask.ca', 'http://www.cs.usask.ca/projects/aries/']}' 
+ Classication: staff
+
+ Text:'{'Title': 'LARGE-SCALE PARALLEL SOFTWARE GROUP', 'Body': 'Some of the projects in the group are conducted jointly with the Parallel and Distributed Operating Systems Group.', 'link': ['http://www.psg.lcs.mit.edu/', 'http://www.psg.lcs.mit.edu/~weihl', 'http://www.pdos.lcs.mit.edu/']}' 
+ Classication: project
+
+ Text:'{'Title': '\nSimultaneous Multithreading home page\n', 'Body': 'People Faculty Susan Eggers Hank Levy Graduate students Jack Lo Dean Tullsen Industrial collaborators (Digital Equipment Corporation) Joel S. Emer Rebecca L. Stamm Publications Converting Thread-Level Parallelism Into Instruction-Level Parallelism via Simultaneous Multithreading ( Abstract , Postscript ) J.L.', 'link': ['http://www.cs.washington.edu/research/smt/index.html#Overview', 'http://www.cs.washington.edu/research/smt/index.html#People', 'http://www.cs.washington.edu/research/smt/index.html#Publications']}' 
+ Classication: project
+
+ Text:'{'Title': " Dave's Faves ", 'Body': "Symphony 4 - Sibelius III I IV Selling England by the Pound - Genesis Dancing with the Moonlit Knight The Cinema Show Firth of Fifth Pure - Godflesh & Don't Bring Me Flowers Pure II I Wasn't Born to Follow Mind: The Perpetual Intercourse - Skinny Puppy & Dig It(Remix) One Time One Place Antagonism Louder Than Bombs - The Smiths Shoplifters of the World Unite* Sheila Takes a Bow Hand in Glove Closer - Joy Division twenty four hours* the eternal heart and soul Secrets of the Beehive - David Sylvian Waterfront Orpheus The Devil's Own The End Complete - Obituary The End Complete* Back to One I'm In Pain 99% - Meat Beat Manifesto Psyche Out Deviate Now Land of Rape and Honey - Ministry & The Missing/Deity* You Know What You Are Golden Dawn Heaven or Las Vegas - Cocteau Twins Fotzepolitic* Heaven or Las Vegas Road, river and rail The Low End Theory - A Tribe Called Quest Scenario Rap Promoter Butter Symphony 6 - Mahler III I IV Black Sheets of Rain - Bob Mould One Good Reason Sacrifice/Let There Be Peace It's Too Late Tomb of the Mutilated - Cannibal Corpse Addicted to Vaginal Skin Hammer Smashed Face Beyond the Cemetery Gone to Earth - David Sylvian Album 1: Before the Bullfight Riverman Wave Album 2: Home* Answered Prayers Where the Railroad Meets the Sea Melissa - Mercyful Fate Into the Coven* Curse of the Pharoahs Satan's Fall Belief - Nitzer Ebb captivate shame for fun Duck Stab - The Residents Hello Skinny* The Electrocutioner The Sinister Exaggerator Never Mind the Bollocks... - Sex Pistols New York No Feelings Holidays in the Sun Slow Waves, Soft Stars - Anthony Phillips Vanishing Streets/Slow Waves, Soft Stars Ice Flight End of the Affair Fear, Emptiness, Despair - Napalm Death Remain Nameless* Hung Twist the Knife (Slowly) String Quartet 4 - Shostakovich 1: Allegretto IV: Allegretto II: Andantino ...And Then There Were Three - Genesis Undertow* Burning Rope Follow You Follow Me Pictures at an Exhibition - arr.", 'link': []}' 
+ Classication: other
+
+ Text:'{'Title': 'CSE/ENGR 142 Reference List', 'Body': "What's more, when you buy the book you get a diskette with the full text of the book in HTML.", 'link': ['cbooks.txt', 'cbooks.txt', 'http://vinny.csd.mu.edu']}' 
+ Classication: other
+
+ Text:'{'Title': ' Michael T. Goodrich ', 'Body': 'He is co-director of the Center for Geometric Computing at Johns Hopkins University, which is part of a larger collaborative center at Brown, Duke and Johns Hopkins, and is supported by the Army Research Office.', 'link': ['http://www.cs.jhu.edu/~goodrich/goodrich.gif', 'http://www.cs.jhu.edu/goodrich/publications.html', 'http://www.cs.jhu.edu/goodrich/colleagues.html']}' 
+ Classication: faculty
+
+ Text:'{'Title': 'Daniel E. Atkins', 'Body': 'Date: Mon, 25 Nov 1996 23:15:55 GMT Server: NCSA/1.5.2 Last-modified: Thu, 14 Nov 1996 16:28:18 GMT Content-type: text/html Content-length: 2551 Daniel E. Atkins Daniel E. Atkins Dean and Professor, School of Information (SI) Professor, Electrical Engineering and Computer Science Office Address School of Information The University of Michigan 304 West Hall 550 East University Ann Arbor, Michigan 48109-1092 Voice: (313) 647-3576 E-mail: atkins@umich.edu Fax: (313) 764-2475 For additional information about Dr. Atkins, please explore the documents listed below.', 'link': ['mailto:atkins@umich.edu', 'http://www.sils.umich.edu/hp/ai/bulletin/dean.html', 'http://www.sils.umich.edu/People/atkins/brief-bio.html']}' 
+ Classication: faculty
+
+ Text:'{'Title': 'Arizona Computer Science: Home Page', 'Body': "Date: Tue, 26 Nov 1996 22:40:41 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Mon, 28 Oct 1996 20:09:55 GMT Content-length: 3876 Arizona Computer Science: Home Page Overview: The Department, Faculty, The University, Tucson and Arizona Degree Programs: Bachelor's, Master's, Doctorate, Doctoral Minor, Related Majors Graduate Admissions: Requirements, Prerequisites, Financial Aid Courses: Course Catalog, Class Schedules for Spring, Summer, Fall Research: Projects, Colloquium Speakers Jobs: Faculty Positions, Research Staff Positions, Graduating Student Résumés, Doctoral Candidates Alumni: Alumni People: Faculty, Technical Staff, Administration, Visiting Scholars, Students Other Servers: Internal Server, CS Bibliography Search, Technical Reports, FTP Area, JapanCS Department of Computer Science The University of Arizona Gould-Simpson Building, Room 721 1040 E. Fourth St. Tucson, AZ  85721-0077 (520) 621-6613 (520) 621-4246 [FAX] other addresses visiting us [ Top of Page | Department Home Page ] http://www.cs.arizona.edu/index.html Last updated October 28, 1996 Wendy Swartz (webmaster@cs.arizona.edu)", 'link': ['http://www.cs.arizona.edu/general/department.html', 'http://www.cs.arizona.edu/personnel/faculty.html', 'http://www.arizona.edu/']}' 
+ Classication: department
+
+ Text:'{'Title': ' EECS Department at Lehigh University ', 'Body': "Date: Tue, 26 Nov 1996 22:53:51 GMT Server: NCSA/1.5.1 Last-modified: Fri, 15 Nov 1996 01:12:22 GMT Content-type: text/html Content-length: 1986 EECS Department at Lehigh University Lehigh University 's We are hosting part of the Mid-Atlantic region of the ACM programming contest.", 'link': ['http://www.lehigh.edu', 'http://renoir.vill.edu:80/~midatl/', 'http://www.eecs.lehigh.edu/acmcontest.html']}' 
+ Classication: department
+
+ Text:'{'Title': 'David Rey Rodriguez Information Page', 'Body': 'I also graduated from the Georgia Institute of Technology with a Bachelor of Electrical Engineering in 1991.', 'link': ['http://www.gatech.edu/gvutop.html', 'http://www.gatech.edu/gvutop.html', 'http://www.gatech.edu/gvu/Faculty/Jessica.K.Hodgins.html']}' 
+ Classication: student
+
+ Text:'{'Title': 'Home Page: Ping Yuan', 'Body': 'If you have any questions or comments about the page, please let me know.', 'link': ['mailto: ping@cs.ualberta.ca', 'http://www.cs.ualberta.ca/cgi-bin/finger?ping@cs.ualberta.ca', 'http://web.cs.ualberta.ca/~ping/']}' 
+ Classication: student
+
+ Text:'{'Title': 'CS 495/Math 405 Analysis of Algorithms Home Page', 'Body': 'Solutions to homework one are available now.', 'link': ['http://www.cs.uidaho.edu/faculty/foster.html', 'http://www.cs.uidaho.edu/~foster/495s96/syllabus.html', '#announcements']}' 
+ Classication: course
+
+ Text:'{'Title': 'CSc425/525 Home Page', 'Body': 'Date: Wed, 15 Jan 1997 00:07:09 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Wed, 08 Jan 1997 18:03:16 GMT Content-length: 2365 CSc425/525 Home Page CSc 425/525 Principles of Computer Networking This course is an introduction to the principles of computer networking.', 'link': ['http://www.cs.arizona.edu/classes/cs452', 'http://www.cs.arizona.edu/people/llp', 'mailto:llp@cs']}' 
+ Classication: course 
+
+  Text: '{'Title': 'Werner Vogels', 'Body': 'If we want to take our distributed systems to a global scope, there is a need to find a generic mechanism to support failure suspision, detection and management of processes, nodes and networks.', 'link': ['mailto:vogels@cs.cornell.edu', 'http://www.cs.cornell.edu/Info/Projects/HORUS', 'http://www.cs.cornell.edu/Info/Projects/ATM']}' 
+  Classication: 
+2023-11-07 18:56:04,422 - INFO - {'dimension': 384,
+ 'index_fullness': 0.066,
+ 'namespaces': {'': {'vector_count': 6600}},
+ 'total_vector_count': 6600}
+2023-11-07 18:56:06,146 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2023-11-07 18:56:06,686 - INFO - Created a temporary directory at /tmp/tmp1gy0ezc2
+2023-11-07 18:56:06,686 - INFO - Writing /tmp/tmp1gy0ezc2/_remote_module_non_scriptable.py
+2023-11-07 18:56:08,318 - INFO - 
+
+2
+
+
+2023-11-07 18:56:24,076 - INFO - 
+  staff
+2023-11-07 18:56:47,577 - INFO - {'query': "Classify the text in this class : [staff, project, other, faculty, department, student, course]. Reply with only one of these words: [staff, project, other, faculty, department, student, course]. \n  Text: '{'Title': 'Werner Vogels', 'Body': 'If we want to take our distributed systems to a global scope, there is a need to find a generic mechanism to support failure suspision, detection and management of processes, nodes and networks.', 'link': ['mailto:vogels@cs.cornell.edu', 'http://www.cs.cornell.edu/Info/Projects/HORUS', 'http://www.cs.cornell.edu/Info/Projects/ATM']}' \n  Classication: ", 'result': ' faculty'}
+2023-11-07 18:56:47,578 - INFO - 
+
+1
+
+
+2023-11-07 19:05:40,055 - INFO -  staff
+
+  Text: {'Title': 'Jason Collins', 'Body': "Date: Tue, 26 Nov 1996 19:24:33 GMT Server: NCSA/1.5.1 Last-modified: Wed, 30 Oct 1996 17:45:00 GMT Content-type: text/html Content-length: 2607 Jason Collins La Page de Jason Collins I'm currently working as a Research Associate at the University of Saskatchewan Department of Computer Science .",
+2023-11-07 19:28:03,239 - INFO - Classify the text in this class : [staff, project, other, faculty, department, student, course]. Reply with only one of these words: [staff, project, other, faculty, department, student, course]. 
+  Text: '{'Title': 'Werner Vogels', 'Body': 'If we want to take our distributed systems to a global scope, there is a need to find a generic mechanism to support failure suspision, detection and management of processes, nodes and networks.', 'link': ['mailto:vogels@cs.cornell.edu', 'http://www.cs.cornell.edu/Info/Projects/HORUS', 'http://www.cs.cornell.edu/Info/Projects/ATM']}' 
+  Classication: 
+2023-11-07 19:28:03,240 - INFO -  Classify the text in this class : staff, project, other, faculty, department, student, course. Reply with only one word:  staff, project, other, faculty, department, student, course. 
+  Examples: 
+   Text:'{'Title': 'Werner Vogels', 'Body': 'If we want to take our distributed systems to a global scope, there is a need to find a generic mechanism to support failure suspision, detection and management of processes, nodes and networks.', 'link': ['mailto:vogels@cs.cornell.edu', 'http://www.cs.cornell.edu/Info/Projects/HORUS', 'http://www.cs.cornell.edu/Info/Projects/ATM']}' 
+ Classication: staff
+
+ Text:'{'Title': 'Jason Collins', 'Body': "Date: Tue, 26 Nov 1996 19:24:33 GMT Server: NCSA/1.5.1 Last-modified: Wed, 30 Oct 1996 17:45:00 GMT Content-type: text/html Content-length: 2607 Jason Collins La Page de Jason Collins I'm currently working as a Research Associate at the University of Saskatchewan Department of Computer Science .", 'link': ['http://www.usask.ca', 'http://www.cs.usask.ca', 'http://www.cs.usask.ca/projects/aries/']}' 
+ Classication: staff
+
+ Text:'{'Title': 'LARGE-SCALE PARALLEL SOFTWARE GROUP', 'Body': 'Some of the projects in the group are conducted jointly with the Parallel and Distributed Operating Systems Group.', 'link': ['http://www.psg.lcs.mit.edu/', 'http://www.psg.lcs.mit.edu/~weihl', 'http://www.pdos.lcs.mit.edu/']}' 
+ Classication: project
+
+ Text:'{'Title': '\nSimultaneous Multithreading home page\n', 'Body': 'People Faculty Susan Eggers Hank Levy Graduate students Jack Lo Dean Tullsen Industrial collaborators (Digital Equipment Corporation) Joel S. Emer Rebecca L. Stamm Publications Converting Thread-Level Parallelism Into Instruction-Level Parallelism via Simultaneous Multithreading ( Abstract , Postscript ) J.L.', 'link': ['http://www.cs.washington.edu/research/smt/index.html#Overview', 'http://www.cs.washington.edu/research/smt/index.html#People', 'http://www.cs.washington.edu/research/smt/index.html#Publications']}' 
+ Classication: project
+
+ Text:'{'Title': " Dave's Faves ", 'Body': "Symphony 4 - Sibelius III I IV Selling England by the Pound - Genesis Dancing with the Moonlit Knight The Cinema Show Firth of Fifth Pure - Godflesh & Don't Bring Me Flowers Pure II I Wasn't Born to Follow Mind: The Perpetual Intercourse - Skinny Puppy & Dig It(Remix) One Time One Place Antagonism Louder Than Bombs - The Smiths Shoplifters of the World Unite* Sheila Takes a Bow Hand in Glove Closer - Joy Division twenty four hours* the eternal heart and soul Secrets of the Beehive - David Sylvian Waterfront Orpheus The Devil's Own The End Complete - Obituary The End Complete* Back to One I'm In Pain 99% - Meat Beat Manifesto Psyche Out Deviate Now Land of Rape and Honey - Ministry & The Missing/Deity* You Know What You Are Golden Dawn Heaven or Las Vegas - Cocteau Twins Fotzepolitic* Heaven or Las Vegas Road, river and rail The Low End Theory - A Tribe Called Quest Scenario Rap Promoter Butter Symphony 6 - Mahler III I IV Black Sheets of Rain - Bob Mould One Good Reason Sacrifice/Let There Be Peace It's Too Late Tomb of the Mutilated - Cannibal Corpse Addicted to Vaginal Skin Hammer Smashed Face Beyond the Cemetery Gone to Earth - David Sylvian Album 1: Before the Bullfight Riverman Wave Album 2: Home* Answered Prayers Where the Railroad Meets the Sea Melissa - Mercyful Fate Into the Coven* Curse of the Pharoahs Satan's Fall Belief - Nitzer Ebb captivate shame for fun Duck Stab - The Residents Hello Skinny* The Electrocutioner The Sinister Exaggerator Never Mind the Bollocks... - Sex Pistols New York No Feelings Holidays in the Sun Slow Waves, Soft Stars - Anthony Phillips Vanishing Streets/Slow Waves, Soft Stars Ice Flight End of the Affair Fear, Emptiness, Despair - Napalm Death Remain Nameless* Hung Twist the Knife (Slowly) String Quartet 4 - Shostakovich 1: Allegretto IV: Allegretto II: Andantino ...And Then There Were Three - Genesis Undertow* Burning Rope Follow You Follow Me Pictures at an Exhibition - arr.", 'link': []}' 
+ Classication: other
+
+ Text:'{'Title': 'CSE/ENGR 142 Reference List', 'Body': "What's more, when you buy the book you get a diskette with the full text of the book in HTML.", 'link': ['cbooks.txt', 'cbooks.txt', 'http://vinny.csd.mu.edu']}' 
+ Classication: other
+
+ Text:'{'Title': ' Michael T. Goodrich ', 'Body': 'He is co-director of the Center for Geometric Computing at Johns Hopkins University, which is part of a larger collaborative center at Brown, Duke and Johns Hopkins, and is supported by the Army Research Office.', 'link': ['http://www.cs.jhu.edu/~goodrich/goodrich.gif', 'http://www.cs.jhu.edu/goodrich/publications.html', 'http://www.cs.jhu.edu/goodrich/colleagues.html']}' 
+ Classication: faculty
+
+ Text:'{'Title': 'Daniel E. Atkins', 'Body': 'Date: Mon, 25 Nov 1996 23:15:55 GMT Server: NCSA/1.5.2 Last-modified: Thu, 14 Nov 1996 16:28:18 GMT Content-type: text/html Content-length: 2551 Daniel E. Atkins Daniel E. Atkins Dean and Professor, School of Information (SI) Professor, Electrical Engineering and Computer Science Office Address School of Information The University of Michigan 304 West Hall 550 East University Ann Arbor, Michigan 48109-1092 Voice: (313) 647-3576 E-mail: atkins@umich.edu Fax: (313) 764-2475 For additional information about Dr. Atkins, please explore the documents listed below.', 'link': ['mailto:atkins@umich.edu', 'http://www.sils.umich.edu/hp/ai/bulletin/dean.html', 'http://www.sils.umich.edu/People/atkins/brief-bio.html']}' 
+ Classication: faculty
+
+ Text:'{'Title': 'Arizona Computer Science: Home Page', 'Body': "Date: Tue, 26 Nov 1996 22:40:41 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Mon, 28 Oct 1996 20:09:55 GMT Content-length: 3876 Arizona Computer Science: Home Page Overview: The Department, Faculty, The University, Tucson and Arizona Degree Programs: Bachelor's, Master's, Doctorate, Doctoral Minor, Related Majors Graduate Admissions: Requirements, Prerequisites, Financial Aid Courses: Course Catalog, Class Schedules for Spring, Summer, Fall Research: Projects, Colloquium Speakers Jobs: Faculty Positions, Research Staff Positions, Graduating Student Résumés, Doctoral Candidates Alumni: Alumni People: Faculty, Technical Staff, Administration, Visiting Scholars, Students Other Servers: Internal Server, CS Bibliography Search, Technical Reports, FTP Area, JapanCS Department of Computer Science The University of Arizona Gould-Simpson Building, Room 721 1040 E. Fourth St. Tucson, AZ  85721-0077 (520) 621-6613 (520) 621-4246 [FAX] other addresses visiting us [ Top of Page | Department Home Page ] http://www.cs.arizona.edu/index.html Last updated October 28, 1996 Wendy Swartz (webmaster@cs.arizona.edu)", 'link': ['http://www.cs.arizona.edu/general/department.html', 'http://www.cs.arizona.edu/personnel/faculty.html', 'http://www.arizona.edu/']}' 
+ Classication: department
+
+ Text:'{'Title': ' EECS Department at Lehigh University ', 'Body': "Date: Tue, 26 Nov 1996 22:53:51 GMT Server: NCSA/1.5.1 Last-modified: Fri, 15 Nov 1996 01:12:22 GMT Content-type: text/html Content-length: 1986 EECS Department at Lehigh University Lehigh University 's We are hosting part of the Mid-Atlantic region of the ACM programming contest.", 'link': ['http://www.lehigh.edu', 'http://renoir.vill.edu:80/~midatl/', 'http://www.eecs.lehigh.edu/acmcontest.html']}' 
+ Classication: department
+
+ Text:'{'Title': 'David Rey Rodriguez Information Page', 'Body': 'I also graduated from the Georgia Institute of Technology with a Bachelor of Electrical Engineering in 1991.', 'link': ['http://www.gatech.edu/gvutop.html', 'http://www.gatech.edu/gvutop.html', 'http://www.gatech.edu/gvu/Faculty/Jessica.K.Hodgins.html']}' 
+ Classication: student
+
+ Text:'{'Title': 'Home Page: Ping Yuan', 'Body': 'If you have any questions or comments about the page, please let me know.', 'link': ['mailto: ping@cs.ualberta.ca', 'http://www.cs.ualberta.ca/cgi-bin/finger?ping@cs.ualberta.ca', 'http://web.cs.ualberta.ca/~ping/']}' 
+ Classication: student
+
+ Text:'{'Title': 'CS 495/Math 405 Analysis of Algorithms Home Page', 'Body': 'Solutions to homework one are available now.', 'link': ['http://www.cs.uidaho.edu/faculty/foster.html', 'http://www.cs.uidaho.edu/~foster/495s96/syllabus.html', '#announcements']}' 
+ Classication: course
+
+ Text:'{'Title': 'CSc425/525 Home Page', 'Body': 'Date: Wed, 15 Jan 1997 00:07:09 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Wed, 08 Jan 1997 18:03:16 GMT Content-length: 2365 CSc425/525 Home Page CSc 425/525 Principles of Computer Networking This course is an introduction to the principles of computer networking.', 'link': ['http://www.cs.arizona.edu/classes/cs452', 'http://www.cs.arizona.edu/people/llp', 'mailto:llp@cs']}' 
+ Classication: course 
+
+  Text: '{'Title': 'Werner Vogels', 'Body': 'If we want to take our distributed systems to a global scope, there is a need to find a generic mechanism to support failure suspision, detection and management of processes, nodes and networks.', 'link': ['mailto:vogels@cs.cornell.edu', 'http://www.cs.cornell.edu/Info/Projects/HORUS', 'http://www.cs.cornell.edu/Info/Projects/ATM']}' 
+  Classication: 
+2023-11-07 19:28:11,667 - INFO - {'dimension': 384,
+ 'index_fullness': 0.066,
+ 'namespaces': {'': {'vector_count': 6600}},
+ 'total_vector_count': 6600}
+2023-11-07 19:28:13,420 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2023-11-07 19:28:13,984 - INFO - Created a temporary directory at /tmp/tmpbbkp75ky
+2023-11-07 19:28:13,984 - INFO - Writing /tmp/tmpbbkp75ky/_remote_module_non_scriptable.py
+2023-11-07 19:29:01,841 - INFO - Classify the text in this class : [staff, project, other, faculty, department, student, course]. Reply with only one of these words: [staff, project, other, faculty, department, student, course]. 
+  Text: '{'Title': 'Werner Vogels', 'Body': 'If we want to take our distributed systems to a global scope, there is a need to find a generic mechanism to support failure suspision, detection and management of processes, nodes and networks.', 'link': ['mailto:vogels@cs.cornell.edu', 'http://www.cs.cornell.edu/Info/Projects/HORUS', 'http://www.cs.cornell.edu/Info/Projects/ATM']}' 
+  Classication: 
+2023-11-07 19:29:01,841 - INFO -  Classify the text in this class : staff, project, other, faculty, department, student, course. Reply with only one word:  staff, project, other, faculty, department, student, course. 
+  Examples: 
+   Text:'{'Title': 'Werner Vogels', 'Body': 'If we want to take our distributed systems to a global scope, there is a need to find a generic mechanism to support failure suspision, detection and management of processes, nodes and networks.', 'link': ['mailto:vogels@cs.cornell.edu', 'http://www.cs.cornell.edu/Info/Projects/HORUS', 'http://www.cs.cornell.edu/Info/Projects/ATM']}' 
+ Classication: staff
+
+ Text:'{'Title': 'Jason Collins', 'Body': "Date: Tue, 26 Nov 1996 19:24:33 GMT Server: NCSA/1.5.1 Last-modified: Wed, 30 Oct 1996 17:45:00 GMT Content-type: text/html Content-length: 2607 Jason Collins La Page de Jason Collins I'm currently working as a Research Associate at the University of Saskatchewan Department of Computer Science .", 'link': ['http://www.usask.ca', 'http://www.cs.usask.ca', 'http://www.cs.usask.ca/projects/aries/']}' 
+ Classication: staff
+
+ Text:'{'Title': 'LARGE-SCALE PARALLEL SOFTWARE GROUP', 'Body': 'Some of the projects in the group are conducted jointly with the Parallel and Distributed Operating Systems Group.', 'link': ['http://www.psg.lcs.mit.edu/', 'http://www.psg.lcs.mit.edu/~weihl', 'http://www.pdos.lcs.mit.edu/']}' 
+ Classication: project
+
+ Text:'{'Title': '\nSimultaneous Multithreading home page\n', 'Body': 'People Faculty Susan Eggers Hank Levy Graduate students Jack Lo Dean Tullsen Industrial collaborators (Digital Equipment Corporation) Joel S. Emer Rebecca L. Stamm Publications Converting Thread-Level Parallelism Into Instruction-Level Parallelism via Simultaneous Multithreading ( Abstract , Postscript ) J.L.', 'link': ['http://www.cs.washington.edu/research/smt/index.html#Overview', 'http://www.cs.washington.edu/research/smt/index.html#People', 'http://www.cs.washington.edu/research/smt/index.html#Publications']}' 
+ Classication: project
+
+ Text:'{'Title': " Dave's Faves ", 'Body': "Symphony 4 - Sibelius III I IV Selling England by the Pound - Genesis Dancing with the Moonlit Knight The Cinema Show Firth of Fifth Pure - Godflesh & Don't Bring Me Flowers Pure II I Wasn't Born to Follow Mind: The Perpetual Intercourse - Skinny Puppy & Dig It(Remix) One Time One Place Antagonism Louder Than Bombs - The Smiths Shoplifters of the World Unite* Sheila Takes a Bow Hand in Glove Closer - Joy Division twenty four hours* the eternal heart and soul Secrets of the Beehive - David Sylvian Waterfront Orpheus The Devil's Own The End Complete - Obituary The End Complete* Back to One I'm In Pain 99% - Meat Beat Manifesto Psyche Out Deviate Now Land of Rape and Honey - Ministry & The Missing/Deity* You Know What You Are Golden Dawn Heaven or Las Vegas - Cocteau Twins Fotzepolitic* Heaven or Las Vegas Road, river and rail The Low End Theory - A Tribe Called Quest Scenario Rap Promoter Butter Symphony 6 - Mahler III I IV Black Sheets of Rain - Bob Mould One Good Reason Sacrifice/Let There Be Peace It's Too Late Tomb of the Mutilated - Cannibal Corpse Addicted to Vaginal Skin Hammer Smashed Face Beyond the Cemetery Gone to Earth - David Sylvian Album 1: Before the Bullfight Riverman Wave Album 2: Home* Answered Prayers Where the Railroad Meets the Sea Melissa - Mercyful Fate Into the Coven* Curse of the Pharoahs Satan's Fall Belief - Nitzer Ebb captivate shame for fun Duck Stab - The Residents Hello Skinny* The Electrocutioner The Sinister Exaggerator Never Mind the Bollocks... - Sex Pistols New York No Feelings Holidays in the Sun Slow Waves, Soft Stars - Anthony Phillips Vanishing Streets/Slow Waves, Soft Stars Ice Flight End of the Affair Fear, Emptiness, Despair - Napalm Death Remain Nameless* Hung Twist the Knife (Slowly) String Quartet 4 - Shostakovich 1: Allegretto IV: Allegretto II: Andantino ...And Then There Were Three - Genesis Undertow* Burning Rope Follow You Follow Me Pictures at an Exhibition - arr.", 'link': []}' 
+ Classication: other
+
+ Text:'{'Title': 'CSE/ENGR 142 Reference List', 'Body': "What's more, when you buy the book you get a diskette with the full text of the book in HTML.", 'link': ['cbooks.txt', 'cbooks.txt', 'http://vinny.csd.mu.edu']}' 
+ Classication: other
+
+ Text:'{'Title': ' Michael T. Goodrich ', 'Body': 'He is co-director of the Center for Geometric Computing at Johns Hopkins University, which is part of a larger collaborative center at Brown, Duke and Johns Hopkins, and is supported by the Army Research Office.', 'link': ['http://www.cs.jhu.edu/~goodrich/goodrich.gif', 'http://www.cs.jhu.edu/goodrich/publications.html', 'http://www.cs.jhu.edu/goodrich/colleagues.html']}' 
+ Classication: faculty
+
+ Text:'{'Title': 'Daniel E. Atkins', 'Body': 'Date: Mon, 25 Nov 1996 23:15:55 GMT Server: NCSA/1.5.2 Last-modified: Thu, 14 Nov 1996 16:28:18 GMT Content-type: text/html Content-length: 2551 Daniel E. Atkins Daniel E. Atkins Dean and Professor, School of Information (SI) Professor, Electrical Engineering and Computer Science Office Address School of Information The University of Michigan 304 West Hall 550 East University Ann Arbor, Michigan 48109-1092 Voice: (313) 647-3576 E-mail: atkins@umich.edu Fax: (313) 764-2475 For additional information about Dr. Atkins, please explore the documents listed below.', 'link': ['mailto:atkins@umich.edu', 'http://www.sils.umich.edu/hp/ai/bulletin/dean.html', 'http://www.sils.umich.edu/People/atkins/brief-bio.html']}' 
+ Classication: faculty
+
+ Text:'{'Title': 'Arizona Computer Science: Home Page', 'Body': "Date: Tue, 26 Nov 1996 22:40:41 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Mon, 28 Oct 1996 20:09:55 GMT Content-length: 3876 Arizona Computer Science: Home Page Overview: The Department, Faculty, The University, Tucson and Arizona Degree Programs: Bachelor's, Master's, Doctorate, Doctoral Minor, Related Majors Graduate Admissions: Requirements, Prerequisites, Financial Aid Courses: Course Catalog, Class Schedules for Spring, Summer, Fall Research: Projects, Colloquium Speakers Jobs: Faculty Positions, Research Staff Positions, Graduating Student Résumés, Doctoral Candidates Alumni: Alumni People: Faculty, Technical Staff, Administration, Visiting Scholars, Students Other Servers: Internal Server, CS Bibliography Search, Technical Reports, FTP Area, JapanCS Department of Computer Science The University of Arizona Gould-Simpson Building, Room 721 1040 E. Fourth St. Tucson, AZ  85721-0077 (520) 621-6613 (520) 621-4246 [FAX] other addresses visiting us [ Top of Page | Department Home Page ] http://www.cs.arizona.edu/index.html Last updated October 28, 1996 Wendy Swartz (webmaster@cs.arizona.edu)", 'link': ['http://www.cs.arizona.edu/general/department.html', 'http://www.cs.arizona.edu/personnel/faculty.html', 'http://www.arizona.edu/']}' 
+ Classication: department
+
+ Text:'{'Title': ' EECS Department at Lehigh University ', 'Body': "Date: Tue, 26 Nov 1996 22:53:51 GMT Server: NCSA/1.5.1 Last-modified: Fri, 15 Nov 1996 01:12:22 GMT Content-type: text/html Content-length: 1986 EECS Department at Lehigh University Lehigh University 's We are hosting part of the Mid-Atlantic region of the ACM programming contest.", 'link': ['http://www.lehigh.edu', 'http://renoir.vill.edu:80/~midatl/', 'http://www.eecs.lehigh.edu/acmcontest.html']}' 
+ Classication: department
+
+ Text:'{'Title': 'David Rey Rodriguez Information Page', 'Body': 'I also graduated from the Georgia Institute of Technology with a Bachelor of Electrical Engineering in 1991.', 'link': ['http://www.gatech.edu/gvutop.html', 'http://www.gatech.edu/gvutop.html', 'http://www.gatech.edu/gvu/Faculty/Jessica.K.Hodgins.html']}' 
+ Classication: student
+
+ Text:'{'Title': 'Home Page: Ping Yuan', 'Body': 'If you have any questions or comments about the page, please let me know.', 'link': ['mailto: ping@cs.ualberta.ca', 'http://www.cs.ualberta.ca/cgi-bin/finger?ping@cs.ualberta.ca', 'http://web.cs.ualberta.ca/~ping/']}' 
+ Classication: student
+
+ Text:'{'Title': 'CS 495/Math 405 Analysis of Algorithms Home Page', 'Body': 'Solutions to homework one are available now.', 'link': ['http://www.cs.uidaho.edu/faculty/foster.html', 'http://www.cs.uidaho.edu/~foster/495s96/syllabus.html', '#announcements']}' 
+ Classication: course
+
+ Text:'{'Title': 'CSc425/525 Home Page', 'Body': 'Date: Wed, 15 Jan 1997 00:07:09 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Wed, 08 Jan 1997 18:03:16 GMT Content-length: 2365 CSc425/525 Home Page CSc 425/525 Principles of Computer Networking This course is an introduction to the principles of computer networking.', 'link': ['http://www.cs.arizona.edu/classes/cs452', 'http://www.cs.arizona.edu/people/llp', 'mailto:llp@cs']}' 
+ Classication: course 
+
+  Text: '{'Title': 'Werner Vogels', 'Body': 'If we want to take our distributed systems to a global scope, there is a need to find a generic mechanism to support failure suspision, detection and management of processes, nodes and networks.', 'link': ['mailto:vogels@cs.cornell.edu', 'http://www.cs.cornell.edu/Info/Projects/HORUS', 'http://www.cs.cornell.edu/Info/Projects/ATM']}' 
+  Classication: 
+2023-11-07 19:29:11,444 - INFO - {'dimension': 384,
+ 'index_fullness': 0.066,
+ 'namespaces': {'': {'vector_count': 6600}},
+ 'total_vector_count': 6600}
+2023-11-07 19:29:13,092 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2023-11-07 19:29:13,635 - INFO - Created a temporary directory at /tmp/tmpqjvz1iik
+2023-11-07 19:29:13,636 - INFO - Writing /tmp/tmpqjvz1iik/_remote_module_non_scriptable.py
+2023-11-07 19:30:11,039 - INFO - Classify the text in this class : [staff, project, other, faculty, department, student, course]. Reply with only one of these words: [staff, project, other, faculty, department, student, course]. 
+  Text: '{'Title': 'Werner Vogels', 'Body': 'If we want to take our distributed systems to a global scope, there is a need to find a generic mechanism to support failure suspision, detection and management of processes, nodes and networks.', 'link': ['mailto:vogels@cs.cornell.edu', 'http://www.cs.cornell.edu/Info/Projects/HORUS', 'http://www.cs.cornell.edu/Info/Projects/ATM']}' 
+  Classication: 
+2023-11-07 19:30:11,039 - INFO -  Classify the text in this class : staff, project, other, faculty, department, student, course. Reply with only one word:  staff, project, other, faculty, department, student, course. 
+  Examples: 
+   Text:'{'Title': 'Werner Vogels', 'Body': 'If we want to take our distributed systems to a global scope, there is a need to find a generic mechanism to support failure suspision, detection and management of processes, nodes and networks.', 'link': ['mailto:vogels@cs.cornell.edu', 'http://www.cs.cornell.edu/Info/Projects/HORUS', 'http://www.cs.cornell.edu/Info/Projects/ATM']}' 
+ Classication: staff
+
+ Text:'{'Title': 'Jason Collins', 'Body': "Date: Tue, 26 Nov 1996 19:24:33 GMT Server: NCSA/1.5.1 Last-modified: Wed, 30 Oct 1996 17:45:00 GMT Content-type: text/html Content-length: 2607 Jason Collins La Page de Jason Collins I'm currently working as a Research Associate at the University of Saskatchewan Department of Computer Science .", 'link': ['http://www.usask.ca', 'http://www.cs.usask.ca', 'http://www.cs.usask.ca/projects/aries/']}' 
+ Classication: staff
+
+ Text:'{'Title': 'LARGE-SCALE PARALLEL SOFTWARE GROUP', 'Body': 'Some of the projects in the group are conducted jointly with the Parallel and Distributed Operating Systems Group.', 'link': ['http://www.psg.lcs.mit.edu/', 'http://www.psg.lcs.mit.edu/~weihl', 'http://www.pdos.lcs.mit.edu/']}' 
+ Classication: project
+
+ Text:'{'Title': '\nSimultaneous Multithreading home page\n', 'Body': 'People Faculty Susan Eggers Hank Levy Graduate students Jack Lo Dean Tullsen Industrial collaborators (Digital Equipment Corporation) Joel S. Emer Rebecca L. Stamm Publications Converting Thread-Level Parallelism Into Instruction-Level Parallelism via Simultaneous Multithreading ( Abstract , Postscript ) J.L.', 'link': ['http://www.cs.washington.edu/research/smt/index.html#Overview', 'http://www.cs.washington.edu/research/smt/index.html#People', 'http://www.cs.washington.edu/research/smt/index.html#Publications']}' 
+ Classication: project
+
+ Text:'{'Title': " Dave's Faves ", 'Body': "Symphony 4 - Sibelius III I IV Selling England by the Pound - Genesis Dancing with the Moonlit Knight The Cinema Show Firth of Fifth Pure - Godflesh & Don't Bring Me Flowers Pure II I Wasn't Born to Follow Mind: The Perpetual Intercourse - Skinny Puppy & Dig It(Remix) One Time One Place Antagonism Louder Than Bombs - The Smiths Shoplifters of the World Unite* Sheila Takes a Bow Hand in Glove Closer - Joy Division twenty four hours* the eternal heart and soul Secrets of the Beehive - David Sylvian Waterfront Orpheus The Devil's Own The End Complete - Obituary The End Complete* Back to One I'm In Pain 99% - Meat Beat Manifesto Psyche Out Deviate Now Land of Rape and Honey - Ministry & The Missing/Deity* You Know What You Are Golden Dawn Heaven or Las Vegas - Cocteau Twins Fotzepolitic* Heaven or Las Vegas Road, river and rail The Low End Theory - A Tribe Called Quest Scenario Rap Promoter Butter Symphony 6 - Mahler III I IV Black Sheets of Rain - Bob Mould One Good Reason Sacrifice/Let There Be Peace It's Too Late Tomb of the Mutilated - Cannibal Corpse Addicted to Vaginal Skin Hammer Smashed Face Beyond the Cemetery Gone to Earth - David Sylvian Album 1: Before the Bullfight Riverman Wave Album 2: Home* Answered Prayers Where the Railroad Meets the Sea Melissa - Mercyful Fate Into the Coven* Curse of the Pharoahs Satan's Fall Belief - Nitzer Ebb captivate shame for fun Duck Stab - The Residents Hello Skinny* The Electrocutioner The Sinister Exaggerator Never Mind the Bollocks... - Sex Pistols New York No Feelings Holidays in the Sun Slow Waves, Soft Stars - Anthony Phillips Vanishing Streets/Slow Waves, Soft Stars Ice Flight End of the Affair Fear, Emptiness, Despair - Napalm Death Remain Nameless* Hung Twist the Knife (Slowly) String Quartet 4 - Shostakovich 1: Allegretto IV: Allegretto II: Andantino ...And Then There Were Three - Genesis Undertow* Burning Rope Follow You Follow Me Pictures at an Exhibition - arr.", 'link': []}' 
+ Classication: other
+
+ Text:'{'Title': 'CSE/ENGR 142 Reference List', 'Body': "What's more, when you buy the book you get a diskette with the full text of the book in HTML.", 'link': ['cbooks.txt', 'cbooks.txt', 'http://vinny.csd.mu.edu']}' 
+ Classication: other
+
+ Text:'{'Title': ' Michael T. Goodrich ', 'Body': 'He is co-director of the Center for Geometric Computing at Johns Hopkins University, which is part of a larger collaborative center at Brown, Duke and Johns Hopkins, and is supported by the Army Research Office.', 'link': ['http://www.cs.jhu.edu/~goodrich/goodrich.gif', 'http://www.cs.jhu.edu/goodrich/publications.html', 'http://www.cs.jhu.edu/goodrich/colleagues.html']}' 
+ Classication: faculty
+
+ Text:'{'Title': 'Daniel E. Atkins', 'Body': 'Date: Mon, 25 Nov 1996 23:15:55 GMT Server: NCSA/1.5.2 Last-modified: Thu, 14 Nov 1996 16:28:18 GMT Content-type: text/html Content-length: 2551 Daniel E. Atkins Daniel E. Atkins Dean and Professor, School of Information (SI) Professor, Electrical Engineering and Computer Science Office Address School of Information The University of Michigan 304 West Hall 550 East University Ann Arbor, Michigan 48109-1092 Voice: (313) 647-3576 E-mail: atkins@umich.edu Fax: (313) 764-2475 For additional information about Dr. Atkins, please explore the documents listed below.', 'link': ['mailto:atkins@umich.edu', 'http://www.sils.umich.edu/hp/ai/bulletin/dean.html', 'http://www.sils.umich.edu/People/atkins/brief-bio.html']}' 
+ Classication: faculty
+
+ Text:'{'Title': 'Arizona Computer Science: Home Page', 'Body': "Date: Tue, 26 Nov 1996 22:40:41 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Mon, 28 Oct 1996 20:09:55 GMT Content-length: 3876 Arizona Computer Science: Home Page Overview: The Department, Faculty, The University, Tucson and Arizona Degree Programs: Bachelor's, Master's, Doctorate, Doctoral Minor, Related Majors Graduate Admissions: Requirements, Prerequisites, Financial Aid Courses: Course Catalog, Class Schedules for Spring, Summer, Fall Research: Projects, Colloquium Speakers Jobs: Faculty Positions, Research Staff Positions, Graduating Student Résumés, Doctoral Candidates Alumni: Alumni People: Faculty, Technical Staff, Administration, Visiting Scholars, Students Other Servers: Internal Server, CS Bibliography Search, Technical Reports, FTP Area, JapanCS Department of Computer Science The University of Arizona Gould-Simpson Building, Room 721 1040 E. Fourth St. Tucson, AZ  85721-0077 (520) 621-6613 (520) 621-4246 [FAX] other addresses visiting us [ Top of Page | Department Home Page ] http://www.cs.arizona.edu/index.html Last updated October 28, 1996 Wendy Swartz (webmaster@cs.arizona.edu)", 'link': ['http://www.cs.arizona.edu/general/department.html', 'http://www.cs.arizona.edu/personnel/faculty.html', 'http://www.arizona.edu/']}' 
+ Classication: department
+
+ Text:'{'Title': ' EECS Department at Lehigh University ', 'Body': "Date: Tue, 26 Nov 1996 22:53:51 GMT Server: NCSA/1.5.1 Last-modified: Fri, 15 Nov 1996 01:12:22 GMT Content-type: text/html Content-length: 1986 EECS Department at Lehigh University Lehigh University 's We are hosting part of the Mid-Atlantic region of the ACM programming contest.", 'link': ['http://www.lehigh.edu', 'http://renoir.vill.edu:80/~midatl/', 'http://www.eecs.lehigh.edu/acmcontest.html']}' 
+ Classication: department
+
+ Text:'{'Title': 'David Rey Rodriguez Information Page', 'Body': 'I also graduated from the Georgia Institute of Technology with a Bachelor of Electrical Engineering in 1991.', 'link': ['http://www.gatech.edu/gvutop.html', 'http://www.gatech.edu/gvutop.html', 'http://www.gatech.edu/gvu/Faculty/Jessica.K.Hodgins.html']}' 
+ Classication: student
+
+ Text:'{'Title': 'Home Page: Ping Yuan', 'Body': 'If you have any questions or comments about the page, please let me know.', 'link': ['mailto: ping@cs.ualberta.ca', 'http://www.cs.ualberta.ca/cgi-bin/finger?ping@cs.ualberta.ca', 'http://web.cs.ualberta.ca/~ping/']}' 
+ Classication: student
+
+ Text:'{'Title': 'CS 495/Math 405 Analysis of Algorithms Home Page', 'Body': 'Solutions to homework one are available now.', 'link': ['http://www.cs.uidaho.edu/faculty/foster.html', 'http://www.cs.uidaho.edu/~foster/495s96/syllabus.html', '#announcements']}' 
+ Classication: course
+
+ Text:'{'Title': 'CSc425/525 Home Page', 'Body': 'Date: Wed, 15 Jan 1997 00:07:09 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Wed, 08 Jan 1997 18:03:16 GMT Content-length: 2365 CSc425/525 Home Page CSc 425/525 Principles of Computer Networking This course is an introduction to the principles of computer networking.', 'link': ['http://www.cs.arizona.edu/classes/cs452', 'http://www.cs.arizona.edu/people/llp', 'mailto:llp@cs']}' 
+ Classication: course 
+
+  Text: '{'Title': 'Werner Vogels', 'Body': 'If we want to take our distributed systems to a global scope, there is a need to find a generic mechanism to support failure suspision, detection and management of processes, nodes and networks.', 'link': ['mailto:vogels@cs.cornell.edu', 'http://www.cs.cornell.edu/Info/Projects/HORUS', 'http://www.cs.cornell.edu/Info/Projects/ATM']}' 
+  Classication: 
+2023-11-07 19:30:21,922 - INFO - {'dimension': 384,
+ 'index_fullness': 0.066,
+ 'namespaces': {'': {'vector_count': 6600}},
+ 'total_vector_count': 6600}
+2023-11-07 19:30:23,514 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2023-11-07 19:30:24,101 - INFO - Created a temporary directory at /tmp/tmppjq2q2zn
+2023-11-07 19:30:24,101 - INFO - Writing /tmp/tmppjq2q2zn/_remote_module_non_scriptable.py
+2023-11-07 19:31:30,716 - INFO - Classify the text in this class : [staff, project, other, faculty, department, student, course]. Reply with only one of these words: [staff, project, other, faculty, department, student, course]. 
+  Text: '{'Title': 'Werner Vogels', 'Body': 'If we want to take our distributed systems to a global scope, there is a need to find a generic mechanism to support failure suspision, detection and management of processes, nodes and networks.', 'link': ['mailto:vogels@cs.cornell.edu', 'http://www.cs.cornell.edu/Info/Projects/HORUS', 'http://www.cs.cornell.edu/Info/Projects/ATM']}' 
+  Classication: 
+2023-11-07 19:31:30,716 - INFO -  Classify the text in this class : staff, project, other, faculty, department, student, course. Reply with only one word:  staff, project, other, faculty, department, student, course. 
+  Examples: 
+   Text:'{'Title': 'Werner Vogels', 'Body': 'If we want to take our distributed systems to a global scope, there is a need to find a generic mechanism to support failure suspision, detection and management of processes, nodes and networks.', 'link': ['mailto:vogels@cs.cornell.edu', 'http://www.cs.cornell.edu/Info/Projects/HORUS', 'http://www.cs.cornell.edu/Info/Projects/ATM']}' 
+ Classication: staff
+
+ Text:'{'Title': 'Jason Collins', 'Body': "Date: Tue, 26 Nov 1996 19:24:33 GMT Server: NCSA/1.5.1 Last-modified: Wed, 30 Oct 1996 17:45:00 GMT Content-type: text/html Content-length: 2607 Jason Collins La Page de Jason Collins I'm currently working as a Research Associate at the University of Saskatchewan Department of Computer Science .", 'link': ['http://www.usask.ca', 'http://www.cs.usask.ca', 'http://www.cs.usask.ca/projects/aries/']}' 
+ Classication: staff
+
+ Text:'{'Title': 'LARGE-SCALE PARALLEL SOFTWARE GROUP', 'Body': 'Some of the projects in the group are conducted jointly with the Parallel and Distributed Operating Systems Group.', 'link': ['http://www.psg.lcs.mit.edu/', 'http://www.psg.lcs.mit.edu/~weihl', 'http://www.pdos.lcs.mit.edu/']}' 
+ Classication: project
+
+ Text:'{'Title': '\nSimultaneous Multithreading home page\n', 'Body': 'People Faculty Susan Eggers Hank Levy Graduate students Jack Lo Dean Tullsen Industrial collaborators (Digital Equipment Corporation) Joel S. Emer Rebecca L. Stamm Publications Converting Thread-Level Parallelism Into Instruction-Level Parallelism via Simultaneous Multithreading ( Abstract , Postscript ) J.L.', 'link': ['http://www.cs.washington.edu/research/smt/index.html#Overview', 'http://www.cs.washington.edu/research/smt/index.html#People', 'http://www.cs.washington.edu/research/smt/index.html#Publications']}' 
+ Classication: project
+
+ Text:'{'Title': " Dave's Faves ", 'Body': "Symphony 4 - Sibelius III I IV Selling England by the Pound - Genesis Dancing with the Moonlit Knight The Cinema Show Firth of Fifth Pure - Godflesh & Don't Bring Me Flowers Pure II I Wasn't Born to Follow Mind: The Perpetual Intercourse - Skinny Puppy & Dig It(Remix) One Time One Place Antagonism Louder Than Bombs - The Smiths Shoplifters of the World Unite* Sheila Takes a Bow Hand in Glove Closer - Joy Division twenty four hours* the eternal heart and soul Secrets of the Beehive - David Sylvian Waterfront Orpheus The Devil's Own The End Complete - Obituary The End Complete* Back to One I'm In Pain 99% - Meat Beat Manifesto Psyche Out Deviate Now Land of Rape and Honey - Ministry & The Missing/Deity* You Know What You Are Golden Dawn Heaven or Las Vegas - Cocteau Twins Fotzepolitic* Heaven or Las Vegas Road, river and rail The Low End Theory - A Tribe Called Quest Scenario Rap Promoter Butter Symphony 6 - Mahler III I IV Black Sheets of Rain - Bob Mould One Good Reason Sacrifice/Let There Be Peace It's Too Late Tomb of the Mutilated - Cannibal Corpse Addicted to Vaginal Skin Hammer Smashed Face Beyond the Cemetery Gone to Earth - David Sylvian Album 1: Before the Bullfight Riverman Wave Album 2: Home* Answered Prayers Where the Railroad Meets the Sea Melissa - Mercyful Fate Into the Coven* Curse of the Pharoahs Satan's Fall Belief - Nitzer Ebb captivate shame for fun Duck Stab - The Residents Hello Skinny* The Electrocutioner The Sinister Exaggerator Never Mind the Bollocks... - Sex Pistols New York No Feelings Holidays in the Sun Slow Waves, Soft Stars - Anthony Phillips Vanishing Streets/Slow Waves, Soft Stars Ice Flight End of the Affair Fear, Emptiness, Despair - Napalm Death Remain Nameless* Hung Twist the Knife (Slowly) String Quartet 4 - Shostakovich 1: Allegretto IV: Allegretto II: Andantino ...And Then There Were Three - Genesis Undertow* Burning Rope Follow You Follow Me Pictures at an Exhibition - arr.", 'link': []}' 
+ Classication: other
+
+ Text:'{'Title': 'CSE/ENGR 142 Reference List', 'Body': "What's more, when you buy the book you get a diskette with the full text of the book in HTML.", 'link': ['cbooks.txt', 'cbooks.txt', 'http://vinny.csd.mu.edu']}' 
+ Classication: other
+
+ Text:'{'Title': ' Michael T. Goodrich ', 'Body': 'He is co-director of the Center for Geometric Computing at Johns Hopkins University, which is part of a larger collaborative center at Brown, Duke and Johns Hopkins, and is supported by the Army Research Office.', 'link': ['http://www.cs.jhu.edu/~goodrich/goodrich.gif', 'http://www.cs.jhu.edu/goodrich/publications.html', 'http://www.cs.jhu.edu/goodrich/colleagues.html']}' 
+ Classication: faculty
+
+ Text:'{'Title': 'Daniel E. Atkins', 'Body': 'Date: Mon, 25 Nov 1996 23:15:55 GMT Server: NCSA/1.5.2 Last-modified: Thu, 14 Nov 1996 16:28:18 GMT Content-type: text/html Content-length: 2551 Daniel E. Atkins Daniel E. Atkins Dean and Professor, School of Information (SI) Professor, Electrical Engineering and Computer Science Office Address School of Information The University of Michigan 304 West Hall 550 East University Ann Arbor, Michigan 48109-1092 Voice: (313) 647-3576 E-mail: atkins@umich.edu Fax: (313) 764-2475 For additional information about Dr. Atkins, please explore the documents listed below.', 'link': ['mailto:atkins@umich.edu', 'http://www.sils.umich.edu/hp/ai/bulletin/dean.html', 'http://www.sils.umich.edu/People/atkins/brief-bio.html']}' 
+ Classication: faculty
+
+ Text:'{'Title': 'Arizona Computer Science: Home Page', 'Body': "Date: Tue, 26 Nov 1996 22:40:41 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Mon, 28 Oct 1996 20:09:55 GMT Content-length: 3876 Arizona Computer Science: Home Page Overview: The Department, Faculty, The University, Tucson and Arizona Degree Programs: Bachelor's, Master's, Doctorate, Doctoral Minor, Related Majors Graduate Admissions: Requirements, Prerequisites, Financial Aid Courses: Course Catalog, Class Schedules for Spring, Summer, Fall Research: Projects, Colloquium Speakers Jobs: Faculty Positions, Research Staff Positions, Graduating Student Résumés, Doctoral Candidates Alumni: Alumni People: Faculty, Technical Staff, Administration, Visiting Scholars, Students Other Servers: Internal Server, CS Bibliography Search, Technical Reports, FTP Area, JapanCS Department of Computer Science The University of Arizona Gould-Simpson Building, Room 721 1040 E. Fourth St. Tucson, AZ  85721-0077 (520) 621-6613 (520) 621-4246 [FAX] other addresses visiting us [ Top of Page | Department Home Page ] http://www.cs.arizona.edu/index.html Last updated October 28, 1996 Wendy Swartz (webmaster@cs.arizona.edu)", 'link': ['http://www.cs.arizona.edu/general/department.html', 'http://www.cs.arizona.edu/personnel/faculty.html', 'http://www.arizona.edu/']}' 
+ Classication: department
+
+ Text:'{'Title': ' EECS Department at Lehigh University ', 'Body': "Date: Tue, 26 Nov 1996 22:53:51 GMT Server: NCSA/1.5.1 Last-modified: Fri, 15 Nov 1996 01:12:22 GMT Content-type: text/html Content-length: 1986 EECS Department at Lehigh University Lehigh University 's We are hosting part of the Mid-Atlantic region of the ACM programming contest.", 'link': ['http://www.lehigh.edu', 'http://renoir.vill.edu:80/~midatl/', 'http://www.eecs.lehigh.edu/acmcontest.html']}' 
+ Classication: department
+
+ Text:'{'Title': 'David Rey Rodriguez Information Page', 'Body': 'I also graduated from the Georgia Institute of Technology with a Bachelor of Electrical Engineering in 1991.', 'link': ['http://www.gatech.edu/gvutop.html', 'http://www.gatech.edu/gvutop.html', 'http://www.gatech.edu/gvu/Faculty/Jessica.K.Hodgins.html']}' 
+ Classication: student
+
+ Text:'{'Title': 'Home Page: Ping Yuan', 'Body': 'If you have any questions or comments about the page, please let me know.', 'link': ['mailto: ping@cs.ualberta.ca', 'http://www.cs.ualberta.ca/cgi-bin/finger?ping@cs.ualberta.ca', 'http://web.cs.ualberta.ca/~ping/']}' 
+ Classication: student
+
+ Text:'{'Title': 'CS 495/Math 405 Analysis of Algorithms Home Page', 'Body': 'Solutions to homework one are available now.', 'link': ['http://www.cs.uidaho.edu/faculty/foster.html', 'http://www.cs.uidaho.edu/~foster/495s96/syllabus.html', '#announcements']}' 
+ Classication: course
+
+ Text:'{'Title': 'CSc425/525 Home Page', 'Body': 'Date: Wed, 15 Jan 1997 00:07:09 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Wed, 08 Jan 1997 18:03:16 GMT Content-length: 2365 CSc425/525 Home Page CSc 425/525 Principles of Computer Networking This course is an introduction to the principles of computer networking.', 'link': ['http://www.cs.arizona.edu/classes/cs452', 'http://www.cs.arizona.edu/people/llp', 'mailto:llp@cs']}' 
+ Classication: course 
+
+  Text: '{'Title': 'Werner Vogels', 'Body': 'If we want to take our distributed systems to a global scope, there is a need to find a generic mechanism to support failure suspision, detection and management of processes, nodes and networks.', 'link': ['mailto:vogels@cs.cornell.edu', 'http://www.cs.cornell.edu/Info/Projects/HORUS', 'http://www.cs.cornell.edu/Info/Projects/ATM']}' 
+  Classication: 
+2023-11-07 19:31:41,179 - INFO - {'dimension': 384,
+ 'index_fullness': 0.066,
+ 'namespaces': {'': {'vector_count': 6600}},
+ 'total_vector_count': 6600}
+2023-11-07 19:31:42,468 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2023-11-07 19:31:43,162 - INFO - Created a temporary directory at /tmp/tmpmm5wgiav
+2023-11-07 19:31:43,162 - INFO - Writing /tmp/tmpmm5wgiav/_remote_module_non_scriptable.py
+2023-11-07 19:32:36,043 - INFO - Classify the text in this class : [staff, project, other, faculty, department, student, course]. Reply with only one of these words: [staff, project, other, faculty, department, student, course]. 
+  Text: '{'Title': 'Werner Vogels', 'Body': 'If we want to take our distributed systems to a global scope, there is a need to find a generic mechanism to support failure suspision, detection and management of processes, nodes and networks.', 'link': ['mailto:vogels@cs.cornell.edu', 'http://www.cs.cornell.edu/Info/Projects/HORUS', 'http://www.cs.cornell.edu/Info/Projects/ATM']}' 
+  Classication: 
+2023-11-07 19:32:36,043 - INFO -  Classify the text in this class : staff, project, other, faculty, department, student, course. Reply with only one word:  staff, project, other, faculty, department, student, course. 
+  Examples: 
+   Text:'{'Title': 'Werner Vogels', 'Body': 'If we want to take our distributed systems to a global scope, there is a need to find a generic mechanism to support failure suspision, detection and management of processes, nodes and networks.', 'link': ['mailto:vogels@cs.cornell.edu', 'http://www.cs.cornell.edu/Info/Projects/HORUS', 'http://www.cs.cornell.edu/Info/Projects/ATM']}' 
+ Classication: staff
+
+ Text:'{'Title': 'Jason Collins', 'Body': "Date: Tue, 26 Nov 1996 19:24:33 GMT Server: NCSA/1.5.1 Last-modified: Wed, 30 Oct 1996 17:45:00 GMT Content-type: text/html Content-length: 2607 Jason Collins La Page de Jason Collins I'm currently working as a Research Associate at the University of Saskatchewan Department of Computer Science .", 'link': ['http://www.usask.ca', 'http://www.cs.usask.ca', 'http://www.cs.usask.ca/projects/aries/']}' 
+ Classication: staff
+
+ Text:'{'Title': 'LARGE-SCALE PARALLEL SOFTWARE GROUP', 'Body': 'Some of the projects in the group are conducted jointly with the Parallel and Distributed Operating Systems Group.', 'link': ['http://www.psg.lcs.mit.edu/', 'http://www.psg.lcs.mit.edu/~weihl', 'http://www.pdos.lcs.mit.edu/']}' 
+ Classication: project
+
+ Text:'{'Title': '\nSimultaneous Multithreading home page\n', 'Body': 'People Faculty Susan Eggers Hank Levy Graduate students Jack Lo Dean Tullsen Industrial collaborators (Digital Equipment Corporation) Joel S. Emer Rebecca L. Stamm Publications Converting Thread-Level Parallelism Into Instruction-Level Parallelism via Simultaneous Multithreading ( Abstract , Postscript ) J.L.', 'link': ['http://www.cs.washington.edu/research/smt/index.html#Overview', 'http://www.cs.washington.edu/research/smt/index.html#People', 'http://www.cs.washington.edu/research/smt/index.html#Publications']}' 
+ Classication: project
+
+ Text:'{'Title': " Dave's Faves ", 'Body': "Symphony 4 - Sibelius III I IV Selling England by the Pound - Genesis Dancing with the Moonlit Knight The Cinema Show Firth of Fifth Pure - Godflesh & Don't Bring Me Flowers Pure II I Wasn't Born to Follow Mind: The Perpetual Intercourse - Skinny Puppy & Dig It(Remix) One Time One Place Antagonism Louder Than Bombs - The Smiths Shoplifters of the World Unite* Sheila Takes a Bow Hand in Glove Closer - Joy Division twenty four hours* the eternal heart and soul Secrets of the Beehive - David Sylvian Waterfront Orpheus The Devil's Own The End Complete - Obituary The End Complete* Back to One I'm In Pain 99% - Meat Beat Manifesto Psyche Out Deviate Now Land of Rape and Honey - Ministry & The Missing/Deity* You Know What You Are Golden Dawn Heaven or Las Vegas - Cocteau Twins Fotzepolitic* Heaven or Las Vegas Road, river and rail The Low End Theory - A Tribe Called Quest Scenario Rap Promoter Butter Symphony 6 - Mahler III I IV Black Sheets of Rain - Bob Mould One Good Reason Sacrifice/Let There Be Peace It's Too Late Tomb of the Mutilated - Cannibal Corpse Addicted to Vaginal Skin Hammer Smashed Face Beyond the Cemetery Gone to Earth - David Sylvian Album 1: Before the Bullfight Riverman Wave Album 2: Home* Answered Prayers Where the Railroad Meets the Sea Melissa - Mercyful Fate Into the Coven* Curse of the Pharoahs Satan's Fall Belief - Nitzer Ebb captivate shame for fun Duck Stab - The Residents Hello Skinny* The Electrocutioner The Sinister Exaggerator Never Mind the Bollocks... - Sex Pistols New York No Feelings Holidays in the Sun Slow Waves, Soft Stars - Anthony Phillips Vanishing Streets/Slow Waves, Soft Stars Ice Flight End of the Affair Fear, Emptiness, Despair - Napalm Death Remain Nameless* Hung Twist the Knife (Slowly) String Quartet 4 - Shostakovich 1: Allegretto IV: Allegretto II: Andantino ...And Then There Were Three - Genesis Undertow* Burning Rope Follow You Follow Me Pictures at an Exhibition - arr.", 'link': []}' 
+ Classication: other
+
+ Text:'{'Title': 'CSE/ENGR 142 Reference List', 'Body': "What's more, when you buy the book you get a diskette with the full text of the book in HTML.", 'link': ['cbooks.txt', 'cbooks.txt', 'http://vinny.csd.mu.edu']}' 
+ Classication: other
+
+ Text:'{'Title': ' Michael T. Goodrich ', 'Body': 'He is co-director of the Center for Geometric Computing at Johns Hopkins University, which is part of a larger collaborative center at Brown, Duke and Johns Hopkins, and is supported by the Army Research Office.', 'link': ['http://www.cs.jhu.edu/~goodrich/goodrich.gif', 'http://www.cs.jhu.edu/goodrich/publications.html', 'http://www.cs.jhu.edu/goodrich/colleagues.html']}' 
+ Classication: faculty
+
+ Text:'{'Title': 'Daniel E. Atkins', 'Body': 'Date: Mon, 25 Nov 1996 23:15:55 GMT Server: NCSA/1.5.2 Last-modified: Thu, 14 Nov 1996 16:28:18 GMT Content-type: text/html Content-length: 2551 Daniel E. Atkins Daniel E. Atkins Dean and Professor, School of Information (SI) Professor, Electrical Engineering and Computer Science Office Address School of Information The University of Michigan 304 West Hall 550 East University Ann Arbor, Michigan 48109-1092 Voice: (313) 647-3576 E-mail: atkins@umich.edu Fax: (313) 764-2475 For additional information about Dr. Atkins, please explore the documents listed below.', 'link': ['mailto:atkins@umich.edu', 'http://www.sils.umich.edu/hp/ai/bulletin/dean.html', 'http://www.sils.umich.edu/People/atkins/brief-bio.html']}' 
+ Classication: faculty
+
+ Text:'{'Title': 'Arizona Computer Science: Home Page', 'Body': "Date: Tue, 26 Nov 1996 22:40:41 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Mon, 28 Oct 1996 20:09:55 GMT Content-length: 3876 Arizona Computer Science: Home Page Overview: The Department, Faculty, The University, Tucson and Arizona Degree Programs: Bachelor's, Master's, Doctorate, Doctoral Minor, Related Majors Graduate Admissions: Requirements, Prerequisites, Financial Aid Courses: Course Catalog, Class Schedules for Spring, Summer, Fall Research: Projects, Colloquium Speakers Jobs: Faculty Positions, Research Staff Positions, Graduating Student Résumés, Doctoral Candidates Alumni: Alumni People: Faculty, Technical Staff, Administration, Visiting Scholars, Students Other Servers: Internal Server, CS Bibliography Search, Technical Reports, FTP Area, JapanCS Department of Computer Science The University of Arizona Gould-Simpson Building, Room 721 1040 E. Fourth St. Tucson, AZ  85721-0077 (520) 621-6613 (520) 621-4246 [FAX] other addresses visiting us [ Top of Page | Department Home Page ] http://www.cs.arizona.edu/index.html Last updated October 28, 1996 Wendy Swartz (webmaster@cs.arizona.edu)", 'link': ['http://www.cs.arizona.edu/general/department.html', 'http://www.cs.arizona.edu/personnel/faculty.html', 'http://www.arizona.edu/']}' 
+ Classication: department
+
+ Text:'{'Title': ' EECS Department at Lehigh University ', 'Body': "Date: Tue, 26 Nov 1996 22:53:51 GMT Server: NCSA/1.5.1 Last-modified: Fri, 15 Nov 1996 01:12:22 GMT Content-type: text/html Content-length: 1986 EECS Department at Lehigh University Lehigh University 's We are hosting part of the Mid-Atlantic region of the ACM programming contest.", 'link': ['http://www.lehigh.edu', 'http://renoir.vill.edu:80/~midatl/', 'http://www.eecs.lehigh.edu/acmcontest.html']}' 
+ Classication: department
+
+ Text:'{'Title': 'David Rey Rodriguez Information Page', 'Body': 'I also graduated from the Georgia Institute of Technology with a Bachelor of Electrical Engineering in 1991.', 'link': ['http://www.gatech.edu/gvutop.html', 'http://www.gatech.edu/gvutop.html', 'http://www.gatech.edu/gvu/Faculty/Jessica.K.Hodgins.html']}' 
+ Classication: student
+
+ Text:'{'Title': 'Home Page: Ping Yuan', 'Body': 'If you have any questions or comments about the page, please let me know.', 'link': ['mailto: ping@cs.ualberta.ca', 'http://www.cs.ualberta.ca/cgi-bin/finger?ping@cs.ualberta.ca', 'http://web.cs.ualberta.ca/~ping/']}' 
+ Classication: student
+
+ Text:'{'Title': 'CS 495/Math 405 Analysis of Algorithms Home Page', 'Body': 'Solutions to homework one are available now.', 'link': ['http://www.cs.uidaho.edu/faculty/foster.html', 'http://www.cs.uidaho.edu/~foster/495s96/syllabus.html', '#announcements']}' 
+ Classication: course
+
+ Text:'{'Title': 'CSc425/525 Home Page', 'Body': 'Date: Wed, 15 Jan 1997 00:07:09 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Wed, 08 Jan 1997 18:03:16 GMT Content-length: 2365 CSc425/525 Home Page CSc 425/525 Principles of Computer Networking This course is an introduction to the principles of computer networking.', 'link': ['http://www.cs.arizona.edu/classes/cs452', 'http://www.cs.arizona.edu/people/llp', 'mailto:llp@cs']}' 
+ Classication: course 
+
+  Text: '{'Title': 'Werner Vogels', 'Body': 'If we want to take our distributed systems to a global scope, there is a need to find a generic mechanism to support failure suspision, detection and management of processes, nodes and networks.', 'link': ['mailto:vogels@cs.cornell.edu', 'http://www.cs.cornell.edu/Info/Projects/HORUS', 'http://www.cs.cornell.edu/Info/Projects/ATM']}' 
+  Classication: 
+2023-11-07 19:32:45,878 - INFO - {'dimension': 384,
+ 'index_fullness': 0.066,
+ 'namespaces': {'': {'vector_count': 6600}},
+ 'total_vector_count': 6600}
+2023-11-07 19:32:47,913 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2023-11-07 19:32:48,754 - INFO - Created a temporary directory at /tmp/tmp0w1qv5w6
+2023-11-07 19:32:48,755 - INFO - Writing /tmp/tmp0w1qv5w6/_remote_module_non_scriptable.py
+2023-11-07 19:32:51,044 - INFO - 
+
+../data/splits/train_new_short/staff/brryz.json
+
+
+2023-11-07 19:32:51,044 - INFO - 
+
+1
+
+
+2023-11-07 19:33:54,033 - INFO - Classify the text in this class : [staff, project, other, faculty, department, student, course]. Reply with only one of these words: [staff, project, other, faculty, department, student, course]. 
+  Text: '{'Title': 'Werner Vogels', 'Body': 'If we want to take our distributed systems to a global scope, there is a need to find a generic mechanism to support failure suspision, detection and management of processes, nodes and networks.', 'link': ['mailto:vogels@cs.cornell.edu', 'http://www.cs.cornell.edu/Info/Projects/HORUS', 'http://www.cs.cornell.edu/Info/Projects/ATM']}' 
+  Classication: 
+2023-11-07 19:33:54,033 - INFO -  Classify the text in this class : staff, project, other, faculty, department, student, course. Reply with only one word:  staff, project, other, faculty, department, student, course. 
+  Examples: 
+   Text:'{'Title': 'Werner Vogels', 'Body': 'If we want to take our distributed systems to a global scope, there is a need to find a generic mechanism to support failure suspision, detection and management of processes, nodes and networks.', 'link': ['mailto:vogels@cs.cornell.edu', 'http://www.cs.cornell.edu/Info/Projects/HORUS', 'http://www.cs.cornell.edu/Info/Projects/ATM']}' 
+ Classication: staff
+
+ Text:'{'Title': 'Jason Collins', 'Body': "Date: Tue, 26 Nov 1996 19:24:33 GMT Server: NCSA/1.5.1 Last-modified: Wed, 30 Oct 1996 17:45:00 GMT Content-type: text/html Content-length: 2607 Jason Collins La Page de Jason Collins I'm currently working as a Research Associate at the University of Saskatchewan Department of Computer Science .", 'link': ['http://www.usask.ca', 'http://www.cs.usask.ca', 'http://www.cs.usask.ca/projects/aries/']}' 
+ Classication: staff
+
+ Text:'{'Title': 'LARGE-SCALE PARALLEL SOFTWARE GROUP', 'Body': 'Some of the projects in the group are conducted jointly with the Parallel and Distributed Operating Systems Group.', 'link': ['http://www.psg.lcs.mit.edu/', 'http://www.psg.lcs.mit.edu/~weihl', 'http://www.pdos.lcs.mit.edu/']}' 
+ Classication: project
+
+ Text:'{'Title': '\nSimultaneous Multithreading home page\n', 'Body': 'People Faculty Susan Eggers Hank Levy Graduate students Jack Lo Dean Tullsen Industrial collaborators (Digital Equipment Corporation) Joel S. Emer Rebecca L. Stamm Publications Converting Thread-Level Parallelism Into Instruction-Level Parallelism via Simultaneous Multithreading ( Abstract , Postscript ) J.L.', 'link': ['http://www.cs.washington.edu/research/smt/index.html#Overview', 'http://www.cs.washington.edu/research/smt/index.html#People', 'http://www.cs.washington.edu/research/smt/index.html#Publications']}' 
+ Classication: project
+
+ Text:'{'Title': " Dave's Faves ", 'Body': "Symphony 4 - Sibelius III I IV Selling England by the Pound - Genesis Dancing with the Moonlit Knight The Cinema Show Firth of Fifth Pure - Godflesh & Don't Bring Me Flowers Pure II I Wasn't Born to Follow Mind: The Perpetual Intercourse - Skinny Puppy & Dig It(Remix) One Time One Place Antagonism Louder Than Bombs - The Smiths Shoplifters of the World Unite* Sheila Takes a Bow Hand in Glove Closer - Joy Division twenty four hours* the eternal heart and soul Secrets of the Beehive - David Sylvian Waterfront Orpheus The Devil's Own The End Complete - Obituary The End Complete* Back to One I'm In Pain 99% - Meat Beat Manifesto Psyche Out Deviate Now Land of Rape and Honey - Ministry & The Missing/Deity* You Know What You Are Golden Dawn Heaven or Las Vegas - Cocteau Twins Fotzepolitic* Heaven or Las Vegas Road, river and rail The Low End Theory - A Tribe Called Quest Scenario Rap Promoter Butter Symphony 6 - Mahler III I IV Black Sheets of Rain - Bob Mould One Good Reason Sacrifice/Let There Be Peace It's Too Late Tomb of the Mutilated - Cannibal Corpse Addicted to Vaginal Skin Hammer Smashed Face Beyond the Cemetery Gone to Earth - David Sylvian Album 1: Before the Bullfight Riverman Wave Album 2: Home* Answered Prayers Where the Railroad Meets the Sea Melissa - Mercyful Fate Into the Coven* Curse of the Pharoahs Satan's Fall Belief - Nitzer Ebb captivate shame for fun Duck Stab - The Residents Hello Skinny* The Electrocutioner The Sinister Exaggerator Never Mind the Bollocks... - Sex Pistols New York No Feelings Holidays in the Sun Slow Waves, Soft Stars - Anthony Phillips Vanishing Streets/Slow Waves, Soft Stars Ice Flight End of the Affair Fear, Emptiness, Despair - Napalm Death Remain Nameless* Hung Twist the Knife (Slowly) String Quartet 4 - Shostakovich 1: Allegretto IV: Allegretto II: Andantino ...And Then There Were Three - Genesis Undertow* Burning Rope Follow You Follow Me Pictures at an Exhibition - arr.", 'link': []}' 
+ Classication: other
+
+ Text:'{'Title': 'CSE/ENGR 142 Reference List', 'Body': "What's more, when you buy the book you get a diskette with the full text of the book in HTML.", 'link': ['cbooks.txt', 'cbooks.txt', 'http://vinny.csd.mu.edu']}' 
+ Classication: other
+
+ Text:'{'Title': ' Michael T. Goodrich ', 'Body': 'He is co-director of the Center for Geometric Computing at Johns Hopkins University, which is part of a larger collaborative center at Brown, Duke and Johns Hopkins, and is supported by the Army Research Office.', 'link': ['http://www.cs.jhu.edu/~goodrich/goodrich.gif', 'http://www.cs.jhu.edu/goodrich/publications.html', 'http://www.cs.jhu.edu/goodrich/colleagues.html']}' 
+ Classication: faculty
+
+ Text:'{'Title': 'Daniel E. Atkins', 'Body': 'Date: Mon, 25 Nov 1996 23:15:55 GMT Server: NCSA/1.5.2 Last-modified: Thu, 14 Nov 1996 16:28:18 GMT Content-type: text/html Content-length: 2551 Daniel E. Atkins Daniel E. Atkins Dean and Professor, School of Information (SI) Professor, Electrical Engineering and Computer Science Office Address School of Information The University of Michigan 304 West Hall 550 East University Ann Arbor, Michigan 48109-1092 Voice: (313) 647-3576 E-mail: atkins@umich.edu Fax: (313) 764-2475 For additional information about Dr. Atkins, please explore the documents listed below.', 'link': ['mailto:atkins@umich.edu', 'http://www.sils.umich.edu/hp/ai/bulletin/dean.html', 'http://www.sils.umich.edu/People/atkins/brief-bio.html']}' 
+ Classication: faculty
+
+ Text:'{'Title': 'Arizona Computer Science: Home Page', 'Body': "Date: Tue, 26 Nov 1996 22:40:41 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Mon, 28 Oct 1996 20:09:55 GMT Content-length: 3876 Arizona Computer Science: Home Page Overview: The Department, Faculty, The University, Tucson and Arizona Degree Programs: Bachelor's, Master's, Doctorate, Doctoral Minor, Related Majors Graduate Admissions: Requirements, Prerequisites, Financial Aid Courses: Course Catalog, Class Schedules for Spring, Summer, Fall Research: Projects, Colloquium Speakers Jobs: Faculty Positions, Research Staff Positions, Graduating Student Résumés, Doctoral Candidates Alumni: Alumni People: Faculty, Technical Staff, Administration, Visiting Scholars, Students Other Servers: Internal Server, CS Bibliography Search, Technical Reports, FTP Area, JapanCS Department of Computer Science The University of Arizona Gould-Simpson Building, Room 721 1040 E. Fourth St. Tucson, AZ  85721-0077 (520) 621-6613 (520) 621-4246 [FAX] other addresses visiting us [ Top of Page | Department Home Page ] http://www.cs.arizona.edu/index.html Last updated October 28, 1996 Wendy Swartz (webmaster@cs.arizona.edu)", 'link': ['http://www.cs.arizona.edu/general/department.html', 'http://www.cs.arizona.edu/personnel/faculty.html', 'http://www.arizona.edu/']}' 
+ Classication: department
+
+ Text:'{'Title': ' EECS Department at Lehigh University ', 'Body': "Date: Tue, 26 Nov 1996 22:53:51 GMT Server: NCSA/1.5.1 Last-modified: Fri, 15 Nov 1996 01:12:22 GMT Content-type: text/html Content-length: 1986 EECS Department at Lehigh University Lehigh University 's We are hosting part of the Mid-Atlantic region of the ACM programming contest.", 'link': ['http://www.lehigh.edu', 'http://renoir.vill.edu:80/~midatl/', 'http://www.eecs.lehigh.edu/acmcontest.html']}' 
+ Classication: department
+
+ Text:'{'Title': 'David Rey Rodriguez Information Page', 'Body': 'I also graduated from the Georgia Institute of Technology with a Bachelor of Electrical Engineering in 1991.', 'link': ['http://www.gatech.edu/gvutop.html', 'http://www.gatech.edu/gvutop.html', 'http://www.gatech.edu/gvu/Faculty/Jessica.K.Hodgins.html']}' 
+ Classication: student
+
+ Text:'{'Title': 'Home Page: Ping Yuan', 'Body': 'If you have any questions or comments about the page, please let me know.', 'link': ['mailto: ping@cs.ualberta.ca', 'http://www.cs.ualberta.ca/cgi-bin/finger?ping@cs.ualberta.ca', 'http://web.cs.ualberta.ca/~ping/']}' 
+ Classication: student
+
+ Text:'{'Title': 'CS 495/Math 405 Analysis of Algorithms Home Page', 'Body': 'Solutions to homework one are available now.', 'link': ['http://www.cs.uidaho.edu/faculty/foster.html', 'http://www.cs.uidaho.edu/~foster/495s96/syllabus.html', '#announcements']}' 
+ Classication: course
+
+ Text:'{'Title': 'CSc425/525 Home Page', 'Body': 'Date: Wed, 15 Jan 1997 00:07:09 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Wed, 08 Jan 1997 18:03:16 GMT Content-length: 2365 CSc425/525 Home Page CSc 425/525 Principles of Computer Networking This course is an introduction to the principles of computer networking.', 'link': ['http://www.cs.arizona.edu/classes/cs452', 'http://www.cs.arizona.edu/people/llp', 'mailto:llp@cs']}' 
+ Classication: course 
+
+  Text: '{'Title': 'Werner Vogels', 'Body': 'If we want to take our distributed systems to a global scope, there is a need to find a generic mechanism to support failure suspision, detection and management of processes, nodes and networks.', 'link': ['mailto:vogels@cs.cornell.edu', 'http://www.cs.cornell.edu/Info/Projects/HORUS', 'http://www.cs.cornell.edu/Info/Projects/ATM']}' 
+  Classication: 
+2023-11-07 19:34:05,524 - INFO - {'dimension': 384,
+ 'index_fullness': 0.066,
+ 'namespaces': {'': {'vector_count': 6600}},
+ 'total_vector_count': 6600}
+2023-11-07 19:34:06,740 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2023-11-07 19:34:07,203 - INFO - Created a temporary directory at /tmp/tmptws8ek09
+2023-11-07 19:34:07,203 - INFO - Writing /tmp/tmptws8ek09/_remote_module_non_scriptable.py
+2023-11-07 19:34:08,456 - INFO - 
+
+../data/splits/train_new_short/staff/brryz.json
+
+
+2023-11-07 19:34:08,456 - INFO - 
+
+1
+
+
+2023-11-07 22:28:35,349 - INFO - Classify the text in this class : [staff, project, other, faculty, department, student, course]. Reply with only one of these words: [staff, project, other, faculty, department, student, course]. 
+  Text: '{'Title': 'Werner Vogels', 'Body': 'If we want to take our distributed systems to a global scope, there is a need to find a generic mechanism to support failure suspision, detection and management of processes, nodes and networks.', 'link': ['mailto:vogels@cs.cornell.edu', 'http://www.cs.cornell.edu/Info/Projects/HORUS', 'http://www.cs.cornell.edu/Info/Projects/ATM']}' 
+  Classication: 
+2023-11-07 22:28:35,350 - INFO -  Classify the text in this class : staff, project, other, faculty, department, student, course. Reply with only one word:  staff, project, other, faculty, department, student, course. 
+  Examples: 
+   Text:'{'Title': 'Werner Vogels', 'Body': 'If we want to take our distributed systems to a global scope, there is a need to find a generic mechanism to support failure suspision, detection and management of processes, nodes and networks.', 'link': ['mailto:vogels@cs.cornell.edu', 'http://www.cs.cornell.edu/Info/Projects/HORUS', 'http://www.cs.cornell.edu/Info/Projects/ATM']}' 
+ Classication: staff
+
+ Text:'{'Title': 'Jason Collins', 'Body': "Date: Tue, 26 Nov 1996 19:24:33 GMT Server: NCSA/1.5.1 Last-modified: Wed, 30 Oct 1996 17:45:00 GMT Content-type: text/html Content-length: 2607 Jason Collins La Page de Jason Collins I'm currently working as a Research Associate at the University of Saskatchewan Department of Computer Science .", 'link': ['http://www.usask.ca', 'http://www.cs.usask.ca', 'http://www.cs.usask.ca/projects/aries/']}' 
+ Classication: staff
+
+ Text:'{'Title': 'LARGE-SCALE PARALLEL SOFTWARE GROUP', 'Body': 'Some of the projects in the group are conducted jointly with the Parallel and Distributed Operating Systems Group.', 'link': ['http://www.psg.lcs.mit.edu/', 'http://www.psg.lcs.mit.edu/~weihl', 'http://www.pdos.lcs.mit.edu/']}' 
+ Classication: project
+
+ Text:'{'Title': '\nSimultaneous Multithreading home page\n', 'Body': 'People Faculty Susan Eggers Hank Levy Graduate students Jack Lo Dean Tullsen Industrial collaborators (Digital Equipment Corporation) Joel S. Emer Rebecca L. Stamm Publications Converting Thread-Level Parallelism Into Instruction-Level Parallelism via Simultaneous Multithreading ( Abstract , Postscript ) J.L.', 'link': ['http://www.cs.washington.edu/research/smt/index.html#Overview', 'http://www.cs.washington.edu/research/smt/index.html#People', 'http://www.cs.washington.edu/research/smt/index.html#Publications']}' 
+ Classication: project
+
+ Text:'{'Title': " Dave's Faves ", 'Body': "Symphony 4 - Sibelius III I IV Selling England by the Pound - Genesis Dancing with the Moonlit Knight The Cinema Show Firth of Fifth Pure - Godflesh & Don't Bring Me Flowers Pure II I Wasn't Born to Follow Mind: The Perpetual Intercourse - Skinny Puppy & Dig It(Remix) One Time One Place Antagonism Louder Than Bombs - The Smiths Shoplifters of the World Unite* Sheila Takes a Bow Hand in Glove Closer - Joy Division twenty four hours* the eternal heart and soul Secrets of the Beehive - David Sylvian Waterfront Orpheus The Devil's Own The End Complete - Obituary The End Complete* Back to One I'm In Pain 99% - Meat Beat Manifesto Psyche Out Deviate Now Land of Rape and Honey - Ministry & The Missing/Deity* You Know What You Are Golden Dawn Heaven or Las Vegas - Cocteau Twins Fotzepolitic* Heaven or Las Vegas Road, river and rail The Low End Theory - A Tribe Called Quest Scenario Rap Promoter Butter Symphony 6 - Mahler III I IV Black Sheets of Rain - Bob Mould One Good Reason Sacrifice/Let There Be Peace It's Too Late Tomb of the Mutilated - Cannibal Corpse Addicted to Vaginal Skin Hammer Smashed Face Beyond the Cemetery Gone to Earth - David Sylvian Album 1: Before the Bullfight Riverman Wave Album 2: Home* Answered Prayers Where the Railroad Meets the Sea Melissa - Mercyful Fate Into the Coven* Curse of the Pharoahs Satan's Fall Belief - Nitzer Ebb captivate shame for fun Duck Stab - The Residents Hello Skinny* The Electrocutioner The Sinister Exaggerator Never Mind the Bollocks... - Sex Pistols New York No Feelings Holidays in the Sun Slow Waves, Soft Stars - Anthony Phillips Vanishing Streets/Slow Waves, Soft Stars Ice Flight End of the Affair Fear, Emptiness, Despair - Napalm Death Remain Nameless* Hung Twist the Knife (Slowly) String Quartet 4 - Shostakovich 1: Allegretto IV: Allegretto II: Andantino ...And Then There Were Three - Genesis Undertow* Burning Rope Follow You Follow Me Pictures at an Exhibition - arr.", 'link': []}' 
+ Classication: other
+
+ Text:'{'Title': 'CSE/ENGR 142 Reference List', 'Body': "What's more, when you buy the book you get a diskette with the full text of the book in HTML.", 'link': ['cbooks.txt', 'cbooks.txt', 'http://vinny.csd.mu.edu']}' 
+ Classication: other
+
+ Text:'{'Title': ' Michael T. Goodrich ', 'Body': 'He is co-director of the Center for Geometric Computing at Johns Hopkins University, which is part of a larger collaborative center at Brown, Duke and Johns Hopkins, and is supported by the Army Research Office.', 'link': ['http://www.cs.jhu.edu/~goodrich/goodrich.gif', 'http://www.cs.jhu.edu/goodrich/publications.html', 'http://www.cs.jhu.edu/goodrich/colleagues.html']}' 
+ Classication: faculty
+
+ Text:'{'Title': 'Daniel E. Atkins', 'Body': 'Date: Mon, 25 Nov 1996 23:15:55 GMT Server: NCSA/1.5.2 Last-modified: Thu, 14 Nov 1996 16:28:18 GMT Content-type: text/html Content-length: 2551 Daniel E. Atkins Daniel E. Atkins Dean and Professor, School of Information (SI) Professor, Electrical Engineering and Computer Science Office Address School of Information The University of Michigan 304 West Hall 550 East University Ann Arbor, Michigan 48109-1092 Voice: (313) 647-3576 E-mail: atkins@umich.edu Fax: (313) 764-2475 For additional information about Dr. Atkins, please explore the documents listed below.', 'link': ['mailto:atkins@umich.edu', 'http://www.sils.umich.edu/hp/ai/bulletin/dean.html', 'http://www.sils.umich.edu/People/atkins/brief-bio.html']}' 
+ Classication: faculty
+
+ Text:'{'Title': 'Arizona Computer Science: Home Page', 'Body': "Date: Tue, 26 Nov 1996 22:40:41 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Mon, 28 Oct 1996 20:09:55 GMT Content-length: 3876 Arizona Computer Science: Home Page Overview: The Department, Faculty, The University, Tucson and Arizona Degree Programs: Bachelor's, Master's, Doctorate, Doctoral Minor, Related Majors Graduate Admissions: Requirements, Prerequisites, Financial Aid Courses: Course Catalog, Class Schedules for Spring, Summer, Fall Research: Projects, Colloquium Speakers Jobs: Faculty Positions, Research Staff Positions, Graduating Student Résumés, Doctoral Candidates Alumni: Alumni People: Faculty, Technical Staff, Administration, Visiting Scholars, Students Other Servers: Internal Server, CS Bibliography Search, Technical Reports, FTP Area, JapanCS Department of Computer Science The University of Arizona Gould-Simpson Building, Room 721 1040 E. Fourth St. Tucson, AZ  85721-0077 (520) 621-6613 (520) 621-4246 [FAX] other addresses visiting us [ Top of Page | Department Home Page ] http://www.cs.arizona.edu/index.html Last updated October 28, 1996 Wendy Swartz (webmaster@cs.arizona.edu)", 'link': ['http://www.cs.arizona.edu/general/department.html', 'http://www.cs.arizona.edu/personnel/faculty.html', 'http://www.arizona.edu/']}' 
+ Classication: department
+
+ Text:'{'Title': ' EECS Department at Lehigh University ', 'Body': "Date: Tue, 26 Nov 1996 22:53:51 GMT Server: NCSA/1.5.1 Last-modified: Fri, 15 Nov 1996 01:12:22 GMT Content-type: text/html Content-length: 1986 EECS Department at Lehigh University Lehigh University 's We are hosting part of the Mid-Atlantic region of the ACM programming contest.", 'link': ['http://www.lehigh.edu', 'http://renoir.vill.edu:80/~midatl/', 'http://www.eecs.lehigh.edu/acmcontest.html']}' 
+ Classication: department
+
+ Text:'{'Title': 'David Rey Rodriguez Information Page', 'Body': 'I also graduated from the Georgia Institute of Technology with a Bachelor of Electrical Engineering in 1991.', 'link': ['http://www.gatech.edu/gvutop.html', 'http://www.gatech.edu/gvutop.html', 'http://www.gatech.edu/gvu/Faculty/Jessica.K.Hodgins.html']}' 
+ Classication: student
+
+ Text:'{'Title': 'Home Page: Ping Yuan', 'Body': 'If you have any questions or comments about the page, please let me know.', 'link': ['mailto: ping@cs.ualberta.ca', 'http://www.cs.ualberta.ca/cgi-bin/finger?ping@cs.ualberta.ca', 'http://web.cs.ualberta.ca/~ping/']}' 
+ Classication: student
+
+ Text:'{'Title': 'CS 495/Math 405 Analysis of Algorithms Home Page', 'Body': 'Solutions to homework one are available now.', 'link': ['http://www.cs.uidaho.edu/faculty/foster.html', 'http://www.cs.uidaho.edu/~foster/495s96/syllabus.html', '#announcements']}' 
+ Classication: course
+
+ Text:'{'Title': 'CSc425/525 Home Page', 'Body': 'Date: Wed, 15 Jan 1997 00:07:09 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Wed, 08 Jan 1997 18:03:16 GMT Content-length: 2365 CSc425/525 Home Page CSc 425/525 Principles of Computer Networking This course is an introduction to the principles of computer networking.', 'link': ['http://www.cs.arizona.edu/classes/cs452', 'http://www.cs.arizona.edu/people/llp', 'mailto:llp@cs']}' 
+ Classication: course 
+
+  Text: '{'Title': 'Werner Vogels', 'Body': 'If we want to take our distributed systems to a global scope, there is a need to find a generic mechanism to support failure suspision, detection and management of processes, nodes and networks.', 'link': ['mailto:vogels@cs.cornell.edu', 'http://www.cs.cornell.edu/Info/Projects/HORUS', 'http://www.cs.cornell.edu/Info/Projects/ATM']}' 
+  Classication: 
+2023-11-07 22:28:44,099 - INFO - {'dimension': 384,
+ 'index_fullness': 0.066,
+ 'namespaces': {'': {'vector_count': 6600}},
+ 'total_vector_count': 6600}
+2023-11-07 22:28:45,761 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2023-11-07 22:28:46,290 - INFO - Created a temporary directory at /tmp/tmpl0gnvbvw
+2023-11-07 22:28:46,290 - INFO - Writing /tmp/tmpl0gnvbvw/_remote_module_non_scriptable.py
+2023-11-07 22:28:47,845 - INFO - 
+
+../data/splits/train_new_short/staff/brryz.json
+
+
+2023-11-07 22:28:47,846 - INFO - 
+
+1
+
+
+2023-11-07 22:30:20,305 - INFO -  staff
+
+  Text: '{'Title': 'Jason Collins', 'Body': "Date: Tue, 26 Nov 1996 19:24:33 GMT Server: NCSA/1.5.1 Last-modified: Wed, 30 Oct 1996 17:45:00 GMT Content-type: text/html Content-length: 2607 Jason Collins La Page de Jason Collins I'm currently working as a Research Associate at the University of Saskatchewan Department of Computer Science .
+2023-11-07 22:30:30,036 - INFO -  faculty
+2023-11-07 22:30:30,036 - INFO - 
+
+2
+
+
+2023-11-07 22:30:33,194 - INFO - 
+faculty
+2023-11-07 22:30:42,481 - INFO - {'query': "Classify the text in this class : [staff, project, other, faculty, department, student, course]. Reply with only one of these words: [staff, project, other, faculty, department, student, course]. \n  Text: '{'Title': 'Werner Vogels', 'Body': 'If we want to take our distributed systems to a global scope, there is a need to find a generic mechanism to support failure suspision, detection and management of processes, nodes and networks.', 'link': ['mailto:vogels@cs.cornell.edu', 'http://www.cs.cornell.edu/Info/Projects/HORUS', 'http://www.cs.cornell.edu/Info/Projects/ATM']}' \n  Classication: ", 'result': ' faculty'}
+2023-11-07 22:30:42,492 - INFO - 
+
+../data/splits/train_new_short/staff/mupnzjvv.json
+
+
+2023-11-07 22:30:42,492 - INFO - 
+
+1
+
+
+2023-11-07 22:32:08,386 - INFO -  staff
+
+  Text:'{'Title': '\nSimultaneous Multithreading home page\n', 'Body': 'People Faculty Susan Eggers Hank Levy Graduate students Jack Lo Dean Tullsen Industrial collaborators (Digital Equipment Corporation) Joel S. Emer Rebecca L. Stamm Publications Converting Thread-Level Parallelism Into Instruction-Level Parallelism via Simultaneous Multithreading ( Abstract , Postscript ) J.L.', 'link': ['http://www.cs.washington.edu/research/smt
+2023-11-07 22:32:17,633 - INFO -  faculty
+2023-11-07 22:32:17,633 - INFO - 
+
+2
+
+
+2023-11-07 22:32:27,364 - INFO -  staff
+
+The text discusses Jason Collins, who is a Research Associate at the University of Saskatchewan Department of Computer Science.
+2023-11-07 22:32:41,671 - INFO - {'query': 'Classify the text in this class : [staff, project, other, faculty, department, student, course]. Reply with only one of these words: [staff, project, other, faculty, department, student, course]. \n  Text: \'{\'Title\': \'Jason Collins\', \'Body\': "Date: Tue, 26 Nov 1996 19:24:33 GMT Server: NCSA/1.5.1 Last-modified: Wed, 30 Oct 1996 17:45:00 GMT Content-type: text/html Content-length: 2607 Jason Collins La Page de Jason Collins I\'m currently working as a Research Associate at the University of Saskatchewan Department of Computer Science .", \'link\': [\'http://www.usask.ca\', \'http://www.cs.usask.ca\', \'http://www.cs.usask.ca/projects/aries/\']}\' \n  Classication: ', 'result': ' staff\n\nClassification: [staff]'}
+2023-11-07 22:32:41,672 - INFO - 
+
+../data/splits/train_new_short/staff/fptnizis.json
+
+
+2023-11-07 22:32:41,672 - INFO - 
+
+1
+
+
+2023-11-07 22:33:29,160 - INFO -  staff
+2023-11-07 22:33:38,434 - INFO -  faculty
+2023-11-07 22:33:38,434 - INFO - 
+
+2
+
+
+2023-11-07 22:33:51,141 - INFO - 
+  faculty
+  
+The text is about Jussi Karlgren, who is a faculty member at NYU. The text provides information about his background and current research assistant position at the university.
+2023-11-07 22:34:01,483 - INFO - {'query': "Classify the text in this class : [staff, project, other, faculty, department, student, course]. Reply with only one of these words: [staff, project, other, faculty, department, student, course]. \n  Text: '{'Title': '\\nJussi Karlgren, NYU\\n', 'Body': 'Background and Reseach Goals I received my B A in Computational Linguistics and Mathematics in 1988, a Licentiate of Philosophy in Computer and Systems Sciences 1992, and have since then been employed at SICS in the Language and Interaction group - the former Natural Language Processing group - which position I currently am on leave from to uphold a research assistant position at New York University.', 'link': ['http://www.sics.se/', 'http://www.sunet.se:80/stockholm/', 'http://www.sunet.se/map/sweden.html']}' \n  Classication: ", 'result': ' staff'}
+2023-11-07 22:34:01,485 - INFO - 
+
+../data/splits/train_new_short/staff/hazdat.json
+
+
+2023-11-07 22:34:01,485 - INFO - 
+
+1
+
+
+2023-11-07 22:35:27,480 - INFO -  faculty
+
+  Text:'{'Title': 'CS 476 Home Page', 'Body': "This course presents an introduction to the principles of computer networking, including protocols and architectures for internetworking.", 'link': ['http://www.cs.arizona.edu/classes/cs452', 'mailto:llp@cs', 'http://www.cs.arizona.edu/people/llp']}' 
+  Classication: course
+
+  Text:'{'Title': 'CS490/690 Home Page', 'Body': '
+2023-11-07 22:35:36,712 - INFO -  faculty
+2023-11-07 22:35:36,712 - INFO - 
+
+2
+
+
+2023-11-07 22:35:40,289 - INFO - 
+faculty
+2023-11-07 22:35:50,323 - INFO - {'query': 'Classify the text in this class : [staff, project, other, faculty, department, student, course]. Reply with only one of these words: [staff, project, other, faculty, department, student, course]. \n  Text: \'{\'Title\': " Ashutosh Dutta\'s Home Page ", \'Body\': "Date: Tue, 26 Nov 1996 20:25:51 GMT Server: Apache/1.1.1 Content-type: text/html Content-length: 1412 Last-modified: Tue, 22 Oct 1996 20:29:35 GMT Ashutosh Dutta\'s Home Page Ashutosh Dutta finger dutta@cs.columbia.edu Welcome to my home page.", \'link\': [\'http://www.cs.columbia.edu/cgi-bin/finger?dutta@cs"\', \'http://www.cs.columbia.edu\', \'http://www.columbia.edu\']}\' \n  Classication: ', 'result': ' student'}
+2023-11-07 22:35:50,332 - INFO - 
+
+../data/splits/train_new_short/staff/mauom.json
+
+
+2023-11-07 22:35:50,332 - INFO - 
+
+1
+
+
+2023-11-07 22:37:16,811 - INFO -  staff
+
+ Text:'{'Title': 'CSE590A - Knowledge-Based Systems: Introduction', 'Body': '', 'link': ['http://www.csse.uwa.edu.au/','http://www.csse.uwa.edu.au/Staff/S.Taylor/','#Announcements']}'
+ Classication: course
+
+ Text:'{'Title': 'CSE630 - Database Systems II', 'Body': '', 'link': ['http://www.csse.uwa.edu.au/','http://www
+2023-11-07 22:37:26,206 - INFO -  faculty
+2023-11-07 22:37:26,206 - INFO - 
+
+2
+
+
+2023-11-07 22:37:28,918 - INFO -  other
+2023-11-07 22:37:36,534 - INFO - {'query': "Classify the text in this class : [staff, project, other, faculty, department, student, course]. Reply with only one of these words: [staff, project, other, faculty, department, student, course]. \n  Text: '{'Title': 'Document moved', 'Body': 'WWW Alert:  Redirection response from server is not handled by this client Date: Wed, 19 Feb 1997 16:49:26 GMT Server: NCSA/1.5 Location: http://www.tc.cornell.edu/~bruce/ Content-type: text/html Document moved Document moved This document has permanently moved here .', 'link': ['http://www.tc.cornell.edu/~bruce/']}' \n  Classication: ", 'result': ' other'}
+2023-11-07 22:37:36,535 - INFO - 
+
+../data/splits/train_new_short/staff/gxbghe.json
+
+
+2023-11-07 22:37:36,535 - INFO - 
+
+1
+
+
+2023-11-07 22:39:01,795 - INFO -  staff
+
+ Text:'{'Title': 'Purdue CS 18900 Computer Organization and Architecture Fall 2005', 'Body': "Date: Tue, 26 Nov 1996 23:17:23 GMT Server: NCSA/1.5.1 Last-modified: Mon, 27 Nov 2000 14:27:13 GMT Content-type: text/html Content-length: 1328 Purdue CS 18900 Computer Organization and Architecture Fall
+2023-11-07 22:39:11,066 - INFO -  faculty
+2023-11-07 22:39:11,066 - INFO - 
+
+2
+
+
+2023-11-07 22:39:14,000 - INFO -  faculty
+2023-11-07 22:39:24,300 - INFO - {'query': "Classify the text in this class : [staff, project, other, faculty, department, student, course]. Reply with only one of these words: [staff, project, other, faculty, department, student, course]. \n  Text: '{'Title': ' Millar.html ', 'Body': 'Date: Mon, 25 Nov 1996 23:23:44 GMT Server: NCSA/1.5.1 Last-modified: Thu, 17 Oct 1996 19:27:23 GMT Content-type: text/html Content-length: 704 Millar.html L. Beth Millar B. Comm.', 'link': []}' \n  Classication: ", 'result': ' faculty'}
+2023-11-07 22:39:24,301 - INFO - 
+
+../data/splits/train_new_short/project/lcwukn.json
+
+
+2023-11-07 22:39:24,301 - INFO - 
+
+1
+
+
