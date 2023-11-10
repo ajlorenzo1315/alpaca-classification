@@ -133,7 +133,9 @@ logging.info(query)
 print(query2)
 logging.info(query2)
 
-model_path = "../llama_models/llama2-chat-ayb-13b.Q5_K_M.gguf"
+model_path = "../llama_models/llama-2-13b-chat.Q4_K_M.gguf"
+# total VRAM used: 6782.52 MB (model: 6424.51 MB, context: 358.00 MB)
+
 llm = LlamaLLM(model_path=model_path,n_ctx=4096,n_gpu_layers=30)
 
 # get API key from app.pinecone.io and environment from console
@@ -178,7 +180,7 @@ rag_pipeline = RetrievalQA.from_chain_type(
 )
 
 
-test,promt_test,a,c=get_all_files('../data/splits/test_new_short',-1)
+test,promt_test,a,c=get_all_files('../data/splits/train_new_short',13)
 #test,promt_test,a,c=get_all_files('./data/splits/train_new',2)
 prompts=[(name,creating_promt(classes,b_2,text_class[0]),creating_promt_2(classes,text_class[0])) for name,text_class in zip(c,a)]
 
@@ -200,15 +202,15 @@ for prompt in tqdm.tqdm(prompts,desc="promting"):
 
     ll_result2=llm(prompt2)
     logging.info(ll_result2)
-    rag_result2=rag_pipeline(prompt2)['result']
+    rag_result2=rag_pipeline(prompt2)
     logging.info(rag_result2)
 
     datos_a_guardar_1.append((name,ll_result1))
     datos_a_guardar_2.append((name,ll_result2))
     datos_a_guardar_3.append((name,rag_result2))
     #datos_a_guardar_4.append((name,rag_result2))
-    guardar_en_csv('resultados_llm1_2.csv', datos_a_guardar_1)   
-    guardar_en_csv('resultados_llm2_2.csv', datos_a_guardar_2)   
-    guardar_en_csv('resultados_rag1_2.csv', datos_a_guardar_3)   
+    guardar_en_csv('resultados_llm1_short.csv', datos_a_guardar_1)   
+    guardar_en_csv('resultados_llm2_short.csv', datos_a_guardar_2)   
+    guardar_en_csv('resultados_rag1_short.csv', datos_a_guardar_3)   
     #guardar_en_csv('resultados_rag2.csv', datos_a_guardar_4)   
 

@@ -4,7 +4,6 @@ from llama_cpp import Llama
 from torch import cuda
 from langchain.embeddings.huggingface import HuggingFaceEmbeddings
 import os
-import pinecone
 import time
 from langchain.vectorstores import Pinecone
 import json
@@ -32,16 +31,22 @@ def guardar_en_csv(nombre_archivo, datos):
         for dato in datos:
             escritor.writerow(dato)
 
+def get_common_key_per_class(path_file,max_key=10):
+    with open(path_file) as f:
+      data = json.load(f)
+    return {key: data[key][:max_key] for key in data.keys()}
 
 def get_file_2(path_file):  
   #print(path_file)
   with open(path_file) as f:
       data = json.load(f)
   #print(data.keys())
-  return {key: data[key] for key in data.keys() if key != 'ground_truth' },data['ground_truth']
+  dict_text={key: data[key] for key in data.keys() if key in {'title','summary','headers','links'} }
+  dict_text['keyword']=data['keyword_frequency_kebert']
+  return dict_text,data['ground_truth']
 
 def get_class(train_path):
-  print(train_path)
+  #print(train_path)
   if os.path.exists(train_path) and os.path.isdir(train_path):
     carpetas = [nombre for nombre in os.listdir(train_path) if os.path.isdir(os.path.join(train_path, nombre))]
     return carpetas
@@ -114,101 +119,78 @@ def creating_promt(class_name,text_traindata,text_classification):
   Text: '{text_classification}' \n\
   Classification: "
 
+def creating_promt_3(class_name,text_traindata,text_classification,keywords):
+  class_name=(', ').join(class_name)
+  text_traindata = ('\n\n').join([f" Text:'{text}' \n Classification: {label}" for text,label in text_traindata])
+  palabras_clave = ('\n').join([f"{label} keywords are {keys} " for label,keys in keywords])
+  return f" Classify the text in this class : {class_name}.\n\
+  Reply with only one word:  {class_name}. \n\
+  {palabras_clave} \n\n \
+  Examples: \n\
+  {text_traindata} \n\n\
+  Text: '{text_classification}' \n\
+  Classification: "
+
+#../data/splits/test_new_data/test/aaclkul.json
+#alpaca-classification/data/splits/train_new_data/course/aaexyuw.json
+promt=get_file_2('../data/splits/train_new_data/course/aaexyuw.json')
+keys_wod=get_common_key_per_class('../data_extrac/keys/course_json_key/keywords.json')
+path_data='../data/splits/train_new_short'
+classes=get_class(path_data)
+promt=creating_promt_3(classes,[(promt,'course')],promt,[('course',keys_wod)])
+print(promt)
 # Configura el archivo de registro
 log_filename = "llama_eval_log.txt"
 logging.basicConfig(filename=log_filename, level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
 
-
-train,promt_train,b,d=get_all_files('../data/splits/train_new_short',-1)
-train,promt_train,b_2,d_2=get_all_files('../data/splits/train_new_short',2)
-#train,promt_train,b,d
-path_data='../data/splits/train_new_short'
-classes=get_class(path_data)
-query=creating_promt_2(classes,b[0][0])
-query2=creating_promt(classes,b_2,b[0][0])
-
-print(query)
-logging.info(query)
-
-print(query2)
-logging.info(query2)
-
+#
+#train,promt_train,b,d=get_all_files('../data/splits/train_new_short',-1)
+#train,promt_train,b_2,d_2=get_all_files('../data/splits/train_new_short',2)
+##train,promt_train,b,d
+#path_data='../data/splits/train_new_short'
+#classes=get_class(path_data)
+#query=creating_promt_2(classes,b[0][0])
+#query2=creating_promt(classes,b_2,b[0][0])
+#
+#print(query)
+#logging.info(query)
+#
+#print(query2)
+#logging.info(query2)
+#
 model_path = "../llama_models/llama2-chat-ayb-13b.Q5_K_M.gguf"
 llm = LlamaLLM(model_path=model_path,n_ctx=4096,n_gpu_layers=30)
-
-# get API key from app.pinecone.io and environment from console
-PINECONE_API_KEY='bc795b6a-d0aa-4877-bdc6-414135eb4bef'
-PINECONE_ENV='gcp-starter'
-pinecone.init(
-    api_key=os.environ.get('PINECONE_API_KEY') or PINECONE_API_KEY,
-    environment=os.environ.get('PINECONE_ENVIRONMENT') or PINECONE_ENV
-)
-
-
-index_name = 'llama-2-rag'
-index = pinecone.Index(index_name)
-logging.info(index.describe_index_stats())
-
-embed_model_id = 'sentence-transformers/all-MiniLM-L6-v2'
-device = f'cuda:{cuda.current_device()}' if cuda.is_available() else 'cpu'
-
-embed_model = HuggingFaceEmbeddings(
-    model_name=embed_model_id,
-    model_kwargs={'device': device},
-    encode_kwargs={'device': device, 'batch_size': 16}
-)
-
-
-text_field = 'text'  # field in metadata that contains text content
-
-vectorstore = Pinecone(
-    index, embed_model.embed_query, text_field
-)
-
-vectorstore.similarity_search(
-    query,  # the search query
-    k=5  # returns top 3 most relevant chunks of text
-)
-
-
-
-rag_pipeline = RetrievalQA.from_chain_type(
-    llm=llm, chain_type='stuff',
-    retriever=vectorstore.as_retriever()
-)
-
-
-test,promt_test,a,c=get_all_files('../data/splits/test_new_short',-1)
-#test,promt_test,a,c=get_all_files('./data/splits/train_new',2)
-prompts=[(name,creating_promt(classes,b_2,text_class[0]),creating_promt_2(classes,text_class[0])) for name,text_class in zip(c,a)]
-
-datos_a_guardar_1 = []
-datos_a_guardar_2 = []
-datos_a_guardar_3 = []
-datos_a_guardar_4 = []
-
-for prompt in tqdm.tqdm(prompts,desc="promting"):
-    name,prompt1,prompt2=prompt
-    logging.info(f'\n\n{name}\n\n')
-    logging.info('\n\n1\n\n')
-    ll_result1=llm(prompt1)
-    logging.info(ll_result1)
-    #rag_result1=rag_pipeline(query)['result']
-    #logging.info(rag_result1)
-
-    logging.info('\n\n2\n\n')
-
-    ll_result2=llm(prompt2)
-    logging.info(ll_result2)
-    rag_result2=rag_pipeline(prompt2)['result']
-    logging.info(rag_result2)
-
-    datos_a_guardar_1.append((name,ll_result1))
-    datos_a_guardar_2.append((name,ll_result2))
-    datos_a_guardar_3.append((name,rag_result2))
-    #datos_a_guardar_4.append((name,rag_result2))
-    guardar_en_csv('resultados_llm1_2.csv', datos_a_guardar_1)   
-    guardar_en_csv('resultados_llm2_2.csv', datos_a_guardar_2)   
-    guardar_en_csv('resultados_rag1_2.csv', datos_a_guardar_3)   
-    #guardar_en_csv('resultados_rag2.csv', datos_a_guardar_4)   
-
+print(llm(promt))
+#
+#
+#test,promt_test,a,c=get_all_files('../data/splits/train_new_short',10)
+##test,promt_test,a,c=get_all_files('./data/splits/train_new',2)
+#prompts=[(name,creating_promt(classes,b_2,text_class[0]),creating_promt_2(classes,text_class[0])) for name,text_class in zip(c,a)]
+#
+#datos_a_guardar_1 = []
+#datos_a_guardar_2 = []
+#datos_a_guardar_3 = []
+#datos_a_guardar_4 = []
+#
+#for prompt in tqdm.tqdm(prompts,desc="promting"):
+#    name,prompt1,prompt2=prompt
+#    logging.info(f'\n\n{name}\n\n')
+#    logging.info('\n\n1\n\n')
+#    ll_result1=llm(prompt1)
+#    logging.info(ll_result1)
+#    #rag_result1=rag_pipeline(query)['result']
+#    #logging.info(rag_result1)
+#
+#    logging.info('\n\n2\n\n')
+#
+#    ll_result2=llm(prompt2)
+#    logging.info(ll_result2)
+#
+#    datos_a_guardar_1.append((name,ll_result1))
+#    datos_a_guardar_2.append((name,ll_result2))
+#    #datos_a_guardar_4.append((name,rag_result2))
+#    guardar_en_csv('resultados_llm1_2.csv', datos_a_guardar_1)   
+#    guardar_en_csv('resultados_llm2_2.csv', datos_a_guardar_2)   
+#    #guardar_en_csv('resultados_rag2.csv', datos_a_guardar_4)   
+#
+#

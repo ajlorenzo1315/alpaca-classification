@@ -134,7 +134,7 @@ print(query2)
 logging.info(query2)
 
 model_path = "../llama_models/llama2-chat-ayb-13b.Q5_K_M.gguf"
-llm = LlamaLLM(model_path=model_path,n_ctx=4096,n_gpu_layers=30)
+llm = LlamaLLM(model_path=model_path,n_ctx=4096,n_gpu_layers=25)
 
 # get API key from app.pinecone.io and environment from console
 PINECONE_API_KEY='bc795b6a-d0aa-4877-bdc6-414135eb4bef'
@@ -183,32 +183,13 @@ test,promt_test,a,c=get_all_files('../data/splits/test_new_short',-1)
 prompts=[(name,creating_promt(classes,b_2,text_class[0]),creating_promt_2(classes,text_class[0])) for name,text_class in zip(c,a)]
 
 datos_a_guardar_1 = []
-datos_a_guardar_2 = []
-datos_a_guardar_3 = []
-datos_a_guardar_4 = []
 
 for prompt in tqdm.tqdm(prompts,desc="promting"):
     name,prompt1,prompt2=prompt
-    logging.info(f'\n\n{name}\n\n')
-    logging.info('\n\n1\n\n')
-    ll_result1=llm(prompt1)
-    logging.info(ll_result1)
-    #rag_result1=rag_pipeline(query)['result']
-    #logging.info(rag_result1)
-
-    logging.info('\n\n2\n\n')
-
-    ll_result2=llm(prompt2)
-    logging.info(ll_result2)
     rag_result2=rag_pipeline(prompt2)['result']
     logging.info(rag_result2)
-
-    datos_a_guardar_1.append((name,ll_result1))
-    datos_a_guardar_2.append((name,ll_result2))
-    datos_a_guardar_3.append((name,rag_result2))
+    datos_a_guardar_1.append((name,rag_result2))
     #datos_a_guardar_4.append((name,rag_result2))
-    guardar_en_csv('resultados_llm1_2.csv', datos_a_guardar_1)   
-    guardar_en_csv('resultados_llm2_2.csv', datos_a_guardar_2)   
-    guardar_en_csv('resultados_rag1_2.csv', datos_a_guardar_3)   
+    guardar_en_csv('resultados_rag1_test.csv', datos_a_guardar_1)   
     #guardar_en_csv('resultados_rag2.csv', datos_a_guardar_4)   
 
