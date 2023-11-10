@@ -1,6 +1,7 @@
 not_git/*
 *.pth
 data/*
+llama-cpp-python-0.1.85
 llama-cpp-python
 **.gguf
 samples/*
