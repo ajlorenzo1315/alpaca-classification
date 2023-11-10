@@ -46,11 +46,12 @@ def creating_promt(class_name,text_traindata,text_classification):
   {text_traindata} \n\n\
   Text: '{text_classification}' \n\
   Classication: "
-  # return f"Classify the text given in one of this classes: {class_name}. Reply with only the name of the class. \n\
-  # Examples: \n\
-  # {text_traindata} \n\n\
-  # Text: '{text_classification}' \n\
-  # Classication: "
+
+def creating_promt_2(class_name,text):
+  class_name=(', ').join(class_name)
+  return f"Classify the text in this class : [{class_name}]. Reply with only one of these words: [{class_name}]. \n\
+  Text: '{text}' \n\
+  Classification: "
 
 
 def get_all_files(path_data,max_cont=-1):
@@ -98,7 +99,7 @@ logging.info("Modelo: %s", model_path)
 llm = Llama(model_path=model_path, n_ctx=4096)
 
 llm_gpu = Llama(model_path=model_path, 
-            n_gpu_layers=28, n_threads=6, n_ctx=3584, n_batch=521, verbose=True)
+            n_gpu_layers=40, n_threads=6, n_ctx=3584, n_batch=521, verbose=True)
 
 
 class_name=get_class('./data/splits/train')
@@ -107,7 +108,8 @@ train,promt_train,b,d=get_all_files('./data/splits/train_new',1)
 test,promt_test,a,c=get_all_files('./data/splits/test_new',-1)
 
 print(class_name,train.keys())
-prompts=[(name,creating_promt(class_name,b,text_class[0] )) for name,text_class in zip(c,a)]
+# prompts=[(name,creating_promt(class_name,b,text_class[0] )) for name,text_class in zip(c,a)]
+prompts=[(name,creating_promt_2(class_name,text_class[0] )) for name,text_class in zip(c,a)]
 
 datos_a_guardar = []
 
