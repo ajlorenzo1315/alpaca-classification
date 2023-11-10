@@ -1,8 +1,8 @@
 not_git/*
 *.pth
 data/*
-llama-cpp-python-0.1.85
-llama-cpp-python
+llama_cpp_python-0.1.85
+llama_cpp_python-0.2.15
 **.gguf
 samples/*
 local-rag/*
