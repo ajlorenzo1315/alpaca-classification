@@ -53,6 +53,25 @@ def creating_promt_2(class_name,text):
   Text: '{text}' \n\
   Classification: "
 
+def get_common_key_per_class(path_file,max_key=10):
+    with open(path_file, 'r', encoding='utf-8') as f:
+      data = json.load(f)
+    return {key: data[key][:max_key] for key in data.keys()}
+
+keys_wod=get_common_key_per_class('../data_extrac/keys/course_json_key/keywords.json')
+
+def creating_promt_3(class_name,text_traindata,text_classification,keywords):
+  class_name=(', ').join(class_name)
+  text_traindata = ('\n\n').join([f" Text:'{text}' \n Classification: {label}" for text,label in text_traindata])
+  palabras_clave = ('\n').join([f"{label} keywords are {keys} " for label,keys in keywords])
+  return f" Classify the text in this class : {class_name}.\n\
+  Reply with only one word:  {class_name}. \n\
+  {palabras_clave} \n\n \
+  Examples: \n\
+  {text_traindata} \n\n\
+  Text: '{text_classification}' \n\
+  Classification: "
+
 
 def get_all_files(path_data,max_cont=-1):
     classes=get_class(path_data)
@@ -109,7 +128,8 @@ test,promt_test,a,c=get_all_files('./data/splits/test_new',-1)
 
 print(class_name,train.keys())
 # prompts=[(name,creating_promt(class_name,b,text_class[0] )) for name,text_class in zip(c,a)]
-prompts=[(name,creating_promt_2(class_name,text_class[0] )) for name,text_class in zip(c,a)]
+# prompts=[(name,creating_promt_2(class_name,text_class[0] )) for name,text_class in zip(c,a)]
+prompts=[(name,creating_promt_3(class_name,b,text_class[0], keys_wod)) for name,text_class in zip(c,a)]
 
 datos_a_guardar = []
 
