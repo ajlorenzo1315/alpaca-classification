@@ -96,6 +96,8 @@ https://github.com/zjunlp/PromptKG
 
 https://agi-sphere.com/retrieval-augmented-generation-llama2/
 
+https://medium.com/mantisnlp/prompt-engineering-part-iii-examples-of-prompt-construction-7aea4e8c89f9
+
 ## Citation
 
 It would be welcome citing my work if you use my codebase for your research.

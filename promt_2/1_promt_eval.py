@@ -210,7 +210,7 @@ for prompt in tqdm.tqdm(prompts,desc="promting"):
 #    datos_a_guardar_2.append((name,ll_result2))
 #    #datos_a_guardar_4.append((name,rag_result2))
 #    guardar_en_csv('resultados_llm1_2.csv', datos_a_guardar_1)   
-#    guardar_en_csv('resultados_llm2_2.csv', datos_a_guardar_2)   
+    guardar_en_csv('resultados_llm2_2.csv', datos_a_guardar_2)   
 #    #guardar_en_csv('resultados_rag2.csv', datos_a_guardar_4)   
 #
 #
