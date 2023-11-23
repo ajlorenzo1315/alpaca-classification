@@ -13,7 +13,6 @@ from langchain.chains import RetrievalQA
 import logging
 import csv
 import tqdm
-from transformers import AutoTokenizer
 
 def guardar_en_csv(nombre_archivo, datos):
     """
