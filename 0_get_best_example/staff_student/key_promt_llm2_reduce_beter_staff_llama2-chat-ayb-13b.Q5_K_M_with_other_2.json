@@ -85,7 +85,6 @@
 {"Titulo": "../data/splits/test_new_data/test/sdyiaw.json", "Resultado": " staff", "Intentos": 84},
 {"Titulo": "../data/splits/test_new_data/test/nmhpr.json", "Resultado": " student", "Intentos": 85},
 {"Titulo": "../data/splits/test_new_data/test/ypxfdn.json", "Resultado": " staff", "Intentos": 86},
-<<<<<<< HEAD
 {"Titulo": "../data/splits/test_new_data/test/xfyqrgf.json", "Resultado": " student", "Intentos": 87},
 {"Titulo": "../data/splits/test_new_data/test/mfpqw.json", "Resultado": " student", "Intentos": 88},
 {"Titulo": "../data/splits/test_new_data/test/vwuwqyt.json", "Resultado": " staff", "Intentos": 89},
@@ -136,5 +135,3 @@
 {"Titulo": "../data/splits/test_new_data/test/ylwraohb.json", "Resultado": " student", "Intentos": 134},
 {"Titulo": "../data/splits/test_new_data/test/ekauzlfp.json", "Resultado": " student", "Intentos": 135},
 {"Titulo": "../data/splits/test_new_data/test/pkxxb.json", "Resultado": " other", "Intentos": 136},
-=======
->>>>>>> 930278adc1327feb40265964d3c8ac2552f9f6ed
