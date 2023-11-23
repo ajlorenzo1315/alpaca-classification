@@ -53,6 +53,39 @@ def creating_promt_2(class_name,text):
   Text: '{text}' \n\
   Classification: "
 
+def get_common_key_per_class(base_path, max_key=10):
+    all_keys = {}
+    
+    # Iterar a través de cada subcarpeta en la ruta base
+    for folder in os.listdir(base_path):
+        folder_path = os.path.join(base_path, folder)
+        
+        # Verificar si el elemento en la ruta es un directorio
+        if os.path.isdir(folder_path):
+            # Suponiendo que cada carpeta tiene un solo archivo JSON, obtener su nombre
+            json_file = next((f for f in os.listdir(folder_path) if f.endswith('.json')), None)
+            if json_file:
+                file_path = os.path.join(folder_path, json_file)
+                with open(file_path, 'r', encoding='utf-8') as f:
+                    data = json.load(f)
+                    # Extraer los 10 primeros elementos del campo 'words'
+                    all_keys[folder] = data['words'][:max_key]
+    
+    return all_keys
+
+keys_wod=get_common_key_per_class('./data_extrac/keys')
+
+def creating_promt_3(class_name, keywords, text_classification):
+    class_name_str = ', '.join(class_name)
+    
+    # Construir la sección de palabras clave asumiendo que cada entrada en keywords es una lista
+    palabras_clave = '\n'.join([f"{folder} keywords are [{', '.join(keys)}].\n" for folder, keys in keywords.items()])
+
+    return f"Classify the text in this class: {class_name_str}.\n\
+    Reply with only one word: {class_name_str}.\n\
+    {palabras_clave}\n\n\
+    Text to classify: '{text_classification}'"
+
 
 def get_all_files(path_data,max_cont=-1):
     classes=get_class(path_data)
@@ -92,14 +125,18 @@ logging.basicConfig(filename=log_filename, level=logging.INFO, format="%(asctime
 # Inicializa Llama
 # Inicializa Llama y guarda la información del modelo en el registro
 # model_path = "./llama_models/llama-2-7b.Q4_K_M.gguf"
-model_path = "./llama_models/llama2-chat-ayb-13b.Q5_K_M.gguf"
+# model_path = "./llama_models/llama2-chat-ayb-13b.Q5_K_M.gguf"
+model_path = "./llama_models/llama-2-70b-chat.Q3_K_S.gguf"
 logging.info("Modelo: %s", model_path)
 
 
-llm = Llama(model_path=model_path, n_ctx=4096)
+# llm = Llama(model_path=model_path, n_ctx=4096)
 
-llm_gpu = Llama(model_path=model_path, 
-            n_gpu_layers=40, n_threads=6, n_ctx=3584, n_batch=521, verbose=True)
+# llm_gpu = Llama(model_path=model_path, 
+#             n_gpu_layers=40, n_threads=6, n_ctx=3584, n_batch=521, verbose=True)
+
+llm_gpu_70B = Llama(model_path=model_path, n_gqa=8, 
+            n_gpu_layers=20, n_threads=8, n_ctx=3584, n_batch=521, verbose=True)
 
 
 class_name=get_class('./data/splits/train')
@@ -109,7 +146,8 @@ test,promt_test,a,c=get_all_files('./data/splits/test_new',-1)
 
 print(class_name,train.keys())
 # prompts=[(name,creating_promt(class_name,b,text_class[0] )) for name,text_class in zip(c,a)]
-prompts=[(name,creating_promt_2(class_name,text_class[0] )) for name,text_class in zip(c,a)]
+# prompts=[(name,creating_promt_2(class_name,text_class[0] )) for name,text_class in zip(c,a)]
+prompts = [(name, creating_promt_3(class_name, keys_wod, text_class[0])) for name, text_class in zip(c, a)]
 
 datos_a_guardar = []
 
@@ -131,7 +169,8 @@ for prompt in tqdm(prompts, desc="promting"):
         intentos += 1  # Incrementar el contador de intentos
         # Ejecutar la función de prompting
         # result = promting(llm, prompt_text, logging)
-        result = promting(llm_gpu, prompt_text, logging)
+        # print(prompt_text)
+        result = promting(llm_gpu_70B, prompt_text, logging)
         
         # Verificar si alguna palabra clave está en el resultado
         if any(palabra in result for palabra in palabras_clave):

@@ -7,3 +7,4 @@ llama_cpp_python-0.2.15
 samples/*
 local-rag/*
 llm-applications/*
+0_get_best_example/llama_eval_log_3.txt

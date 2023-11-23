@@ -96,6 +96,8 @@ https://github.com/zjunlp/PromptKG
 
 https://agi-sphere.com/retrieval-augmented-generation-llama2/
 
+https://medium.com/mantisnlp/prompt-engineering-part-iii-examples-of-prompt-construction-7aea4e8c89f9
+
 ## Citation
 
 It would be welcome citing my work if you use my codebase for your research.
@@ -112,3 +114,13 @@ It would be welcome citing my work if you use my codebase for your research.
     year = {2023}
 }
 ```
+
+
+https://www.linkedin.com/pulse/full-fine-tuning-peft-prompt-engineering-rag-which-one-right-you/
+
+
+https://arxiv.org/pdf/2305.11430.pdf
+
+
+
+http://www.cs.cmu.edu/afs/cs/project/theo-20/www/data/
