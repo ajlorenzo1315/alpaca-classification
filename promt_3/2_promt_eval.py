@@ -36,7 +36,7 @@ def guardar_en_json(nombre_archivo, datos):
 
     for dato in datos:
         datos = dict(zip(cabecera, dato))
-
+    
     with open(nombre_archivo, 'a', encoding='utf-8') as archivo_json:
         archivo_json.write(json.dumps(datos) + ",\n")
 
@@ -160,6 +160,9 @@ def creating_promt(class_name,text_traindata,text_classification):
   Text: '{text_classification}' \n\
   Classification: "
 
+def tranform_text(text):
+  return ' '.join([str(text[key]) for key in text.keys()])
+
 def creating_promt_3(class_name,text_traindata,text_classification,keywords):
   class_name=(', ').join(class_name)
   text_traindata = ('\n\n').join([f" Text:'{text}' \n Classification: {label}" for text,label in text_traindata])
@@ -184,6 +187,20 @@ def creating_promt_4(class_name,text_traindata,text_classification,keywords):
   {text_traindata} \n\n\
   Text: '{text_classification}' \n\
   Classification: "
+
+
+def creating_promt_5(class_name,text_traindata,text_classification,keywords):
+  # quitamos other de los ejemplos y dejamos que sea como todo lo que no tenga clase como otro
+  class_name=(', ').join(class_name)
+  text_traindata = ('\n\n').join([f" Text:'{tranform_text(text)}' \n class: {label}" for text,label in text_traindata if label!='other'])
+  palabras_clave = ('\n').join([f"{label} keywords are {keys} " for label,keys in keywords])
+  return f" Classify  text into one of 7 class : {class_name}.\n\
+  Reply with only one word:  {class_name}. \n\
+  {palabras_clave} \n\n \
+  Examples: \n\
+  {text_traindata} \n\n\
+  Text: '{tranform_text(text_classification)}' \n\
+  class: "
 
 #../data/splits/test_new_data/test/aaclkul.json
 #alpaca-classification/data/splits/train_new_data/course/aaexyuw.json
@@ -213,6 +230,7 @@ train,promt_train,b_2,d_2=get_all_files('../data/splits/train_new_data',1)
 #print(query2)
 #logging.info(query2)
 #
+model_name='llama2-chat-ayb-13b.Q5_K_M'
 model_path = "../llama_models/llama2-chat-ayb-13b.Q5_K_M.gguf"
 llm = LlamaLLM(model_path=model_path,n_ctx=4096,n_gpu_layers=30)
 #print(llm(promt))
@@ -220,7 +238,7 @@ llm = LlamaLLM(model_path=model_path,n_ctx=4096,n_gpu_layers=30)
 #
 test,promt_test,a,c=get_all_files('../data/splits/test_new_data',-1)
 ##test,promt_test,a,c=get_all_files('./data/splits/train_new',2)
-prompts=[(name,creating_promt_4(classes,b_2,text_class[0],keys_wod),creating_promt_2(classes,text_class[0])) for name,text_class in zip(c,a)]
+prompts=[(name,creating_promt_5(classes,b_2,text_class[0],keys_wod),creating_promt_2(classes,text_class[0])) for name,text_class in zip(c,a)]
 
 #
 datos_a_guardar_1 = []
@@ -252,9 +270,9 @@ for prompt in tqdm.tqdm(prompts,desc="promting"):
 #    datos_a_guardar_2.append((name,ll_result2))
 #    #datos_a_guardar_4.append((name,rag_result2))
 #    guardar_en_csv('resultados_llm1_2.csv', datos_a_guardar_1)   
-    guardar_en_csv('resultados_llm2_3.csv', datos_a_guardar_1) 
-    guardar_en_json('resultados_llm2_test_promt_3.json', datos_a_guardar_1)
-    guardar_en_json('datos_no_promting.json', datos_no_promting)   
+#    guardar_en_csv('resultados_llm2_3.csv', datos_a_guardar_1) 
+    guardar_en_json(f'resultados_llm2_test_promt_3{model_name}.json', datos_a_guardar_1)
+#    guardar_en_json('datos_no_promting.json', datos_no_promting)   
 #    #guardar_en_csv('resultados_rag2.csv', datos_a_guardar_4)   
 #
 #
