@@ -7,3 +7,4 @@ llama_cpp_python-0.2.15
 samples/*
 local-rag/*
 llm-applications/*
+llama_promt_log.txt

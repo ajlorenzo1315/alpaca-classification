@@ -1,0 +1,23 @@
+[
+    {
+        "File": "resultados_2023-11-19_12-38-53.json",
+        "Prompt": "Classify the text in this class : [{class_name}]. Reply with only one of these words: [{class_name}]. Text: '{text}'  Classification: ",
+        "Tiempo": "[12:14:33<00:00, 26.58s/it]",
+        "Modelo": "llama-2-70b-chat.Q3_K_S.gguf",
+        "Aceleración cuBlas": "no"
+    },
+    {
+        "File": "resultados_2023-11-20_01-22-20.json",
+        "Prompt": "Classify the text in this class: {class_name_str}. Reply with only one word: {class_name_str}. {palabras_clave} Text to classify: '{text_classification}' ",
+        "Tiempo": "[1:14:33<00:00, 3.58s/it]",
+        "Modelo": "llama2-chat-ayb-13b.Q5_K_M.gguf",
+        "Aceleración cuBlas": "no"
+    },
+    {
+        "File": "resultados_2023-11-20_02-39-31.json",
+        "Prompt": "Classify the text given in one of this classes: {class_name}. Reply with only the name of the class. \n\n Examples: \n\n 'text_traindata' \n\n Text: 'text_classification' \n\n Classication: ",
+        "Tiempo": "[16:24:41<00:00, 3.58s/it]",
+        "Modelo": "llama-2-70b-chat.Q3_K_S.gguf",
+        "Aceleración cuBlas": "si"
+    }
+]
