@@ -27,7 +27,7 @@ def extract_result(result):
         if len(result)>0:
             return  result[0]
         else:
-            return 'other'
+            return '-1'
     else:
         return ''
 
@@ -39,8 +39,12 @@ def format_predictions(directory_path):
             with open(file_path, 'r', encoding='utf-8') as f:
                 file_data = json.load(f)
                 for item in file_data:
-                    data.append((os.path.splitext(os.path.basename(item["Titulo"]))[0], extract_result(item["Resultado"])))
+                    a=os.path.splitext(os.path.basename(item["Titulo"]))[0]
+                    b=extract_result(item["Resultado"])
+                    if b !='-1':
+                        data.append((a,b))
             df = pd.DataFrame(data, columns=["file_name", "predicted_class"])
             df.to_csv(os.path.join(directory_path, file_name.replace('.json', '.csv')), index=False)
 
 format_predictions('./resultados/')
+format_predictions('./result_2/')

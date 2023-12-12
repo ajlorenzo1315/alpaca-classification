@@ -629,7 +629,7 @@ moksh,other,other,other,"('other', 'other', 'other')",other,other
 zonegssw,course,course,course,"('course', 'course', 'course')",course,course
 vxydxvhn,faculty,faculty,faculty,"('faculty', 'faculty', 'faculty')",faculty,faculty
 pomrzubt,department,other,department,"('department', 'other', 'department')",department,None
-xmrhqtqb,other,student,faculty,"('other', 'student', 'faculty')",faculty,None
+xmrhqtqb,other,student,faculty,"('other', 'student', 'faculty')",other,None
 goxgfr,student,student,staff,"('student', 'student', 'staff')",student,None
 pcfxm,other,other,other,"('other', 'other', 'other')",other,other
 sqbpijj,other,other,other,"('other', 'other', 'other')",other,other
@@ -1134,7 +1134,7 @@ biaio,student,student,student,"('student', 'student', 'student')",student,studen
 xwdvabs,faculty,faculty,faculty,"('faculty', 'faculty', 'faculty')",faculty,faculty
 wayudf,department,department,department,"('department', 'department', 'department')",department,department
 ygrgy,other,course,course,"('other', 'course', 'course')",course,None
-rjbqqdw,other,faculty,course,"('other', 'faculty', 'course')",faculty,None
+rjbqqdw,other,faculty,course,"('other', 'faculty', 'course')",other,None
 ziuunycb,project,other,other,"('project', 'other', 'other')",other,None
 dwsrmkmd,course,course,course,"('course', 'course', 'course')",course,course
 hcxyp,course,course,course,"('course', 'course', 'course')",course,course
@@ -1366,7 +1366,7 @@ rpwonk,course,course,course,"('course', 'course', 'course')",course,course
 iypszquv,other,other,other,"('other', 'other', 'other')",other,other
 beveykcq,other,other,other,"('other', 'other', 'other')",other,other
 uqvegan,course,course,course,"('course', 'course', 'course')",course,course
-spvpn,other,faculty,student,"('other', 'faculty', 'student')",faculty,None
+spvpn,other,faculty,student,"('other', 'faculty', 'student')",other,None
 obdwbbir,faculty,faculty,student,"('faculty', 'faculty', 'student')",faculty,None
 qygqm,other,other,other,"('other', 'other', 'other')",other,other
 ewwcso,faculty,faculty,faculty,"('faculty', 'faculty', 'faculty')",faculty,faculty
@@ -1388,7 +1388,7 @@ oosiq,student,student,student,"('student', 'student', 'student')",student,studen
 voaecend,course,course,course,"('course', 'course', 'course')",course,course
 iczwhz,student,student,student,"('student', 'student', 'student')",student,student
 empwxl,other,other,other,"('other', 'other', 'other')",other,other
-zzszho,other,student,staff,"('other', 'student', 'staff')",student,None
+zzszho,other,student,staff,"('other', 'student', 'staff')",other,None
 qqpjjl,other,other,other,"('other', 'other', 'other')",other,other
 wkkwq,other,other,other,"('other', 'other', 'other')",other,other
 rvwffq,course,course,course,"('course', 'course', 'course')",course,course

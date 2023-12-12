@@ -15,6 +15,7 @@ import logging
 import csv
 import tqdm
 from transformers import AutoTokenizer
+import pandas as pd
 
 def guardar_en_csv(nombre_archivo, datos):
     """
@@ -112,25 +113,33 @@ def get_all_files(path_data,max_cont=-1):
        prompt_per_clases['test']=[get_file_2(archive) for archive  in  archiver_per_clases['test']]
 
     # Clave especial para ir de último
-    clave_especial = 'other'
+    # clave_especial = 'other'
+    clave_especial = '-1'
     # Ordenar el diccionario por el valor, manteniendo 'other' al final si existe
     ordenado = sorted(cantidad_archivos.items(), key=lambda item: (item[0] == clave_especial, -item[1]))
 
     ordenado=[i[0] for i in ordenado ]
     return archiver_per_clases,prompt_per_clases,promt_all_reson,archiver_all_reson,ordenado
 
-def get_all_keys(path_data,max_cont=-1):
+
+
+
+def get_all_keys(path_data,max_cont=-1,other=True,diferent=True):
     #'./data/splits/train_json'
     classes=get_class(path_data)
-    promt_all_reson=[]
+    promt_all_reson={}
 
     if len(classes)>0:
       for class_name in classes:
-        if class_name != 'other':
+        if class_name != 'other' or other:
           archive=get_archives(os.path.join(path_data,class_name))[0]
-          promt_all_reson.append(get_common_key_per_class(archive))
+          if diferent:
+            promt_all_reson[class_name]=get_common_key_per_class(archive,max_cont)[1]
+          else:
+            promt_all_reson[class_name]=get_common_key_per_class(archive,max_cont)[1]
     print(promt_all_reson)
     return promt_all_reson
+
 
 
 class LlamaLLM(LLM):
@@ -173,10 +182,11 @@ def creating_promt(class_name,text_traindata,text_classification):
 def tranform_text(text):
   return ' '.join([str(text[key]) for key in text.keys()])
 
-def creating_promt_3(class_name,text_traindata,text_classification,keywords):
-  class_name=(', ').join(class_name)
+def creating_promt_3(class_name_list,text_traindata,text_classification,keywords):
+  print(class_name_list)
+  class_name=(', ').join(class_name_list)
   text_traindata = ('\n\n').join([f" Text:'{text}' \n Classification: {label}" for text,label in text_traindata])
-  palabras_clave = ('\n').join([f"{label} keywords are {keys} " for label,keys in keywords])
+  palabras_clave = ('\n').join([f"{label}:{','. join(keywords[label])} " for label in class_name_list])#('\n').join([f"{label} keywords are {keys} " for label,keys in keywords])
   return f" Classify the text in this class : {class_name}.\n\
   Reply with only one word:  {class_name}. \n\
   {palabras_clave} \n\n \
@@ -185,12 +195,12 @@ def creating_promt_3(class_name,text_traindata,text_classification,keywords):
   Text: '{text_classification}' \n\
   Classification: "
 
-def creating_promt_4(class_name,text_traindata,text_classification,keywords):
+def creating_promt_4(class_name_list,text_traindata,text_classification,keywords):
   #print(text_classification)
   # quitamos other de los ejemplos y dejamos que sea como todo lo que no tenga clase como otro
-  class_name=(', ').join(class_name)
+  class_name=(', ').join(class_name_list)
   text_traindata = ('\n\n').join([f" Text:'{text}' \n Classification: {label}" for text,label in text_traindata if label!='other'])
-  palabras_clave = ('\n').join([f"{label} keywords are {keys} " for label,keys in keywords])
+  palabras_clave = ('\n').join([f"{label}:{','. join(keywords[label])} " for label in class_name_list])#('\n').join([f"{label} keywords are {keys} " for label,keys in keywords])
   return f" Classify the text in this class : {class_name}.\n\
   Reply with only one word:  {class_name}. \n\
   {palabras_clave} \n\n \
@@ -200,12 +210,12 @@ def creating_promt_4(class_name,text_traindata,text_classification,keywords):
   Classification: "
 
 
-def creating_promt_6(class_name,text_traindata,text_classification,keywords):
+def creating_promt_6(class_name_list,text_traindata,text_classification,keywords):
   #print(text_classification)
   # quitamos other de los ejemplos y dejamos que sea como todo lo que no tenga clase como otro
-  class_name=(', ').join(class_name)
+  class_name=(', ').join(class_name_list)
   text_traindata = ('\n\n').join([f" Text:'{text}' \n Classification: {label}" for text,label in text_traindata ])
-  palabras_clave = ('\n').join([f"{label} keywords are {keys} " for label,keys in keywords])
+  palabras_clave = ('\n').join([f"{label}:{','. join(keywords[label])} " for label in class_name_list])#('\n').join([f"{label} keywords are {keys} " for label,keys in keywords])
   return f" Classify the text in this class : {class_name}.\n\
   Reply with only one word:  {class_name}. \n\
   {palabras_clave} \n\n \
@@ -215,11 +225,11 @@ def creating_promt_6(class_name,text_traindata,text_classification,keywords):
   Classification: "
 
 
-def creating_promt_5(class_name,text_traindata,text_classification,keywords):
+def creating_promt_5(class_name_list,text_traindata,text_classification,keywords):
   # quitamos other de los ejemplos y dejamos que sea como todo lo que no tenga clase como otro
-  class_name=(', ').join(class_name)
+  class_name=(', ').join(class_name_list)
   text_traindata = ('\n\n').join([f" Text:'{tranform_text(text)}' \n class: {label}" for text,label in text_traindata if label!='other'])
-  palabras_clave = ('\n').join([f"{label} keywords are {keys} " for label,keys in keywords])
+  palabras_clave = ('\n').join([f"{label}:{','. join(keywords[label])} " for label in class_name_list])#('\n').join([f"{label} keywords are {keys} " for label,keys in keywords])
   return f" Classify  text into one of 7 class : {class_name}.\n\
   Reply with only one word:  {class_name}. \n\
   {palabras_clave} \n\n \
@@ -227,6 +237,121 @@ def creating_promt_5(class_name,text_traindata,text_classification,keywords):
   {text_traindata} \n\n\
   Text: '{tranform_text(text_classification)}' \n\
   class: "
+
+
+def creating_promt_7(class_name_list,text_traindata,text_classification,keywords):
+  """"Classify the following texts into one of these categories: student, faculty, course, project, department, staff, or other. Provide your response using only one word from these options.
+
+    Associated keywords for each category are:
+
+    Staff: gmtserver, cs, apache, programming, computing, web, compiler, computer, compilers, distributed
+    Project: computing, programming, compiler, robotics, distributed, software, computational, parallel, ai, multimedia
+    Faculty: computing, programming, cs, algorithms, computational, edu, parallel, computer, compilers, distributed
+    Department: cs, faculty, computing, edu, university, campus, ncsa, courses, webmaster, web
+    Student: cs, programming, computing, resume, web, gmtserver, edu, page, university, computer
+    Course: programming, syllabus, assignments, cs, lecture, algorithms, exam, cse, instructor, grading"""
+
+  # quitamos other de los ejemplos y dejamos que sea como todo lo que no tenga clase como otro
+  class_name=(', ').join(class_name_list)
+  text_traindata = ('\n\n').join([f" Text:'{text}' \n Classification: {label}" for text,label in text_traindata ])
+  palabras_clave = ('\n').join([f"{label}:{','. join(keywords[label])} " for label in class_name_list]) #('\n').join([f"{label}:{','. join(keys)}\ " for label,keys in keywords])
+  return f"Classify the last text into one of these categories: {class_name}. Provide your response using only one word from these options.\n\
+Associated keywords for each category are:\n{palabras_clave}\n\n\
+Examples:\n{text_traindata}\n\n\
+Classify:\n\
+Text: {text_classification}\n\
+Classification: "
+
+def creating_promt_8(class_name,text_traindata,text_classification,keywords):
+  """"Classify the following texts into one of these categories: student, faculty, course, project, department, staff, or other. Provide your response using only one word from these options.
+
+    Associated keywords for each category are:
+
+    Staff: gmtserver, cs, apache, programming, computing, web, compiler, computer, compilers, distributed
+    Project: computing, programming, compiler, robotics, distributed, software, computational, parallel, ai, multimedia
+    Faculty: computing, programming, cs, algorithms, computational, edu, parallel, computer, compilers, distributed
+    Department: cs, faculty, computing, edu, university, campus, ncsa, courses, webmaster, web
+    Student: cs, programming, computing, resume, web, gmtserver, edu, page, university, computer
+    Course: programming, syllabus, assignments, cs, lecture, algorithms, exam, cse, instructor, grading"""
+
+  # quitamos other de los ejemplos y dejamos que sea como todo lo que no tenga clase como otro
+  class_name=(', ').join(class_name_list)
+  text_traindata = ('\n\n').join([f" Text:'{text}' \n Classification: {label}" for text,label in text_traindata ])
+  palabras_clave = ('\n').join([f"{label}:{','. join(keywords[label])} " for label in class_name_list])#('\n').join([f"{label}:{','. join(keys)} " for label,keys in keywords])
+  return f"Classify the last Text into one of these categories: {class_name}. Provide your response using only one word from these options.\n\
+\nAssociated keywords for each category are:\n\n{palabras_clave}\n\n\
+Examples:\n{text_traindata}\n\n\
+Text: {text_classification}\n\
+Classification: "
+
+def creating_promt_9(class_name_list,text_traindata,text_classification,keywords):
+  """"Classify the following texts into one of these categories: student, faculty, course, project, department, staff, or other. Provide your response using only one word from these options.
+
+    Associated keywords for each category are:
+
+    Staff: gmtserver, cs, apache, programming, computing, web, compiler, computer, compilers, distributed
+    Project: computing, programming, compiler, robotics, distributed, software, computational, parallel, ai, multimedia
+    Faculty: computing, programming, cs, algorithms, computational, edu, parallel, computer, compilers, distributed
+    Department: cs, faculty, computing, edu, university, campus, ncsa, courses, webmaster, web
+    Student: cs, programming, computing, resume, web, gmtserver, edu, page, university, computer
+    Course: programming, syllabus, assignments, cs, lecture, algorithms, exam, cse, instructor, grading"""
+
+  # quitamos other de los ejemplos y dejamos que sea como todo lo que no tenga clase como otro
+  class_name=(', ').join(class_name_list)
+  text_traindata = ('\n\n').join([f" Text:'{text}' \n Classification: {label}" for text,label in text_traindata ])
+  palabras_clave = ('\n').join([f"{label}:{','. join(keywords[label])} " for label in class_name_list])
+  return f"Classify the last Text into one of these categories: {class_name}. Provide your response using only one word from these options.\n\
+\nAssociated keywords for each category are:\n\n{palabras_clave}\n\n\
+Examples:\n{text_traindata}\n\n\
+Text: {text_classification}\n\
+Classification: "
+
+def creating_promt_9(class_name_list,text_traindata,text_classification,keywords):
+  """"Classify the following texts into one of these categories: student, faculty, course, project, department, staff, or other. Provide your response using only one word from these options.
+
+    Associated keywords for each category are:
+
+    Staff: gmtserver, cs, apache, programming, computing, web, compiler, computer, compilers, distributed
+    Project: computing, programming, compiler, robotics, distributed, software, computational, parallel, ai, multimedia
+    Faculty: computing, programming, cs, algorithms, computational, edu, parallel, computer, compilers, distributed
+    Department: cs, faculty, computing, edu, university, campus, ncsa, courses, webmaster, web
+    Student: cs, programming, computing, resume, web, gmtserver, edu, page, university, computer
+    Course: programming, syllabus, assignments, cs, lecture, algorithms, exam, cse, instructor, grading"""
+
+  # quitamos other de los ejemplos y dejamos que sea como todo lo que no tenga clase como otro
+  class_name=(', ').join(class_name_list)
+  text_traindata = ('\n\n').join([f" Text:'{text}' \n Classification: {label}" for text,label in text_traindata ])
+  palabras_clave = ('\n').join([f"{label}:{','. join(keywords[label])} " for label in class_name_list])
+  return f"Classify the last Text into one of these categories: {class_name}. Provide your response using only one word from these options.\n\
+\nAssociated keywords for each category are:\n\n{palabras_clave}\n\n\
+Examples:\n{text_traindata}\n\n\
+Text: {text_classification}\n\
+Classification: "
+
+
+def creating_promt_10(class_name_list,text_traindata,text_classification,keywords):
+  """"Classify the following texts into one of these categories: student, faculty, course, project, department, staff, or other. Provide your response using only one word from these options.
+
+    Associated keywords for each category are:
+
+    Staff: gmtserver, cs, apache, programming, computing, web, compiler, computer, compilers, distributed
+    Project: computing, programming, compiler, robotics, distributed, software, computational, parallel, ai, multimedia
+    Faculty: computing, programming, cs, algorithms, computational, edu, parallel, computer, compilers, distributed
+    Department: cs, faculty, computing, edu, university, campus, ncsa, courses, webmaster, web
+    Student: cs, programming, computing, resume, web, gmtserver, edu, page, university, computer
+    Course: programming, syllabus, assignments, cs, lecture, algorithms, exam, cse, instructor, grading"""
+
+  # quitamos other de los ejemplos y dejamos que sea como todo lo que no tenga clase como otro
+  class_name=(', ').join(class_name_list)
+  text_traindata = ('\n\n').join([f" Text:'{text}' \n Category: {label}" for text,label in text_traindata ])
+  palabras_clave = ('\n').join([f"{label}:{','. join(keywords[label])} " for label in class_name_list])
+  return f"Classify the last Text into one of these categories: {class_name}. Provide your response using only one word from these options.\n\
+\nAssociated keywords for each category are:\n\n{palabras_clave}\n\n\
+Examples:\n{text_traindata}\n\n\
+Text: {text_classification}\n\
+Category: "
+
+
 
 def get_name_archive(archive):
   return os.path.splitext(os.path.basename(archive))[0]
@@ -241,7 +366,7 @@ classes=get_class(path_data)
 promt=creating_promt_3(classes,[(promt,'course')],promt,keys_wod)
 #print(promt)
 # Configura el archivo de registro
-log_filename = "llama_eval_log_more_bes_evalt_with_other_key_word.txt"
+log_filename = "log_promt_9_eval.txt"
 logging.basicConfig(filename=log_filename, level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
 
 #
@@ -302,19 +427,24 @@ for key in promt_train.keys():
 
 #print(len(get_examples),promt_train['staff'][i] )
 logging.info(examples_to_promt)
-prompts=[(name,creating_promt_4(classes,examples_to_promt,text_class,keys_wod),
-creating_promt_2(classes,text_class[0])) for name,text_class in zip(c,a) if get_name_archive(name) in archives_pobe ]
+#prompts=[(name,creating_promt_8(classes,examples_to_promt,text_class[0],keys_wod),
+#creating_promt_2(classes,text_class[0])) for name,text_class in zip(c,a) if get_name_archive(name) in archives_pobe ]
 # probamos con todods los archivos
-#prompts=[(name,creating_promt_6(classes,examples_to_promt,text_class,keys_wod),
-#creating_promt_2(classes,text_class[0])) for name,text_class in zip(c,a) ]
+prompts=[(name,creating_promt_7(classes,examples_to_promt,text_class,keys_wod),
+creating_promt_2(classes,text_class[0])) for name,text_class in zip(c,a) ]
 #print(prompts[0])
 datos_a_guardar_1 = []
 datos_no_promting=[]
 name_examaple_text='-1'#get_name_archive(example)
 
+path_rag='./result_2/key_promt_new_promt_9_eval_staff_llama2-chat-ayb-13b.Q5_K_M_with_other.csv'
+sub_df = pd.read_csv(path_rag)
+not_process_again=sub_df['file_name'].tolist()
 
 for indx,prompt in tqdm.tqdm(enumerate(prompts),desc="promting"):
     name,prompt1,prompt2=prompt
+    if get_name_archive(name) in not_process_again:
+      continue
     try:
       logging.info(f'\n\n{name}\n\n')
       logging.info(f'\n\n1 {len(prompt1)}\n\n')
@@ -327,7 +457,7 @@ for indx,prompt in tqdm.tqdm(enumerate(prompts),desc="promting"):
       logging.error(f'Error: {e}')
       logging.info(f'\n\nfallo por {len(prompt1)}\n\n')
       datos_no_promting.append((name,'',1))
-    guardar_en_json(f'./staff_student/{key_promt}_llm2_reduce_beter_{class_selected}_{model_name}_with_other.json', datos_a_guardar_1)
+    guardar_en_json(f'./staff_student/{key_promt}_new_promt_9_eval_{class_selected}_{model_name}_with_other.json', datos_a_guardar_1)
 
 #print(len(datos_no_promting))
 

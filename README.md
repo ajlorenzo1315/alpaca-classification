@@ -124,3 +124,5 @@ https://arxiv.org/pdf/2305.11430.pdf
 
 
 http://www.cs.cmu.edu/afs/cs/project/theo-20/www/data/
+
+https://paperswithcode.com/paper/adaprompt-adaptive-prompt-based-finetuning
