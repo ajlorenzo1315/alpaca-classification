@@ -1,0 +1,10 @@
+{
+    "Title": "The PREDATOR Project",
+    "Body": "Paper describing the Enhanced Abstract Data Type (E-ADT) paradigm Code design of PREDATOR How to install PREDATOR Tips on system development Coding conventions Testing Acknowledgements What is PREDATOR?",
+    "link": [
+        "#sec:intro",
+        "#sec:eadt",
+        "#sec:design"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "CS101-401&402 home page",
+    "Body": "If you are unable to do this, you should go to McVey Hall 107 with a student id and ask for a POP account, latter you will also need a SAC account.",
+    "link": [
+        "http://al.cs.engr.uky.edu:80/~lusena/CS101/syllabus.html",
+        "http://al.cs.engr.uky.edu:80/~lusena/CS101/labs.html",
+        "http://al.cs.engr.uky.edu:80/~lusena/CS101/homeworks.html"
+    ],
+    "ground_truth": "course"
+}

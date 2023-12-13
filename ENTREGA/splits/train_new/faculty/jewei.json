@@ -1,0 +1,10 @@
+{
+    "Title": "Stanley Su Home Page",
+    "Body": "Principal Investigator Title: \"Research on Database Management and Database Engineering\" University of Florida, Center of Excellence",
+    "link": [
+        "http://www.cis.ufl.edu/~su/su.gif",
+        "http://www.cis.ufl.edu/~hanson/DB-Center",
+        "http://www.cis.ufl.edu"
+    ],
+    "ground_truth": "faculty"
+}

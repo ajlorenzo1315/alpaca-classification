@@ -1,0 +1,9 @@
+{
+    "Title": "Lenhart K. Schubert's Home Page",
+    "Body": "This has provided both a context for some of the above work on language processing, and an impetus for recent work on ``scalable'' temporal reasoning, and on a new approach to the frame problem in planning, called ``explanation closure.''",
+    "link": [
+        "http://www.cs.rochester.edu/users/faculty.html",
+        "http://www.cs.rochester.edu/urcs.html"
+    ],
+    "ground_truth": "faculty"
+}

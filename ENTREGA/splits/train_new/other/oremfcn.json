@@ -1,0 +1,10 @@
+{
+    "Title": "Software Page",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Tuesday, 07-Jan-97 15:50:33 GMT Content-Type: text/html Content-Length: 2969 Last-Modified: Wednesday, 25-Dec-96 09:11:54 GMT Software Page Software Distributions Following is a list of software distributions; each entry consists of a description of the distribution, and a hypertext link to the distribution.",
+    "link": [
+        "http://cs.utexas.edu",
+        "http://www.cs.utexas.edu",
+        "http://www.cs.utexas.edu/users/schwartz/index.html"
+    ],
+    "ground_truth": "other"
+}

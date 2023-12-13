@@ -1,0 +1,10 @@
+{
+    "Title": "University of Cambridge Computer Lab Home Page",
+    "Body": "Local information An overview of the Computer Laboratory List of members of the Department , also available for TABLE capable browsers All known information servers in Cambridge Cambridge University Information System All newsgroups available in the local news server Computer Lab newsgroups: ucam.cl.announce ucam.cl.misc ucam.cl.students Anonymous FTP area for cl.cam.ac.uk (also available via WWW ) Maps of the Computer Lab and How to get here Find someone using their Active Badge .",
+    "link": [
+        "http://www.cl.cam.ac.uk/DeptInfo/Overview/Overview.html",
+        "http://www.w3.org/hypertext/WWW/TheProject.html",
+        "http://www.cam.ac.uk/"
+    ],
+    "ground_truth": "department"
+}

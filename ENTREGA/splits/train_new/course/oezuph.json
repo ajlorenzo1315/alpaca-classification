@@ -1,0 +1,10 @@
+{
+    "Title": "No title",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Wednesday, 20-Nov-96 20:17:24 GMT Content-Type: text/html Content-Length: 2942 Last-Modified: Tuesday, 19-Nov-96 16:38:51 GMT 681 The Design and Analysis of Algorithms: Homepage Instructor: Ronitt Rubinfeld TA: Evan Moran Time: MWF 2:30-3:20 Location: Upson  111A Text: Kozen, The Design and Analysis of Algorithms, Springer-Verlag.",
+    "link": [
+        "http://WWW.cs.cornell.edu/Info/Courses/Fall-96/CS681/info.ps",
+        "http://WWW.cs.cornell.edu/Info/Courses/Fall-96/CS681/syll.ps",
+        "http://WWW.cs.cornell.edu/Info/Courses/Fall-96/CS681/h1.ps"
+    ],
+    "ground_truth": "course"
+}

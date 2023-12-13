@@ -1,0 +1,10 @@
+{
+    "Title": "\nCharles Thayer's Home Page\n",
+    "Body": "-- Experimental document being written Charles Thayer Stub Techno-Fun Stuff Perl 5 man pages Perl Manual Perl World Wide Web Page Perl BBS Some merges of perl and snmp are available from: The DNPAP of Delft University of Technology (ftp Tricklet) , and CMU's SNMP folks .",
+    "link": [
+        "http://www.cs.columbia.edu/~thayer/bitmaps/moose-card-red.gif",
+        "http://www.cs.columbia.edu:/~thayer/Hotlist.html",
+        "http://www.cs.columbia.edu/~thayer/announce.cgi"
+    ],
+    "ground_truth": "staff"
+}

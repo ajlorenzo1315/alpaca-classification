@@ -1,0 +1,10 @@
+{
+    "Title": "Hui Lei",
+    "Body": "Date: Tue, 26 Nov 1996 02:51:24 GMT Server: Apache/1.1.1 Content-type: text/html Content-length: 3438 Last-modified: Wed, 20 Nov 1996 22:52:30 GMT Hui Lei Hui Lei Mobile Computing Lab Computer Science Department Columbia University School Columbia University , New York, NY Ph.D. candidate in Computer Science .",
+    "link": [
+        "http://www.cs.columbia.edu/cgi-bin/finger?lei@cs.columbia.edu",
+        "http://www.mcl.cs.columbia.edu/",
+        "http://www.cs.columbia.edu/"
+    ],
+    "ground_truth": "student"
+}

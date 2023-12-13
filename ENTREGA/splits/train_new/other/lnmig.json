@@ -1,0 +1,10 @@
+{
+    "Title": "Hoofer Outing Club",
+    "Body": "MIME-Version: 1.0 Server: WebSTAR/1.1 ID/4738 Message-ID: Date: Monday, 04-Nov-96 17:42:59 GMT Last-Modified: Tuesday, 01-Oct-96 16:30:10 GMT Content-type: text/html Content-length: 2470 Hoofer Outing Club The Hoofer Outing Club is an outdoor activities club for all interests, all seasons and all ages.",
+    "link": [
+        "http://rso.union.wisc.edu/Hoofers/outing/trips/thisweek.html",
+        "http://rso.union.wisc.edu/Hoofers/outing/officers.html",
+        "http://rso.union.wisc.edu/Hoofers/outing/biking.html"
+    ],
+    "ground_truth": "other"
+}

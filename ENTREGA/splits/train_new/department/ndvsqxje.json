@@ -1,0 +1,10 @@
+{
+    "Title": "Oberlin College Computer Science Home Page",
+    "Body": "Date: Tue, 26 Nov 1996 22:51:28 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Tue, 19 Nov 1996 16:32:04 GMT Content-length: 3284 Oberlin College Computer Science Home Page Welcome to the Oberlin College Computer Science World Wide Web Server.",
+    "link": [
+        "http://www.cs.oberlin.edu/handbook.html",
+        "http://www-ts.cs.oberlin.edu/",
+        "http://www.cs.oberlin.edu/dept/cl@Computing@Resources.html#cl@Computing@Resources"
+    ],
+    "ground_truth": "department"
+}

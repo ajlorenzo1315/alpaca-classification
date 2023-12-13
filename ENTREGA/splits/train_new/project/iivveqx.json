@@ -1,0 +1,8 @@
+{
+    "Title": "No title",
+    "Body": "One set of files is being shared between UCLA and ISI, another between UCLA, ARPA, and TIS's Maryland office, and a third between ARPA and TIS.",
+    "link": [
+        "http://www.cs.ucla.edu/travler/replication.html> Rumor </A>.\n\n<P>\nOther Truffles work will include \n<LI>developing software that replaces the remaining components of the \nkernel version of Truffles\n<LI>developing a security model for operation in the Truffles environment\n<LI>verifying that the User-Level Truffles software properly implements\nthis security model\n<LI>investigating issues of cooperative work under conditions of limited trust \nin the Internet environment\n<LI>improving the portability and distributability of the User-Level\nTruffles package.\n \n\n<p>\nThe Truffles project has been performed entirely under HPCC funding.\n<P>\nTrusted Information Systems maintains a \n<A HREF = "
+    ],
+    "ground_truth": "project"
+}

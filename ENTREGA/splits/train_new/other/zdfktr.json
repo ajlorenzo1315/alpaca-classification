@@ -1,0 +1,10 @@
+{
+    "Title": " Chinook Specification ",
+    "Body": "The structural output of vp ( .env and .bun files) specifies which microcontroller to use and the devices that need to be connected to it.",
+    "link": [
+        "ch-dac94.ps",
+        "verilog.html",
+        "devlib.html"
+    ],
+    "ground_truth": "other"
+}

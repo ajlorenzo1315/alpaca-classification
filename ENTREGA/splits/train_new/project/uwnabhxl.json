@@ -1,0 +1,10 @@
+{
+    "Title": "Steve Seitz's Animation Writeup",
+    "Body": "Date: Thu, 07 Nov 1996 19:23:01 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Fri, 03 Jun 1994 18:51:03 GMT Content-length: 1129 Steve Seitz's Animation Writeup Image Motion Analysis for Character Animation Control Steve Seitz , Chuck Dyer Our research is motivated by the problem of teaching a graphical model to perform a realistic motion.",
+    "link": [
+        "http://www.cs.wisc.edu/~seitz/animation.gif",
+        "http://www.cs.wisc.edu/~seitz/seitz.html",
+        "http://www.cs.wisc.edu/~dyer/dyer.html"
+    ],
+    "ground_truth": "project"
+}

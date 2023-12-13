@@ -1,0 +1,10 @@
+{
+    "Title": "\nESEG List Of Publications\n",
+    "Body": "Connie Ramsey and Victor R. Basili, An Evaluation of Expert Systems for Software Engineering Management, IEEE Transactions on Software Engineering, June 1989, pp 747-759.",
+    "link": [
+        "http://www.cs.umd.edu/campus/campus.html",
+        "http://www.cs.umd.edu",
+        "http://www.cs.umd.edu/~melo/"
+    ],
+    "ground_truth": "other"
+}

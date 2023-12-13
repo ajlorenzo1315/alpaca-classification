@@ -1,0 +1,10 @@
+{
+    "Title": "How To",
+    "Body": "How to use C++: To use g++ on squeegee: add /opt/gnu/bin in the PATH in .cshrc.5.",
+    "link": [
+        "http://cs.nyu.edu/cs/faculty/schonber/index.html",
+        "http://www.sun.com",
+        "http://java.sun.com/tutorial/index.html"
+    ],
+    "ground_truth": "other"
+}

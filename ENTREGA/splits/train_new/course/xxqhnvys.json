@@ -1,0 +1,10 @@
+{
+    "Title": "CS 378 Course Description",
+    "Body": "Newsgroups A course newsgroup is setup as a forum for open discussion and announcements about the course.",
+    "link": [
+        "http://www.cs.utexas.edu/users/lavender",
+        "mailto:lavender@cs.utexas.edu",
+        "http://www.cs.utexas.edu/users/gokul"
+    ],
+    "ground_truth": "course"
+}

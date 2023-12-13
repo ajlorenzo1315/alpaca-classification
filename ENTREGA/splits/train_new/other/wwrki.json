@@ -1,0 +1,10 @@
+{
+    "Title": "Some Computational Aspects of Physical Mapping with Probes",
+    "Body": "This paper explores the computational aspect of several recent approaches to physical mapping using the probe hybridization technique.",
+    "link": [
+        "node1.html",
+        "node1.html",
+        "node1.html#SECTION00010000000000000000"
+    ],
+    "ground_truth": "other"
+}

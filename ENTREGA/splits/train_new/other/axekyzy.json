@@ -1,0 +1,8 @@
+{
+    "Title": "Access control with httpd",
+    "Body": ".htaccess files can be used for a number of purposes, but we are only concerned with access control in this document.",
+    "link": [
+        "http://hoohoo.ncsa.uiuc.edu/docs/setup/access/Overview.html"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "CIS 131 Home Page",
+    "Body": "AT&T Guide to Doing Business on the Internet Want to Learn How to Do Business on the Internet?",
+    "link": [
+        "http://www.cs.uoregon.edu/~michaelh/",
+        "mailto: michaelh@cs.uoregon.edu",
+        "http://www.cs.uoregon.edu/classes/cis131/syllabus.html"
+    ],
+    "ground_truth": "course"
+}

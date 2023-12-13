@@ -1,0 +1,10 @@
+{
+    "Title": " \nPeter Piatko's Home Page\n",
+    "Body": "I also have a rudimentary interface using the Pad++ widget for TCL & Tk .",
+    "link": [
+        "http://cs.nyu.edu/",
+        "http://cs.nyu.edu/cs/courantnyu.html",
+        "http://www.nyu.edu/"
+    ],
+    "ground_truth": "student"
+}

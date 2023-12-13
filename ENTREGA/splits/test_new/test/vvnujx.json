@@ -1,0 +1,10 @@
+{
+    "Title": "Calypso Project Home Page",
+    "Body": "At the core of the system lies an integrated set of simple techniques developed in previous foundational research, most notably the eager scheduling and the Two-Phase Idempotent Execution Strategy .",
+    "link": [
+        "http://www.cs.nyu.edu/calypso/presens/index.htm",
+        "http://www.cs.nyu.edu/calypso/pubs/index.htm",
+        "http://www.cs.nyu.edu/kedem"
+    ],
+    "ground_truth": "unknow"
+}

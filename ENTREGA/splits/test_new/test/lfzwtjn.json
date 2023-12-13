@@ -1,0 +1,10 @@
+{
+    "Title": "UE CECS Home Page -- a work in progress",
+    "Body": "Date: Tue, 14 Jan 1997 19:49:00 GMT Server: NCSA/1.4.2 Content-type: text/html UE CECS Home Page -- a work in progress College of Engineering and Computer Science University of Evansville You have reached the web server of the College of Engineering and Computer Science at the University of Evansville (Evansville, Indiana).",
+    "link": [
+        "http://uenics.evansville.edu/eecs.html",
+        "http://www.evansville.edu/~meceweb/",
+        "http://uenics.evansville.edu/engr_cat.html#ceprogram"
+    ],
+    "ground_truth": "unknow"
+}

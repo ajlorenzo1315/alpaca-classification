@@ -1,0 +1,10 @@
+{
+    "Title": "A202 Course Description",
+    "Body": "Syllabus Roster Student Homepages Contents of this page: What's New Programming Projects Reading Assignments Lab Exercises Cool Stuff What's New Implemented as a \"forgetful stack\" : 4/19 -- Posted a solution to Quicksort .",
+    "link": [
+        "http://copper.ucs.indiana.edu/~a202/syllabus.html",
+        "http://copper.ucs.indiana.edu/~a202/roster.html",
+        "http://copper.ucs.indiana.edu/~a202/shome.html"
+    ],
+    "ground_truth": "course"
+}

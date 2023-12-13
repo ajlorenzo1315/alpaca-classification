@@ -1,0 +1,10 @@
+{
+    "Title": "Joseph R. Kiniry's HomePage",
+    "Body": "I finally found the time to get some pictures online.",
+    "link": [
+        "http://www.cs.caltech.edu/~kiniry/creative/images.html",
+        "http://www.cs.caltech.edu/~kiniry/who_am_i.html",
+        "http://www.infospheres.caltech.edu/"
+    ],
+    "ground_truth": "student"
+}

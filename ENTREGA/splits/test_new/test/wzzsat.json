@@ -1,0 +1,10 @@
+{
+    "Title": " Deyu's Home Page>",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Wednesday, 20-Nov-96 19:49:25 GMT Content-Type: text/html Content-Length: 789 Last-Modified: Friday, 09-Sep-94 18:25:50 GMT Deyu's Home Page> Deyu Hu Graduate Student hu@cs.cornell.edu Cornell University Dept.",
+    "link": [
+        "http://www.cs.cornell.edu/",
+        "http://www.ihep.ac.cn/china.html",
+        "http://www.cs.berkeley.edu/"
+    ],
+    "ground_truth": "unknow"
+}

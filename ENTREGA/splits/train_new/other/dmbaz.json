@@ -1,0 +1,10 @@
+{
+    "Title": "CS Department Students",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Sunday, 01-Dec-96 18:20:12 GMT Content-Type: text/html Content-Length: 14416 Last-Modified: Sunday, 10-Nov-96 17:59:09 GMT CS Department Students Students in the CS Department We have a directory listing of all the people in the department, giving the email address, office number, and phone number for each person.",
+    "link": [
+        "http://www.cs.cornell.edu/Info/Department/list_of_people.line",
+        "http://www.cs.cornell.edu/Info/Department/PhD.html",
+        "http://www.cs.cornell.edu/Info/People/aguilera/home.html"
+    ],
+    "ground_truth": "other"
+}

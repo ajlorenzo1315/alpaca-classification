@@ -1,0 +1,10 @@
+{
+    "Title": "Jun Rao's Home Page",
+    "Body": "degree in the department of computer science of Tsinghua University , Beijing, China in July 1994.",
+    "link": [
+        "http://www.cs.columbia.edu/~junr/rj2.jpg",
+        "http://www.cs.columbia.edu/",
+        "http://www.cc.columbia.edu/"
+    ],
+    "ground_truth": "student"
+}

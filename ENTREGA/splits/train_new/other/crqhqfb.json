@@ -1,0 +1,10 @@
+{
+    "Title": "China",
+    "Body": "Date: Wed, 15 Jan 1997 01:52:32 GMT Server: Apache/1.1.1 Content-type: text/html Content-length: 3189 Last-modified: Fri, 19 Jan 1996 23:35:22 GMT China [ Greetings ] [ About Me ] [ China ] [ Entertainment ] [ Comments ] [ Suggest Site ] You can visit Chinese Version here.",
+    "link": [
+        "http://www.cs.columbia.edu/~pan/index.html",
+        "http://www.cs.columbia.edu/~pan/contact.html",
+        "http://www.cs.columbia.edu/~pan/entertainment.html"
+    ],
+    "ground_truth": "other"
+}

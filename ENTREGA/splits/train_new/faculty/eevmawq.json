@@ -1,0 +1,10 @@
+{
+    "Title": " Hollan Home Page ",
+    "Body": "Date: Mon, 25 Nov 1996 23:20:24 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Tue, 05 Nov 1996 13:08:10 GMT Content-length: 2433 Hollan Home Page James D. Hollan, Professor and Chair Computer Science Department University of New Mexico Email: hollan@cs.unm.edu Phone: 505 277-3112  Fax: 505 277-6927 Professor James D. Hollan received a Ph.D. from the University of Florida and completed a postdoctoral fellowship at Stanford University.",
+    "link": [
+        "http://www.cs.unm.edu",
+        "http://www.unm.edu",
+        "mailto:hollan@cs.unm.edu"
+    ],
+    "ground_truth": "faculty"
+}

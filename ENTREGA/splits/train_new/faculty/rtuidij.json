@@ -1,0 +1,10 @@
+{
+    "Title": "Richard Prosl's Home Page",
+    "Body": "Date: Mon, 25 Nov 1996 23:31:45 GMT Server: NCSA/1.4.1 Content-type: text/html Last-modified: Sat, 19 Oct 1996 15:04:58 GMT Content-length: 1626 Richard Prosl's Home Page Associate Professor Department of Computer Science College of William & Mary Mailing address Department of Computer Science College of William and Mary P.O.",
+    "link": [
+        "http://www.cs.wm.edu/",
+        "http://www.wm.edu/",
+        "mailto:prosl@cs.wm.edu"
+    ],
+    "ground_truth": "faculty"
+}

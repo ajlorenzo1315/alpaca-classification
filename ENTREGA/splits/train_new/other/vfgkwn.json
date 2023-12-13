@@ -1,0 +1,10 @@
+{
+    "Title": "Aastha Bhardwaj",
+    "Body": "Assembler for 80x86 implemented in C. Video Game in 'C'.",
+    "link": [
+        "mailto:bhardwaj@cs.cornell.edu",
+        "http://www.cs.cornell.edu/Info/People/bhardwaj/resume1.ps",
+        "#address"
+    ],
+    "ground_truth": "other"
+}

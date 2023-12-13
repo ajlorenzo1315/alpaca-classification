@@ -1,0 +1,10 @@
+{
+    "Title": "Jack Minker",
+    "Body": "Jack Minker .",
+    "link": [
+        "http://karna.cs.umd.edu:3264/try/option_form.html",
+        "http://karna.cs.umd.edu:3264/try/comment_form.html",
+        "http://karna.cs.umd.edu:3264/SYSTEM"
+    ],
+    "ground_truth": "faculty"
+}

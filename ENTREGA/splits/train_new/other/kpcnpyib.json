@@ -1,0 +1,10 @@
+{
+    "Title": "Wilson Hsieh's papers",
+    "Body": "Dynamic Computation Migration in DSM Systems , by Wilson C. Hsieh , M. Frans Kaashoek , and William E. Weihl .",
+    "link": [
+        "http://www.cs.washington.edu/homes/whsieh",
+        "http://www.cs.washington.edu/homes/whsieh/papers/sc.ps.gz",
+        "http://www.pdos.lcs.mit.edu/~kaashoek"
+    ],
+    "ground_truth": "other"
+}

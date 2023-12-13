@@ -1,0 +1,10 @@
+{
+    "Title": "Celio Vinicius Neves de Albuquerque",
+    "Body": "My advisor is Prof. Tatsuya Suda , head of Netgroup , the ICS Computer Network Research Group.",
+    "link": [
+        "http://www.ics.uci.edu/",
+        "http://www.uci.edu/",
+        "mailto:celio@ics.uci.edu"
+    ],
+    "ground_truth": "student"
+}

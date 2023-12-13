@@ -1,0 +1,10 @@
+{
+    "Title": "John Strikwerda's Home Page",
+    "Body": "Date: Thu, 07 Nov 1996 19:07:53 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Fri, 30 Aug 1996 15:01:50 GMT Content-length: 2197 John Strikwerda's Home Page John Strikwerda , Professor, Computer Sciences John C. Strikwerda Department of Computer Sciences University of Wisconsin-Madison 1210 West Dayton Street Madison, Wisconsin 53706-1685  USA c.v. email: strik@cs.wisc.edu telephone: (608) 262-0822 fax: (608) 262-9777 This Fall I will be teaching CS310 , Problem Solving Using Computers.",
+    "link": [
+        "http://www.cs.wisc.edu/~strik/strik3x5.gif",
+        "http://www.cs.wisc.edu/",
+        "http://www.cs.wisc.edu/~dyer/images/madspxs.gif"
+    ],
+    "ground_truth": "faculty"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "The XII planner",
+    "Body": "This paper reports on the fully-implemented XII planner (XII stands for ``eXecution and Incomplete Information'') which addresses these challenges.",
+    "link": [
+        "http://www.cs.washington.edu/research/projects/ai/www/ucpop.html",
+        "http://www.cs.washington.edu/people/faculty/weld.html",
+        "http://www.cs.washington.edu/homes/kgolden"
+    ],
+    "ground_truth": "other"
+}

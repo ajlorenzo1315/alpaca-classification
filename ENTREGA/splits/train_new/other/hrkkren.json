@@ -1,0 +1,10 @@
+{
+    "Title": "Nuprl Project Related Publications",
+    "Body": "552-566, Springer-Verlag Chirimar, J. and Douglas J.~Howe, Implementing Constructive Real Analysis: a Preliminary Report, Symposium on Constructivity in Computer Science, Springer-Verlag, 1991 Robert L. Constable, Exporting and reflecting abstract constructive meta-mathematics, Lecture Notes in Artificial Intelligence, 1994, Alan Bundy (Editor), p. 529, (12th International Conference on Automated Deduction), Springer-Verlag Robert L. Constable, Expressing computational complexity in constructive type theory, LNCS/LNAI Proceedings, (Lecture Notes in Computer Science), 1994, pp.",
+    "link": [
+        "http://www.altavista.digital.com/cgi-bin/query?pg=q&what=web&fmt=.&q=Nuprl",
+        "http://www.cs.cornell.edu/Info/People/jackson/nuprl/index.html",
+        "http://cbl.leeds.ac.uk/nikos/tex2html/doc/latex2html/latex2html.html"
+    ],
+    "ground_truth": "other"
+}

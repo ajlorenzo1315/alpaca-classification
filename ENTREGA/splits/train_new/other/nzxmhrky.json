@@ -1,0 +1,8 @@
+{
+    "Title": " White Paper - CS418 Final Project",
+    "Body": "A two dimensional image is used and changed to simulate the waving flag.",
+    "link": [
+        "magic.mpg"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Thomas E. Cheatham",
+    "Body": "Date: Wed, 20 Nov 1996 23:01:31 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Fri, 02 Aug 1996 03:51:12 GMT Content-length: 3596 Thomas E. Cheatham DIVISION OF APPLIED SCIENCES HARVARD UNIVERSITY Thomas E. Cheatham, Jr. Gordon McKay Professor of Computer Science Director of Undergraduate Studies in Computer Science Programming Languages and Environments Professor Cheatham conducts research concerned with understanding, formalizing, and automating the software process and has the long-term goal of dramatically increasing our ability to develop, maintain, and enhance advanced software systems.",
+    "link": [
+        "http://www.das.harvard.edu/cs/research/bsp.html",
+        "http://www.das.harvard.edu/users/faculty/Cheatham/papers/LaJolla.ps",
+        "http://www.das.harvard.edu/users/faculty/Cheatham/papers/haw.ps"
+    ],
+    "ground_truth": "faculty"
+}

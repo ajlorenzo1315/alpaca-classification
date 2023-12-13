@@ -1,0 +1,10 @@
+{
+    "Title": "Adam Florence, Other Interests",
+    "Body": "I am a card-carrying member of the Babylon 5 Fan Club.",
+    "link": [
+        "http://www.unitedmedia.com/comics/dilbert/",
+        "http://www.wb.com",
+        "http://www.hyperion.com/lurk/"
+    ],
+    "ground_truth": "other"
+}

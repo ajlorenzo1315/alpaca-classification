@@ -1,0 +1,10 @@
+{
+    "Title": "\nCS 302 Section 10 Grading Policy\n",
+    "Body": "Correct use of constants Use of idioms (customary standard ways of writing logically equivalent pieces of code) discussed in class Additionally, if your code is unreadable and I can't decipher how you solved the problem, you may lose points on technique too!",
+    "link": [
+        "#percenages",
+        "#programs",
+        "#late"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Adam Edlavitch's Roommates Page",
+    "Body": "Taylor is working in the Visual Computing Lab somwhere.",
+    "link": [
+        "http://www-cse.ucsd.edu/users/tcarson/",
+        "http://www-cse.ucsd.edu/users/ataylor/",
+        "http://www-cse.ucsd.edu/users/kgatlin/"
+    ],
+    "ground_truth": "other"
+}

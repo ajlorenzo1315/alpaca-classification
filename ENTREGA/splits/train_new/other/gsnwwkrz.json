@@ -1,0 +1,8 @@
+{
+    "Title": "CSE/ENGR 142 Textbook Code",
+    "Body": "Date: Tue, 10 Dec 1996 16:50:14 GMT Server: NCSA/1.4.2 Content-type: text/html CSE/ENGR 142 Textbook Code CSE/ENGR 142: Computer Programming I Textbook Code The sample C code appearing in most of the figures in the textbook Problem Solving and Program Design in C , second edition, by Jeri R. Hanly and Elliot B. Koffman (c. 1996, Addison-Wesley Publishing Company) are contained in the files here .",
+    "link": [
+        "ftp://ftp.cs.washington.edu/pub/cse142/hanly-2e-figures"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Tyger! Tyger!",
+    "Body": "What the hand, dare seize the fire?",
+    "link": [
+        "index.html",
+        "/~bolo/",
+        "mailto:bolo@cs.wisc.edu"
+    ],
+    "ground_truth": "other"
+}

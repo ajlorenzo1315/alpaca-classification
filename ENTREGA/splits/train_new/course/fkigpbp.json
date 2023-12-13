@@ -1,0 +1,10 @@
+{
+    "Title": "Princeton CS 441 Programming Languages, Spring '96",
+    "Body": "Also here is a draft chapter on types and type inference.",
+    "link": [
+        "http://www.cs.princeton.edu/",
+        "http://www.cs.indiana.edu/classes/c311/fall95/c311/home.html",
+        "#overview"
+    ],
+    "ground_truth": "course"
+}

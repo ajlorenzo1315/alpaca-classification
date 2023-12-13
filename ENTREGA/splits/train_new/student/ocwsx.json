@@ -1,0 +1,10 @@
+{
+    "Title": "Szu-Wen Huang",
+    "Body": "Here's a picture of Mom and me when I was around six years old.",
+    "link": [
+        "http://www.cs.cornell.edu/Info/People/szuwen/momnme.gif",
+        "http://www.upd.edu.ph",
+        "http://www.cs.cornell.edu/Info/People/szuwen/mabs.gif"
+    ],
+    "ground_truth": "student"
+}

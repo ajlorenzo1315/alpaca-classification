@@ -1,0 +1,10 @@
+{
+    "Title": " Thomas W. Reps's Home Page ",
+    "Body": "Conference Publications Siff, M. and Reps, T., Program generalization for software reuse: From C to C++, To appear in SIGSOFT 96: Proceedings of the Fourth ACM SIGSOFT Symposium on the Foundations of Software Engineering , (San Francisco, CA, October 16-18, 1996), ACM SIGSOFT Software Engineering Notes , 1996. fse96.ps Reps, T. and Turnidge, T., Program specialization via program slicing, In Proceedings of the Dagstuhl Seminar on Partial Evaluation, (Schloss Dagstuhl, Wadern, Germany, Feb. 12-16, 1996), Lecture Notes in Computer Science , Vol.",
+    "link": [
+        "http://www.cs.wisc.edu/",
+        "http://www.wisc.edu/",
+        "http://www.cs.wisc.edu/cgi-bin/finger?reps"
+    ],
+    "ground_truth": "faculty"
+}

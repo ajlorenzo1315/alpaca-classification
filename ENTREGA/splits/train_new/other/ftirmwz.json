@@ -1,0 +1,10 @@
+{
+    "Title": "Gaetano Borriello - Students",
+    "Body": "Date: Tue, 10 Dec 1996 14:47:34 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Sat, 05 Oct 1996 01:38:54 GMT Content-length: 2757 Gaetano Borriello - Students Gaetano Borriello's current and past students Current Ph.D. Students Suzanne Bunton:  Dynamic Markov Models and Lossless Data Compression (co-advised with Richard Ladner) Pai H. Chou : Co-Synthesis of Embedded Systems (Software Synthesis) Kenneth J. Hines: Co-Simulation of Embedded Systems Ross B. Ortega : Co-Synthesis of Embedded Systems (Interface Synthesis) Current M.S.",
+    "link": [
+        "http://www.cs.washington.edu/homes/chou/",
+        "http://www.cs.washington.edu/homes/ortega/",
+        "http://www.cs.washington.edu/homes/ian/"
+    ],
+    "ground_truth": "other"
+}

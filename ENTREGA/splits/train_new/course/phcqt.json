@@ -1,0 +1,10 @@
+{
+    "Title": "CS247B. Human-Computer Interaction (Contextual and Organizational issues) ",
+    "Body": "Analysis and design of human-computer interaction from a siutated perspective, including the interpersonal, social and organizational contexts that shape the process and effectiveness of designing, implementing, and using computer systems.",
+    "link": [
+        "http://www-pcd.stanford.edu/cs247b",
+        "http://www-pcd.stanford.edu/hci/courses/cs247b/01-description.html",
+        "http://www-pcd.stanford.edu/hci/courses/cs247b-papers/site.html"
+    ],
+    "ground_truth": "course"
+}

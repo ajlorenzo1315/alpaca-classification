@@ -1,0 +1,10 @@
+{
+    "Title": "Navin Kabra's Bookmarks",
+    "Body": "The Nando Times The New York Times ESPNET SportsZone Indian Stuff Hindi Movie Songs Hindi Audio My India-related hotlist Entertainment Internet Movie Database UWP Lyrics Archive TV Tonite TV Net Great search engine for searching TV Listings People Paradise People People I work with in the \"Paradise\" Group People in UW-Madison CS Department Hostel 6 Alumni (IIT Bombay) My undergraduate dorm in Bombay IIT-Bombay CS92 Home page for the Computer Science Batch of 1992, at the Indian Institute of Technology Bombay.",
+    "link": [
+        "http://www.chron.com/fronts/chronicle/comics/index.html",
+        "http://www.unitedmedia.com/comics/dilbert/",
+        "http://www.doonesbury.com/"
+    ],
+    "ground_truth": "other"
+}

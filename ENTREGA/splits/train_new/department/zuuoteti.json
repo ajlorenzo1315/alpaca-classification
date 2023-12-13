@@ -1,0 +1,10 @@
+{
+    "Title": "Cardiff Computer Science Information Service",
+    "Body": "All documents are the responsibility of, and copyright © by, their authors and do not represent the views of the Department of Computer Science, nor of the University of Wales, Cardiff.",
+    "link": [
+        "http://www.cs.cf.ac.uk/Department/general.html",
+        "http://www.cs.cf.ac.uk/Department/student.html",
+        "http://www.cs.cf.ac.uk/htbin/System/reloc"
+    ],
+    "ground_truth": "department"
+}

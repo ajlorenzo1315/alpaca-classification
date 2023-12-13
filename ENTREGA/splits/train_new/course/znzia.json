@@ -1,0 +1,10 @@
+{
+    "Title": " EECS 590 -- Fall 1996 ",
+    "Body": "(If you have a doubt, please contact the instructor to make sure the seminar is OK.) To receive credit for attending a research seminar, you should have the host of the seminar sign a completed \"research seminar series\" 590 form.",
+    "link": [
+        "http://www.engin.umich.edu/college/",
+        "http://www.eecs.umich.edu",
+        "http://www.eecs.umich.edu/systems/"
+    ],
+    "ground_truth": "course"
+}

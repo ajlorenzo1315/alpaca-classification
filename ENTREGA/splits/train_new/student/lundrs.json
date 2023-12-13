@@ -1,0 +1,10 @@
+{
+    "Title": "Daniel M. Zimmerman - Home Page",
+    "Body": "MIME-Version: 1.0 Server: WebSTAR/2.0 ID/30027 Message-ID: Date: Thursday, 21-Nov-96 20:59:16 GMT Last-Modified: Saturday, 09-Nov-96 07:09:39 GMT Content-type: text/html Content-length: 3397 Daniel M. Zimmerman - Home Page Daniel M. Zimmerman Caltech Computer Science Dept - CS 141 Teaching Assistant Official Roxette Home Page Administrator Caltech Apple II Archive Administrator Avery House Secretary CEO - TFF Enterprises Electronic Mail dmz@cco.caltech.edu (preferred address for \"normal\" and Roxette-related mail) dmz@cs.caltech.edu (CS Department-related mail only , please) U.S. Mail M/S 256-80 California Institute of Technology Pasadena, California  91125 USA Telephone (818) 395-4603 (office) (818) 683-9836 (home, before 11 PM only ) I am currently a first-year graduate student here at the California Institute of Technology , from which I got my bachelor's degree in June of this year.",
+    "link": [
+        "http://www.cs.caltech.edu/",
+        "http://babylon.caltech.edu/roxette/",
+        "http://babylon.caltech.edu/a2archive.html"
+    ],
+    "ground_truth": "student"
+}

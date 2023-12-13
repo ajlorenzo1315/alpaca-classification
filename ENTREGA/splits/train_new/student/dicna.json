@@ -1,0 +1,10 @@
+{
+    "Title": " Minos's Home Page ",
+    "Body": "of Computer Sciences, December 1994 B.S.",
+    "link": [
+        "http://www.cs.wisc.edu/cgi-bin/finger?minos",
+        "http://www.cs.wisc.edu/",
+        "http://www.wisc.edu/"
+    ],
+    "ground_truth": "student"
+}

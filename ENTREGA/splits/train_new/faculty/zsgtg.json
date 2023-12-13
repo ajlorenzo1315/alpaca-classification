@@ -1,0 +1,10 @@
+{
+    "Title": "Russell Impagliazzo's  ",
+    "Body": "R. Impagliazzo, N. Nisan and A. Wigderson Pseudorandomness for network algorithms R. Impagliazzo and S. Rudich , Limits on the Provable Consequences of One-Way Permutations T. Pitassi, P. Beame, and R. Impagliazzo, Exponential lower bounds for constant depth Frege proofs of the pigeonhole principle.",
+    "link": [
+        "http://www-cse.ucsd.edu/",
+        "http://www-cse.ucsd.edu/classes/fa96/cse101",
+        "http://www-cse.ucsd.edu/classes/fa96/cse202"
+    ],
+    "ground_truth": "faculty"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "No title",
+    "Body": "Used for CS courses: Graphics and Virtual Reality, Internet programming, real-time systems.",
+    "link": [
+        "http://cs.millersv.edu/gif.dir/ailab.gif",
+        "http://www.sgi.com",
+        "http://cs.millersv.edu/gif.dir/datacom.gif"
+    ],
+    "ground_truth": "unknow"
+}

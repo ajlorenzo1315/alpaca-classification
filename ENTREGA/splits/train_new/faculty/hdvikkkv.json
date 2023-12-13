@@ -1,0 +1,10 @@
+{
+    "Title": "Eric Torng's Home Page",
+    "Body": "Date: Thu, 21 Nov 1996 19:18:19 GMT Server: Apache/1.1.0 Content-type: text/html Content-length: 2816 Last-modified: Tue, 27 Aug 1996 02:38:39 GMT Eric Torng's Home Page Eric Torng, Department of Computer Science Eric Torng Assistant Professor Department of Computer Science College of Engineering Michigan State University Educational Background Ph.D. 1994, Computer Science , Stanford University B.A.",
+    "link": [
+        "http://web.cs.msu.edu/",
+        "http://web.egr.msu.edu/",
+        "http://www.msu.edu"
+    ],
+    "ground_truth": "faculty"
+}

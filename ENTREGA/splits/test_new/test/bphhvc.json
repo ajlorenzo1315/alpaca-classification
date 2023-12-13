@@ -1,0 +1,10 @@
+{
+    "Title": "\"Converting Thread-Level Parallelism to Instruction-Level Parallelism via Simultaneous Multithreading\"\n",
+    "Body": "We compare SMT and small-scale, on-chip multiprocessors (MP) in their ability to exploit both ILP and TLP.",
+    "link": [
+        "http://www.cs.washington.edu/homes/jlo",
+        "http://www.cs.washington.edu/homes/eggers",
+        "http://www.cs.washington.edu/homes/levy"
+    ],
+    "ground_truth": "unknow"
+}

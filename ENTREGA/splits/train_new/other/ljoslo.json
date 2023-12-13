@@ -1,0 +1,10 @@
+{
+    "Title": "\nAutomated Travel Assistant\n",
+    "Body": "This applet is a prototype of the system.",
+    "link": [
+        "http://www.cs.washington.edu/research/projects/ai/www/ai.html",
+        "http://www.cs.washington.edu",
+        "http://www.washington.edu"
+    ],
+    "ground_truth": "other"
+}

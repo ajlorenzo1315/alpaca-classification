@@ -1,0 +1,10 @@
+{
+    "Title": "Diving",
+    "Body": "When snorkeling, I enjoy going deep.",
+    "link": [
+        "ftp://ftp.cs.washington.edu/pub/egs/diver.tar.Z",
+        "http://www.cs.washington.edu/homes/egs/turk/turk.html",
+        "mailto:egs@cs.washington.edu"
+    ],
+    "ground_truth": "other"
+}

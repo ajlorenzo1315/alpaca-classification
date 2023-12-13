@@ -1,0 +1,10 @@
+{
+    "Title": "Autonomous Mobile Robotics Lab",
+    "Body": "Date: Wed, 20 Nov 1996 19:43:51 GMT Server: Apache-SSL/0.4.3b Content-type: text/html Content-length: 3189 Last-modified: Mon, 11 Mar 1996 19:07:01 GMT Autonomous Mobile Robotics Lab Autonomous Mobile Robotics Lab Welcome to the AMRL Homepage!",
+    "link": [
+        "http://www.cs.umd.edu/users/seeliger/Robotics/robotics.html#vacuuming",
+        "http://www.cs.umd.edu/users/seeliger/Robotics/robotics.html#nofriction",
+        "http://www.cs.umd.edu/projects/amrl/Pictures/smart-v.gif"
+    ],
+    "ground_truth": "project"
+}

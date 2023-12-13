@@ -1,0 +1,10 @@
+{
+    "Title": "coming into the clearing...",
+    "Body": "it seems somewhat off in the corner--presumably he has more important things to worry about.",
+    "link": [
+        "http://www.cs.cornell.edu/Info/People/snowman/oak.html",
+        "http://www.cs.cornell.edu/Info/People/snowman/rain.html",
+        "http://www.cs.cornell.edu/Info/People/snowman/snow.html"
+    ],
+    "ground_truth": "student"
+}

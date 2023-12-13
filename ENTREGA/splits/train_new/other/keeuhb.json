@@ -1,0 +1,10 @@
+{
+    "Title": "Courses of Robert S. Boyer",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Tuesday, 07-Jan-97 15:20:32 GMT Content-Type: text/html Content-Length: 1027 Last-Modified: Friday, 16-Aug-96 19:01:08 GMT Courses of Robert S. Boyer Here is some information relevant to some courses Robert S. Boyer is planning to teach.",
+    "link": [
+        "http://www.cs.utexas.edu/users/boyer/index.html",
+        "./phl313k-fall96.html",
+        "./cs336-fall96.html"
+    ],
+    "ground_truth": "other"
+}

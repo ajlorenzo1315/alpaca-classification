@@ -1,0 +1,10 @@
+{
+    "Title": "People in the Horus Project",
+    "Body": "Distributed computing, fault tolerance, group communication, replication, security The Researchers Roy Friedman Werner Vogels distributed computing, distributed algorithms, group communication, virtual synchrony, total ordering, shared memory.",
+    "link": [
+        "http://simon.cs.cornell.edu/Info/Projects/HORUS/index.html",
+        "http://simon.cs.cornell.edu/Info/Projects/HORUS/Overview.html",
+        "http://simon.cs.cornell.edu/Info/Projects/HORUS/People.html"
+    ],
+    "ground_truth": "unknow"
+}

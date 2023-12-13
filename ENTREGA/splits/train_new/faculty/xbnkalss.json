@@ -1,0 +1,10 @@
+{
+    "Title": " Solomon's Home Page ",
+    "Body": "Abstract PostScript The GMAP: A Versatile Tool for Physical Data Independence.",
+    "link": [
+        "http://www.cs.wisc.edu/~goodman",
+        "http://www.cs.wisc.edu/cgi-bin/finger?solomon",
+        "http://www.cs.wisc.edu/~mcauliff/mcauliff.html"
+    ],
+    "ground_truth": "faculty"
+}

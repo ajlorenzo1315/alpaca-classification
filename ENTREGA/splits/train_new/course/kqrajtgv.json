@@ -1,0 +1,10 @@
+{
+    "Title": "P523 Home Page",
+    "Body": "Please make an effort to hand in your projects by the official due dates, and use the grace periods only for emergencies.",
+    "link": [
+        "http://www.cs.indiana.edu/hyplan/dyb.html",
+        "http://www.cs.indiana.edu/hyplan/johnz.html",
+        "#elec"
+    ],
+    "ground_truth": "course"
+}

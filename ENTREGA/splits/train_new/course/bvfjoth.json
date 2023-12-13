@@ -1,0 +1,10 @@
+{
+    "Title": "CS132 Using Computers - Lectures 3 & 4",
+    "Body": "We will discuss how computers work, including the following topics (not necessarily in this order): application programs (including word processors, spreadsheets, graphics and databases) hardware, input/output, storage devices operating systems, programming languages networks and telecommunications artificial intelligence and expert systems computer-related social issues Part 2 - Lab: In the laboratory (discussion) sections you will have hands-on experience on Macintosh IIci computers with the following programs: word processing ( MS Word 5.0 ) electronic mail, newsgroups, and World Wide Web ( Eudora 3.0 and Netscape 3.0 ) painting and drawing ( Aldus SuperPaint 3.0 ) spreadsheet and charting ( MS Excel 5.0 ) database ( FileMaker ) presentation manager ( HyperCard 2.1 ) desktop publishing ( Aldus PageMaker 4.0 ) An integral part of lab is learning the Macintosh operating system (System 7.5.3) as well.",
+    "link": [
+        "http://www.cs.wisc.edu/~sally/sally.html",
+        "mailto:sally@cs.wisc.edu",
+        "mailto:slpeters@facstaff.wisc.edu"
+    ],
+    "ground_truth": "course"
+}

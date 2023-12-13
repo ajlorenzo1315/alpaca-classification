@@ -1,0 +1,10 @@
+{
+    "Title": "571 Main Page",
+    "Body": "Date: Wed, 20 Nov 1996 23:30:42 GMT Server: NCSA/1.5.2 Last-modified: Wed, 16 Oct 1996 04:38:33 GMT Content-type: text/html Content-length: 1361 571 Main Page Computer Science 571 CONCEPTS IN PROGRAMMING LANGUAGES INSTRUCTOR Ellis Horowitz Computer Science Dept.",
+    "link": [
+        "http://www.usc.edu/dept/cs/class_info/571/books.html",
+        "http://www.usc.edu/dept/cs/class_info/571/overview.html",
+        "http://www.usc.edu/dept/cs/class_info/571/topics.html"
+    ],
+    "ground_truth": "course"
+}

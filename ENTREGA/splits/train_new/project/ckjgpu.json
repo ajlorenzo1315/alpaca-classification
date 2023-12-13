@@ -1,0 +1,6 @@
+{
+    "Title": " The ADMS Project",
+    "Body": "The innovations of this architecture are  (a) the utilization of mobile clients having full database management capability for downloading, caching and accessing database subsets whether connected to or disconnected from their heterogeneous servers, and (b) the use of incremental access methods for asynchronous refresh of downloaded data on the mobile clients.",
+    "link": [],
+    "ground_truth": "project"
+}

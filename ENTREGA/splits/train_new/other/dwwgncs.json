@@ -1,0 +1,10 @@
+{
+    "Title": "Other Links",
+    "Body": "Date: Wed, 15 Jan 1997 01:29:31 GMT Server: Apache/1.1.1 Content-type: text/html Content-length: 449 Last-modified: Sat, 20 Jul 1996 18:50:13 GMT Other Links OTHER LINKS University of Kentucky Homepage Georgetown College Homepage Lambda Chi Alpha - Kappa Omega Chapter Back to Main Page",
+    "link": [
+        "http://www.uky.edu",
+        "http://www.gtc.georgetown.ky.us",
+        "http://www.netcom.com/~mlenahan/home.html"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "CSCI 570: Analysis of Algorithms",
+    "Body": "Recall that to insert an element, you proceed as in a binary search tree, then attach a random priority, and rotate up the tree until heap-ordering has been restored.",
+    "link": [
+        "http://langevin.usc.edu/~ierardi/",
+        "#handouts",
+        "#exams"
+    ],
+    "ground_truth": "course"
+}

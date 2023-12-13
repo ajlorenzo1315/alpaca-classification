@@ -1,0 +1,10 @@
+{
+    "Title": "The World-Wide Web",
+    "Body": "Date: Tue, 14 Jan 1997 21:43:44 GMT Server: NCSA/1.5.2 Last-modified: Fri, 23 Jun 1995 13:09:47 GMT Content-type: text/html Content-length: 1511 The World-Wide Web The World-Wide Web The World-Wide Web provides a global collection of documents on a wide variety of subjects.",
+    "link": [
+        "http://web.msu.edu/",
+        "http://www.collegenet.com",
+        "http://www.w3.org/hypertext/WWW/TheProject.html"
+    ],
+    "ground_truth": "other"
+}

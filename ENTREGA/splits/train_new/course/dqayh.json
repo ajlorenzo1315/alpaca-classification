@@ -1,0 +1,10 @@
+{
+    "Title": " CS706, Spring 1996",
+    "Body": "Shin and P. Ramanathan, Real-Time Computing: A New Discipline of Computer Science and Engineering, Proceedings of the IEEE Computer , Vol.82, No.1, pp.",
+    "link": [
+        "http://www.cs.buffalo.edu/pub/WWW/faculty/wu/",
+        "ftp://ftp.cs.umass.edu/pub/techrept/techreport/1994/UM-CS-1994-058.ps",
+        "ftp://ftp.cs.umass.edu/pub/ccs/spring/impl_sch_rts.ps"
+    ],
+    "ground_truth": "course"
+}

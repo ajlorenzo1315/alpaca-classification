@@ -1,0 +1,10 @@
+{
+    "Title": "Multipol Home Page",
+    "Body": "Date: Wed, 20 Nov 1996 19:25:03 GMT Server: NCSA/1.4 Content-type: text/html Last-modified: Wed, 21 Feb 1996 19:41:33 GMT Content-length: 2332 Multipol Home Page Multipol Multipol is a library of distributed data structures, designed to ease the programming of \"irregular\" problems on large scale, distributed-memory multiprocessors.",
+    "link": [
+        "http://HTTP.CS.Berkeley.EDU/Research/Projects/parallel/castle/multipol/multipol.au",
+        "http://HTTP.CS.Berkeley.EDU/Research/Projects/parallel/castle/multipol/papers.html",
+        "http://HTTP.CS.Berkeley.EDU/Research/Projects/parallel/castle/multipol/README/README.html"
+    ],
+    "ground_truth": "unknow"
+}

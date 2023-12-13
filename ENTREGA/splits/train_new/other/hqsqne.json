@@ -1,0 +1,10 @@
+{
+    "Title": "No title",
+    "Body": "The sliver technique is based on a dynamic model of lock step processing that enables combinations of list and tree operators to simulate the operational behavior of a single recursive procedure.",
+    "link": [
+        "http://www-swiss.ai.mit.edu/~lyn/slag.html",
+        "http://www-swiss.ai.mit.edu/~lyn/synchron.html",
+        "http://www-swiss.ai.mit.edu/~lyn//ftpdir/users/lyn/dissertation/contents.ps.Z"
+    ],
+    "ground_truth": "other"
+}

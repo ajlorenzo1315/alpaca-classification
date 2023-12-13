@@ -1,0 +1,10 @@
+{
+    "Title": "Bing Tian",
+    "Body": "Date: Thu, 21 Nov 1996 22:56:00 GMT Server: Apache/1.1.1 Content-type: text/html Content-length: 1500 Last-modified: Fri, 13 Sep 1996 17:39:21 GMT Bing Tian Tian, Bing I am a Computer Science graduate student in UC,Riverside .",
+    "link": [
+        "http://www.cs.ucr.edu/",
+        "http://www.ucr.edu/",
+        "http://constitution.ucr.edu/"
+    ],
+    "ground_truth": "student"
+}

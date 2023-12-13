@@ -1,0 +1,10 @@
+{
+    "Title": "CS 395T: Web Operating Systems",
+    "Body": "The goal of this class is to provide an understanding of the current state of the art in web operating systems and also to address problems that must be solved to provide a mature, general-purpose web operating system.",
+    "link": [
+        "http://www.cs.utexas.edu/users/dahlin/Classes/WebOS/projects.html",
+        "http://www.cs.utexas.edu/users/dahlin/Classes/WebOS/ref.html",
+        "http://www.cs.utexas.edu/users/dahlin/Classes/WebOS/syllabus.ps"
+    ],
+    "ground_truth": "course"
+}

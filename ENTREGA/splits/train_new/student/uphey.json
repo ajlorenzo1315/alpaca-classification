@@ -1,0 +1,10 @@
+{
+    "Title": "Amir Michail",
+    "Body": "Some quotations from computer scientists: \"Mathematicians tend to be conservative, and many are unwilling to consider that there might be a better way of writing proofs.",
+    "link": [
+        "http://www.toronto.edu",
+        "http://www.cs.washington.edu/homes/amir/thesis.ps.gz",
+        "http://www.cs.washington.edu/homes/amir/Opsis.html"
+    ],
+    "ground_truth": "student"
+}

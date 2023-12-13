@@ -1,0 +1,10 @@
+{
+    "Title": "Cecil Standard Library Reference Manual",
+    "Body": "Date: Mon, 02 Dec 1996 15:52:57 GMT Server: NCSA/1.4.2 Content-type: text/html Cecil Standard Library Reference Manual [Next] Cecil Standard Library Reference Manual The Cecil Group Department of Computer Science and Engineering University of Washington Box 352350, Seattle, Washington 98195-2350 (206) 685-2094; fax: (206) 543-2969 cecil@cs.washington.edu Vortex 2.0 Beta The Cecil standard library includes a collection of data structures and control structures upon which Cecil programs are constructed.",
+    "link": [
+        "stdlib-man_2.html",
+        "stdlib-man_2.html#HEADING1",
+        "stdlib-man_3.html#HEADING2"
+    ],
+    "ground_truth": "other"
+}

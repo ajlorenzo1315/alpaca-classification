@@ -1,0 +1,10 @@
+{
+    "Title": "  Computational Science: Atomic Structure Calculations ",
+    "Body": "The atomic structure project is concerned with the development of software for the accurate determination of wave functions from which a number of atomic properties can be predicted.",
+    "link": [
+        "http://www.vuse.vanderbilt.edu/~cff/cff.html",
+        "http://cswww.vuse.vanderbilt.edu/~perj/",
+        "http://cswww.vuse.vanderbilt.edu/~jhxi"
+    ],
+    "ground_truth": "project"
+}

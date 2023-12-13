@@ -1,0 +1,10 @@
+{
+    "Title": "The RaPiD Project ",
+    "Body": "The goal is to compile regular computations like those found in DSP applications into both an application-specific datapath and a program that provides control for that datapath.",
+    "link": [
+        "http://www.cs.washington.edu/people/faculty/ebeling.html",
+        "http://www.cs.washington.edu/homes/darrenc/",
+        "http://www.cs.washington.edu/homes/paul/"
+    ],
+    "ground_truth": "other"
+}

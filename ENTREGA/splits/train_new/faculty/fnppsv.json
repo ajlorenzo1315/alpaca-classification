@@ -1,0 +1,10 @@
+{
+    "Title": " Gregory F. Sullivan's home page ",
+    "Body": "D. Blough, G. F. Sullivan and G. M. Masson, ``Fault Diagnosis for Sparsely Interconnected Multiprocessor Systems'', Digest of the 19th Symposium on Fault-Tolerant Computing , pages 62-69, IEEE Computer Society Press, 1989.",
+    "link": [
+        "http://www.cs.jhu.edu/~sullivan/download.html",
+        "http://www.cs.jhu.edu/~sullivan/links.html",
+        "http://www.cs.jhu.edu/~sullivan/research/reslinks.html"
+    ],
+    "ground_truth": "faculty"
+}

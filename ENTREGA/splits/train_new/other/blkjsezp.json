@@ -1,0 +1,10 @@
+{
+    "Title": "Courses of Study 1996-97",
+    "Body": "If you are a prospective graduate student, please contact the Graduate School, Cornell University, B2 Caldwell Hall, Ithaca, NY 14853, 607-255-4884.",
+    "link": [
+        "search_courses.html",
+        "CSIN.html",
+        "AG.html"
+    ],
+    "ground_truth": "other"
+}

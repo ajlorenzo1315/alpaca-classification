@@ -1,0 +1,10 @@
+{
+    "Title": "COMPUTER ARCHITECTURE GROUP",
+    "Body": "NuMesh explores an engineering discipline in which physical location of components are accounted for explicitly, rather than being abstracted out of the logical model.",
+    "link": [
+        "http://www.cag.lcs.mit.edu/",
+        "http://cag-www.lcs.mit.edu/~agarwal",
+        "http://cag-www.lcs.mit.edu:80/numesh/"
+    ],
+    "ground_truth": "project"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Alan Siegel",
+    "Body": "1995 Abstract: Universal hash functions that exhibit (c log n)-wise independence are shown to give a performance in double hashing and virtually any reasonable generalization of double hashing that has an expected probe count of 1/(1-alpha) + epsilon for the insertion of the (alpha n)-th item into a table of size n, for any fixed alpha < 1 and epsilon > 0.",
+    "link": [
+        "http://found.cs.nyu.edu/cgi-bin/finger?siegel@merv",
+        "http://cs.nyu.edu/",
+        "http://cs.nyu.edu/cs/courantnyu.html"
+    ],
+    "ground_truth": "faculty"
+}

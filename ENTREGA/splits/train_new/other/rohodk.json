@@ -1,0 +1,8 @@
+{
+    "Title": "Java Source Files",
+    "Body": "The five directories Hanoi, Mand, TestDes, aster, and espresso contain the java source files for the application benchmarks, and the micro directory contains the java source for the java microbenchmarks.",
+    "link": [
+        "java-bench.tar.gz"
+    ],
+    "ground_truth": "other"
+}

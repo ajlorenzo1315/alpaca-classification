@@ -1,0 +1,10 @@
+{
+    "Title": "SRG HOME PAGE",
+    "Body": "Date: Wed, 20 Nov 1996 19:36:31 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Mon, 11 Nov 1996 15:59:53 GMT Content-length: 2648 SRG HOME PAGE Systems Software Research Group Department of Computer Science University of Illinois at Urbana-Champaign Habanero Timed-Even Streams MPI NOW Object-Oriented Operating Systems HyperNews Forum Choices, An Object-Oriented Operating System.",
+    "link": [
+        "http://www.cs.uiuc.edu",
+        "http://www.uiuc.edu",
+        "http://choices.cs.uiuc.edu/talk/talk.html"
+    ],
+    "ground_truth": "project"
+}

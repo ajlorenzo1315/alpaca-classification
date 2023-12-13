@@ -1,0 +1,10 @@
+{
+    "Title": "MSU Department of Computer Science",
+    "Body": "Upcoming special events in the Computer Science Department or related to the computer science field.",
+    "link": [
+        "http://www.msu.edu/",
+        "http://www.egr.msu.edu/",
+        "http://web.cps.msu.edu/welcome/welcome.html"
+    ],
+    "ground_truth": "department"
+}

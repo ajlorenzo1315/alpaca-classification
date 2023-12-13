@@ -1,0 +1,9 @@
+{
+    "Title": "The SkyBlue Constraint Solver",
+    "Body": "SkyBlue is a successor to the DeltaBlue algorithm, which was used as the constraint solver in the ThingLab II user interface development environment.",
+    "link": [
+        "ftp://cs.washington.edu/tr/1992/07/UW-CSE-92-07-02.PS.Z",
+        "http://www.cs.washington.edu/research/projects/weird/www/index.html"
+    ],
+    "ground_truth": "other"
+}

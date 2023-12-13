@@ -1,0 +1,10 @@
+{
+    "Title": "\nTutorials that are \"out there\"\n",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Monday, 06-Jan-97 20:10:51 GMT Content-Type: text/html Content-Length: 2236 Last-Modified: Tuesday, 12-Mar-96 00:17:27 GMT Tutorials that are \"out there\" Tutorials that are \"out there\" The following are resources that are available on the web.",
+    "link": [
+        "http://www.cs.cmu.edu/afs/cs/usr/mwm/www/tutorial/",
+        "http://www.wh.whoi.edu/Unixhelp/TOP_.html",
+        "http://www.andrews.edu/~maier/tutor.html"
+    ],
+    "ground_truth": "other"
+}

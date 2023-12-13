@@ -1,0 +1,10 @@
+{
+    "Title": "Robert Gammill NDSU Faculty",
+    "Body": "Date: Mon, 25 Nov 1996 22:10:59 GMT Server: NCSA/1.5.2 Content-type: text/html Robert Gammill NDSU Faculty Robert Gammill 262E IACC (701) 231-8182 gammill@plains.NoDak.edu Earned his PhD in 1969 from MIT, taught at the University of Colorado, then worked for the Rand Corpation and has been at NDSU since 1978.",
+    "link": [
+        "http://www.cs.ndsu.NoDak.edu/~gammill/vita.html",
+        "http://www.cs.ndsu.NoDak.edu/~gammill/vita.html#pubs",
+        "http://www.cs.ndsu.NoDak.edu/~gammill/vita.html#grads"
+    ],
+    "ground_truth": "faculty"
+}

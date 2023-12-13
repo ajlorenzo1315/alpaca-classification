@@ -1,0 +1,10 @@
+{
+    "Title": " CS 736 Paper Reading List",
+    "Body": "March 1988, Mendel Rosenblum, John K. Ousterhout, \"The Design and Implementation of a Log-Structured File System\", Proceedings of the 10th SOSP, Operating Systems Review , 25 5, pp.",
+    "link": [
+        "http://www.cs.wisc.edu/~bart/cs736-1.html",
+        "http://www.esrin.esa.it/htdocs/tidc/Press/Press96/ariane5rep.html",
+        "http://www.cs.wisc.edu/~bart/ariane5rep.html"
+    ],
+    "ground_truth": "other"
+}

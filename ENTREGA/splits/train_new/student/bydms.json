@@ -1,0 +1,10 @@
+{
+    "Title": "Alan Heirich: Research in Parallel Computing and Computational Science\n(load balancing, mapping, rendering)\n",
+    "Body": "(To appear in the International Journal of Foundations of Computer Science).",
+    "link": [
+        "http://www.cs.caltech.edu/~heirich/pics/face.gif",
+        "http://www.cs.caltech.edu/~heirich/pics/conference.jpg",
+        "http://www.cs.caltech.edu/~heirich/pics/conference2.jpg"
+    ],
+    "ground_truth": "student"
+}

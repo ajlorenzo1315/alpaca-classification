@@ -1,0 +1,10 @@
+{
+    "Title": "Richard Segal's Biography",
+    "Body": "He discovered there was more to life than baseball and computers.",
+    "link": [
+        "https://www2.pcy.mci.net/mlb/",
+        "http://www.msstate.edu/M/title-exact?brighton+beach+memoirs",
+        "http://www.littleleague.org"
+    ],
+    "ground_truth": "other"
+}

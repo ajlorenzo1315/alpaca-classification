@@ -1,0 +1,10 @@
+{
+    "Title": "GRAIL: Software and Data",
+    "Body": "Date: Tue, 10 Dec 1996 03:30:27 GMT Server: NCSA/1.4.2 Content-type: text/html GRAIL: Software and Data Software Coordinate-free library for geometric programming: C++ version C version Surface reconstruction from unorganized points Data A repository of various meshes .",
+    "link": [
+        "",
+        "ftp://ftp.cs.washington.edu/pub/graphics/geometryC++.tar.Z",
+        "ftp://ftp.cs.washington.edu/pub/graphics/geometryC.tar.Z"
+    ],
+    "ground_truth": "other"
+}

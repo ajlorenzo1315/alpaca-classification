@@ -1,0 +1,10 @@
+{
+    "Title": " Ranga ",
+    "Body": "Date: Thu, 07 Nov 1996 19:14:03 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Sat, 12 Oct 1996 21:20:47 GMT Content-length: 1024 Ranga Arvind Ranganathan About Me!",
+    "link": [
+        "http://www.cs.wisc.edu/~arvind/biography.html",
+        "http://www.comlab.ox.ac.uk/",
+        "http://www.cs.wisc.edu/"
+    ],
+    "ground_truth": "student"
+}

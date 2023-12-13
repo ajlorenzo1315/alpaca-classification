@@ -1,0 +1,10 @@
+{
+    "Title": "J. Ben Rosen",
+    "Body": "Date: Thu, 21 Nov 1996 20:55:23 GMT Server: Apache/1.1b3 Content-type: text/html J. Ben Rosen J. Ben Rosen Professor Emeritus Numerical optimization, parallel computing.",
+    "link": [
+        "http://www.cs.umn.edu/footer.map",
+        "mailto:www@cs.umn.edu",
+        "http://www.cs.umn.edu/help"
+    ],
+    "ground_truth": "faculty"
+}

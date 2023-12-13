@@ -1,0 +1,10 @@
+{
+    "Title": " Tomasz Imielinski Home Page ",
+    "Body": "Badrinath IEEE Transactions of Data and Knowldge Engineering, July 1996 \"From File Mining to Database Mining\", T.Imielinski in SIGMOD Workshop on Knowledge and Data Discovery, May, 1996 \"Sleepers and Workoholics - caching strategies in mobile environments\" D.Barbara, T.Imielinski,  Very Large Databases Journal , December 1995 \"Location Management for Networks with Mobile Users\", B.R.Badrinath and T.Imielinski in \"Mobile Computing\", Kluwer Publishers, 1996 \"Wireless Publishing: Issues and Solutions\", T.Imielinski and S.Visnathawan in \"Mobile Computing\".",
+    "link": [
+        "http://www.cs.rutgers.edu/dataman",
+        "http://www.cs.rutgers.edu/~imielins/professors.html",
+        "http://www.cs.rutgers.edu/dataman"
+    ],
+    "ground_truth": "faculty"
+}

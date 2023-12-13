@@ -1,0 +1,10 @@
+{
+    "Title": "Periodic Motion Information",
+    "Body": "Period Trace This image shows the period trace (red lines) recovered from an image sequence of a phonograph turntable.",
+    "link": [
+        "http://www.cs.wisc.edu/~seitz/jogi.gif",
+        "http://www.cs.wisc.edu/~seitz/seitz.html",
+        "http://www.cs.wisc.edu/~dyer/dyer.html"
+    ],
+    "ground_truth": "project"
+}

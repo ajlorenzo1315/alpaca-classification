@@ -1,0 +1,10 @@
+{
+    "Title": "Fortran D95 Compiler Overview",
+    "Body": "CP: [example] eliminate communication for references local to that CP eliminate redundant communication by coalescing determine communication pattern perform message coalescing optimization Limitations (November 1995) assume one single reaching layout per reference conservative unless single processors statement, perfect alignment, and same number of distributed dimensions communication pattern recognition is somewhat limited dataflow analysis for eliminating partial redundancies and latency hiding not yet fully in place Code Generation Principal Functionality [source for running example] Computation partitioning transformations: reduce loop bounds and insert guards where necessary [example] separate loop iterations that might access non-local values to minimize overhead from runtime locality checks [example] Communication generation and storage management: compute data sets to send/recv between processor pairs generate code to pack/unpack buffers and send/recv data [example] generate run-time dynamic storage management to cope with dynamic layouts [example] localize and linearize subscripts [example] Current Strategy Except for storage management, all the code generation tasks require heavy manipulation of integer sets, especially for compiling regular applications for distributed-memory machines.",
+    "link": [
+        "http://softlib.rice.edu/fortran-tools/fortran-tools.html",
+        "http://www.cs.rice.edu/CRPC.html",
+        "http://www.rice.edu/"
+    ],
+    "ground_truth": "other"
+}

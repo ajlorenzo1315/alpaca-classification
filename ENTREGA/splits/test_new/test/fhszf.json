@@ -1,0 +1,8 @@
+{
+    "Title": "CS302 Grading Information",
+    "Body": "The readability of a program includes: Proper and consistent indentation of statements Documentation (via comments) for functions and parameters, and for non-obvious variables and pieces of code Use of blank lines to separate logically separate pieces of code Use of meaningful identifiers for variables, functions, etc.",
+    "link": [
+        "http://www.cs.wisc.edu/~melski/melski.html"
+    ],
+    "ground_truth": "unknow"
+}

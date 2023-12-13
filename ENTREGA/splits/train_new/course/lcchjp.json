@@ -1,0 +1,10 @@
+{
+    "Title": "Distributed Operating Systems (Enterprise-wide Computing Systems)",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0pre5 Date: Tuesday, 26-Nov-96 19:32:30 GMT Content-Type: text/html Content-Length: 7522 Last-Modified: Tuesday, 26-Nov-96 15:26:49 GMT Distributed Operating Systems (Enterprise-wide Computing Systems) CS 6523 Distributed Operating Systems (Enterprise-wide Computing Systems) Distributed Operating Systems is being taught with an emphasis on enterprise-wide computing environments.",
+    "link": [
+        "http://www.cs.utsa.edu/faculty/jon/teaching/6523/6523-ad.ps",
+        "http://www.cs.utsa.edu/faculty/jon/teaching/6523/bocm_do.ps",
+        "http://www.cs.utsa.edu/faculty/jon/teaching/6523/intro.ps"
+    ],
+    "ground_truth": "course"
+}

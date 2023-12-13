@@ -1,0 +1,10 @@
+{
+    "Title": "Keeper's Home Page",
+    "Body": "If you are offended, it's probably because you're stupid.",
+    "link": [
+        "http://www.cs.wisc.edu/~keeper//",
+        "http://www.cs.wisc.edu/~keeper/hedgehog.html",
+        "mailto:keeper@cs.wisc.edu"
+    ],
+    "ground_truth": "student"
+}

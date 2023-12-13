@@ -1,0 +1,10 @@
+{
+    "Title": "Steven Robbins",
+    "Body": "Date: Mon, 25 Nov 1996 23:26:44 GMT Server: NCSA/1.5.1 Last-modified: Thu, 28 Sep 1995 19:10:56 GMT Content-type: text/html Content-length: 1295 Steven Robbins Steven Robbins Associate Professor srobbins@runner.utsa.edu Ph.D.",
+    "link": [
+        "http://vip.cs.utsa.edu/systems/overview.html",
+        "http://vip.cs.utsa.edu/instruction/overview.html",
+        "http://vip.cs.utsa.edu/personnel/srpublications.html"
+    ],
+    "ground_truth": "faculty"
+}

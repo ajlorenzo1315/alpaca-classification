@@ -1,0 +1,10 @@
+{
+    "Title": "Johannes Gehrke's homepage",
+    "Body": "I am an international graduate student at the Computer Sciences Department at the University of Wisconsin-Madison .",
+    "link": [
+        "http://www.cs.wisc.edu/directories/gradlist.html",
+        "http://www.cs.utexas.edu/",
+        "http://www.wisc.edu/"
+    ],
+    "ground_truth": "student"
+}

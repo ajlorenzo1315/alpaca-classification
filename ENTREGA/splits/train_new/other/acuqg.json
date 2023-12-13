@@ -1,0 +1,10 @@
+{
+    "Title": "Friends of SPIN",
+    "Body": "Some of us used to work at CMU also.",
+    "link": [
+        "http://www.arpa.mil/",
+        "http://www.research.digital.com/SRC/home.html",
+        "http://www.research.digital.com/SRC/modula-3/html/home.html"
+    ],
+    "ground_truth": "other"
+}

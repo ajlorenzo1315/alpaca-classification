@@ -1,0 +1,10 @@
+{
+    "Title": "Jonathan Gratch's Home Page",
+    "Body": "Server: Netscape-Commerce/1.1 Date: Thursday, 21-Nov-96 21:11:43 GMT Last-modified: Tuesday, 29-Aug-95 21:08:16 GMT Content-length: 1379 Content-type: text/html Jonathan Gratch's Home Page Jonathan Matthew Gratch Information Sciences Institute Computer Science Department University of Southern California 4676 Admiralty Way Marina del Rey, CA 90292 Phone: (310) 822-1511 x730 Fax:   (310) 822-6714 Email: gratch@isi.edu Areas of Research Interest My research lies at the intersection of artificial intelligence, operations research, and statistics.",
+    "link": [
+        "http://venera.isi.edu/",
+        "http://cwis.usc.edu/dept/cs/index.html",
+        "http://cwis.usc.edu/"
+    ],
+    "ground_truth": "faculty"
+}

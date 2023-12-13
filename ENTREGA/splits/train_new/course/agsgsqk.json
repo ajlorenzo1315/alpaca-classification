@@ -1,0 +1,10 @@
+{
+    "Title": "22c:5 Problem Solving & Computing",
+    "Body": "The assignments There will be two midterms exams each covering one section of the course as shown on the schedule (over) and a final exam covering the third section plus the course as a whole.",
+    "link": [
+        "http://www.cs.uiowa.edu/~oden/",
+        "mailto:oden@cs.uiowa.edu",
+        "mailto:duta@cs.uiowa.edu"
+    ],
+    "ground_truth": "course"
+}

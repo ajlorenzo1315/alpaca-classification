@@ -1,0 +1,10 @@
+{
+    "Title": "Instructions to Request a Grade Report",
+    "Body": "Date: Tue, 14 Jan 1997 23:00:01 GMT Server: NCSA/1.5 Content-type: text/html Instructions to Request a Grade Report Boston University / CLA Computer Science Dept CLA CS-101 (B1): Introduction to Computers Instructions to Request a Grade Report You could request a report of your grade in cs101b1 by sending an empty Email message to Prof. Azer Bestavros with the \"Subject:\" line containing the sentence getgrade cs101b1 as shown below.",
+    "link": [
+        "http://web.bu.edu/",
+        "gopher://gopher.bu.edu:70/11/Resources%20At%20Your%20Fingertips/School%20and%20College%20Bulletins/Undergraduate%20Programs%201994-95/College%20of%20Liberal%20Arts",
+        "http://cs-www.bu.edu/Home.html"
+    ],
+    "ground_truth": "other"
+}

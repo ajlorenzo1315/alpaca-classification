@@ -1,0 +1,10 @@
+{
+    "Title": " Mumit's STL Newbie guide ",
+    "Body": "<< endl ; } return 0 ; } Pointers and STL Back to index Example of a pointer wrapper for storing in STL containers If you have to store pointers in STL containers, especially the sorted collections such as set and map , you might want to wrap the pointers into a simple class that works as a holder for the pointer ( who cleans up the memory afterwards ?)",
+    "link": [
+        "http://www.xraylith.wisc.edu/~khan/software/stl/STL.newbie.html",
+        "#about",
+        "#overview"
+    ],
+    "ground_truth": "other"
+}

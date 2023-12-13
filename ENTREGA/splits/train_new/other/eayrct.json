@@ -1,0 +1,10 @@
+{
+    "Title": "CS 378 Couse Announcements",
+    "Body": "It is now due on Tuesday, 1 Oct. No exceptions.",
+    "link": [
+        "http://www.cs.utexas.edu/users/lavender/CS378/Fall96/Quiz-06.ps",
+        "http://www.cs.utexas.edu/users/lavender/CS378/Fall96/Quiz-06.pdf",
+        "http://www.cs.utexas.edu/users/lavender/CS378/Fall96/BonusWriting.ps"
+    ],
+    "ground_truth": "other"
+}

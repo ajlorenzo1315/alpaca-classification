@@ -1,0 +1,10 @@
+{
+    "Title": "No title",
+    "Body": "I am a newcomer to information access, but I have experience in reinforcement learning, and one of the main lessons of reinforcement learning is that it is really important to understand the true nature of the learning problem you want to solve.",
+    "link": [
+        "http://envy.cs.umass.edu/People/sutton/sutton.html",
+        "http://www.aaai.org/Symposia/symposia.html",
+        "http://www.parc.xerox.com/istl/projects/mlia/mlia.html"
+    ],
+    "ground_truth": "other"
+}

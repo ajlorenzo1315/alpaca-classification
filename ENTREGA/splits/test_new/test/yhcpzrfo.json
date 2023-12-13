@@ -1,0 +1,10 @@
+{
+    "Title": "Rocket",
+    "Body": "T. Brasier, P. Sweany , S. Beaty and S. Carr, \"CRAIG: A Practical Framework for Combining Instruction Scheduling and Register Assignment\" , 1995 International Conference on Parallel Architectures and Compiler Techniques.",
+    "link": [
+        "http://www.cs.mtu.edu/faculty/Sweany.html",
+        "http://www.cs.mtu.edu/~carr",
+        "http://www.cs.mtu.edu/grads/Ding.html"
+    ],
+    "ground_truth": "unknow"
+}

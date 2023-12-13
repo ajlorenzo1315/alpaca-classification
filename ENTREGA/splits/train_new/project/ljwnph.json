@@ -1,0 +1,10 @@
+{
+    "Title": "BRASS Research Group, U.C. Berkeley",
+    "Body": "Berkeley Computer Science Division, UC Berkeley The goal of the BRASS research group, headed by John Wawrzynek, is to expand the set of applications for which reconfigurable computing is the best solution.",
+    "link": [
+        "http://HTTP.CS.Berkeley.EDU/Research/Projects/brass//",
+        "http://www.berkeley.edu",
+        "http://HTTP.CS.Berkeley.EDU/Research/Projects/brass/projects.html"
+    ],
+    "ground_truth": "project"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "CS235 Home Page",
+    "Body": "Welcome to CS 235, Foundations of Computer Science I.",
+    "link": [
+        "http://www.cs.byu.edu/info/tanorman.html",
+        "http://www.cs.byu.edu/building/TMCB-3rd.html",
+        "mailto:tad@cs.byu.edu"
+    ],
+    "ground_truth": "course"
+}

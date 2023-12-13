@@ -1,0 +1,8 @@
+{
+    "Title": "\nAlmstrum Dissertation Abstract\n",
+    "Body": "The results of this study suggest that novice computer science students experience more difficulty with concepts involving mathematical logic than they do, in general, with other concepts in computer science.",
+    "link": [
+        "mailto:almstrum@cs.utexas.edu"
+    ],
+    "ground_truth": "other"
+}

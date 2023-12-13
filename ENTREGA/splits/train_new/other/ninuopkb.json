@@ -1,0 +1,10 @@
+{
+    "Title": " Job Announcements ",
+    "Body": "Date: Tue, 14 Jan 1997 18:56:53 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Mon, 23 Sep 1996 18:34:38 GMT Content-length: 2142 Job Announcements Job Announcements CAERE CORP. IS SEEKING WORLD-CLASS R&D SOFTWARE ENGINEERS!!",
+    "link": [
+        "http://documents.cfar.umd.edu/researchinfo/Jobs/Caerejob.html",
+        "mailto:jyokley@ptfs.com",
+        "http://documents.cfar.umd.edu/DocumentsGroup/Announcements/Position.html"
+    ],
+    "ground_truth": "other"
+}

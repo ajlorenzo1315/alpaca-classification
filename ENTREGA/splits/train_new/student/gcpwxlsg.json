@@ -1,0 +1,10 @@
+{
+    "Title": " I-Chin Chen's Home Page ",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Wednesday, 20-Nov-96 19:37:19 GMT Content-Type: text/html Content-Length: 2260 Last-Modified: Monday, 22-Apr-96 19:48:00 GMT I-Chin Chen's Home Page I-Chin Chen Welcome to my home page Current Address: 201 Maple Ave.,Apt.",
+    "link": [
+        "mailto:icchen@cs.cornell.edu",
+        "http://www.tc.cornell.edu/Visualization/Education/cs417",
+        "http://www/cs.cornell.edu/Info/Courses/Current/CS514"
+    ],
+    "ground_truth": "student"
+}

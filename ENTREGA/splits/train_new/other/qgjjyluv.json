@@ -1,0 +1,9 @@
+{
+    "Title": "Quiz 1 Soultions - CS 302 Fall 1996 - Section 4",
+    "Body": "int main() { int counter = 3, value = 2; while (counter < 7) { value = value * 2; cout << \"Value is \" << value << endl; if ((counter % 2) == 0) { cout << \"Counter is \" << counter << endl; } counter++; } } Answer: Value is 4 Value is 8 Counter is 4 Value is 16 Value is 32 Counter is 6 (5 points) Write a function \"calculate_score\" which calculates and returns one team's score of a football game given the number of touchdowns, field goals, and extra points that team scored (in that order).",
+    "link": [
+        "http://www.cs.wisc.edu/~cs302",
+        "http://www.cs.wisc.edu/~milo/cs302.html"
+    ],
+    "ground_truth": "other"
+}

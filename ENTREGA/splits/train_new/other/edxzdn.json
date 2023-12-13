@@ -1,0 +1,10 @@
+{
+    "Title": "The Minibase Home Page",
+    "Body": "History of Minibase Terms of Distribution Roadmap of Distribution Overview of Single-User Minibase Project Components Minibase is still under development!",
+    "link": [
+        "http://www.cs.wisc.edu/coral/minibase/minibase.notice.html",
+        "http://www.cs.wisc.edu/coral/minibase/dbbook.html",
+        "http://www.cs.wisc.edu/~raghu/raghu.html"
+    ],
+    "ground_truth": "other"
+}

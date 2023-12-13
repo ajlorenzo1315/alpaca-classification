@@ -1,0 +1,8 @@
+{
+    "Title": "Motor Pool Status Report",
+    "Body": "New seat belts in front.",
+    "link": [
+        "http://www.cs.washington.edu/homes/travis/"
+    ],
+    "ground_truth": "other"
+}

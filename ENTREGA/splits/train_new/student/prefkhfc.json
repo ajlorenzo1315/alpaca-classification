@@ -1,0 +1,10 @@
+{
+    "Title": "Home Page for Sheetal V. Kakkad",
+    "Body": "Research Information I am a member of the OOPS Research Group in the Department of Computer Sciences at The University of Texas at Austin .",
+    "link": [
+        "mailto:svkakkad@cs.utexas.edu",
+        "http://www.cs.utexas.edu/cgi/finger/svkakkad",
+        "http://www.cs.utexas.edu/users/oops/"
+    ],
+    "ground_truth": "student"
+}

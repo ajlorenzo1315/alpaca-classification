@@ -1,0 +1,10 @@
+{
+    "Title": "Brute",
+    "Body": "When used for classification, the rules found by Brute's core search must be combined to form a classifier.",
+    "link": [
+        "http://www.cs.washington.edu/homes/segal/index.html",
+        "http://www.cs.washington.edu/homes/etzioni",
+        "http://www.cs.washington.edu/homes/segal/brute-analysis.html"
+    ],
+    "ground_truth": "unknow"
+}

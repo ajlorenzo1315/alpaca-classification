@@ -1,0 +1,10 @@
+{
+    "Title": "Chau-Wen Tseng",
+    "Body": "Research Interests: Compilers for scalable parallel architectures Compilers for high-performance uniprocessors Parallel and distributed systems Programming environments Programming languages Current Projects: Compiling for software distributed-shared-memory (DSM) Compiling for clustered shared-memory multiprocessors (SMP) Data layout optimizations for high performance architectures Academic Degrees: Ph.D. (1993), Computer Science , Rice University M.S.",
+    "link": [
+        "mailto:tseng@cs.umd.edu",
+        "http://www.cs.umd.edu/index.html",
+        "http://www.umiacs.umd.edu"
+    ],
+    "ground_truth": "faculty"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Help on Searching",
+    "Body": "Second, there is a menu of the publishers in the NCSTRL collection, and a check box to use all publishers.",
+    "link": [
+        "#simple",
+        "#fielded",
+        "#rules"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": " Rajesh Gurjar's home on the web ",
+    "Body": "A lot of good info, if the links haven't moved!",
+    "link": [
+        "http://hamton.eng.ua.edu/college/people/bdilbagh/india.html",
+        "http://hamton.eng.ua.edu/college/people/bdilbagh/india.html",
+        "http://www.yahoo.com/computers"
+    ],
+    "ground_truth": "student"
+}

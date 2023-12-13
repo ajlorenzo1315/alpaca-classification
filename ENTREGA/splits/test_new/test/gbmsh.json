@@ -1,0 +1,10 @@
+{
+    "Title": "No title",
+    "Body": "Some people claim that it is from one of the ealry Jewish leaders... What is in a name .......:-)",
+    "link": [
+        "http://www.cs.cornell.edu/Info/People/sharma/cs519",
+        "http://www-scpd.stanford.edu/scpd.html",
+        "http://www.vxtreme.com"
+    ],
+    "ground_truth": "unknow"
+}

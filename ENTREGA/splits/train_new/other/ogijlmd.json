@@ -1,0 +1,10 @@
+{
+    "Title": "Section Material for CSE 143",
+    "Body": "Date: Tue, 10 Dec 1996 23:19:28 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Sun, 10 Dec 1995 00:18:21 GMT Content-length: 847 Section Material for CSE 143 Section material: Thursday December 7 , discussing the House example (inheritance).",
+    "link": [
+        "http://www.cs.washington.edu/homes/eric/cse143/inheritance/Inherit.html",
+        "http://www.cs.washington.edu/homes/eric/cse143/zoo_example/Zoo.html",
+        "http://www.cs.washington.edu/homes/eric/cse143/bingo_example/Bingo.html"
+    ],
+    "ground_truth": "other"
+}

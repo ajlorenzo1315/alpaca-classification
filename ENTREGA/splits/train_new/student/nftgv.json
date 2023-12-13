@@ -1,0 +1,10 @@
+{
+    "Title": "Albert's Homepage",
+    "Body": "Date: Tue, 26 Nov 1996 03:47:53 GMT Server: Apache/1.1.1 Content-type: text/html Content-length: 2369 Last-modified: Fri, 20 Sep 1996 05:14:38 GMT Albert's Homepage Welcome to Yu Zhou's Homepage It seems this page is always under construction!!!",
+    "link": [
+        "http://www.microsoft.com/ie/",
+        "http://paul.rutgers.edu/~yuzhou/reason.html",
+        "http://www.rutgers.edu"
+    ],
+    "ground_truth": "student"
+}

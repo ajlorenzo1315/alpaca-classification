@@ -1,0 +1,10 @@
+{
+    "Title": "Home Page for Alex Borgida",
+    "Body": "This topic overlaps with the area of *databases* through its concern with managing large models, and with *knowledge representation*, through its interest in inference and the natural modeling of the users' world.",
+    "link": [
+        "http://www.cs.rutgers.edu",
+        "http://info.rutgers.edu",
+        "mailto:borgida@cs.rutgers.edu"
+    ],
+    "ground_truth": "unknow"
+}

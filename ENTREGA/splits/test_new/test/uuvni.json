@@ -1,0 +1,10 @@
+{
+    "Title": " Masafumi Suzuki -resume- ",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Sunday, 01-Dec-96 19:47:05 GMT Content-Type: text/html Content-Length: 4148 Last-Modified: Wednesday, 17-Apr-96 23:32:46 GMT Masafumi Suzuki -resume- MASAFUMI  SUZUKI 512 South Plain Street Ithaca, NY  14850 (607) 277-6572 email: suzuki@cs.cornell.edu Home page: http://www.cs.cornell.edu/Info/People/suzuki/suzuki.html EDUCATION Cornell University , Ithaca, NY Candidate for Master of Engineering in Computer Science , August 1996 Candidate for Master of Engineering in Operations Research and Industrial Engineering , May 1996 Emphasis: Multimedia, Object-oriented programming, Database, MIS,Computer graphics, Simulation including developments of simulators, Optimization, Probability and Statistics, Stochastic modeling Tokyo Institute of Technology , Tokyo, Japan Master of Engineering in Nuclear Engineering , March 1988 Emphasis: Nuclear Fission, Nuclear Fusion, Plasma Wall Interaction Tokyo Institute of Technology , Tokyo, Japan Bachelor of Science in Applied Physics , March 1986 WORK EXPERIENCE IBM Japan, Ltd. Tokyo, Japan 1988 - 1994 Systems engineer in Financial Marketing Department for Nomura Securities Co. and Yasuda Fire & Marine Insurance Co. Duties included: Developed applications with C and COBOL which run on UNIX(Motif) and OS/2,Participated in a total insurance system project ($100,000,000) as a sub project leader,Proposed information systems for diverse divisions or for the whole company( a personnel system, a decision support system for management, insurance systems, a financial support system and a personal email system), Advised the various computers' operation, Liaised with the US.",
+    "link": [
+        "mailto:suzuki@cs.cornell.edu",
+        "http://www.cs.cornell.edu/Info/People/suzuki/suzuki.html",
+        "http://www.cornell.edu/"
+    ],
+    "ground_truth": "unknow"
+}

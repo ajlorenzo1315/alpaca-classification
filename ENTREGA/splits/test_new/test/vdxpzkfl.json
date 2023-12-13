@@ -1,0 +1,10 @@
+{
+    "Title": "\nbiographical directory",
+    "Body": "biographical directory biographical Up to pub vita.ps xapp.html xbooks.html xhist.html xlaa.html xmat.html xna.html xsoft.html",
+    "link": [
+        "biographical/..",
+        "biographical/vita.ps",
+        "biographical/xapp.html"
+    ],
+    "ground_truth": "unknow"
+}

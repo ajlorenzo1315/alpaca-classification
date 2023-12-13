@@ -1,0 +1,10 @@
+{
+    "Title": "Jon Kleinberg's Homepage",
+    "Body": "Recent work has included approximation algorithms for routing and disjoint paths problems in networks; adversarial queueing theory, an approach to analyzing the stability of network routing protocols without probabilistic assumptions; geometric methods in combinatorial optimization, particularly the use of positive semi-definite programming; and geometric algorithms for studying molecular conformation.",
+    "link": [
+        "mailto:kleinber@cs.cornell.edu",
+        "http://www.cs.cornell.edu",
+        "http://www.cornell.edu"
+    ],
+    "ground_truth": "faculty"
+}

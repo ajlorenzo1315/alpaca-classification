@@ -1,0 +1,10 @@
+{
+    "Title": "Christopher M. Brown's Home Page",
+    "Body": "Date: Thursday, 21-Nov-96 21:02:02 GMT Server: NCSA/1.3 MIME-version: 1.0 Content-type: text/html Last-modified: Monday, 04-Nov-96 15:38:11 GMT Content-length: 3163 Christopher M. Brown's Home Page Christopher M. Brown Professor Computer Science Department University of Rochester Rochester, NY  14627-0226 brown@cs.rochester.edu Phone (716) 275-7852; FAX 461-2018 Do you ever get the feeling that you're BEING WATCHED ?",
+    "link": [
+        "http://www.cs.rochester.edu/u/brown/faces.gif",
+        "http://www.cs.rochester.edu/u/brown/bio.html",
+        "http://www.cs.rochester.edu/u/brown/students.html"
+    ],
+    "ground_truth": "faculty"
+}

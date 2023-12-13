@@ -1,0 +1,10 @@
+{
+    "Title": "Dave's Info Page",
+    "Body": "I'm now a Masters of Engineering student in the Computer Science Department here at Cornell.",
+    "link": [
+        "http://www.cs.cornell.edu/Info/People/bsmith/Brian_Smith.html",
+        "http://www.cs.cornell.edu/Info/Courses/Current/CS99/CS99.html",
+        "mailto: dkoster@cs.cornell.edu"
+    ],
+    "ground_truth": "other"
+}

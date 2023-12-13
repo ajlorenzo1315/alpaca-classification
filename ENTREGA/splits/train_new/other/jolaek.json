@@ -1,0 +1,10 @@
+{
+    "Title": "Introduction to Microsoft Windows",
+    "Body": "Date: Tue, 05 Nov 1996 20:49:12 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Wed, 17 Apr 1996 14:10:16 GMT Content-length: 1269 Introduction to Microsoft Windows CS 302: Introduction to Microsoft Windows What is MS Windows?",
+    "link": [
+        "http://www.cs.wisc.edu/~cs302/C++/Introduction/windows1.html",
+        "http://www.cs.wisc.edu/~cs302/C++/Introduction/progman.html",
+        "http://www.cs.wisc.edu/~cs302/C++/Introduction/foreground.html"
+    ],
+    "ground_truth": "other"
+}

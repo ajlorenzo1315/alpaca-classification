@@ -1,0 +1,10 @@
+{
+    "Title": "B629 (Spring `97) home page",
+    "Body": "The course will present methods and techniques of program analysis and program transformation, techniques and algorithms for programming environments, as well as a survey of current systems in this area.",
+    "link": [
+        "#info",
+        "#outline",
+        "#readings"
+    ],
+    "ground_truth": "unknow"
+}

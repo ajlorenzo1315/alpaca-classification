@@ -1,0 +1,10 @@
+{
+    "Title": "Adam Deaton",
+    "Body": "These are some projects I've worked on recently: This picture (from a CT scan of a lobster) was rendered using 8 Sun workstations, a modified version of Phil Lacroute's VolPack software, and the Oxford BSP library (Thanks to John Danskin for the data.)",
+    "link": [
+        "http://das-www.harvard.edu/users/faculty/Leslie_Valiant/Leslie_Valiant.html",
+        "http://www.das.harvard.edu/users/students/Adam_Deaton/lobster.tiff",
+        "http://www-graphics.stanford.edu/software/volpack/"
+    ],
+    "ground_truth": "student"
+}

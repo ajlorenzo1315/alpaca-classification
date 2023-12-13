@@ -1,0 +1,5 @@
+{
+    "Título": "University of Chicago Computer Science",
+    "Cuerpo": "Date: Tue, 26 Nov 1996 22:36:50 GMT Server: Apache/1.1.1 Content-type: text/html Set-Cookie: Apache=gs3520534849047810915; path=/ Content-length: 3360 Last-modified: Thu, 04 Apr 1996 03:59:06 GMT University of Chicago Computer Science Computer Science Welcome to the University of Chicago Computer Science Department. About The Department Classes, Course Syllabi, and Admissions Faculty Research Interests Graduate Program Undergraduate Program How to get here Positions available . Services Colloquia Discussion Groups Publications , including Technical Reports and the CJTCS Software Distribution The Illinois Virtual Tourist WWW Server Statistics . Student MacLab Departmental Subdivisions Artificial Intelligence Computational and Applied Mathematics Program Systems Theoretical Computer Science . People Members of the Department of Computer Science. Last modified: Thu Jan 25 10:58:48 1996 Computer Science Department Technical Staff / techstaff@cs.uchicago.edu",
+    "ground_truth": "unknown"
+}

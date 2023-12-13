@@ -1,0 +1,10 @@
+{
+    "Title": " Jude W. Shavlik's Home Page ",
+    "Body": "Knowledge-based artificial neural networks.",
+    "link": [
+        "mailto:shavlik@cs.wisc.edu",
+        "#summary",
+        "#students"
+    ],
+    "ground_truth": "faculty"
+}

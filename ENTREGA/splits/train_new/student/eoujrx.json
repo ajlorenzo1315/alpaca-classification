@@ -1,0 +1,10 @@
+{
+    "Title": "Andrew Lines",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Thursday, 21-Nov-96 22:01:55 GMT Content-Type: text/html Content-Length: 2253 Last-Modified: Tuesday, 08-Oct-96 16:16:44 GMT Andrew Lines Andrew Lines e-mail: lines@vlsi.cs.caltech.edu phone: (818) 395-4600 mail: Andrew Lines, Caltech 256-80, Pasadena, CA 91125 office: Booth 16, Caltech Asynchronous VLSI I do asychronous digital VLSI design at the Caltech Computer Science Department with Dr. Alain Martin .",
+    "link": [
+        "http://www.cs.caltech.edu",
+        "http://www.cs.caltech.edu/~alains",
+        "http://www.cs.caltech.edu/~uri"
+    ],
+    "ground_truth": "student"
+}

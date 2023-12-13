@@ -1,0 +1,10 @@
+{
+    "Title": "EMA Undergraduate Student Information",
+    "Body": "Date: Mon, 11 Nov 1996 21:13:05 GMT Server: NCSA/1.5 Content-type: text/html EMA Undergraduate Student Information College of Engineering University of Wisconsin - Madison Engineering Mechanics and Astronautics Undergraduate Program Department Overview Curriculum Declaring A Major Financial Support Research Areas Facilities Faculty Profiles Course Descriptions About Madison Miscellaneous Information Undergraduate Catalog If your browser supports TABLES, please tell the webmaster which browser you are using so that the next time you visit this page it will look a lot nicer.",
+    "link": [
+        "http://www.engr.wisc.edu/neep/ema/",
+        "http://www.engr.wisc.edu/neep/ema/caption.html",
+        "http://www.engr.wisc.edu/neep/ema/undergrad/overview.html"
+    ],
+    "ground_truth": "other"
+}

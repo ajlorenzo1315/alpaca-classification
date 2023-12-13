@@ -1,0 +1,10 @@
+{
+    "Title": "David R. Britton Jr.",
+    "Body": "Once speech input is available for some modules of the SRS, we can perform a summative evaluation with respect to the two input modes.",
+    "link": [
+        "http://www.ics.uci.edu/~dbritton/pictures/bork2.jpg",
+        "mailto:dbritton@ics.uci.edu",
+        "http://www.software.ibm.com/workgroup/voicetyp/"
+    ],
+    "ground_truth": "student"
+}

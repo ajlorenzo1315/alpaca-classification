@@ -1,0 +1,9 @@
+{
+    "Title": "Family",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Monday, 06-Jan-97 21:28:36 GMT Content-Type: text/html Content-Length: 1441 Last-Modified: Sunday, 06-Oct-96 05:16:24 GMT Family Family Landrum Family The name Landrum is derived from a farm in Aberdeenshire, the name of which -- Lendrum -- in Gaelic is spelled leith-an druim and means a field on the side of a ridge or a broad ridge.",
+    "link": [
+        "http://www.cs.utexas.edu/users/landrum/gglandrum/index.html",
+        "http://www.cs.utexas.edu/users/landrum/index.html"
+    ],
+    "ground_truth": "other"
+}

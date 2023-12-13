@@ -1,0 +1,10 @@
+{
+    "Title": "Moret Home Page",
+    "Body": "Education and Experience Baccalauréat degrees in Latin, Greek, and Mathematics Diploma of Electrical Engineering from the Swiss Federal Institute of Technology ( Ecole Polytechnique Fédérale ) of Lausanne Software and firmware engineer for Omega Electronic in Bienne for 2 years MS and PhD in Electrical Engineering from the University of Tennessee On the faculty of the Department of Computer Science since 1980 (Chairman from 1991 until 1993) Research Interests pattern recognition complexity theory algorithmic paradigms computational geometry the empirical assessment of algorithms and data structures applications of the above to practical problems, especially 3D simulation He has published over 30 papers in these areas and co-authored (with Henry Shapiro) a graduate text on algorithms; a list of publications (and Postscript versions of some of them) is available.",
+    "link": [
+        "http://heiwww.unige.ch/switzerland/",
+        "http://www.cs.unm.edu/~moret/jane.html",
+        "http://www.epfl.ch/"
+    ],
+    "ground_truth": "faculty"
+}

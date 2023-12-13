@@ -1,0 +1,10 @@
+{
+    "Title": "\nCS417 Lab Main Page\n",
+    "Body": "This is the beginnings of a home page for CS 417 which deals with computer graphics and scientific visualization at the level of Computer Graphics: Principles and Practice by Foley et.al., or 3D Computer Graphics by Alan Watt.",
+    "link": [
+        "http://www.tc.cornell.edu/~bruce/",
+        "#summary",
+        "#admin"
+    ],
+    "ground_truth": "course"
+}

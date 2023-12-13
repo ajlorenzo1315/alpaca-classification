@@ -1,0 +1,10 @@
+{
+    "Title": "Dylan McNamee",
+    "Body": "My current work carries on the research started in the Opal project.",
+    "link": [
+        "http://www.eff.org/blueribbon.html",
+        "mailto:dylan@cs.washington.edu",
+        "http://www.cs.washington.edu/"
+    ],
+    "ground_truth": "student"
+}

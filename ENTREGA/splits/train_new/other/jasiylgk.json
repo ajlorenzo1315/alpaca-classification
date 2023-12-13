@@ -1,0 +1,10 @@
+{
+    "Title": "Yellow Pages",
+    "Body": "Awards database CISE Instrumentation Electronic forms Information, Robotics, and Intelligent Systems Robotics and Machine Intelligence O O'Reilly & Assoc .",
+    "link": [
+        "#A",
+        "#B",
+        "#C"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,8 @@
+{
+    "Title": " Program 1 ",
+    "Body": "You will ask the user to type in the number of classes in which they received an A, AB, B, BC, C, D, and F, then print out the number of grade points, the number of credits, and the GPA.",
+    "link": [
+        "mailto:mbirk@cs.wisc.edu"
+    ],
+    "ground_truth": "unknow"
+}

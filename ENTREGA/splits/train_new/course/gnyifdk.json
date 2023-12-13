@@ -1,0 +1,10 @@
+{
+    "Title": "Home Page for Russ Manning's CS110",
+    "Body": "Date: Mon, 11 Nov 1996 16:01:42 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Wed, 06 Nov 1996 04:58:29 GMT Content-length: 2685 Home Page for Russ Manning's CS110 CS 110:  Introduction to Computer Programming (C++) Instructor:    Russell Manning Email:         rmanning@cs.wisc.edu Office:        Room 1349, Computer Science",
+    "link": [
+        "http://www.cs.wisc.edu/~rmanning/cs110/grades1.html",
+        "http://www.cs.wisc.edu/~rmanning/cs110/program0.html",
+        "http://www.cs.wisc.edu/~rmanning/cs110/program1.html"
+    ],
+    "ground_truth": "course"
+}

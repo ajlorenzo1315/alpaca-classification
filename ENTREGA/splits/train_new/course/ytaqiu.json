@@ -1,0 +1,10 @@
+{
+    "Title": "CSC691-O title page",
+    "Body": "Here is are some links to research on Object-Oriented Languages.",
+    "link": [
+        "ftp://ftp.cs.indiana.edu/pub/eopl/ch13.ps.Z",
+        "ftp://ftp.cs.indiana.edu/pub/eopl/ch13.ss",
+        "http://www.csc.ncsu.edu/eos/info/csc691o_info/www/lexadd.html"
+    ],
+    "ground_truth": "course"
+}

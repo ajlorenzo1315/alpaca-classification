@@ -1,0 +1,10 @@
+{
+    "Title": " HomePage for Brian Harvey (bh@cs.Berkeley.EDU) ",
+    "Body": "I'm also interested in the use of computers in pre-college education; I used to be a high school teacher, and I'm involved in the development of the Logo programming language.",
+    "link": [
+        "http://HTTP.CS.Berkeley.EDU/~bh/lowdiv.html",
+        "http://www.csua.berkeley.edu/",
+        "http://www.ocf.berkeley.edu/"
+    ],
+    "ground_truth": "faculty"
+}

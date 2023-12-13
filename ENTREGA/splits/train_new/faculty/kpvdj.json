@@ -1,0 +1,9 @@
+{
+    "Title": "Joel Seiferas's Public Page",
+    "Body": "What are upper and lower bounds on the computational resources (especially time and space) that are needed, and how do these relate to the capabilities of the computer model being used?",
+    "link": [
+        "http://www.cs.rochester.edu/users/faculty.html",
+        "http://www.cs.rochester.edu/urcs.html"
+    ],
+    "ground_truth": "faculty"
+}

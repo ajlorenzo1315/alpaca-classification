@@ -1,0 +1,10 @@
+{
+    "Title": "Automatic Programming Server",
+    "Body": "Type xhost + www.cs.utexas.edu (exactly as shown at left) in a window on that host to allow this server to write to your display.",
+    "link": [
+        "/users/novak/datastr.html",
+        "/users/novak/views.html",
+        "/users/novak/programs.html"
+    ],
+    "ground_truth": "other"
+}

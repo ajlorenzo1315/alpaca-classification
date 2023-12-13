@@ -1,0 +1,10 @@
+{
+    "Title": "Gun's Checklist Checklist",
+    "Body": "Camping checklist.",
+    "link": [
+        "http://www.princeton.edu/~rcurtis/oa.html",
+        "wintercamping.html",
+        "camping.html"
+    ],
+    "ground_truth": "other"
+}

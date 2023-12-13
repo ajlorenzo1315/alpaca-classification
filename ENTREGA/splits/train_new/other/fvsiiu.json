@@ -1,0 +1,10 @@
+{
+    "Title": "\nSyllabus for CS 304P\n",
+    "Body": "To study for the exams, you should review the assigned readings and your notes from the lectures and discussion sessions.",
+    "link": [
+        "mailto:dwip@cs.utexas.edu",
+        "mailto:dwip@cs.utexas.edu",
+        "http://www.cs.utexas.edu/users/dwip/cs304p/welcome.html"
+    ],
+    "ground_truth": "other"
+}

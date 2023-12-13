@@ -1,0 +1,10 @@
+{
+    "Title": "SPIN Benchmarks",
+    "Body": "Date: Tue, 10 Dec 1996 03:37:16 GMT Server: NCSA/1.4.2 Content-type: text/html SPIN Benchmarks SPIN Benchmarks (under contruction) This page is devoted to measurements of operating system performance for SPIN and other operating systems.",
+    "link": [
+        "ControlTransfer/index.html#ProtectedCall",
+        "ControlTransfer/index.html#SystemCall",
+        "ControlTransfer/index.html#IPC"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "\nMe,myself,and I\n",
+    "Body": "I am currently helping out at the Cornell Robotics and Vision Lab under the super supervision of Ramin Zabih .",
+    "link": [
+        "http://www.cs.cornell.edu/Info/Projects/csrvl/csrvl.html",
+        "http://www.cs.cornell.edu/Info/Faculty/Ramin_Zabih.html",
+        "http://www.iisys.com/montreal/montreal.htm"
+    ],
+    "ground_truth": "unknow"
+}

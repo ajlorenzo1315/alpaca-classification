@@ -1,0 +1,9 @@
+{
+    "Title": "CODE Download Page",
+    "Body": "First name: Last name: Title: E-mail address: LICENSEE hereby agrees to the Agreement and to the terms of the License Fee Waiver below: Waiver of License Fee The license fee will be waived if the LICENSEE agrees to notify UT Austin of any significant work done using Program and to make available to UT Austin (upon request from UT Austin) all software or experimental results developed with, using, or directly derived from Program.",
+    "link": [
+        "mailto:emery@cs.utexas.edu",
+        "mailto:emery@cs.utexas.edu"
+    ],
+    "ground_truth": "other"
+}

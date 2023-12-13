@@ -1,0 +1,10 @@
+{
+    "Title": " CS211 Spring 96 Home Page ",
+    "Body": "MacGofer PC Gofer UNIX Gofer The FTP site for Gofer is haskell.systemsz.cs.yale.edu/pub/haskell/gofer and the FTP site for MacGofer is ftp.dcs.gla.ac.uk .",
+    "link": [
+        "http://www.cs.cornell.edu",
+        "mailto:jfoster@cs.cornell.edu",
+        "http://www.cs.cornell.edu/Info/Courses/Spring-96/CS211/contest.html"
+    ],
+    "ground_truth": "unknow"
+}

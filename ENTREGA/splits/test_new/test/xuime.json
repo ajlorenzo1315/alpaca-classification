@@ -1,0 +1,10 @@
+{
+    "Title": " Active Visualization Homepage ",
+    "Body": "Keith Price's Annotated Computer Vision Bibliography at USC.",
+    "link": [
+        "http://cs.nyu.edu/cs/faculty/yap/visual/seminar.html",
+        "http://cs.nyu.edu/cs/faculty/yap/visual/sched.html",
+        "http://jinai.nyu.edu:9999/visual/demo.html"
+    ],
+    "ground_truth": "unknow"
+}

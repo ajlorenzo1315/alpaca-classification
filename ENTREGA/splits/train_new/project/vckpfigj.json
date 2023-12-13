@@ -1,0 +1,10 @@
+{
+    "Title": "Graphics labs ",
+    "Body": "This laboratory supports research and development efforts related to interactive computer graphics systems and immersive technologies and applications.",
+    "link": [
+        "http://www-scf.usc.edu/~taeyongk",
+        "http://cwis.usc.edu/dept/CGIT/un.html",
+        "http://www.usc.edu/dept/imsc"
+    ],
+    "ground_truth": "project"
+}

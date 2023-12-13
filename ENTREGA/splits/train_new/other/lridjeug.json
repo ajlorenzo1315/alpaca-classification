@@ -1,0 +1,10 @@
+{
+    "Title": "A Distributed HTTP Server - Richard Hsu/Fred Hsu,\nCornell",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Sunday, 01-Dec-96 19:07:49 GMT Content-Type: text/html Content-Length: 2138 Last-Modified: Wednesday, 14-Dec-94 14:05:21 GMT A Distributed HTTP Server - Richard Hsu/Fred Hsu, Cornell A Distributed HTTP Server Jui-Chieh Richard Hsu Jui-Yuan Fred Hsu Department of Computer Science Cornell University Ithaca, New York Abstract The web is growing at an exponential rate.",
+    "link": [
+        "http://info.cern.ch/hypertext/WWW/Protocols/HTTP/HTTP2.html",
+        "http://info.cern.ch/hypertext/WWW/MarkUp/MarkUp.html",
+        "http://www.cs.cornell.edu/Info/Courses/Fall-94/CS617/Dist_HTTP/background.html"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Mail www@cs.wisc.edu Page",
+    "Body": "Date: Mon, 11 Nov 1996 21:12:09 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Fri, 23 Sep 1994 15:14:27 GMT Content-length: 1062 Mail www@cs.wisc.edu Page Send mail to www@cs.wisc.edu Let me know if there are any problems with the web server or web pages.",
+    "link": [
+        "http://www.cs.wisc.edu/local-servers.html",
+        "http://www.cs.wisc.edu/forms//",
+        "http://www.cs.wisc.edu/forms/mailwww.html"
+    ],
+    "ground_truth": "other"
+}

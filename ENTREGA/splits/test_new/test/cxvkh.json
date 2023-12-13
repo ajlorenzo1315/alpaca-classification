@@ -1,0 +1,10 @@
+{
+    "Title": "Arthur Crummer: A good place to start.",
+    "Body": "--Pogo Email address: crummer@cis.ufl.edu Office: E352 CSE Phone: (352) 392-1507 Recent courses taught CIS 3020 Introduction to Computer and Information Sciences.",
+    "link": [
+        "http://www.cis.ufl.edu/",
+        "http://www.cis.ufl.edu/~crummer/CIS3020.html",
+        "http://www.cis.ufl.edu/~crummer/CIS4930.html"
+    ],
+    "ground_truth": "unknow"
+}

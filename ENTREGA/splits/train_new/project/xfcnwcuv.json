@@ -1,0 +1,10 @@
+{
+    "Title": "Haystack Home Page",
+    "Body": "We believe that such a system will let us address several questions: How can individuals use an information retrieval system to organize their own personal collection of information?",
+    "link": [
+        "mailto:haystack@ai.mit.edu",
+        "http://theory.lcs.mit.edu/~karger",
+        "http://www.ai.mit.edu/people/las"
+    ],
+    "ground_truth": "project"
+}

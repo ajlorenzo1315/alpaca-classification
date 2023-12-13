@@ -1,0 +1,10 @@
+{
+    "Title": "Cool stuff on the web",
+    "Body": "Date: Tue, 10 Dec 1996 21:33:38 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Mon, 16 Sep 1996 21:08:42 GMT Content-length: 1531 Cool stuff on the web Links I like in no particular order Grafica Obscura - random graphics stuff from Paul Haeberli U/Seattle - lots of cool local stuff Name That Tune!",
+    "link": [
+        "http://www.sgi.com/grafica/",
+        "http://useattle.uspan.com/",
+        "http://www.omg.unb.ca/~glenn/nameThatTune.html"
+    ],
+    "ground_truth": "other"
+}

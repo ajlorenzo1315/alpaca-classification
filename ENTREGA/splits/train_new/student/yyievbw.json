@@ -1,0 +1,10 @@
+{
+    "Title": "Home Page of David Dion",
+    "Body": "My primary responsibility is the construction of a UNIX server for the SPIN operating system.",
+    "link": [
+        "http://www.cs.washington.edu/homes/ddion/personal/personal.html",
+        "mailto:ddion@cs.washington.edu",
+        "http://www.cs.washington.edu/homes/ddion/personal/personal.html"
+    ],
+    "ground_truth": "student"
+}

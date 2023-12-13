@@ -1,0 +1,10 @@
+{
+    "Title": "Exact Geometric Computation Project Home Page",
+    "Body": "Server: CERN/3.0A Date: Tue, 26 Nov 1996 00:08:56 GMT Content-Type: text/html Content-Length: 1994 Last-Modified: Sun, 02 Jun 1996 02:06:08 GMT Exact Geometric Computation Project Home Page Click here for new developments The latest version.",
+    "link": [
+        "http://simulation.modsim.nyu.edu/projects/exact/new.html",
+        "http://simulation.modsim.nyu.edu/projects/exact/bckgrd.html",
+        "http://simulation.modsim.nyu.edu/projects/exact/Expr.html"
+    ],
+    "ground_truth": "project"
+}

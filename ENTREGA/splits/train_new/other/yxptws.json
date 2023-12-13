@@ -1,0 +1,10 @@
+{
+    "Title": "Tutorials by Robert A. van de Geijn",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Tuesday, 07-Jan-97 15:23:50 GMT Content-Type: text/html Content-Length: 1091 Last-Modified: Tuesday, 06-Aug-96 20:59:34 GMT Tutorials by Robert A. van de Geijn Tutorials by Robert A. van de Geijn Collective Communication: Theory and Practice David Payne (Intel SSD) Lance Shuler (SNL) Robert van de Geijn (UT-Austin) Jerrell Watts (Caltech) Presented at the Intel Supercomputer Users' Group Meeting 1995 in Albequerque by David Payne Robert van de Geijn.",
+    "link": [
+        "http://www.cs.utexas.edu/users/rvdg",
+        "http://www.scp.caltech.edu/~jwatts",
+        "http://www.cs.utexas.edu/users/rvdg/intercom"
+    ],
+    "ground_truth": "other"
+}

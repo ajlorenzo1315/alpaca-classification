@@ -1,0 +1,10 @@
+{
+    "Title": "\nResearch at UTCS\n",
+    "Body": "Natural Language Acquisition Group (headed by Ray Mooney and Risto Miikkulainen).",
+    "link": [
+        "http://www.cs.utexas.edu/users/ai-lab/",
+        "http://www.cs.utexas.edu/users/vlr/sac.html",
+        "http://www.ma.utexas.edu/users/bshults/ATP/"
+    ],
+    "ground_truth": "other"
+}

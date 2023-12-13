@@ -1,0 +1,10 @@
+{
+    "Title": " IEEE RAS Technical Committee on Robot Motion \nand Path Planning ",
+    "Body": "Committee on Robot Motion & Path Planning Groups active in motion planning research This is a partial list of people and organizations involved in research on automatic motion planning.",
+    "link": [
+        "http://www-soe.stanford.edu/compsci/faculty/\nLatombe_Jean-Claude.html",
+        "http://http.cs.berkeley.edu/csbrochure/faculty/canny.html",
+        " http://www.cs.umn.edu/Research/airvl"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Hints for MS Windows Compilers",
+    "Body": "Otherwise, when you attempt to run your programs again the output file will be unchanged because your program will not be allowed to write to a file while a window is open for a file.",
+    "link": [
+        "http://www.cs.wisc.edu/~cs302/",
+        "http://www.cs.wisc.edu/~cs302/C++/Implementation/Borland/Borland.C++.html",
+        "http://www.cs.wisc.edu/~cs302/Pascal/Implementation/Borland.Pascal.html"
+    ],
+    "ground_truth": "other"
+}

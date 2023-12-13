@@ -1,0 +1,10 @@
+{
+    "Title": "Welcome to the house of GENERAL",
+    "Body": "I hope you like what you see here.",
+    "link": [
+        "http://www-cnoc.cs.mcgill.ca/~general/pics/s2.jpg",
+        "http://www-cnoc.cs.mcgill.ca/~general/Page2.html",
+        "http://www.webcrawler.com"
+    ],
+    "ground_truth": "staff"
+}

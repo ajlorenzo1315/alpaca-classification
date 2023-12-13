@@ -1,0 +1,10 @@
+{
+    "Title": "Robert L. Causey",
+    "Body": "Date: Tue, 07 Jan 1997 15:33:55 GMT Server: NCSA/1.4.2 Content-type: text/html Robert L. Causey Robert L. Causey, Professor Department of Philosophy, University of Texas at Austin Office: Waggener Hall 313.",
+    "link": [
+        "./ofchrs.htm",
+        "mailto:rlc@cs.utexas.edu",
+        "./curr-crs.htm"
+    ],
+    "ground_truth": "other"
+}

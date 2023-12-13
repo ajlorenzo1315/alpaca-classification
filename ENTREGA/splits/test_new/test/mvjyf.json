@@ -1,0 +1,10 @@
+{
+    "Title": "CCS Computing Resources",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Tuesday, 14-Jan-97 19:49:58 GMT Content-Type: text/html Content-Length: 1236 Last-Modified: Thursday, 17-Oct-96 15:33:11 GMT CCS Computing Resources CCS Computing Resources Computer Labs The College of Computer Science maintains four different labs for its students.",
+    "link": [
+        "http://help.ccs.neu.edu/comp-resources.html",
+        "http://www.ccs.neu.edu:8000/groups/proctors/hours/",
+        "http://help.ccs.neu.edu/HardwareDB/"
+    ],
+    "ground_truth": "unknow"
+}

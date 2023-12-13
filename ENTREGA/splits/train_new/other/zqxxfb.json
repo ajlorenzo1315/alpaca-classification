@@ -1,0 +1,10 @@
+{
+    "Title": "SSGRG Project Page",
+    "Body": "P++: A Language for Software System Generators .",
+    "link": [
+        "#P2",
+        "#ADAGE",
+        "#P++"
+    ],
+    "ground_truth": "other"
+}

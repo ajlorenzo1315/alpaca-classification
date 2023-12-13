@@ -1,0 +1,10 @@
+{
+    "Title": "Charlie Garrett's Home Page",
+    "Body": "Date: Thu, 21 Nov 1996 20:05:54 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Tue, 23 Jul 1996 19:08:36 GMT Content-length: 883 Charlie Garrett's Home Page Charlie Garrett Address 13725 32nd Ave. NE Apt.",
+    "link": [
+        "http://www.neci.nj.nec.com/homepages/eric/ga.ps",
+        "http://www.cs.washington.edu/research/projects/cecil",
+        "http://www.cs.washington.edu/homes/garrett/books.html"
+    ],
+    "ground_truth": "staff"
+}

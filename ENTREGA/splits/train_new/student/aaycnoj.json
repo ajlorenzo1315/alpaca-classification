@@ -1,0 +1,10 @@
+{
+    "Title": "Han Shaohua's Home Page",
+    "Body": "of Manitoba , , Canada My research and advisor My interest Data locality analysis for high-performance architecture Cache misses estimation in array-access intensive loops High-performance architecture and software pipelining technique I am a memeber of ACAPS-Lab (Advanced Computer Architecture and Parallel System) Here is my resume ( postscript ) ( plain text ) My advisor Prof. Gao Publications G. R. Gao, Vivek Sarkar and Shaohua Han, \"Data Locality Analysis for Distributed Shared-memory Multiprocessors\", In the Proceedings of 9th International Workshop on Languages and Compilers for Parallel Computing, San Jose, August 8-10, 1996.",
+    "link": [
+        "mailto:shaohua@marge.cs.mcgill.ca",
+        "#me",
+        "#education"
+    ],
+    "ground_truth": "student"
+}

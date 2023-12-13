@@ -1,0 +1,10 @@
+{
+    "Title": "\nSEW Suggestions\n",
+    "Body": "Date: Tue, 10 Dec 1996 21:39:16 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Tue, 19 Apr 1994 21:16:16 GMT Content-length: 624 SEW Suggestions These are suggestions that were sent by friends and automatically formed into this page.",
+    "link": [
+        "http://www.cs.washington.edu/homes/pauld/sew.html",
+        "http://www.cs.washington.edu/homes/joebob/index.html",
+        "http://www.cs.washington.edu/"
+    ],
+    "ground_truth": "other"
+}

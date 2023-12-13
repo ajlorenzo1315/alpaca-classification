@@ -1,0 +1,10 @@
+{
+    "Title": "Gary Boone's Home Page!",
+    "Body": "Enjoy learning about me and please send email saying you stopped by!",
+    "link": [
+        "http://www.cc.gatech.edu/grads/b/Gary.N.Boone/beauty_and_love.html",
+        "http://www.cc.gatech.edu/grads/b/Gary.N.Boone/professional.html",
+        "http://www.cc.gatech.edu/grads/b/Gary.N.Boone/professional.html#advisors"
+    ],
+    "ground_truth": "student"
+}

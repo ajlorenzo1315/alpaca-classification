@@ -1,0 +1,10 @@
+{
+    "Title": "DEVise Visual Query Interface",
+    "Body": "Current View widget: displays the name of the current view.",
+    "link": [
+        "#Intro",
+        "#Session",
+        "#How"
+    ],
+    "ground_truth": "other"
+}

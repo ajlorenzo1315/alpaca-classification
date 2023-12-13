@@ -1,0 +1,10 @@
+{
+    "Title": "CPS 1 Home Page",
+    "Body": "If you click on the topic for a day you will see a handout for that day.",
+    "link": [
+        "http://www.duke.edu/",
+        "#general",
+        "#announce"
+    ],
+    "ground_truth": "course"
+}

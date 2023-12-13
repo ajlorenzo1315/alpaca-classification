@@ -1,0 +1,10 @@
+{
+    "Title": "Class projects",
+    "Body": "Evaluation involved running sequential and parallel versions of the code and measuring its speedup for varying numbers of processors.",
+    "link": [
+        "http://www.cs.wisc.edu/~pubs/grad-guidebook/node9.html#cs755",
+        "http://www.cs.wisc.edu/~shubu/shubu.html",
+        "http://www.cs.wisc.edu/~subbarao/subbarao.html"
+    ],
+    "ground_truth": "other"
+}

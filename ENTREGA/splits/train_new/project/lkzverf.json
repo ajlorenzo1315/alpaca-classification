@@ -1,0 +1,10 @@
+{
+    "Title": "Sprite",
+    "Body": "The new address for these pages is http://www.cs.berkeley.edu/projects/sprite Sprite is a research operating system developed at the University of California, Berkeley, by John Ousterhout's research group.",
+    "link": [
+        "http://www.cs.berkeley.edu/projects/sprite",
+        "http://HTTP.CS.Berkeley.EDU/Research/Projects/sprite/retrospective.html",
+        "http://HTTP.CS.Berkeley.EDU/Research/Projects/sprite/sprite.papers.html"
+    ],
+    "ground_truth": "project"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "The Sanjay Ranka Home Page",
+    "Body": "Fast and Parallel Mapping Algorithms for Irregular and Adaptive Problems , Journal of Supercomputing (a preliminary version appeared in Proceedings of  International Conference on Parallel and Distributed Systems , H. S. Maini, K. G. Mehrotra, C. K. Mohan, and S. Ranka.",
+    "link": [
+        "http://www.cis.ufl.edu/~ranka/aboutme.html",
+        "http://www.cis.ufl.edu/~ranka/COT/index.html",
+        "http://www.cis.ufl.edu/~ranka/ipps.html"
+    ],
+    "ground_truth": "faculty"
+}

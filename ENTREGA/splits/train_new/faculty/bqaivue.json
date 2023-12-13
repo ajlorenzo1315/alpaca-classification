@@ -1,0 +1,10 @@
+{
+    "Title": "Home Page for Henry Chuang",
+    "Body": "Date: Mon, 25 Nov 1996 23:22:16 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Wed, 02 Oct 1996 20:24:10 GMT Content-length: 1606 Home Page for Henry Chuang Henry Chuang Dept of Computer Science Email: chuang@cs.pitt.edu 316 Alumni Hall                Phone: 412/624-8424 Univ.",
+    "link": [
+        "http://www.cs.pitt.edu/",
+        "http://www.cs.pitt.edu/~chuang/research/area1.html",
+        "http://www.cs.pitt.edu/~chuang/research/area2.html"
+    ],
+    "ground_truth": "faculty"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "CIS 422: Software Methodology",
+    "Body": "COTAR Home Page , Centre for Object Technology Applications and Research (COTAR) at the University of Technology, Sydney.",
+    "link": [
+        "mailto:kent@cs.uoregon.edu",
+        "http://www.cs.uoregon.edu/CIS/faculty_staff/stevens.html",
+        "mailto:opus@cs.uoregon.edu"
+    ],
+    "ground_truth": "course"
+}

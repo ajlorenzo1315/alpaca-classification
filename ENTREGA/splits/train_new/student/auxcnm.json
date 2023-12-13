@@ -1,0 +1,10 @@
+{
+    "Title": "Matthew's resume",
+    "Body": "1988 Yang Wang, A New Method in Medium Access Control Layer of Integrated Service Local Area Networks, Proceedings of the First Year Conference on Information and System , Nov. 1989, p155-160 Yang Wang, The Protocol of XD-ISLN, Proceedings of the Second Year Conference on Information and System , Nanjing, Nov. 1990 Yang Wang, The Knowledge-Based Image Understanding System, Technical Report, TR-90-003, Information and Electrical Engineering, Zhejiang University, Jul.",
+    "link": [
+        "http://www.vuse.vanderbilt.edu/~yangwang/helen.html",
+        "http://www.vuse.vanderbilt.edu/~image",
+        "http://www.vanderbilt.edu"
+    ],
+    "ground_truth": "student"
+}

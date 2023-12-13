@@ -1,0 +1,10 @@
+{
+    "Title": " Home Page of Lydia E. Kavraki ",
+    "Body": "Thesis Random Networks in Configuration Space for Fast Path Planning , Technical Report STAN-CS-TR-95-1535, Stanford University, January 1995.",
+    "link": [
+        "http://www.cs.rice.edu/~kavraki/cs450/ad.ps",
+        "http://www.cs.rice.edu/~kavraki/papers/r_ieee94.ps",
+        "http://www.cs.rice.edu/~kavraki/papers/utrecht.ps"
+    ],
+    "ground_truth": "unknow"
+}

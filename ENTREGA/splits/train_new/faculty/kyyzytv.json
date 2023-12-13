@@ -1,0 +1,10 @@
+{
+    "Title": "FASTOOK",
+    "Body": "Date: Mon, 25 Nov 1996 23:09:45 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Mon, 01 Apr 1996 01:09:25 GMT Content-length: 1552 FASTOOK James Fastook's Home Page Physics, Glaciers, Computer Science, FORTRAN, Parallel Programming, Scientific Visualization, the Finite Element Method, and more: CLICK: HERE for jumpoff spots for glaciers, computer science, vrmls, pictures, and other stuff HERE for similar stuff, different format.... or HERE for a long list of lots of things that I am interested in.",
+    "link": [
+        "http://rose.umcs.maine.edu/~shamis/test.html",
+        "http://www.umcs.maine.edu/~shamis/shamis.html",
+        "http://rose.umcs.maine.edu/~shamis/myhome.html"
+    ],
+    "ground_truth": "faculty"
+}

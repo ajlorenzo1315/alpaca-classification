@@ -1,0 +1,10 @@
+{
+    "Title": "James Ahrens's Home Page",
+    "Body": "This paper presents the design of a visual database system for data and experiment management.",
+    "link": [
+        "http://www.cs.washington.edu/homes/ahrens/DEVR",
+        "http://www.acl.lanl.gov/Viz/viz-overview.html",
+        "http://www.cs.washington.edu/homes/ahrens/Publications/icpp95.ps"
+    ],
+    "ground_truth": "student"
+}

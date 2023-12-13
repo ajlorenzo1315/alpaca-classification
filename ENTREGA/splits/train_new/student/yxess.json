@@ -1,0 +1,10 @@
+{
+    "Title": " Karen's Page",
+    "Body": "It's the Cool Site of the Day This is very helpful when you want to find out what's on Letterman this week.",
+    "link": [
+        "http://www.cs.wm.edu/homedoc.html",
+        "http://www.wm.edu/",
+        "http://www.alleg.edu/"
+    ],
+    "ground_truth": "student"
+}

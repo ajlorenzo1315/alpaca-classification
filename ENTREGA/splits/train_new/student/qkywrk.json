@@ -1,0 +1,10 @@
+{
+    "Title": " Kirk Hogenson ",
+    "Body": "I am in the UW-CS Department .",
+    "link": [
+        "http://kalypso.cybercom.net/~sardonica/coming_soon/",
+        "http://sc94.ameslab.gov/CSGF/hogenson/hogenson.html",
+        "http://www.wisc.edu/grad/"
+    ],
+    "ground_truth": "student"
+}

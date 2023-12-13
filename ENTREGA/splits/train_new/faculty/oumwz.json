@@ -1,0 +1,10 @@
+{
+    "Title": "About Dr. Sung Yoo",
+    "Body": "Date: Mon, 25 Nov 1996 21:51:46 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Mon, 24 Jul 1995 19:47:32 GMT Content-length: 1782 About Dr.",
+    "link": [
+        "http://www.mtsu.edu/academic/compsci/help.html",
+        "http://www.mtsu.edu/academic/compsci/comment.html",
+        "http://www.mtsu.edu/academic/compsci/faculty//"
+    ],
+    "ground_truth": "faculty"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "CS 380D: Distributed Computing I Syllabus",
+    "Body": "6:00-7:00PM, Fri. 11:00-Noon in Pai 5.60 Course Topics The goal of this course is to present a number of important ideas in distributed computing and provide rigorous methods for reasoning about distributed programs.",
+    "link": [
+        "#CrsInfo",
+        "#Time&Loc",
+        "#Instructor"
+    ],
+    "ground_truth": "other"
+}

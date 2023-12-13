@@ -1,0 +1,10 @@
+{
+    "Title": " Network Security",
+    "Body": "ACM Conference on Computer and Communications Security, Fairfax, Virginia, November 1993 compressed postscript file Verifying authentication protocols: Methodology and example Thomas Y. C. Woo and Simon S. Lam Proc.",
+    "link": [
+        "ftp://ftp.cs.utexas.edu/pub/lam/usenix2.ps.Z",
+        "ftp://ftp.cs.utexas.edu/pub/lam/icnp94.ps.Z",
+        "ftp://ftp.cs.utexas.edu/pub/lam/final-1.ps.Z"
+    ],
+    "ground_truth": "unknow"
+}

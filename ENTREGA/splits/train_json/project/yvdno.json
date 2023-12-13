@@ -1,0 +1,5 @@
+{
+    "Título": "Home document for the Performance Evaluation Group",
+    "Cuerpo": "Server: Netscape-Commerce/1.1 Date: Tuesday, 26-Nov-96 01:00:45 GMT Last-modified: Wednesday, 31-Jan-96 14:36:49 GMT Content-length: 1819 Content-type: text/html Home document for the Performance Evaluation Group Welcome to the homepage of the Performance Evaluation Group. The group works with Dr. Larry Dowdy in the field of Performance Evaluation of Computer Systems. Current research interests of the group include performance prediction models, workload characterization, multiprocessor scheduling, modeling of parallel I/O (RAID disk systems) and experimental studies of parallel systems. People in the group Publications  of the group members Oak Ridge Center for Computational Sciences Please send us your comments and suggestions. If your viewer does not support mail, send your comments to: manishm@vuse.vanderbilt.edu",
+    "ground_truth": "project"
+}

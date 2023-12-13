@@ -1,0 +1,9 @@
+{
+    "Title": " Fall 1995 Course Announcement ",
+    "Body": "There will be no prior knowledge of logic programming required, necessary background for course topics will be developed.",
+    "link": [
+        "http://www.cs.uiowa.edu/~fleck/index.html",
+        "http://www.comlab.ox.ac.uk/archive/logic-prog.html"
+    ],
+    "ground_truth": "course"
+}

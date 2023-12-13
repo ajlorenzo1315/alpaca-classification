@@ -1,0 +1,10 @@
+{
+    "Title": "Sulaiman Unplugged",
+    "Body": "Oh by the way, he is a Ph.D. candidate in the Computer Science Department at Boston University (I don't like that place, he spends too much time there while he should be playing with me) anyway he is going to be done soon (like very soon) If you want to know more you can read some of his pulications.",
+    "link": [
+        "http://www.cs.bu.edu/groups/oceans/Home.html",
+        "http://www.cs.bu.edu/faculty/heddaya/Home.html",
+        "http://www.cs.bu.edu/Home.html"
+    ],
+    "ground_truth": "student"
+}

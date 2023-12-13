@@ -1,0 +1,10 @@
+{
+    "Title": " Caltech Infospheres Group ",
+    "Body": "The Caltech Infospheres Infrastructure (II) is a distributed system framework that is implemented in Java.",
+    "link": [
+        "http://www.infospheres.caltech.edu/papers/index.html",
+        "http://www.infospheres.caltech.edu/releases/index.html",
+        "http://www.infospheres.caltech.edu/infospheres.html"
+    ],
+    "ground_truth": "unknow"
+}

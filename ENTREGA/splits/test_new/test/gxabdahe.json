@@ -1,0 +1,10 @@
+{
+    "Title": "Hope College Dept of Computer Science Home Page",
+    "Body": "Home pages for CS Department majors.",
+    "link": [
+        "http://www.cs.hope.edu/cgi-bin/imagemap/cshome.map",
+        "http://www.cs.hope.edu/~dershem/csnl95.html",
+        "http://www.cs.hope.edu/~dershem/info.html"
+    ],
+    "ground_truth": "unknow"
+}

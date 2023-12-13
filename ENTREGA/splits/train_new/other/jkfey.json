@@ -1,0 +1,10 @@
+{
+    "Title": "Construction of Regular Grammars from Regular Expressions",
+    "Body": "For the recursive part of the construction, let and be regular grammars which generate the languages defined by the regular expression and , respectively.",
+    "link": [
+        "node1.html",
+        "node1.html",
+        "node1.html#SECTION00010000000000000000"
+    ],
+    "ground_truth": "other"
+}

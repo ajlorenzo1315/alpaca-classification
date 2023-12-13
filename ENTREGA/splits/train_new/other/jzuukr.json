@@ -1,0 +1,10 @@
+{
+    "Title": "Breast Cancer Diagnosis and Prognosis via Linear Programming ",
+    "Body": "The prognostic system has an expected error of 13.9 to 18.3 months, which is better than prognosis correctness by other available techniques.",
+    "link": [
+        "http://www.cs.wisc.edu/Dienst/Repository/2.0/Body/ncstrl.uwmadison%2fMP-TR-94-10/postscript",
+        "http://www.cs.wisc.edu/Dienst/UI/2.0/Print/ncstrl.uwmadison%2fMP-TR-94-10",
+        "http://www.cs.wisc.edu/Dienst/UI/2.0/Search"
+    ],
+    "ground_truth": "other"
+}

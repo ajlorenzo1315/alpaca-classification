@@ -1,0 +1,10 @@
+{
+    "Title": " Shaobing Ma's Cyberhome ",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Monday, 06-Jan-97 19:34:38 GMT Content-Type: text/html Content-Length: 2145 Last-Modified: Monday, 07-Oct-96 21:07:20 GMT Shaobing Ma's Cyberhome Welcome to the Cyberhome of Shaobing Ma Currently I am Ph.D Student in the Department of Computer Science , University of Texas at Austin .",
+    "link": [
+        "http://www.cs.utexas.edu/",
+        "http://wwwhost.utexas.edu/",
+        "http://www.cs.utexas.edu/users/shma/mam.html"
+    ],
+    "ground_truth": "student"
+}

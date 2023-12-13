@@ -1,0 +1,10 @@
+{
+    "Title": "Theo Pavlidis",
+    "Body": "Teaching Spring 1997: cse328: Fundamentals of Computer Graphics Spring 1997: cse525: Fundamentals of Window Systems and Event Driven Programming Address Theo Pavlidis Department of Computer Science State University of New York at Stony Brook Stony Brook, NY 11794-4400, USA theo@cs.sunysb.edu 516-632-8465",
+    "link": [
+        "http://www.cs.sunysb.edu/~theo/IAL/index.html",
+        "http://www.cs.sunysb.edu/~theo/nervous.html",
+        "http://www.cs.sunysb.edu/~theo/waiat.html"
+    ],
+    "ground_truth": "faculty"
+}

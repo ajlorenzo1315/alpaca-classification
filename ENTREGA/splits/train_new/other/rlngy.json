@@ -1,0 +1,9 @@
+{
+    "Title": "\nBoussinesq Bubbles\n",
+    "Body": "The initial conditions for this computation were taken from a paper by E and Shu and consist of a smooth \"bubble\" of density in a zero flow field.",
+    "link": [
+        "http://math.nyu.edu/postdocs/minion/res/under.html",
+        "http://math.nyu.edu/postdocs/minion/index.html"
+    ],
+    "ground_truth": "other"
+}

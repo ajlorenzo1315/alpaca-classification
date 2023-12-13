@@ -1,0 +1,9 @@
+{
+    "Title": "CSE 473 Assignment 2",
+    "Body": "As per Jeremy's request in class on Wednesday, April 3, please turn in your solution to the second part of this assignment on a PC diskette with your name on the label.",
+    "link": [
+        "CLOS-guide-Dalton.txt",
+        "closdemo.lsp"
+    ],
+    "ground_truth": "other"
+}

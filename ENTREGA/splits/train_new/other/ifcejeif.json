@@ -1,0 +1,10 @@
+{
+    "Title": "QR Group Alumni and Recent Visitors",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Tuesday, 07-Jan-97 15:51:12 GMT Content-Type: text/html Content-Length: 3518 Last-Modified: Thursday, 17-Oct-96 16:04:19 GMT QR Group Alumni and Recent Visitors QR Group Alumni and Recent Visitors Alumni Dan Berleant --- djb@engr.uark.edu --- [PhD thesis] Yung-Tai Byun --- byun@cs.hongik.ac.kr James Crawford --- jc@i2.com --- [PhD thesis] or [Contents] .",
+    "link": [
+        "http://www.engr.uark.edu/~djb/info.html",
+        "file://ftp.cs.utexas.edu/pub/qsim/papers/Berleant-PhD-91.ps.Z",
+        "http://www.cs.utexas.edu/users/qr/byun.html"
+    ],
+    "ground_truth": "other"
+}

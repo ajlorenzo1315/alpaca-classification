@@ -1,0 +1,10 @@
+{
+    "Title": "Professor Jean-Pierre Corriveau",
+    "Body": "Dr. Corriveau joined the School of Computer Science in July 1991.",
+    "link": [
+        "http://www.scs.carleton.ca/../../../webindex.html",
+        "http://www.scs.carleton.ca/Architext/AT-scsquery.html?",
+        "http://www.scs.carleton.ca/../../../index.html"
+    ],
+    "ground_truth": "faculty"
+}

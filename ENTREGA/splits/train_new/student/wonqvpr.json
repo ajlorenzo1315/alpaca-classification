@@ -1,0 +1,10 @@
+{
+    "Title": "Yang Liu's WWW Page",
+    "Body": "I am Yang Liu, a Ph.D candidate and teaching assistant at the College of Computer Science of the Northeastern University .",
+    "link": [
+        "http://www.ccs.neu.edu/",
+        "http://www.dac.neu.edu/",
+        "http://www.ccs.neu.edu/home/lieber/index.html"
+    ],
+    "ground_truth": "student"
+}

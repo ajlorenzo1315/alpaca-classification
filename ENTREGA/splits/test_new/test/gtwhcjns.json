@@ -1,0 +1,9 @@
+{
+    "Title": "JFK-MM Image",
+    "Body": "Date: Tue, 10 Dec 1996 17:58:46 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Thu, 24 Oct 1996 20:54:49 GMT Content-length: 818 JFK-MM Image Mona In Mona In Mona by Adam Finkelstein This is a picture of me in front of an image of Mona which I put on the wall of our graphics lab.",
+    "link": [
+        "mona.jpg",
+        "../index.html"
+    ],
+    "ground_truth": "unknow"
+}

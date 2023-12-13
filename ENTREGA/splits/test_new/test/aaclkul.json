@@ -1,0 +1,10 @@
+{
+    "Title": "Marc E. Fiuczynski's Home Page",
+    "Body": "I'm the sole proprietor of MEF Systems , a company that I created in December 1993 to sell a distributed, fault tolerant, IP network based telephone system that I built from scratch on a set of VME chasis with 680x0 processors, using UniVoice telephone interface cards and the VxWorks operating system.",
+    "link": [
+        "mailto:mef@cs.washington.edu",
+        "http://www.cs.washington.edu/homes/mef//",
+        "http://www.washington.edu/"
+    ],
+    "ground_truth": "unknow"
+}

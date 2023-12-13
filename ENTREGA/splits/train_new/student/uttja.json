@@ -1,0 +1,10 @@
+{
+    "Title": "Ce Wang's Home Page",
+    "Body": "My Previous Research Computer Vision Ce Wang, Z.Y.Hu, S.D.Ma, \"Active Vision Based Stereo Vision\", Proc.",
+    "link": [
+        "http://hrl.harvard.edu/people/students/wangc/bo8.gif",
+        "http://hrl.harvard.edu/people/students/wangc/billcat.gif",
+        "http://www.net.edu.cn/beijing/indexsed.html"
+    ],
+    "ground_truth": "student"
+}

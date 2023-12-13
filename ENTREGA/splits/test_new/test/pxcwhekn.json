@@ -1,0 +1,10 @@
+{
+    "Title": "Introduction to Programming",
+    "Body": "Date: Wed, 20 Nov 1996 23:19:04 GMT Server: NCSA/1.5 Content-type: text/html Introduction to Programming Introduction to Programming, 22C:16, 22C:106 Course Home Page for Fall 1996 Class Time: MWF 8:30-9:20, 100 Phillips Hall Professor: Sriram Pemmaraju Office Hours: MWF 9:30-10:30, 201 K McLean Hall Text Book: Owen Astrachan, A Computer Science Tapestry: Exploring Programming and Computer Science with C++ , final unformatted version, McGraw Hill.",
+    "link": [
+        "http://www.cs.uiowa.edu/~sriram",
+        "http://www.cs.uiowa.edu/~sriram/16fall96/syllabus.html",
+        "http://www.cs.uiowa.edu/~sriram/16fall96/syllabus.ps"
+    ],
+    "ground_truth": "unknow"
+}

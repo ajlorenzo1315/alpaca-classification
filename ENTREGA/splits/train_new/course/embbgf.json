@@ -1,0 +1,10 @@
+{
+    "Title": "CS 537 - Advanced Database Systems",
+    "Body": "Course TextBook The primary text is a beta edition of a new book on database systems : \"Database Management Systems\" by Raghu Ramakrishnan.",
+    "link": [
+        "http://www.cs.cornell.edu/Info/Courses/Current/CS537/sched.html",
+        "http://www-local.cs.cornell.edu/Info/Courses/Current/CS537/queries.html",
+        "http://www.cs.cornell.edu/Info/Courses/Current/CS537/queries.html"
+    ],
+    "ground_truth": "course"
+}

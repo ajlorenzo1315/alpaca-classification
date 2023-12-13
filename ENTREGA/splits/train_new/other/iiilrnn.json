@@ -1,0 +1,6 @@
+{
+    "Title": "Transaction Server - Bart",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Sunday, 01-Dec-96 19:31:08 GMT Content-Type: text/html Content-Length: 2297 Last-Modified: Thursday, 31-Oct-96 05:28:42 GMT Transaction Server - Bart Transaction Server Libby Lin, Sunil Srivastava, Eric Vitrano Write-Up:  1 Goal: The goal of our project is to create a fault tolerant Transaction Server for multiple clients using TCPIP as the basis for communication.",
+    "link": [],
+    "ground_truth": "other"
+}

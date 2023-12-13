@@ -1,0 +1,10 @@
+{
+    "Title": " Jonathan Turner - home page ",
+    "Body": "We are developing a framework for precisely defining and analyzing network control systems that allows the essential issues to be separated from the welter of protocol and implementation details that often make it difficult to make meaningful comparisons [ TU95b ] and using this framework to develop precise characterizations of new approaches to distributed network control [ WU95 ].",
+    "link": [
+        "http://www.arl.wustl.edu/~jst/gigatech/cfp.html",
+        "http://www.cs.wustl.edu/cs/techreports/1996/wucs-96-16.ps.Z",
+        "http://www.arl.wustl.edu/~jst/talks/relmulti/"
+    ],
+    "ground_truth": "faculty"
+}

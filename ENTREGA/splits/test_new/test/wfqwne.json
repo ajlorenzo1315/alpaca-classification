@@ -1,0 +1,10 @@
+{
+    "Title": "Home Page for Russell Swan",
+    "Body": "The Church of the SubGenius Home Page.",
+    "link": [
+        "http://www.cs.umass.edu/",
+        "http://www.cs.umass.edu/rcfdocs/newhome/index.html",
+        "http://ciir.cs.umass.edu/"
+    ],
+    "ground_truth": "unknow"
+}

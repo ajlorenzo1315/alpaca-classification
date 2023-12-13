@@ -1,0 +1,10 @@
+{
+    "Title": "DI, Universite Libre de Bruxelles",
+    "Body": "Date: Tue, 26 Nov 1996 23:04:50 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Mon, 04 Nov 1996 13:01:10 GMT Content-length: 1981 DI, Universite Libre de Bruxelles <!-- Created by Gregory Seront March 25 1996 --!> DI U niversité L ibre de B ruxelles D &eacutepartement d' I nformatique The DI is the Computer Science Department of the Université Libre de Bruxelles in Brussels, Belgium.",
+    "link": [
+        "http://www.ulb.ac.be/index.html",
+        "http://www.ulb.ac.be/di/New.html",
+        "http://www.ulb.ac.be/di/member.html"
+    ],
+    "ground_truth": "department"
+}

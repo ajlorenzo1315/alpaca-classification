@@ -1,0 +1,10 @@
+{
+    "Title": null,
+    "Body": "Assignment 3 Solution.",
+    "link": [
+        "http://www.cs.princeton.edu/courses/archive/fall96/cs341/prob1.ps",
+        "http://www.cs.princeton.edu/courses/archive/fall96/cs341/prob2.ps",
+        "http://www.cs.princeton.edu/courses/archive/fall96/cs341/prob2c.ps"
+    ],
+    "ground_truth": "other"
+}

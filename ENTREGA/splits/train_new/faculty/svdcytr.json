@@ -1,0 +1,10 @@
+{
+    "Title": "\tDavid Meyer (meyer@ns.uoregon.edu)\n",
+    "Body": "In addition to being the Director of the Advanced Network Technology Center here at the UO , I am involved in serveral other projects, including: MBONE Deployment Working Group -- I'm currently serving as the Chair of the MBONE Deployment Working Group (MBONED).",
+    "link": [
+        "http://www.ietf.cnri.reston.va.us/html.charters/idr-charter.html",
+        "http://www.merit.edu/routing.arbiter/NANOG",
+        "http://www.ietf.cnri.reston.va.us/html.charters/idmr-charter.html"
+    ],
+    "ground_truth": "faculty"
+}

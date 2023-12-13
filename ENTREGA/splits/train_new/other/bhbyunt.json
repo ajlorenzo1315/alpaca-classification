@@ -1,0 +1,10 @@
+{
+    "Title": "SimpleScalar Tools Home Page",
+    "Body": "The tool set is now supported by Doug Burger, who wrote the documentation as well.",
+    "link": [
+        "ftp://ftp.cs.wisc.edu/sohi/Code/simplescalar/release.tar",
+        "ftp://ftp.cs.wisc.edu/sohi/Code/simplescalar/ss-x86.tar",
+        "ftp://ftp.cs.wisc.edu/sohi/TR_1308.ps"
+    ],
+    "ground_truth": "other"
+}

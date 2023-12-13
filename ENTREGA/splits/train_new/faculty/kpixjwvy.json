@@ -1,0 +1,10 @@
+{
+    "Title": "Erik Brunvand",
+    "Body": "He has interests in computer architecture and VLSI systems in general, and self-timed and asynchronous systems in particular.",
+    "link": [
+        "http://www.cs.utah.edu/~elb//index.html",
+        "http://www.utah.edu/HTML_Docs/UofU_Home.html",
+        "mailto:elb@cs.utah.edu"
+    ],
+    "ground_truth": "faculty"
+}

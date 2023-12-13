@@ -1,0 +1,10 @@
+{
+    "Title": "CSE 542: Operating System Design",
+    "Body": "Date: Tue, 26 Nov 1996 18:51:41 GMT Server: NCSA/1.5 MIME-version: 1.0 Content-type: text/html Last-modified: Fri, 22 Nov 1996 16:32:32 GMT Content-length: 2002 CSE 542: Operating System Design CSE 542: Operating System Design Instructor: Vincent W. Freeh 354 Fitzpatrick Hall phone: 1-9131 email: vin@cse.nd.edu office hours: Tu, Th 12:30-1:30, or by appointment Text: Andrew S. Tanenbaum.",
+    "link": [
+        "http://www.cse.nd.edu/~vin/index.html",
+        "mailto:%20vin@cse.nd.edu",
+        "news:nd.courses.cse542"
+    ],
+    "ground_truth": "course"
+}

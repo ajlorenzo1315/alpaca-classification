@@ -1,0 +1,10 @@
+{
+    "Title": "CS 537 - Programming Assignment #2",
+    "Body": "We have prepared a summary of the functions that you will use, and special instructions for compiling your program.",
+    "link": [
+        "sem-thread.html",
+        "sem-thread.html#compile",
+        "http://www.cs.wisc.edu/~bart"
+    ],
+    "ground_truth": "other"
+}

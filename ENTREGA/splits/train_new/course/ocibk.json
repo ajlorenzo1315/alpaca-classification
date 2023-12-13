@@ -1,0 +1,10 @@
+{
+    "Title": "CS201",
+    "Body": "Analysis of ethical and social issues related to the development and use of computer technology.",
+    "link": [
+        "http://www-cse.stanford.edu/classes/cs106b/",
+        "http://www-cse.stanford.edu/classes/cs106x/",
+        "http://www-cse.stanford.edu/instructors/Roberts.html"
+    ],
+    "ground_truth": "course"
+}

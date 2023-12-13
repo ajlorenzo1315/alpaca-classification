@@ -1,0 +1,10 @@
+{
+    "Title": " CS395T, Mining and Monitoring Databases, HW 1,2,3 Web Programming ",
+    "Body": "This includes, but is not limited to, HTML, CGI PERL and JAVA To ensure this you have the following set of assignments.",
+    "link": [
+        "http://www.ncsa.uiuc.edu/General/Internet/WWW/HTMLPrimer.html",
+        "http://hoohoo.ncsa.uiuc.edu/cgi/overview.html",
+        "http://www.bio.cam.ac.uk/cgi-lib/"
+    ],
+    "ground_truth": "other"
+}

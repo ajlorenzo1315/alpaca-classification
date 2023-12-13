@@ -1,0 +1,10 @@
+{
+    "Title": "CS388G: Algorithms: Techniques and Theory, Fall 1996",
+    "Body": "``I think the problem 3 in the final exam is a little unclear.",
+    "link": [
+        "welcome.html",
+        "f96_desc.ps",
+        "f96_handout2.ps"
+    ],
+    "ground_truth": "course"
+}

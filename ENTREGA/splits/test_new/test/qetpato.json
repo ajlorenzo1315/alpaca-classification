@@ -1,0 +1,10 @@
+{
+    "Title": "CS 290",
+    "Body": "If you lose your program and don't have a backup there will be little sympathy shown.",
+    "link": [
+        "http://www.byu.edu",
+        "http://www.cs.byu.edu",
+        "https://scout2.byu.edu/testing.html"
+    ],
+    "ground_truth": "unknow"
+}

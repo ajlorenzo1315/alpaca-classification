@@ -1,0 +1,10 @@
+{
+    "Title": "CSE 326, Spring 1995,  Home Page",
+    "Body": "Date: Tue, 10 Dec 1996 14:54:28 GMT Server: NCSA/1.4.2 Content-type: text/html CSE 326, Spring 1995,  Home Page CSE 326, Spring 1995: Data Structures Richard Ladner, Instructor Dan Fasulo, Teaching Assistant This is the World Wide Web (\"the Web\" for short) hypermedia document for CSE 326 and contains information about the class taught in Spring 1995.",
+    "link": [
+        "#help",
+        "http://www.cs.washington.edu/education/courses/326/95sp/class_msgs.html",
+        "http://www.cs.washington.edu/education/courses/326/95sp/officehours.html"
+    ],
+    "ground_truth": "course"
+}

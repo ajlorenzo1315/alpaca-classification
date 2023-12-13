@@ -1,0 +1,10 @@
+{
+    "Title": "CS 404/504 Software Project Management",
+    "Body": "of Idaho Home Page Instructor: William S. Junk , Computer Science Dept., University of Idaho, Moscow, ID  83844-1010 Telephone: 208-885-7530 / 800-824-2889 Fax: 208-885-6165 (alternate: 208-885-9052) E- Mail: billjunk@cs.uidaho.edu , Courses for Academic Credit: CS 404 and 504 are available on video tape from Engineering Video Outreach CS 504 is available to National Technological University subscribers as NTU SE-580-S on the North American service.",
+    "link": [
+        "http://www.cs.uidaho.edu/index.html",
+        "http://www.uidaho.edu/",
+        "http://www.cs.uidaho.edu/~billjunk/index.html"
+    ],
+    "ground_truth": "unknow"
+}

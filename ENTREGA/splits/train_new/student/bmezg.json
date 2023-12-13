@@ -1,0 +1,10 @@
+{
+    "Title": "\nRajmohan Rajaraman's home page\n",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Monday, 06-Jan-97 19:31:24 GMT Content-Type: text/html Content-Length: 1617 Last-Modified: Saturday, 12-Oct-96 07:34:50 GMT Rajmohan Rajaraman's home page Rajmohan Rajaraman I am a graduate student in the Department of Computer Sciences at the University of Texas at Austin .",
+    "link": [
+        "http://www.cs.utexas.edu",
+        "http://www.utexas.edu",
+        "http://www.cs.utexas.edu/users/UTCS/report/1995/profiles/plaxton.html"
+    ],
+    "ground_truth": "student"
+}

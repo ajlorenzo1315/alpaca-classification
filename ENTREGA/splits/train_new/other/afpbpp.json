@@ -1,0 +1,10 @@
+{
+    "Title": "CS 110 Section 2 - Program #4",
+    "Body": "Example: If the user enters the following 10 INTEGER values 14 9 5 21 35 10 16 11 66 65 then your program should display (hint: use this to check your results) The minimum value is   5 The maximum value is  66 There are  2 prime numbers The numbers are neither ascending nor descending Program Design: To find the minimum and maximum number in the array, assume the first number in the array is the current min/max and then go through the rest of the array and compare each number with the current min/max and re-assign these values accordingly (e.g. similar to finding the minimum time in Program #2).",
+    "link": [
+        "http://www.cs.wisc.edu/~bestor/cs110/cs110.html#assignments",
+        "http://www.cs.wisc.edu/~bestor/bestor.html",
+        "mailto:bestor@cs.wisc.edu"
+    ],
+    "ground_truth": "other"
+}

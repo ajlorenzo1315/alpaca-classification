@@ -1,0 +1,10 @@
+{
+    "Title": "The Home Page of Robert Landrum",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Monday, 06-Jan-97 19:36:18 GMT Content-Type: text/html Content-Length: 1194 Last-Modified: Monday, 16-Dec-96 06:35:56 GMT The Home Page of Robert Landrum The Story on the Mail Virus Pictures from the Mountain Empire PCH Retreat Texas Republican Convention 1996 Backbone Rock Résumé Family Interests Christian Council Home Page (My home page away from home.)",
+    "link": [
+        "http://www.cs.utexas.edu/users/landrum/MailVirus.html",
+        "http://www.cs.utexas.edu/users/landrum/mtempire/index.html",
+        "http://www.cs.utexas.edu/users/landrum/cgi/Retreat.cgi"
+    ],
+    "ground_truth": "student"
+}

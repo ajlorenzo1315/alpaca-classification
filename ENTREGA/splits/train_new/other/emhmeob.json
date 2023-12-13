@@ -1,0 +1,8 @@
+{
+    "Title": "Mail moshovos@cs.wisc.edu Page",
+    "Body": "Date: Mon, 04 Nov 1996 23:48:31 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Tue, 31 Oct 1995 04:07:38 GMT Content-length: 957 Mail moshovos@cs.wisc.edu Page Y OU A RE W ELCOME T O L EAVE A N OTE Please enter your message in the following box: Please leave your name and e-mail address in the following box.",
+    "link": [
+        "http://www.cs.wisc.edu/~moshovos/moshovos.html"
+    ],
+    "ground_truth": "other"
+}

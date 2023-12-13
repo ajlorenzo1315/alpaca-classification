@@ -1,0 +1,10 @@
+{
+    "Title": "Joel Saltz",
+    "Body": "This computer science research program has been motivated by collaborations with biomedical, physical and earth scientists.",
+    "link": [
+        "http://www.cs.umd.edu",
+        "http://www.umiacs.edu",
+        "http://www.duke.edu"
+    ],
+    "ground_truth": "faculty"
+}

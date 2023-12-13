@@ -1,0 +1,10 @@
+{
+    "Title": " Franklyn Turbak's Personal WWW Page ",
+    "Body": "I am especially interested in the use of programming languages as educational tools and in the development of new ways to increase the expressive power of programming languages.",
+    "link": [
+        "http://www-swiss.ai.mit.edu/~lyn/lyn.jpg",
+        "http://chris.wellesley.edu",
+        "http://www.bc.edu/bc_org/avp/csom/CS/Faculty/Muller/Church/"
+    ],
+    "ground_truth": "faculty"
+}

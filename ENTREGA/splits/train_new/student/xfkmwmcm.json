@@ -1,0 +1,10 @@
+{
+    "Title": "Vo Thuan NGUYEN's Home Page",
+    "Body": "Date: Tue, 26 Nov 1996 02:55:46 GMT Server: Apache/1.0.0 Content-type: text/html Content-length: 1061 Last-modified: Tue, 15 Oct 1996 21:14:12 GMT Vo Thuan NGUYEN's Home Page Welcome to my home page This page is under construction.",
+    "link": [
+        "http://www.cs.mcgill.ca/~vtngu/bienvenu.html",
+        "mailto:vtngu@cs.mcgill.ca",
+        "http://www.cs.mcgill.ca/~vtngu/me8.html"
+    ],
+    "ground_truth": "student"
+}

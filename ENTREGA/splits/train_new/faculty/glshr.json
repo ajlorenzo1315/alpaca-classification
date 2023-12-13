@@ -1,0 +1,10 @@
+{
+    "Title": "Prof. Brian Gilchrist",
+    "Body": "Date: Mon, 25 Nov 1996 23:13:43 GMT Server: Apache/1.1-dev Content-type: text/html Set-Cookie: Apache=gs355844848963623117; path=/ Prof. Brian Gilchrist Assistant Professor, Electrical Engineering and Computer Science Assistant Professor, Atmospheric, Oceanic, and Space Sciences Radiation Laboratory Ann Arbor MI 48109-2122 (313) 763-4435 FAX: (313) 747-2106 Space Physics Research Laboratory Ann Arbor MI 48109-2122 (313) 763-6230 FAX: (313) 764-5147 E-mail: <gilchrst@eecs.umich.edu> EDUCATION Ph.D. in Electrical Engineering, 1991, Stanford University M.S.",
+    "link": [
+        "http://www.eecs.umich.edu/",
+        "http://www.engin.umich.edu:80/dept/aoss/",
+        "mailto:gilchrst@eecs.umich.edu"
+    ],
+    "ground_truth": "faculty"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Juris Hartmanis\n",
+    "Body": "Publications On computational complexity and the nature of computer science.",
+    "link": [
+        "http://www.cs.cornell.edu/Info/People/jh/jh.gif",
+        "http://www.cs.cornell.edu/Info/Department/Annual95/Beginning/annual-rpt95-home.html",
+        "http://www.cs.cornell.edu/"
+    ],
+    "ground_truth": "faculty"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "CS101 - Introduction to Computer Science",
+    "Body": "Quiz 5 for Section 04 (Foster) .",
+    "link": [
+        "http://www.cs.uidaho.edu/cs101/day1.html",
+        "http://www.cs.uidaho.edu/cs101/day2.html",
+        "http://www.cs.uidaho.edu/cs101/day3a.html"
+    ],
+    "ground_truth": "course"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Theodore Johnson Home Page",
+    "Body": "You can receive a tar file with the source code by clicking here.",
+    "link": [
+        "http://www.cis.ufl.edu/~ted/ted.gif",
+        "http://www.cis.ufl.edu/",
+        "http://www.hq.nasa.gov/office/mtpe/"
+    ],
+    "ground_truth": "unknow"
+}

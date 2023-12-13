@@ -1,0 +1,10 @@
+{
+    "Title": "Ken Harker - Resume",
+    "Body": "Summer/Fall 1994 Department of Computer Science , Dartmouth College .",
+    "link": [
+        "mailto:kharker@cs.utexas.edu",
+        "http://www.utexas.edu/",
+        "http://www.ci.austin.tx.us/"
+    ],
+    "ground_truth": "unknow"
+}

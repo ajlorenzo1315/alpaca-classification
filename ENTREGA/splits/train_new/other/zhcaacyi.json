@@ -1,0 +1,6 @@
+{
+    "Title": " CS 736 Project Suggestions (Spring 96)",
+    "Body": "Papers you might want to read for this project: 1) http://www.eecs.harvard.edu/~keith/papers/realloc.ps.gz Better File Caching in Solaris While the above two projects are above kernel level, this one digs down and tries to find out what needs to be done to change Solaris' file caching policy.",
+    "link": [],
+    "ground_truth": "other"
+}

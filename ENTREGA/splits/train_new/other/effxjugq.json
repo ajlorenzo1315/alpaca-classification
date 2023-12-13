@@ -1,0 +1,10 @@
+{
+    "Title": "Questionably Useful Information",
+    "Body": "Date: Tue, 10 Dec 1996 21:49:59 GMT Server: NCSA/1.4.2 Content-type: text/html Questionably Useful Information how to contact me email: (by far the best way) dougz@cs.washington.edu at school: 233 Sieg Hall Computer Science and Engineering University of Washington Box 352350 Seattle, WA  98195-2350 206-543-7798 (I think; I've never actually called) at home: 6516 25th Ave. NE, Apt 1 Seattle, WA  98115-7152 206-528-1652 Use the US Postal Service 's ZIP+4 Code Lookup for all your addressing needs.",
+    "link": [
+        "mailto:dougz@cs.washington.edu",
+        "http://www.usps.gov",
+        "http://www.usps.gov/ncsc/lookups/lookup_zip+4.html"
+    ],
+    "ground_truth": "other"
+}

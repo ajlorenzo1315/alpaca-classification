@@ -1,0 +1,10 @@
+{
+    "Title": "Mirage Development Team",
+    "Body": "In addition, our group also authored the DSM port of Quarks to the DEC Alpha AXP 150 personal computers and made the results of the port accessible to other researchers.",
+    "link": [
+        "http://www.cs.ucr.edu/~brett/",
+        "mailto:brett@cs.ucr.edu",
+        "mailto:rhyde@cs.ucr.edu"
+    ],
+    "ground_truth": "project"
+}

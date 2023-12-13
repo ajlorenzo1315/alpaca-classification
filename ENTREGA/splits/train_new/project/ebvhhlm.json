@@ -1,0 +1,10 @@
+{
+    "Title": "The Distributed Supercomputer Supernet (SSN)",
+    "Body": "A goal of this research is to capture the large, latent, distributed computational power of the network processors, to be used for network control and management, leading to an intelligent network.",
+    "link": [
+        "http://www.ucla.edu",
+        "http://millennium.cs.ucla.edu/lk.html",
+        "http://millennium.cs.ucla.edu:80/~ssn/status.html"
+    ],
+    "ground_truth": "project"
+}

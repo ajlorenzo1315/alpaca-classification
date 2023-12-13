@@ -1,0 +1,10 @@
+{
+    "Title": "SIGDA University Booth Home Page",
+    "Body": "If you're visiting, you can check out some of the demos , and we won't even charge you the admissions fee!",
+    "link": [
+        "http://ballade.cs.ucla.edu:8080/~unibooth/pictures/sigda.gif",
+        "http://kona.ee.pitt.edu/",
+        "http://www.dac.com/dac.html"
+    ],
+    "ground_truth": "other"
+}

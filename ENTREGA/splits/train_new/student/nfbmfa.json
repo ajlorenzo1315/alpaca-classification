@@ -1,0 +1,10 @@
+{
+    "Title": "Damianos's Home Page",
+    "Body": "in Computer Science from New York University.",
+    "link": [
+        "http://www.cs.columbia.edu/~damianos/damianos.gif",
+        "http://www.cs.columbia.edu/",
+        "http://www.cc.columbia.edu/"
+    ],
+    "ground_truth": "student"
+}

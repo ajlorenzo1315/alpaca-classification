@@ -1,0 +1,9 @@
+{
+    "Title": "\nTrees & Ferns\n",
+    "Body": "In addition to drawing pretty reasonable looking trees and ferns using an LGrammer algorithm, the applet is double-buffered (no flicker) and multithreaded.",
+    "link": [
+        "http://www.cs.washington.edu/homes/glinden/",
+        "mailto:glinden@cs.washington.edu"
+    ],
+    "ground_truth": "other"
+}

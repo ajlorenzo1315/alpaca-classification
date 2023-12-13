@@ -1,0 +1,10 @@
+{
+    "Title": "travel",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Monday, 06-Jan-97 22:57:07 GMT Content-Type: text/html Content-Length: 1182 Last-Modified: Friday, 08-Nov-96 18:17:01 GMT travel Austin and Travis County Maps Austin Wheather Forecast UT Austin Map Collections Vicinity Interactive Maps Texas Travel National Parks National Parks Maps Great Outdoor Recreation Pages WebWheather",
+    "link": [
+        "http://www.lib.utexas.edu/Libs/PCL/txdot/Travis/TravisKey.html",
+        "http://www.weather.com/weather/us/cities/TX_Austin.html",
+        "http://www.lib.utexas.edu/Libs/PCL/Map_collection/Map_collection.html"
+    ],
+    "ground_truth": "other"
+}

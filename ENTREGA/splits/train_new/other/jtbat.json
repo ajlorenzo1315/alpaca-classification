@@ -1,0 +1,6 @@
+{
+    "Title": "No title",
+    "Body": "The goal of commit protocol + all the sites agree either to commit (attack) or to abort (not to attack) a transaction + Relax the req that the number of msgs used by a commit protocol be bounded by a fixed number of msgs.",
+    "link": [],
+    "ground_truth": "other"
+}

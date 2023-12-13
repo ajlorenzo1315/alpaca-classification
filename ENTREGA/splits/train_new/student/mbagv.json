@@ -1,0 +1,9 @@
+{
+    "Title": "Tibor Jánosi",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Wednesday, 20-Nov-96 19:49:06 GMT Content-Type: text/html Content-Length: 588 Last-Modified: Wednesday, 10-Apr-96 03:39:17 GMT Tibor Jánosi Tibor Jánosi Welcome to my WWW Home Page.",
+    "link": [
+        "http://www.ncsa.uiuc.edu/General/Internet/WWW/WebIntro.html",
+        "http://www.cs.cornell.edu/Info/Projects/zeno/zeno.html"
+    ],
+    "ground_truth": "student"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Satish K. Tripathi",
+    "Body": "Date: Thu, 21 Nov 1996 20:26:44 GMT Server: Apache-SSL/0.4.3b Content-type: text/html Content-length: 1488 Last-modified: Mon, 05 Aug 1996 20:40:43 GMT Satish K. Tripathi Satish K. Tripathi Position Professor, Computer Science Department.",
+    "link": [
+        "http://www.cs.umd.edu/",
+        "http://www.umiacs.umd.edu/",
+        "http://www.cdf.toronto.edu/"
+    ],
+    "ground_truth": "faculty"
+}

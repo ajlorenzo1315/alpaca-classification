@@ -1,0 +1,10 @@
+{
+    "Title": "Fail-Aware Clock Synchronization",
+    "Body": "We address this problem by proposing a new kind of clock synchronization that is implementable in asynchronous systems with local hardware clocks: fail-aware clock synchronization .",
+    "link": [
+        "http://www-cse.ucsd.edu/users/cfetzer/CS95-453.html",
+        "http://www-cse.ucsd.edu/users/cfetzer/CS95-453.html",
+        "http://www-cse.ucsd.edu/users/cfetzer/CS94-367.html"
+    ],
+    "ground_truth": "other"
+}

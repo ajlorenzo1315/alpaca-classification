@@ -1,0 +1,10 @@
+{
+    "Title": " Xingang Guo's Home Page ",
+    "Body": "A picture of me?",
+    "link": [
+        "http://www.cs.utexas.edu/users/linz/",
+        "http://www.cs.utexas.edu/users/xguo/Photo/",
+        "http://www.cs.utexas.edu/users/xguo/Music/"
+    ],
+    "ground_truth": "student"
+}

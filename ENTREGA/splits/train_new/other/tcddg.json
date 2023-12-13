@@ -1,0 +1,9 @@
+{
+    "Title": "CSE370 Policies",
+    "Body": "You can post general questions about interpretation and tool use but limit your comments to these categories.",
+    "link": [
+        "mailto:cse370-instructor@cs.washington.edu",
+        "mailto:cse370-webmaster@cs"
+    ],
+    "ground_truth": "other"
+}

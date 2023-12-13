@@ -1,0 +1,10 @@
+{
+    "Title": "Introduction to Computer Science",
+    "Body": "Ideas of analysis of algorithms are also introduced in the context of such applications.",
+    "link": [
+        "http://www.cs.dartmouth.edu/~thc/",
+        "http://www.cs.dartmouth.edu/~dlk/",
+        "http://www.cs.dartmouth.edu/courseguide/undergrad//"
+    ],
+    "ground_truth": "unknow"
+}

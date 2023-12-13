@@ -1,0 +1,10 @@
+{
+    "Title": "UCB Computer Graphics : OPTICAL",
+    "Body": "They are: Our SIGGRAPH '96 Electronic Theatre video entitled The OPTICAL Project at UC Berkeley: Computer Aided Cornea Modeling and Visualization .",
+    "link": [
+        "http://http.cs.berkeley.edu/optical/gifs/SIGGRAPH96Paper/Paper02_Acronym.jpg",
+        "mailto:optical@cs.berkeley.edu",
+        "http://www.cs.berkeley.edu/projects/graphics"
+    ],
+    "ground_truth": "unknow"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "\nGeographic Data\n",
+    "Body": "Search for Dams Map of California Database query form Lists of all dams by name and county About the Dams database Fish of the Sacramento River Delta This data comes from two sources: fish monitoring sensor data from the California Department of Fish and Game, and a technical report entitled Fishes of the Sacramento-San Joaquin Estuary and Adjacent Waters, California: A Guide to the Early Life Histories .",
+    "link": [
+        "http://elib.cs.berkeley.edu/other_data//",
+        "http://elib.cs.berkeley.edu/gis2/NorthCoast",
+        "http://elib.cs.berkeley.edu/gis/"
+    ],
+    "ground_truth": "unknow"
+}

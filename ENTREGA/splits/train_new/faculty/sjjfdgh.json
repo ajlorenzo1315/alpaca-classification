@@ -1,0 +1,10 @@
+{
+    "Title": "Henry MacKay Walker",
+    "Body": "Secretary-Treasurer of SIGCSE Panelist for the SIG Discretionary Fund Associate Editor for Computer Science Education for the Communications  of the ACM Occassional Visiting Senior Lecturer in the Computer Sciences Department at The University of Texas at Austin College Board Consultant in mathematics and computer science Member of the AP CS Ad Hoc Committee of the College Board Reader in computer science for the Advanced Placement tests of the Educational Testing Service Member of the Liberal Arts Computer Science Consortium Author and Program Director for Noyce Foundation grant to develop and lead workshops for high-school computer-science teachers Reviewer for HarperCollins, Harper and Row, Jones and Bartlett, McGraw-Hill, West Publishers Positions held Recent publications: Abstract data types: specifications, implementations, and applications (with Nell Dale ), Jones and Bartlett , 1996.",
+    "link": [
+        "mailto:walker@math.grin.edu",
+        "http://info.acm.org/sigcse/",
+        "http://acm.org/#SIGS"
+    ],
+    "ground_truth": "faculty"
+}

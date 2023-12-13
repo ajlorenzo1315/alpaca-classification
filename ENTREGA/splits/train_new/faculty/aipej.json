@@ -1,0 +1,10 @@
+{
+    "Title": " Sanguthevar Rajasekaran ",
+    "Body": "S. Rajasekaran, Randomized Selection on the Hypercube, to appear in Journal of Parallel and Distributed Computing.",
+    "link": [
+        "http://www.cis.ufl.edu/~raj/inmsp95.ps",
+        "http://www.cis.ufl.edu/~raj/fix3.ps",
+        "http://www.cis.ufl.edu/~raj/sicomp95.ps"
+    ],
+    "ground_truth": "faculty"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Home Page for Rajiv Gupta",
+    "Body": "Date: Mon, 25 Nov 1996 23:22:08 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Tue, 17 Sep 1996 22:32:38 GMT Content-length: 2050 Home Page for Rajiv Gupta Rajiv Gupta Dept of Computer Science 211 Mineral Industries Building Univ.",
+    "link": [
+        "http://www.cs.pitt.edu/",
+        "http://www.cs.pitt.edu/~gupta/research/projects1.html",
+        "http://www.cs.pitt.edu/~gupta/research/projects2.html"
+    ],
+    "ground_truth": "faculty"
+}

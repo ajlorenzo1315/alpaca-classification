@@ -1,0 +1,10 @@
+{
+    "Title": "Optimal Parallel MPEG Encoding : A Parallel MPEG Encoder in Rivl",
+    "Body": "Well, Brian Smith decided that he wanted his lectures put online for his students to view and thus began using RIVL to compress his videos.",
+    "link": [
+        "http://simon.cs.cornell.edu/Info/Projects/zeno/Projects/Rivl.html",
+        "http://www.cs.cornell.edu/Info/Projects/zeno/Projects/OPME/abstract.html",
+        "http://www.cs.cornell.edu/Info/Projects/zeno/Projects/OPME/opme.report.html"
+    ],
+    "ground_truth": "other"
+}

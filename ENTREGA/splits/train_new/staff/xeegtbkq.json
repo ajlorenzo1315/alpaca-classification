@@ -1,0 +1,10 @@
+{
+    "Title": "Kurt A. Freiberger\n",
+    "Body": "They always have to at least smell what I'm eating, and will fight the most vicious beasts of the Universe for Fig Newtons.",
+    "link": [
+        "mailto:kurt@cs.tamu.edu",
+        "http://www.cs.tamu.edu/staff/kurt/cambot.html",
+        "http://www.unitedmedia.com/comics/dilbert"
+    ],
+    "ground_truth": "staff"
+}

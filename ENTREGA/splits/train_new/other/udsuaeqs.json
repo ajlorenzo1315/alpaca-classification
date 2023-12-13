@@ -1,0 +1,10 @@
+{
+    "Title": "Personal Affairs",
+    "Body": "However, as a matter of fact, it is very common not having enough time to spend as many hours as I would like on them.",
+    "link": [
+        "http://www.ccs.neu.edu/home/amedina/country.html",
+        "http://www.boston.com",
+        "http://www.ccs.neu.edu/"
+    ],
+    "ground_truth": "other"
+}

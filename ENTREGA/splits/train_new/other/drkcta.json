@@ -1,0 +1,10 @@
+{
+    "Title": "Lyn Pierce",
+    "Body": "\"Synthesis of Distributed Control Systems\" (abstract), Evelyn Tumlin Pierce.",
+    "link": [
+        "http://www.cs.utexas.edu/users/tumlin/emp5.html",
+        "http://www.cs.utexas.edu/users/tumlin/emp0.html",
+        "http://www.cs.utexas.edu/users/tumlin/emp1.html"
+    ],
+    "ground_truth": "other"
+}

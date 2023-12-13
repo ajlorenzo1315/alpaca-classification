@@ -1,0 +1,10 @@
+{
+    "Title": "CSE 378 Home Page",
+    "Body": "Date: Thu, 21 Nov 1996 22:23:14 GMT Server: NCSA/1.4.2 Content-type: text/html CSE 378 Home Page CSE 378: Machine Organization and Assembly Language Autumn 1996 Instructor: Jean-Loup Baer , baer@cs.washington.edu Lectures MWF 11:30am - 12:20pm in EEB 108 Office Hours Monday 2:30pm-3:30pm, Friday 1:30pm-2:30pm in 319 Sieg Teaching Assistant: Ori Gershony , ori@cs.washington.edu Quiz Sections Thursday 12:30pm - 1:20pm in LOW 118 Thursday 1:30pm - 2:20pm  in LOW 113 Office Hours Monday 1:30pm-2:20pm, Wednesday 3:30pm-4:20pm in 326A Sieg Welcome to the 378 Home Page!",
+    "link": [
+        "http://www.cs.washington.edu/people/faculty/baer.html/",
+        "mailto:baer@cs.washington.edu",
+        "http://www.cs.washington.edu/homes/ori/"
+    ],
+    "ground_truth": "unknow"
+}

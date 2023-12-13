@@ -1,0 +1,10 @@
+{
+    "Title": "David Eggleston's Bookmarks",
+    "Body": "News of the Weird Archive Ratan Nalumasu's humor collection Mostly computer humor.",
+    "link": [
+        "http://www.cs.wisc.edu/",
+        "http://www.cs.wisc.edu/~mds/uwpl.html",
+        "http://www.cs.wisc.edu/~lukas/plsem/plsem.html"
+    ],
+    "ground_truth": "other"
+}

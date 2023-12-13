@@ -1,0 +1,10 @@
+{
+    "Title": "Biggi's home page",
+    "Body": "Other stuff Academic and job history Courses I've taken at UNM Icelandic/International characters Pictures from a Jan '96 skiing trip to Lake Tahoe, CA (about 60K) Picture from my wedding (sorry, but the bride is not in it, just my male friends) (about 60K) Send me mail!",
+    "link": [
+        "http://www.cs.unm.edu",
+        "http://www.arctic.is/",
+        "http://www.cs.unm.edu/~biggi/sound/kvedja.ra"
+    ],
+    "ground_truth": "student"
+}

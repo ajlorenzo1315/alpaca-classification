@@ -1,0 +1,9 @@
+{
+    "Title": "Kristen Summers -- Document Structure Classification",
+    "Body": "Abstract Automatic derivation of logical document structure from generic layout would enable a multiplicity of electronic document manipulation tools of a type that is becoming crucial to users who wish to browse the internet.",
+    "link": [
+        "http://www.cs.cornell.edu/Info/People/summers/Papers/classify.ps",
+        "http://www.cs.cornell.edu/Info/People/summers/summers.html"
+    ],
+    "ground_truth": "unknow"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Jacob Kornerup",
+    "Body": "For more information about my research see my list of papers .",
+    "link": [
+        "#effsec",
+        "http://www.cs.utexas.edu/",
+        "http://wwwhost.cc.utexas.edu/"
+    ],
+    "ground_truth": "student"
+}

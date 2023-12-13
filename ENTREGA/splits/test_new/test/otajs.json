@@ -1,0 +1,10 @@
+{
+    "Title": " Networking Research Laboratory members ",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Tuesday, 07-Jan-97 15:54:54 GMT Content-Type: text/html Content-Length: 1424 Last-Modified: Monday, 15-Jul-96 16:17:30 GMT Networking Research Laboratory members Project Leader Simon S. Lam , Professor of Computer Sciences Administrative Assistant (also editorial assistant for IEEE/ACM Transactions on Networking) Kata Carbone phone : (512) 471-9524 fax : (512) 471-8885 email : kata@cs.utexas.edu Research Assistants (including recent graduates) All email addresses are < name > @cs.utexas.edu where only < name > is listed.",
+    "link": [
+        "http://net.cs.utexas.edu/users/lam",
+        "http://www.ccrc.wustl.edu/~ton",
+        "http://www.cs.utexas.edu/users/yau"
+    ],
+    "ground_truth": "unknow"
+}

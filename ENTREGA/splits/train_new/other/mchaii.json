@@ -1,0 +1,9 @@
+{
+    "Title": "My Sweet Home at Lucknow ",
+    "Body": "Date: Tue, 05 Nov 1996 21:21:18 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Tue, 01 Oct 1996 05:38:13 GMT Content-length: 2538 My Sweet Home at Lucknow My sweet home is in the beautiful city of Nawabs.",
+    "link": [
+        "mailto:saeed@cs.wisc.edu",
+        "http://www.cs.wisc.edu/~saeed"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Paul Stodghill's Home Page",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Wednesday, 20-Nov-96 19:46:49 GMT Content-Type: text/html Content-Length: 758 Last-Modified: Friday, 26-Jan-96 00:45:18 GMT Paul Stodghill's Home Page Paul Stodghill stodghil@cs.cornell.edu 706 Rhodes Hall 607-254-8830 Affiliations Department of Computer Science.",
+    "link": [
+        "http://www.cs.cornell.edu/",
+        "http://www.tc.cornell.edu:80/ctc.html",
+        "http://www.cs.rochester.edu/u/ferguson/ultimate/"
+    ],
+    "ground_truth": "student"
+}

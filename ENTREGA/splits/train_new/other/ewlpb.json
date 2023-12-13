@@ -1,0 +1,10 @@
+{
+    "Title": "Hometowns of Koichi Kamijo",
+    "Body": "It is a nice, rural place, 4 hrs north west from New York City.",
+    "link": [
+        "http://www.ntt.jp:80/japan/index.html",
+        "http://www.huie.hokudai.ac.jp/hokkaido/eng/sapporo",
+        "http://www.tokai-ic.or.jp/Tokai/Nagoya/Sightseeing/"
+    ],
+    "ground_truth": "other"
+}

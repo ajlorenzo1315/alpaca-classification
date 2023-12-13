@@ -1,0 +1,10 @@
+{
+    "Title": "Laboratory for Molecular Robotics at USC",
+    "Body": "However, today we lack most of the tools necessary  for realizing the dreams of Molecular Robotics.",
+    "link": [
+        "http://www.usc.edu",
+        "http://alicudi.usc.edu:80/~lmr/html/requicha.html",
+        "http://www.usc.edu/dept/cs/index.html"
+    ],
+    "ground_truth": "project"
+}

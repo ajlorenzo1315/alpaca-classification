@@ -1,0 +1,10 @@
+{
+    "Title": "\nBU CAS CS 585: Image and Video Computing ---Home Page\n\t\t",
+    "Body": "Date: Wed, 20 Nov 1996 21:46:55 GMT Server: NCSA/1.5 Content-type: text/html BU CAS CS 585: Image and Video Computing ---Home Page BU CAS CS 585: Image and Video Computing Fall 1996 HOME PAGE Programming Assignments: P0 , P1 , P2 , P3 , P4 Completed Assignments: P0 , P1 , P2 , P3 , P4 Student Commentary on Assigned Readings Course Participants Lectures: TR 12:30-2:00 in MCS 148 Instructor: Stan Sclaroff Office Hours: Thursday 2-5PM Room MCS-279, phone 353-8928 E-mail: sclaroff@cs Course Description: Provides an introduction to algorithms for image and video analysis that have practical application in areas ranging from multimedia to robotics, from medical imaging to remote sensing.",
+    "link": [
+        "http://web.bu.edu/pagetwo.html",
+        "http://cs-pub.bu.edu/",
+        "http://www.cs.bu.edu/faculty/sclaroff/courses/cs585/Home.html"
+    ],
+    "ground_truth": "course"
+}

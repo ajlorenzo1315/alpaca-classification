@@ -1,0 +1,9 @@
+{
+    "Title": "Classes",
+    "Body": "You can use = to assign one whole class to another: Generra = Gamera; You can also call the constructor explicitly to make an anaonymous value of a certain type and assign it: Generra = Alien(\"ET\", \"Home\", 2, 0); Alien:: Example where I use it to resolve name clash in constructor: Alien::Alien (char name[], char homePlanet[], int numLegs, int isDeadly) { strcpy(Alien::name, name); strcpy(Alien::homePlanet, homePlanet); Alien::numLegs = numLegs; Alien::isDeadly = isDeadly; } Constant member: class Alien { public: // ...",
+    "link": [
+        "http://www.cs.wisc.edu/~turnidge/cs302/classes-ex1.html",
+        "http://www.cs.wisc.edu/~turnidge/turnidge.html"
+    ],
+    "ground_truth": "other"
+}

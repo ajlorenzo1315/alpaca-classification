@@ -1,0 +1,10 @@
+{
+    "Title": "Christof Fetzer",
+    "Body": "Fault-Tolerant Internal Clock Synchronization , Proceedings of the Thirteenth Symposium on Reliable Distributed Systems, Oct, 1994.",
+    "link": [
+        "mailto:cfetzer@cs.ucsd.edu",
+        "http://www-cse.ucsd.edu/users/cfetzer/CS96-475.html",
+        "http://www-cse.ucsd.edu/users/cfetzer/CS94-378.html"
+    ],
+    "ground_truth": "student"
+}

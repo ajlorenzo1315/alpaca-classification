@@ -1,0 +1,10 @@
+{
+    "Title": "CSE 473 (Spring 1996) Home Page",
+    "Body": "28 May (Tuesday) Review session for Final Exam from 4:30-5:30 in Sieg 231.",
+    "link": [
+        "http://www.cs.washington.edu/research/metip/tanimoto.html",
+        "http://www.cs.washington.edu/homes/jbaer",
+        "http://www.cs.washington.edu/education/courses/473/schedule.html"
+    ],
+    "ground_truth": "course"
+}

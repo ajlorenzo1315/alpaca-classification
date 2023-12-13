@@ -1,0 +1,9 @@
+{
+    "Title": "Roy M. Jenevein, Jr.",
+    "Body": "R. M. Jenevein, L. Laranjeira, and M. M. Malek, \"NEST: a nested predicate scheme for fault tolerance,\" IEEE Transactions on Computers , in press, 1993 R. M. Jenevein and N. Ullah, \"MetriX: a precise methodology for computer system performance measurement,\" in Proceedings of the 1993 International Conference for Computer Applications in Industry and Engineering , December 1993.",
+    "link": [
+        "http://www.cs.utexas.edu/docs/prof.html",
+        "http://www.cs.utexas.edu/users/UTCS/report/1995/profiles/index.html"
+    ],
+    "ground_truth": "faculty"
+}

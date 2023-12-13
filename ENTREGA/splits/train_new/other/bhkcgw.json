@@ -1,0 +1,10 @@
+{
+    "Title": "Student Projects",
+    "Body": "LZW compression modules for DX by Yi_Jou Chen NTSC simulator modules for DX by Hung Chen and Shiou-Je Lin A DX to VRML object translator module by Chris Kline A Krieging Interpolator module for DX by Chaoyi Lang An improved volume rendering module for DX by Robert Amidon Fractal surface modules by William Nell.",
+    "link": [
+        "http://www.tc.cornell.edu/Visualization/tools/dx.html",
+        "http://www.tc.cornell.edu/~bruce/",
+        "http://www.tc.cornell.edu/Visualization/contrib/cs490-94to95/Alferness/"
+    ],
+    "ground_truth": "other"
+}

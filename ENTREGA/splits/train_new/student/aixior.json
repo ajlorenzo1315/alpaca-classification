@@ -1,0 +1,10 @@
+{
+    "Title": "Douglas Voss",
+    "Body": "My dissertation, a work in progress, is titled: Indeterminacy in Temporal Databases .",
+    "link": [
+        "http://cswww.vuse.vanderbilt.edu/",
+        "http://www.vanderbilt.edu/",
+        "ftp://csftp.vuse.vanderbilt.edu/tech_reports/TR96-01.ps"
+    ],
+    "ground_truth": "student"
+}

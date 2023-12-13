@@ -1,0 +1,10 @@
+{
+    "Title": "Virtual Reality Video Conferencing",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Sunday, 01-Dec-96 19:21:14 GMT Content-Type: text/html Content-Length: 1826 Last-Modified: Wednesday, 20-Nov-96 06:00:17 GMT Virtual Reality Video Conferencing Virtual Reality Video Conferencing Implemented Canvas3d : A High Performance Graphics Engine.",
+    "link": [
+        "http://www.cs.cornell.edu/Info/People/ankit/canvas3d/canvas3d.html",
+        "http://www.cs.cornell.edu/Info/People/ioi/631/project.html",
+        "http://www.cs.cornell.edu/Info/People/imalik/cs631/project/main.html"
+    ],
+    "ground_truth": "other"
+}

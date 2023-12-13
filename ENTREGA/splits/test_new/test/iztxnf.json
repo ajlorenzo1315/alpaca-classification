@@ -1,0 +1,10 @@
+{
+    "Title": "Internet address postfixes (off the top of my head ...)",
+    "Body": "Date: Tue, 05 Nov 1996 21:23:03 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Mon, 05 Aug 1996 14:45:15 GMT Content-length: 2559 Internet address postfixes (off the top of my head ...) Some internet address postfixes ... (the first list are US-only) edu : college or university gov : government mil : military com : commercial site org : organization (non-profit?)",
+    "link": [
+        "http://www.cs.wisc.edu/~mreames/mreames.html",
+        "http://www.cs.wisc.edu/",
+        "http://www.wisc.edu"
+    ],
+    "ground_truth": "unknow"
+}

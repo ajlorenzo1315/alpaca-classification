@@ -1,0 +1,10 @@
+{
+    "Title": " Welcome to the jungle ",
+    "Body": "US Universities Ranking How about the World ?",
+    "link": [
+        "http://www.cs.clemson.edu/~madhu/usa.txt",
+        "http://www.cs.clemson.edu/~madhu/world.txt",
+        "http://www.cs.clemson.edu/~madhu/paper1.ps"
+    ],
+    "ground_truth": "student"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Dana H. Ballard's Home Page",
+    "Body": "Ballard, D. H. ``Animate Vision.''",
+    "link": [
+        "http://www.cs.rochester.edu/u/dana/syllabus.html",
+        "http://www.cs.rochester.edu/u/rao",
+        "http://www.cs.rochester.edu/users/faculty/dana/outline.html"
+    ],
+    "ground_truth": "faculty"
+}

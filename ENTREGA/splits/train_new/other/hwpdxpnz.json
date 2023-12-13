@@ -1,0 +1,10 @@
+{
+    "Title": "Visualizing Complex Hypermedia Networks through Multiple Hierarchical Views",
+    "Body": "Structural analysis: A pre-tree is formed for nodes in the graph which can reach all other nodes.",
+    "link": [
+        "http://www.cc.gatech.edu/gvu/people/Phd/sougata/chi95/sm_bdy.html#Utt89",
+        "http://www.cc.gatech.edu/gvu/people/Phd/sougata/chi95/sm_bdy.html#Bat93",
+        "http://www.cc.gatech.edu/gvu/people/Phd/sougata/chi95/sm_bdy.html#Fai88"
+    ],
+    "ground_truth": "other"
+}

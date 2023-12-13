@@ -1,0 +1,10 @@
+{
+    "Title": "JCU - Computer Science - Australia : Publications",
+    "Body": "If the report is available for ftp a second link will be present in the abstract.",
+    "link": [
+        "http://www.cs.jcu.edu.au/ftp/web/research/profiles/nizam/publications.shtml",
+        "http://www.cs.jcu.edu.au/ftp/web/research/profiles/olivier/publications.shtml",
+        "http://www.cs.jcu.edu.au/ftp/web/research/profiles/curtis/publications.shtml"
+    ],
+    "ground_truth": "other"
+}

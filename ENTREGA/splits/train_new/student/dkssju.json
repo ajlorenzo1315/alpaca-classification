@@ -1,0 +1,10 @@
+{
+    "Title": " Chang Ee-Chien's Home Page ",
+    "Body": "Publications E.C.Chang Probabilistic analysis and parallelization of bin-packing algorithms , Master's thesis, Institute of Systems Science, National University of Singapore, 1993.",
+    "link": [
+        "http://cs.nyu.edu/",
+        "http://cs.nyu.edu/cs/courantnyu.html",
+        "http://nuscc.nus.sg/"
+    ],
+    "ground_truth": "student"
+}

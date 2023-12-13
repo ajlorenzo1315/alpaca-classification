@@ -1,0 +1,6 @@
+{
+    "Title": "Static Layer Analysis for C Programs",
+    "Body": "Note: as far as lce can tell, the following functions will never be invoked (though they may be through function pointers): ../hw5/agrep2.04/utilities.c: subset_pset ../hw5/agrep2.04/utilities.c: eq_pset Future Work Few concrete conclusions can be drawn at this point about the usefulness of these tools, as they have yet to be used for any real software engineering project.",
+    "link": [],
+    "ground_truth": "other"
+}

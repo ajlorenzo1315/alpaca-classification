@@ -1,0 +1,10 @@
+{
+    "Title": "Mark's Home Page",
+    "Body": "Date: Tue, 26 Nov 1996 16:50:54 GMT Server: Apache/1.1.1 Content-type: text/html Content-length: 2854 Last-modified: Tue, 24 Sep 1996 01:35:36 GMT Mark's Home Page Mark Polak Ph.D. Student Department of Computing Science University of Alberta My supervisor: Bill Armstrong E-mail: polak@cs.ualberta.ca Click here to send me email.",
+    "link": [
+        "http://web.cs.ualberta.ca/home.html",
+        "http://web.cs.ualberta.ca/UAlberta.html",
+        "http://www.cs.ualberta.ca/~arms"
+    ],
+    "ground_truth": "student"
+}

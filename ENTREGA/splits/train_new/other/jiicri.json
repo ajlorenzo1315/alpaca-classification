@@ -1,0 +1,10 @@
+{
+    "Title": "Stuff Mike Does at School",
+    "Body": "My impression of Java is that it's kind of neat, but it has a ways to go to become really useful.",
+    "link": [
+        "http://www.cs.washington.edu:80/homes/salesin/",
+        "http://www.cs.washington.edu/research/projects/grail2/www/projects/cg-illus/",
+        "http://www.cs.washington.edu/research/projects/grail2/www/projects/int-illus/"
+    ],
+    "ground_truth": "other"
+}

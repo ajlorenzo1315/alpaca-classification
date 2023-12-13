@@ -1,0 +1,10 @@
+{
+    "Title": "CS 302 Section 70 - Announcements",
+    "Body": "Also, there will be a quiz on Friday on arrays.",
+    "link": [
+        "http://www.cs.wisc.edu/~tick/cs302.html#menu",
+        "http://www.cs.wisc.edu/~tick/cs302/Short.html",
+        "http://www.cs.wisc.edu/~cs302/Consultants/schedule_s96.html"
+    ],
+    "ground_truth": "other"
+}

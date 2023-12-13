@@ -1,0 +1,10 @@
+{
+    "Title": "\nCS418 Lab 4\n",
+    "Body": "The virtual camera is a set of transforms which takes a 3D representation of a set of objects and arranges for them to be shown in a 2D window.",
+    "link": [
+        "http://www.tc.cornell.edu/Visualization/Education/cs418/labs/cameraIntro.net",
+        "http://www.tc.cornell.edu/Visualization/Education/cs418/labs/cameraIntro.cfg",
+        "http://www.tc.cornell.edu/Visualization/Education/cs418/labs/cameraINscene.net"
+    ],
+    "ground_truth": "unknow"
+}

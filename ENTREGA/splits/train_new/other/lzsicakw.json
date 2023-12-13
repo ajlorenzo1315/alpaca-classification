@@ -1,0 +1,10 @@
+{
+    "Title": "The Java Tutorial",
+    "Body": "The book version of this tutorial breaks this trail in two: Writing Java Programs , which contains the first three lessons shown on the index page for the trail.",
+    "link": [
+        "http://www.cs.duke.edu/~gadde/Java/tutorial/getStarted/application/index.html",
+        "http://www.cs.duke.edu/~gadde/Java/tutorial/TOC.html",
+        "http://www.aw.com/cp/javaseries.html"
+    ],
+    "ground_truth": "other"
+}

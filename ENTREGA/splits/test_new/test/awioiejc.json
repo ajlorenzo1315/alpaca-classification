@@ -1,0 +1,10 @@
+{
+    "Title": "Flaviu Cristian",
+    "Body": "After carrying out research in operating systems and programming methodology in France and working on the specification, design, and verification of fault-tolerant software in England, he joined IBM Research in 1982.",
+    "link": [
+        "mailto:flaviu@cs.ucsd.edu",
+        "file://cs.ucsd.edu/pub/team/understandingftsystems.ps.Z",
+        "file://cs.ucsd.edu/pub/team/groupCommunication.ps.Z"
+    ],
+    "ground_truth": "unknow"
+}

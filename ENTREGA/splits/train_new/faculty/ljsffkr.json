@@ -1,0 +1,10 @@
+{
+    "Title": " Samuel Weber",
+    "Body": "Research Interests Software Design, Specification and Verification, Programming Language Design and Semantics, Distributed Systems Courses CS 401/501 \"Software Engineering: Technology and Techniques\" (Fall 95) CS 100 \"Introduction to Computer Programming\" (Spring 96) Publications Weber and Bloom, \"Metatheory of the Pi-Calculus\", Technical Report 96-1564, Cornell University (submitted for conference publication).",
+    "link": [
+        "mailto:samuel@cs.cornell.edu",
+        "http://www.cs.cornell.edu/Info/Department/Meng",
+        "http://www.cs.cornell.edu/Info/Courses/Fall-95/CS501/CS401-501.html"
+    ],
+    "ground_truth": "faculty"
+}

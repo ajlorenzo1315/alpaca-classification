@@ -1,0 +1,10 @@
+{
+    "Title": "Jussi Myllymaki",
+    "Body": "Relational Joins for Data on Tertiary Storage, Jussi Myllymaki and Miron Livny, submitted to the 1997 International Conference on Data Engineering.",
+    "link": [
+        "mailto:jussi@cs.wisc.edu",
+        "http://www.cs.wisc.edu/~devise",
+        "http://www.cs.wisc.edu/~pubs/faculty-info/miron.html"
+    ],
+    "ground_truth": "student"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Alan Carle's Home Page",
+    "Body": "Date: Tue, 26 Nov 1996 00:17:26 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Mon, 19 Aug 1996 18:35:10 GMT Content-length: 1605 Alan Carle's Home Page Alan Carle Alan Carle received his B.A., M.S., and Ph.D. all from Rice University's Department of Computer Science.",
+    "link": [
+        "http://www.cs.indiana.edu/finger/cs.rice.edu/carle",
+        "http://www.cs.rice.edu/~carle/vita/vita.html",
+        "http://www.cs.rice.edu/~adifor"
+    ],
+    "ground_truth": "staff"
+}

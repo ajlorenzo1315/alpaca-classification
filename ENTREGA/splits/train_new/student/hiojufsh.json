@@ -1,0 +1,10 @@
+{
+    "Title": "\nKaren Paffendorf's Home Page\n",
+    "Body": "Since I am now also working in RUCS, I no longer need to look for a job .",
+    "link": [
+        "http://www.vtw.org/speech",
+        "http://www.paffendorf.sj.ca.us",
+        "http://paul.rutgers.edu/~paffy/rutgers.html#class"
+    ],
+    "ground_truth": "student"
+}

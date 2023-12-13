@@ -1,0 +1,10 @@
+{
+    "Title": "Document Listing",
+    "Body": "How do I find out and install new releases?",
+    "link": [
+        "http://www.ncstrl.org/Dienst/htdocs/Info/about-ncstrl.html",
+        "http://www.ncstrl.org/Dienst/htdocs/Info/participation.html",
+        "http://www.cnri.reston.va.us/home/cstr/handle-intro.html"
+    ],
+    "ground_truth": "other"
+}

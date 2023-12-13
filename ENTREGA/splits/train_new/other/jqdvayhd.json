@@ -1,0 +1,9 @@
+{
+    "Title": "Analyzing and Debugging Hierarchies of Multi-Way Local \nPropagation Constraints",
+    "Body": "This paper describes the debugging facilities of CNV, and presents a new algorithm for enumerating all of the ways that SkyBlue could maintain a set of constraints.",
+    "link": [
+        "ftp://cs.washington.edu/pub/constraints/papers/debug-ppcp-94.ps.Z",
+        "http://www.cs.washington.edu/research/projects/weird/www/index.html"
+    ],
+    "ground_truth": "other"
+}

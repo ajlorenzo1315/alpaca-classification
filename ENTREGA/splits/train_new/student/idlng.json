@@ -1,0 +1,10 @@
+{
+    "Title": "The Great Garini's Home Page",
+    "Body": "My main address is gary@wheel.tiac.net , but you could also send it to duzan@ccs.neu.edu .",
+    "link": [
+        "http://www.ccs.neu.edu/home/duzan/bearded.gif",
+        "http://www.ccs.neu.edu/home/duzan/nobeard.gif",
+        "telnet://bbs.isca.uiowa.edu"
+    ],
+    "ground_truth": "student"
+}

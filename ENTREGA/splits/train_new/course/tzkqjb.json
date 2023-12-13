@@ -1,0 +1,10 @@
+{
+    "Title": " CPS 108 Software Design and Implementation ",
+    "Body": "First the non object oriented version usepix.cc the main  program pixmap.h the interface/header file for the Pixmap class (manipulates images) pixmap.cc the implementation of the Pixmap class The object oriented version (uses the Pixmap class too) application.h the main application class interface application.cc the main application class implementation command.h the abstract base class for commands quitcommand.h The quit command class interface quitcommand.cc The quit command class implementation readcommand.h The read command class interface readcommand.cc The read command class implementation displaycommand.h The display command interface displaycommand.cc The display command implementation simpcommand.h A templated class (using pointers to member functions) for non-parameterized commands.",
+    "link": [
+        "#reqs",
+        "http://www.cs.duke.edu/~ola/courses/cps108/fall96/syllabus.html",
+        "#books"
+    ],
+    "ground_truth": "course"
+}

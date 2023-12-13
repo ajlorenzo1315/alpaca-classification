@@ -1,0 +1,10 @@
+{
+    "Title": "Richard F. Riesenfeld",
+    "Body": "Date: Thu, 21 Nov 1996 21:20:58 GMT Server: Apache/1.1.1+ Content-type: text/html Content-length: 1030 Last-modified: Mon, 03 Oct 1994 19:36:27 GMT Richard F. Riesenfeld Richard F. Riesenfeld Professor of Computer Science.",
+    "link": [
+        "http://www.cs.utah.edu/projects/alpha_1/images/bearingblock.jpg",
+        "http://www.cs.utah.edu/~cohen",
+        "http://www.cs.utah.edu/projects/alpha_1"
+    ],
+    "ground_truth": "faculty"
+}

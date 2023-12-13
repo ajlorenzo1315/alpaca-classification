@@ -1,0 +1,10 @@
+{
+    "Title": "\nProbabilistic Planning\n",
+    "Body": "An Approach to Planning with Incomplete Information by Etzioni , Hanks , Weld , Draper , Lesh , and Williamson .",
+    "link": [
+        "http://www.cs.washington.edu/research/projects/ai/www/bur.html",
+        "http://www.cs.washington.edu/people/faculty/weld.html",
+        "http://www.cs.washington.edu/homes/ddraper/"
+    ],
+    "ground_truth": "other"
+}

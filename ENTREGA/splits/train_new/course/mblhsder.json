@@ -1,0 +1,10 @@
+{
+    "Title": "Kelly's CS 132 Page",
+    "Body": "Here are links to the mail messages I have sent this semester: CS 132 info -- 9/11/96 CS 132 info -- 9/15/96 CS 132 info -- 9/22/96 CS 132 info -- 10/29/96 CS 132 info -- 10/6/96 CS 132 info -- 10/9/96 CS 132 info -- 10/16/96 CS 132 info -- 10/27/96 CS 132 info -- 11/3/96 Additional information of interest: Backups: copying disks and files Virus Information World Wide Web FAQ Fun stuff: Usenet Oracle Resource Index Virtual Tourist World Map The Space Shuttle Clickable Map Badger Herald web site Comics Humor: Abort, retry, ignore?",
+    "link": [
+        "http://www.cs.wisc.edu/~ratliff/grades.html",
+        "http://www.cs.wisc.edu/~ratliff/news0",
+        "http://www.cs.wisc.edu/~ratliff/news1"
+    ],
+    "ground_truth": "course"
+}

@@ -1,0 +1,8 @@
+{
+    "Title": " PSSPD: Parallel Solution of Sparse Symmetric Positive\nDefinite Systems",
+    "Body": "The sparse matrix A and the right hand side vector b are distributed among the processors in the communicator.",
+    "link": [
+        "./psspd_guide.ps"
+    ],
+    "ground_truth": "other"
+}

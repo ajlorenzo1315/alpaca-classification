@@ -1,0 +1,10 @@
+{
+    "Title": " Dan Dougherty's WWW Plan File ",
+    "Body": "Date: Thursday, 21-Nov-96 21:33:31 GMT Server: NCSA/1.1 MIME-version: 1.0 Content-type: text/html Last-modified: Saturday, 22-Jun-96 15:41:25 GMT Dan Dougherty's WWW Plan File Dan Dougherty Associate Professor of Computer Science Wesleyan University Middletown, CT 06459 [203] 685-2185 ddougherty@wesleyan.edu Research Interests Computational logic, especially term rewriting, unification, and lambda calculus Recent papers, available from site ftp.cs.wesleyan.edu : \"Equality between functionals in the presence of coproducts\" dvi file , or ps file.",
+    "link": [
+        "mailto:ddougherty@wesleyan.edu",
+        "ftp://ftp.cs.wesleyan.edu/pub/djd/i-and-c.dvi",
+        "ftp://ftp.cs.wesleyan.edu/pub/djd/i-and-c.ps"
+    ],
+    "ground_truth": "faculty"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "George Forman's Home Page",
+    "Body": "Date: Thu, 21 Nov 1996 23:01:18 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Wed, 02 Oct 1996 18:17:52 GMT Content-length: 5309 George Forman's Home Page George Forman's Home Page I have received my Computer Science & Engineering Ph.D. here at the University of Washington, and have moved down to Palo Alto to start work at Hewlett-Packard Laboratories .",
+    "link": [
+        "http://www.hpl.hp.com",
+        "mailto:gforman@hpl.hp.com",
+        "http://www.cs.washington.edu/homes/forman/seeit/diss.html"
+    ],
+    "ground_truth": "student"
+}

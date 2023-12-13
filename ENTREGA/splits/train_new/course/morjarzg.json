@@ -1,0 +1,10 @@
+{
+    "Title": " COMP 144 HOME PAGE (Petty) (Spring 1996) ",
+    "Body": "Instructor: Chad Petty Teaching Assistant: George Greene Text: Programming Languages:  Design and Implementation Pratt & Zelkowitz, 3rd ed.,1996 Prerequisite: COMP 121 Grade weighting Programming assignments 30% Problem sets 20% Midterm exam(s) 20% Final exam 30% Assignments Reading Schedule, Problem Sets, Programming Specs Results Solutions to Problems, Grade Reports Collaboration: You are encouraged to discuss program design issues among yourselves, but all code you turn in must be written by you alone.",
+    "link": [
+        "http://www.cs.unc.edu/~greeneg/pi144.html",
+        "http://www.cs.unc.edu/~greeneg/gt144.html",
+        "http://www.cs.unc.edu/~greeneg/problems.html"
+    ],
+    "ground_truth": "course"
+}

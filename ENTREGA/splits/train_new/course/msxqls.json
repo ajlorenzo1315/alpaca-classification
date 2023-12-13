@@ -1,0 +1,10 @@
+{
+    "Title": "Syllabus",
+    "Body": "Techniques for analyzing the (probabilistic) correctness and performance of randomized algorithms will be a central part of the course.",
+    "link": [
+        "http://cs.nyu.edu/",
+        "http://www.nyu.edu/",
+        "mailto:cole@cs.nyu.edu"
+    ],
+    "ground_truth": "course"
+}

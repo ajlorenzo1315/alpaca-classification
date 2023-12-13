@@ -1,0 +1,10 @@
+{
+    "Title": "Linda Petzold",
+    "Body": "Current research focuses on numerical methods for real-time simulation of mechanical systems, parameter estimation and optimal control of differential-algebraic systems, and parallel methods and software for very-large-scale systems of DAEs in geophysics and other applications.",
+    "link": [
+        "http://www.cs.umn.edu/footer.map",
+        "mailto:www@cs.umn.edu",
+        "http://www.cs.umn.edu/help"
+    ],
+    "ground_truth": "faculty"
+}

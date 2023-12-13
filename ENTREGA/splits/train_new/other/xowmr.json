@@ -1,0 +1,6 @@
+{
+    "Title": "CS/ECE 752 - Homework #2",
+    "Body": "For part (b), plot the miss ratios for both a direct-mapped and fully-associative instruction cache with block size of 32 bytes.",
+    "link": [],
+    "ground_truth": "other"
+}

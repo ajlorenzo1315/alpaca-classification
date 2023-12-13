@@ -1,0 +1,8 @@
+{
+    "Title": "Concepts in Programming Languages. Chapter 6\n",
+    "Body": "The current top-of-stack pointer is copied to the top of the stack.",
+    "link": [
+        "http://cs-www.bu.edu/faculty/mcchen/main_menu.html"
+    ],
+    "ground_truth": "other"
+}

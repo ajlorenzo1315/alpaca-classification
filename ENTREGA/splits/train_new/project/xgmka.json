@@ -1,0 +1,10 @@
+{
+    "Title": "Programming Language Group",
+    "Body": "Date: Tue, 26 Nov 1996 00:56:49 GMT Server: Apache/1.1.1 Content-type: text/html Content-length: 1116 Last-modified: Sat, 19 Oct 1996 02:44:46 GMT Programming Language Group Programming Language Group We are interested in all aspects of programming languages design, semantics, and implementation.",
+    "link": [
+        "http://www.cs.uoregon.edu/~ariola/",
+        "http://www.cs.uoregon.edu/~sccblom",
+        "http://www.cs.uoregon.edu/~lth"
+    ],
+    "ground_truth": "project"
+}

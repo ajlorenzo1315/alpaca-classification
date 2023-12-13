@@ -1,0 +1,10 @@
+{
+    "Title": "\n\nMCML : The Mobile Computing and Multimedia Laboratory at the University of \nMaryland\n",
+    "Body": "The People Faculty Members Prof. Satish K. Tripathi Dr. Marwan Krunz Graduate Students George Apostolopoulos Rohit Dube Hyeonsang Eom Ibrahim Korpeoglu Frank Miller Cynthia D. Rais Alexander Sarris Kuang-Yeh Wang Wei Zhao Alumni Pravin Bhagwat Debanjan Saha Rajeev Ved Papers Publications Theses Technical Reports The RoadRunner MultiMedia Operating System Device Drivers and other Fun Stuff Photographs and Testbed Resources On The Net Other sites related to Mobile Computing .",
+    "link": [
+        "http://www.cs.umd.edu/users/tripathi/",
+        "http://www.cs.umd.edu/users/krunz/",
+        "http://www.cs.umd.edu/users/georgeap/"
+    ],
+    "ground_truth": "project"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Judy Goldsmith's Home Page",
+    "Body": "1996 IEEE Conference on Computational Complexity.",
+    "link": [
+        "http://www.cs.engr.uky.edu/",
+        "http://www.uky.edu/",
+        "http://al.cs.engr.uky.edu/~goldsmit/245.html"
+    ],
+    "ground_truth": "unknow"
+}

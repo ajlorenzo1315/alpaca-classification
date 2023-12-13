@@ -1,0 +1,10 @@
+{
+    "Title": "Risto Miikkulainen",
+    "Body": "in Applied Mathematics , Helsinki University of Technology , 1986 Research Interests The research in my group concentrates on modeling cognitive processes with artificial neural networks.",
+    "link": [
+        "http://www.cs.utexas.edu/cgi/finger/risto",
+        "http://www.cs.utexas.edu/",
+        "http://wwwhost.cc.utexas.edu/"
+    ],
+    "ground_truth": "faculty"
+}

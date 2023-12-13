@@ -1,0 +1,10 @@
+{
+    "Title": "CSC379 title page",
+    "Body": "Date: Tue, 26 Nov 1996 18:47:10 GMT Server: NCSA/1.5.2 Last-modified: Thu, 21 Nov 1996 17:53:59 GMT Content-type: text/html Content-length: 1340 CSC379 title page CSC 379: Ethics in Computing This course is a survey of the ethical issues involved  in computing.",
+    "link": [
+        "http://www.csc.ncsu.edu/eos/info/csc379_info/www/info.html",
+        "http://www.csc.ncsu.edu/eos/info/csc379_info/www/policy.html",
+        "http://www.csc.ncsu.edu/eos/info/csc379_info/www/sylbs.html"
+    ],
+    "ground_truth": "course"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "\nSaibal Patra's Home Page\n",
+    "Body": "Date: Tue, 26 Nov 1996 03:53:11 GMT Server: Apache/1.1.1 Content-type: text/html Content-length: 2442 Last-modified: Thu, 01 Jun 1995 20:05:22 GMT Saibal Patra's Home Page Saibal Patra's Home Page This page is currently under construction.",
+    "link": [
+        "http://athos.rutgers.edu/home.html",
+        "http://www.rutgers.edu/",
+        "http://www.cs.rutgers.edu/~patra/hillcenter.gif"
+    ],
+    "ground_truth": "student"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": " Randal Kornelsen ",
+    "Body": "Testing Testing a link into the middle of the page You are visitor to the Kornelsen House of Pain.",
+    "link": [
+        "http://web.cs.ualberta.ca/home.html",
+        "http://web.cs.ualberta.ca/UAlberta.html",
+        "http://web.cs.ualberta.ca/~database/"
+    ],
+    "ground_truth": "staff"
+}

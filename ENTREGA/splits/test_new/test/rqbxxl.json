@@ -1,0 +1,10 @@
+{
+    "Title": " COS 597B, Fall 1995 ",
+    "Body": "Various examples of randomized algorithms will be given throughout the course, including randomized data structures, game tree search, routing algorithms, algorithms for combinatorial optimization and linear programming, number theoretic algorithms, and algorithms for counting and uniform generation of combinatorial objects (such as matchings).",
+    "link": [
+        "http://www.cs.princeton.edu/~arora",
+        "http://www.cup.org/Reviews&blurbs/RanAlg/RanAlg.html",
+        "gopher://ns1.infor.com:6000/1exec%3aR27945983-27948302-/.text/Main%3a/.bin/views"
+    ],
+    "ground_truth": "unknow"
+}

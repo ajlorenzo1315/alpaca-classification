@@ -1,0 +1,10 @@
+{
+    "Title": "CSE 143 Mail Archives",
+    "Body": "(We will monitor this list, but it is primarily for student discussion.)",
+    "link": [
+        "http://www.cs.washington.edu/education/courses/143/CurrentQtr/messages/cse143",
+        "http://www.cs.washington.edu/education/courses/143/CurrentQtr/messages/cse143-announce",
+        "http://www.cs.washington.edu/education/courses/143/CurrentQtr/messages/cse143-section-collins"
+    ],
+    "ground_truth": "unknow"
+}

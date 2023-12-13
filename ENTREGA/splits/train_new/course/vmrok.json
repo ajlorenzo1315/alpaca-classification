@@ -1,0 +1,10 @@
+{
+    "Title": "CIS 199 UNIX",
+    "Body": "Man Page Search UNIX Hints Emacs The make utility Shell scripts Perl gnuplot Additional topics FYI: Web authoring & html CGI scripts JAVA Python Tcl/Tk Last modified on 11/22/96, 06:27:05 PM Jens Mache jens@cs.uoregon.edu Up to the CIS 199 UNIX Homepage Up to the UO CIS Dept.",
+    "link": [
+        "http://www.cs.uoregon.edu/classes/cis199unix/a.shtml",
+        "http://www.cs.uoregon.edu/classes/cis199unix/course_description.shtml",
+        "http://www.cs.uoregon.edu/classes/cis199unix/schedule.shtml"
+    ],
+    "ground_truth": "course"
+}

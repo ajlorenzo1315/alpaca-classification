@@ -1,0 +1,10 @@
+{
+    "Title": "Automaticly indexed documents",
+    "Body": "Links to home pages are included for every file with the name ~ username /public/html/ username .html in the AFS filesystem.",
+    "link": [
+        "#homepages",
+        "#classes",
+        "http://www.cs.wisc.edu/directories/facstafflist.html"
+    ],
+    "ground_truth": "unknow"
+}

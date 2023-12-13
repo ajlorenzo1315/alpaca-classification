@@ -1,0 +1,10 @@
+{
+    "Title": "Embedded Hardware/Software Co-design Links",
+    "Body": "Date: Tue, 10 Dec 1996 03:38:20 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Tue, 26 Nov 1996 23:13:01 GMT Content-length: 16752 Embedded Hardware/Software Co-design Links Embedded Hardware/Software Co-design Links Organization of this page Conferences/Workshops Codesign Related Groups Internet Embedded Resources EDA Companies Interesting Embedded Systems People in Codesign Real-time Operating Systems and Languages Real-time Departments Protocols Technical Journals/Magazines Hardware/Databooks Conferences/Workshops 9th International Symposium on System Synthesis November 6-8, 1996 EUROPEAN DESIGN & TEST CONFERENCE 1997 Deadline: September 6, 1996 RSP '95: Abstracts 1995 NATO ASI: Hardware/Software Co-design Codesign Related Groups ASP (Queensland) FPGA based, translate C to VHDL Chinook (Washington) Chinook is a hardware-software co-synthesis CAD tool for embedded systems The main topics include the interfacing problem between hardware and software components, scheduling under timing constraints, and partitioning of functionality.",
+    "link": [
+        "http://www.cs.washington.edu/homes/ortega/embedded.html#conferences",
+        "http://www.cs.washington.edu/homes/ortega/embedded.html#groups",
+        "http://www.cs.washington.edu/homes/ortega/embedded.html#internet"
+    ],
+    "ground_truth": "other"
+}

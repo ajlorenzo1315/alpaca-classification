@@ -1,0 +1,10 @@
+{
+    "Title": " 198:314 Home Page ",
+    "Body": "Sections 1 and 2 (Ryder) Lecture: MW5 (2:50-4:10) SEC-204 Recit.",
+    "link": [
+        "mailto:ryder@cs.rutgers.edu",
+        "mailto:haken@cs.rutgers.edu",
+        "http://www.cs.rutgers.edu/~haken/314notes.html"
+    ],
+    "ground_truth": "unknow"
+}

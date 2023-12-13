@@ -1,0 +1,10 @@
+{
+    "Title": "CS UnderGrad Education Brochure At UIUC",
+    "Body": "Date: Tue, 14 Jan 1997 19:57:28 GMT Server: NCSA/1.5.2 Last-modified: Sat, 22 Oct 1994 16:59:54 GMT Content-type: text/html Content-length: 3590 CS UnderGrad Education Brochure At UIUC UnderGraduate Education Information This is the online Undergraduate education brochure of the Computer Science department.",
+    "link": [
+        "http://www.cs.uiuc.edu/CS_INFO_SERVER/DEPT_INFO/CS_PROGRAM_INFO/UGRAD_EDU/ug.brochure.html#general",
+        "http://www.cs.uiuc.edu/CS_INFO_SERVER/DEPT_INFO/CS_PROGRAM_INFO/UGRAD_EDU/ug.brochure.html#admission",
+        "http://www.cs.uiuc.edu/CS_INFO_SERVER/DEPT_INFO/CS_PROGRAM_INFO/UGRAD_EDU/ug.brochure.html#fees"
+    ],
+    "ground_truth": "other"
+}

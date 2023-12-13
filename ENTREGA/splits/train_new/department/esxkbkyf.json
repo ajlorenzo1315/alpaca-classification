@@ -1,0 +1,10 @@
+{
+    "Title": "UBC Computer Science Home Page",
+    "Body": "Since we were the first HTTP server in BC, you may have come here expecting to find the University of British Columbia or the province of British Columbia .",
+    "link": [
+        "http://www.cs.ubc.ca/dept/ubc",
+        "http://www.cs.ubc.ca/dept/bc",
+        "http://www.cs.ubc.ca/inmenu/top/-"
+    ],
+    "ground_truth": "department"
+}

@@ -1,0 +1,6 @@
+{
+    "Title": " Program 1 - Interactive Lines and Curves ",
+    "Body": "Quadratic curves should be specified as a polyline, that is, as a sequence of control points given by the mouse.",
+    "link": [],
+    "ground_truth": "other"
+}

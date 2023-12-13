@@ -1,0 +1,10 @@
+{
+    "Title": "Wan Yik Lee's Research Work",
+    "Body": "The extended theory will be implemented on a physical robot to explore a previously unknown environment, and to create a SSH spatial description of the environment.",
+    "link": [
+        "http://www.cs.utexas.edu/users/wylee/ssh-overview.html",
+        "http://www.cs.utexas.edu/users/wylee/my-phd-committee.html",
+        "http://www.cs.utexas.edu/users/wylee"
+    ],
+    "ground_truth": "other"
+}

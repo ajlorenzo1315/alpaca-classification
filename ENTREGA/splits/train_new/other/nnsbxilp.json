@@ -1,0 +1,10 @@
+{
+    "Title": "Hypertext Webster Interface",
+    "Body": "In particular, prefix/suffix removal to find the root word is neither performed by the Web interface nor the Webster server, so the link for alphabetically doesn't work, since the webster server only has an entry for alphabetic , and it is not smart enough to find the root.",
+    "link": [
+        "http://work.ucsd.edu:5141/cgi-bin/http_webster?alpha*",
+        "http://work.ucsd.edu:5141/cgi-bin/http_webster?alphabetically",
+        "http://work.ucsd.edu:5141/cgi-bin/http_webster?alphabetic"
+    ],
+    "ground_truth": "other"
+}

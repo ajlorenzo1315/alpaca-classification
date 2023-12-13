@@ -1,0 +1,10 @@
+{
+    "Title": " Diego Novillo ",
+    "Body": "As part of my research program, I am involved in the Enterprise project which is part of the Parallel Programming Systems Laboratory.",
+    "link": [
+        "http://www.cs.ualberta.ca/~diego/Gif/diego.gif",
+        "http://www.cs.ualberta.ca/people/grad/aiff/diego.aiff",
+        "mailto:diego@cs.ualberta.ca"
+    ],
+    "ground_truth": "unknow"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": " Christian Shelton's Home Page ",
+    "Body": "Christian is also excited to announce that his Dad is on the web.",
+    "link": [
+        "http://www.stanford.edu/",
+        "http://www-cs.stanford.edu/",
+        "http://web.mit.edu/"
+    ],
+    "ground_truth": "student"
+}

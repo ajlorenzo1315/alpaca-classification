@@ -1,0 +1,10 @@
+{
+    "Title": " Wenyu's Answerbook ",
+    "Body": "Date: Wed, 15 Jan 1997 01:52:56 GMT Server: Apache/1.1.1 Content-type: text/html Content-length: 2159 Last-modified: Fri, 04 Oct 1996 22:02:59 GMT Wenyu's Answerbook Wenyu's Answerbook Why spend $30 for a LaTeX manual, when you can get the same info on-line?",
+    "link": [
+        "http://csugrad.cs.vt.edu/manuals/emacs/emacs_toc.html",
+        "http://crl.nmsu.edu/texi/elisp_toc.html.gz",
+        "http://klft.tn.tudelft.nl:8080/docs/latex/LaTeX.html"
+    ],
+    "ground_truth": "other"
+}

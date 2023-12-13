@@ -1,0 +1,10 @@
+{
+    "Title": "Human-Computer Interaction at Stanford",
+    "Body": "The largest program is the Masters of Science in Computer Science with concentration in HCI.",
+    "link": [
+        "http://www.stanford.edu",
+        "http://www-pcd.stanford.edu/hci/degrees.html",
+        "http://www-pcd.stanford.edu/hci/courses.html"
+    ],
+    "ground_truth": "unknow"
+}

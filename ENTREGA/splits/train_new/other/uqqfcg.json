@@ -1,0 +1,6 @@
+{
+    "Title": "Lecture 5",
+    "Body": "for CURRENT_DAY in DAY'FIRST..DAY'LAST loop ... end loop; ---Slide 7--- Primitive Scalar Types Discrete Types i) Enumeration Types, ii) Character type, iii) Boolean Types, iv) Integer Types Real Types i) Fixed-Point Types, ii) Floating-Point Types Note: Integer and Real types together form the numeric types .",
+    "link": [],
+    "ground_truth": "other"
+}

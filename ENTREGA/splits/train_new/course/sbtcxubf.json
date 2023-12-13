@@ -1,0 +1,10 @@
+{
+    "Title": "CS 426 Home Page",
+    "Body": "Server: Netscape-Commerce/1.12 Date: Wednesday, 20-Nov-96 22:46:34 GMT Last-modified: Friday, 25-Oct-96 19:18:35 GMT Content-length: 3876 Content-type: text/html CS 426 Home Page CS426, 1996 Fall Semester Your image enhancer pictures About the class Professors, TAs, Students Course Information Course Schedule Course material Lecture topics and readings Lecture notes Precept notes Applets used in lecture Homework assignments Keeping in touch send mail to the staff check out the pu.cs.426 newsgroup Getting started Setting up your account for CS426 work Enroll in CS426 Online Other useful links What is this course like in other places?",
+    "link": [
+        "http://www.CS.Princeton.EDU/courses/archive/fall96/cs426/Assignments/1996_Project2_results.html",
+        "http://www.CS.Princeton.EDU/courses/archive/fall96/cs426/personnel.html",
+        "http://www.CS.Princeton.EDU/courses/archive/fall96/cs426/syllabus.html"
+    ],
+    "ground_truth": "course"
+}

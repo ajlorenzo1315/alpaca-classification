@@ -1,0 +1,10 @@
+{
+    "Title": "Lorie M. Liebrock's Home Page",
+    "Body": "(1992), Ph.D. (1994), Rice University Lorie Liebrock's research interests are in using problem topology during compilation.",
+    "link": [
+        "http://cs.indiana.edu/finger/cs.rice.edu/lorie",
+        "http://www.cs.rice.edu/~lorie/resume.ps",
+        "http://www.cs.rice.edu/~lorie/pres.ps"
+    ],
+    "ground_truth": "staff"
+}

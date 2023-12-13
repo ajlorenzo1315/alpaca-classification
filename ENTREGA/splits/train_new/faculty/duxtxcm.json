@@ -1,0 +1,10 @@
+{
+    "Title": "T. Anthony Marsland",
+    "Body": "Press here for the C379 notes.",
+    "link": [
+        "http://www.cs.ualberta.ca/people/faculty/aiff/tony.aiff",
+        "http://web.cs.ualberta.ca/home.html",
+        "http://www.cs.ualberta.ca/~tony//Welcome/Address.html"
+    ],
+    "ground_truth": "faculty"
+}

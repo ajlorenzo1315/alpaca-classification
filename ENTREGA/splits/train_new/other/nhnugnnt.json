@@ -1,0 +1,10 @@
+{
+    "Title": " Scott Smith's Research Interests ",
+    "Body": "The translation was proven correct by defining a formal operational notion of equivalence, and incrementally translating the specification to the circuit in small steps that preserve equivalence.",
+    "link": [
+        "ftp://ftp.cs.jhu.edu/pub/scott/sptio.ps.Z",
+        "ftp://ftp.cs.jhu.edu/pub/scott/ooinfer.ps.Z",
+        "http://www.cs.jhu.edu/hog/"
+    ],
+    "ground_truth": "other"
+}

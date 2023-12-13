@@ -1,0 +1,10 @@
+{
+    "Title": "Suggestions for Projects",
+    "Body": "This could easily be implemented in Matlab or Maple and it would be interesting to see just what kinds of curves one can build with this.",
+    "link": [
+        "http://www.cs.caltech.edu/~ps/papers/jorg/93ffss.ps",
+        "http://www.cs.caltech.edu/~ps/papers/jorg/94nocut.ps",
+        "http://www.cs.caltech.edu/~ps/papers/kobbelt/four.ps.Z"
+    ],
+    "ground_truth": "other"
+}

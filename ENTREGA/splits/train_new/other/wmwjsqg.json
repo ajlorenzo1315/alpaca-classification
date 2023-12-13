@@ -1,0 +1,10 @@
+{
+    "Title": "Data Explorer",
+    "Body": "for use with the IBM Visualization Data Explorer (Version 2.1) on workstations, especially for the earth and space sciences.",
+    "link": [
+        "http://www.tc.cornell.edu:80/ctcIntro.html",
+        "http://www-ibm.almaden.ibm.com/dx/",
+        "http://www.tc.cornell.edu:80/Visualization/Education/cs418"
+    ],
+    "ground_truth": "other"
+}

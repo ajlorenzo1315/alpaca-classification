@@ -1,0 +1,10 @@
+{
+    "Title": "CSE 457 Calendar",
+    "Body": "Week 6: Mon, Nov 4: Surfaces, cont.",
+    "link": [
+        "../../projects/handouts/mandelbrot/",
+        "project1/",
+        "project2/"
+    ],
+    "ground_truth": "other"
+}

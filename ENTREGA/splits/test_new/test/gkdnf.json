@@ -1,0 +1,10 @@
+{
+    "Title": " UNIMEDIA ",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Sunday, 24-Nov-96 23:10:51 GMT Content-Type: text/html Content-Length: 2062 Last-Modified: Tuesday, 16-Jul-96 15:13:43 GMT UNIMEDIA Aktivitäten zum Einsatz multimedialer Techniken in der Lehre an der TH Darmstadt FB Informatik: Software-Engineering\" / Prof. Dr. Wolfgang Henhapl FB Informatik: \"Datenbanken I\" / Prof. Dr. Alejandro Buchmann FB Maschinenbau: \"Praktikum zum Arbeiten mit parametrischen 3D-CAD-Systemen\" / Prof. Dr. Rainer Anderl Aktivitäten zum Einsatz multimedialer Techniken in der Lehre an anderen Universitäten UNI-Hamburg: Medizin-MPEG-Videos Uni-GH Paderborn: Hypermedia für die Ausbildung DFN-Projekte: Verteiltes Lehren und Lernen WWW '94 Conference Workshop: Teaching & Learning with the Web Uni-Münster: Leistungs- und Kostenrechnung Online HIS Hannover GmbH: Dokumentation medienunterstützten Lehrens und Lernens an Hochschulen der HIS Hochschul-Informations-System GmbH Symposion der Gesellschaft für Informatik: Hypermedia in der Aus- und Weiterbildung vom 9. bis zum 11.",
+    "link": [
+        "http://www.informatik.th-darmstadt.de/PI/SE95-96/",
+        "http://www.bib.informatik.th-darmstadt.de/TTT",
+        "http://www.iim.maschinenbau.th-darmstadt.de/cadp/CAD_html/HTMLs/inhalt.html"
+    ],
+    "ground_truth": "unknow"
+}

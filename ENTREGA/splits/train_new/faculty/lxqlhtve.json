@@ -1,0 +1,10 @@
+{
+    "Title": "Professor Danny Krizanc",
+    "Body": "Date: Mon, 25 Nov 1996 20:10:30 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Thu, 20 Jun 1996 15:42:36 GMT Content-length: 2005 Professor Danny Krizanc [ Index ] [ Search ] [ Home ] [ Previous ] Dr. Danny Krizanc email: krizanc@scs.carleton.ca Associate Professor Dr. Krizanc received a B.Sc.",
+    "link": [
+        "http://www.scs.carleton.ca/../../../webindex.html",
+        "http://www.scs.carleton.ca/Architext/AT-scsquery.html?",
+        "http://www.scs.carleton.ca/../../../index.html"
+    ],
+    "ground_truth": "faculty"
+}

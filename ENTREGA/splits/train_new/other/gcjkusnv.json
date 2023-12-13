@@ -1,0 +1,10 @@
+{
+    "Title": "Vipin's Guestbook",
+    "Body": "I think it's a good idea to elaborate a bit on your intersts.",
+    "link": [
+        "mailto:vipin@cs.utexas.edu",
+        "mailto:sandeepm@inf.com",
+        "mailto:sonali@arbornet.org"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "CODE Publications",
+    "Body": "Proceedings of the 1993 International Conference on Parallel Processing , IEEE Computer Society, August 1993.",
+    "link": [
+        "http://www.cs.utexas.edu/users/code",
+        "http://www.cs.utexas.edu/users/ajohn/PDPTA96.ps.Z",
+        "http://www.cs.utexas.edu/users/ajohn"
+    ],
+    "ground_truth": "other"
+}

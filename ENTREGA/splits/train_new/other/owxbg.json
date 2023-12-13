@@ -1,0 +1,6 @@
+{
+    "Title": "Q3.ans.html",
+    "Body": "ANSWER move a, 0                # assume \"101101\" is not in wd move pattern, 0x0000002d # \"101101\" as a 6 bit pattern move mask, 0x0000003f    # used to get 6 bits of wd move count, 0            # do at most 32-6+1=27 tests loop:   and  x, wd, mask         # get 6 bits of wd bne  pattern, x, cont move a, 1                # \"101101\" is in wd b    end                 # might as well quit cont:   add  count, count, 1 sll  mask, mask, 1       # \"ror wd, wd, 1\" is no good sll  pattern, pattern, 1 bne  count, 27, loop end:    put  a (1, ver 2) (10 points) Write a SAL code segment that prints a 1 if variable wd does not contain the bit sequence \"1001100\" and prints a 0 if it does.",
+    "link": [],
+    "ground_truth": "other"
+}

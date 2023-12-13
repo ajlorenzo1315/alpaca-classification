@@ -1,0 +1,10 @@
+{
+    "Title": "UT Austin - Search University Web",
+    "Body": "Date: Mon, 06 Jan 1997 21:42:28 GMT Server: NCSA/1.5.2 Last-modified: Mon, 16 Dec 1996 22:25:11 GMT Content-type: text/html Content-length: 2284 UT Austin - Search University Web Search University Web Use this form to search all Web servers at UT Austin.",
+    "link": [
+        "http://www.utexas.edu/search/ut/stats.html",
+        "http://www.utexas.edu/Harvest/brokers/queryhelp.html",
+        "http://www.utexas.edu/search/"
+    ],
+    "ground_truth": "other"
+}

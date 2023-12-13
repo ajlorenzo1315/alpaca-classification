@@ -1,0 +1,10 @@
+{
+    "Title": " Tim Harrison's Work Page ",
+    "Body": "I'm a full-time Research Assistant for the DISCUS (DIStributed Computing at the University of Saskatchewan) Research Group in the Department of Computer Science , at the University of Saskatchewan .",
+    "link": [
+        "http://www.cs.usask.ca/projects/discus/discus.html",
+        "http://www.cs.usask.ca",
+        "http://www.usask.ca"
+    ],
+    "ground_truth": "unknow"
+}

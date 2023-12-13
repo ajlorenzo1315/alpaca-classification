@@ -1,0 +1,10 @@
+{
+    "Title": "David Zuckerman",
+    "Body": "Randomness is Linear in Space (JCSS, 1996) (Preliminary version called \"More Deterministic Simulation in Logspace\" from STOC 93) Simulating BPP Using a General Weak Random Source (Algorithmica,1996) (Preliminary version in FOCS 91) Tight Analyses of Two Local Load Balancing Algorithms (STOC 95) Derandomized Graph Products (Computational Complexity, 1995) Computing With Very Weak Random Sources (FOCS 94, revised 4/6/96) Expanders that Beat the Eigenvalue Bound: Explicit Construction and Applications (Combinatorica, to appear.",
+    "link": [
+        "http://net.cs.utexas.edu/Welcome.html",
+        "http://www.utexas.edu/",
+        "http://www.quadralay.com/www/Austin/Austin.html"
+    ],
+    "ground_truth": "unknow"
+}

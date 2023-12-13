@@ -1,0 +1,10 @@
+{
+    "Title": " CPC: CENTER FOR PARALLEL COMPUTING",
+    "Body": "Date: Wed, 20 Nov 1996 20:02:14 GMT Server: Apache/1.1b3 Content-type: text/html CPC: CENTER FOR PARALLEL COMPUTING CPC: CENTER FOR PARALLEL COMPUTING Director: Pen Chen Yew MEMBERS: David Lilja Research interests: Ahmed Sameh Research interests: Vipin Kumar Research interests: Yousef Saad Research interests: Sheng-Hua Teng Research interests: Zi-Yuan Li Research interests: PUBLICATIONS: here for a list of up-coming seminars and other activities related to High-Performance computing.",
+    "link": [
+        "http://www.cs.umn.edu/profs/yew.html",
+        "http://www.ee.umn.edu/faculty/lilja.html",
+        "http://www.cs.umn.edu/profs/sameh.html"
+    ],
+    "ground_truth": "unknow"
+}

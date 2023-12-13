@@ -1,0 +1,10 @@
+{
+    "Title": "RPL Index",
+    "Body": "Date: Thu, 21 Nov 1996 21:33:19 GMT Server: NCSA/1.5.2 Content-type: text/html RPL Index R. P. Loui Index under: Ronald Loui, R. P. Loui, R. Prescott Loui, Ronald Prescott Loui, R. Loui, Ronald P. Loui Links Technical Material and Vita Personal Material AI Faculty Activities Courses Code Current Student Projects 1988 1994 title : Assoc.",
+    "link": [
+        "http://www.cs.wustl.edu/~loui/links.html",
+        "http://www.cs.wustl.edu/~loui/index.t.html",
+        "http://www.cs.wustl.edu/~loui/index.p.html"
+    ],
+    "ground_truth": "faculty"
+}

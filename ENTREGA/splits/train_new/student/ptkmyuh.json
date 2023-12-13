@@ -1,0 +1,10 @@
+{
+    "Title": " Jianhua Gong's Home Page ",
+    "Body": "I got my BS from Department of Computer Science at Nanjing Univesity in China in 1993.",
+    "link": [
+        "http://www.cs.rutgers.edu",
+        "http://www.rutgers.edu",
+        "http://newton.fiu.\nedu:8000/nanda.html"
+    ],
+    "ground_truth": "student"
+}

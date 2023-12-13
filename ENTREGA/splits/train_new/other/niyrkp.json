@@ -1,0 +1,10 @@
+{
+    "Title": "The NEITHER Theory Revision System ",
+    "Body": "ASSERT (Acquiring Stereotypical Student Errors using Refinement of Theories) is an intelligent tutoring system which inputs a knowledge base describing a domain and a set of student errors on that domain and outputs a tutoring program tailored to fit student needs.",
+    "link": [
+        "ftp://ftp.cs.utexas.edu/pub/mooney/neither",
+        "http://www.cs.utexas.edu/users/ml/theory-rev.html",
+        "http://www.cs.utexas.edu/users/estlin/"
+    ],
+    "ground_truth": "other"
+}

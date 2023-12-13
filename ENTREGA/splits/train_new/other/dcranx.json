@@ -1,0 +1,10 @@
+{
+    "Title": "ZPL Details",
+    "Body": "Date: Tue, 10 Dec 1996 03:29:04 GMT Server: NCSA/1.4.2 Content-type: text/html ZPL Details ZPL Details The following provide a more detailed picture of ZPL.",
+    "link": [
+        "http://www.cs.washington.edu/research/projects/zpl/web-compiler/samples",
+        "http://www.cs.washington.edu/research/projects/zpl/blurbs/about.blurbs.html",
+        "http://www.cs.washington.edu/research/projects/zpl/status/info.html"
+    ],
+    "ground_truth": "other"
+}

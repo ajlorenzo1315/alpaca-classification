@@ -1,0 +1,10 @@
+{
+    "Title": "\nCPSC 420/620 - Analysis of Algorithms - Home Page\n",
+    "Body": "An Introduction to the Design and Analysis of Algorithms .",
+    "link": [
+        "http://www.eecs.tulane.edu:80/www/Buckles.Bill",
+        "http://www.eecs.tulane.edu/",
+        "mailto:buckles@eecs.tulane.edu"
+    ],
+    "ground_truth": "course"
+}

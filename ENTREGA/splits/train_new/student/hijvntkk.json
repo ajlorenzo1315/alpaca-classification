@@ -1,0 +1,10 @@
+{
+    "Title": "Gregovsky's Page",
+    "Body": "Date: Tue, 26 Nov 1996 16:26:25 GMT Server: Apache/1.0.5 Content-type: text/html Gregovsky's Page Hello CyberSurfer !",
+    "link": [
+        "http://www.csc.uvic.ca/home/gkacy/info.html",
+        "http://www.csc.uvic.ca/home/gkacy/etc.html",
+        "http://www.csc.uvic.ca/home/gkacy/construc.html"
+    ],
+    "ground_truth": "student"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Personal Folder",
+    "Body": "Programming Local Information @ Yale: The complete Yale University Home Page , or get the YALEINFO Gopher Computer Science Dept.",
+    "link": [
+        "http://www.cs.yale.edu/HTML/YALE/FrontDoor.html",
+        "http://www.ctan.yale.edu",
+        "http://www.cs.ucsd.edu/users/tsiout/Disclaimer"
+    ],
+    "ground_truth": "student"
+}

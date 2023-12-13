@@ -1,0 +1,10 @@
+{
+    "Title": "Dan Frost's Home Page",
+    "Body": "Date: Thu, 21 Nov 1996 22:53:18 GMT Server: Apache/1.0.5 Content-type: text/html Content-length: 1611 Last-modified: Tue, 19 Nov 1996 20:07:46 GMT Dan Frost's Home Page Dan Frost email address: dfrost@ics.uci.edu areas of interest: constraint satisfaction problems knowledge-based software engineering knowledge representation advisor: Rina Dechter office: CS/E 332 office phone: (714) 824-1084 This Fall quarter I'm an instructor at UCI, teaching ICS 180B, Object-Oriented Programming .",
+    "link": [
+        "http://www.ics.uci.edu/~dechter",
+        "http://www.ics.uci.edu/~dfrost/180/",
+        "http://www.ics.uci.edu/~dfrost/cv.html"
+    ],
+    "ground_truth": "unknow"
+}

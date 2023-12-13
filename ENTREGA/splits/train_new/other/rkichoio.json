@@ -1,0 +1,10 @@
+{
+    "Title": "First Lisp Assignment",
+    "Body": "Open a buffer for a new Lisp code file called program.lisp to hold the code for the first asssignment.",
+    "link": [
+        "http://www.cs.washington.edu/education/courses/341/spring96/assignments/psl0/node1.html",
+        "http://www.cs.washington.edu/education/courses/341/spring96/assignments/psl0/node1.html",
+        "http://www.cs.washington.edu/education/courses/341/spring96/assignments/psl0/node1.html#secmscc"
+    ],
+    "ground_truth": "other"
+}

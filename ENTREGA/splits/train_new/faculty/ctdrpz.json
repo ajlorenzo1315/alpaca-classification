@@ -1,0 +1,10 @@
+{
+    "Title": "Donald P. Greenberg\n",
+    "Body": "Most of the research is conducted within the facilities of the Program of Computer Graphics, which is a member of the new National Science Foundation Science and Technology Center for Computer Graphics and Scientific Visualization.",
+    "link": [
+        "http://www.cs.cornell.edu/Info/People/greenberg/greenberg.gif",
+        "http://www.cs.cornell.edu/Info/Department/Annual95/Beginning/annual-rpt95-home.html",
+        "http://www.cs.cornell.edu/"
+    ],
+    "ground_truth": "faculty"
+}

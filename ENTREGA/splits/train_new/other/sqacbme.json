@@ -1,0 +1,10 @@
+{
+    "Title": "Manoj Plakal's Bookmarks",
+    "Body": "http://www.eleves.ens.fr:8080/home/espel/sirc.html Java-Lex: A Lexical Analyzer Generator for Java Java(tm) Based Constructor of Useful Parsers (CUP) Home Page Cafe Au Lait Various links The Compiler Connection The Dataflow Web Page NetMind Free Services Home Page Background Textures!",
+    "link": [
+        "http://www.wisc.edu/",
+        "http://www.wisc.edu/EASI",
+        "http://www.library.wisc.edu/"
+    ],
+    "ground_truth": "other"
+}

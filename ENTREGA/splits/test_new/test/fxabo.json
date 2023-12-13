@@ -1,0 +1,10 @@
+{
+    "Title": "Speedup Learning",
+    "Body": "SCOPE integrates explanation-based and inductive learning techniques to acquire control rules for a partial-order planner.",
+    "link": [
+        "file://ftp.cs.utexas.edu/pub/mooney/papers/scope-msl-96.ps.Z",
+        "file://ftp.cs.utexas.edu/pub/mooney/papers/scope-aaai-96.ps.Z",
+        "file://ftp.cs.utexas.edu/pub/mooney/papers/scope-proposal-96.ps.Z"
+    ],
+    "ground_truth": "unknow"
+}

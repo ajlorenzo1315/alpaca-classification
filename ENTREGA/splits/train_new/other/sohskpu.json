@@ -1,0 +1,10 @@
+{
+    "Title": "Multi-Procedure Program Integration ",
+    "Body": "A better solution is the use of a \\fIprogram integration tool\\fP\\(ema tool that takes as input several variants of a @base@ program, automatically determines the changes in each variant with respect to the @base@ program, and incorporates these changes, along with the portion of the @base@ program preserved in all the variants, into a merged program.",
+    "link": [
+        "http://www.cs.wisc.edu/Dienst/Repository/2.0/Body/ncstrl.uwmadison%2fCS-TR-91-1038/html",
+        "http://www.cs.wisc.edu/Dienst/UI/2.0/Search",
+        "mailto: www@cs.wisc.edu"
+    ],
+    "ground_truth": "other"
+}

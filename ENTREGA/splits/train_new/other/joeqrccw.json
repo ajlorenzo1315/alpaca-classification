@@ -1,0 +1,9 @@
+{
+    "Title": "Multi-Garnet: Integrating Multi-Way Constraints with Garnet",
+    "Body": "Chapter 3 describes a large Multi-Garnet example: a scatterplot displaying a set of points.",
+    "link": [
+        "ftp://cs.washington.edu/tr/1992/07/UW-CSE-92-07-01.PS.Z",
+        "http://www.cs.washington.edu/research/projects/weird/www/index.html"
+    ],
+    "ground_truth": "other"
+}

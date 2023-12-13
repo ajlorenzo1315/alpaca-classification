@@ -1,0 +1,10 @@
+{
+    "Title": "Robbert van Renesse",
+    "Body": "The Horus system .",
+    "link": [
+        "http://www.cs.cornell.edu/Info/People/rvr/rvr.gif",
+        "mailto:rvr@cs.cornell.edu",
+        "http://www.cs.cornell.edu/"
+    ],
+    "ground_truth": "staff"
+}

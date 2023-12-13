@@ -1,0 +1,10 @@
+{
+    "Title": " Home page of George M. Georgiou",
+    "Body": "Winner of the ***1996 CSUSB Outstanding Thesis Award*** Also, accepted to be published as a book by Quorum Books.",
+    "link": [
+        "http://www.csci.csusb.edu/",
+        "mailto:georgiou@silicon.csci.csusb.edu",
+        "http://www.csci.csusb.edu/georgiou"
+    ],
+    "ground_truth": "faculty"
+}

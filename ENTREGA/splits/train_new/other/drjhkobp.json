@@ -1,0 +1,10 @@
+{
+    "Title": "CS310 Lab Information ",
+    "Body": "Date: Tue, 05 Nov 1996 20:49:35 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Thu, 31 Oct 1996 16:39:37 GMT Content-length: 1599 CS310 Lab Information Lab Handouts: Lab #1: An Introduction to the Solaris Workstations Lab #2: An Introduction to Xspread Lab #3: An Introduction to the NAG Library Lab #4: Maple Tutorial I Lab #5: Maple Tutorial II Lab #6: Maple Tutorial III Lab #7: Matlab Tutorial I Lab #8: Matlab Tutorial II Lab #9: Solving ODE's with Matlab There are 9 discussion sections, or labs, that are taught by the Teaching Assistants.",
+    "link": [
+        "http://www.cs.wisc.edu/~hog/cs310/lab01.ps",
+        "http://www.cs.wisc.edu/~hog/cs310/lab02.ps",
+        "http://www.cs.wisc.edu/~hog/cs310/lab03.ps"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": " John H. Hartman's Home Page ",
+    "Body": "I received my Ph.D. in Computer Science from the University of California at Berkeley in 1994, my M.S.",
+    "link": [
+        "mailto:jhh@cs.arizona.edu",
+        "http://www.cs.arizona.edu",
+        "http://www.arizona.edu"
+    ],
+    "ground_truth": "faculty"
+}

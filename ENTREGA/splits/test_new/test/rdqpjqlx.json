@@ -1,0 +1,10 @@
+{
+    "Title": " Parallel Programming Laboratory ",
+    "Body": "The broad objective of the parallel programming laboratory is the development of enabling technologies for parallel computing.",
+    "link": [
+        "http://charm.cs.uiuc.edu/convrel.html",
+        "http://charm.cs.uiuc.edu/version2/rsrch.html",
+        "http://charm.cs.uiuc.edu/version2/resmap.html"
+    ],
+    "ground_truth": "unknow"
+}

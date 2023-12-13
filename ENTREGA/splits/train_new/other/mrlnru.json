@@ -1,0 +1,10 @@
+{
+    "Title": " QMG project ",
+    "Body": "This documentation is written by Stephen A. Vavasis and is copyright (c) 1995 by Cornell University.",
+    "link": [
+        "example.html",
+        "installation.html",
+        "geom.html"
+    ],
+    "ground_truth": "other"
+}

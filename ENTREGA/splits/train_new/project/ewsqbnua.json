@@ -1,0 +1,9 @@
+{
+    "Title": null,
+    "Body": "Date: Tue, 26 Nov 1996 00:58:05 GMT Server: NCSA/1.5.1 Last-modified: Wed, 11 Sep 1996 17:02:09 GMT Content-type: text/html Content-length: 690 Sound Probabilistic Reasoning Project (SPR) Primary Investigator: Eric Neufeld .",
+    "link": [
+        "http://www.cs.usask.ca/homepages/faculty/eric/index.html",
+        "http://www.cs.usask.ca/homepages/faculty/kusalik/Kusalik.html"
+    ],
+    "ground_truth": "project"
+}

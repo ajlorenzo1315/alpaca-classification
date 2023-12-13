@@ -1,0 +1,10 @@
+{
+    "Title": " Professor Peter B. Danzig, USC Computer Science Department ",
+    "Body": "He received an NSF NYI award in 1994 and USC Innovative Teaching Awards both in 1992-3 for creating an undergraduate class in simulation techniques and in 1993-4 for updating his laboratory class in computer networks and distributed systems.",
+    "link": [
+        "http://netweb.usc.edu/danzig/.pgp/pgp.asc",
+        "gopher://stis.nsf.gov:70/7waissrc%3a/.waissrc/nsf-awards.src?a9457518",
+        "http://harvest.cs.colorado.edu"
+    ],
+    "ground_truth": "unknow"
+}

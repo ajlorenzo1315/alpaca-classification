@@ -1,0 +1,10 @@
+{
+    "Title": "Memoria",
+    "Body": "S. Carr and Q. Wu, \"The Performance of Scalar Replacement on the HP 715/50\" , Michigan Technological University, Department of Computer Science, Technical Report TR95-02.",
+    "link": [
+        "http://www.cs.mtu.edu/~carr",
+        "http://www.cs.mtu.edu/faculty/Sweany.html",
+        "http://www.cs.mtu.edu/grads/Ding.html"
+    ],
+    "ground_truth": "project"
+}

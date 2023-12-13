@@ -1,0 +1,10 @@
+{
+    "Title": "CS611:  Homework Assignments",
+    "Body": "The solution (dvi) to the proofs is online (also in PostScript ).",
+    "link": [
+        "http://www.cs.cornell.edu/Info/Courses/Current/CS611/hw0/writeup.dvi",
+        "http://www.cs.cornell.edu/Info/Courses/Current/CS611/hw0/hw1defs.sml",
+        "http://www.cs.cornell.edu/Info/Courses/Current/CS611/hw0/examples.sml"
+    ],
+    "ground_truth": "unknow"
+}

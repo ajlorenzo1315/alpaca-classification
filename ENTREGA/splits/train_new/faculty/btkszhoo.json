@@ -1,0 +1,10 @@
+{
+    "Title": "Muhammad Chaudhary's Home Page",
+    "Body": "Server: Netscape-Communications/1.1 Date: Monday, 25-Nov-96 20:39:53 GMT Content-type: text/html Muhammad Chaudhary's Home Page *****                  #####       #####    ####        #### ****** ***                 #####     #####      ###        ### ************ ***              ### ### ### ###      ###        ### *** ******** *****             ###  ## ##  ###      ###        ### ********************            ###   ###   ###      ####       ### **  ** * \\||/  *** ***           ###         ###       ############# ||                    #####       #####        ######### ## -----------------------------     ====================================== ||                  Computer Science Department ~~ ~~ ~  /||\\  ~~~ ~~~        Millersville  University ~~~~~~~~~~~~~~~~~~~~~ ~~~ ~~~~~~~~~ ~~~~~         Dr. Muhammad H Chaudhary ~~~~~~~~~~~~~ ~~~ ~~~~~~~~~ ~~~~            E-mail: chaudhar@cs.millersv.edu ~~~~~~~~~ ~~~~                 Homepage: http://cs.millersv.edu/~chaudhar/ Programming Contest Information 30 randomly generated colors with their numbers You may get new colors every time you click!",
+    "link": [
+        "http://cs.millersv.edu/~chaudhar/contest/contest.html",
+        "http://cs.millersv.edu/~chaudhar/colors.cgi",
+        "http://cs.millersv.edu/~chaudhar/cs161/courseinfo/cs161.html"
+    ],
+    "ground_truth": "faculty"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": " University of Maine Department of Computer Science",
+    "Body": "Undergraduate Students Graduate Students Faculty and Staff ACM Student Chapter Officers UMaine ACM Alumni The Computer Science Department's FTP Site Course Information --- Information about Computer Science Courses Degree Information -- Requirements for Computer Science degrees Undergraduate degrees and requirements.",
+    "link": [
+        "http://java.sun.com/tutorial",
+        "http://www.umcs.maine.edu/~www-adm/cs_dept/whos_here/people.html",
+        "http://www.umcs.maine.edu/~www-adm/cs_dept/whos_here/undergrads.html"
+    ],
+    "ground_truth": "department"
+}

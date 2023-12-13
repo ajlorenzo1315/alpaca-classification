@@ -1,0 +1,10 @@
+{
+    "Title": "Bill Rounds's Homepage ",
+    "Body": "Date: Mon, 25 Nov 1996 23:10:21 GMT Server: NCSA/1.5.1 Last-modified: Thu, 07 Mar 1996 16:06:25 GMT Content-type: text/html Content-length: 2566 Bill Rounds's Homepage Note: page under construction.. Bill Rounds :: Professor of Computer Science at the University of Michigan , Department of Electrical Engineering and Computer Science , College of Engineering ,  a member of the Artificial Intelligence Laboratory , and the theory group.",
+    "link": [
+        "http://www.umich.edu/",
+        "http://www.eecs.umich.edu/",
+        "http://www.engin.umich.edu/college/"
+    ],
+    "ground_truth": "faculty"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "CSE 521, Project",
+    "Body": "The CSE 521 course project is to implement algorithms for the Traveling Tourist Problem, and test them out on various data sets.",
+    "link": [
+        "http://www.cs.washington.edu/education/courses/521/winter96/project/fastest.html",
+        "http://www.cs.washington.edu/education/courses/521/winter96/project/challenge.html",
+        "http://www.cs.washington.edu/education/courses/521/winter96/project/lower.html"
+    ],
+    "ground_truth": "unknow"
+}

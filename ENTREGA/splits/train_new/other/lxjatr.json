@@ -1,0 +1,10 @@
+{
+    "Title": "CS367 Exams",
+    "Body": "It is often easier and more motivating to work with others when studying for an exam.",
+    "link": [
+        "#format",
+        "#tips",
+        "#exam1"
+    ],
+    "ground_truth": "other"
+}

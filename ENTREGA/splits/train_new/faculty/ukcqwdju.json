@@ -1,0 +1,10 @@
+{
+    "Title": "Claire Cardie",
+    "Body": "Proceedings of the Fourteenth Annual Conference of the Cognitive Science Society , 743-748, Bloomington, IN, Lawrence Erlbaum Associates, and Working Notes of the AAAI Workshop on Constraining Learning with Prior Knowledge, 11-18, San Jose, CA, 1992.",
+    "link": [
+        "http://www.cs.cornell.edu/Info/People/cardie/cardie.gif",
+        "mailto:cardie@cs.cornell.edu",
+        "#1"
+    ],
+    "ground_truth": "faculty"
+}

@@ -1,0 +1,9 @@
+{
+    "Title": " VIS-AD: Data Visualization based on Lattices ",
+    "Body": "We can show that functions D: US --> VV satisfying the expressiveness conditions are just the class of functions defined by mappings from the scalars used for primitive variables in data objects to the display scalars that specify graphics primitives of voxels.",
+    "link": [
+        "file://iris.ssec.wisc.edu/pub/www/visad.html",
+        "file://iris.ssec.wisc.edu/pub/visad/README"
+    ],
+    "ground_truth": "project"
+}

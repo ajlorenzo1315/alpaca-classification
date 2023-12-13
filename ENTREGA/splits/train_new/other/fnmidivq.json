@@ -1,0 +1,10 @@
+{
+    "Title": "Jeffrey Dean's Bookmarks",
+    "Body": "Date: Tue, 10 Dec 1996 23:01:26 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Fri, 21 Jun 1996 18:28:00 GMT Content-length: 46841 Jeffrey Dean's Bookmarks Jeffrey Dean's Bookmarks UW CSE UW CS&E Graduate Students Programming Language Research What's New on the Language Research Pages?",
+    "link": [
+        "http://www.cs.washington.edu/",
+        "http://www.cs.washington.edu:80/people/grads/",
+        "http://www.cs.cmu.edu/~mleone/language-research.html"
+    ],
+    "ground_truth": "other"
+}

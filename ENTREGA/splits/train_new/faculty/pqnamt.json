@@ -1,0 +1,10 @@
+{
+    "Title": "Michael R. Brent",
+    "Body": "Contents Research Summary Preprints and Manuscripts Selected Publications Postdoctoral Position Available Courses Cognitive AI I: Reasoning Machine Learning How to contact me Research Summary My research focuses on developing and testing theories of how people acquire and process language.",
+    "link": [
+        "http://www.cog.jhu.edu/index.html",
+        "http://www.cs.jhu.edu/",
+        "http://www.ai.mit.edu/"
+    ],
+    "ground_truth": "faculty"
+}

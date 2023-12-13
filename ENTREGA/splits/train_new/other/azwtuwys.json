@@ -1,0 +1,10 @@
+{
+    "Title": "Jason Hickey's Papers at Cornell",
+    "Body": "In the process we expand the tools of data abstraction to include reusability and namespace organization, providing an environment that can be used for defining objects within a domain, for organizing domains within a type theory, and for organizing theories within a system.",
+    "link": [
+        "papers/otype_sem.ps",
+        "nuprl/otype_sem/Welcome.html",
+        "papers/fool3.ps"
+    ],
+    "ground_truth": "other"
+}

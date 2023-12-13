@@ -1,0 +1,10 @@
+{
+    "Title": "CPS 130 Administrative Information",
+    "Body": "Details the acceptable use of Michigan State University's Information Systems.",
+    "link": [
+        "http://www.mls.cl.msu.edu/microlab/",
+        "http://mlmaster.cl.msu.edu/app2lab.htm",
+        "http://mlmaster.cl.msu.edu/app2lab.htm"
+    ],
+    "ground_truth": "other"
+}

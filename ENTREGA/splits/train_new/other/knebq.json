@@ -1,0 +1,10 @@
+{
+    "Title": "Nikos' Research Page",
+    "Body": "More specifically I am looking at Approximating a matrix with the Kronecker product of a pair of matrices.",
+    "link": [
+        "/Info/Department/Annual94/Faculty/Van_Loan.html",
+        "http://www-groups.dcs.st-and.ac.uk/~history/Mathematicians/Kronecker.html",
+        "fft.html"
+    ],
+    "ground_truth": "other"
+}

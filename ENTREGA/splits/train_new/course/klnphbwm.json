@@ -1,0 +1,10 @@
+{
+    "Title": "\nCS304P(Porter) Homepage\n",
+    "Body": "However, notes will be posted on doors and the office and there will be someone in the office (PAI 3.06) to inform you.",
+    "link": [
+        "http://www.cs.utexas.edu/users/porter/cs304p.html",
+        "http://www.cs.utexas.edu/users/dwip/cs304p/fin_wk_off_hrs.html",
+        "http://www.cs.utexas.edu/users/dwip/cs304p/fin_rev_addendum.html"
+    ],
+    "ground_truth": "course"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Bruce W. Porter",
+    "Body": "1-2), pp.",
+    "link": [
+        "http://www.cs.utexas.edu/users/mfkb/index.html",
+        "http://www.cs.utexas.edu/users/mfkb/papers/rickel-94.abs",
+        "http://www.cs.utexas.edu/users/mfkb/papers/rickel-94.ps"
+    ],
+    "ground_truth": "faculty"
+}

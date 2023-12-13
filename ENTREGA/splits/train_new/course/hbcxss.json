@@ -1,0 +1,10 @@
+{
+    "Title": "CS412 - Introduction to Numerical Methods",
+    "Body": "NOTE the CHANGED DUE DATE as well as the slightly changed points for problems 1 and 4. diary of 29 oct class; additional material on residual and error, condition # (29oct) changes on 04nov: Rick Carl's office hour this R is 11-12. list of errata for the text .",
+    "link": [
+        "http://www.cs.wisc.edu/~deboor/412/smile.",
+        "http://www.cs.wisc.edu/~deboor/412/home5.ps",
+        "http://www.cs.wisc.edu/~deboor/412/sessions/oct29."
+    ],
+    "ground_truth": "course"
+}

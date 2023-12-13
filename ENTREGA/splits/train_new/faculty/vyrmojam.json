@@ -1,0 +1,10 @@
+{
+    "Title": "Mikhail Auguston's home page",
+    "Body": "Coauthors: Subhankar Banerjee, Manish Mamnani, Ghulam Nabi, Juris Reinfelds, Ugis Sarkans, Ivan Strnad \"Using Assertions in Declarative and Operational Models for Automated Debugging\", Journal of   Systems and Software, Vol 25(3):pp.223-232, June 1994, Coauthors: Peter Fritzson, Nahid Shahmehri \"A Language for Debugging Automation\", in Proceedings of 6th International Conference on Software Engineering and Knowledge Engineering, SEKE'94, Jurmala, June 22-24, 1994, pp.108-115 (also as a Technical Report NMSU-CSTR-9404, March 1994 ) \"The Programming Language RIGAL, a Tool for Compiler Writing\", in Proceedings of Nordic Workshop on Programming Environment Research, Lund, June 1-3, 1994, pp.167-176, Coauthor: Vadim Engelson \"A Survey of Automated Debugging\", Technical Report NMSU-CSTR-9408, May 1994, Coauthor: H.Gholoom \"A Visual Miranda Machine\", in Proceedings of the 5th International Conference on Software Engineering Education, Dunedin, New Zealand, November 21-23, 1994, IEEE Computer Society Press, pp.198-203 Coauthor: J. Reinfelds \"An Attribute Grammar for Framemaker Internal Document Representation\", Technical Report NMSU-CSTR-9320, December 1993, Coauthors: R.Thota, M.Mamnani, J.Reinfelds PARFORMAN - an Assertion Language for Specifying Behavior when Debugging Parallel Applications.",
+    "link": [
+        "http://www.mii.lu.lv/LU/lu.html",
+        "file://localhost/home/sa1/mikau/public_html/mail.html",
+        "http://www.cs.nmsu.edu/ "
+    ],
+    "ground_truth": "faculty"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "CS838 Java!",
+    "Body": "Sun has a collection at: http://java.sun.com/java.sun.com/applets/index.html (that's not a typo!).",
+    "link": [
+        "http://www.cs.wisc.edu/~cs838-1",
+        "http://www.cs.wisc.edu/~markhill",
+        "http://www.cs.wisc.edu/~larus"
+    ],
+    "ground_truth": "course"
+}

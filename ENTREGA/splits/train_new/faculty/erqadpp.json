@@ -1,0 +1,10 @@
+{
+    "Title": "Howard Elman",
+    "Body": "Recent Papers: Howard Elman and David Silvester, UMCP-CSD:CS-TR-3283, Fast Nonsymmetric Iterations and Preconditioning for Navier-Stokes Equations Published in SIAM Journal on Scientific Computing 17:33-46, 1996.",
+    "link": [
+        "http://www.cs.umd.edu/",
+        "http://www.umiacs.umd.edu/",
+        "http://www.yale.edu/"
+    ],
+    "ground_truth": "faculty"
+}

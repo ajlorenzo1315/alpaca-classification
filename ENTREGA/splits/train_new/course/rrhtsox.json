@@ -1,0 +1,10 @@
+{
+    "Title": "Computer Science 111 --- Summer 2, 1995",
+    "Body": "Grading guidelines for programming assignments Practice problems for if -statement .",
+    "link": [
+        "http://www.cs.bu.edu/students/grads/irina/cs111sum95/hw0.html",
+        "http://www.cs.bu.edu/students/grads/irina/cs111sum95/hw1.html",
+        "http://www.cs.bu.edu/students/grads/irina/cs111sum95/hw2.html"
+    ],
+    "ground_truth": "course"
+}

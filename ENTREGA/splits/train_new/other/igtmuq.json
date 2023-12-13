@@ -1,0 +1,10 @@
+{
+    "Title": " The CS211 contest ",
+    "Body": "The picture must be fairly small -- see the course home page for examples.",
+    "link": [
+        "mailto:jfoster@cs.cornell.edu",
+        "http://www.cs.cornell.edu/Info/Courses/Spring-96/CS211/logos/a1.jpg",
+        "http://www.cs.cornell.edu/Info/Courses/Spring-96/CS211/logos/a2.jpg"
+    ],
+    "ground_truth": "other"
+}

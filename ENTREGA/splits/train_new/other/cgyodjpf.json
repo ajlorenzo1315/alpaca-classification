@@ -1,0 +1,10 @@
+{
+    "Title": "Vivek Narasayya: Papers",
+    "Body": "In Proceeedings of Fifth International Workshop on Object Orientation in Operating Systems, Seattle WA.",
+    "link": [
+        "http://www.cs.washington.edu/homes/nara/Papers/costs.ps",
+        "ftp://cs.washington.edu/tr/1994/09/UW-CSE-94-09-12.PS.Z",
+        "Papers/workshop.ps"
+    ],
+    "ground_truth": "other"
+}

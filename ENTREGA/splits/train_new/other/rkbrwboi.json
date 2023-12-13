@@ -1,0 +1,10 @@
+{
+    "Title": " Papers and Abstracts",
+    "Body": "(AAAI-94) A new inductive learning system, LAB (Learning for ABduction), is presented which acquires abductive rules from a set of training examples.",
+    "link": [
+        "file://ftp.cs.utexas.edu/pub/mooney/papers/wolfie-ml-96.ps.Z",
+        "file://ftp.cs.utexas.edu/pub/mooney/papers/wolfie-proposal-95.ps.Z",
+        "file://ftp.cs.utexas.edu/pub/mooney/papers/chill-ifoil-ml-95.ps.Z"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "James Lester",
+    "Body": "Date: Mon, 25 Nov 1996 22:04:04 GMT Server: NCSA/1.5.2 Last-modified: Sun, 03 Nov 1996 17:05:16 GMT Content-type: text/html Content-length: 6202 James Lester James C. Lester Assistant Professor Department of Computer Science North Carolina State University Director of the IntelliMedia Initiative for the College of Engineering North Carolina State University Education Ph.D. in Computer Science (1994) University of Texas at Austin M.S.C.S.",
+    "link": [
+        "http://www.csc.ncsu.edu/eos/users/l/lester/www/page1.map",
+        "http://www.csc.ncsu.edu/",
+        "http://www.csc.ncsu.edu/eos/users/l/lester/www/imedia/"
+    ],
+    "ground_truth": "faculty"
+}

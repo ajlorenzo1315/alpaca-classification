@@ -1,0 +1,10 @@
+{
+    "Title": "Who I am",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Sunday, 01-Dec-96 20:23:32 GMT Content-Type: text/html Content-Length: 1857 Last-Modified: Monday, 08-Apr-96 02:13:59 GMT Who I am Who I Am I am a Ph.D. student at the Departmant of Computer Science of Cornell University.",
+    "link": [
+        "http://www.cornell.edu",
+        "http://www.cs.cornell.edu",
+        "http://www.cornell.edu"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Eric Brown's Home Page (brown@cs.umass.edu)",
+    "Body": "Proceedings of the 18th International ACM SIGIR Conference on Research and Development in Information Retrieval, pp 30-38 (Seattle, WA, July 1995).",
+    "link": [
+        "http://www.cs.umass.edu/",
+        "http://www.cs.umass.edu/rcfdocs/newhome/index.html",
+        "http://ciir.cs.umass.edu/info/people/staff/croft.html"
+    ],
+    "ground_truth": "unknow"
+}

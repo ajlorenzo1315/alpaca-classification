@@ -1,0 +1,10 @@
+{
+    "Title": "Conference Publications by Robert A. van de Geijn",
+    "Body": "J. G. Lewis, D. G. Payne, and R. A. van de Geijn, ``Matrix-Vector Multiplication and Conjugate Gradient Algorithms on Distributed Memory Computers,'' Scalable High Performance Computing Conference 1994 .",
+    "link": [
+        "//www.cs.utexas.edu/users/rvdg/abstracts/SC96.html",
+        "//wwwrel.ph.utexas.edu/Members/parashar/sc96/mainhtml.html",
+        "abstracts/PIPSOLVER.html"
+    ],
+    "ground_truth": "other"
+}

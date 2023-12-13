@@ -1,0 +1,10 @@
+{
+    "Title": "\nCS 367 - Lecture 2\n",
+    "Body": "If you prefer to use a home computer, you may do so, with certain restrictions: You must have a C++ compiler on your home machine; you must log on to your university account often to read email and get copies of data files; finally, we will require that you turn in your C++ program electronically (via email) so if you work at home you must make provisions to download your programs to your university account and to make sure that they compile and run with the g++ compiler on the SPARCstations.",
+    "link": [
+        "http://www.cs.wisc.edu/cgi-bin/finger/m?cs367-2",
+        "http://www.cs.wisc.edu/~cs367-2/cs367.html",
+        "http://www.cs.wisc.edu/cgi-bin/finger/m?yannis"
+    ],
+    "ground_truth": "course"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Private Funding Sources",
+    "Body": "The David and Lucile Packard Foundation Peninsula Community Foundation, Inc The Rockefeller Brothers Fund Rotary Foundation San Francisco Foundation Scholarship Foundation of America The Sega Foundation Sloan Foundation Sun",
+    "link": [
+        "#S",
+        "#FG",
+        "#FS"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "DEVise Model of Visualization",
+    "Body": "The stages of creating a visualization are as follows: Import a file into DEVise as a textual data ( TData ).",
+    "link": [
+        "#Stages",
+        "#File",
+        "#Schema"
+    ],
+    "ground_truth": "other"
+}

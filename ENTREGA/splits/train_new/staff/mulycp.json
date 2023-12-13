@@ -1,0 +1,10 @@
+{
+    "Title": " KK's Home ",
+    "Body": "CS Las Cruces, NM, 88003 Shipping: Karlis Kaugars New Mexico State University Department of Computer Science New Science Hall, Rm.",
+    "link": [
+        "http://www.cs.nmsu.edu/~kkaugars/pubs/",
+        "http://www.cs.nmsu.edu/~kkaugars/pubs/",
+        "http://www.cs.nmsu.edu/~kkaugars/vita/"
+    ],
+    "ground_truth": "staff"
+}

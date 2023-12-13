@@ -1,0 +1,8 @@
+{
+    "Title": " PSSLS: Parallel Solution of Sparse Least Squares Problems",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Sunday, 24-Nov-96 23:03:10 GMT Content-Type: text/html Content-Length: 881 Last-Modified: Thursday, 17-Oct-96 19:55:18 GMT PSSLS: Parallel Solution of Sparse Least Squares Problems PSSLS(Parallel Solution of Sparse Least Squares Problems) is a sparse matrix package for solving large, sparse, linear least squares problems on distributed-memory machines.",
+    "link": [
+        "./pssls_guide.ps"
+    ],
+    "ground_truth": "other"
+}

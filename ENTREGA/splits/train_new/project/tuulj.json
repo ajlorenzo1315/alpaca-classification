@@ -1,0 +1,10 @@
+{
+    "Title": "\n   Numerical Computation Research Group\n",
+    "Body": "Specific areas of emphasis within the group include optimization and nonlinear equations (Byrd, Schnabel), partial differential equations (Cai, McBryan), eigenvalue problems (Jessup), and languages and tools for parallel computation (Jessup, Schnabel).",
+    "link": [
+        "http://www.cs.colorado.edu/~lizb/Home.html",
+        "http://www.cs.colorado.edu/~richard/Home.html",
+        "http://www.cs.colorado.edu/~cai/Home.html"
+    ],
+    "ground_truth": "project"
+}

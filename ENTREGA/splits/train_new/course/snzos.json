@@ -1,0 +1,10 @@
+{
+    "Title": "Introduction to Computer Science I Home Page",
+    "Body": "Exit Netscape and then double click the Main icon in Windows.",
+    "link": [
+        "http://cs.nyu.edu/cs/faculty/marateck/",
+        "mailto:marateck@cs.nyu.edu",
+        "http://cs.nyu.edu/cs/faculty/overton/"
+    ],
+    "ground_truth": "course"
+}

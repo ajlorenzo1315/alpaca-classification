@@ -1,0 +1,8 @@
+{
+    "Title": "CS381/481 Fall 96 Study Guide",
+    "Body": "; of the capabilities of finite automata, pushdown automata, and Turing machines; and of how to describe sets using regular expressions and context-free grammars.",
+    "link": [
+        "http://www.cs.cornell.edu/Info/Courses/Current/CS481/CS481.html"
+    ],
+    "ground_truth": "other"
+}

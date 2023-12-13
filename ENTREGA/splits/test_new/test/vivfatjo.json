@@ -1,0 +1,8 @@
+{
+    "Title": "Robot Control Welcome Page",
+    "Body": "Date: Mon, 25 Nov 1996 23:59:24 GMT Server: Apache/1.2-dev Connection: close Content-Type: text/html Expires: Mon, 25 Nov 1996 23:59:24 GMT Robot Control Welcome Page AI Lab Telerobotic Control Page As visitor number 146 we Welcome users of gs35.sp.cs.cmu.edu Entering into the control page will allow you interact with a remote environment through a robot located at MIT's Artificial Intelligence Lab in Cambridge, Massachusetts.",
+    "link": [
+        "http://www.ai.mit.edu/projects/webot/robot/index2.html"
+    ],
+    "ground_truth": "unknow"
+}

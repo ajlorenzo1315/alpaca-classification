@@ -1,0 +1,10 @@
+{
+    "Title": " Home Page: Marc Friedman ",
+    "Body": "Date: Thu, 21 Nov 1996 23:01:03 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Wed, 16 Oct 1996 23:00:55 GMT Content-length: 2577 Home Page: Marc Friedman Marc Friedman's Home Page Course web page for CSE 573 Who Am I?",
+    "link": [
+        "http://www.cs.washington.edu/education/courses/cse573/",
+        "http://www.cs.indiana.edu:800/finger/cs.washington.edu/friedman/w",
+        "http://www.cs.washington.edu/homes/friedman/artwork.html"
+    ],
+    "ground_truth": "unknow"
+}

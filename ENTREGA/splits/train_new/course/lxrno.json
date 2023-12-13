@@ -1,0 +1,10 @@
+{
+    "Title": "22C:178 / 055:134 Computer Communications Home Page",
+    "Body": "Date: Wed, 20 Nov 1996 23:18:19 GMT Server: NCSA/1.5 Content-type: text/html 22C:178 / 055:134 Computer Communications Home Page 22C:178 / 055:134 Computer Communications Course Home Page for Spring 1996 Final grades posted, follow this link.",
+    "link": [
+        "http://www.cs.uiowa.edu/~herman/22C178/exam.html",
+        "http://www.cs.uiowa.edu/~herman/22C178/project.html",
+        "http://www.cs.uiowa.edu/~herman/22C178/syllabus.html"
+    ],
+    "ground_truth": "course"
+}

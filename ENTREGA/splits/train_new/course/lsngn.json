@@ -1,0 +1,10 @@
+{
+    "Title": " CS410 ",
+    "Body": "If you do not know either C or C++ you might consider taking CS214 concurrently to this class to learn C, or you have to learn it by yourself using any book, or one of the online Tutorials.",
+    "link": [
+        "http://www.cs.cornell.edu/Info/Courses/Fall-96/CS410/coursestaff.html",
+        "#handouts",
+        "#assignments"
+    ],
+    "ground_truth": "course"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "UMass Computer Vision - Home page",
+    "Body": "Date: Wed, 20 Nov 1996 19:51:07 GMT Server: NCSA/1.5.1 Last-modified: Mon, 18 Nov 1996 23:38:19 GMT Content-type: text/html Content-length: 6930 UMass Computer Vision - Home page Best viewed using Netscape 2.0 or 3.0 Introduction The Computer Vision Research Laboratory was established in the Computer Science Department at the University of Massachusetts in 1974 with the goal of investigating the scientific principles underlying the construction of integrated vision systems and the application of vision to problems of real-world importance.",
+    "link": [
+        "http://www.cs.umass.edu",
+        "http://www.cs.umass.edu/rcfdocs/newhome/index.html",
+        "http://vis-www.cs.umass.edu/projects/WorkInProgress/WorkInProgress.html"
+    ],
+    "ground_truth": "project"
+}

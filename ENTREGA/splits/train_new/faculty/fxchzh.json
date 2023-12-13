@@ -1,0 +1,10 @@
+{
+    "Title": "Zvi Meir Kedem",
+    "Body": "Phone : My office number is +1 212 998 3101; I check my voice mail about once every business day, while in the US.",
+    "link": [
+        "http://www.cs.nyu.edu",
+        "http://cs.nyu.edu/kedem/personal.htm",
+        "http://www.cs.nyu.edu/milan"
+    ],
+    "ground_truth": "faculty"
+}

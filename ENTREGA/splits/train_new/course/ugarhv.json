@@ -1,0 +1,10 @@
+{
+    "Title": " CS 354 - Home Page - Fall 1996 ",
+    "Body": "Date: Mon, 11 Nov 1996 19:00:58 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Mon, 11 Nov 1996 16:37:00 GMT Content-length: 7755 CS 354 - Home Page - Fall 1996 CS 354 - Fall 1996 Course Information Instructors and Office Hours TAs and Office Hours Class Cancellations Handouts Assignments Solutions Exams Grades Simulator Help Lecture Notes Frequently Asked Questions (FAQ) Instructors: Sections 1 and 3: Jerry Tusch Office: 1309 CS&S  Phone: 262-6603 Hours: 10-11 & 4-5 MW, 9-10 F e-mail: jerry@cs.wisc.edu  or  tutsch@execpc.com Class: section 1, MWF 11am-12:15 in 1325 CS section 3, MW 5-6:40pm in 168 Noland Section 2: Karen Miller Office: 3387 CSS, Phone 263-1724 Hours: MW 10-11am e-mail: smoler@cs.wisc.edu Class Time: MWF 8:25-9:40am in 107 Psychology TAs: Sunlung Suen Office: 1347 CSS, Phone 262-5786 Hours: TuTh 2:30-3:30pm e-mail: ssuen@cs.wisc.edu Sridevi Bhamidipati Office: 1351 CSS, Phone: 263-1938 Hours: WR 4:00-5:00pm e-mail: bsri@cs.wisc.edu Mohammad Asgarian Office: 5364 CSS, Phone: 262-5105 Hours: TuTh 2:30-3:30pm e-mail: ma@cs.wisc.edu Class Cancellations: Karen's section: no class on Monday September 23. no class on Wednesday November 27.",
+    "link": [
+        "#instructors",
+        "#TAs",
+        "#cancellations"
+    ],
+    "ground_truth": "course"
+}

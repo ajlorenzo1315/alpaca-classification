@@ -1,0 +1,10 @@
+{
+    "Title": "Peter Cappello",
+    "Body": "He also is a member of the ACM Special Interest Group on Algorithms and Computation Theory, and the IEEE Signal Processing Society's Technical Committee on VLSI, of which he served as founding Chair.",
+    "link": [
+        "http://www.cs.ucsb.edu/",
+        "mailto:cappello@cs.ucsb.edu",
+        "http://www.cs.ucsb.edu/~cappello/personal/J_articles.html"
+    ],
+    "ground_truth": "faculty"
+}

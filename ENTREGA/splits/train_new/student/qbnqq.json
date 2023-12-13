@@ -1,0 +1,10 @@
+{
+    "Title": null,
+    "Body": "I am also exploring numerical (sequential and parallel) solutions in General Relativity problems and also in Quantum Chromodynamics My Curriculum Vita click here if you want to print out my C.V. To Contact Me Center for Particle Theory Physics Department The University of Texas at Austin Austin, TX 78712",
+    "link": [
+        "http://www.cs.utexas.edu/cgi/rwho/pecina",
+        "http://www.ph.utexas.edu",
+        "http://www.cs.utexas.edu"
+    ],
+    "ground_truth": "student"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Computer Science Department",
+    "Body": "Academic and career advising resources on the Internet.",
+    "link": [
+        "http://chess.ibm.park.org/",
+        "http://volvo.gslis.utexas.edu:80/~acadres/",
+        "http://www.stolaf.edu/stolaf/depts/cs/news/inetusers.html"
+    ],
+    "ground_truth": "department"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "   Piotr Rudnicki ",
+    "Body": "Date: Mon, 25 Nov 1996 22:54:57 GMT Server: Apache/1.1.1 Content-type: text/html Content-length: 1631 Last-modified: Thu, 29 Aug 1996 20:38:24 GMT Piotr Rudnicki Piotr Rudnicki Associate Professor Laboratory for Algorithmics Research Department of Computing Science University of Alberta E-mail: piotr@cs.ualberta.ca Personal Information The Mizar project Mizar MSE Research The list of my publications during last six years and remarks on past work are in my Personal Data Form 100 .",
+    "link": [
+        "http://web.cs.ualberta.ca/labs/theory.html",
+        "http://web.cs.ualberta.ca/home.html",
+        "http://web.cs.ualberta.ca/UAlberta.html"
+    ],
+    "ground_truth": "faculty"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": " Georgi Kostadinov's Home Page ",
+    "Body": "Date: Tue, 26 Nov 1996 16:26:17 GMT Server: Apache/1.0.5 Content-type: text/html Georgi Kostadinov's Home Page Georgi Kostadinov Welcome visitor Status: Graduate Student (M.Sc.)",
+    "link": [
+        "http://www.csc.uvic.ca/gradinfo/graduate.html",
+        "http://www-csc.uvic.ca/",
+        "http://www.uvic.ca/"
+    ],
+    "ground_truth": "student"
+}

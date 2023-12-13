@@ -1,0 +1,10 @@
+{
+    "Title": "Bill Canfield",
+    "Body": "The slides talk about efforts to use RT-Mach to implement some of Flaviu Cristian 's distributed algorithms (work done for Prof. Al Mok ; built on some work by Guangtian Liu ).",
+    "link": [
+        "http://www.cs.utexas.edu/users/boyer/fp/",
+        "http://www.cs.utexas.edu/users/canfield/resume.ps",
+        "http://www.cs.utexas.edu/users/canfield/printslides.ps"
+    ],
+    "ground_truth": "unknow"
+}

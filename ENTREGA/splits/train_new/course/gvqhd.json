@@ -1,0 +1,10 @@
+{
+    "Title": "Home",
+    "Body": "Languages and Tools for expert systems 6.",
+    "link": [
+        "http://www.cs.byu.edu/courses/cs575/toc.html",
+        "http://www.cs.byu.edu/courses/cs575/lectures/lectures.html",
+        "http://www.cs.cmu.edu/Web/Groups/AI/html/faqs/top.html"
+    ],
+    "ground_truth": "course"
+}

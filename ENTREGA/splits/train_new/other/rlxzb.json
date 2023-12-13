@@ -1,0 +1,10 @@
+{
+    "Title": "GNU Manuals",
+    "Body": "You can order a nice fold-out card for $10.00 (!)",
+    "link": [
+        "http://www.fsf.org/",
+        "./emacs.ps",
+        "./libg++.ps"
+    ],
+    "ground_truth": "other"
+}

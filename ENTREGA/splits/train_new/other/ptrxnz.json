@@ -1,0 +1,10 @@
+{
+    "Title": "\nCS Course Schedule\n",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Monday, 06-Jan-97 19:25:40 GMT Content-Type: text/html Content-Length: 497 Last-Modified: Monday, 10-Jun-96 17:03:49 GMT CS Course Schedule CS Course Schedule Summer 96 Fall 96 These schedules contain information updated after the release of the official Registrar's course schedule .",
+    "link": [
+        "http://www.cs.utexas.edu/users/UTCS/schedule/Summer96",
+        "http://www.cs.utexas.edu/users/UTCS/schedule/Fall96",
+        "http://www.utexas.edu/student/registrar/aboutscheds.html"
+    ],
+    "ground_truth": "other"
+}

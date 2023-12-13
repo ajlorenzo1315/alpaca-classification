@@ -1,0 +1,10 @@
+{
+    "Title": "Liffick Personal Home Page",
+    "Body": "Server: Netscape-Communications/1.1 Date: Monday, 25-Nov-96 20:39:29 GMT Content-type: text/html Liffick Personal Home Page Dr. Blaise W. Liffick Associate Professor Department of Computer Science Millersville University I have been a member of the Millersville CS Department since 1981.",
+    "link": [
+        "http://cs.millersv.edu",
+        "http://www.millersv.edu",
+        "http://cs.millersv.edu/~liffick/HCI.html"
+    ],
+    "ground_truth": "faculty"
+}

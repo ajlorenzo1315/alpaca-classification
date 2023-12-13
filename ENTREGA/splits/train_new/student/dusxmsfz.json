@@ -1,0 +1,10 @@
+{
+    "Title": "Shailesh Kumar",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Monday, 06-Jan-97 19:36:22 GMT Content-Type: text/html Content-Length: 2736 Last-Modified: Thursday, 10-Oct-96 06:21:23 GMT Shailesh Kumar Shailesh Kumar The University of Texas at Austin Department of Computer Sciences Taylor Hall 2.124 Austin, TX 78712 skumar@cs.utexas.edu My Resume Research Interests and Publications Contact me SRCM : My Spiritual Affiliation What Internet has to offer Some Links Cognitive Science UTCS Neural Network Research UTCS Machine Learning Research group Research Interest Artificial Intelligence / Artificial Life Neuroevolution Neural Network applications Genetic Algorithms Cellular Automata Chaos and nonlinear dynamics Fuzzy Logic Massively Parallel Processors Publications ON-LINE ADAPTATION OF  A SIGNAL PREDISTORTER THROUGH DUAL REINFORCEMENT LEARNING (7 pages) Patrick Goetz(1), Shailesh Kumar(2) and Risto Miikkulainen(2) (1) Computational and Applied Mathematics, The University of Texas at Austin.",
+    "link": [
+        "http://www.cs.utexas.edu/cgi/finger/skumar",
+        "http://www.utexas.edu",
+        "http://www.cs.utexas.edu"
+    ],
+    "ground_truth": "student"
+}

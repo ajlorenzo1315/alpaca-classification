@@ -1,0 +1,10 @@
+{
+    "Title": "Jun  Fang Resume Panel",
+    "Body": "in Computer Science , Sep 1996 to May 1997 The University of Texas at Austin Interest: multimedia, networking, database GPA: N/A M.S.",
+    "link": [
+        "http://www.cs.utexas.edu/users/jfang",
+        "mailto:jfang@cs.utexas.edu",
+        "http://www.cs.utexas.edu/users/jfang"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Robot Simulators",
+    "Body": "X Display: Harmonic function path planning for a 2-dof arm (Connolly and Grupen 1993) .",
+    "link": [
+        "http://piglet.cs.umass.edu:4321/publications.html#jrs93",
+        "http://piglet.cs.umass.edu:4321/publications.html#contact",
+        "http://piglet.cs.umass.edu:4321/publications.html#kinodynamic"
+    ],
+    "ground_truth": "other"
+}

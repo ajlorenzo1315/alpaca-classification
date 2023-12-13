@@ -1,0 +1,10 @@
+{
+    "Title": "Home Page of Gail Kaiser",
+    "Body": "She is best-known for the Marvel and Oz process-centered environments and for her work on cooperative transaction models .",
+    "link": [
+        "http://www.psl.cs.columbia.edu/",
+        "http://www.cs.columbia.edu/",
+        "http://www.columbia.edu/"
+    ],
+    "ground_truth": "faculty"
+}

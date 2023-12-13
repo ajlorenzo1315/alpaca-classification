@@ -1,0 +1,10 @@
+{
+    "Title": "Real-Time Active Database Applications ",
+    "Body": "We attempt to rectify this shortcoming by studying two applications in detail.",
+    "link": [
+        "http://www-ccs.cs.umass.edu/~sivasank/home.html",
+        "http://www-ccs.cs.umass.edu/stankovic/home.html",
+        "http://www-ccs.cs.umass.edu/~sim/pd93-ws-calif.ps"
+    ],
+    "ground_truth": "other"
+}

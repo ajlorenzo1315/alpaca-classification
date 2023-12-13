@@ -1,0 +1,10 @@
+{
+    "Title": "Larry McMurchie's home page",
+    "Body": "Date: Thu, 21 Nov 1996 20:05:29 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Mon, 25 Mar 1996 22:40:18 GMT Content-length: 2498 Larry McMurchie's home page Larry McMurchie Department of Computer Science and Engineering University of Washington Seattle , Washington, 98195 Voice: (206) 685-0951; FAX: (206) 543-2969; e-mail:  larry@cs.washington.edu Office: Sieg Hall, Room 217 Current Research Larry McMurchie , Director, NW Laboratory for Integrated Systems, has a BA in Chemistry from Western Washington University (1971) and a Ph.D. in Chemistry from the University of Washington.",
+    "link": [
+        "http://www.cs.washington.edu/homes/larry/larry.gif",
+        "http://www.cs.washington.edu/homes/larry//",
+        "http://www.cac.washington.edu:1183/"
+    ],
+    "ground_truth": "unknow"
+}

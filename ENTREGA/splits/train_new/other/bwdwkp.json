@@ -1,0 +1,10 @@
+{
+    "Title": "CS 302 Section 70 Home Page",
+    "Body": "5364a Computer Science & Statistics, 1210 W. Dayton St. Office Hours: Wed 11:00-12:30, Thurs 2:30-4:00 (Tentative) or by appointment Phone: (608) 262-5105 [office] (608) 283-0636 [home, emergencies only ] E-mail: tick@cs.wisc.edu (click here for finger) World-Wide-Web: http://www.cs.wisc.edu/~tick/tick.html Grading Policy 60% exams    (20% each for two midterms and the final) 30% programs (3% each for each of 10 programs) 10% quizzes  (2% for each of 6 quizzes, drop lowest grade) Final grades for all CS 302 sections are graded with a mean in the range of 2.7 - 2.9, where A = 4.0; the curve is computed after the final exam is completed.",
+    "link": [
+        "http://www.cs.wisc.edu/~pubs/grad-guidebook/node9.html#cs302",
+        "http://www.cs.wisc.edu/~tick/cs302/Announcements.html",
+        "#lectures"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "University of Maryland at College Park",
+    "Body": "Be sure to visit inforM , Maryland's campus-wide information server.",
+    "link": [
+        "http://inform.umd.edu/text-index.html",
+        "http://www.umcp.umd.edu/cgi-bin/imagemap/toptitles",
+        "http://www.umcp.umd.edu/cgi-bin/imagemap/toprow"
+    ],
+    "ground_truth": "other"
+}

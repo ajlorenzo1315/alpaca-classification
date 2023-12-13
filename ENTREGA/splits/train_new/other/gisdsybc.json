@@ -1,0 +1,10 @@
+{
+    "Title": "CSE 548 Lecture Slides (W 95)",
+    "Body": "Date: Mon, 02 Dec 1996 15:47:19 GMT Server: NCSA/1.4.2 Content-type: text/html CSE 548 Lecture Slides (W 95) CSE 548: Lecture Slides (Postscript) What is Computer Architecture Instruction Set Architecture Architecture Experiments & Metrics Pipelining DLX Pipeline Advanced Pipelining Caching Memory IO Multiprocessors",
+    "link": [
+        "lecture_slides/arch.ps",
+        "lecture_slides/isa.ps",
+        "lecture_slides/metrics.ps"
+    ],
+    "ground_truth": "other"
+}

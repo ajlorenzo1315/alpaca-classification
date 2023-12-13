@@ -1,0 +1,10 @@
+{
+    "Title": "C343 Home Page",
+    "Body": "In addition, there will be homework problems assigned in lecture that will be due the following lecture.",
+    "link": [
+        "#Useful Links",
+        "#General Information",
+        "#Office Hours"
+    ],
+    "ground_truth": "course"
+}

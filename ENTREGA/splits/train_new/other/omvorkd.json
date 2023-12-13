@@ -1,0 +1,10 @@
+{
+    "Title": "Engineering and Economic Applications of Complementarity ",
+    "Body": "The goal of this documentation is threefold: (i) to summarize the essential applications of the nonlinear complementarity problem known to date, (ii) to provide a basis for the continued research on the nonlinear complementarity problem, and (iii) to supply a broad collection of realistic complementarity problems for use in algorithmic experimentation and other studies.",
+    "link": [
+        "http://www.cs.wisc.edu/Dienst/Repository/2.0/Body/ncstrl.uwmadison%2fMP-TR-95-07/postscript",
+        "http://www.cs.wisc.edu/Dienst/UI/2.0/Print/ncstrl.uwmadison%2fMP-TR-95-07",
+        "http://www.cs.wisc.edu/Dienst/UI/2.0/Search"
+    ],
+    "ground_truth": "other"
+}

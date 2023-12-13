@@ -1,0 +1,10 @@
+{
+    "Title": "\nHome Page for Chung Kei Wong\n",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Monday, 06-Jan-97 19:27:39 GMT Content-Type: text/html Content-Length: 3532 Last-Modified: Wednesday, 18-Dec-96 17:11:42 GMT Home Page for Chung Kei Wong Chung Kei Wong last modified: Dec 11, 1996 About Me I am a graduate student in the Department of Computer Sciences , The University of Texas at Austin .",
+    "link": [
+        "http://www.cs.utexas.edu/cgi/rwho/ckwong",
+        "http://www.cs.utexas.edu/",
+        "http://www.utexas.edu/"
+    ],
+    "ground_truth": "student"
+}

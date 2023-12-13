@@ -1,0 +1,10 @@
+{
+    "Title": "Fine-Grain Parallel CM RIVL",
+    "Body": "With CM RIVL, there is an initial setup phase for each slave process and the master process, as previously described  (the Master process sends each slave its logical ID#, the total number of processes, and a copy of the RIVL script.",
+    "link": [
+        "http://www.cs.cornell.edu/Info/People/barber",
+        "mailto:barber@cs.cornell.edu",
+        "http://www.cs.cornell.edu/Info/People/sugata/home.html"
+    ],
+    "ground_truth": "other"
+}

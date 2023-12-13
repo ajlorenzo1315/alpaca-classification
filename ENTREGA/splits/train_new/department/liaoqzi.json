@@ -1,0 +1,10 @@
+{
+    "Title": "KSU CIS Department",
+    "Body": "Our department lives in Nichols Hall (shown in the above picture), the newest/oldest building on campus.",
+    "link": [
+        "http://www.cis.ksu.edu/big-nichols.gif",
+        "http://www.cis.ksu.edu/about.ksu.html",
+        "http://www.cis.ksu.edu/about.manhattan.html"
+    ],
+    "ground_truth": "department"
+}

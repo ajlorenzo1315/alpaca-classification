@@ -1,0 +1,10 @@
+{
+    "Title": "Library 2000",
+    "Body": "Server: Netscape-Commerce/1.12 Date: Tuesday, 26-Nov-96 00:06:38 GMT Last-modified: Thursday, 15-Jun-95 00:02:03 GMT Content-length: 2144 Content-type: text/html Library 2000 Jerome H. Saltzer , Professor of Computer Science and Engineering Library 2000 is a research project that is exploring the system engineering of future on-line libraries.",
+    "link": [
+        "http://ltt-www.lcs.mit.edu/ltt-www/",
+        "",
+        "http://www.lcs.mit.edu/web_project/Brochure/contents.html"
+    ],
+    "ground_truth": "project"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Matthew Dailey",
+    "Body": "Back to the computer science home page mdailey@cs.ucsd.edu",
+    "link": [
+        "http://www-cse.ucsd.edu",
+        "http://www.ucsd.edu",
+        "http://www.eb.com"
+    ],
+    "ground_truth": "student"
+}

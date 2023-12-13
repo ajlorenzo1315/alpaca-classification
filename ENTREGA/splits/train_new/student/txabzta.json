@@ -1,0 +1,10 @@
+{
+    "Title": "Mike van Lent's Homepage",
+    "Body": "E-mail: vanlent@eecs.umich.edu Mail: Artificial Intelligence Laboratory University of Michigan 1101 Beal Avenue Ann Arbor MI 48109-2110 Office Phone Number: (313) 764-2138 Lab Phone Number: (313) 763-1572 Fax: (313) 763-1260 Research Interests Changing Representation to Improve Planning Efficiency I'm currently in the final (I hope) stages of developing a dissertation topic which I have to propose to a committee by May 1996.",
+    "link": [
+        "http://www.us.itd.umich.edu/UM-www-servers.html",
+        "http://www.eecs.umich.edu/",
+        "http://krusty.eecs.umich.edu/"
+    ],
+    "ground_truth": "student"
+}

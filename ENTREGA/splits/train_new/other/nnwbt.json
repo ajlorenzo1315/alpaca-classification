@@ -1,0 +1,9 @@
+{
+    "Title": "Programming WWW fall'96 -- Assignment #5",
+    "Body": "You don't have to understand balanced binary trees to do this problem; all you have to know is the following: A balanced binary tree is a data structure with three operations: insert, delete and lookup.",
+    "link": [
+        "mailto:pechtcha@cs.nyu.edu",
+        "http://cs.nyu.edu/cs/dept_info/course_home_pages/fall96/G22.3033.09/http/Vector.java"
+    ],
+    "ground_truth": "other"
+}

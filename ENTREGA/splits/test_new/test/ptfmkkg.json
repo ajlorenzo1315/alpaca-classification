@@ -1,0 +1,10 @@
+{
+    "Title": "Incrementalization",
+    "Body": "In \"Systematic Derivation of Incremental Programs\" , we gave a general systematic transformational approach for deriving an incremental version f' of a program f under an input change + .",
+    "link": [
+        "ftp://ftp.cs.cornell.edu/pub/yanhong/Inc-SCP95.ps.Z",
+        "ftp://ftp.cs.cornell.edu/pub/yanhong/Cir-PEPM95.ps.Z",
+        "ftp://ftp.cs.cornell.edu/pub/yanhong/Dai-POPL96.ps.Z"
+    ],
+    "ground_truth": "unknow"
+}

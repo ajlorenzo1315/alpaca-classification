@@ -1,0 +1,10 @@
+{
+    "Title": "A Class of Smoothing Functions for Nonlinear and Mixed Complementarity Problems ",
+    "Body": "For any solvable NCP or MCP, existence of an arbitrarily accurate solution to the smooth nonlinear equation as well as the NCP or MCP, is established for sufficiently large value of a smoothing parameter \\alpha .",
+    "link": [
+        "http://www.cs.wisc.edu/Dienst/Repository/2.0/Body/ncstrl.uwmadison%2fMP-TR-94-11/postscript",
+        "http://www.cs.wisc.edu/Dienst/UI/2.0/Print/ncstrl.uwmadison%2fMP-TR-94-11",
+        "http://www.cs.wisc.edu/Dienst/UI/2.0/Search"
+    ],
+    "ground_truth": "other"
+}

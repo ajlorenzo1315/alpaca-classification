@@ -1,0 +1,10 @@
+{
+    "Title": "SFU Hardware Design Group",
+    "Body": "Date: Tue, 26 Nov 1996 00:38:34 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Thu, 07 Mar 1996 22:03:57 GMT Content-length: 1338 SFU Hardware Design Group SFU Hardware Design Group The activities of the faculty involved in digitial hardware design range from practical to theoretical, with most of our activity falling into two broad areas: the design and implementation of novel computer architectures, and the development of algorithms for computer-aided design and design automation.",
+    "link": [
+        "http://fas.sfu.ca/cs/people/Faculty/Hafer/",
+        "http://fas.sfu.ca/cs/people/Faculty/Krishnamurti/",
+        "http://fas.sfu.ca/cs/people/Faculty/Hobson/"
+    ],
+    "ground_truth": "project"
+}

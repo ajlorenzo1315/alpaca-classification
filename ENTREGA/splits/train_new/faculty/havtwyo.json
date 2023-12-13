@@ -1,0 +1,10 @@
+{
+    "Title": "James Allan",
+    "Body": "I am guest co-editor of a special topic issue of Information Processing and Management on the tools for the automatic construction of hypertext and hypermedia.",
+    "link": [
+        "http://www.cs.umass.edu/",
+        "http://www.cs.umass.edu/rcfdocs/newhome/index.html",
+        "http://www-astro.phast.umass.edu/guest/amherst.html"
+    ],
+    "ground_truth": "faculty"
+}

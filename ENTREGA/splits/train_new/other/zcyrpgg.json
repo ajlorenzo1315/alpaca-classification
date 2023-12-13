@@ -1,0 +1,10 @@
+{
+    "Title": "Steven Robbins: Technical reports",
+    "Body": "Experimental Assessment of the Optimized Perfect Club Benchmarks on a Cray Y-MP, UTSA-CS-93-102 (1993) (with K. Robbins).",
+    "link": [
+        "http://vip.cs.utsa.edu/personnel/papers/perfecttr.ps",
+        "http://vip.cs.utsa.edu/personnel/papers/perfectopttr.ps",
+        "http://vip.cs.utsa.edu/personnel/papers/mic1tr.ps"
+    ],
+    "ground_truth": "other"
+}

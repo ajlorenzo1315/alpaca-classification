@@ -1,0 +1,10 @@
+{
+    "Title": " UTCS CAD Home page ",
+    "Body": "The members of the group are: Yao-Wen Chang Chung-Ping Chen Yao-Ping Chen Yung-Ming Fang (ECE Department) Wei-Kei Mak Shashidhar Thakur Hai Zhou Research The current interests of the group lie in a wide range of areas in VLSI CAD.",
+    "link": [
+        "http://www.cs.utexas.edu/users/cad/wong.html",
+        "http://www.cs.utexas.edu/users/yaoping",
+        "http://www.cs.utexas.edu/users/thakur"
+    ],
+    "ground_truth": "project"
+}

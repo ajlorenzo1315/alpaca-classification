@@ -1,0 +1,10 @@
+{
+    "Title": " ESL Benchmarks ",
+    "Body": "Date: Tue, 14 Jan 1997 21:39:31 GMT Server: Apache/1.0.0 Content-type: text/html Content-length: 1084 Last-modified: Fri, 17 Mar 1995 01:09:39 GMT ESL Benchmarks Information pertaining to compilers and program sources organized by: Architecture Compiler vendor Application class Source language Sequential/Parallel nature For a complete list of packages, click here.",
+    "link": [
+        "http://esl.cs.colorado.edu/C++BenchmarkSuite/arch.html",
+        "http://esl.cs.colorado.edu/C++BenchmarkSuite/vendors.html",
+        "http://esl.cs.colorado.edu/C++BenchmarkSuite/appclass.html"
+    ],
+    "ground_truth": "other"
+}

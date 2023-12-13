@@ -1,0 +1,10 @@
+{
+    "Title": "CS302-13:  Class Home Page, Fall '96",
+    "Body": "The only discrepency is with the sample run in Chris Weaver's public directory where it is called prog05, but this shouldn't matter for your program (it is just a sample).",
+    "link": [
+        "http://www.cs.wisc.edu/~cs302/cs302.html",
+        "http://www.cs.wisc.edu/~hcl/hcl.html",
+        "mailto:hcl@cs.wisc.edu"
+    ],
+    "ground_truth": "course"
+}

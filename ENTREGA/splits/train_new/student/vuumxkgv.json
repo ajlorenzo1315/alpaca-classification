@@ -1,0 +1,10 @@
+{
+    "Title": "Gus Lopez",
+    "Body": "Anyone considering submitting a proposal for a tutorial should request guidelines on tutorial submissions from the Tutorials Chair or via the OOPSLA'96 Electronic Hotline.",
+    "link": [
+        "mailto:lopez@cs.washington.edu",
+        "http://www.eff.org/blueribbon.html",
+        "http://www.cs.washington.edu/"
+    ],
+    "ground_truth": "student"
+}

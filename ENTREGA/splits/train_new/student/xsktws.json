@@ -1,0 +1,10 @@
+{
+    "Title": " Xiangzhou ",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Thursday, 21-Nov-96 22:32:19 GMT Content-Type: text/html Content-Length: 504 Last-Modified: Sunday, 31-Mar-96 15:43:44 GMT Xiangzhou Hello, welcome to Xiangzhou's home page!",
+    "link": [
+        "http://www.ccs.neu.edu/home/xiangw/homeland/homeland.html",
+        "http://www.ccs.neu.edu/home/xiangw/resume/resume.html",
+        "http://www.ccs.neu.edu/home/xiangw/sites.html"
+    ],
+    "ground_truth": "student"
+}

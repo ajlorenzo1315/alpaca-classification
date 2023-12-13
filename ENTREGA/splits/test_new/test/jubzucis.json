@@ -1,0 +1,10 @@
+{
+    "Title": " WWW Stuff ",
+    "Body": "Hot Site of the Nite Devices connected to the net.",
+    "link": [
+        "http://www.economist.com/",
+        "http://www.eecs.harvard.edu/collider.html",
+        "http://www.cis.ufl.edu/perl/"
+    ],
+    "ground_truth": "unknow"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": " Pei Cao' Home Page ",
+    "Body": "Research Interests: Operating systems, high performance file systems, memory resource allocation; High performance I/O systems for parallel computers; Research Projects: Optimal Parallel Prefetching and Caching ACFS: Application Controlled File Caching and Prefetching Courses: CS739: Research Topics in Distributed Systems and Operating Systems (Fall 1996) CS736: Advanced Operating System (Spring 1996) Traces and Simulators: File Access Traces Recent Papers Integrated Parallel Prefetching and Caching Tracy Kimbrel, Pei Cao, Anna Karlin, Ed Felten, and Kai Li, Princeton CS Department Tech Report TR-502-95, November 1995.",
+    "link": [
+        "http://www.cs.wisc.edu/cgi-bin/finger?cao",
+        "http://www.cs.wisc.edu/",
+        "gopher://gopher.wisc.edu/"
+    ],
+    "ground_truth": "faculty"
+}

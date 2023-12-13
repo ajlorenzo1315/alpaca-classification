@@ -1,0 +1,10 @@
+{
+    "Title": "Jonathan Thomas",
+    "Body": "StarLogo is a programming environment.",
+    "link": [
+        "mailto:jthoma54@maine.maine.edu",
+        "http://umcs.maine.edu",
+        "http://www.asap.um.maine.edu/starlogo/"
+    ],
+    "ground_truth": "student"
+}

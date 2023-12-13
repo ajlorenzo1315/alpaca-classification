@@ -1,0 +1,10 @@
+{
+    "Title": " U of Saskatchewan Computer Vision, Graphics and Image Processing ",
+    "Body": "They include: IEEE Transactions on Pattern Analysis and Machine Intelligence Pattern Recognition IEEE Transactions on Image Processing IEEE Transactions on Systems, Man and Cybernetics CVGIP: Image Understanding CVGIP: Graphical Models and Image Processing IEEE Transactions on Medical Imaging IEEE Computer Graphics and Applications ACM Transactions on Graphics International Journal on Computer Vision Machine Vision and Applications International Journal of Pattern Recognition and Artificial Intelligence There are also a number of regularly scheduled conferences that are related to the area of Computer Vision.",
+    "link": [
+        "http://www.usask.ca",
+        "http://www.cs.usask.ca/projects/vision/VisionTeam.html",
+        "http://www.cs.usask.ca/projects/vision/FormerStudents.html"
+    ],
+    "ground_truth": "project"
+}

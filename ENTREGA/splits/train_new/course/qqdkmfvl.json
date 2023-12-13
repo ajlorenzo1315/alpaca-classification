@@ -1,0 +1,10 @@
+{
+    "Title": "CS472 Home Page",
+    "Body": "(11/6 5:30 p.m., claire) There is a clarification to problem 4 in homework 4.",
+    "link": [
+        "http://www.cs.cornell.edu/Info/Courses/Current/CS472/info.html",
+        "http://www.cs.cornell.edu/Info/Courses/Current/CS472/course-materials.html",
+        "http://www.cs.cornell.edu/Info/Courses/Current/CS472/acad_integ.html"
+    ],
+    "ground_truth": "course"
+}

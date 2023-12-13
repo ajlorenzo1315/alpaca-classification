@@ -1,0 +1,10 @@
+{
+    "Title": "Griffith University, School of CIT",
+    "Body": "Date: Tue, 26 Nov 1996 23:03:38 GMT Server: Apache/1.1.1 Content-type: text/html Content-length: 11248 Last-modified: Mon, 21 Oct 1996 04:48:12 GMT Griffith University, School of CIT School of Computing and Information Technology Welcome to the World Wide Web server for the School of Computing and Information Technology in the Faculty of Science and Technology at the Nathan campus of Griffith University , Brisbane , Australia .",
+    "link": [
+        "http://www.sct.gu.edu.au/",
+        "http://www.gu.edu.au/",
+        "http://www.peg.apc.org/~maxlink/bcl/"
+    ],
+    "ground_truth": "department"
+}

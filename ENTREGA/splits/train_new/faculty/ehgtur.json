@@ -1,0 +1,9 @@
+{
+    "Title": " Luger Home Page ",
+    "Body": "Proceedings of Conference on Applications of Artificial Intelligence XI: Knowledge Based Systems in Aerospace and Industry , 1993.",
+    "link": [
+        "ftp://mammoth.cs.unm.edu/pub/luger/CogSci/",
+        "ftp://mammoth.cs.unm.edu/pub/luger/AI/"
+    ],
+    "ground_truth": "faculty"
+}

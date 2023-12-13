@@ -1,0 +1,10 @@
+{
+    "Title": "Mark Benard's Home Page",
+    "Body": "CUI's World Wide Web searchable catalog My interests and my opinions New Orleans restaurants Skiing in Snowmass , Colorado Aspen/Snowmass Tulane EECS Home Page",
+    "link": [
+        "http://www.eecs.tulane.edu",
+        "http://www.vtw.org/speech",
+        "http://www.eecs.tulane.edu/wwwlocal/CPEN240"
+    ],
+    "ground_truth": "faculty"
+}

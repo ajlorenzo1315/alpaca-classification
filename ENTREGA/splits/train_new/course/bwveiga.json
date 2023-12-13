@@ -1,0 +1,10 @@
+{
+    "Title": "CS516 Home Page",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Sunday, 01-Dec-96 19:20:19 GMT Content-Type: text/html Content-Length: 7875 Last-Modified: Sunday, 12-May-96 22:05:29 GMT CS516 Home Page High-Performance Computer Systems Thorsten von Eicken Spring, 1996 Projects Project reports Project proposals Initial project ideas Course Materials Homework 1 Homework 2 Please check out the CUCS SP-2 page before starting to use Split-C on the machine.",
+    "link": [
+        "http://www.cs.cornell.edu/Info/Courses/Spring-96/CS516/Projects/proj.html",
+        "http://www.cs.cornell.edu/Info/Courses/Spring-96/CS516/Projects-prop/proj.html",
+        "http://www.cs.cornell.edu/Info/Courses/Spring-96/CS516/proj-idea.html"
+    ],
+    "ground_truth": "course"
+}

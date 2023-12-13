@@ -1,0 +1,10 @@
+{
+    "Title": "CS381/481 Fall 96 Course Information",
+    "Body": "The notes are also available in hardcopy for $7 from Linda Mardel, 5147 Upson.",
+    "link": [
+        "#1",
+        "#2",
+        "#3"
+    ],
+    "ground_truth": "other"
+}

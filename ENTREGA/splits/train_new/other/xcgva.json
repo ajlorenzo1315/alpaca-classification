@@ -1,0 +1,10 @@
+{
+    "Title": " MASTER OF SCIENCE IN COMPUTER SCIENCE",
+    "Body": "It is the student's responsibility to satisfy all requirements of the Computer Science Department and the Graduate College.",
+    "link": [
+        "http://a.cs.okstate.edu/faculty.html",
+        "http://a.cs.okstate.edu/csequip.html",
+        "http://a.cs.okstate.edu/finances.html"
+    ],
+    "ground_truth": "other"
+}

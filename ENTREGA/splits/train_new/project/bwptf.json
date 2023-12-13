@@ -1,0 +1,10 @@
+{
+    "Title": " TimeWare Project ",
+    "Body": "Date: Wed, 20 Nov 1996 19:38:58 GMT Server: Apache-SSL/0.4.3b Content-type: text/html Last-modified: Thu, 29 Aug 1996 22:12:15 GMT TimeWare Project Dali, Persistence of Memory The TimeWare Project The TimeWare Project is devoted to building tools for the design and implementation of concurrent, real-time systems.",
+    "link": [
+        "http://www.cs.umd.edu/projects/TimeWare/persistence_of_memory.gif",
+        "http://www.cs.umd.edu/projects/TimeWare/research/spec.html",
+        "http://www.cs.umd.edu/projects/TimeWare/research/compilers.html"
+    ],
+    "ground_truth": "project"
+}

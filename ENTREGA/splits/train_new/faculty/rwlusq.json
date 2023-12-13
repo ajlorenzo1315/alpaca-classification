@@ -1,0 +1,10 @@
+{
+    "Title": "Edward Scheinerman's Home Page",
+    "Body": "I am a professor of Mathematical Sciences in the G.W.C.",
+    "link": [
+        "mailto:ers@jhu.edu",
+        "http://brutus.mts.jhu.edu/~ers/erdos.JPG",
+        "http://www.mts.jhu.edu/"
+    ],
+    "ground_truth": "faculty"
+}

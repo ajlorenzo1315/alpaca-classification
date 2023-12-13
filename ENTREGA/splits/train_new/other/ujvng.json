@@ -1,0 +1,10 @@
+{
+    "Title": "Publications: K. Goldberg",
+    "Body": "A Pivoting Gripper for Feeding Industrial Parts , (with B. Carlisle and Anil Rao and Jeff Wiegley), 1994 IEEE Conference on Robotics and Automation .",
+    "link": [
+        "file://usc.edu/pub/iris/raiders.ps.Z",
+        "file://usc.edu/pub/iris/IRIS_93_325.ps.Z",
+        "file://usc.edu/pub/iris/IRIS_93_318.ps.Z"
+    ],
+    "ground_truth": "other"
+}

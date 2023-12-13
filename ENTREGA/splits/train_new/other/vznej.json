@@ -1,0 +1,10 @@
+{
+    "Title": "   Recent Projects and Selected Publication Abstracts \n",
+    "Body": "This work is concerned with planning collision-free paths for a robot arm moving in an environment filled with unknown obstacles, where any point of the robot body is subject to collision.",
+    "link": [
+        "#Maze-searching",
+        "#Effect_of_kinematics",
+        "#Jogger_model"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "\nCS418 Lab 8\n",
+    "Body": "Modify the program to add the following features: Modify the colors of the rivers by mapping the magnitude of the gradient (the slope) onto the streamlines, then coloring them so that high slopes regions of the streams are white to simulate rapids, while lower slopes are blue.",
+    "link": [
+        "http://www.tc.cornell.edu/Visualization/Education/cs418/labs/FractalSurface1995.net",
+        "http://www.tc.cornell.edu/Visualization/Education/cs418/labs/FractalSurface1995.cfg",
+        "http://www.tc.cornell.edu/Visualization/Education/cs418/student.1996.gifs/lab8.96results.html"
+    ],
+    "ground_truth": "other"
+}

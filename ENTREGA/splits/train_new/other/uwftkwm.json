@@ -1,0 +1,10 @@
+{
+    "Title": "Web-sters' Net-Work: Women in Info Technology",
+    "Body": "University of Minnesota: Women in Technology Home Page This page is devoted to trying to provide information about resources for women in all of the various technological sciences, and so has information for women in more than just the information technology field(s).",
+    "link": [
+        "http://www.wwwomen.com/webring.shtml",
+        "http://www.webring.org/cgi-bin/webring?id=17&ring=women&next",
+        "http://www.wwwomen.com/webring.shtml"
+    ],
+    "ground_truth": "other"
+}

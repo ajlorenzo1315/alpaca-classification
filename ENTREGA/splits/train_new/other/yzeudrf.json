@@ -1,0 +1,10 @@
+{
+    "Title": "CSE 143 Lecture Notes",
+    "Body": "Date: Mon, 02 Dec 1996 14:24:51 GMT Server: NCSA/1.4.2 Content-type: text/html CSE 143 Lecture Notes CSE 143 Lecture Notes Lecture Slides On-line versions of the lecture slides (6 per page) are available here, in PostScript and Acrobat formats.",
+    "link": [
+        "ftp://ftp.cs.washington.edu/courses/cse143/CurrentQtr/lectures/01a-admin.ps",
+        "ftp://ftp.cs.washington.edu/courses/cse143/CurrentQtr/lectures/01a-admin.pdf",
+        "ftp://ftp.cs.washington.edu/courses/cse143/CurrentQtr/lectures/01b-intro.ps"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Funda's Research Page",
+    "Body": "For more information on program testing, Hal Wasserman has a testing page in Berkeley that also contains links to some of the people who have done work in the field.",
+    "link": [
+        "http://www.cs.cornell.edu/Info/People/ronitt/homepage.html",
+        "http://www.cs.berkeley.edu/~halw/",
+        "http://www.cs.cornell.edu/Info/People/ergun//www/cs.cornell.edu/Info/People/ergun/approx.ps"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "CSE422 Computer System Design",
+    "Body": "Lecture Notes: Course Guide Course Agenda 4-Pole Stepper Motor Control Mentor Graphics Documents Levels of Detail in Design Xilinx memgen for ROM/RAM IEEE Microprocesor Assembly Language Standard IEEE Standard Format for Microprocessor Object Modules Homework Assignments: Team Assignment Homework coverpage HW1: Stepper-Motor Controller HW2: Xilinx FPGA Tutorial HW3: QuickHDL & VHDLWrite Tutorial HW4: Autologic II Tutorial HW5: Roulette Wheel Design HW6: Term Project Proposal Guidlines for Oral Presentations Previous Examinations: Fall 95 Midterm Examination Lab/Design Projects: Switch Debouncing Circuits Switch Debounce, Sync, and Single-Pulse Circuit Web Sites of Related Courses: Xilinx Homepage Notes on Logic Synthesis with VHDL Combinational Logic",
+    "link": [
+        "http://www.cse.nd.edu/faculty/henry.html",
+        "mailto:ewh@cse.nd.edu",
+        "mailto:qxu@bach.helios.nd.edu"
+    ],
+    "ground_truth": "course"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Kang Su's PHAT Home Page ",
+    "Body": "It is Berriman's workout regiman based on periodization.",
+    "link": [
+        "mailto:kgatlin@cs.ucsd.edu",
+        "http://www.4control.com/sohh/",
+        "http://www-cse.ucsd.edu/index.html"
+    ],
+    "ground_truth": "student"
+}

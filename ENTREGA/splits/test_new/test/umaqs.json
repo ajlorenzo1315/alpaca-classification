@@ -1,0 +1,10 @@
+{
+    "Title": "Nale Dale - Publications",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Tuesday, 07-Jan-97 15:28:10 GMT Content-Type: text/html Content-Length: 6411 Last-Modified: Tuesday, 20-Aug-96 16:59:39 GMT Nale Dale - Publications Nell B. Dale Publications TITLES: Programming and Problem Solving with C++ , with Chip Weems and Mark Headington , 1996, Jones and Bartlett Pascal and Structured Design (Turbo Design) , with Chip Weems , 1995, Jones and Bartlett Pascal and Structured Design , with Chip Weems , 1994, Jones and Bartlett Programming and Problem Solving with Ada , with Chip Weems and John McCormick , 1994, Jones and Bartlett A Laboratory Course in Pascal , 1996, Jones and Bartlett A Laboratory Course in C++ , Jones and Bartlett Pascal Plus Data Structures, Algorithms and Advanced Programming , with S.Lilly, 1995, Jones and Bartlett Ada Plus Data Structures , with S.Lilly and John McCormick , 1996, Jones and Bartlett Abstract Data Types: Specifications, Implementations, and Applications , with Henry Walker, Jones and Bartlett Programming in Pascal , 1990, Jones and Bartlett Programming in Pascal With an Early Introduction to Procedures , 1990, Jones and Bartlett Pascal and Structured Design , with D. Orshalick, 1982, Jones and Bartlett Books ** Main ** Profile ** Students ** Mail Nell B. Dale, 1200 Westlake Dr., Austin, Tx.",
+    "link": [
+        "mailto:ndale@cs.utexas.edu",
+        "http://www.jbpub.com/nbis/progc.htm",
+        "http://www.cs.umass.edu/~weems/"
+    ],
+    "ground_truth": "unknow"
+}

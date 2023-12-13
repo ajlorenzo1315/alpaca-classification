@@ -1,0 +1,8 @@
+{
+    "Title": "Dynamic File Replication",
+    "Body": "A router gathers file request information while it passes the requests to the remote server and makes a replica at its local subnet when the request frequency for such file at this router exceeds a threshold.",
+    "link": [
+        "dfr.ps"
+    ],
+    "ground_truth": "other"
+}

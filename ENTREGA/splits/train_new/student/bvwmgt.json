@@ -1,0 +1,10 @@
+{
+    "Title": "Oren Zamir's Home Page",
+    "Body": "Here are some pictures from my last Rafting Trip .",
+    "link": [
+        "http://www.cs.washington.edu/",
+        "http://www.washington.edu",
+        "http://www.seanet.com/Seattle/SeattleHome.html"
+    ],
+    "ground_truth": "student"
+}

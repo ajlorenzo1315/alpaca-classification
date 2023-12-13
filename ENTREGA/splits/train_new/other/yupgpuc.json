@@ -1,0 +1,10 @@
+{
+    "Title": "Gid's papers",
+    "Body": "Date: Tue, 05 Nov 1996 21:56:55 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Sun, 27 Oct 1996 00:07:56 GMT Content-length: 1872 Gid's papers Papers by Gid Here are some of my papers, recent ones first.",
+    "link": [
+        "ftp://bark.cs.wisc.edu/pub/pfpaper.ps",
+        "ftp://bark.cs.wisc.edu/pub/summer-pfpaper.ps",
+        "http://www.cs.wisc.edu/~gid/papers/736proj.ps"
+    ],
+    "ground_truth": "other"
+}

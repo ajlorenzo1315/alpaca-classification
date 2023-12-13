@@ -1,0 +1,10 @@
+{
+    "Title": "PIM Project",
+    "Body": "Efficiency is evaluated  in  terms  of  the  state,  control  message processing,  and  data  packet  processing required across the entire network in order to deliver data packets to the members of the group.",
+    "link": [
+        "ftp://catarina.usc.edu/pub/pim",
+        "http://catarina.usc.edu/pim/pimsm",
+        "http://catarina.usc.edu/pim/pimsm/PIM-Arch.ps.gz"
+    ],
+    "ground_truth": "project"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "\nArash Baratloo's home page\n",
+    "Body": "This page was last modified on Nov 18, 1996 Table of Contents Education Research Activities Thesis Advisor List of Publications Contact Information Education New York University , New York, New York Courant Institute of Mathematical Sciences , Computer Science Department Candidate for Doctor of Philosophy , expected May 1997 Cornell University , Ithaca, New York College of Engineering , Department of Computer Science Master of Engineering , August 1993 Cornell University , Ithaca, New York College of Engineering , Department of Computer Science Bachelor of Science , May 1988 Research Activities I am interested in making distributed computing accessible to common programmers.",
+    "link": [
+        "http://cs.nyu.edu/",
+        "http://www.cims.nyu.edu/",
+        "http://www.nyu.edu/"
+    ],
+    "ground_truth": "student"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "CS 110 Section 2 Lecture Notes - Week 2",
+    "Body": "11  20  67 ENTER The values the user types in must be entered in the same order and be the same type as the variables in the READ statement.",
+    "link": [
+        "http://www.cs.wisc.edu/~tick/cs110.html#text",
+        "http://www.cs.wisc.edu/~bestor/bestor.html",
+        "mailto:bestor@cs.wisc.edu"
+    ],
+    "ground_truth": "other"
+}

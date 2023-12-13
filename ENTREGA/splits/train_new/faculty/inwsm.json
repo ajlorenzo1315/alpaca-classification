@@ -1,0 +1,10 @@
+{
+    "Title": "\n\tTodd Proebsting\n\t",
+    "Body": "The projects first project is a \"reference compiler\" for Java, Toba , which is a Java-bytecode-to-C translation system that yields very efficient (but non-mobile) Java executables.",
+    "link": [
+        "http://www.cs.arizona.edu",
+        "http://www.cs.arizona.edu/classes/cs453/",
+        "http://www.cs.arizona.edu/classes/cs620/"
+    ],
+    "ground_truth": "faculty"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Ed Posnak's Publications",
+    "Body": "Lavender, and  H. M. Vin Adaptive Pipeline: an Object Structural Pattern for Adaptive Applications.",
+    "link": [
+        "/users/dmcl/Abstracts/PLOP96.html",
+        "/users/dmcl/Postscript/PLOP96.ps",
+        "/users/dmcl/Abstracts/SPIE96.html"
+    ],
+    "ground_truth": "other"
+}

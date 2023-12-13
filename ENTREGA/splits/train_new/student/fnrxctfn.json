@@ -1,0 +1,10 @@
+{
+    "Title": "David Christianson",
+    "Body": "I have also collaborated with Sean Anderson, Li-Wei He, Dan Weld, David Salesin, and Michael Cohen to develop a simple interactive movie that demonstrates automatic camera planning.",
+    "link": [
+        "http://www.cs.washington.edu/htbin-post/finger/dbc1@cs",
+        "http://www.cs.washington.edu/",
+        "http://www.washington.edu/"
+    ],
+    "ground_truth": "student"
+}

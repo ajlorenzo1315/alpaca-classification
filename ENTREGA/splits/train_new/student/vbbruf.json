@@ -1,0 +1,10 @@
+{
+    "Title": " The Home Page of Ayman Khalfalah ",
+    "Body": "Date: Tue, 26 Nov 1996 03:59:53 GMT Server: Apache/1.1.1 Content-type: text/html Content-length: 1032 Last-modified: Mon, 25 Nov 1996 17:28:40 GMT The Home Page of Ayman Khalfalah Ayman Khalfalah Computer Sciences Department (Room Hill 101) Rutgers the state university of New Jersy Piscattaway N.J. USA Phone: (908) 819-3967 E-mail: akhalfal@paul.rutgers.edu Education MS in Computer Science, Alexandria University, Alexandria , Egypt , July 1996.",
+    "link": [
+        "http://www.cs.rutgers.edu/",
+        "http://www.rutgers.edu/",
+        "mailto:akhalfal@paul.rutgers.edu"
+    ],
+    "ground_truth": "student"
+}

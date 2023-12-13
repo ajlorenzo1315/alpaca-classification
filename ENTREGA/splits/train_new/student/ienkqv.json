@@ -1,0 +1,10 @@
+{
+    "Title": "Basil Vandegriend's Home Page",
+    "Body": "Particular games I am interested in include the Magic: The Gathering trading card game, and the Hero roleplaying game.",
+    "link": [
+        "mailto:basil@cs.ualberta.ca",
+        "http://web.cs.ualberta.ca/home.html",
+        "http://web.cs.ualberta.ca/UAlberta.html"
+    ],
+    "ground_truth": "student"
+}

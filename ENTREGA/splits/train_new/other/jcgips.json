@@ -1,0 +1,10 @@
+{
+    "Title": "Modeling Human Facial Expressions",
+    "Body": "Note that the Pd - Po term in this formula moves all the vertices in the bounding box and the radius of influence parallel to the vector between the point of force application towards the point of attraction.",
+    "link": [
+        "http://www.cs.cornell.edu/Info/People/ddhung/poetry/poetry.html",
+        "http://www.cs.cornell.edu/Info/People/szuwen/szuwen.html",
+        "http://www.tc.cornell.edu/Visualization/Education/cs718/fall1995/ddhung/nahas88.html"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,5 @@
+{
+    "Título": "Natural Language Processing Laboratory",
+    "Cuerpo": "Date: Wed, 20 Nov 1996 19:48:15 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Tue, 01 Oct 1996 15:40:22 GMT Content-length: 2863 Natural Language Processing Laboratory Natural Language Processing Laboratory, University of Massachusetts Welcome to the Natural Language Processing Laboratory The Natural Language Processing Laboratory is active in the areas of sentence analysis, discourse analysis, corpus-driven text comprehension and information extraction. NLP software developed at UMass is available to both university and commercial labs under standard licensing agreements. Information Extraction Research Projects The People Behind the Scenes Online Publications: NLP home page CIIR home page All contents Copyright © 1994, 1995, 1996 ACSIOM. Questions and comments go to webmaster@www-nlp.cs.umass.edu.",
+    "ground_truth": "project"
+}

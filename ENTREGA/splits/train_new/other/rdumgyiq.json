@@ -1,0 +1,10 @@
+{
+    "Title": " Maria Alvisi Home Page ",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Tuesday, 07-Jan-97 15:28:40 GMT Content-Type: text/html Content-Length: 594 Last-Modified: Tuesday, 24-Sep-96 22:15:31 GMT Maria Alvisi Home Page In Ithaca (Winter 1995) Peekaboo!",
+    "link": [
+        "maria1.gif",
+        "maria2.gif",
+        "maria3.gif"
+    ],
+    "ground_truth": "other"
+}

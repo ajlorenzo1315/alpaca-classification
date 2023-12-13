@@ -1,0 +1,10 @@
+{
+    "Title": "CS 110 Section 2 Lecture Notes - Week 7",
+    "Body": "As with passing simple variables as arguments, array variables must first be declared in the main program.",
+    "link": [
+        "http://www.cs.wisc.edu/~bestor/cs110/cs110.html#text",
+        "http://www.cs.wisc.edu/~bestor/bestor.html",
+        "mailto:bestor@cs.wisc.edu"
+    ],
+    "ground_truth": "other"
+}

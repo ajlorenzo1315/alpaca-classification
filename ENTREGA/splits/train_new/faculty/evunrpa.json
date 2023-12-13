@@ -1,0 +1,10 @@
+{
+    "Title": "Gina M. Koehn's HomePage",
+    "Body": "Currently, Gina is a lecturer in the Department teaching several introductory computer science courses and an upper year AI course.",
+    "link": [
+        "http://www.cs.usask.ca/spec_int/wcs/wcshome.html",
+        "http://www.cs.usask.ca/faculty/koehn/family.html",
+        "http://www.cs.usask.ca/classes/100"
+    ],
+    "ground_truth": "faculty"
+}

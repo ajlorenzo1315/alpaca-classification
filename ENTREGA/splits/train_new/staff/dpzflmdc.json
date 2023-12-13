@@ -1,0 +1,10 @@
+{
+    "Title": "Kevin Bolding ",
+    "Body": "I spend most of my time teaching Electrical and Computer Engineering at Seattle Pacific University .",
+    "link": [
+        "http://www.cs.washington.edu/",
+        "http://www.washington.edu/",
+        "http://www.cs.washington.edu/area/"
+    ],
+    "ground_truth": "staff"
+}

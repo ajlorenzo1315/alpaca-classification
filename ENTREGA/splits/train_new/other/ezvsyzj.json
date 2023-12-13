@@ -1,0 +1,8 @@
+{
+    "Title": " Research ",
+    "Body": "We are studying the optimality and practicality of this structure, hoping that the results will make a variety of estimation algorithms unnecessary, while providing better estimates of both result sizes and query costs.",
+    "link": [
+        "http://www.cs.wisc.edu/~poosala/tech/pub.html"
+    ],
+    "ground_truth": "other"
+}

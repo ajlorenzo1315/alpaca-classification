@@ -1,0 +1,10 @@
+{
+    "Title": "Ramesh K. Sitaraman",
+    "Body": "He received his Ph.D. in computer science from Princeton University in 1993.",
+    "link": [
+        "http://www.cs.umass.edu",
+        "http://www.cs.umass.edu/rcfdocs/newhome",
+        "http://www.cs.umass.edu/~thtml/people/fac/rosenberg.html"
+    ],
+    "ground_truth": "faculty"
+}

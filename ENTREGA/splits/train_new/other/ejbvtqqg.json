@@ -1,0 +1,9 @@
+{
+    "Title": "Isaac Demo",
+    "Body": "When the demo is started, a graphics window and an input window with a command menu are created.",
+    "link": [
+        "/users/novak/ijcai77.html",
+        "http://www.cs.utexas.edu/users/novak/index.html"
+    ],
+    "ground_truth": "other"
+}

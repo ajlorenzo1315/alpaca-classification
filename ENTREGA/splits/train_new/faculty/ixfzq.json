@@ -1,0 +1,10 @@
+{
+    "Title": "Mark W. Green",
+    "Body": "The MR Toolkit : The MR Toolkit is a set of software tools for the production of VR applications that has been under development for the past 5 years.",
+    "link": [
+        "http://web.cs.ualberta.ca/home.html",
+        "http://web.cs.ualberta.ca/UofA-about.html",
+        "http://home.netscape.com/comprod/mirros/index.html"
+    ],
+    "ground_truth": "faculty"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Jerry's Place",
+    "Body": "Upon completing my Ph.D. degree I have interests in teaching and combining my two areas of knowledge (clinical nursing and computer science) by joining a research group involved in Biomedical Informatics.",
+    "link": [
+        "http://cswww.vuse.vanderbilt.edu/~weinberg/data.au",
+        "http://cswww.vuse.vanderbilt.edu/~weinberg/toccata.au",
+        "http://cswww.vuse.vanderbilt.edu/"
+    ],
+    "ground_truth": "student"
+}

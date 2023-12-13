@@ -1,0 +1,5 @@
+{
+    "Título": "CS 110 Section 1 - Current Grades",
+    "Cuerpo": "Date: Mon, 11 Nov 1996 18:03:19 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Wed, 15 May 1996 23:13:01 GMT Content-length: 2051 CS 110 Section 1 - Current Grades Current Grades - Section 1 ID Number\tWWW\tProg0\tProg1\tDays1\tProg2\tDays2\tProg3\tDays3\tProg4\tDays4\tTotal\tGrade ---------------+-------+-------+-------+-------+-------+-------+-------+-------+-------+-------+-------+------- 3949040319\t\tY\t48.0\t0\t47.0\t0\t50.0\t0\t49.5\t0\t97.3\tCR Key WWW - Extra 1% credit World-Wide-Web search assignment ProgN - Raw score for Program #N ( before late penalty is applied) DaysN - Days late for Program #N (-20% per day) Copyright © 1996 Gareth S. Bestor ( bestor@cs.wisc.edu ). Last modified February 27, 1996.",
+    "ground_truth": "other"
+}

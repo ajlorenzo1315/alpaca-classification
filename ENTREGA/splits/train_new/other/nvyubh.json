@@ -1,0 +1,10 @@
+{
+    "Title": "Teaching Logic as a tool",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Sunday, 24-Nov-96 21:25:11 GMT Content-Type: text/html Content-Length: 2105 Last-Modified: Thursday, 02-May-96 14:56:35 GMT Teaching Logic as a tool An introduction to teaching logic as a tool Logic is the glue that binds together methods of reasoning, in all domains.",
+    "link": [
+        "http://www.cs.cornell.edu/Info/People/gries/Logic/LogicalApproach.html",
+        "http://www.cs.cornell.edu/Info/People/gries/Logic/Manual.html",
+        "http://www.cs.cornell.edu/Info/People/gries/Logic/Equational.html"
+    ],
+    "ground_truth": "other"
+}

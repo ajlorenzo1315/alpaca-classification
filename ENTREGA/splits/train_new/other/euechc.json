@@ -1,0 +1,8 @@
+{
+    "Title": "Happy Hour Info",
+    "Body": "It's a great way to get to know some of the people in the department you might not meet otherwise, and to get the scoop on the in's and out's of UT's CS program.",
+    "link": [
+        "mailto:adams@cs.utexas.edu"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "\nYONG LU'S HOMEPAGE\n",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Monday, 06-Jan-97 19:34:56 GMT Content-Type: text/html Content-Length: 7320 Last-Modified: Monday, 04-Nov-96 03:40:10 GMT YONG LU'S HOMEPAGE To Yong Lu's Homepage You are number visitor since 4/16/1996 About Yong Lu From Beijing , China .",
+    "link": [
+        "http://www.ihep.ac.cn/tour/bj.html",
+        "http://www.net.edu.cn/",
+        "http://www.cs.utexas.edu/"
+    ],
+    "ground_truth": "student"
+}

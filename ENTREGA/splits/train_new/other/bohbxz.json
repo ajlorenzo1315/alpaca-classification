@@ -1,0 +1,10 @@
+{
+    "Title": "The Weakest Failure Detector for Solving Consensus",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Sunday, 24-Nov-96 22:05:04 GMT Content-Type: text/html Content-Length: 1788 Last-Modified: Friday, 27-Oct-95 20:23:32 GMT The Weakest Failure Detector for Solving Consensus The Weakest Failure Detector for Solving Consensus by Tushar Deepak Chandra , Vassos Hadzilacos and Sam Toueg .",
+    "link": [
+        "http://www.cs.cornell.edu/Info/People/chandra/home.html",
+        "http://www.cdf.toronto.edu:/DCS/CSRI/Hadzilacos.html",
+        "http://www.cs.cornell.edu/Info/People/sam/sam.html"
+    ],
+    "ground_truth": "other"
+}

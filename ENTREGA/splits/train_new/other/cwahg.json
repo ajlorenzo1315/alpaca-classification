@@ -1,0 +1,10 @@
+{
+    "Title": "Navigational Index",
+    "Body": "Date: Tue, 05 Nov 1996 21:21:30 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Fri, 18 Oct 1996 04:02:37 GMT Content-length: 9820 Navigational Index Navigational Index The following provides a hierarchical listing of all the pages in this web that can be reached by following links from the top-level.",
+    "link": [
+        "http://www.cs.wisc.edu/~moy/moy.html",
+        "http://www.cs.wisc.edu/~moy/oldnews.html",
+        "http://www.cs.wisc.edu/~moy/travel.html"
+    ],
+    "ground_truth": "other"
+}

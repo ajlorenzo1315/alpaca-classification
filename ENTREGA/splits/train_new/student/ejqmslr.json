@@ -1,0 +1,10 @@
+{
+    "Title": "Milo M. Martin's Home Page",
+    "Body": "Rules Current list of players Ultimate Frisbee - UPA (The Ultimate Players Association) - ``Ultimate combines elements of soccer, football and basketball in a fast-paced game, played with a frisbee, where everyone is a quarterback and everyone is a receiver.''",
+    "link": [
+        "http://www.cs.wisc.edu/cgi-bin/finger?milo",
+        "http://www.cs.wisc.edu/",
+        "http://www.wisc.edu/"
+    ],
+    "ground_truth": "student"
+}

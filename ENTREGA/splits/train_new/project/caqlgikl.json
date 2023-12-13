@@ -1,0 +1,10 @@
+{
+    "Title": "Impulse-based Dynamic Simulation",
+    "Body": "[238K postscript] [50K gzipped postscript] Brian Mirtich and John Canny, ``Impulse-based Simulation of Rigid Bodies,'' in Proceedings of 1995 Symposium on Interactive 3D Graphics, April 1995.",
+    "link": [
+        "http://http.cs.berkeley.edu/~mirtich/homepage.html",
+        "http://www.cs.berkeley.edu/~fbarr",
+        "http://http.cs.berkeley.edu/~jfc"
+    ],
+    "ground_truth": "project"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Local Info About the UW Astro Dept",
+    "Body": "Server: Netscape-Communications/1.1 Date: Wednesday, 11-Dec-96 23:02:06 GMT Last-modified: Tuesday, 19-Nov-96 19:25:25 GMT Content-length: 1304 Content-type: text/html Local Info About the UW Astro Dept Local Information and Events Colloquia Journal Club talks The information below is only available to members of the UW Astronomy Department.",
+    "link": [
+        "http://www.astro.wisc.edu/talks/colloquia_current.html",
+        "http://www.astro.wisc.edu/talks/journal_club_current.html",
+        "http://www.astro.wisc.edu/localhelp/WhatsNew.html"
+    ],
+    "ground_truth": "unknow"
+}

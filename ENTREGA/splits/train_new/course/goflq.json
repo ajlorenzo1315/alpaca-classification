@@ -1,0 +1,10 @@
+{
+    "Title": "CS 6 Homepage",
+    "Body": "Date: Tue, 26 Nov 1996 18:41:35 GMT Server: NCSA/1.5.1 Last-modified: Mon, 23 Sep 1996 02:16:15 GMT Content-type: text/html Content-length: 1316 CS 6 Homepage Harvey Mudd College Computer Science 6 Computer Problem Solving and Applications Fall 1996 PANIC MESSAGES Syllabus Programming Assignments How to Submit Your Homework Homework Grading Tutoring Java and HMCSupport on a PC!",
+    "link": [
+        "http://www.cs.hmc.edu/~mike/courses/cs6/panic.html",
+        "http://www.cs.hmc.edu/~mike/courses/cs6/admin/syllabus.html",
+        "http://www.cs.hmc.edu/~mike/courses/cs6/hwks/hwks.html"
+    ],
+    "ground_truth": "course"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Ken Harker KM5FA - Amateur Radio",
+    "Body": "In addition to those below, I have also been known to operate FM voice on the 6m, 2m, and 70cm bands, chase DX stations on the HF bands, use Amateur Radio satellites, and enjoy SWL.",
+    "link": [
+        "http://www.utexas.edu/students/utarc/",
+        "http://oak.oakland.edu:8080/pub/hamradio/arrl/bbs/general/vucc.rls",
+        "http://www.utexas.edu/students/utarc/cc/"
+    ],
+    "ground_truth": "other"
+}

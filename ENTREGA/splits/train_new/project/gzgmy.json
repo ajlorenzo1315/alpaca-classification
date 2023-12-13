@@ -1,0 +1,10 @@
+{
+    "Title": "\nResearch on Ubiquitous Telepresence\n",
+    "Body": "The TNS Video Rover by Vanu Bose of the Telemedia, Networks, and Systems Group (MIT) The Web Blimp by Eric Paulos and John Canny (UC Berkeley) Mechanical Gaze by Eric Paulos and John Canny (UC Berkeley) The Ornitorrinco Project by Eduardo Kac (University of Kentucky) and Ed Bennett (Art Institute of Chicago) The iNTERFACE Project: another ubot by Garnet Hertz The WWW Tele-Garden by Ken Goldberg (USC, UC Berkeley) and Joseph Santarromana (UC Irvine) The Mercury Project: Robotic Tele-excavation by Ken Goldberg (USC, UC Berkeley) and Michael Mascha (USC) Sniffle Project at Princeton by Terrence Kelly Xavier: an internet mobile robot with a camera by the Learning Robot Lab at CMU A remote controlled camera on the Web (from Norway) The University of Western Australia TELEROBOT A Web Controlled Camera at Carleton University Other UT-related Projects at Berkeley (XCF Group) Indices of Mechanical Devices on the Web Yahoo's List of Interesting Devices Connected to the Net Web Gadgets and Oddities (reviews from pointcom.com) Anthony Anderberg's List of of Internet Accessible Machines Rick Search's Thingy's on the Net Mike Doherty's Collection Courses on Telepresence/Ubiquitous Computing Ben Shneiderman's course on ``Virtual Reality and Telepresence'' (Univ.",
+    "link": [
+        "http://www.cs.colorado.edu/~doherty/Home.html",
+        "http://www.dmk.com/dmk/",
+        "http://www.cs.colorado.edu/~carlosm/Home.html"
+    ],
+    "ground_truth": "project"
+}

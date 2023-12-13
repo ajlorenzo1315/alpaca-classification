@@ -1,0 +1,10 @@
+{
+    "Title": "Ross Ortega's Education",
+    "Body": "Project Advisor: Prof. Gaetano Borriello .",
+    "link": [
+        "http://www.washington.edu",
+        "http://www.cs.washington.edu",
+        "http://www.cs.washington.edu/research/projects/lis/chinook/www"
+    ],
+    "ground_truth": "other"
+}

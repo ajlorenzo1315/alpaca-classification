@@ -1,0 +1,10 @@
+{
+    "Title": "Univ of Mass: Constellation of Nearby Pages",
+    "Body": "Central Servers on the UMass Campuses UMass Amherst The University of Massachusetts Amherst UMass_Boston The University of Massachusetts at Boston.",
+    "link": [
+        "#List",
+        "http://piglet.cs.umass.edu:4321/cgi-bin/imagemap/UmassSubway/UmassSubway.map",
+        "http://www.ecs.umass.edu/index.html"
+    ],
+    "ground_truth": "other"
+}

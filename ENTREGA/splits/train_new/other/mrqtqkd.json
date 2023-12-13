@@ -1,0 +1,10 @@
+{
+    "Title": "\nWeb View\n",
+    "Body": "Date: Tue, 10 Dec 1996 21:07:56 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Fri, 04 Oct 1996 17:08:01 GMT Content-length: 1998 Web View A new way to search and view pages on the World Wide Web!",
+    "link": [
+        "http://www.cs.washington.edu/homes/glinden/WebView/WebViewAbout.html",
+        "http://www.cs.washington.edu/homes/glinden/WebView/WebViewInstructions.html",
+        "http://www.cs.washington.edu/homes/glinden/WebView/WebViewWalk.html"
+    ],
+    "ground_truth": "other"
+}

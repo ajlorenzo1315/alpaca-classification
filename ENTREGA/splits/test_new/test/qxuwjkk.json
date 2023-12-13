@@ -1,0 +1,10 @@
+{
+    "Title": "Maged Michael's URCS Home Page",
+    "Body": "Date: Thursday, 21-Nov-96 23:39:52 GMT Server: NCSA/1.3 MIME-version: 1.0 Content-type: text/html Last-modified: Wednesday, 13-Nov-96 17:59:30 GMT Content-length: 6674 Maged Michael's URCS Home Page Maged Michael,  Ph.D. Student Journal and Conference Papers G. Hunt, M. Michael, S. Parthasarathy, and M. Scott, ``An Efficient Algorithm for Priority Queue Heaps,'' Technical Report 560, Department of Computer Science, University of Rochester, December 1994.",
+    "link": [
+        "http://www.elsevier.nl:80/section/computer/416/ipl/ipl.htm",
+        "ftp://ftp.cs.rochester.edu/pub/papers/systems/94.tr560.Efficient_algorithm_for_concurrent_priority_queue_heaps.ps.gz",
+        "http://www.ee.princeton.edu/~wolf/iccd-96.html"
+    ],
+    "ground_truth": "unknow"
+}

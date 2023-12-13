@@ -1,0 +1,10 @@
+{
+    "Title": "ECE Graduate Student Information",
+    "Body": "Date: Mon, 11 Nov 1996 21:12:37 GMT Server: NCSA/1.5 Content-type: text/html ECE Graduate Student Information College of Engineering University of Wisconsin - Madison Electrical and Computer Engineering Graduate Program Department Overview Degrees Admission Financial Support Academic Policies Research Areas Facilities Faculty Profiles Course Descriptions About Madison Miscellaneous Information The Graduate School If your browser supports TABLES, please tell the webmaster which browser you are using so that the next time you visit this page it will look a lot nicer.",
+    "link": [
+        "http://www.engr.wisc.edu/ece/",
+        "http://www.engr.wisc.edu/ece/caption.html",
+        "http://www.engr.wisc.edu/ece/grad/overview.html"
+    ],
+    "ground_truth": "other"
+}

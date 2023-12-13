@@ -1,0 +1,10 @@
+{
+    "Title": "CS611:  Scribed Lecture Notes",
+    "Body": "List of Scribes and Scribed Lectures: Scribe 1 Scribe 2 Notes Wed Sep  4 Steve Zdancewic Patrick White ML 1 Fri Sep  6 Nikola Valerjev Stephanie Weirich ML 2: ver.",
+    "link": [
+        "http://www.cs.cornell.edu/Info/Courses/Current/CS611/notes/9-4.ps",
+        "http://www.cs.cornell.edu/Info/Courses/Current/CS611/notes/9-6-a.ps",
+        "http://www.cs.cornell.edu/Info/Courses/Current/CS611/notes/9-6-b.ps"
+    ],
+    "ground_truth": "other"
+}

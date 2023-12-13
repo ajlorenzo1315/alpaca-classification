@@ -1,0 +1,10 @@
+{
+    "Title": " LARRY S. DAVIS ",
+    "Body": "Research at Maryland focuses on image stabilization and estimation of egomotion from time varying images.",
+    "link": [
+        "http://www.umiacs.umd.edu/",
+        "http://www.cfar.umd.edu:80/cvl/",
+        "http://www.umiacs.umd.edu/labs/GC/index.html#overview"
+    ],
+    "ground_truth": "faculty"
+}

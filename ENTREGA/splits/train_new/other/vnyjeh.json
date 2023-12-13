@@ -1,0 +1,10 @@
+{
+    "Title": "Stuff Mike does at Home",
+    "Body": "Flying I learned to fly a long time ago, but never really got into it.",
+    "link": [
+        "http://www.coc.powell-river.bc.ca/eagles/eagles.html",
+        "http://http.bsd.uchicago.edu/~b-davies/lyrics.html",
+        "http://geffen.com/gabriel.html"
+    ],
+    "ground_truth": "other"
+}

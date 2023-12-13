@@ -1,0 +1,10 @@
+{
+    "Title": "HORUS DISTRIBUTED COMPUTING ENVIRONMENT",
+    "Body": "Looking to the future, we hope that a mixture of Isis and Horus technologies will permit us to develop some of the very demanding applications that will be seen in next-generation groupware and planning systems.",
+    "link": [
+        "http://www.cs.cornell.edu/Info/Projects/ISIS/people/ken.gif",
+        "http://www.cs.cornell.edu/Info/Faculty/Kenneth_Birman.html",
+        "http://www.cs.cornell.edu/Info/Projects/ISIS/people/rvr.gif"
+    ],
+    "ground_truth": "project"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "PERSONAL INFORMATION ARCHITECTURE GROUP",
+    "Body": "One means toward that goal is the BodyNet , a kind of \"personal local wireless network\" that integrates various digital information appliances.",
+    "link": [
+        "http://clark.lcs.mit.edu",
+        "http://clark.lcs.mit.edu/bodynet.html",
+        "http://clark.lcs.mit.edu/LOT.html"
+    ],
+    "ground_truth": "project"
+}

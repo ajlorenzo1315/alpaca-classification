@@ -1,0 +1,10 @@
+{
+    "Title": "EECS 682  Distributed Systems ",
+    "Body": "of EECS University of Michigan 1301 Beal Ave. Ann Arbor, MI 48109-2122 E-mail: farnam@eecs.umich.edu Phone: (313) 936-2974 Fax: (313) 763-1503 Office: 3219 EECS Course Description: Significant advances in computer and communication technologies has enabled the development of numerous distributed operating systems and the introduction of different paradigms for distributed computing during the last two decades.",
+    "link": [
+        "http://www.eecs.umich.edu/~farnam",
+        "mailto:farnam@eecs.umich.edu",
+        "http://www.eecs.umich.edu/~farnam/682/Fall96/outline.ps"
+    ],
+    "ground_truth": "course"
+}

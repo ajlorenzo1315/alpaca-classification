@@ -1,0 +1,6 @@
+{
+    "Title": "Q1.m.html",
+    "Body": ".text __start:  add     sum, sum, n next:     add     n, n, 2           # keep n even rem     k, n, 3 beqz    k, next           # skip multiples of 3 ble     n, 72, __start puts    msg put     sum putc    '\\n\" done (5, ver 2) (10 points) Write a complete SAL program that will add all of the odd numbers from 9 to 105 except for multiples of 5.",
+    "link": [],
+    "ground_truth": "other"
+}

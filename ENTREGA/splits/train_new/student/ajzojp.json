@@ -1,0 +1,10 @@
+{
+    "Title": " \nTodd Wareham's Home Page \n",
+    "Body": "Date: Tue, 26 Nov 1996 16:24:18 GMT Server: Apache/1.0.5 Content-type: text/html Todd Wareham's Home Page Todd Wareham's Home Page H. Todd Wareham Department of Computer Science University of Victoria Victoria, British Columbia CANADA V8W 3P6 Office: ELW A212 Off: (250) 721-8763 FAX: (250) 721-7292 harold@csr.uvic.ca Problem solving is hunting; it is savage pleasure and we are born to it.",
+    "link": [
+        "http://www.csc.uvic.ca/home/harold/interests.html",
+        "http://www.csc.uvic.ca/home/harold/papers.html",
+        "http://www.csc.uvic.ca/home/harold/pres.html"
+    ],
+    "ground_truth": "student"
+}

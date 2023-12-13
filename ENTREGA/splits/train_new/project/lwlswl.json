@@ -1,0 +1,10 @@
+{
+    "Title": "Home document for the Computer Science Image Processing Laboratory",
+    "Body": "Server: Netscape-Commerce/1.1 Date: Tuesday, 26-Nov-96 01:00:48 GMT Last-modified: Tuesday, 27-Aug-96 19:42:55 GMT Content-length: 4630 Content-type: text/html Home document for the Computer Science Image Processing Laboratory Computer Science Image Processing Laboratory Welcome to the homepage of the Computer Science Image Processing Lab (IPLAB).",
+    "link": [
+        "http://cswww.vuse.vanderbilt.edu/~jmf/jmf.html",
+        "http://cswww.vuse.vanderbilt.edu/~image/sips/sips.html",
+        "http://cswww.vuse.vanderbilt.edu/~csinfo/cs.html"
+    ],
+    "ground_truth": "project"
+}

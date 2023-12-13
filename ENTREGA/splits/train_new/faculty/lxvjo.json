@@ -1,0 +1,10 @@
+{
+    "Title": "Charles Van Loan\n",
+    "Body": "Applications of the Kronecker product.",
+    "link": [
+        "http://www.cs.cornell.edu/Info/People/cv/cv.gif",
+        "http://www.cs.cornell.edu/Info/Department/Annual95/Beginning/annual-rpt95-home.html",
+        "http://www.cs.cornell.edu/"
+    ],
+    "ground_truth": "faculty"
+}

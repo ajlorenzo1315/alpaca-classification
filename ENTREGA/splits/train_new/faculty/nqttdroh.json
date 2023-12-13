@@ -1,0 +1,10 @@
+{
+    "Title": "Jiawei Han",
+    "Body": "Date: Mon, 25 Nov 1996 22:20:08 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Thu, 21 Nov 1996 17:26:44 GMT Content-length: 2244 Jiawei Han Jiawei Han - Database and Knowledge_Base Systems email : han@cs.sfu.ca Professor, Computing Science , Simon Fraser University Ph.D. Computer Sciences, Univ.",
+    "link": [
+        "mailto:han@cs.sfu.ca",
+        "http://fas.sfu.ca/cs/",
+        "http://www.sfu.ca"
+    ],
+    "ground_truth": "faculty"
+}

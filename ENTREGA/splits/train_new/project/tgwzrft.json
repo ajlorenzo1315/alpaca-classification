@@ -1,0 +1,10 @@
+{
+    "Title": "The ZPL Project",
+    "Body": "Date: Thu, 21 Nov 1996 20:30:23 GMT Server: NCSA/1.4.2 Content-type: text/html The ZPL Project The ZPL Project Department of Computer Science & Engineering University of Washington Box 352350 Seattle , WA 98195-2350 USA zpl-info@cs.washington.edu ZPL is a new array-based programming language suitable for most computations that would previously have been written in Fortran 77: ZPL programs run fast on sequential AND parallel computers, without modifications, and without special directives.",
+    "link": [
+        "http://www.cs.washington.edu/",
+        "http://www.cac.washington.edu:1183/",
+        "http://www.seanet.com/Seattle/SeattleHome.html"
+    ],
+    "ground_truth": "project"
+}

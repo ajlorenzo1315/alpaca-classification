@@ -1,0 +1,10 @@
+{
+    "Title": " Eric Hetherington's Homepage ",
+    "Body": "It is the best place to start and provides access to other search engines, etc.",
+    "link": [
+        "mailto:ehunter@bgnet.bgsu.edu",
+        "http://www.cs.bgsu.edu/~jburns/#html",
+        "http://oeonline.com/~slu2/"
+    ],
+    "ground_truth": "unknow"
+}

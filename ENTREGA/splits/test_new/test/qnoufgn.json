@@ -1,0 +1,10 @@
+{
+    "Title": "Steven Abrams",
+    "Body": "New York City Information Page The Carnegie-Melon Computer Vision Home Page (with icons - slow) The Carnegie-Melon Computer Vision Home Page (without icons - faster) The U-Mass Robotics Internet Resources Page Publications Steven Abrams and Peter K. Allen.",
+    "link": [
+        "http://www.eff.org/blueribbon.html",
+        "http://www.eff.org",
+        "href=\"http://www.eff.org/BlueRibbon/sites.html\""
+    ],
+    "ground_truth": "unknow"
+}

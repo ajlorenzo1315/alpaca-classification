@@ -1,0 +1,10 @@
+{
+    "Title": "Pen-Chung Yew",
+    "Body": "Date: Thu, 21 Nov 1996 20:55:04 GMT Server: Apache/1.1b3 Content-type: text/html Pen-Chung Yew Pen-Chung Yew Professor Email: yew@cs.umn.edu Phone: (612) 625-7387 Educational Background Ph.D. 1981, University of Illinois at Urbana-Champaign Professional Background 1994-present Full-Professor Department of Computer Science, University of Minnesota 1994-present Adjunct Professor, Department of Computer Science and Electrical and Computer Engineering, University of Illinios, Urbana 1992-1994 Associate Director, Center for Supercomputing Research and Development, University of Illinois, Urbana, IL.",
+    "link": [
+        "mailto:yew@cs.umn.edu",
+        "http://www.cs.umn.edu/Research/Agassiz/",
+        "http://www.cs.umn.edu/footer.map"
+    ],
+    "ground_truth": "faculty"
+}

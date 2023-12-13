@@ -1,0 +1,10 @@
+{
+    "Title": "reference",
+    "Body": "Date: Mon, 02 Dec 1996 15:57:06 GMT Server: NCSA/1.4.2 Content-type: text/html reference RenderMan RenderMan Artist Tools sl reference Shading globals Example shaders prman 3.6 sl extensions",
+    "link": [
+        "http://winsor.animarts.washington.edu/cse490/rat/",
+        "sl/globals.html",
+        "sl/examples.html"
+    ],
+    "ground_truth": "other"
+}

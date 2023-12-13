@@ -1,0 +1,10 @@
+{
+    "Title": "Johannes' Bookmarks",
+    "Body": "Date: Tue, 05 Nov 1996 21:57:24 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Fri, 03 May 1996 17:38:51 GMT Content-length: 18485 Johannes' Bookmarks Interesting Links Database related The Wisconsin DBMS Research Home Page Database Systems & Logic Programming Database Systems & Logic Programming (USA Mirror) The Stanford University Database Group Data Mining: Extending the Information Warehouse Framework Computer Science Bibliography Glimpse Server Knowledge Discovery and Data Mining Conference (KDD-95) Quest homepage VLDB96 (Bombay, India) Conference Home Page at IBM Almaden Research The Data Mine S*i*ftware: Tools for Knowledge Discovery in Data Knowledge Discovery and Data Mining Resources OMG Home Page The Data Warehousing Information Center Online Analytical Processing (OLAP) Fraunhofer ISST- Workflow-Management und Groupware Database Viewing Application MicroStrategy: Decision Support System (DSS) & Data Warehousing Relational OLAP (ROLAP) Software The Context Interchange Project An Introduction to Multidimensional Database Technology Algorithms related Universität Paderborn - HNI, AG MadH, HOME-Page Limits to Parallel Computation Dennis's Theory Page Bibliographies on Theory/Foundations of Computer Science Center for Discrete Mathematics and Theoretical Computer Science Bibliographies on Theory/Foundations of Computer Science Theory Net Home Page Bibliographic database LEABIB ACM SIGMOD Information Server Home Page SIGMOD/PODS'96 Electronic Information Resource Introductory Lectures on Data-Parallel Computing MASCOTS' 96 Call University UTCS Home Page Software Quality Institute (SQI) MIT Dept.",
+    "link": [
+        "http://www.cs.wisc.edu/~krisint/dbmshome.html",
+        "http://www.informatik.uni-trier.de/~ley/db/index.html",
+        "http://info.gte.com/dblp/db/index.html"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,9 @@
+{
+    "Title": " Information Filtering\n",
+    "Body": "This technology can be used by both the information sources and their end users, to route and control the delivery of information.",
+    "link": [
+        "http://www.cs.washington.edu/research/projects/ai/590i/bs/stadnyk.html",
+        "http://www.cs.washington.edu/homes/kepart/index.html"
+    ],
+    "ground_truth": "other"
+}

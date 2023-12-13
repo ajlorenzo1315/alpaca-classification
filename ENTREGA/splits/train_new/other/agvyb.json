@@ -1,0 +1,10 @@
+{
+    "Title": "What Is Importance-Based Feature Extraction?",
+    "Body": "If the agent's action from this state will have little bearing on the agent's future success, we say that the state is unimportant ; we define an important state as one having very different predictions of reinforcement for taking different actions.",
+    "link": [
+        "#idea",
+        "#everyday",
+        "#nnex"
+    ],
+    "ground_truth": "other"
+}

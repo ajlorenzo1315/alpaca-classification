@@ -1,0 +1,10 @@
+{
+    "Title": " Joe Hummel",
+    "Body": "A Simple Mechanism for Improving the Accuracy and Efficiency of Instruction-level Disambiguation, (full text in postscript) Languages and Compilers for Parallel Computing (August 1995), Lecture Notes in Computer Science, volume 1033, pp.",
+    "link": [
+        "mailto:jhummel@ics.uci.edu",
+        "http://www.ics.uci.edu/~jhummel//~jhummel/papers/lcssc95.ps",
+        "http://www.ics.uci.edu/~jhummel//~jhummel/papers/lcpc95.ps"
+    ],
+    "ground_truth": "student"
+}

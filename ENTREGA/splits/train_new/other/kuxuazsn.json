@@ -1,0 +1,10 @@
+{
+    "Title": " Publication List ",
+    "Body": "Pai Chou, Ross Ortega, Gaetano Borriello, \"Synthesis of the Hardware/Software Interface in Microcontroller-Based Systems,\" Proceedings of the IEEE/ACM International Conference on Computer-Aided Design , Santa Clara, CA, November 1992. pp.488-495.",
+    "link": [
+        "ftp://shrimp.cs.washington.edu/pub/chou/iccad95.ps.Z",
+        "ftp://shrimp.cs.washington.edu/pub/chou/isss95.ps.Z",
+        "file://ftp.cs.washington.edu/tr/1995/03/UW-CSE-95-03-04.PS.Z"
+    ],
+    "ground_truth": "other"
+}

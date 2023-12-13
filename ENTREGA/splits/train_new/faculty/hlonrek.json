@@ -1,0 +1,9 @@
+{
+    "Title": " Hans E. Lee",
+    "Body": "The dangers to society from the uncritical use of computers are largely ignored.",
+    "link": [
+        "http://www.msu.edu/",
+        "http://www.egr.msu.edu/"
+    ],
+    "ground_truth": "faculty"
+}

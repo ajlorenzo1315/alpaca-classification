@@ -1,0 +1,10 @@
+{
+    "Title": "CSE/ENGR 142 Class Messages ",
+    "Body": "Meanwhile, if you have Windows 3.1 at home, the hw5orig.c program will probably compile, but we're not sure if it will run properly unless you happen to have the Borland C++ version 4.5 compiler installed; in any case, you will need to figure out how to create a project file or make file that pulls together all the required files.",
+    "link": [
+        "http://www.cs.washington.edu/research/projects/tslides/",
+        "http://www.cs.washington.edu/htbin-post/unrestricted/cse142/byteserver.pl/education/courses/142/slides/ho-q-libraries+io.pdf",
+        "http://www.cs.washington.edu/homes/zahorjan/142-Survey/survey-responses.html"
+    ],
+    "ground_truth": "unknow"
+}

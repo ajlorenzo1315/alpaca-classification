@@ -1,0 +1,6 @@
+{
+    "Title": "CS 766 HW #2 Hints and FAQs",
+    "Body": "Thus you are still using a 3x3 window on your input image, but some values in this window are repeated.",
+    "link": [],
+    "ground_truth": "other"
+}

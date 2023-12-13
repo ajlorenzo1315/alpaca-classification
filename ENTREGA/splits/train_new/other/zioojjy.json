@@ -1,0 +1,8 @@
+{
+    "Title": " Printing Output from Outside the Lab ",
+    "Body": "If you're trying to do the homeworks from someplace other than the lab, and you can't get the output to go the printer, here's my advice: Printing from a Unix System If you're on a Unix system (probably using g++ or CC), use the \"script\" command if you have it.",
+    "link": [
+        "mailto:mbirk@cs.wisc.edu"
+    ],
+    "ground_truth": "other"
+}

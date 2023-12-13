@@ -1,0 +1,10 @@
+{
+    "Title": "Derek Eager Home Page",
+    "Body": "I am currently a member of the editorial board of IEEE Transactions on Software Engineering, and am in the final year of a three year term on the NSERC Grant Selection Committee for Computing and Information Sciences.",
+    "link": [
+        "http://www.cs.uregina.ca",
+        "http://www.cs.toronto.edu",
+        "http://www.cs.usask.ca/index.html"
+    ],
+    "ground_truth": "faculty"
+}

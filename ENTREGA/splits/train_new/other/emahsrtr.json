@@ -1,0 +1,10 @@
+{
+    "Title": "David Gries Curriculum Vitae",
+    "Body": "The Science of Programming .",
+    "link": [
+        "Papers/webster1.htm",
+        "http://cs-tr.cs.cornell.edu/TR/CORNELLCS:TR94-1455?abstract=",
+        "Papers/Monotonicity.ps"
+    ],
+    "ground_truth": "other"
+}

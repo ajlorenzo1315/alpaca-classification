@@ -1,0 +1,10 @@
+{
+    "Title": "CS381/481 Fall 96 Syllabus",
+    "Body": "1-3) Lecture 1:  Course Roadmap and Historical Perspective Lecture 2:  Operations on Sets Lecture 3:  Finite Automata and Regular Sets Lecture 4:  More on Regular Sets Lecture 5:  Nondeterministic Finite Automata Lecture 6:  The Subset Construction Lecture 7:  Pattern Matching and Regular Expressions Lecture 8:  More on Pattern Matching Lecture 9:  Regular Expressions and Finite Automata Supplementary Lecture A:  Kleene Algebra and Regular Expressions Lecture 10:  Homomorphisms Lecture 11:  Limitations of Finite Automata Lecture 12:  Using the Pumping Lemma Lecture 13:  DFA State Minimization Lecture 14:  A Minimization Algorithm Lecture 15:  Myhill-Nerode Relations Lecture 16:  The Myhill-Nerode Theorem Supplementary Lecture B:  Collapsing Nondeterministic Automata Supplementary Lecture C:  Automata on Terms Supplementary Lecture D:  The Myhill-Nerode Theorem for Term Automata Lecture 17:  Two-Way Finite Automata Lecture 18:  2DFAs and Regular Sets Pushdown Automata and Context Free Languages (H&U Chps.",
+    "link": [
+        "#1",
+        "#2",
+        "#3"
+    ],
+    "ground_truth": "other"
+}

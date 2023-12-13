@@ -1,0 +1,9 @@
+{
+    "Title": "CSE 143 Class Messages",
+    "Body": "To subscribe to a mailing list, send e-mail to majordomo@cs.washington.edu ; with the line subscribe listname in the message's body ( not its header), where listname is the name of the list you want to join.",
+    "link": [
+        "mailto:majordomo@cs.washington.edu",
+        "mailto:cse143-webmaster@cs.washington.edu"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,8 @@
+{
+    "Title": "Formatting Dollar Amounts in Program 2",
+    "Body": "This involves two steps: Telling the computer to print floating-point nuumbers using exactly two decimal places Making the dollar amounts line up at their decimal point The necessary material is described on pages 51 and 232 of the Savitch text (pages 65-66 of Perry & Levin).",
+    "link": [
+        "mailto:mbirk@cs.wisc.edu"
+    ],
+    "ground_truth": "unknow"
+}

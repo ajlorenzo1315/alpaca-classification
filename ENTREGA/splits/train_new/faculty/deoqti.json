@@ -1,0 +1,10 @@
+{
+    "Title": "Robert St. Amant (stamant@csc.ncsu.edu)",
+    "Body": "Artificial intelligence: I served on the program committee for the National Conference on Artificial Intelligence (AAAI-96) and I'm currently on the program committee for the Second International Conference on Intelligent Data Analysis ( IDA-97 ).",
+    "link": [
+        "http://www.csc.ncsu.edu/directory/bio/RStAmant.html",
+        "http://www.csc.ncsu.edu/",
+        "http://www.ncsu.edu/"
+    ],
+    "ground_truth": "faculty"
+}

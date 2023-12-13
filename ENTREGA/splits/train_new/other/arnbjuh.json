@@ -1,0 +1,10 @@
+{
+    "Title": "\n           Graduate Students at UW CS&E\n        ",
+    "Body": "Date: Tue, 10 Dec 1996 22:21:49 GMT Server: NCSA/1.4.2 Content-type: text/html Graduate Students at UW CS&E G RADUATE STUDENTS The Graduate Student Affairs page contains lots of useful information, including the Graduate Student Positions page,  links to job listings, and the invaluable how to be a good graduate student guide.",
+    "link": [
+        "http://www.cs.washington.edu/people/grads//",
+        "http://www.cs.washington.edu/orgs/student-affairs/gsc/index.html",
+        "http://www.cs.washington.edu/orgs/student-affairs/gsc/positions.html"
+    ],
+    "ground_truth": "other"
+}

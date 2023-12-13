@@ -1,0 +1,10 @@
+{
+    "Title": "\nCRA House Science Committee Oral Testimony\n",
+    "Body": "The HPCC program is the nation's research and education program in information technology HPCC is the coordinated multi-agency initiative that supports nearly all of our nation's fundamental research and graduate education in information technology.",
+    "link": [
+        "http://www.cs.washington.edu/homes/lazowska/lazowska.html",
+        "http://www.cs.washington.edu/",
+        "http://www.washington.edu/"
+    ],
+    "ground_truth": "other"
+}

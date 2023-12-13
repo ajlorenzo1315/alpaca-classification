@@ -1,0 +1,10 @@
+{
+    "Title": "Avinash Sodani's Home Page",
+    "Body": "Computer Science, University of Wisconsin-Madison, May 1996.",
+    "link": [
+        "http://www.cs.wisc.edu/cgi-bin/finger?sodani@ithaca",
+        "http://www.cs.wisc.edu/directories/gradlist.html",
+        "http://www.cs.wisc.edu"
+    ],
+    "ground_truth": "student"
+}

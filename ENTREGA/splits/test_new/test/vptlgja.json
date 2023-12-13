@@ -1,0 +1,10 @@
+{
+    "Title": " A SimLab Achievement ",
+    "Body": "Designing and building such a missle seeker is beyond the scope of the MADEFAST project.",
+    "link": [
+        "http://www.cs.cornell.edu/Info/Projects/SimLab/yer/95Ach/1-initial.html",
+        "http://www.madefast.org/",
+        "http://www.arpa.mil/"
+    ],
+    "ground_truth": "unknow"
+}

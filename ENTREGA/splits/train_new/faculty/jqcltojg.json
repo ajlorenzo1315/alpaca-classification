@@ -1,0 +1,10 @@
+{
+    "Title": "Edward S. Davidson's Home Page",
+    "Body": "The Center for Parallel Computing (CPC) may be contacted at: Center for Parallel Computing University of Michigan, College of Engineering Room 271 Cooley Building Ann Arbor, MI 48109-2104 Phone: (313) 936-2310",
+    "link": [
+        "http://www.eecs.umich.edu/~davidson/resume.html",
+        "http://www.eecs.umich.edu/~davidson/publications.html",
+        "http://www.eecs.umich.edu/~gabandah"
+    ],
+    "ground_truth": "faculty"
+}

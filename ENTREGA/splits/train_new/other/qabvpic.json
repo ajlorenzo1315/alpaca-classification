@@ -1,0 +1,10 @@
+{
+    "Title": "College Services",
+    "Body": "Date: Wed, 11 Dec 1996 23:15:48 GMT Server: NCSA/1.5 Content-type: text/html College Services College of Engineering University of Wisconsin - Madison College Services The college has a variety of services available for industry, government and students to share technology, undertake cooperative projects and enhance engineering education.",
+    "link": [
+        "http://www.engr.wisc.edu/services//",
+        "http://www.engr.wisc.edu/services/ecs/",
+        "http://www.cae.wisc.edu/"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "FP + OOP = Haskell",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Tuesday, 07-Jan-97 14:42:58 GMT Content-Type: text/html Content-Length: 3334 Last-Modified: Saturday, 04-Mar-95 05:56:52 GMT FP + OOP = Haskell Next: Contents FP + OOP = Haskell Emery Berger emery@cs.utexas.edu Department of Computer Science The University of Texas at Austin Austin, Texas 78712-1188 TR-92-30 December 12, 1991 Abstract: The programming language Haskell adds object-oriented functionality (using a concept known as type classes ) to a pure functional programming framework.",
+    "link": [
+        "node1.html",
+        "node1.html",
+        "node1.html"
+    ],
+    "ground_truth": "other"
+}

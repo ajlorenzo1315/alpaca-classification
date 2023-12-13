@@ -1,0 +1,10 @@
+{
+    "Title": "Aruna's homepage ",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Monday, 06-Jan-97 19:43:29 GMT Content-Type: text/html Content-Length: 1311 Last-Modified: Sunday, 01-Dec-96 19:39:01 GMT Aruna's homepage Aruna Addala Currently: graduate student The University of Texas at Austin Department of Computer Sciences Taylor Hall 2.214 Austin, Tx 78712 Education: Bachelor of Engineering in Computer Sciences S.J.",
+    "link": [
+        "http://www.utexas.edu",
+        "http://www.cs.utexas.edu",
+        "http://hulk.bu.edu:80/misc/karnataka/districts/mysore/index.html"
+    ],
+    "ground_truth": "unknow"
+}

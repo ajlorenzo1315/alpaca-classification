@@ -1,0 +1,10 @@
+{
+    "Title": " Ian Parsons ",
+    "Body": "As part of my research program, I am involved in the Enterprise project which is part of the Parallel Programming Systems Laboratory.",
+    "link": [
+        "http://www.cs.ualberta.ca/people/grad/gifs/ian.gif",
+        "http://www.cs.ualberta.ca/people/grad/aiff/ian.aiff",
+        "mailto:ian@cs.ualberta.ca"
+    ],
+    "ground_truth": "student"
+}

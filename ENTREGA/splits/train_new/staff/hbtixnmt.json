@@ -1,0 +1,10 @@
+{
+    "Title": "Eck's Home Page",
+    "Body": "Date: Tue, 26 Nov 1996 21:03:36 GMT Server: Apache/1.1.1 Content-type: text/html Content-length: 1488 Last-modified: Wed, 20 Mar 1996 16:50:36 GMT Eck's Home Page Eckehard Doerry, Ph.d. Interactive Systems Group University of Oregon BY THE WAY: If you are seeing this version of my home page, then you are using an outdated browser version.",
+    "link": [
+        "mailto:eck@cs.uoregon.edu",
+        "http://www.cs.uoregon.edu/~eck/features.html",
+        "http://www.cs.uoregon.edu/~eck/dissertation.html"
+    ],
+    "ground_truth": "staff"
+}

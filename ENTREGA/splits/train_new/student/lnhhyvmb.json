@@ -1,0 +1,10 @@
+{
+    "Title": "Home Page for Rick Kaye",
+    "Body": "Date: Tue, 26 Nov 1996 03:52:17 GMT Server: Apache/1.1.1 Content-type: text/html Content-length: 1599 Last-modified: Sun, 29 Sep 1996 15:57:34 GMT Home Page for Rick Kaye Rick Kaye Department of Computer Science Rutgers University PO Box 1179 Piscataway , NJ 08855-1179 USA Phone: (908) 445-3213    Ext.",
+    "link": [
+        "http://www.cs.rutgers.edu",
+        "http://www.rutgers.edu",
+        "http://www.nnic.noaa.gov/cgi-bin/netcast.do-\nit?state=Piscataway%2C+NJ&area=local&html=yes"
+    ],
+    "ground_truth": "student"
+}

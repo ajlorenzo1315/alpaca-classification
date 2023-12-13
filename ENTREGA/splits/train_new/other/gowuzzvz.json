@@ -1,0 +1,10 @@
+{
+    "Title": "Web Links",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Tuesday, 07-Jan-97 15:25:30 GMT Content-Type: text/html Content-Length: 4211 Last-Modified: Thursday, 19-Sep-96 15:34:07 GMT Web Links Web Links University of Texas: University of Texas home page Computer Sciences CS Calendar Artificial Intelligence Lab Software release under Gnu policy Financial Economics Server Library Catalog UT Library Universities and Research Institutes: Stanford Knowledge Systems Lab Stanford knowledge-sharing project Carnegie-Mellon University M.I.T.",
+    "link": [
+        "http://wwwhost.cc.utexas.edu/",
+        "http://www.cs.utexas.edu/",
+        "http://www.cs.utexas.edu/users/UTCS/calendar"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Divyakant Agrawal",
+    "Body": "Date: Thu, 21 Nov 1996 20:16:23 GMT Server: Apache/1.0.2 Content-type: text/html Content-length: 5408 Last-modified: Thu, 24 Oct 1996 20:52:58 GMT Divyakant Agrawal Divyakant Agrawal, Associate Professor Room 3117, Engineering I Department of Computer Science University of California Santa Barbara , CA 93106-5110 Internet: agrawal@cs.ucsb.edu Telephone: (805) 893-4385 CS Phone: (805) 893-4321 Fax: (805) 893-8553 Ph.D., Computer Science, SUNY at Stony Brook , 1987 M.S., Computer Science, SUNY at Stony Brook , 1984 B.E.",
+    "link": [
+        "http://kk.ucsb.edu/coe.html",
+        "http://www.cs.ucsb.edu/",
+        "http://www.ucsb.edu/"
+    ],
+    "ground_truth": "faculty"
+}

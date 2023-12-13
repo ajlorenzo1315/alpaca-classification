@@ -1,0 +1,6 @@
+{
+    "Title": "Color Perception and Correcting for Chromatic Induction",
+    "Body": "As motivation for this research, consider the case where the image below were your company logo: If you were to compose your logo with the image below on the left, you would generate an image like that shown below and on the right: This is an undesireable effect -- your company logo is supposed to be all gray, not red on top, green on bottom, and blue on the side!",
+    "link": [],
+    "ground_truth": "other"
+}

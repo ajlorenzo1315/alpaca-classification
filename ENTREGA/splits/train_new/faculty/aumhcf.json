@@ -1,0 +1,10 @@
+{
+    "Title": "Brian Bershad",
+    "Body": "Bershad.",
+    "link": [
+        "http://cs.indiana.edu/finger/gateway?bershad@cs.washington.edu",
+        "http://www.cs.washington.edu/homes/bershad/work.gif",
+        "http://www.cs.washington.edu/"
+    ],
+    "ground_truth": "faculty"
+}

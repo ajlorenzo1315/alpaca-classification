@@ -1,0 +1,10 @@
+{
+    "Title": "Taylor Simpson",
+    "Body": "Date: Tue, 26 Nov 1996 00:13:50 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Wed, 20 Nov 1996 22:24:25 GMT Content-length: 4655 Taylor Simpson Taylor Simpson Post Doctoral Research Associate Department of Computer Science Rice University Research Interests Optimizing Compilers Data-flow Analysis Static Single Assignment Form Global Value Numbering Code Motion Redundancy Elimination Register Allocation Background After earning a B.S.",
+    "link": [
+        "http://www.cs.rice.edu/~lts/taylor.gif",
+        "http://www.davidson.edu/academic/math/",
+        "http://www.davidson.edu"
+    ],
+    "ground_truth": "staff"
+}

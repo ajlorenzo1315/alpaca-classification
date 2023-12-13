@@ -1,0 +1,10 @@
+{
+    "Title": " Jie-Bing Yu's Home Page ",
+    "Body": "Date: Thu, 07 Nov 1996 19:16:29 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Wed, 30 Oct 1996 15:44:51 GMT Content-length: 4328 Jie-Bing Yu's Home Page Jie-Bing Yu Index: General Information | Education | Advisor | Research Interests | Research Projects | Publications | Pointers | Hobbies General Information Research Assistant Department of Computer Sciences University of Wisconsin - Madison 1210 West Dayton Street Madison , WI 53706 Tel: (608) 262-6622 Fax: (608) 262-9777 jiebing.cs.wisc.edu Education Ph.D. M.S.",
+    "link": [
+        "#address",
+        "#education",
+        "#advisor"
+    ],
+    "ground_truth": "student"
+}

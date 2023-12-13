@@ -1,0 +1,10 @@
+{
+    "Title": " The Computational Vision Lab",
+    "Body": "Our primary focus in the Vision Lab at SFU is in understanding colour: How are colours perceived?",
+    "link": [
+        "http://fas.sfu.ca/css",
+        "http://fas.sfu.ca/cs/people/Faculty/Funt/index.html",
+        "http://fas.sfu.ca/cs/research/groups/Vision/gesture.html"
+    ],
+    "ground_truth": "project"
+}

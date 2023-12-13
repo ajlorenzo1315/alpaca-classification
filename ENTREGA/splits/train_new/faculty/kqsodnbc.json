@@ -1,0 +1,10 @@
+{
+    "Title": "Randall W. Hill, Jr.",
+    "Body": "and Ph.D. degrees in Computer Science from the University of Southern California in 1987 and 1993, respectively.",
+    "link": [
+        "http://www.isi.edu/soar/soar-homepage.html",
+        "http://venera.isi.edu/",
+        "http://www.usma.edu/"
+    ],
+    "ground_truth": "faculty"
+}

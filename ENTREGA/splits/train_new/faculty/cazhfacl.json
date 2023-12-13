@@ -1,0 +1,10 @@
+{
+    "Title": " Scott Smith's Home Page ",
+    "Body": "Date: Wed, 20 Nov 1996 23:03:50 GMT Server: NCSA/1.5.1 Last-modified: Mon, 14 Oct 1996 14:42:06 GMT Content-type: text/html Content-length: 1438 Scott Smith's Home Page Scott F. Smith Associate Professor Department of Computer Science The Johns Hopkins University Baltimore, MD 21218-2686 phone: (410) 516-5299 fax: (410) 516-6134 email: scott@cs.jhu.edu http://www.cs.jhu.edu/scott/ office: New Engineering Building 214 main machine:  magpie.cs.jhu.edu My research interests span a number of areas in programming languages.",
+    "link": [
+        "http://www.cs.jhu.edu",
+        "http://www.jhu.edu",
+        "http://www.cs.jhu.edu/~scott/interests.html"
+    ],
+    "ground_truth": "faculty"
+}

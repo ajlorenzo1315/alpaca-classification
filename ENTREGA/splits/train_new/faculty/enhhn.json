@@ -1,0 +1,10 @@
+{
+    "Title": "Arthur Norberg",
+    "Body": "1959, Physics, Providence College Professional Background Associate Professor, University of Minnesota, 1981-1995 Director, Charles Babbage Institute for the History of Information Processing, University of Minnesota, 1981-1993 Program Manager, National Science Foundation, 1979-81 Policy Analyst,  National Science Foundation, 1978-79 Head, History of Science and Technology Program, University of California, Berkeley,  1973-1978 Instructor, Physics, University of Wisconsin, Whitewater, 1968-71 Assistant Professor, Physics, St. Michael's College (Vt.) 1961-63, 1964-68 Research Interests 19th and 20th century developments in technology, especially electronics, radio, computing, and tabulating, concentrating on the institutional aspects of innovation and product development.",
+    "link": [
+        "mailto:norberg@cs.umn.edu",
+        "http://www.cs.umn.edu/footer.map",
+        "mailto:www@cs.umn.edu"
+    ],
+    "ground_truth": "faculty"
+}

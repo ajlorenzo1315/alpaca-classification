@@ -1,0 +1,10 @@
+{
+    "Title": "COS 333: Advanced Programming Techniques (Spring 1995)",
+    "Body": "Server: Netscape-Commerce/1.12 Date: Wednesday, 20-Nov-96 22:45:09 GMT Last-modified: Friday, 22-Sep-95 20:18:57 GMT Content-length: 1596 Content-type: text/html COS 333: Advanced Programming Techniques (Spring 1995) COS333: Advanced Programming Techniques Important Announcement Course Description: Techniques for programming in the large and small will be discussed.",
+    "link": [
+        "http://www.CS.Princeton.EDU/courses/archive/spr95/cs333/motd.html",
+        "http://www.CS.Princeton.EDU/courses/archive/spr95/cs333/info.html",
+        "http://www.CS.Princeton.EDU/courses/archive/spr95/cs333/lectureNotes"
+    ],
+    "ground_truth": "course"
+}

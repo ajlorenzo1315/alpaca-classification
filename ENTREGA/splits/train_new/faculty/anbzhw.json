@@ -1,0 +1,10 @@
+{
+    "Title": "Harriet Fell's Home Page",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Thursday, 21-Nov-96 19:21:55 GMT Content-Type: text/html Content-Length: 5160 Last-Modified: Friday, 01-Nov-96 15:59:25 GMT Harriet Fell's Home Page Harriet Fell's Home Page [ SIGCAPH - SIGCSE | Research | Courses | Family | Miscellaneous ] Click here for the home pages for Northeastern University and the College of Computer Science .",
+    "link": [
+        "http://www.ccs.neu.edu/home/fell/images/personal/har_quadra.jpeg",
+        "http://www.ccs.neu.edu/home/fell/images/personal/harrietSnow.jpeg",
+        "http://www.ccs.neu.edu/home/fell/images/personal/HFreestyle.jpeg"
+    ],
+    "ground_truth": "faculty"
+}

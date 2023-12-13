@@ -1,0 +1,8 @@
+{
+    "Title": "CS 537 - Quiz #4",
+    "Body": "This type of approach is valid, but not as useful since it work work if the client processes are on different hosts in a network.",
+    "link": [
+        "http://www.cs.wisc.edu/~bart"
+    ],
+    "ground_truth": "other"
+}

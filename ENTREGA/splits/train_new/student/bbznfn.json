@@ -1,0 +1,10 @@
+{
+    "Title": "HomePage for Robert Efroymson",
+    "Body": "It also goes without saying that the opinions herein are mine own, and not those of UNM, the CS department, etc.",
+    "link": [
+        "http://www.cs.unm.edu",
+        "http://www.unm.edu/~hillel/hillel.html",
+        "http://www.cs.unm.edu/~refromsn/karate.html"
+    ],
+    "ground_truth": "student"
+}

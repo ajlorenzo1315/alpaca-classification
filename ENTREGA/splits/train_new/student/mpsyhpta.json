@@ -1,0 +1,10 @@
+{
+    "Title": "Welcome to Tianxiang Zhang's Personal Web Page",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Thursday, 21-Nov-96 22:29:33 GMT Content-Type: text/html Content-Length: 1925 Last-Modified: Friday, 17-May-96 20:44:42 GMT Welcome to Tianxiang Zhang's Personal Web Page This home page is maintained by Tianxiang Zhang Greeting Hi, this is Tian.",
+    "link": [
+        "http://www.ccs.neu.edu/home/zhangt/GreatWall1.jpg",
+        "http://www.ccs.neu.edu/home/zhangt/resume.html",
+        "http://www.ccs.neu.edu/Cobwebs/Java"
+    ],
+    "ground_truth": "student"
+}

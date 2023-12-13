@@ -1,0 +1,10 @@
+{
+    "Title": "Vivek Pai",
+    "Body": "He is currently working for Dr. Willy Zwaenepoel of the Computer Science Department , and is investigating buffer management for high-throughput systems.",
+    "link": [
+        "http://www.rice.edu/",
+        "http://www.cs.rice.edu/~willy",
+        "http://www.cs.rice.edu/"
+    ],
+    "ground_truth": "student"
+}

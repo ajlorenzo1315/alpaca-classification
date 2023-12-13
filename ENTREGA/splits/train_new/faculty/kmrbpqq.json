@@ -1,0 +1,10 @@
+{
+    "Title": "Richard Gerber",
+    "Body": "Bio - The Official Story : Richard Gerber is an Associate Professor of Computer Science at the University of Maryland, College Park.",
+    "link": [
+        "http://www.cis.upenn.edu/",
+        "http://www.cs.cornell.edu/",
+        "http://www.upenn.edu/"
+    ],
+    "ground_truth": "faculty"
+}

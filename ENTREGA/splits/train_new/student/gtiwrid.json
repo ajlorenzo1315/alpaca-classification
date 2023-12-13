@@ -1,0 +1,10 @@
+{
+    "Title": "David J. Finton's Home Page",
+    "Body": "I'm a grad student / research nerd in artificial intelligence here at the University of Wisconsin-Madison .",
+    "link": [
+        "http://spider.lloyd.com/~dragon/nerdtest.html",
+        "http://www.cs.wisc.edu/~finton/int.html",
+        "http://wiscinfo.wisc.edu/"
+    ],
+    "ground_truth": "student"
+}

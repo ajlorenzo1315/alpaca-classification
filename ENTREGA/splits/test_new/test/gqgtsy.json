@@ -1,0 +1,9 @@
+{
+    "Title": "\npolygons\n",
+    "Body": "The \"front\" of a polygon is defined as the side you see when you traverse the vertices of that face in a counter-clockwise direction.",
+    "link": [
+        "http://www.tc.cornell.edu/Visualization/contrib/cs490-95to96/suzuki/User/index.html",
+        "http://www.tc.cornell.edu/ctcCopyright.html"
+    ],
+    "ground_truth": "unknow"
+}

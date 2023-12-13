@@ -1,0 +1,10 @@
+{
+    "Title": "  CMSC 430 ",
+    "Body": "Due date changed until Tuesday, October 1 at 9:30am.",
+    "link": [
+        "http://www.cs.umd.edu/users/mvz/cmsc430.news",
+        "http://www.cs.umd.edu/users/mvz/syllabus430.ps",
+        "http://www.cs.umd.edu/users/mvz/project1.ps"
+    ],
+    "ground_truth": "course"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Hong Xiao's Home Page",
+    "Body": "Long list of things to do... An ounce of preparation is worth a pound of cure.",
+    "link": [
+        "http://www.cs.yale.edu/",
+        "http://www.yale.edu/",
+        "http://www.cs.yale.edu/HTML/YALE/CS/Brochure/faculty/mcdermott.html"
+    ],
+    "ground_truth": "student"
+}

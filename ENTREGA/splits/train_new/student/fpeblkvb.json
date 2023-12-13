@@ -1,0 +1,10 @@
+{
+    "Title": "Michael Klepikov's home page",
+    "Body": "Look at Moscow University Main Building at night and in winter !",
+    "link": [
+        "mailto:klm@cs.jhu.edu",
+        "http://c.gp.cs.cmu.edu:5103/prog/webster?",
+        "http://www.cs.jhu.edu/~klm/weather.html"
+    ],
+    "ground_truth": "student"
+}

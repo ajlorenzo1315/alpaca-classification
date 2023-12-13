@@ -1,0 +1,10 @@
+{
+    "Title": "CS 532 Homepage",
+    "Body": "I'd like you to explore the use of functional languages to define the operational semantics of languages.",
+    "link": [
+        "http://lal.cs.byu.edu/people/windley/windley.html",
+        "http://lal.cs.byu.edu/cs532/geninfo.html",
+        "http://lal.cs.byu.edu/cs532/policies.html"
+    ],
+    "ground_truth": "course"
+}

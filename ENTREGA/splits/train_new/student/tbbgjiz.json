@@ -1,0 +1,10 @@
+{
+    "Title": "Bulent Murtezaoglu's URCS Home Page",
+    "Body": "Bülent Murtezaoglu, URCS Grad Student Contact info.",
+    "link": [
+        "http://www.cs.rochester.edu/u/mucit/contact.html",
+        "http://www.cs.rochester.edu/u/mucit/finfo.html",
+        "http://www.cs.rochester.edu/u/mucit/res/newshell.html"
+    ],
+    "ground_truth": "student"
+}

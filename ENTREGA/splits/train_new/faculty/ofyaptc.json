@@ -1,0 +1,10 @@
+{
+    "Title": "Laurie Honour Werth",
+    "Body": "L. H. Werth, \"Industrial-strength CASE tools for software engineering classes,\" in Software Engineering Education , J. Tomayko, Eds.",
+    "link": [
+        "mailto:lwerth@cs.utexas.edu",
+        "http://www.cs.utexas.edu/users/lwerth/cs373/cs373.html",
+        "http://www.cs.utexas.edu/users/lwerth/cs378/cs378.html"
+    ],
+    "ground_truth": "faculty"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": " CS 50:  Introduction to Computer Science I",
+    "Body": "This page is currently maintained by Christopher A. Thorpe / cat@eecs.harvard.edu and Christian Sepulveda / csepulv@fas.harvard.edu Back to Table of Contents General Course Information and References Course Description (PostScript) Course Syllabus (PostScript) A Mosaic guide to vi Brian Kernighan's Programming Style Tips CS50 Style Guide (PostScript) A Glossary of Computer Science Terms Unix Tutorial (PostScript) Commonly Used Unix Manual Pages Course Reading List (Includes recommended reading) Printing Files on Your Personal Computer Office Hours What is PostScript ?",
+    "link": [
+        "#introduction",
+        "#reference",
+        "#lectures"
+    ],
+    "ground_truth": "unknow"
+}

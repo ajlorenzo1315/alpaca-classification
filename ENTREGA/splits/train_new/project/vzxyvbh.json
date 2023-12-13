@@ -1,0 +1,10 @@
+{
+    "Title": "P-CHASM Laboratory Home Page",
+    "Body": "Date: Wed, 20 Nov 1996 19:39:28 GMT Server: Apache-SSL/0.4.3b Content-type: text/html Last-modified: Sat, 12 Oct 1996 18:49:11 GMT P-CHASM Laboratory Home Page O verview: The P-CHASM laboratory seeks to apply ideas developed in the high-end scientific computing area to commercial applications including databases and mixed media.",
+    "link": [
+        "http://www.cs.umd.edu/projects/pchasm/mission.html",
+        "http://www.cs.umd.edu/~hollings",
+        "http://www.cs.umd.edu/~saltz"
+    ],
+    "ground_truth": "project"
+}

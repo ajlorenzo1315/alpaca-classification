@@ -1,0 +1,10 @@
+{
+    "Title": "CS 664:  Machine Vision",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Sunday, 24-Nov-96 21:27:12 GMT Content-Type: text/html Content-Length: 2814 Last-Modified: Monday, 06-May-96 18:43:27 GMT CS 664:  Machine Vision CS 664:  Machine Vision Course Staff: Instructor: Ramin Zabih Teaching Assistant: Justin Miller Class Time and Place MWF, 3:35-4:35, Phillips 219 Project Suggestions Problem Sets Problem Set 1 Problem Set 2 Course Class Notes How to Scribe Week 1 29 January - Regularization 31 January - Simulated Annealing 5 February - Computing Motion via Regularization 7 February - Calculus of Variations 12 February - Maximum Likelihood Estimation 14 February - Markov Random Fields 19 February - Snakes 21 February - Stereo and Motion 26 February - Introduction to Correlation 28 February - Mestimation 4 March - Non-parametric Methods 6 March - Guest Lecture 6 March - Non-parametric Transforms (Cont.)",
+    "link": [
+        "http://www.cs.cornell.edu/Info/People/rdz/rdz.html",
+        "http://www.cs.cornell.edu/Info/People/jmiller/Home.html",
+        "http://www.cornell.edu/bin/MapMove.x/M1-4-19?281,147"
+    ],
+    "ground_truth": "course"
+}

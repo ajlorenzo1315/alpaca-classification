@@ -1,0 +1,10 @@
+{
+    "Title": "CSE 557 Syllabus",
+    "Body": "Late assignments are marked down at a rate of 33% per day (not per lecture), meaning that if you fail to turn in an assignment on time it is worth 66% for the first 24 hours after the deadline, 33% for the next 24 hours, and it is worth nothing after that.",
+    "link": [
+        "http://www.cs.washington.edu/education/courses/557/95a/personnel.html",
+        "http://www.cs.washington.edu/education/courses/557/95a/indylab.html",
+        "http://www.cs.washington.edu/education/courses/557/95a/sierpinski"
+    ],
+    "ground_truth": "other"
+}

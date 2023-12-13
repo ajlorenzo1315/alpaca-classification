@@ -1,0 +1,10 @@
+{
+    "Title": " Those were the days ",
+    "Body": "Date: Tue, 05 Nov 1996 21:19:35 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Wed, 05 Jun 1996 23:37:17 GMT Content-length: 840 Those were the days Down memory lane ...",
+    "link": [
+        "http://spiderman.bu.edu/misc/india/",
+        "http://www.cse.iitb.ernet.in",
+        "http://www.cs.rice.edu"
+    ],
+    "ground_truth": "other"
+}

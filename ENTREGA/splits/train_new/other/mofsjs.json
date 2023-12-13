@@ -1,0 +1,10 @@
+{
+    "Title": "Practice Problems",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Sunday, 24-Nov-96 22:49:00 GMT Content-Type: text/html Content-Length: 1140 Last-Modified: Sunday, 24-Nov-96 17:59:22 GMT Practice Problems CS100B Prelim 2 Practice Problems Every Friday, I'll post some practice problems, and their solutions.",
+    "link": [
+        "l15p.html",
+        "l15s.html",
+        "l17p.html"
+    ],
+    "ground_truth": "other"
+}

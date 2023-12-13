@@ -1,0 +1,10 @@
+{
+    "Title": "No Title",
+    "Body": "Procedure plot ( top : Integer; ch:char); Var j : Integer; Begin Case top Of 1 : For j := 1 To 5 Do Begin Writeln (ch:j, ch:(11 - (2 * j))) End; 2 : For j := 5 DownTo 1 Do Begin Writeln (ch:j, ch:(11 - (2 * j))) End End End; 6.",
+    "link": [
+        "http://cs.nyu.edu/cs/dept_info/course_home_pages/fall96/A22.0002/node1.html",
+        "http://cs.nyu.edu/cs/dept_info/course_home_pages/fall96/A22.0002/node1.html",
+        "http://cs.nyu.edu/cs/dept_info/course_home_pages/fall96/A22.0002/node1.html#SECTION00010000000000000000"
+    ],
+    "ground_truth": "other"
+}

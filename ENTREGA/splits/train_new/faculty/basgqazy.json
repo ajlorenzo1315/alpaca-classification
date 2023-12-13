@@ -1,0 +1,10 @@
+{
+    "Title": "Professor Nell B. Dale Website",
+    "Body": "I received my Ph.D. in Computer Sciences in 1972 from UT Austin and have been on the faculty here since 1975.",
+    "link": [
+        "mailto:ndale@cs.utexas.edu",
+        "http://www.cs.utexas.edu/",
+        "mailto:ndale@cs.utexas.edu"
+    ],
+    "ground_truth": "faculty"
+}

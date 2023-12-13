@@ -1,0 +1,5 @@
+{
+    "Título": "The GNAT Project",
+    "Cuerpo": "Date: Tue, 26 Nov 1996 00:11:47 GMT Server: NCSA/1.4.1 Content-type: text/html Last-modified: Fri, 25 Oct 1996 21:07:47 GMT Content-length: 495 The GNAT Project The GNAT project which was started at NYU is no longer active. For further information on the current status of GNAT, a complete Ada 95 compiler system based on GCC, see www.gnat.com. Last updated 10/25/96",
+    "ground_truth": "project"
+}

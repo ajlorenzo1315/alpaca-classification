@@ -1,0 +1,10 @@
+{
+    "Title": "Anand Desai's Home Page",
+    "Body": "CSE 105: Intro theory of computation: Information and handouts are available on the Course web page CSE 203: Combinatorial Algorithms CSE 291E: Distributed Systems Security: Course web page Click here for the courses I have taken in previous quarters.",
+    "link": [
+        "mailto:adesai@cs.ucsd.edu",
+        "http://www-cse.ucsd.edu/users/mihir",
+        "http://www-cse.ucsd.edu/users/ej"
+    ],
+    "ground_truth": "student"
+}

@@ -1,0 +1,6 @@
+{
+    "Title": "Computing with Distributed Objects",
+    "Body": "Important features: Encapsulation Data are hidden behind methods Polymorphism Objects can be interchangeable, but different Inheritance Objects can be extended and altered, but remain interchangeable with the older models Related features: Early and late binding Frameworks OpenDoc OpenDoc is a Compound Document programming model: Documents are divided into parts Parts consist of typed data in persistent store, and an associated part editor Part editors are subclassed from a 60 method superclass that is standard over all implementations (not all methods need to be overloaded) Many parts can nest within other parts OpenDoc Frameworks Two competing drawing frameworks: OpenDoc Development Framework From Apple.",
+    "link": [],
+    "ground_truth": "other"
+}

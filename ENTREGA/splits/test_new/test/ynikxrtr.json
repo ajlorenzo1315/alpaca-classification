@@ -1,0 +1,10 @@
+{
+    "Title": " Design Automation Research Group",
+    "Body": "Our approach is based on formal modeling of design process using process grammar.",
+    "link": [
+        "http://web.cps.msu.edu",
+        "http://web.egr.msu.edu/EE/ee.html",
+        "http://web.cps.msu.edu/~chung"
+    ],
+    "ground_truth": "unknow"
+}

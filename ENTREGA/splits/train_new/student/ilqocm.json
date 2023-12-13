@@ -1,0 +1,10 @@
+{
+    "Title": "Simone Santini Home Page",
+    "Body": "Date: Thu, 21 Nov 1996 23:04:52 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Thu, 17 Oct 1996 00:41:53 GMT Content-length: 7088 Simone Santini Home Page [Life] To know what I've been up to in the last 34 years [Work] Up-to-date information on my research activity [Photo Album] Come see.. [Sailing] Dedicated to the art of being pushed by the wind [Papers] Simone in His Own Words [Links I like] San Diego, the world, and beyond!",
+    "link": [
+        "http://mirrors.yahoo.com/eff/blueribbon.html",
+        "http://vision.ucsd.edu/~ssantini/life.html",
+        "http://vision.ucsd.edu/~ssantini/reserach.html"
+    ],
+    "ground_truth": "student"
+}

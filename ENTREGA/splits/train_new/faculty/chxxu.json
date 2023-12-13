@@ -1,0 +1,10 @@
+{
+    "Title": "Daniel Mosse at the University of Pittsburgh",
+    "Body": "Date: Mon, 25 Nov 1996 23:21:40 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Mon, 04 Nov 1996 02:06:48 GMT Content-length: 2558 Daniel Mosse at the University of Pittsburgh Daniel Mossé Daniel Mossé\t\t\te-mail: mosse@cs.pitt.edu Dept of Computer Science University of Pittsburgh\tvoice: (412) 624-8923 Pittsburgh, PA  15260\t\tfax  : (412) 624-8854 http://www.cs.pitt.edu/~mosse 3 Research Experiences for Undergraduates funded by NSF are available.",
+    "link": [
+        "http://www.cs.pitt.edu/~mosse/pix/daniel_mosse.mpeg",
+        "http://www.cs.pitt.edu/~mosse/research/reu1.ps",
+        "http://www.cs.pitt.edu/~mosse/research/reu2.ps"
+    ],
+    "ground_truth": "faculty"
+}

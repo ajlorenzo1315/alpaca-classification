@@ -1,0 +1,10 @@
+{
+    "Title": "Ian Jermyn's Home Page",
+    "Body": "Date: Tue, 26 Nov 1996 03:45:16 GMT Server: NCSA/1.4.1 Content-type: text/html Last-modified: Wed, 20 Nov 1996 20:19:11 GMT Content-length: 2287 Ian Jermyn's Home Page Ian Jermyn Contact Points Research Interests Teaching:A22.0004 Resume Jazz Music Calvino",
+    "link": [
+        "http://www.cs.nyu.edu/phd_students/jermyn/contact.html",
+        "http://www.cs.nyu.edu/phd_students/jermyn/research.html",
+        "http://cs.nyu.edu/cs/dept_info/course_home_pages/fall96/A22.0004/index.html"
+    ],
+    "ground_truth": "student"
+}

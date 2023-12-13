@@ -1,0 +1,10 @@
+{
+    "Title": "CS-101: Introduction to Computers\n",
+    "Body": "Date: Wed, 20 Nov 1996 21:45:34 GMT Server: NCSA/1.5 Content-type: text/html CS-101: Introduction to Computers Boston University / CLA Computer Science Dept CLA CS-101: Introduction to Computers CS 101 is a general introduction to computers and their applications that assumes no previous knowledge of the subject.",
+    "link": [
+        "http://web.bu.edu/",
+        "gopher://gopher.bu.edu:70/11/Resources%20At%20Your%20Fingertips/School%20and%20College%20Bulletins/Undergraduate%20Programs%201994-95/College%20of%20Liberal%20Arts",
+        "http://cs-www.bu.edu/Home.html"
+    ],
+    "ground_truth": "course"
+}

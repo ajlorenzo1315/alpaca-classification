@@ -1,0 +1,10 @@
+{
+    "Title": "Yusuf Pisan",
+    "Body": "Visit the Qualitative Reasoning Group web site to find out more about my research group and the Institute for the Learning Sciences web site to find more about the institute that I am a part of.",
+    "link": [
+        "http://www.cs.nwu.edu/~yusuf/guestbooks/sign_guestbook.html",
+        "http://www.cs.nwu.edu/~yusuf/guestbooks/guestbook.html",
+        "http://icarus.uic.edu/~mmcque1/"
+    ],
+    "ground_truth": "unknow"
+}

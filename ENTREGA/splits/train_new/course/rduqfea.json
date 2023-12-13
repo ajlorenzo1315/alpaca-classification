@@ -1,0 +1,10 @@
+{
+    "Title": "A22.0004 Fall 1996",
+    "Body": "Date: Tue, 26 Nov 1996 18:48:03 GMT Server: NCSA/1.4.1 Content-type: text/html Last-modified: Mon, 21 Oct 1996 00:21:42 GMT Content-length: 3197 A22.0004 Fall 1996 updated:  Sunday, October 20th V22.0201 Computers Organization I New York University Fall 1996 Instructor: Nathan Hull Phone: (212) 998-3152 Office: Warren Weaver Hall, Room 423 Office Hours: Tues/Thur 4:15 -5:15 Email: hull@cs.nyu.edu Syllabus Assignment #1 (due Tuesday, October 7th) Assignment #2 (due Thursday, October 24th) Oct.17th avgneg.asm numcaps.asm Oct.15th pack.asm bitcnt3.asm Oct.14th (Chee Yap's Class) shiftadd.asm Oct.10th asm.bat turasm1.asm turasm2.asm Note: The following programs work ONLY on the Dewar Assembler, not on the Turbo Assembler!",
+    "link": [
+        "mailto:hull@cs.nyu.edu",
+        "http://cs.nyu.edu/cs/dept_info/course_home_pages/fall96/V22.0201.002/syllabus.html",
+        "http://cs.nyu.edu/cs/dept_info/course_home_pages/fall96/V22.0201.002/assign1.html"
+    ],
+    "ground_truth": "course"
+}

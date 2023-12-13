@@ -1,0 +1,10 @@
+{
+    "Title": "CS246: Advanced Computer Architecture",
+    "Body": "Date: Wed, 20 Nov 1996 22:24:13 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Mon, 31 Jul 1995 16:08:52 GMT Content-length: 1421 CS246: Advanced Computer Architecture CS246: Advanced Computer Architecture Computer Science 246 is an undergraduate/graduate course covering high-performance techniques in computer architecture.",
+    "link": [
+        "http://www.deas.harvard.edu/cs/academics/courses/cs246/CourseInfo.ps",
+        "http://www.deas.harvard.edu/cs/academics/courses/cs246/1.1.basicArch.ps",
+        "http://www.deas.harvard.edu/cs/academics/courses/cs246/1.2.mipsISA.ps"
+    ],
+    "ground_truth": "course"
+}

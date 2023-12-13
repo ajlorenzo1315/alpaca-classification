@@ -1,0 +1,10 @@
+{
+    "Title": "Facts about Jens Mache",
+    "Body": "resource management: processor allocation , scheduling, mapping , parallel I/O) networking (routing, ATM, recovery) AI & decision science (neural networks, constraint satisfaction, operations research) graphics, interfaces & cognitive science If you are interested in my research : I am in the Resource Allocation group.",
+    "link": [
+        "http://www.ba-karlsruhe.de/KA/KA-Karte.html",
+        "http://www.chemie.fu-berlin.de/adressen/brd.html",
+        "http://www.cs.uoregon.edu/"
+    ],
+    "ground_truth": "unknow"
+}

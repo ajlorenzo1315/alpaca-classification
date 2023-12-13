@@ -1,0 +1,10 @@
+{
+    "Title": "UT Austin World",
+    "Body": "Date: Tue, 07 Jan 1997 15:48:08 GMT Server: NCSA/1.5.2 Last-modified: Fri, 20 Dec 1996 23:14:45 GMT Content-type: text/html Content-length: 4178 UT Austin World Spotlight on: Leonard Bernstein - Kelley Blue Book - Austin MLS AUSTIN AND TEXAS Ex-Students' Association Austin Web Texas CITIES, STATES, COUNTRIES USA City Link Web Canada Web Mexico Web Europe Web Australia Web Worldwide ACADEMIC The World Lecture Hall Web U.S.",
+    "link": [
+        "http://wwwhost.cc.utexas.edu/world/spotlight/",
+        "http://www.leonardbernstein.com/",
+        "http://www.kbb.com/"
+    ],
+    "ground_truth": "other"
+}

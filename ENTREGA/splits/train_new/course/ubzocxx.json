@@ -1,0 +1,10 @@
+{
+    "Title": "Human Computer Interface Technology",
+    "Body": "Additionally, students will be able to take the course at their respective institutions, engage in dialogs (ATM and EMail) with advising professors at the other institutions, and potentially work with students at other sites on team projects.",
+    "link": [
+        "http://www.CS.Princeton.EDU/courses/archive/fall96/cs496/PrinceNew.html",
+        "http://www-engr.sjsu.edu/electeng/faculty/knapp/hci.html",
+        "http://www.cs.princeton.edu/courses/cs496/Prince496.html"
+    ],
+    "ground_truth": "course"
+}

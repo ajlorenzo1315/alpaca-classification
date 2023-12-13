@@ -1,0 +1,10 @@
+{
+    "Title": "ZPL Papers and Manuals",
+    "Body": "The Implementation of a Machine-Independent Array Language (November, 1995) Implementation of ZPL.",
+    "link": [
+        "http://www.cs.washington.edu/research/projects/zpl/papers/abstracts/zpl.html",
+        "http://www.cs.washington.edu/research/projects/zpl/papers/abstracts/guide.html",
+        "http://www.cs.washington.edu/research/projects/zpl/papers/abstracts/manual.html"
+    ],
+    "ground_truth": "other"
+}

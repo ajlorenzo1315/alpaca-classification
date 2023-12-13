@@ -1,0 +1,10 @@
+{
+    "Title": "CSE 401 / Admin",
+    "Body": "Date: Mon, 02 Dec 1996 14:40:26 GMT Server: NCSA/1.4.2 Content-type: text/html CSE 401 / Admin CSE 401 Compilers Class Administration Instructors, Office Hours, etc.",
+    "link": [
+        "http://www.cs.washington.edu/education/courses/401/CurrentQuarter/",
+        "http://www.cs.washington.edu/education/courses/401/CurrentQuarter/admin/",
+        "http://www.cs.washington.edu/education/courses/401/CurrentQuarter/details/"
+    ],
+    "ground_truth": "other"
+}

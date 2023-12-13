@@ -1,0 +1,10 @@
+{
+    "Title": "Claude-Nicolas Fiechter Home Page",
+    "Body": "Date: Tue, 26 Nov 1996 17:54:01 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Thu, 27 Jun 1996 22:03:53 GMT Content-length: 1135 Claude-Nicolas Fiechter Home Page Claude-Nicolas Fiechter PhD.",
+    "link": [
+        "http://www.cs.pitt.edu/",
+        "http://www.pitt.edu/",
+        "mailto:fiechter@cs.pitt.edu"
+    ],
+    "ground_truth": "student"
+}

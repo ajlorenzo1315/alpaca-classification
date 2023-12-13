@@ -1,0 +1,10 @@
+{
+    "Title": "U of Mn CS/IT FTP Server",
+    "Body": "Date: Wed, 15 Jan 1997 01:02:21 GMT Server: Apache/1.1.1 Content-type: text/html Content-length: 538 Last-modified: Thu, 18 Jul 1996 20:00:14 GMT U of Mn CS/IT FTP Server University of Minnesota Computer Science and Institute of Technology FTP Server This WWW front-end is under major construction.",
+    "link": [
+        "http://ftp.cs.umn.edu/dept",
+        "http://ftp.cs.umn.edu/pub",
+        "http://ftp.cs.umn.edu/packages"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "\nHome Page for Lane Warshaw\n",
+    "Body": "My current position at the Applied Research Laboratory involves maintaining Venus, a rule-based language developed at the University of Texas at Austin by Dan Miranker and at the Applied Research Laboratories by Lance Obermeyer.",
+    "link": [
+        "http://www.cs.utexas.edu/cgi/rwho/warshaw",
+        "http://www.cs.utexas.edu/users/mike",
+        "http://www.cs.utexas.edu/users/miranker"
+    ],
+    "ground_truth": "student"
+}

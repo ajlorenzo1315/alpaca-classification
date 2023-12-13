@@ -1,0 +1,9 @@
+{
+    "Title": "Paradyn Release 1.1 Information",
+    "Body": "It is available via ftp from: ftp://grilled.cs.wisc.edu/paradyn/ If you want to be notified of future releases of Paradyn, please send mail to paradyn@cs.wisc.edu and let us know.",
+    "link": [
+        "ftp://grilled.cs.wisc.edu/paradyn/",
+        "ftp://grilled.cs.wisc.edu/paradyn/doc/install.ps.gz"
+    ],
+    "ground_truth": "other"
+}

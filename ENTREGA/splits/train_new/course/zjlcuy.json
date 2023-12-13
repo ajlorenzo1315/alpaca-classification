@@ -1,0 +1,9 @@
+{
+    "Title": "Computer Science 410 --- Spring 1996",
+    "Body": "Grading In the final grade, your homeworks count 30% and your exams 30% and 40%.",
+    "link": [
+        "http://cs-www.bu.edu/Home.html",
+        "http://cs-www.bu.edu/faculty/lnd/ftp/toc/"
+    ],
+    "ground_truth": "course"
+}

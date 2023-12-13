@@ -1,0 +1,8 @@
+{
+    "Title": "Mobile Computing at Duke",
+    "Body": "Date: Wed, 20 Nov 1996 19:13:18 GMT Server: NCSA/1.5.1 Last-modified: Wed, 06 Nov 1996 19:09:21 GMT Content-type: text/html Content-length: 1067 Mobile Computing at Duke Mobile Computing Carla Ellis Specific Projects Masters degree students, Nasrin  Azarbayejani Gaffaney and John MacDonald, have been working together on SMARDI , a system to provide an interface into a full-fledged mobile file system (such as CODA) for very limited mobile devices (PDA's).",
+    "link": [
+        "http://www.cs.duke.edu/~carla/HomePage.html"
+    ],
+    "ground_truth": "project"
+}

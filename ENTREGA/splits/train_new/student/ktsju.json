@@ -1,0 +1,10 @@
+{
+    "Title": "Ankit Patel's homepage ",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Wednesday, 20-Nov-96 19:39:04 GMT Content-Type: text/html Content-Length: 3646 Last-Modified: Tuesday, 19-Nov-96 00:20:47 GMT Ankit Patel's homepage ANKIT  C.  PATEL 914, EAST STATE STREET, ITHACA.",
+    "link": [
+        "mailto:apatel@cs.cornell.edu",
+        "http://www.cs.cornell.edu/Info/People/ankit/personal.html",
+        "http://www.cs.cornell.edu/Info/People/ankit/photo.html"
+    ],
+    "ground_truth": "student"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "No Title",
+    "Body": "Some of the topics: sorting, recursion, set data structures, dynamic programming, greedy algorithms, backtracking, shortest path, graph matching, some algebraic algorithms, NP problems.",
+    "link": [
+        "http://cs-www.bu.edu/Home.html",
+        "http://cs-www.bu.edu/faculty/gacs/courses/cs330/hw/09-07/09-07.html",
+        "http://cs-www.bu.edu/faculty/gacs/courses/cs330/hw/09-14/09-14.html"
+    ],
+    "ground_truth": "course"
+}

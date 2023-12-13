@@ -1,0 +1,10 @@
+{
+    "Title": "Carlos Home Page. ",
+    "Body": "I am a mexican student at this School, I am trying to learn almost everything from everywhere about anything while my studies here at McGill, before my scholarship finishes.",
+    "link": [
+        "mailto:czamora@cs.mcgill.ca",
+        "http://www.unam.mx",
+        "http://www.fciencias.unam.mx> Facultad de Ciencias, \n</a> and made my bachelor thesis at <a href="
+    ],
+    "ground_truth": "student"
+}

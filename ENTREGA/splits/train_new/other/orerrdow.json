@@ -1,0 +1,10 @@
+{
+    "Title": "CSE 431 Bboard/Mail Log\n",
+    "Body": "Let L be the language in P and we want to show that L^* is in P. For an input w=a_1 a_2 ... a_n, suppose we define a directed graph G on {1,2,...,n+1} as follows: there is an edge from i to j iff a_i ... a_{j-1} is in L. Then, w is in L^* iff there is a path from 1 to n+1 in G.",
+    "link": [
+        "#827903528001",
+        "#828086115001",
+        "#828565629001"
+    ],
+    "ground_truth": "other"
+}

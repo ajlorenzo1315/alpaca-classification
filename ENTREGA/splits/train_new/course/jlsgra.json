@@ -1,0 +1,10 @@
+{
+    "Title": " EE539 Home Page ",
+    "Body": "Server: Netscape-Commerce/1.12 Date: Wednesday, 20-Nov-96 23:23:34 GMT Last-modified: Sunday, 03-Mar-96 02:27:20 GMT Content-length: 3246 Content-type: text/html EE539 Home Page EE539: Neural Networks & Applications Nabil H. Farhat Table of Contents Brief Description General Information Course Syllabus Textbook Grading Policy Exam Dates Course Description Examines the application of paradigms in neural networks to problems in pattern classification, optimization, function approximation, and machine learning.",
+    "link": [
+        "#description",
+        "#general",
+        "#syllabus"
+    ],
+    "ground_truth": "course"
+}

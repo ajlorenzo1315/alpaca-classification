@@ -1,0 +1,10 @@
+{
+    "Title": "Modular Robotics Lab",
+    "Body": "At a higher level, modular components such as flexible feeders and conveyor belts can be interactively configured to facilitate the design and evaluation of assembly lines prior to installation.",
+    "link": [
+        "http://cwis.usc.edu/users/goldberg/adept-feeder.jpeg",
+        "http://www.usc.edu/users/goldberg/",
+        "http://www.usc.edu/users/sutter/ppf/index.html"
+    ],
+    "ground_truth": "project"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Donald M. Chiarulli",
+    "Body": "Date: Mon, 25 Nov 1996 23:22:26 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Thu, 29 Aug 1996 19:44:49 GMT Content-length: 1560 Donald M. Chiarulli <!-- body background=\"pittback.gif\"> Donald M. Chiarulli Associate Professor of Computer Science at the University of Pittsburgh.",
+    "link": [
+        "http://www.cs.pitt.edu",
+        "http://www.pitt.edu",
+        "mailto:don@cs.pitt.edu"
+    ],
+    "ground_truth": "faculty"
+}

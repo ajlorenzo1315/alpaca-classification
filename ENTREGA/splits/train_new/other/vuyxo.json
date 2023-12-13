@@ -1,0 +1,9 @@
+{
+    "Title": "CS302 Tutors",
+    "Body": "Below is their current schedule for tutors for CS302.",
+    "link": [
+        "mailto:skrentny@cs.wisc.edu",
+        "http://www.cs.wisc.edu/~karavan/trio.html"
+    ],
+    "ground_truth": "other"
+}

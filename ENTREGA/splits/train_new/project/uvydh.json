@@ -1,0 +1,10 @@
+{
+    "Title": " IUE Programme ",
+    "Body": "To this end, the IUE provides an extensive C++ class hierarchy for representing a wide range of objects, images, image features, and processes a well-documented, modular, standard object-oriented interface implementation of established IU algorithms the ability to exploit and coordinate the processing power of exitsing IU tools and systems In August 1993, ARPA announced the award of the prime development contract for the Image Understanding Environment (IUE) to Amerinex Artificial Intelligence, `.",
+    "link": [
+        "http://www.aai.com/AAI/IUE/IUE.html",
+        "http://www.aai.com/AAI/IU/IU.html",
+        "http://ftp.arpa.mil/"
+    ],
+    "ground_truth": "project"
+}

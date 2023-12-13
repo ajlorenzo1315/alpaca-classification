@@ -1,0 +1,10 @@
+{
+    "Title": "Cmpt 111",
+    "Body": "Date: Tue, 26 Nov 1996 19:25:39 GMT Server: NCSA/1.5.1 Content-type: text/html Cmpt 111 Department of Computer Science University of Saskatchewan Engineering Building 1C101 57 Campus Drive, Saskatoon, Saskatchewan, S7N 5A9 Tel.",
+    "link": [
+        "http://www.usask.ca",
+        "http://www.cs.usask.ca/",
+        "http://www.cs.usask.ca/classes/111/menu/description.shtml"
+    ],
+    "ground_truth": "course"
+}

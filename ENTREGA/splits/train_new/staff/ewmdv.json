@@ -1,0 +1,9 @@
+{
+    "Title": "\nElle Gohl\n",
+    "Body": "Ms. Gohl has a B.A.",
+    "link": [
+        "http://www.cs.vassar.edu/faculty/stafflist.html",
+        "http://www.cs.vassar.edu/"
+    ],
+    "ground_truth": "staff"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Funda's ever-improving page",
+    "Body": "Here is my research page.",
+    "link": [
+        "mailto:ergun@cs.cornell.edu",
+        "http://www.cs.cornell.edu/Info/People/ergun/research.html",
+        "http://www.cs.cornell.edu/Info/People/ergun/stuff.html"
+    ],
+    "ground_truth": "student"
+}

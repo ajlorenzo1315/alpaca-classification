@@ -1,0 +1,10 @@
+{
+    "Title": " Benjamin Teitelbaum's Resume ",
+    "Body": "of Computer Sciences, University of Wisconsin - Madison , Summer 1995 Designed and implemented Smalltalk language binding for the SHORE persistent object store.",
+    "link": [
+        "http://www.cs.wisc.edu/~ben/ben.html",
+        "http://www.cs.wisc.edu",
+        "mailto:ben@cs.wisc.edu"
+    ],
+    "ground_truth": "other"
+}

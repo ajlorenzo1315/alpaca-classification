@@ -1,0 +1,10 @@
+{
+    "Title": "CTC - Visualization - Animations",
+    "Body": "A simulation of the dynamical failure of 3D notched solids under tension at the atomistic level using classical molecular dynamics and system sizes from 10 to more than 100 million atoms.",
+    "link": [
+        "http://www.tc.cornell.edu/er96/science96/Explorations/4push/index.html",
+        "http://www.tc.cornell.edu/Visualization/Staff/bruce/FaridAug96.html",
+        "http://www.tc.cornell.edu/er96/ff03summer/ff04lungs.html"
+    ],
+    "ground_truth": "other"
+}

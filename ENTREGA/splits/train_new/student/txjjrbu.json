@@ -1,0 +1,10 @@
+{
+    "Title": "Amon Seagull's URCS Home Page",
+    "Body": "I got a degree in Math and CS from U.Penn in 1995, then came here that fall.",
+    "link": [
+        "http://www.upenn.edu",
+        "http://www.cs.rochester.edu/u/trains/",
+        "http://www.cs.rochester.edu/u/seagull/links.html"
+    ],
+    "ground_truth": "student"
+}

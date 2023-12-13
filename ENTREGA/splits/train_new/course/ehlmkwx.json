@@ -1,0 +1,10 @@
+{
+    "Title": "Artificial Intelligence",
+    "Body": "Date: Wed, 20 Nov 1996 22:12:31 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Tue, 03 Sep 1996 13:09:05 GMT Content-length: 802 Artificial Intelligence Artificial Intelligence (Computer Science 44) Identical to Cognitive Science 44 Times: 97W: 10  98W: Arrange Instructors: Rus Prerequisite: Computer Science 23 and 25 .",
+    "link": [
+        "http://www.cs.dartmouth.edu/~rus/",
+        "http://www.cs.dartmouth.edu/courseguide/undergrad/cs_23.html",
+        "http://www.cs.dartmouth.edu/courseguide/undergrad/cs_25.html"
+    ],
+    "ground_truth": "course"
+}

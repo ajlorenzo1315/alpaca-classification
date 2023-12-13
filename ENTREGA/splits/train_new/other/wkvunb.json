@@ -1,0 +1,10 @@
+{
+    "Title": "\nOverview of UW Computer Science & Engineering\n",
+    "Body": "Within the University, three faculty members have received the College of Engineering Faculty Achievement Award, two have received the University of Washington Distinguished Teaching Award, and one is the first member of the College of Engineering to be named the University of Washington Annual Faculty Lecturer.",
+    "link": [
+        "http://www.washington.edu",
+        "http://www.washington.edu/home/profile/schools_colleges.html",
+        "http://www.washington.edu/"
+    ],
+    "ground_truth": "other"
+}

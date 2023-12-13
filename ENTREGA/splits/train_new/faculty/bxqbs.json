@@ -1,0 +1,10 @@
+{
+    "Title": " Eric Mjolsness's Home Page ",
+    "Body": "Algebraic Transformations of Objective Functions Eric Mjolsness and Charles Garrett, Neural Networks, vol 3, no 6, pp 651-669, 1990.",
+    "link": [
+        "http://hoohoo.ncsa.uiuc.edu/cgi-bin/finger?emj@cs.ucsd.edu",
+        "http://www-cse.ucsd.edu/CSE_Home_Page.html",
+        "http://www-cse.ucsd.edu/users/tdarugar/incHome.html"
+    ],
+    "ground_truth": "faculty"
+}

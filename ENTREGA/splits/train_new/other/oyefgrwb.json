@@ -1,0 +1,10 @@
+{
+    "Title": "Yannis's Research",
+    "Body": "Meta-programming Applications For the past year I've been working on DiSTiL: a software generator for data structures.",
+    "link": [
+        "http://www.cs.utexas.edu/users/schwartz/",
+        "http://www.cs.utexas.edu/users/dsb",
+        "http://www.research.microsoft.com"
+    ],
+    "ground_truth": "other"
+}

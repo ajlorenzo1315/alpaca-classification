@@ -1,0 +1,10 @@
+{
+    "Title": "Introduction to Distributed Systems - CS270B",
+    "Body": "I will be using Tanenbaum's textbook as well as a short collection of papers.",
+    "link": [
+        "http://www.cs.ucsb.edu/~amr",
+        "http://www.cs.ucsb.edu/~amr",
+        "mailto:amr@cs.ucsb.edu"
+    ],
+    "ground_truth": "course"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Brian Antonishek's Homepage.",
+    "Body": "Date: Tue, 26 Nov 1996 17:55:46 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Thu, 30 Nov 1995 20:28:30 GMT Content-length: 3800 Brian Antonishek's Homepage.",
+    "link": [
+        "http://www.ctcnet.ctc.com/ctc",
+        "mailto:antonis@ctc.com",
+        "http://www.pitt.edu/"
+    ],
+    "ground_truth": "student"
+}

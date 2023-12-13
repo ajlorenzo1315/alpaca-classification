@@ -1,0 +1,10 @@
+{
+    "Title": "Yu(Lucy) Wu's Home Page",
+    "Body": "Resume $Whiz - Stock Search and Analysis Tools(M.Eng Degree Project) Spring 1996 Classes CS514 Practical Distributed Computing CS515 Practicum in Distributed Systems CS432 Database Systems NBA600 Database Management Fall 1995 Classes CS414 Operating System CS501 Software Engineering CS631 Multimedia Systems Contact?",
+    "link": [
+        "http://www.cornell.edu/Ithaca/Weather.html",
+        "#A1",
+        "http://cs.cornell.edu"
+    ],
+    "ground_truth": "student"
+}

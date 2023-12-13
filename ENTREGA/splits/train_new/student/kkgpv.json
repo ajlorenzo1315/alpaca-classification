@@ -1,0 +1,10 @@
+{
+    "Title": " Yoonsuck Choe ",
+    "Body": "Currently, I am working on a hand-written digit recognition system based on lateraly interconnected synergetically self organizing feature map(LISSOM:developed by Joseph Sirosh and Prof. Risto Miikkulainen at UTCS Neural Networks Research Group .",
+    "link": [
+        "http://www.cs.utexas.edu/",
+        "http://www.yonsei.ac.kr/",
+        "http://cair.kaist.ac.kr/./korea/index.html"
+    ],
+    "ground_truth": "student"
+}

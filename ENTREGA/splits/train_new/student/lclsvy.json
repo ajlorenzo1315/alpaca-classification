@@ -1,0 +1,10 @@
+{
+    "Title": " Home Page of Kumar Ramaiyer ",
+    "Body": "A Prototype Astronomical Database , K. Ramaiyer, R. Brunner, A. Szalay, A. Connolly, and R. Lupton, Proceedings of the second ACM Workshop on Advances in Geographic Information Systems, Dec. 1994.",
+    "link": [
+        "http://www.cs.jhu.edu/",
+        "http://www.jhu.edu/",
+        "http://www.informix.com"
+    ],
+    "ground_truth": "student"
+}

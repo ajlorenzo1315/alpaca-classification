@@ -1,0 +1,10 @@
+{
+    "Title": "Haesun Park",
+    "Body": "Date: Thu, 21 Nov 1996 20:54:51 GMT Server: Apache/1.1b3 Content-type: text/html Haesun Park Picture to come.",
+    "link": [
+        "mailto:hpark@cs.umn.edu",
+        "http://www.cs.umn.edu/footer.map",
+        "mailto:www@cs.umn.edu"
+    ],
+    "ground_truth": "faculty"
+}

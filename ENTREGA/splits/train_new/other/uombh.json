@@ -1,0 +1,6 @@
+{
+    "Title": " Lecture notes - Chapter 13 - Performance features",
+    "Body": "Since every instruction takes at least one memory access (for the instruction fetch), the performance of computer is dominated by its memory access time.",
+    "link": [],
+    "ground_truth": "other"
+}

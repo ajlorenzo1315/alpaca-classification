@@ -1,0 +1,10 @@
+{
+    "Title": "Srinivas Padmanabhuni",
+    "Body": "Date: Tue, 26 Nov 1996 16:51:29 GMT Server: Apache/1.1.1 Content-type: text/html Content-length: 5097 Last-modified: Fri, 22 Nov 1996 11:30:33 GMT Srinivas Padmanabhuni Srinivas Padmanabhuni PhD Candidate Department of Computing Science University of Alberta E-mail: srinivas@cs.ualberta.ca Phone: 403-492-2821 Research Areas Artificial Intelligence Research Interests CMPUT 325 inductive logic programming Constraint logic  programming.",
+    "link": [
+        "http://www.cs.ualberta.ca/~srinivas/home.html",
+        "http://web.cs.ualberta.ca/",
+        "http://www.cs.ualberta.ca/~srinivas//address.html"
+    ],
+    "ground_truth": "student"
+}

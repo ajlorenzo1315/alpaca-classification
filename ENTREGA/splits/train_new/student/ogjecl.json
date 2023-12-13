@@ -1,0 +1,10 @@
+{
+    "Title": "Alain Kägi's Home Page",
+    "Body": "Date: Thu, 07 Nov 1996 19:19:24 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Sat, 21 Oct 1995 18:11:34 GMT Content-length: 801 Alain Kägi's Home Page Alain Kägi (click here for a larger picture.)",
+    "link": [
+        "http://www.cs.wisc.edu/~alain/fullsize.html",
+        "http://www.upa.org/~upa",
+        "http://www.ee.ualberta.ca/~dawe/avengers.html"
+    ],
+    "ground_truth": "student"
+}

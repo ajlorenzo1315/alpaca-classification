@@ -1,0 +1,10 @@
+{
+    "Title": " Shore Documents ",
+    "Body": "This document provides an overview the SSM facilities and interface.",
+    "link": [
+        "http://www.cs.wisc.edu/shore/1.0/release/release.html",
+        "http://www.cs.wisc.edu/shore/1.0/overview/overview.html",
+        "http://www.cs.wisc.edu/shore/1.0/installation/installation.html"
+    ],
+    "ground_truth": "other"
+}

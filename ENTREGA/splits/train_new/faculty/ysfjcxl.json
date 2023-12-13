@@ -1,0 +1,9 @@
+{
+    "Title": "Beth Unger's Home Page",
+    "Body": "Date: Wed, 20 Nov 1996 23:27:29 GMT Server: NCSA/1.5.1 Last-modified: Thu, 17 Aug 1995 19:25:02 GMT Content-type: text/html Content-length: 2058 Beth Unger's Home Page Elizabeth A. Unger Professor Department of Computing and Information Sciences Vice Provost for Academic Services and Technology Dean of Continuing Education Kansas State University Research Interests: Database/Knowledge base systems, especially design Data security New teaching and learning environments Publications: Selected Papers: A proposed mechanism for implementation of non-discretionary access controls in a network environment , with H. Saiedian and R. Vaughn, Journal of Computer Networks and ISDN Systems, Oct. 1994.",
+    "link": [
+        "http://www.cis.ksu.edu/~beth/unger.gif",
+        "http://www.cis.ksu.edu/htbin/finger?beth@cis.ksu.edu"
+    ],
+    "ground_truth": "faculty"
+}

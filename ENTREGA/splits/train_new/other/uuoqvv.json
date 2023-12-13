@@ -1,0 +1,10 @@
+{
+    "Title": "I Hate Microsoft",
+    "Body": "Here it is!",
+    "link": [
+        "http://www.nando.net/",
+        "http://www.cs.wisc.edu/~pfile/surreal_nando_9.gif",
+        "http://www2.apple.com/whymac/default.html"
+    ],
+    "ground_truth": "other"
+}

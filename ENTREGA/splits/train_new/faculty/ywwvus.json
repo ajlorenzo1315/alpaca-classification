@@ -1,0 +1,10 @@
+{
+    "Title": "Dianne P. O'Leary",
+    "Body": "Date: Thu, 21 Nov 1996 20:28:40 GMT Server: Apache-SSL/0.4.3b Content-type: text/html Content-length: 2975 Last-modified: Thu, 21 Nov 1996 18:34:40 GMT Dianne P. O'Leary Dianne P. O'Leary Current Position: Professor, Department of Computer Science and Institute for Advanced Computer Studies (UMIACS), University of Maryland at College Park Academic Degree: Ph.D., Stanford, 1976.",
+    "link": [
+        "http://www.cs.umd.edu/",
+        "http://www.umiacs.umd.edu/",
+        "http://inform.umd.edu/"
+    ],
+    "ground_truth": "faculty"
+}

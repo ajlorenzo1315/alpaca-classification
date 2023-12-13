@@ -1,0 +1,8 @@
+{
+    "Title": "\nJohn Prior\n",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Monday, 06-Jan-97 19:31:48 GMT Content-Type: text/html Content-Length: 1899 Last-Modified: Friday, 02-Aug-96 02:48:55 GMT John Prior John Prior My resume.",
+    "link": [
+        "Resume.ps"
+    ],
+    "ground_truth": "student"
+}

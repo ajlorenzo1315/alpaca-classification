@@ -1,0 +1,10 @@
+{
+    "Title": "UW CSE UI Students' Web",
+    "Body": "Meetings Our first meeting was on December 1st, 1994.",
+    "link": [
+        "local/ui-members.html",
+        "ui-research.html#top",
+        "ui-cs.html"
+    ],
+    "ground_truth": "other"
+}

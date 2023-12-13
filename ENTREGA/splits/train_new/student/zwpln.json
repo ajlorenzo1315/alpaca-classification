@@ -1,0 +1,10 @@
+{
+    "Title": "Kris Kocan's Home Page",
+    "Body": "Alumni UK vs.",
+    "link": [
+        "http://www.cslab.uky.edu/~kocan/project/project.html",
+        "http://www.cslab.uky.edu/~kocan/html/office.html",
+        "http://www.cslab.uky.edu/~kocan/html/classes.html"
+    ],
+    "ground_truth": "student"
+}

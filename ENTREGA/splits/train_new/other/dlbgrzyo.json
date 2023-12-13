@@ -1,0 +1,10 @@
+{
+    "Title": " Talks given by members of the Multiscalar Research Group ",
+    "Body": "The generic Multiscalar talk, given at several places by Guri Sohi .",
+    "link": [
+        "http://www.cs.wisc.edu/~mscalar/",
+        "http://www.engr.wisc.edu/ece/faculty/smith_james.html",
+        "ftp://ftp.cs.wisc.edu/sohi/talks/jes.arpa.ps.Z"
+    ],
+    "ground_truth": "other"
+}

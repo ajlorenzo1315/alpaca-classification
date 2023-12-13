@@ -1,0 +1,10 @@
+{
+    "Title": " Department Directory Listing",
+    "Body": "If you are outside the local Cornell exchange and wish to call someone, precede the number shown with 607-25.",
+    "link": [
+        "mailto:www@cs.cornell.edu",
+        "http://www.cs.cornell.edu/Info/Faculty/faculty-list.html",
+        "http://www.cs.cornell.edu/"
+    ],
+    "ground_truth": "other"
+}

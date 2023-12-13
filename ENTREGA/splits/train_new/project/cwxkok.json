@@ -1,0 +1,10 @@
+{
+    "Title": "Resource Allocation Group",
+    "Body": "Processor allocation research: this work involves the design of processor allocation algorithms for message-passing machines based on the mesh and k-ary n-cube network topologies.",
+    "link": [
+        "http://www.cs.uoregon.edu/research/DistributedComputing/gifs/procsimity.gif",
+        "http://www.cs.uoregon.edu/research/DistributedComputing/archive.html#Procsimity",
+        "http://www.uoregon.edu/"
+    ],
+    "ground_truth": "project"
+}

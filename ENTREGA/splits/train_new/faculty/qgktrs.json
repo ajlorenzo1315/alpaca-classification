@@ -1,0 +1,10 @@
+{
+    "Title": "Zhiyuan Li",
+    "Body": "Current Research projects The Panorama project: Compiler and Performance Prediction Tools.",
+    "link": [
+        "mailto:li@cs.umn.edu",
+        "http://www.cs.umn.edu/footer.map",
+        "mailto:www@cs.umn.edu"
+    ],
+    "ground_truth": "faculty"
+}

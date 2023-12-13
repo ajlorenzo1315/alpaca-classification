@@ -1,0 +1,10 @@
+{
+    "Title": "Overview of the Horus Project",
+    "Body": "Broadly, Horus is a flexible and extensible process-group communication system, in which the interfaces seen by the application can be varied to conceal the system behind more conventional interfaces, and in which the actual properties of the groups used (membership, communication, events that affect the group) can be matched to the specific needs of the application.",
+    "link": [
+        "http://simon.cs.cornell.edu/Info/Projects/HORUS/index.html",
+        "http://simon.cs.cornell.edu/Info/Projects/HORUS/Overview.html",
+        "http://simon.cs.cornell.edu/Info/Projects/HORUS/People.html"
+    ],
+    "ground_truth": "other"
+}

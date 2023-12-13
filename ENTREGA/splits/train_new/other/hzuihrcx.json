@@ -1,0 +1,10 @@
+{
+    "Title": "Esterel and its Compiler",
+    "Body": "Esterel is based on the ``synchrony hypothesis,'' which stipulates that every reaction to a set of inputs is considered to be instantaneous.",
+    "link": [
+        "http://www.cma.fr",
+        "http://www.inria.fr",
+        "mailto:esterel-request@cma.cma.fr"
+    ],
+    "ground_truth": "other"
+}

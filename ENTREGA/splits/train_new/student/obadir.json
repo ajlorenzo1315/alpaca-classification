@@ -1,0 +1,10 @@
+{
+    "Title": "Home Page for Sulochana Devadas",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Thursday, 21-Nov-96 22:40:14 GMT Content-Type: text/html Content-Length: 1650 Last-Modified: Monday, 30-Sep-96 15:07:53 GMT Home Page for Sulochana Devadas Sulochana Devadas devadas@ccs.neu.edu 10 Summer St Malden, MA  02148 United States 617-373 8685(O) 617-324 3868(H) I am a Ph.",
+    "link": [
+        "mailto:devadas@ccs.neu.edu",
+        "http://www.ccs.neu.edu/",
+        "http://www.neu.edu/"
+    ],
+    "ground_truth": "student"
+}

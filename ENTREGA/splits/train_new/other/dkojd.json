@@ -1,0 +1,10 @@
+{
+    "Title": "m-files from the text book",
+    "Body": "Date: Tue, 05 Nov 1996 00:31:49 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Mon, 14 Oct 1996 14:29:29 GMT Content-length: 1311 m-files from the text book m-files from the text book (as of 14oct) The file message in the m-files directory is a self-unwrapping wrapper that, when executed in a unix environment, will create the nine Chapter directories and all their content (saving you the trouble of copying all those m-files one by one).",
+    "link": [
+        "http://www.cs.wisc.edu/~deboor/412/m-files",
+        "http://www.cs.wisc.edu/~deboor/412/m-files/spline.m",
+        "http://www.cs.wisc.edu/~deboor/412/m-files/mkpp.m"
+    ],
+    "ground_truth": "other"
+}

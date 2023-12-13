@@ -1,0 +1,10 @@
+{
+    "Title": "\nSuzanne Tober's Home Page TEST ONLY\n",
+    "Body": "Date: Tue, 26 Nov 1996 03:50:19 GMT Server: Apache/1.1.1 Content-type: text/html Content-length: 5698 Last-modified: Mon, 02 Oct 1995 11:29:21 GMT Suzanne Tober's Home Page TEST ONLY Suzanne Tober's Home Page TEST ONLY Karen Paffendorf's resume Karen Paffendorf's picture (Dave, thanks for the help) Karen Paffendorf's picture (have to get to school to check out Owen's color adjustment) Rutgers: CSGSS LCSR colloquia RUCCS (talks) DIMACS Classes: Fall 95: (subject to change) Natural Languages (533) (additional related seminars) Software Engineering (583) (515) (521) Spring 95: Internet Technology (442) (original) Introduction to Artificial Intelligence (520), Information Systems in a Networked Environment (672) Fall 94: Design and Analysis of Data Structures and Algorithms I (513) Operating Systems Theory (519) Fun stuff: activities: square dancing , and PC comics: calvin and hobbes , and dilbert Movies: Disney , MCA , Paramount Spectator sports (ugh): NFL , baseball (play by play) , NHL , CBS , ESPNET , and horses Weather America's Cup Shuttle Wish I had time for a challenge not computer languages too much?",
+    "link": [
+        "http://paul.rutgers.edu/~tober/resume.html",
+        "http://paul.rutgers.edu/~tober/karen2.gif",
+        "http://paul.rutgers.edu/~tober/paffy.gif"
+    ],
+    "ground_truth": "student"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "The METIP Remote Testing Program",
+    "Body": "In the event that we receive more applications than we can support we may have to limit the level of support we provide to some.",
+    "link": [
+        "ftp://www.cs.washington.edu/people/faculty/tanimoto.html",
+        "http://www.cs.washington.edu/",
+        "ftp://ftp.u.washington.edu/public/"
+    ],
+    "ground_truth": "other"
+}

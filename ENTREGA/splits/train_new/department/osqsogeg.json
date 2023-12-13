@@ -1,0 +1,10 @@
+{
+    "Title": "Duke University Department of Computer Science",
+    "Body": "CS Information (restricted to CS) Duke University Department of Computer Science.",
+    "link": [
+        "http://www.cs.duke.edu/welcome.html",
+        "http://www.cs.duke.edu/research.html",
+        "http://www.cs.duke.edu/people.html"
+    ],
+    "ground_truth": "department"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Accessing Realistic Mixed Complementarity Problems within MATLAB ",
+    "Body": "All the required data is stored in a binary encoding of the problems, completely independent of GAMS.",
+    "link": [
+        "http://www.cs.wisc.edu/Dienst/Repository/2.0/Body/ncstrl.uwmadison%2fMP-TR-95-10/postscript",
+        "http://www.cs.wisc.edu/Dienst/UI/2.0/Print/ncstrl.uwmadison%2fMP-TR-95-10",
+        "http://www.cs.wisc.edu/Dienst/UI/2.0/Search"
+    ],
+    "ground_truth": "other"
+}

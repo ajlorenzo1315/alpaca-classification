@@ -1,0 +1,10 @@
+{
+    "Title": "COS 461: Distributed Computing  (Fall 1996)",
+    "Body": "Server: Netscape-Commerce/1.12 Date: Wednesday, 20-Nov-96 22:46:32 GMT Last-modified: Wednesday, 06-Nov-96 21:19:33 GMT Content-length: 1049 Content-type: text/html COS 461: Distributed Computing  (Fall 1996) COS 461: Distributed Computing Fall 1996 course homepage Course Information (last modified 11/6/96 ) Schedule Lecture Notes Assignments Submitting Programming Assignments Note for graduate students midterm and solutions Miscellaneous Programming with Sockets Copyright (c) 1994,1995 by Edward W. Felten Copyright (c) 1996 by Fred Douglis Fred Douglis / douglis@cs.princeton.edu",
+    "link": [
+        "http://www.CS.Princeton.EDU/courses/archive/fall96/cs461/info.html",
+        "http://www.CS.Princeton.EDU/courses/archive/fall96/cs461/schedule.html",
+        "http://www.CS.Princeton.EDU/courses/archive/fall96/cs461/lectures/"
+    ],
+    "ground_truth": "course"
+}

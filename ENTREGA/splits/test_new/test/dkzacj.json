@@ -1,0 +1,10 @@
+{
+    "Title": " Home Page of P. Evans",
+    "Body": "Abstracts and bibliographies of papers are available both for the Journal of the ACM and for Information and Computation .",
+    "link": [
+        "http://www-csc.uvic.ca/personnel/profiles/mfellows.html",
+        "http://www-csc.uvic.ca/home/mhallett/research.html",
+        "http://www-csc.uvic.ca/home/mhallett/compbio.html"
+    ],
+    "ground_truth": "unknow"
+}

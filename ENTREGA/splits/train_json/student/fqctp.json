@@ -1,0 +1,5 @@
+{
+    "Título": "Ivan Baev's Home Page",
+    "Cuerpo": "MIME-Version: 1.0 Server: CERN/3.0 Date: Thursday, 21-Nov-96 22:41:43 GMT Content-Type: text/html Content-Length: 928 Last-Modified: Thursday, 18-May-95 01:44:16 GMT Ivan Baev's Home Page Welcome to my WWW home page! I am a Ph.D. student in the Northeastern University's College of Computer Science . My advisors are Prof. Karl Lieberherr and Prof. Mitchell Wand . At present, I am interested in the theory of object-oriented systems and programming languages. My previous work was at the Institute of Computer and Communication Systems of the Bulgarian Academy of Sciences. Ivan Baev ivbaev@ccs.neu.edu College of Computer Science last updated - 5/12/1995",
+    "ground_truth": "student"
+}

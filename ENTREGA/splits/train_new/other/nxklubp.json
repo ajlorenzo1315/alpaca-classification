@@ -1,0 +1,10 @@
+{
+    "Title": "Rex's Advanced C Home Page",
+    "Body": "Date: Tue, 10 Dec 1996 20:41:02 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Mon, 11 Dec 1995 23:03:15 GMT Content-length: 1643 Rex's Advanced C Home Page Rex's Advanced C Home Page Congratulations, you found it!",
+    "link": [
+        "http://www.cs.washington.edu/homes/rex/uwext/help.html",
+        "http://www.cs.washington.edu/homes/rex/uwext/c++/",
+        "http://www.cs.washington.edu/homes/rex/uwext/hw9/prob/hw9/hw9.html"
+    ],
+    "ground_truth": "other"
+}

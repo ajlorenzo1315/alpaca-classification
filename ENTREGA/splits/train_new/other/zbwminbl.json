@@ -1,0 +1,10 @@
+{
+    "Title": "My first Java applet",
+    "Body": "Date: Tue, 10 Dec 1996 22:30:34 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Tue, 16 Jan 1996 23:41:22 GMT Content-length: 649 My first Java applet My first Java applet Sorry, you can't view applets.",
+    "link": [
+        "/homes/tlau/comments.html",
+        "/homes/tlau/index.html",
+        "mailto:tlau@cs.washington.edu"
+    ],
+    "ground_truth": "other"
+}

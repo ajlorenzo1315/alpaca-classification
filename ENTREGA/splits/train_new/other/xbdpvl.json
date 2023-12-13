@@ -1,0 +1,10 @@
+{
+    "Title": "CS 537 - Handouts, Notes and Mail Archive",
+    "Body": "Selinger et al. Granularity of Locks and Degrees of Consistency in a Shared Database.",
+    "link": [
+        "notes/l2.ps",
+        "notes/l3.ps",
+        "notes/l4.ps"
+    ],
+    "ground_truth": "other"
+}

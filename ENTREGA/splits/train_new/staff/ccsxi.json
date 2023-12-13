@@ -1,0 +1,10 @@
+{
+    "Title": "Ron Theriault",
+    "Body": "Date: Tue, 26 Nov 1996 20:58:41 GMT Server: Apache/1.1.1 Content-type: text/html Content-length: 3016 Last-modified: Tue, 19 Nov 1996 22:50:59 GMT Ron Theriault Ron Theriault Java the Hut Research Specialist / Systems Research Programmer Department of Computer Science, Texas A&M University, College Station, TX 77843-3112 Office: 221A H. R. Bright Building Phone: (409) 845-1865 Fax: (409) 847-8578 Email: ron@cs.tamu.edu Click Here for my nifty WorldClock Java applet.",
+    "link": [
+        "http://www.cs.tamu.edu/staff/ron/worldclock",
+        "http://java.cs.tamu.edu/docs/api/packages.html",
+        "http://java.sun.com/applets/"
+    ],
+    "ground_truth": "staff"
+}

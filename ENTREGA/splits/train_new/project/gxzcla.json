@@ -1,0 +1,10 @@
+{
+    "Title": "Virtual Reality for learning, driving, and psychophysics",
+    "Body": "Date: Wednesday, 20-Nov-96 20:06:12 GMT Server: NCSA/1.3 MIME-version: 1.0 Content-type: text/html Last-modified: Friday, 24-Feb-95 18:36:08 GMT Content-length: 928 Virtual Reality for learning, driving, and psychophysics Virtual Reality for learning, driving, and psychophysics Virtual reality techniques create environments for psychophysical experiments with eye, head and hand-tracking hardware.",
+    "link": [
+        "http://www.cs.rochester.edu/u/dana/",
+        "http://www.cs.rochester.edu/u/mccallum/",
+        "http://www.cs.rochester.edu/u/jonas/"
+    ],
+    "ground_truth": "project"
+}

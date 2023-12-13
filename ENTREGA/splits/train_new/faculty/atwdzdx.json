@@ -1,0 +1,10 @@
+{
+    "Title": " Home page for Rod Howell",
+    "Body": "Other items of professional interest The IEEE-CS Technical Committee on Real-Time Systems.",
+    "link": [
+        "http://www.cis.ksu.edu/htbin/finger?howell@cis.ksu.edu",
+        "http://www.cis.ksu.edu",
+        "http://www.cis.ksu.edu/big-nichols.gif"
+    ],
+    "ground_truth": "faculty"
+}

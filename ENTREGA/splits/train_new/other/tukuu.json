@@ -1,0 +1,6 @@
+{
+    "Title": "Forefronts Teaching Computer Graphics with DX article",
+    "Body": "These exercises include: construction of polyhedra from vertex and face descriptions; construction of parametric surfaces including quadric surfaces (e.g. ellipsoids), figures of rotation, and tensor-product surfaces (e.g. bilinear); hierarchical modeling and animation of complex objects; writing perspective viewing transforms; comparing lighting techniques with wire frame, flat shaded, or Gouraud shaded objects illuminated with ambient and point illumination; producing variations on the standard Phong lighting model, including spotlights and bump mapping of surfaces; image techniques including production of texture mapped surfaces, image filtering and anti-aliasing; visualization of a 2D scalar field (heights of a landscape) and a 3D vector field (a flow field); and a design project to produce animation based on all the techniques learned.",
+    "link": [],
+    "ground_truth": "other"
+}

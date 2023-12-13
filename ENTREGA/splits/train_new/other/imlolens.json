@@ -1,0 +1,10 @@
+{
+    "Title": "Amusements",
+    "Body": "Check 'em out anyway for that retro feel: My very first home page .",
+    "link": [
+        "http://www.consultechusa.com/amish/cdesk.html",
+        "http://www.cs.wisc.edu/~turnidge/accident.html",
+        "http://www.cs.wisc.edu/~turnidge/modeling.html"
+    ],
+    "ground_truth": "other"
+}

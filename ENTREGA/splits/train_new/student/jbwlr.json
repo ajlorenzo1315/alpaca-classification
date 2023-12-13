@@ -1,0 +1,10 @@
+{
+    "Title": "Paul Franklin's Home Page",
+    "Body": "I graduated in Computer Science and Engineering from UC Davis , where I was taught Prolog for the second time.",
+    "link": [
+        "http://www.washington.edu/",
+        "http://www.cs.washington.edu/homes/paul/me//",
+        "http://www.cs.washington.edu/homes/ortega/431/431.html"
+    ],
+    "ground_truth": "student"
+}

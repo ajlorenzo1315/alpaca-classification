@@ -1,0 +1,10 @@
+{
+    "Title": "The Halting Problem",
+    "Body": "We define a new Turing machine D which does the following on inputs of the form .",
+    "link": [
+        "node1.html",
+        "node1.html",
+        "node1.html#SECTION00010000000000000000"
+    ],
+    "ground_truth": "other"
+}

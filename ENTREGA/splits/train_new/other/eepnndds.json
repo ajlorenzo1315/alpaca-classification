@@ -1,0 +1,10 @@
+{
+    "Title": " Mathematical Programming at the University of Wisconsin -\nMadison ",
+    "Body": "Major divisions of the field include: linear and nonlinear programming, integer programming, complementarity problems and  variational inequalities.",
+    "link": [
+        "http://www.cs.wisc.edu/",
+        "#faculty",
+        "#grads"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Algernon and Access-Limited Logic",
+    "Body": "Brief Overview Access-Limited Logic is a language for representing knowledge in the computer, and a method for drawing conclusions and answering questions from that knowledge.",
+    "link": [
+        "http://net.cs.utexas.edu/users/qr/",
+        "#Overview",
+        "#Researchers"
+    ],
+    "ground_truth": "other"
+}

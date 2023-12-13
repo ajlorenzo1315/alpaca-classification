@@ -1,0 +1,10 @@
+{
+    "Title": "CptSci 112a Home Page",
+    "Body": "Includes pointers to handouts and demo programs and recommended readings for each lecture.",
+    "link": [
+        "http://pine.cs.yale.edu:4201/cs112/schedule.html",
+        "http://pine.cs.yale.edu:4201/home/aspnes.html",
+        "mailto:aspnes@cs.yale.edu"
+    ],
+    "ground_truth": "course"
+}

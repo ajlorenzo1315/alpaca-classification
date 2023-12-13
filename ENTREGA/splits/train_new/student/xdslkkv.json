@@ -1,0 +1,10 @@
+{
+    "Title": "Leysia Palen's Home Page",
+    "Body": "To appear as a book chapter in a NATO Publication.",
+    "link": [
+        "http://www.ics.uci.edu/~palen/cv.html",
+        "http://www.ics.uci.edu/~palen/LPpapers/ECSCW.html",
+        "http://www.ics.uci.edu/~palen/LPpapers/zephyr.chi96.html"
+    ],
+    "ground_truth": "student"
+}

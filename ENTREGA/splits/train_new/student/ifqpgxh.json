@@ -1,0 +1,10 @@
+{
+    "Title": " home page for Bhanu ",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Monday, 06-Jan-97 19:40:55 GMT Content-Type: text/html Content-Length: 2169 Last-Modified: Monday, 18-Nov-96 16:06:06 GMT home page for Bhanu Welcome to Bhanu's   homepage This is my son Akhil Reddy T hanks for visiting my homepage !",
+    "link": [
+        "http://www.utexas.edu/",
+        "http://www.cs.utexas.edu/users/vin/cs384m.html",
+        "http://cism.bus.utexas.edu/course/barua/fall96"
+    ],
+    "ground_truth": "student"
+}

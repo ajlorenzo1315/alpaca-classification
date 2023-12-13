@@ -1,0 +1,10 @@
+{
+    "Title": "\nNancy Ide\n",
+    "Body": "She has written a textbook for introductory computing as well as numerous papers in the fields of computational linguistics, computational lexicography, and humanities computing.",
+    "link": [
+        "http://www.cs.vassar.edu/",
+        "mailto:ide@cs.vassar.edu",
+        "http://www.lpl.univ-aix.fr/"
+    ],
+    "ground_truth": "faculty"
+}

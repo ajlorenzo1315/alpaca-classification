@@ -1,0 +1,10 @@
+{
+    "Title": "Michael L. Overton",
+    "Body": "Date: Mon, 25 Nov 1996 22:03:48 GMT Server: NCSA/1.4.1 Content-type: text/html Last-modified: Mon, 11 Nov 1996 03:54:11 GMT Content-length: 1364 Michael L. Overton Michael L. Overton Professor, Computer Science Dept Department of Computer Science Courant Institute of Mathematical Sciences New York University 251 Mercer St. New York, NY 10012 Phones (212) 998-3121 (voice)   (212) 995-4121 (fax) Email overton@cs.nyu.edu Interests Numerical algorithms, their analysis, and related issues, primarily in the areas of optimization and linear algebra.",
+    "link": [
+        "http://cs.nyu.edu/",
+        "http://cs.nyu.edu/cs/courantnyu.html",
+        "http://nyu.edu/"
+    ],
+    "ground_truth": "faculty"
+}

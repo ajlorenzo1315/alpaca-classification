@@ -1,0 +1,10 @@
+{
+    "Title": "Home Sweet Home (bsy's home page)",
+    "Body": "Bennet taught CSE 80 in spring 1996; the archived web pages from the course is still available .",
+    "link": [
+        "http://www-cse.ucsd.edu/users/bsy/bio.html",
+        "http://www.cs.cmu.edu/afs/cs.cmu.edu/project/mach/public/www/mach.html",
+        "http://www.cs.cmu.edu/~tygar/"
+    ],
+    "ground_truth": "faculty"
+}

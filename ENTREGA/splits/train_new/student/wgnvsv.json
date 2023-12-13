@@ -1,0 +1,10 @@
+{
+    "Title": "Bernard's Home Page",
+    "Body": "Date: Tue, 26 Nov 1996 02:59:02 GMT Server: Apache/1.0.0 Content-type: text/html Content-length: 5232 Last-modified: Fri, 26 Apr 1996 21:28:21 GMT Bernard's Home Page Bernard Desruisseaux Welcome to my home page!",
+    "link": [
+        "http://www.cs.mcgill.ca",
+        "http://www.mcgill.ca",
+        "http://www.cum.qc.ca"
+    ],
+    "ground_truth": "student"
+}

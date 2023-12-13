@@ -1,0 +1,10 @@
+{
+    "Title": " Peter Druschel ",
+    "Body": "(with Larry L. Peterson and Norman C.",
+    "link": [
+        "ftp://ftp.cs.arizona.edu/xkernel/Papers/osiris.ps",
+        "http://www.cs.rice.edu/~druschel/thesis-tr.ps",
+        "ftp://ftp.cs.arizona.edu/xkernel/Papers/fbuf.ps"
+    ],
+    "ground_truth": "faculty"
+}

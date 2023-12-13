@@ -1,0 +1,10 @@
+{
+    "Title": "William Noble Grundy",
+    "Body": "Grundy, William.",
+    "link": [
+        "http://www-cse.ucsd.edu/users/bgrundy/me.html",
+        "http://www-cse.ucsd.edu/",
+        "http://cogsci.ucsd.edu/"
+    ],
+    "ground_truth": "student"
+}

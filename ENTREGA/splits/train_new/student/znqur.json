@@ -1,0 +1,10 @@
+{
+    "Title": "\nMehmet Karaul's Home Page\n",
+    "Body": "Date: Tue, 26 Nov 1996 03:45:13 GMT Server: NCSA/1.4.1 Content-type: text/html Last-modified: Mon, 14 Oct 1996 18:11:56 GMT Content-length: 2880 Mehmet Karaul's Home Page This home page is currently under construction.",
+    "link": [
+        "mailto:karaul@cs.nyu.edu",
+        "http://www.cs.nyu.edu/",
+        "http://www.cims.nyu.edu/"
+    ],
+    "ground_truth": "student"
+}

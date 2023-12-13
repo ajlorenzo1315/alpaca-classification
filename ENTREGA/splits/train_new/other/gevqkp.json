@@ -1,0 +1,10 @@
+{
+    "Title": "CLR Errata",
+    "Body": "To Algorithms Larry Ruzzo & Martin Tompa Errata for Cormen, Leiserson, Rivest, Introduction to Algorithms : Acrobat : 1st printing, 2nd and subsequent printings.",
+    "link": [
+        "/",
+        "bug1.pdf",
+        "bug2.pdf"
+    ],
+    "ground_truth": "other"
+}

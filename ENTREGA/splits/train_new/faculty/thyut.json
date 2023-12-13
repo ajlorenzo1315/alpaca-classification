@@ -1,0 +1,10 @@
+{
+    "Title": "\nEd Lazowska\n",
+    "Body": "He belongs to the standing advisory committees for the Department of EECS at UC Berkeley and the Departments of Computer Science at Stanford University , the University of Virginia , and the Hong Kong University of Science & Technology , and is a member of ACM's A.M. Turing Award selection committee.",
+    "link": [
+        "http://www.cs.washington.edu/homes/lazowska/faculty.lecture/",
+        "http://www.cs.washington.edu/homes/lazowska/faculty.lecture/innovation/gore.html",
+        "http://www.cs.washington.edu/homes/lazowska/chairs.html"
+    ],
+    "ground_truth": "faculty"
+}

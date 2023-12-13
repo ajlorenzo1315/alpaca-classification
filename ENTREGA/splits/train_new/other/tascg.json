@@ -1,0 +1,9 @@
+{
+    "Title": "Integrating Constraints with an Object-Oriented Language",
+    "Body": "Date: Tue, 10 Dec 1996 03:26:54 GMT Server: NCSA/1.4.2 Content-type: text/html Integrating Constraints with an Object-Oriented Language Integrating Constraints with an Object-Oriented Language Authors: Bjorn Freeman-Benson and Alan Borning Published in Proceedings of the 1992 European Conference on Object-Oriented Programming , June 1992, pages 268-286.",
+    "link": [
+        "ftp://cs.washington.edu/pub/constraints/papers/kaleidoscope-ecoop-92.ps.Z",
+        "http://www.cs.washington.edu/research/projects/weird/www/index.html"
+    ],
+    "ground_truth": "other"
+}

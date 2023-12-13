@@ -1,0 +1,10 @@
+{
+    "Title": "Doug's Video Page",
+    "Body": "One of the resources available here is a list of the movies I've watched lately .",
+    "link": [
+        "http://www.cs.utexas.edu/users/dastuart/places/video.html",
+        "http://www.cs.utexas.edu/users/dastuart/index.html",
+        "http://www.ingress.com/users/spease/hw/hollyweb.html"
+    ],
+    "ground_truth": "other"
+}

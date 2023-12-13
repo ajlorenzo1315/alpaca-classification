@@ -1,0 +1,10 @@
+{
+    "Title": " EECS452's Home Page ",
+    "Body": "Lab Reports : A report on each experiment is required by each group of two students.",
+    "link": [
+        "http://www.ti.com/sc/docs/dsps/prodinfo/newc2x.htm",
+        "http://www.ti.com/sc/docs/dsps/prodinfo/newc5x.htm",
+        "http://www.motorola.com/"
+    ],
+    "ground_truth": "course"
+}

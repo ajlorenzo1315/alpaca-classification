@@ -1,0 +1,10 @@
+{
+    "Title": "The Cornell Dutch Club",
+    "Body": "The Cornell Dutch Club ( you can add to this page ) [ home ] [ thuis ] [ nieuws ] [ bladen ] [ events ] [ links ] [ more-links ] [ fotos ] [ music ] [ werk ] [ tourism&travel ] [ sport_hobby ] [ cultuur ] [ taal ] [ geography ] [ misc ]",
+    "link": [
+        "http://www.cs.cornell.edu/Info/People/aswin/NL/dutch.html",
+        "http://www.cs.cornell.edu/Info/People/aswin/NL/dutch.html",
+        "http://www.cs.cornell.edu/Info/People/aswin/NL/nl.html"
+    ],
+    "ground_truth": "other"
+}

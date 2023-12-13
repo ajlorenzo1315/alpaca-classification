@@ -1,0 +1,10 @@
+{
+    "Title": "Adam's Homepage",
+    "Body": "I am a member of the Electronic Frontier Foundation and the American Civil Liberties Union as well as the Association for Computing Machinery .",
+    "link": [
+        "http://www.cs.unm.edu/~ackley/",
+        "http://www.cs.unm.edu/~amessing/resume.html",
+        "http://www.cs.unm.edu/~amessing/resume.ps"
+    ],
+    "ground_truth": "student"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Michael Tselman's Experimental WWW Page",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Thursday, 21-Nov-96 22:33:06 GMT Content-Type: text/html Content-Length: 885 Last-Modified: Monday, 05-Feb-96 17:27:44 GMT Michael Tselman's Experimental WWW Page Michael Tselman also known to friends as Misha.",
+    "link": [
+        "http://www.ccs.neu.edu/",
+        "http://www.ccs.neu.edu/home/misha/myhome/thesis/PofS/plan.ps",
+        "http://www.ccs.neu.edu/home/misha/travel.html"
+    ],
+    "ground_truth": "student"
+}

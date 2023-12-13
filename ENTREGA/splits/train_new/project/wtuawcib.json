@@ -1,0 +1,10 @@
+{
+    "Title": "Document Image Understanding Information Server",
+    "Body": "The server maintains research announcements, bibliographies, mailing lists, source code, technical reports, database information, and internet resources for document understanding, character recogntion and some related domains such as information retrieval.",
+    "link": [
+        "http://documents.cfar.umd.edu/DocumentsGroup/",
+        "http://www.umcp.umd.edu/",
+        "http://documents.cfar.umd.edu/multimedia/index.html"
+    ],
+    "ground_truth": "project"
+}

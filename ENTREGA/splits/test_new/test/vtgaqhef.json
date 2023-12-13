@@ -1,0 +1,10 @@
+{
+    "Title": " Dave Pierce's Home Page ",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Wednesday, 20-Nov-96 19:47:37 GMT Content-Type: text/html Content-Length: 1443 Last-Modified: Monday, 22-Jan-96 21:38:22 GMT Dave Pierce's Home Page David Pierce PhD Student Cornell University Computer Science Address Stuff Office 4156 Upson Hall (607) 255-5033 Home 154A Valentine Pl.",
+    "link": [
+        "http://www.cs.cornell.edu/Info/People/pierce/reading.html",
+        "http://www.cs.cornell.edu/Info/People/pierce/pittsburgh.html",
+        "http://www.cs.cornell.edu/Info/People/pierce/favorites.html"
+    ],
+    "ground_truth": "unknow"
+}

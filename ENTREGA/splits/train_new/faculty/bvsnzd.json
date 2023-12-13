@@ -1,0 +1,10 @@
+{
+    "Title": " kishore.html ",
+    "Body": "Since then I have been with Georgia Tech (home of the yellow jackets), where I am currently an Associate Professor in the College of Computing.",
+    "link": [
+        "http://www.cc.gatech.edu/computing/Architecture/arch.html",
+        "http://www.cc.gatech.edu/",
+        "http://www.gatech.edu/"
+    ],
+    "ground_truth": "faculty"
+}

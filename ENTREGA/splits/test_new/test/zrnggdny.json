@@ -1,0 +1,10 @@
+{
+    "Title": "\nThe Netrek-Java Project\n",
+    "Body": "For example, the first stage of the code port would involve writing a graphics wrapper in Java for the Netrek graphics engine, thus keeping all the other C code in tact.",
+    "link": [
+        "http://www.cs.utexas.edu/users/hiep",
+        "#Proposal",
+        "#Netrek"
+    ],
+    "ground_truth": "unknow"
+}

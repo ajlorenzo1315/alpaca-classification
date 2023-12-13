@@ -1,0 +1,9 @@
+{
+    "Title": "\nAn Informal, Local Web Survey\n",
+    "Body": "Improve the ability to discover something on the Web.",
+    "link": [
+        "http://www.cs.washington.edu/homes/forman/",
+        "http://www.cs.washington.edu/homes/joebob/index.html"
+    ],
+    "ground_truth": "other"
+}

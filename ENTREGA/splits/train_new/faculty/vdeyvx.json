@@ -1,0 +1,10 @@
+{
+    "Title": "JOHN F. BUFORD",
+    "Body": "on Multimedia Computing and Systems, Boston, MA Program Committee, ACM Multimedia 95 Program Committee, WebNet 96 Program Committee, ED-MEDIA 96 Program Committee, ED-MEDIA 95 Program Committee, IMC '96 Information Visualization and Mobile Computing, Feb 26-27, 1996, Rostock, Germany Program Committee, 1995 ISSM Intl Conf on Distributed Multimedia Systems and Applications Program Committee, 1994 ISSM Intl Conf on Distributed Multimedia Systems and Applications Program Committee, DAGS 95 Electronic Publishing and the Information Superhighway Member, advisory board, X Resource Journal Reviewer: IEEE Multimedia Magazine Reviewer: ACM Multimedia Systems Journal Reviewer: IEEE Computer (special issue on visual programming) Reviewer: IEEE Computer (special issue on content-based retrieval) Reviewer: Computer Communications Journal (special issue on multimedia systems) Reviewer: ACM/ECHT Hypertext 1994 Treasurer, ACM Multimedia 96, Boston Publicity, IEEE ICMCS 94, Boston Tutorials and Panels Tutorial on Distributed Multimedia Systems, presented at: ACM Multimedia 94; ACM Multimedia 95, Eurographics 95, DAGS 95, Sydney University of Technology, Australia (Sept. 1994); Brisbane University of Technology, Australia (Sept. 1994); IEEE Intl Conf.",
+    "link": [
+        "http://www.cs.uml.edu/~buford/buford.gif",
+        "http://img.uml.edu/",
+        "http://ceci.mit.edu"
+    ],
+    "ground_truth": "faculty"
+}

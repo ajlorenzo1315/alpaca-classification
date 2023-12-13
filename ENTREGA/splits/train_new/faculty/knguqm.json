@@ -1,0 +1,10 @@
+{
+    "Title": "James Cremer",
+    "Body": "(NOTE: file is compressed Postscript) The Software Architecture for Scenario Control in the Iowa Driving Simulator J. Cremer and J. Kearney and Y. Papelis and R. Romano.",
+    "link": [
+        "http://www.cs.uiowa.edu/~cremer/scenario96.html",
+        "http://www.cs.uiowa.edu/~cremer/sive95.html",
+        "#papers"
+    ],
+    "ground_truth": "faculty"
+}

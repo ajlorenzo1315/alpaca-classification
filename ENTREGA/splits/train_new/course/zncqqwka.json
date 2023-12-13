@@ -1,0 +1,10 @@
+{
+    "Title": "CS377.  Topics in Human-Computer Interaction",
+    "Body": "Potential courses for Winter and Spring are: CS377.",
+    "link": [
+        "http://www-pcd.stanford.edu/hci/courses/cs377schwanauer.html",
+        "http://www-pcd.stanford.edu/hci/courses/cs377card.html",
+        "http://www-pcd.stanford.edu/hci/courses/cs377clanton.html"
+    ],
+    "ground_truth": "course"
+}

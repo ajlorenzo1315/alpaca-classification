@@ -1,0 +1,10 @@
+{
+    "Title": "A Structural Information Framework For Brain Mapping",
+    "Body": "Date: Tue, 10 Dec 1996 ?",
+    "link": [
+        "http://www7.biostr.washington.edu/slides/BrainMapOverview/BrainMapOverview.html",
+        "http://www10.biostr.washington.edu:8080/brainmapper.html",
+        "DigitalAnatomist.html"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Ray, Sylvian",
+    "Body": "Date: Thu, 21 Nov 1996 20:22:27 GMT Server: NCSA/1.5.2 Last-modified: Thu, 21 Sep 1995 18:23:44 GMT Content-type: text/html Content-length: 1121 Ray, Sylvian Sylvian R. Ray Areas of research interest: Artificial Intelligence :   We concentrate on designing neural network based systems which are applicable to interpretation of signals arising in biomedical applications.",
+    "link": [
+        "http://www.cs.uiuc.edu/CS_INFO_SERVER/DEPT_INFO/CS_RESEARCH/RESEARCH_AREAS/ai.html",
+        "http://www.cs.uiuc.edu/CS_INFO_SERVER/DEPT_INFO/CS_RESEARCH/RESEARCH_AREAS/bio.html",
+        "http://www.cs.uiuc.edu/CS_INFO_SERVER/DEPT_INFO/CS_STAFF/STAFF_HTMLS/johnson.html"
+    ],
+    "ground_truth": "faculty"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Laboratory for Computer Science Research WWW Server",
+    "Body": "DCS Online Class Library A collection of syllabi and handouts from courses at the Rutgers New Brunswick Department of Computer Science.",
+    "link": [
+        "http://www.cs.rutgers.edu/general.html",
+        "http://www.cs.rutgers.edu/LCSR-Computing",
+        "http://please.rutgers.edu/LCSRComputing/"
+    ],
+    "ground_truth": "other"
+}

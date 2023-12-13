@@ -1,0 +1,10 @@
+{
+    "Title": "Carl Smith",
+    "Body": "Date: Thu, 21 Nov 1996 20:27:14 GMT Server: Apache-SSL/0.4.3b Content-type: text/html Content-length: 2597 Last-modified: Tue, 12 Nov 1996 15:37:27 GMT Carl Smith Carl Smith Email: smith@cs.umd.edu FOCS Homepage IFIP Working Group 1.4 Current Position: On leave at: Faculty of Mathematics, Computer Science, Physics & Astronomy Institute for Logic, Language and Computation University of Amsterdam Plantage Muidergracht 24 NL-1018 TV Amsterdam The Netherlands Approximate 1996, 1997 Schedule Academic Degrees: Ph.D., SUNY at Buffalo , 1979.",
+    "link": [
+        "mailto:smith@cs.umd.edu",
+        "http://www.cs.umd.edu/~smith/focs.index.html",
+        "http://www.cs.umd.edu/~smith/ifip.html"
+    ],
+    "ground_truth": "faculty"
+}

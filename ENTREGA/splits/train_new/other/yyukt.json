@@ -1,0 +1,10 @@
+{
+    "Title": "dylan's ramblings",
+    "Body": "I've just added a list of Things I Like .",
+    "link": [
+        "http://www.cs.washington.edu/homes/dylan/dylanFaq.html",
+        "http://www.cs.washington.edu/homes/dylan/index.html",
+        "http://www.cs.washington.edu/homes/dylan/ilike.html"
+    ],
+    "ground_truth": "other"
+}

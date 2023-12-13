@@ -1,0 +1,9 @@
+{
+    "Title": "Constraint Satisfaction and Debugging for Interactive \nUser Interfaces",
+    "Body": "SkyBlue is an incremental constraint solver that uses local propagation to maintain a set of constraints as individual constraints are added and removed.",
+    "link": [
+        "ftp://cs.washington.edu/pub/constraints/papers/sannella-dissertation",
+        "http://www.cs.washington.edu/research/projects/weird/www/index.html"
+    ],
+    "ground_truth": "other"
+}

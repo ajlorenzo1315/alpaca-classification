@@ -1,0 +1,10 @@
+{
+    "Title": "B573, Section 1179: Scientific Computing II",
+    "Body": "Course Description This course is for students in the sciences and applied mathematics whose research involves solving large sparse linear systems on a computer, and for computer scientists interested in learning the computational problems encountered in scientific and engineering codes.",
+    "link": [
+        "#general",
+        "#description",
+        "#outline"
+    ],
+    "ground_truth": "course"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "\nAmy's Home Page\n",
+    "Body": "She also did her undergrad there, and in the meantime she got an M.A.",
+    "link": [
+        "http://cs.nyu.edu/",
+        "http://cs.nyu.edu/cs/courantnyu.html",
+        "http://www.nyu.edu/"
+    ],
+    "ground_truth": "student"
+}

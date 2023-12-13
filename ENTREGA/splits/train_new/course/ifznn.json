@@ -1,0 +1,10 @@
+{
+    "Title": "C535 Course Description",
+    "Body": "Cases of academic dishonesty will be reported to the Office of Student Ethics, a branch of the Office of the Dean of Students.",
+    "link": [
+        "http://www.cs.indiana.edu/l/www/classes/c435/c435.html",
+        "http://www.cs.indiana.edu/classes/c535/c536.html>C536 Advanced Operating Systems II</a> is the second\ncourse of the OS sequence.\n\n<H3>Contents</H3>\n\n<UL>\n<LI> <A HREF=",
+        "#description"
+    ],
+    "ground_truth": "course"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Low-Latency Communication on the IBM RISC System/6000 SP ",
+    "Body": "Introduction Active Messages background SP Overview Active Messages Implementation Basic Send and Receive Mechanisms Flow Control Round-trip Latency Bandwidth Overheads Summary and Comparison with MPL Split-C Application Benchmarks MPI Implementation over Active Messages Basic Implementation Optimizations MPI Point-to-Point Performance NAS benchmarks Conclusions Acknowledgements References About this document ... Chris Hawblitzel Thu Sep 19 12:22:33 EDT 1996",
+    "link": [
+        "node1.html",
+        "node1.html",
+        "footnode.html#56"
+    ],
+    "ground_truth": "other"
+}

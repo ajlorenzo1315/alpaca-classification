@@ -1,0 +1,10 @@
+{
+    "Title": "CS 537 - Processes, Part II (Deadlock) ",
+    "Body": "It may also contain processes that are not part of the cycle but are waiting for processes in the cycle, or for processes waiting for them, etc.",
+    "link": [
+        "#terminology",
+        "#detection",
+        "#recovery"
+    ],
+    "ground_truth": "other"
+}

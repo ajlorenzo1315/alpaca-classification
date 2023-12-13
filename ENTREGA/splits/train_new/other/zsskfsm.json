@@ -1,0 +1,10 @@
+{
+    "Title": "Chuck Dyer's Links of Interest",
+    "Body": "Qualifying Exam in AI Other UW Links CS Department CS Undergraduate Majors CS Graduate Students CS Faculty and Staff Directory of UW Students, Faculty and Staff Athletic Department Graduate School Hoofers Clubs Library Catalog UW-Madison AI-Related Resources on the Web AI Repository (CMU) AI Resources (National Research Council of Canada) AI Resources (associated with chapters in Russell and Norvig's AI textbook) Virtual Library on AI AI Frequently-Asked Questions (FAQs) AI Bibliography Server AI Programming Languages (including Lisp) FAQs Computer Vision Resources Neural Network Resources Robotics Resources Lisp and AI-Related Humor Career Planning Graduate School Colleges and Universities around the World Computer Science Departments around the World Peterson's Guides Computer Science Programs Tips for Going to Graduate School (Univ.",
+    "link": [
+        "http://www.engr.wisc.edu/ece/courses/ece532.html",
+        "http://www.engr.wisc.edu/ece/courses/ece533.html",
+        "http://www.cs.wisc.edu/~shavlik/cs760.html"
+    ],
+    "ground_truth": "other"
+}

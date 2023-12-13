@@ -1,0 +1,10 @@
+{
+    "Title": "Wash U: Faculty: Keith Bennett",
+    "Body": "Date: Thu, 21 Nov 1996 21:32:44 GMT Server: NCSA/1.5.2 Content-type: text/html Wash U: Faculty: Keith Bennett Keith J. Bennett Current Positions Director - Center for Engineering Computing School of Engineering and Applied Science Washington University Co-Director - Virtual Environments Project Washington University Senior Affiliate Research Associate Department of Computer Science Washington University Co-Founder and Member of the Board of Directors ProtoSpace Corporation Current Major Projects Application of Virtual Reality to Architecture and Engineering Simplified Web Development and Support Systems Large-Scale Space Systems Software Development Processes Research Interests Application of Computers to Historical and Scientific Analysis Computer Graphics and Virtual Reality Software Engineering Education M.S.",
+    "link": [
+        "http://www.cec.wustl.edu/cec/",
+        "http://www.ecl.wustl.edu/seas/",
+        "http://www.wustl.edu/"
+    ],
+    "ground_truth": "faculty"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "SPIN WEB SERVER",
+    "Body": "Language Support for Extensible Operating Systems We've been pretty happy with M3, but we've had to deal with a few shortcomings in order to use the language in a safe extensible operating system.",
+    "link": [
+        "http://www-spin.cs.washington.edu/www/external/members.html",
+        "mailto:spin@cs.washington.edu",
+        "http://www-spin.cs.washington.edu/commands.html"
+    ],
+    "ground_truth": "other"
+}

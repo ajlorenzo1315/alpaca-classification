@@ -1,0 +1,10 @@
+{
+    "Title": " Ilia's Home Page ",
+    "Body": "Here is a brief list of things you can find on this page: Personal stuff My research and academic interests, publications My resume Sites in Russia My hobbies Linux Photography Aikido Pinky and the Brain (Zort!)",
+    "link": [
+        "http://www.eff.org/blueribbon.html",
+        "http://www4.ncsu.edu/~ibaldin/WWW/index.html#personal",
+        "http://www4.ncsu.edu/~ibaldin/WWW/index.html#academics"
+    ],
+    "ground_truth": "student"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Dan's Home Page",
+    "Body": "Date: Thu, 21 Nov 1996 23:01:57 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Wed, 02 Oct 1996 08:42:26 GMT Content-length: 3642 Dan's Home Page Welcome to Dan Fasulo's Home Page dfasulo@cs.washington.edu Third-year graduate student, Department of Computer Science , University of Washington .",
+    "link": [
+        "mailto:dfasulo@cs.washington.edu",
+        "http://www.cs.washington.edu",
+        "http://www.washington.edu"
+    ],
+    "ground_truth": "student"
+}

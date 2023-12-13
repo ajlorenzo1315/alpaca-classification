@@ -1,0 +1,10 @@
+{
+    "Title": "\nPackages\n",
+    "Body": "Date: Tue, 14 Jan 1997 18:45:44 GMT Server: Apache/1.1.1 Content-type: text/html Content-length: 755 Last-modified: Thu, 18 Jan 1996 22:29:45 GMT Packages API User's Guide Applet API Packages java.applet java.awt java.awt.image java.awt.peer java.io java.lang java.net java.util Other Packages sun.tools.debug",
+    "link": [
+        "http://java.cs.tamu.edu/docs/api/API_users_guide.html",
+        "http://java.cs.tamu.edu/docs/api/Package-java.applet.html",
+        "http://java.cs.tamu.edu/docs/api/Package-java.awt.html"
+    ],
+    "ground_truth": "other"
+}

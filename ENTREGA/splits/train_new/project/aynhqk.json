@@ -1,0 +1,10 @@
+{
+    "Title": " DOD/AFOSR Project on Mobile and Distributed Communications/Computing \n",
+    "Body": "Roy, Schlegel, Raju, Lee, and Lin are with Division of Engineering, UTSA, San Antonio, TX 78249 Profs.",
+    "link": [
+        "http://www.cs.utsa.edu/faculty/hiromoto.html",
+        "http://www.cs.utsa.edu/faculty/das.html",
+        "http://www.cs.utsa.edu/faculty/boppana.html"
+    ],
+    "ground_truth": "project"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "DAS Food Page",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Monday, 06-Jan-97 22:00:21 GMT Content-Type: text/html Content-Length: 1807 Last-Modified: Monday, 12-Aug-96 22:41:48 GMT DAS Food Page Austin Restaurants and Other Food Sources The Austin City Limits page has a restaurant guide that is fairly complete.",
+    "link": [
+        "\nhttp://www.quadralay.com/www/Austin/Austin.html\n",
+        "\nhttp://www.quadralay.com/www/Austin/AustinFood/AustinFood.html\n",
+        "\nhttp://www.inferdata.com:80/ebiz.htmlff\n"
+    ],
+    "ground_truth": "other"
+}

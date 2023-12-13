@@ -1,0 +1,10 @@
+{
+    "Title": "Homepage for Michael A. Harrison",
+    "Body": "Date: Thu, 21 Nov 1996 19:58:33 GMT Server: NCSA/1.4 Content-type: text/html Last-modified: Mon, 14 Oct 1996 21:47:33 GMT Content-length: 1880 Homepage for Michael A. Harrison Michael A. Harrison Finger Coming soon:  Various vitae and links to papers on line.",
+    "link": [
+        "http://HTTP.CS.Berkeley.EDU/cgi-bin/finger?harrison",
+        "http://www.cs.berkeley.edu/~bobu",
+        "http://www.cs.berkeley.edu/~xjam"
+    ],
+    "ground_truth": "faculty"
+}

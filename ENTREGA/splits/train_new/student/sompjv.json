@@ -1,0 +1,10 @@
+{
+    "Title": "Martins' Krikis Home Page",
+    "Body": "With the help of the UNIX finger function it is generally possible to make rather intelligent guesses about whether I am in my office or not.",
+    "link": [
+        "http://www.cs.indiana.edu/finger/cherry.cs.yale.edu/krikis",
+        "mailto:krikis@cs.yale.edu",
+        "http://www.cs.yale.edu/homes/krikis/liga/liga.html"
+    ],
+    "ground_truth": "student"
+}

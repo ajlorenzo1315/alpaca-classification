@@ -1,0 +1,10 @@
+{
+    "Title": " Kathryn Stockton's Home Page ",
+    "Body": "Date: Thu, 21 Nov 1996 22:10:47 GMT Server: Apache/1.1.1 Content-type: text/html Content-length: 4402 Last-modified: Fri, 11 Nov 1994 13:02:28 GMT Kathryn Stockton's Home Page Kathryn Stockton Contact Information Kathryn Stockton e-mail (Atlanta, Georgia): kathryn@cc.gatech.edu e-mail (Portland, Oregon): kathryn@metheus.com Kathryn Stockton was a Master's student in the College of Computing at Georgia Tech and graduated September 1994.",
+    "link": [
+        "http://www.cc.gatech.edu/Computing.html",
+        "http://www.gatech.edu//TechHome.html",
+        "http://www.cc.gatech.edu/gvu/gvutop.html"
+    ],
+    "ground_truth": "student"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "No title",
+    "Body": "Grading Exams 40% 2 Tests 10% each Final Exam 20% Programs 40% Class Participation 20% Students will be regularly asked to present or discuss reading materials in class.",
+    "link": [
+        "http://issl.cs.byu.edu/docs/home.html>Dan R. Olsen\n\t\tJr.</a>\n\t<li>Office: 3360 TMCB\n\t<li>Phone: 378-2225\n\t<li>Class time: 3:35-4:50 MW - 120 TMCB\n\t<li>Office hours: upon request\n\t<li>email: <b>olsen@cs.byu.edu </b><p>\n\t<li>TA: <A HREF=",
+        "news:byu.class.cs556",
+        "mailto:bastian@iul.cs.byu.edu"
+    ],
+    "ground_truth": "course"
+}

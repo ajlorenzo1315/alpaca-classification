@@ -1,0 +1,6 @@
+{
+    "Title": "CS 766 HW #3 Hints and FAQs",
+    "Body": "Since we want this to be a measure of distance, you should use: - | d - | v  - v   | | i    i-1 To normalize this value to be in the range [0..1], divide by the largest value of this expression from the 9 values computed for the 9 possible positions of v_i in the 3 x 3 neighborhood centered at the current point.",
+    "link": [],
+    "ground_truth": "unknow"
+}

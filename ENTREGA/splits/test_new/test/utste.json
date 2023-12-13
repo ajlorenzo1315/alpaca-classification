@@ -1,0 +1,10 @@
+{
+    "Title": "UCLA Data Mining Laboratory Publications",
+    "Body": "In this paper, we present an overview of the Conquest parallel scientific query processing system that we are developing at UCLA to tackle some of the scientific data management problems presented by the proliferation of geographic applications, data formats, and storage systems, as well as the complexity of data and the computational requirements of scientific queries.",
+    "link": [
+        "#acmgis_96",
+        "#cs960039",
+        "#ieee_expert_96"
+    ],
+    "ground_truth": "unknow"
+}

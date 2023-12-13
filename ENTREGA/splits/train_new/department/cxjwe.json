@@ -1,0 +1,10 @@
+{
+    "Title": " UPenn CIS Home Page ",
+    "Body": "Education Graduate Program , Request Form for Graduate Application Materials Selected Course Pages Current Events Colloquia and Meetings Associated Organizations and Laboratories Institute for Research in Cognitive Science Linguistics Data Consortium Distributed Systems Laboratory .",
+    "link": [
+        "http://www.seas.upenn.edu",
+        "http://www.upenn.edu",
+        "http://www.cis.upenn.edu/cgi-bin/finger"
+    ],
+    "ground_truth": "department"
+}

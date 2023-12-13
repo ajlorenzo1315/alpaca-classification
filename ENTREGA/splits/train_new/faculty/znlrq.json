@@ -1,0 +1,10 @@
+{
+    "Title": "Shlomo Zilberstein's Home Page",
+    "Body": "Date: Thu, 21 Nov 1996 20:37:51 GMT Server: NCSA/1.4.2 Content-type: text/html Shlomo Zilberstein's Home Page Contact Info Research Publications Symposia Talks Teaching Students Schedule Affiliations Galleria Shlomo Zilberstein Assistant Professor Department of Computer Science University of Massachusetts Box 34610, Lederle Graduate Research Center Amherst, MA 01003-4610 voice: +1-413-545-4189 fax: +1-413-545-1249 Shlomo Zilberstein is an Assistant Professor of Computer Science at the University of Massachusetts at Amherst where he is heading the Resource-Bounded Reasoning Research Group .",
+    "link": [
+        "http://anytime.cs.umass.edu/~shlomo/index.html",
+        "http://anytime.cs.umass.edu/~shlomo/contact.html",
+        "http://anytime.cs.umass.edu/~shlomo/research.html"
+    ],
+    "ground_truth": "faculty"
+}

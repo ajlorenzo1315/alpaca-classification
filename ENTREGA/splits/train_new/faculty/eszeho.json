@@ -1,0 +1,10 @@
+{
+    "Title": "Joy Shetler's Home Page",
+    "Body": "Computer Architecture III CPE 316 This course covers computer architecture and interfacing techniques.",
+    "link": [
+        "mailto:jshetler@phoenix.csc.calpoly.edu",
+        "http://www.compcon.org",
+        "http://phoenix.csc.calpoly.edu/~jshetler/CPE219.html"
+    ],
+    "ground_truth": "faculty"
+}

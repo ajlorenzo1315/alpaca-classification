@@ -1,0 +1,10 @@
+{
+    "Title": " Derek's Homepage ",
+    "Body": "I am a PhD student in The University of New Mexico Computer Science Department and I also work at The Santa Fe Institute .",
+    "link": [
+        "http://www.cs.unm.edu/~dsmith/people-to-know.html",
+        "http://www.santafe.edu/~ana/good_boys.html",
+        "http://www.santafe.edu/~ana/bad_boys.html"
+    ],
+    "ground_truth": "student"
+}

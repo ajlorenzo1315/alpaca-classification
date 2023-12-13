@@ -1,0 +1,10 @@
+{
+    "Title": "About Dr. Jungsoon Yoo",
+    "Body": "(with T. Cheatham and N. Wahl) \"Software Testing Using Machine Learning\"  Proceedings of ACM CSC'95, Nashville, TN 1995.",
+    "link": [
+        "http://www.mtsu.edu/academic/compsci/help.html",
+        "http://www.mtsu.edu/academic/compsci/comment.html",
+        "http://www.mtsu.edu/academic/compsci/faculty//"
+    ],
+    "ground_truth": "faculty"
+}

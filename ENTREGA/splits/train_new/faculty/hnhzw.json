@@ -1,0 +1,10 @@
+{
+    "Title": "John Canny's Home Page",
+    "Body": "Canny and R. Seidel A Fast Algorithm for Incremental Distance Calculation M. Lin and J.",
+    "link": [
+        "http://www.cs.indiana.edu/finger/cs.berkeley.edu/jfc",
+        "http://www-inst.eecs.berkeley.edu/~cs61b",
+        "http://http.cs.berkeley.edu/~jfc/compbio.html"
+    ],
+    "ground_truth": "faculty"
+}

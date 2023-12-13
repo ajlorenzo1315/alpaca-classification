@@ -1,0 +1,10 @@
+{
+    "Title": "James C. Browne",
+    "Body": "(138K) J. C. Browne, J. S. Werth, et al., \"Interaction of the formal and practical in the development of a parallel programming environment: the CODE parallel programming system,\" in Proceedings of the Fourth Workshop on Languages and Compilers for Parallel Computing , Santa Cruz, California, August 1991.",
+    "link": [
+        "http://www.hendrix.edu",
+        "http://www.utexas.edu",
+        "http://www.cs.utexas.edu/users/code"
+    ],
+    "ground_truth": "faculty"
+}

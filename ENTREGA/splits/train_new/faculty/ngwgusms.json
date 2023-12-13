@@ -1,0 +1,10 @@
+{
+    "Title": "Dr. Paul W. Ross' Home Page - C.S. Department, Millersville University \n",
+    "Body": "Server: Netscape-Communications/1.1 Date: Monday, 25-Nov-96 20:38:53 GMT Content-type: text/html Dr. Paul W. Ross' Home Page - C.S.",
+    "link": [
+        "http://babbage.millersv.edu/",
+        "http://cs.millersv.edu/faculty.html",
+        "http://cs.millersv.edu/"
+    ],
+    "ground_truth": "faculty"
+}

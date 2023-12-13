@@ -1,0 +1,10 @@
+{
+    "Title": "Home Page of Zhijian Lu",
+    "Body": "My Bacholar's degree: Computer Science, from the Department of Computer at Dalian University of Technology in China in 1990.",
+    "link": [
+        "http://www.cs.rutgers.edu",
+        "http://www.rutgers.edu",
+        "http://www.zju.edu.cn"
+    ],
+    "ground_truth": "student"
+}

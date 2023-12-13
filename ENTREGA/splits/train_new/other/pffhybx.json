@@ -1,0 +1,10 @@
+{
+    "Title": "CS611:  Handouts",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Sunday, 24-Nov-96 22:41:04 GMT Content-Type: text/html Content-Length: 600 Last-Modified: Monday, 09-Sep-96 16:39:35 GMT CS611:  Handouts CS611:  Semantics of Programming Languages Handouts: Course Overview (dvi file) includes administrative information, prerequisites, syllabus, textbooks information, resource information, homework and exam information, and some practical advice.",
+    "link": [
+        "http://www.cs.cornell.edu/Info/Courses/Current/CS611/handout1.dvi",
+        "http://foxnet.cs.cmu.edu/intro-notes.ps",
+        "http://www.cs.cornell.edu/Info/Courses/Current/CS611/home.html"
+    ],
+    "ground_truth": "other"
+}

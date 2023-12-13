@@ -1,0 +1,10 @@
+{
+    "Title": "\nCS 302 Section 10 Notes and Examples\n",
+    "Body": "Increment the Date with a Struct (New concepts:  declaring & initializing struct s, passing struct s as arguments to functions and using them as return types from functions, using an enum type like an integer) This is a fleshed out version of an example I went through in class Increment the Date with a Class (New concepts:  declaring a class, writing member functions for a class, initializing a class with a constructor) This is a fleshed out version of an example I went through in class The Electric Company (New concepts: overloading constructor functions, Abstract Data Types) This is a fleshed out version of an example I went through in class Chapter 9 Some sample programs that demonstrate material from Ch.",
+    "link": [
+        "http://www.cs.wisc.edu/~msteele/cs302/notes2/ex1.cc",
+        "http://www.cs.wisc.edu/~msteele/cs302/notes2/ex2.cc",
+        "http://www.cs.wisc.edu/~msteele/cs302/notes2/ex3.cc"
+    ],
+    "ground_truth": "other"
+}

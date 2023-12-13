@@ -1,0 +1,10 @@
+{
+    "Title": "About Mrs. Brenda Parker",
+    "Body": "Sung Yoo from MTSU to buy software to improve lab facilities, AMOUNT:  $683.00 1992, Applied for and received grant funding from the Board of Regents to support our Middle Tennessee Computing Teachers Alliance AMOUNT: $820.00 PUBLICATIONS: Advising Manual          1989 Wrote computer science advising manual to be given to all CSCI majors CSCI 100 Lab Manual      1989-1993 Wrote computer science lab manual each year to be used by CSCI 100 students Lab Manuals for CS1      1992-1994 Wrote lab manuals (3) to be used in closed labs for CS1 students.",
+    "link": [
+        "http://www.mtsu.edu/academic/compsci/help.html",
+        "http://www.mtsu.edu/academic/compsci/comment.html",
+        "http://www.mtsu.edu/academic/compsci/faculty//"
+    ],
+    "ground_truth": "faculty"
+}

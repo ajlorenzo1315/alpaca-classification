@@ -1,0 +1,10 @@
+{
+    "Title": "Fall 1996 Course CSCI 577a",
+    "Body": "Date: Wednesday, 20-Nov-96 23:29:58 GMT Server: NCSA/1.3 MIME-version: 1.0 Content-type: text/html Fall 1996 Course CSCI 577a Fall 1996 Course CS577a Design and Construction of Large Software Systems: Software Engineering I - Plans, Processes, Requirements, and Architectures Commercial off-the-shelf (COTS) software products, interactive networked information systems, new management approaches, and new process models are significantly changing the nature of software engineering.",
+    "link": [
+        "http://sunset.usc.edu/classes/cs577a/project.html",
+        "http://sunset.usc.edu/classes/cs577a/schedule.html",
+        "http://sunset.usc.edu/classes/cs577a/questionnaire.html"
+    ],
+    "ground_truth": "course"
+}

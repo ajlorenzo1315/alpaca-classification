@@ -1,0 +1,10 @@
+{
+    "Title": " \nPublications\n",
+    "Body": "Complex Databases Refereed Publications The Case for Enhanced Abstract Data Types Praveen Seshadri, Miron Livny and Raghu Ramakrishnan.",
+    "link": [
+        "#SeqPapers",
+        "#SQLOpt",
+        "#Coral"
+    ],
+    "ground_truth": "other"
+}

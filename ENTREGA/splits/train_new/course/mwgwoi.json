@@ -1,0 +1,10 @@
+{
+    "Title": "CS736 Spring 1996",
+    "Body": "There are two important components of this course: reading and discussion of various research papers, and a project involving implementation of an experimental system.",
+    "link": [
+        "http://www.cs.wisc.edu/~cao/cs736/cs736-papers.html",
+        "http://www.cs.wisc.edu/~cao/cs736/cs736-schedule.html",
+        "http://www.cs.wisc.edu/~cao/cs736/project-list.html"
+    ],
+    "ground_truth": "course"
+}

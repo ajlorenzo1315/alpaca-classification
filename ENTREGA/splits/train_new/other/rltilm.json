@@ -1,0 +1,10 @@
+{
+    "Title": "Useless Page",
+    "Body": "Date: Tue, 05 Nov 1996 00:09:11 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Tue, 08 Oct 1996 05:35:26 GMT Content-length: 2238 Useless Page Useless Page Useless Image Databases USC-SIPI Image Database (for purchase) Virgil Image Database (access restricted) UUCC Image Database (missing scripts?)",
+    "link": [
+        "http://sipi.usc.edu/database/Database.html",
+        "http://www.mc.vanderbilt.edu/vumcdept/pathology/search.html",
+        "http://www.utah.edu/HTML_Docs/Image_Database.html"
+    ],
+    "ground_truth": "other"
+}

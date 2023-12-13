@@ -1,0 +1,10 @@
+{
+    "Title": " Bob Veroff's Home Page ",
+    "Body": "Date: Mon, 25 Nov 1996 23:19:45 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Tue, 19 Nov 1996 06:19:44 GMT Content-length: 3233 Bob Veroff's Home Page Robert Veroff Professor Computer Science Department University of New Mexico 301H Farris Engineering Center Albuquerque, NM   87131 veroff@cs.unm.edu Phone: (505) 277-4231 Fax: (505) 277-6927 Ph.D., Northwestern University, 1980 Interests : automated deduction, expert database systems Some Links for Automated Deduction JAR , the Journal of Automated Reasoning AAR , the Association for Automated Reasoning CADE , the Conference on Automated Deduction Otter , a program that searches for proofs Automated Reasoning at Argonne National Laboratory Other theorem proving systems and groups The QED Project ORA Canada's Bibliography of Automated Deduction Books Helman, P. and Veroff, R., Intermediate Problem Solving and Data Structures: Walls and Mirrors , Benjamin Cummings Publishing Company, Menlo Park, California (1986).",
+    "link": [
+        "http://www.cs.unm.edu",
+        "http://www.unm.edu",
+        "mailto:veroff@cs.unm.edu"
+    ],
+    "ground_truth": "unknow"
+}

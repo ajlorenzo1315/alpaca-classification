@@ -1,0 +1,10 @@
+{
+    "Title": "Nick Roussopoulos",
+    "Body": "Date: Thu, 21 Nov 1996 20:28:19 GMT Server: Apache-SSL/0.4.3b Content-type: text/html Content-length: 4611 Last-modified: Wed, 30 Oct 1996 12:36:20 GMT Nick Roussopoulos Nick Roussopoulos Email: nick@cs.umd.edu Tel: 301-405-2687 Fax: 301-405-6707 Position: Professor, CS and UMIACS.",
+    "link": [
+        "http://www.cs.umd.edu/~nick/projects/cubetree.html",
+        "http://www.cs.umd.edu/~nick/projects/adms.html",
+        "http://www.cs.umd.edu/~nick/projects/ABCast.html"
+    ],
+    "ground_truth": "faculty"
+}

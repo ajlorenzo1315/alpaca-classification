@@ -1,0 +1,10 @@
+{
+    "Title": "Storage Management",
+    "Body": "We have developed a generational storage management system , incorporated into Chez Scheme, that employs a segmented memory model and a hybrid tagging system.",
+    "link": [
+        "ftp://ftp.cs.indiana.edu/pub/techreports/TR401ps.Z",
+        "ftp://ftp.cs.indiana.edu/pub/techreports/TR354.ps.Z",
+        "ftp://ftp.cs.indiana.edu/pub/techreports/TR360.ps.Z"
+    ],
+    "ground_truth": "unknow"
+}

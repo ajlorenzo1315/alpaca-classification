@@ -1,0 +1,10 @@
+{
+    "Title": "Diane Law",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Monday, 06-Jan-97 19:36:11 GMT Content-Type: text/html Content-Length: 2201 Last-Modified: Monday, 24-Apr-95 17:20:13 GMT Diane Law Diane Law PhD Student Department of Computer Sciences The University of Texas at Austin Research Interests The symbol grounding problem Navigation for robotic agents using neural networks evolved through the use of genetic algorithms.",
+    "link": [
+        "http://www.cs.utexas.edu/users/nn",
+        "http://www.cs.utexas.edu:80/users/ai-lab/",
+        "http://www.cs.utexas.edu/"
+    ],
+    "ground_truth": "student"
+}

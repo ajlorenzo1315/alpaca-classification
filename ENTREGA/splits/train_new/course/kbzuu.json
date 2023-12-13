@@ -1,0 +1,10 @@
+{
+    "Title": "CSE 451 Home Page",
+    "Body": "Projects Descriptions of the projects, related project material, and solutions to old projects.",
+    "link": [
+        "http://www.cs.washington.edu/homes/bershad",
+        "mailto:cse451-instructor@cs.washington.edu",
+        "http://www.cs.washington.edu/homes/sungeun"
+    ],
+    "ground_truth": "course"
+}

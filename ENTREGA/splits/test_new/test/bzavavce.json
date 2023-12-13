@@ -1,0 +1,10 @@
+{
+    "Title": "CS 110 Section 2 Lecture Notes - Week 1",
+    "Body": "How to use FORTRAN on the PC's Click here Compiling Steps Source Program (.for) in Fortran sent to compiler Compiler translates Fortran into \"machine language with a couple of holes left\",spits out .obj file A program may be broken into lots of segments, so there may be other obj's around.",
+    "link": [
+        "http://www.cs.wisc.edu/~tick/cs110.html#text",
+        "http://www.cs.wisc.edu/~tick/cs110/Short.html",
+        "http://www.cs.wisc.edu/~tick/tick.html"
+    ],
+    "ground_truth": "unknow"
+}

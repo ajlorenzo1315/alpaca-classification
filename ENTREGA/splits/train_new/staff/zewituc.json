@@ -1,0 +1,10 @@
+{
+    "Title": "Brent Marykuca",
+    "Body": "I am the best computer programmer that I know, but I don't know a lot of people.",
+    "link": [
+        "mailto:bmarykuc@csc.uvic.ca",
+        "http://gulf.uvic.ca/~bmarykuc/cgi/comments.cgi",
+        "http://gulf.uvic.ca/~csc586"
+    ],
+    "ground_truth": "staff"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Tour of the CSRVL",
+    "Body": "Camel , along with some junk on the floor of the main lab.",
+    "link": [
+        "http://www.cs.cornell.edu/Info/Projects/csrvl/tour/r1.gif",
+        "http://www.cs.cornell.edu/Info/Projects/csrvl/tour/r2.gif",
+        "http://www.cs.cornell.edu/Info/Projects/csrvl/tour/r3.gif"
+    ],
+    "ground_truth": "other"
+}

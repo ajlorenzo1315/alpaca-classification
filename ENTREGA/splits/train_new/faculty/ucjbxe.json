@@ -1,0 +1,9 @@
+{
+    "Title": "Arun Somani",
+    "Body": "Professor Somani's research interests are in the area of fault tolerant computing, interconnection networks, computer architecture, parallel computer systems, and parallel algorithms.",
+    "link": [
+        "http://denali.ee.washington.edu/DPCNL.html",
+        "http://denali.ee.washington.edu:80/~proteus"
+    ],
+    "ground_truth": "faculty"
+}

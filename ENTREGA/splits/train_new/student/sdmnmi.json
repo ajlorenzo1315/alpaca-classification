@@ -1,0 +1,10 @@
+{
+    "Title": "Anton Leouski's Desktop",
+    "Body": "I assure you, it is the coolest WWW navigator, yet!",
+    "link": [
+        "mailto:leouski@cs.umass.edu",
+        "http://www.cs.umass.edu/~leouski/art.html",
+        "http://www.cs.umass.edu/~leouski/mth-intro.html"
+    ],
+    "ground_truth": "student"
+}

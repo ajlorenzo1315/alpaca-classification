@@ -1,0 +1,9 @@
+{
+    "Title": "Late Policy",
+    "Body": "The following late policy is provided in case of emergencies, and is not to be used carelessly.",
+    "link": [
+        "mailto:greg@cs.wisc.edu",
+        "http://www.cs.wisc.edu/~greg"
+    ],
+    "ground_truth": "other"
+}

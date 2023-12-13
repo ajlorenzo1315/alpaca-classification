@@ -1,0 +1,10 @@
+{
+    "Title": "Hotlist",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Monday, 06-Jan-97 21:12:06 GMT Content-Type: text/html Content-Length: 15560 Last-Modified: Tuesday, 05-Mar-96 18:27:52 GMT Hotlist Recent pages Starting points Yahoo The Lycos Home Page: Hunting WWW Information Starting Points for Internet Exploration Virtual Tourist World Map Timex Time is World Time Internet Newsgroups Internet Resources Metamap Nlightn Home Page.",
+    "link": [
+        "http://www.yahoo.com/",
+        "http://lycos.cs.cmu.edu/",
+        "http://www.ncsa.uiuc.edu/SDG/Software/Mosaic/StartingPoints/NetworkStartingPoints.html"
+    ],
+    "ground_truth": "other"
+}

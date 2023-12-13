@@ -1,0 +1,10 @@
+{
+    "Title": "Miles Murdocca's Home Page",
+    "Body": "Teaching Interests CS211: Introduction to Computer Architecture CS352: Internet Technology Graduate and Undergraduate Independent Studies What I am Working on These Days Internet based distributed archiving system (The DISTANCE Project).",
+    "link": [
+        "http://www.cs.rutgers.edu/~murdocca/Greeting.au",
+        "http://www.digits.com/web_counter/",
+        "http://www.cs.rutgers.edu/~murdocca/211.html"
+    ],
+    "ground_truth": "faculty"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": " Homepage of Nicholas R. Howe ",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Wednesday, 20-Nov-96 19:49:32 GMT Content-Type: text/html Content-Length: 901 Last-Modified: Monday, 09-Sep-96 20:38:55 GMT Homepage of Nicholas R. Howe Nicholas R. Howe (Click on photo for B/W image.)",
+    "link": [
+        "http://www.cs.cornell.edu/Info/People/nihowe/nihowe.bw.html",
+        "http://www.cs.cornell.edu/",
+        "http://www.cornell.edu/"
+    ],
+    "ground_truth": "student"
+}

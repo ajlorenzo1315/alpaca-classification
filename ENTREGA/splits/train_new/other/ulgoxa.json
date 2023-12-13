@@ -1,0 +1,10 @@
+{
+    "Title": "ECE Picture Captions",
+    "Body": "Date: Mon, 11 Nov 1996 21:12:41 GMT Server: NCSA/1.5 Content-type: text/html ECE Picture Captions College of Engineering University of Wisconsin - Madison Electrical and Computer Engineering Picture Captions Laser beams travel through optical fibers in the college's Photonics Laboratory.",
+    "link": [
+        "http://www.engr.wisc.edu/ece/",
+        "http://www.engr.wisc.edu/graphics/common/Lab/laser-beam.jpg",
+        "http://www.engr.wisc.edu/graphics/common/Lab/laser-beam.jpg"
+    ],
+    "ground_truth": "other"
+}

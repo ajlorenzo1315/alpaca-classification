@@ -1,0 +1,10 @@
+{
+    "Title": "Ken Harker - Work",
+    "Body": "My work for the Department of Computer Science at Dartmouth College involved two projects.",
+    "link": [
+        "http://www.dartmouth.edu/",
+        "http://www.dartmouth.edu/pages/softdev/blitz.html",
+        "http://www.dartmouth.edu/pages/softdev/fetch.html"
+    ],
+    "ground_truth": "unknow"
+}

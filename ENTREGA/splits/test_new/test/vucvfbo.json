@@ -1,0 +1,10 @@
+{
+    "Title": "Titanium homepage",
+    "Body": "Date: Wed, 20 Nov 1996 19:22:53 GMT Server: NCSA/1.4 Content-type: text/html Last-modified: Tue, 09 Jul 1996 00:51:56 GMT Content-length: 2316 Titanium homepage The Titanium Project The Titanium group is developing compiler and language support for parallel programming of distributed memory multiprocessors.",
+    "link": [
+        "http://http.cs.berkeley.edu/projects/parallel/castle/split-c",
+        "http://HTTP.CS.Berkeley.EDU/~graham/",
+        "http://HTTP.CS.Berkeley.EDU/~aiken/"
+    ],
+    "ground_truth": "unknow"
+}

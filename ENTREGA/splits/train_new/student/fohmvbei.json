@@ -1,0 +1,10 @@
+{
+    "Title": "NOW you've done it...",
+    "Body": "We have, for your wonder and amazement, an intense resume to browse, a picture of me spending quality time with my girlfriend Amy, and other mindless diversions are on the way.",
+    "link": [
+        "http://matisse.bgsu.edu/~glenn/home/glenn.qt",
+        "http://matisse.bgsu.edu/~glenn/home/resume.html",
+        "http://matisse.bgsu.edu/~glenn/home/amy.html"
+    ],
+    "ground_truth": "student"
+}

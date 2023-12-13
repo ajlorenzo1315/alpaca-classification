@@ -1,0 +1,10 @@
+{
+    "Title": "SHORE Papers",
+    "Body": "The OO7 Benchmark Carey, M., DeWitt, D. and J. Naughton, Proc.",
+    "link": [
+        "file://ftp.cs.wisc.edu/tech-reports/reports/94/tr1222.ps.Z",
+        "file://ftp.cs.wisc.edu/tech-reports/reports/94/tr1242.ps.Z",
+        "http://www.cs.wisc.edu/~freedman/spiffi-vod.ps"
+    ],
+    "ground_truth": "unknow"
+}

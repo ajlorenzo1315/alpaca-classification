@@ -1,0 +1,10 @@
+{
+    "Title": "The Ensemble Project",
+    "Body": "On This Site... Meet the students who work on the Ensemble Project.",
+    "link": [
+        "http://www.cs.berkeley.edu/",
+        "http://www.berkeley.edu/",
+        "http://www.cs.berkeley.edu/~graham"
+    ],
+    "ground_truth": "project"
+}

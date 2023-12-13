@@ -1,0 +1,10 @@
+{
+    "Title": " Learning Case Adaptation for Case-Based Reasoning ",
+    "Body": "It models how CBR systems, starting with only domain- and task-independent adaptation information, can augment that general knowledge by learning domain-specific information from the adaptations they perform.",
+    "link": [
+        "http://www.cs.indiana.edu/hyplan/leake.html",
+        "http://www.cs.indiana.edu/hyplan/akinley.html",
+        "http://www.cs.indiana.edu/hyplan/davwils.html"
+    ],
+    "ground_truth": "unknow"
+}

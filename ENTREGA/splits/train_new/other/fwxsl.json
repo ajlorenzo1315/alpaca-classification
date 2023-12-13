@@ -1,0 +1,10 @@
+{
+    "Title": "Design and Performance of Horus:\nA Lightweight Group Communications System",
+    "Body": "of Computer Science Cornell University Abstract: The Horus project seeks to develop a communication system addressing the requirements of a wide variety of distributed applications.",
+    "link": [
+        "node1.html",
+        "node1.html",
+        "footnode.html#3"
+    ],
+    "ground_truth": "other"
+}

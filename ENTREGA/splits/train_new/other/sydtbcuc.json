@@ -1,0 +1,10 @@
+{
+    "Title": "Curriculum Vita",
+    "Body": "Developed and implemented new techniques for optimizing object-oriented languages, including static analysis of class hierarchies [ Dean et al. 95a ] , selective specialization of source routines [ Dean et al. 95b ] , incremental compilation in the face of whole-program analysis [ Chambers et al. 94 ] , profile-guided optimization for object-oriented languages [ Grove et al. 95 ] , and improved automatic inlining decisions [ Dean & Chambers 94 ] .",
+    "link": [
+        "mailto:jdean@cs.washington.edu",
+        "http://www.cs.washington.edu/homes/jdean",
+        "http://www.cs.washington.edu/research/projects/cecil/www/Papers/hierarchy.html"
+    ],
+    "ground_truth": "other"
+}

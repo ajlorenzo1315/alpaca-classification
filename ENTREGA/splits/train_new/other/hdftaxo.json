@@ -1,0 +1,10 @@
+{
+    "Title": " Functional Languages",
+    "Body": "(For text version of this document, click here ) I/O in Functional Languages: Lecture notes on input/output in functional languages (streams and continuations).",
+    "link": [
+        "./miranda-notes1.txt",
+        "./functional-evaluation.html",
+        "./functional-evaluation.txt"
+    ],
+    "ground_truth": "other"
+}

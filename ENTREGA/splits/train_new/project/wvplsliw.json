@@ -1,0 +1,10 @@
+{
+    "Title": "Distributed Computing Research Lab Roster",
+    "Body": "Date: Tue, 26 Nov 1996 00:09:51 GMT Server: NCSA/1.5 MIME-version: 1.0 Content-type: text/html Last-modified: Sat, 23 Nov 1996 23:39:56 GMT Content-length: 1380 Distributed Computing Research Lab Roster Computer Science and Engineering Dept.",
+    "link": [
+        "ftp://ftp.dcrl.nd.edu/pub/TechReports/tr-list.html",
+        "http://www.nd.edu/~dcrlab/dlc",
+        "http://www.cse.nd.edu/~dcrlab/ldb"
+    ],
+    "ground_truth": "project"
+}

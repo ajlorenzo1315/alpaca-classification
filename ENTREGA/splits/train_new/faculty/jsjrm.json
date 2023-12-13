@@ -1,0 +1,10 @@
+{
+    "Title": "Home HTML Document",
+    "Body": "A.",
+    "link": [
+        "http://HTTP.CS.Berkeley.EDU/~randy/index.html#RTFToC1",
+        "http://HTTP.CS.Berkeley.EDU/~randy/index.html#RTFToC2",
+        "http://HTTP.CS.Berkeley.EDU/~randy/index.html#RTFToC9"
+    ],
+    "ground_truth": "faculty"
+}

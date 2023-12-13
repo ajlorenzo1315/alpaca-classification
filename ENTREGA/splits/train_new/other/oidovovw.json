@@ -1,0 +1,10 @@
+{
+    "Title": "Horus: A Flexible Group Communications System",
+    "Body": "Overview of thumbnail pages Display a selected page in one of the following formats (document has 16 pages).",
+    "link": [
+        "/Dienst/UI/2.0/Composite/ncstrl.cornell%2fTR95-1500/1?nsections=1",
+        "/Dienst/Repository/2.0/Body/ncstrl.cornell%2fTR95-1500/postscript",
+        "/Dienst/UI/2.0/Print/ncstrl.cornell%2fTR95-1500"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,9 @@
+{
+    "Title": "Converting an Existing User Interface to Use Constraints",
+    "Body": "The thesis of the work described in this paper is that it is possible, and practical, to convert an existing user interface written in an imperative programming language into a similar user interface implemented with constraints.",
+    "link": [
+        "ftp://cs.washington.edu/pub/constraints/papers/cooldraw-uist-93.ps.Z",
+        "http://www.cs.washington.edu/research/projects/weird/www/index.html"
+    ],
+    "ground_truth": "other"
+}

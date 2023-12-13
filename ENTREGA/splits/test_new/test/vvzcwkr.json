@@ -1,0 +1,10 @@
+{
+    "Title": "CS380L: Advanced Operating Systems ",
+    "Body": "5, Pages 2-12, December 1985 Fault Tolerance F. Cristian, ``Basic Concepts and Issues in Fault-Tolerant Distributed Systems'', In International Workshop on Operating Systems of the 90s and Beyond, A. Karshmer and J. Nehmer (Eds), Springer-Verlag, 1991 K. Birman and T. Joseph, ``Reliable Communication in the Presence of Failures'', ACM Transactions on Computer Systems, Vol.",
+    "link": [
+        "http://www.cs.utexas.edu/users/vin/index.html",
+        "http://www.cs.utexas.edu/users/vin/cs380l.html#course",
+        "http://www.cs.utexas.edu/users/vin/cs380l.html#general"
+    ],
+    "ground_truth": "unknow"
+}

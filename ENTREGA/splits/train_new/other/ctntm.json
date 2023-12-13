@@ -1,0 +1,10 @@
+{
+    "Title": "UTCS nl-acq paper history",
+    "Body": "[discussed on Feb. 12, 1993] P. Langley and J. Carbonell, \"Language Acquisition and Machine Learning\" from the book, \"Mechanisms of Language Acquisition\", 1985",
+    "link": [
+        "file://ftp.cs.utexas.edu/pub/mooney/papers/contex-acl-96.ps.Z",
+        "file://ftp.cs.utexas.edu/pub/mooney/papers/emnlp-96.ps.Z",
+        "ftp://ftp.cs.brown.edu/pub/techreports/96/cs96-02.ps.Z"
+    ],
+    "ground_truth": "other"
+}

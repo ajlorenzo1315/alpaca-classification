@@ -1,0 +1,10 @@
+{
+    "Title": "Nick Hain",
+    "Body": "Date: Tue, 26 Nov 1996 03:45:25 GMT Server: NCSA/1.4.1 Content-type: text/html Last-modified: Sun, 17 Nov 1996 09:22:10 GMT Content-length: 1745 Nick Hain Nick Hain NYU Media Research Lab 719 Broadway, 12th Floor New York, NY 10003 Email: hain@cs.nyu.edu Home Phone: 212-689-4729 I'm a graduate student in computer science at NYU.",
+    "link": [
+        "mailto:hain@cs.nyu.edu",
+        "http://cs.nyu.edu/cs/dept_info/course_home_pages/fall96/G22.3033.09/index.html",
+        "http://cs.nyu.edu/phd_students/hain/javadraw"
+    ],
+    "ground_truth": "student"
+}

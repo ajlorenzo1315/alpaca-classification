@@ -1,0 +1,10 @@
+{
+    "Title": "Building Intelligent Agents",
+    "Body": "(A project of the University of Edinburgh, CALL Centre .)",
+    "link": [
+        "http://www.cs.utexas.edu/users/kuipers/agents-syllabus.ps",
+        "http://www.cs.umass.edu:4321/robotics.html",
+        "http://www.cis.ohio-state.edu/hypertext/faq/bngusenet/comp/robotics/top.html"
+    ],
+    "ground_truth": "other"
+}

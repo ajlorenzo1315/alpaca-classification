@@ -1,0 +1,10 @@
+{
+    "Title": " Home Page for Kurt Stirewalt ",
+    "Body": "My favorite bar is the Bardo Rodeo in Arlington Virginia (no, it is not a country western bar).",
+    "link": [
+        "http://www.cc.gatech.edu/CoC.html",
+        "http://www.gatech.edu",
+        "http://www.cc.gatech.edu/gvu"
+    ],
+    "ground_truth": "student"
+}

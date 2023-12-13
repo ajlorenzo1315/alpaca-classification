@@ -1,0 +1,10 @@
+{
+    "Title": " Steve Reinhardt's Publications ",
+    "Body": "Wood, Satish Chandra, Babak Falsafi, Mark D. Hill, James R. Larus, Alvin R. Lebeck, James C. Lewis, Shubhendu S. Mukherjee, Subbarao Palacharla, and Steven K. Reinhardt.",
+    "link": [
+        "ftp://ftp.cs.wisc.edu/wwt/isca96_dcpld.ps",
+        "ftp://ftp.cs.wisc.edu/wwt/isca96_dcpld.ps.Z",
+        "ftp://ftp.cs.wisc.edu/wwt/isca96_dcpld.ps.gz"
+    ],
+    "ground_truth": "other"
+}

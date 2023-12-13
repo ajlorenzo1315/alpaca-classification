@@ -1,0 +1,10 @@
+{
+    "Title": "Haverford College Computer Science",
+    "Body": "As such, it is an interdisciplinary field whose roots are in mathematics and engineering, and with applications to most other academic disciplines.",
+    "link": [
+        "http://www.haverford.edu/cmsc/slindell/index.html",
+        "mailto:slindell@cs.haverford.edu",
+        "http://www.haverford.edu/cmsc/davew/index.html"
+    ],
+    "ground_truth": "unknow"
+}

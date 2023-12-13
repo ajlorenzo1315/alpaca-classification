@@ -1,0 +1,10 @@
+{
+    "Title": "Mechanical Engineering Faculty",
+    "Body": "Professor - robotics, computer control, manufacturing systems, precision engr., computer-integrated manufacturing,  micromechanisms; Manufacturing Systems Engineering Program ; Wisconsin Center for Space Automation and Robotics Elder, Frederick R. Lecturer - mechanical systems, energy systems design Engelstad, Roxann L. Professor - structural dynamics, nonlinear vibrations, mechanical design, computer modeling and simulation; Engine Research Center ; Fusion Technology Institute ; Nuclear Safety Research Center ; Center for X-ray Lithography Ermer, Donald S. Procter and Gamble Professor in Total Quality - Industrial Engineering - robust product/process design, quality improvement process, optimization of production optimization; Manufacturing Systems Engineering Program Farrell, Patrick V. Professor - fluid mechanics, optical diagnostics, combustion, heat transfer; Engine Research Center Ferrier, Nicola J.",
+    "link": [
+        "http://www.engr.wisc.edu/me/",
+        "http://www.engr.wisc.edu/me/faculty/ragland_kenneth.html",
+        "http://www.engr.wisc.edu/me/faculty/beckman_william.html"
+    ],
+    "ground_truth": "other"
+}

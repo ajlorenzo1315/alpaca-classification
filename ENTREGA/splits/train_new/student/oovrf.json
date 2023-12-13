@@ -1,0 +1,10 @@
+{
+    "Title": "Tom Suchyta's Home Page",
+    "Body": "I'm a grad student here at Michigan Tech.",
+    "link": [
+        "http://www.cs.mtu.edu/grads/Suchyta/scifi.html",
+        "http://www.cs.mtu.edu/grads/Suchyta/artist.html",
+        "http://www.cs.mtu.edu/grads/Suchyta/cs.html"
+    ],
+    "ground_truth": "student"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "\nTITAN: A Next-Generation Infrastructure for Integrating Computing and Communication\n",
+    "Body": "Media Component Driving Applications General CS Research Infrastructure NOW: Architecture and OS for a Network of Workstations NOW : Network of Workstations as a High Performance Integrated System Areas of Research within the NOW Component Active Messages: Fast Communication Primitives (Culler) Fast implementations of conventional communication layers.",
+    "link": [
+        "http://www.cs.berkeley.edu/~culler/titan/progress96.html",
+        "http://http.cs.berkeley.edu/~culler/titan/progress95.ps",
+        "http://http.cs.berkeley.edu/~culler/titan/titan-pi.ps"
+    ],
+    "ground_truth": "project"
+}

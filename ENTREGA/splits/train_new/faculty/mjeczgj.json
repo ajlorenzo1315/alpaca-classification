@@ -1,0 +1,8 @@
+{
+    "Title": "Yannis Ioannidis",
+    "Body": "My research primarily focuses on two areas of database systems: optimization of complex queries and database support for scientific data.",
+    "link": [
+        "http://www.cs.wisc.edu/cgi-bin/finger?yannis"
+    ],
+    "ground_truth": "faculty"
+}

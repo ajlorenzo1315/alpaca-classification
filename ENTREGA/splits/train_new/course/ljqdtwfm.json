@@ -1,0 +1,10 @@
+{
+    "Title": "CS236 Home Page",
+    "Body": "Welcome to CS 236, Foundations of Computer Science II.",
+    "link": [
+        "http://www.cs.byu.edu/info/tanorman.html",
+        "http://www.cs.byu.edu/building/TMCB-3rd.html",
+        "http://www.cs.columbia.edu/info/research-guide/html/node3.html"
+    ],
+    "ground_truth": "course"
+}

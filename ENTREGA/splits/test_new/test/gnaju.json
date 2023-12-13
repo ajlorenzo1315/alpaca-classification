@@ -1,0 +1,10 @@
+{
+    "Title": "\n\tNYU-SUNYSB Visualization Seminar: Talk Schedule\n",
+    "Body": "Nov 19 Claudio Silva (SUNY) Volumetric Visualization Tour of SUNYSB visualization resources Dec 3 Ee-Chien Chang (NYU) Foveated Images using Wavelets NOTE: 2:30-3:30, Tour of visualization activities at NYU Media Research Lab Dec 17 Yi-Jen Chiang (SUNY) Data management and I/O Issues THIS TALK HAS BEEN POSTPONED.",
+    "link": [
+        "http://sbnews.sunysb.edu/howtoget.html",
+        "http://cs.nyu.edu/cs/colloquium/home.html",
+        "http://ams.sunysb.edu/~jsbm/surfapprox.html"
+    ],
+    "ground_truth": "unknow"
+}

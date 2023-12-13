@@ -1,0 +1,10 @@
+{
+    "Title": "Logic and Formal Methods",
+    "Body": "Also available on the Evolving Algebra Homepage .",
+    "link": [
+        "http://www.cs.umass.edu/~immerman",
+        "http://www.cs.umass.edu/~immerman/cs691/notes_9_4.ps",
+        "http://www.cs.umass.edu/~immerman/cs691/notes_9_9.ps"
+    ],
+    "ground_truth": "course"
+}

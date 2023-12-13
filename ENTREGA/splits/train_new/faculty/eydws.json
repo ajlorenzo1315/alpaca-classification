@@ -1,0 +1,10 @@
+{
+    "Title": "Rance Cleaveland's Home Page",
+    "Body": "Research My research interests fall in the area formal methods for desciption and analysis of concurrent and distributed systems.",
+    "link": [
+        "http://www.csc.ncsu.edu",
+        "http://www.ncsu.edu",
+        "http://www1.nando.net/nao/go/cities/raleigh/raleigh.html"
+    ],
+    "ground_truth": "faculty"
+}

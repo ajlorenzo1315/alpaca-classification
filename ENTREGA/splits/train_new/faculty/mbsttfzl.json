@@ -1,0 +1,10 @@
+{
+    "Title": "JOHN BARNDEN",
+    "Body": "John A. Barnden A professor in the Computer Science Department.",
+    "link": [
+        "mailto:jbarnden@cs.nmsu.edu",
+        "http://crl.nmsu.edu/",
+        "http://www.cs.nmsu.edu/~jbarnden/green-card.html"
+    ],
+    "ground_truth": "faculty"
+}

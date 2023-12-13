@@ -1,0 +1,10 @@
+{
+    "Title": "Cornell MediaNet Project",
+    "Body": "Such secure and reliable group communication primitives are critical for advanced military and commercial multimedia applications CMT : Toolkit approach for reliable distributed audio/video applications.",
+    "link": [
+        "http://www.cs.cornell.edu/Info/Projects/U-Net/Welcome.html",
+        "http://www.cs.cornell.edu/Info/Projects/HORUS/ARPA/arpa.html",
+        "http://www.cs.cornell.edu/Info/Projects/zeno/cmt/cmt.html"
+    ],
+    "ground_truth": "project"
+}

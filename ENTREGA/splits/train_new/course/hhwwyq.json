@@ -1,0 +1,10 @@
+{
+    "Title": "CSC517 title page",
+    "Body": "Consequently, lectures during the first month of the course will also be shown in an oveflow room which, unfortunately, does not have a two-way audio/video link with the studio; thus students watching from that room will not be able to ask questions.",
+    "link": [
+        "http://www.csc.ncsu.edu/departmental/courses/CSC517.html",
+        "http://www4.ncsu.edu/eos/users/e/efg/WWW/index.html",
+        "mailto:efg@ncsu.edu"
+    ],
+    "ground_truth": "course"
+}

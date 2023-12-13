@@ -1,0 +1,9 @@
+{
+    "Title": "Nobuhiko Mukai",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Wednesday, 20-Nov-96 19:37:34 GMT Content-Type: text/html Content-Length: 924 Last-Modified: Thursday, 16-May-96 20:37:54 GMT Nobuhiko Mukai Nobuhiko Mukai This is a home page of Nobuhiko Mukai.",
+    "link": [
+        "http://www.cs.cornell.edu/Info/People/mukai/CS631/jpeg.html",
+        "http://www.cs.cornell.edu/Info/People/mukai/CS418/magic.html"
+    ],
+    "ground_truth": "student"
+}

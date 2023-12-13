@@ -1,0 +1,10 @@
+{
+    "Title": "Matthew Sams' home page",
+    "Body": "Quite simply I have been working for the School of Computer Science as a Systems Administrator for five years.",
+    "link": [
+        "http://www.cs.mcgill.ca/info/reference.html",
+        "mailto:maclean@cs.mcgill.ca",
+        "http://www.usenix.org/"
+    ],
+    "ground_truth": "unknow"
+}

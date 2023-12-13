@@ -1,0 +1,10 @@
+{
+    "Title": "The Ingram softbot",
+    "Body": "Occam is a joint work with Dan Weld , and recently we co-authored a paper on Occam that was accepted to appear in AAAI96.",
+    "link": [
+        "http://www.cs.washington.edu/homes/ctkwok/inethunt.html",
+        "http://java.sun.com",
+        "http://www.cs.washington.edu/people/faculty/weld.html"
+    ],
+    "ground_truth": "other"
+}

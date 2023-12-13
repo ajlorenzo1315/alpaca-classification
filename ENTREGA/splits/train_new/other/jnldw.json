@@ -1,0 +1,10 @@
+{
+    "Title": "\nCS 736 Project Ideas\n",
+    "Body": "Date: Mon, 11 Nov 1996 17:28:53 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Fri, 29 Sep 1995 21:30:42 GMT Content-length: 33263 CS 736 Project Ideas CS 736 Fall 1995 Term Project Ideas Marvin Solomon solomon@cs.wisc.edu Last updated: Fri Sep 29 16:30:41 CDT 1995 Contents General Comments Due Dates Project Proposal Project Suggestions Naming in Large Computer Networks Group Communication Security Audit File Servers for Workstations Load Balancing Security and Authentication Random Software testing Navigating the World-Wide Web Topology of the Web Self-perpetuating programs A General-Purpose Transaction Package Distributed Shared Memory Performance Study Distributed or Persistent Garbage Consumer Reports Condor Specialized NFS Servers: Shore UW--Madison Research Projects Tempest General Comments The projects are intended to give you an opportunity to study a particular area related to operating systems.",
+    "link": [
+        "http://www.cs.wisc.edu/~solomon/cs736.html",
+        "http://www.cs.wisc.edu/~solomon",
+        "#general"
+    ],
+    "ground_truth": "other"
+}

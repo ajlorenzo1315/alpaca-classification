@@ -1,0 +1,9 @@
+{
+    "Title": "Chin's home page",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Thursday, 21-Nov-96 22:39:25 GMT Content-Type: text/html Content-Length: 413 Last-Modified: Friday, 19-May-95 15:17:09 GMT Chin's home page Hi, ni how !",
+    "link": [
+        "http://www.ccs.neu.edu/home/chin/myname.html",
+        "http://www.ccs.neu.edu/home/chin/bye.html"
+    ],
+    "ground_truth": "unknow"
+}

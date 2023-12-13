@@ -1,0 +1,10 @@
+{
+    "Title": "PL Seminar Page",
+    "Body": "Date: Tue, 05 Nov 1996 21:20:04 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Fri, 18 Oct 1996 16:05:33 GMT Content-length: 2839 PL Seminar Page UW CS PL Seminars Fall 1996 The seminars are scheduled for Thursday from 4:00p to 5:00p in room 2310 CS.",
+    "link": [
+        "http://www.wisc.edu/",
+        "http://www.cs.wisc.edu/~lukas/plsem//",
+        "http://www.cs.wisc.edu/~mds/uwpl.html"
+    ],
+    "ground_truth": "other"
+}

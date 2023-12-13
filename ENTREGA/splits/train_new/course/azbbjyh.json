@@ -1,0 +1,9 @@
+{
+    "Title": "CSE 403X Home Page",
+    "Body": "This experimental version of CSE 403, lasting two quarters, will use a real Boeing project as an example, and the participants will work in one large group.",
+    "link": [
+        "http://www.cs.washington.edu/homes/leveson/index.html/",
+        "mailto:leveson@cs.washington.edu"
+    ],
+    "ground_truth": "course"
+}

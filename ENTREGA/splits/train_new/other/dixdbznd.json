@@ -1,0 +1,10 @@
+{
+    "Title": "UC Berkeley Home Page",
+    "Body": "Date: Tue, 14 Jan 1997 21:40:05 GMT Server: NCSA/1.5.1 Last-modified: Sat, 21 Dec 1996 00:12:26 GMT Content-type: text/html Content-length: 3661 UC Berkeley Home Page Campus Information Student Information Teaching & Research Units Libraries & Museums Computing Resources Student Organization Welcome to the UC Berkeley WWW home page.",
+    "link": [
+        "http://www.urel.berkeley.edu/urel_1/CampusNews/PressReleases/releases/yellen.html",
+        "http://www.berkeley.edu/campusinfo/",
+        "http://www.berkeley.edu/studentinfo/"
+    ],
+    "ground_truth": "other"
+}

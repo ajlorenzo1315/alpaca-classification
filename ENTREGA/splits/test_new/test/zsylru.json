@@ -1,0 +1,8 @@
+{
+    "Title": "CSE 567 Online Documentation",
+    "Body": "The documentation you might want to look at are under \"HDL Tools->Verilog-XL Simulation\": Verilog-XL Reference Verilog-XL Tutorial Verilog-XL User Guide Synopsys online documentation.",
+    "link": [
+        "gate-syn.html"
+    ],
+    "ground_truth": "unknow"
+}

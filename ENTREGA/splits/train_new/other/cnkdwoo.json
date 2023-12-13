@@ -1,0 +1,10 @@
+{
+    "Title": "Yinong Wei's Bookmarks",
+    "Body": "Date: Tue, 05 Nov 1996 21:45:25 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Sun, 27 Oct 1996 01:06:40 GMT Content-length: 55829 Yinong Wei's Bookmarks Yinong Wei's Bookmarks UW Chuck Dyer's Links of Interest Finding Out About (UWisc CS838 - F96) ECE 602 Home Page Electronic Library Weather for MSN Computer Vision Group Steve Seitz's Hotlinks Grad School DoIT WiscINFO College of Engineering Computer Science Comuting Research Association Online Course Information by CIS Department Advice on Research and Writing Berkeley CMU CMU RI Seminar Schedule Cornell Maryland Stanford Washington MIT Media Lab MIT Vision and Modeling Group AAAS ACM NSF DARPA IEEE Rank PhD Programs in Computer Science Miscellaneous Research centers Navy Center for Applied Research in Artificial Intelligence, NRL Internet store The Bookpool - Technical Books 20% to 35% Off!",
+    "link": [
+        "http://www.cs.wisc.edu/~dyer/cs540/links.html",
+        "http://www.cs.wisc.edu/~cs838-2/cs838.html",
+        "http://www.cae.wisc.edu/~ece602/"
+    ],
+    "ground_truth": "other"
+}

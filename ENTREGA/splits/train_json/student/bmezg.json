@@ -1,0 +1,5 @@
+{
+    "Título": "\nRajmohan Rajaraman's home page\n",
+    "Cuerpo": "MIME-Version: 1.0 Server: CERN/3.0 Date: Monday, 06-Jan-97 19:31:24 GMT Content-Type: text/html Content-Length: 1617 Last-Modified: Saturday, 12-Oct-96 07:34:50 GMT Rajmohan Rajaraman's home page Rajmohan Rajaraman I am a graduate student in the Department of Computer Sciences at the University of Texas at Austin . I am planning to complete my Ph.D. in Spring 1997. My dissertation supervisor is Greg Plaxton . Research : I am a member of the UT Algorithms and Computational Theory Group . I am particularly interested in combinatorics, distributed network algorithms, online algorithms, parallel models of computation, and randomness. Here are a list of my publications and my curriculum vita . Some useful links related to computer science Miscellaneous links Contact Information Email : rraj@cs.utexas.edu Home : 109, W39th, #214 Austin, TX 78751 Phone: (512) 371 3968 Office : UA9 4.106E Phone: (512) 471 9750 Postal : The University of Texas at Austin Department of Computer Sciences, TAY 2.124 Austin, TX 78712-1188 rraj@cs.utexas.edu",
+    "ground_truth": "student"
+}

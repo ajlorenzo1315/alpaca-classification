@@ -1,0 +1,10 @@
+{
+    "Title": "Qiang Zuo (John)'s Home Page",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Monday, 06-Jan-97 19:26:15 GMT Content-Type: text/html Content-Length: 9067 Last-Modified: Thursday, 11-Jul-96 02:24:59 GMT Qiang Zuo (John)'s Home Page Qiang Zuo (John) 's Home Page since 02/20/96.",
+    "link": [
+        "/cgi/rwho/qzuo",
+        "http://www.cs.utexas.edu/users/qzuo/me.html",
+        "http://www.cs.utexas.edu/"
+    ],
+    "ground_truth": "student"
+}

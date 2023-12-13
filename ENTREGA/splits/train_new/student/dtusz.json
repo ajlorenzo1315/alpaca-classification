@@ -1,0 +1,10 @@
+{
+    "Title": " Scott Weiss' Home Page ",
+    "Body": "12N Baltimore, MD 21210 weiss@cs.jhu.edu Academic Stuff I am currently a PhD Student in Computer Science at the Johns Hopkins University in Baltimore, MD .",
+    "link": [
+        "http://www.cs.jhu.edu/~weiss/ir.html",
+        "http://www.cs.jhu.edu/",
+        "http://www.jhu.edu/"
+    ],
+    "ground_truth": "student"
+}

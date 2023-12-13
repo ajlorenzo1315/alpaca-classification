@@ -1,0 +1,10 @@
+{
+    "Title": "BIRCH",
+    "Body": "BIRCH can find a good clustering or density estimation with a single scan of the dataset.",
+    "link": [
+        "#What",
+        "#New",
+        "#Examples"
+    ],
+    "ground_truth": "other"
+}

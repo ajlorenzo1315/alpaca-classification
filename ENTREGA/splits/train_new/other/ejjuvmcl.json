@@ -1,0 +1,10 @@
+{
+    "Title": "email messages concerning current questions for CS 412",
+    "Body": "Date: Tue, 05 Nov 1996 20:52:10 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Fri, 01 Nov 1996 17:03:02 GMT Content-length: 1138 email messages concerning current questions for CS 412 email messages concerning current questions for CS412 (as of 01 nov 96) old email re assignment 5 due date problem 1 (30oct) singular matrices (01nov) matlab questions d = a(b,c) i.e., constructing, in matlab, a matrix from the rows and columns of a given matrix.",
+    "link": [
+        "http://www.cs.wisc.edu/~deboor/412/old_email.html",
+        "http://www.cs.wisc.edu/~deboor/412/email/199610292103",
+        "http://www.cs.wisc.edu/~deboor/412/email/199610301455"
+    ],
+    "ground_truth": "other"
+}

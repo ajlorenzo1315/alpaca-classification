@@ -1,0 +1,10 @@
+{
+    "Title": "Recent Publications by PEG members ",
+    "Body": "Dowdy: Load Dependent Single Chain Models of Multichain Closed Queueing Networks , (submitted) Download Information: 292 KBytes, Postscript A. W. Apon and L. W. Dowdy: The Circulating Processor Model of Parallel Systems , (submitted) Download Information: 562 KBytes, Postscript A. W. Apon, T. D. Wagner, and L. W. Dowdy: A Self Monitoring Approach to Adaptive Processor Allocation , (under revision) Download Information: 566 KBytes, Postscript L. W. Dowdy, A. T. Krantz, and M. R. Leuze: Using a segregation measure for the workload characterization of multi-class queuing networks , CMG '90 International Conference on Management and Performance Evaluation of Computer Systems December 1990, pp 543-551 Download Information: 154 KBytes, Postscript C. C. Pettey, T. D. Wagner, and L. W. Dowdy: Applying genetic algorithms to extract workload classes , CMG '94 International Conference on Management and Performance Evaluation of Computer Systems December 1994, pp 880-887 Download Information: 163 KBytes, Postscript E. Smirni, E. Rosti, G. Serazzi, L. W. Dowdy, and K. C. Sevcik: Performance gains from leaving idle processors in multiprocessor systems , (under review) International Conference on Parallel Processing, 1995.",
+    "link": [
+        "mailto:manishm@vuse.vanderbilt.edu",
+        "#Modeling",
+        "#Scheduling"
+    ],
+    "ground_truth": "other"
+}

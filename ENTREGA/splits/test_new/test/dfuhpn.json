@@ -1,0 +1,10 @@
+{
+    "Title": "Recent ZPL Language Changes",
+    "Body": "Thus, for example in the partial reduction [1..n, 1]  A := +<<[1..n,1..m] B;  --Sum B's rows, store in A's col 1 the region following the operator is the region of the operand, i.e. the region to be reduced.",
+    "link": [
+        "http://www.cs.washington.edu/research/projects/zpl/",
+        "http://www.cs.washington.edu/",
+        "http://www.cac.washington.edu:1183/"
+    ],
+    "ground_truth": "unknow"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "\n    Sammy's World Wide Herbarium\n  ",
+    "Body": "IOPI is a Commission of the International Union of Biological Sciences (IUBS) World Species List - Plant Searches An inventory of over 140 searcheable plant databases -- many of them are gopher indices.",
+    "link": [
+        "http://www.cs.utexas.edu/users/sammy/wwh_query.html",
+        "http://www.cs.utexas.edu/users/sammy/wwh_demo.html",
+        "http://herbarium.conncoll.edu/"
+    ],
+    "ground_truth": "other"
+}

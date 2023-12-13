@@ -1,0 +1,10 @@
+{
+    "Title": "\nHome Page for Marco Schneider\n",
+    "Body": "My research interests lie in the areas of network protocols, distributed computing, fault-tolerance, and in particular self-stabilizing systems.",
+    "link": [
+        "http://www.cs.utexas.edu",
+        "http://wwwhost.cc.utexas.edu",
+        "http://www.cs.utexas.edu/users/marco/abstract.html"
+    ],
+    "ground_truth": "student"
+}

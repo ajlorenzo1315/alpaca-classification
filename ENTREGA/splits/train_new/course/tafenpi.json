@@ -1,0 +1,10 @@
+{
+    "Title": "Home Page - CS302 - Section 4",
+    "Body": "November 6, 1996: Quiz 4 (take-home) will be given out in class today and has been placed on the homepage.",
+    "link": [
+        "http://www.cs.wisc.edu/~cs302",
+        "http://www.cs.wisc.edu/~milo/cs302.html",
+        "http://www.cs.wisc.edu/~milo"
+    ],
+    "ground_truth": "course"
+}

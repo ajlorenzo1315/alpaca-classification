@@ -1,0 +1,10 @@
+{
+    "Title": "John Mellor-Crummey's Home Page",
+    "Body": "Date: Tue, 26 Nov 1996 00:17:47 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Thu, 22 Aug 1996 01:24:32 GMT Content-length: 1544 John Mellor-Crummey's Home Page John Mellor-Crummey In 1984, John Mellor-Crummey graduated magna cum laude from Princeton University with a B.S.E.",
+    "link": [
+        "http://www.cs.indiana.edu/finger/cs.rice.edu/johnmc",
+        "http://www.cs.rice.edu/~johnmc/pubs",
+        "http://www.cs.rice.edu/~johnmc/cv"
+    ],
+    "ground_truth": "staff"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Collaborative Mathematics Environments",
+    "Body": "Their experience with the difficulty of this linking process has led to the identification and to the prospective solutions of three major problems: the connectivity problem , the code generation problem , and the explanation problem .",
+    "link": [
+        "node1.html",
+        "node1.html",
+        "node1.html#SECTION00010000000000000000"
+    ],
+    "ground_truth": "other"
+}

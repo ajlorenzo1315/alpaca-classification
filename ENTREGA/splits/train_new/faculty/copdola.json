@@ -1,0 +1,10 @@
+{
+    "Title": "Tag's Home Page",
+    "Body": "Syllabus Class Assignments Class Schedule (top) (TOP) Interests Biologically motivated computing paradigms Artificial neural networks Hypermedia Fuzzy logic Artificial Intelligence Look here for a \"comprehensive\" list of AI pages on the web.",
+    "link": [
+        "http://www.cs.clemson.edu/home.html",
+        "http://www.clemson.edu/home.html",
+        "http://www.palmetto.com/places/sc/"
+    ],
+    "ground_truth": "faculty"
+}

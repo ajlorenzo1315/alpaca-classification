@@ -1,0 +1,10 @@
+{
+    "Title": "SUPERCOMPUTING TECHNOLOGIES GROUP",
+    "Body": "As a result, we will soon see a diverse set of multiscale computing environments including wireless computers, high-performance PCs, multiprocessor workstations, clusters of distributed workstations, local-area supercomputers, and massively parallel supercomputers that cover a wide range of performance parameters.",
+    "link": [
+        "http://theory.lcs.mit.edu/supertech.html",
+        "http://theory.lcs.mit.edu/~cel",
+        "http://www.lcs.mit.edu/web_project/Brochure/hq/av.html"
+    ],
+    "ground_truth": "project"
+}

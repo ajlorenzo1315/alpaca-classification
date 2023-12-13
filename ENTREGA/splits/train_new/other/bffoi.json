@@ -1,0 +1,10 @@
+{
+    "Title": "Greg Sharp's CS 766 Page",
+    "Body": "Date: Tue, 05 Nov 1996 21:31:02 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Wed, 20 Dec 1995 22:41:56 GMT Content-length: 1953 Greg Sharp's CS 766 Page Greg Sharp's CS 766 Page Images from homework #2 This page requires a browser that can format tables (e.g. Netscape).",
+    "link": [
+        "http://www.cs.wisc.edu/~greg/cs766/h2images/left_original.jpg",
+        "http://www.cs.wisc.edu/~greg/cs766/h2images/right_original.jpg",
+        "http://www.cs.wisc.edu/~greg/cs766/h2images/left_g2.jpg"
+    ],
+    "ground_truth": "other"
+}

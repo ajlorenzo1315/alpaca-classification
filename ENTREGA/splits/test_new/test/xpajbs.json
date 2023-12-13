@@ -1,0 +1,10 @@
+{
+    "Title": "Zeno Papers",
+    "Body": "HTML version Acrobat version (211K) Compressed Domain Processing of JPEG-encoded Images To appear in Real-Time Imaging Journal Brian C. Smith, Lawrence A. Rowe , July, 1996 Abstract This paper addresses the problem of processing motion-JPEG video data in the compressed domain.",
+    "link": [
+        "http://www.cs.cornell.edu/Info/Projects/zeno/Papers/tc.pdf",
+        "http://www.cs.cornell.edu/Info/Projects/zeno/Papers/tc.ps.gz",
+        "http://www.cs.cornell.edu/Info/Projects/zeno/Papers/Vr/vr.htm"
+    ],
+    "ground_truth": "unknow"
+}

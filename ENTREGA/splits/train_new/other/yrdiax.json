@@ -1,0 +1,10 @@
+{
+    "Title": " bam's glorified hotlist ",
+    "Body": "Don't forget to look at my personal page to see links to the things I'm most interested in.",
+    "link": [
+        "personal.html",
+        "http://jacobi.umd.edu/~tstone/",
+        "sights.html"
+    ],
+    "ground_truth": "other"
+}

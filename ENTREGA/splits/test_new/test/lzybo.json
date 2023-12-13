@@ -1,0 +1,10 @@
+{
+    "Title": "Transcript Project",
+    "Body": "Goals include facilitation of effective distance learning and the enabling of computer-based educational planning in a context of diverse student needs, diverse student backgrounds, and a rich variety of educational opportunities provided over the network.",
+    "link": [
+        "http://www.cs.washington.edu/",
+        "ftp://ftp.u.washington.edu/public/",
+        "http://www.cs.washington.edu/area/"
+    ],
+    "ground_truth": "unknow"
+}

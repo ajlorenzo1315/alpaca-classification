@@ -1,0 +1,10 @@
+{
+    "Title": "George A. Bekey",
+    "Body": "In addition to his teaching and university research, Dr. Bekey's professional experience includes: four years as a Research Engineer with the Department of Engineering at UCLA, where he worked primarily with computers; three years with Beckman Instruments, Inc., as a Computer Applications Engineer and Manager of the Los Angeles Computation Center; Section Head of the Analysis and Simulation Section and Senior Staff Engineer, TRW Systems, Los Angeles.",
+    "link": [
+        "http://cwis.usc.edu/dept/robotics/personal/bekey/picture.gif",
+        "http://cwis.usc.edu/dept/robotics/home.html",
+        "http://cwis.usc.edu/dept/cs/home.html"
+    ],
+    "ground_truth": "faculty"
+}

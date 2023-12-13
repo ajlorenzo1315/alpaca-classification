@@ -1,0 +1,10 @@
+{
+    "Title": "Federico Bassetti",
+    "Body": "Date: Tuesday, 26-Nov-96 03:36:47 GMT Server: NCSA/1.1 MIME-version: 1.0 Content-type: text/html Last-modified: Tuesday, 19-Nov-96 00:58:14 GMT Federico Bassetti Please be patient...I'm working on it Fede's work for CS579 Laboratory Home Page Computer Science Home Page some java here",
+    "link": [
+        "http://www.cs.nmsu.edu/~fbassett/cs579/cs579_work.html",
+        "http://www.cs.nmsu.edu/lldap/index.html",
+        "http://www.cs.nmsu.edu/index.html"
+    ],
+    "ground_truth": "student"
+}

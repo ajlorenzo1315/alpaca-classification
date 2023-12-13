@@ -1,0 +1,5 @@
+{
+    "Título": "Chris Chu",
+    "Cuerpo": "MIME-Version: 1.0 Server: CERN/3.0 Date: Monday, 06-Jan-97 19:40:39 GMT Content-Type: text/html Content-Length: 1629 Last-Modified: Friday, 05-Jul-96 21:30:15 GMT Chris Chu Welcome to Chris Chu's Home Page About Myself My photo: I am a PhD student in .... Phone Numbers and Address: Call me at: Office: (512) 471-9772   (UA9 4.118E) Home: (512) 708-0296 Mailing address: University of Texas at Austin Department of Computer Sciences Taylor Hall 2.124 Austin, TX  78712-1188 Interesting Links Austin Chinese Campus Christian Fellowship Austin Chinese Church Department of Computer Sciences UT Austin Austin Hong Kong China Author: Chris C. Chu Email: cnchu@cs.utexas.edu Last Updated: January 19, 1996",
+    "ground_truth": "student"
+}

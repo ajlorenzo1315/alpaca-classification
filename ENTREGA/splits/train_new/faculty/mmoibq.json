@@ -1,0 +1,10 @@
+{
+    "Title": "J. Kelly Flanagan",
+    "Body": "of Computer Science, 3330 TMCB Brigham Young University Provo UT       84602-6576 Phone: 801-378-6474 Fax: 801-378-7775 email: kelly@cs.byu.edu J. Kelly Flanagan is Director of the Performance Evaluation Laboratory at Brigham Young University where he is an Assistant Professor of Computer Science .",
+    "link": [
+        "http://www.byu.edu/",
+        "http://www.cs.byu.edu/homepage.html",
+        "http://pel.cs.byu.edu/homepage.html"
+    ],
+    "ground_truth": "faculty"
+}

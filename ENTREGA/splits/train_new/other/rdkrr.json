@@ -1,0 +1,10 @@
+{
+    "Title": "\nHow did the Condor Project start\n",
+    "Body": "Building on the results of the Remote-Unix (RU) project that was directed by Professors D. Dewitt, R. Finkel, and M. Solomon and as a continuation of the work in the area of Distribute Resource Management (DRM) by a group directed by Professor M. Livny, the Condor project started in 1988.",
+    "link": [
+        "http://www.cs.wisc.edu/condor/Condor.gif",
+        "http://www.cs.wisc.edu/~dewitt/dewitt.html",
+        "http://www.cs.wisc.edu/~solomon/solomon.html"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": " OPT++ ",
+    "Body": "Date: Tue, 05 Nov 1996 00:24:45 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Thu, 27 Jun 1996 19:46:28 GMT Content-length: 1257 OPT++ OPT++ Opt++ is a tool for Database Query Optimization that uses the Object-Oriented features of the C++ programming language to simplify the task of implementing, extending and modifying an optimizer.",
+    "link": [
+        "http://www.cs.wisc.edu/~navin/research/opt++.ps",
+        "http://www.cs.wisc.edu/paradise/paradise.html",
+        "http://www.cs.wisc.edu/~navin/research/download/index.html"
+    ],
+    "ground_truth": "other"
+}

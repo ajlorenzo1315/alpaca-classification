@@ -1,0 +1,10 @@
+{
+    "Title": "\nCS 611 Fall 1994\n",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Monday, 25-Nov-96 00:40:48 GMT Content-Type: text/html Content-Length: 1205 Last-Modified: Thursday, 16-Nov-95 15:58:09 GMT CS 611 Fall 1994 Advanced Programming Languages - Fall 1994 Faculty : Prof. Robert Constable , rc@cs, 4147 Upson.",
+    "link": [
+        "http://www.cs.cornell.edu/Info/Faculty/Robert_Constable.html",
+        "lectures.html",
+        "assignments.html"
+    ],
+    "ground_truth": "course"
+}

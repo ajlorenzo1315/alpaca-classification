@@ -1,0 +1,8 @@
+{
+    "Title": "Mike Carey",
+    "Body": "In the next-generation database system area, I have been involved in the EXODUS extensible DBMS project;  I am now involved in SHORE, a project aimed at developing a scalable repository for the storage and sharing of persistent objects in a heterogeneous environment.",
+    "link": [
+        "http://www.cs.wisc.edu/cgi-bin/finger?carey"
+    ],
+    "ground_truth": "unknow"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Department of Computer Science",
+    "Body": "Date: Tue, 26 Nov 1996 23:05:17 GMT Server: NCSA/1.4.2 Content-type: text/html Department of Computer Science Announcements Computer Science at Concordia People Labs Services & Info Course Notes Undergraduate Information Graduate Information Research [Disclaimer] .",
+    "link": [
+        "http://www.cs.concordia.ca/Announcements/Announcements.shtml",
+        "http://www.cs.concordia.ca/Administration/ComputerScience.html",
+        "http://www.cs.concordia.ca/People/People.html"
+    ],
+    "ground_truth": "department"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Magda's Home Page",
+    "Body": "Date: Tue, 14 Jan 1997 20:39:29 GMT Server: NCSA/1.5.2 Last-modified: Sat, 11 Jan 1997 07:10:09 GMT Content-type: text/html Content-length: 3715 Magda's Home Page C ECILIA M AGDALENA P ROCOPIUC Second year Ph.D. Student Department of Computer Science LSRC D204 Duke University Durham NC 27708 Box 90129 office phone:  (919) 660-6511 email: magda@cs.duke.edu Links to the outer world.",
+    "link": [
+        "http://www.cs.duke.edu/",
+        "http://www.duke.edu/",
+        "mailto:magda@cs.duke.edu"
+    ],
+    "ground_truth": "student"
+}

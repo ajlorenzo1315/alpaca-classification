@@ -1,0 +1,10 @@
+{
+    "Title": "Intelligent Information Infrastructure Project",
+    "Body": "Interest in political communication continues as members of the project work with the White House , the Congress, and Cambridge Government.",
+    "link": [
+        "http://www.whitehouse.gov/",
+        "http://www.whitehouse.gov/White_House/Publications/html/Publications.html",
+        "http://www.ai.mit.edu/projects/iiip/doc/surveys/1994-02/brief.html"
+    ],
+    "ground_truth": "unknow"
+}

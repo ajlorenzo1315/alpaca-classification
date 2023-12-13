@@ -1,0 +1,10 @@
+{
+    "Title": "Homepage of Anupam Joshi",
+    "Body": "Using Connectionist approaches to automate Problem solving environments SoftLab AI issues in Mobile Computing : SciencePad Vision , especially the motion correspondence problem MOWSER - a browser for mobile platforms, and WebIQ - support for disconencted browsing My teaching activities I teach a broad range of courses, from Mobile Computing to Operating Systems to Numerical Analysis.",
+    "link": [
+        "http://www.cs.purdue.edu/finger/trinetra.ece.missouri.edu/joshi",
+        "http://www.iitd.ernet.in/",
+        "http://www.purdue.edu/"
+    ],
+    "ground_truth": "faculty"
+}

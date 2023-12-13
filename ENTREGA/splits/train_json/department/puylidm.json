@@ -1,0 +1,5 @@
+{
+    "Título": "Computing Science Department, Uppsala University",
+    "Cuerpo": "Date: Tue, 26 Nov 1996 22:17:51 GMT Server: Apache/1.1.1 Content-type: text/html Computing Science Department, Uppsala University General information The department consists of two largely independent units: ADB and Datalogi, belonging to the Faculty of Social Sciences and the Faculty of Science and Technology, respectively. Further information can be found under each unit. Avdelningen för ADB Unit belonging to the Faculty of Social Sciences Avdelningen för datalogi Unit belonging to the Faculty of Science and Technology Administration Head of department : Åke Hansson . Deputy head of department : Jonas Barklund . Joint secretariat : mailing address as above, phone +46 18 181030, fax +46 18 521270. Page author: Lars Thalmann ( talman@csd.uu.se ). Webserver maintenance: CSD Computing Support . © 1996 Computing Science Department , Uppsala University . All rights reserved. URL: http://www.csd.uu.se/index.shtml. Access: 124314. Last modified: 05 Nov 96.",
+    "ground_truth": "department"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Alan Borning's home page",
+    "Body": "Date: Thu, 21 Nov 1996 20:25:59 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Thu, 17 Oct 1996 21:09:28 GMT Content-length: 2755 Alan Borning's home page Alan Borning's home page I am a professor in the Department of Computer Science and Engineering at the University of Washington .",
+    "link": [
+        "http://www.cs.washington.edu/index.html",
+        "http://www.washington.edu",
+        "http://www.cs.washington.edu/research/constraints"
+    ],
+    "ground_truth": "unknow"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Nuprl/WWW Browser Home Page Help",
+    "Body": "The Nuprl Home Page The Nuprl Home Page, or Main Index, provides top-level access to to the Nuprl/WWW Browser as well as to documentation about Nuprl and the Browser.",
+    "link": [
+        "../index.html",
+        "intro.html#gen",
+        "intro.html#design"
+    ],
+    "ground_truth": "other"
+}

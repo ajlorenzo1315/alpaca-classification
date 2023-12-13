@@ -1,0 +1,10 @@
+{
+    "Title": "Scott Colville's Home Page",
+    "Body": "Date: Thu, 07 Nov 1996 19:11:54 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Mon, 02 Sep 1996 20:34:56 GMT Content-length: 1948 Scott Colville's Home Page Scott Colville's Home Page E-Mail: sec@cs.wisc.edu Office Address: Computer Science, Office# 6366 1210 W Dayton St. Madison, WI 53703 (608)265-2702 Home 305 N Frances St., Apt 403 Madison, WI 53703 (608)250-0397 Welcome one, welcome all, to my home page.",
+    "link": [
+        "http://www.cs.wisc.edu/cgi-bin/finger?sec",
+        "http://www.cs.wisc.edu/www.cs.wisc.edu/",
+        "http://www.cs.wisc.edu/www.wisc.edu"
+    ],
+    "ground_truth": "student"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "EECS270 Home Page",
+    "Body": "Date: Tue, 26 Nov 1996 19:13:25 GMT Server: Apache/1.1-dev Content-type: text/html Set-Cookie: Apache=gs359347849035605646; path=/ EECS270 Home Page EECS270 - Introduction to Logic Design Fall 1996 Announcements: Sept. 30 Don't forget to check the EECS270 USENET group regularly.",
+    "link": [
+        "http://www.eecs.umich.edu/courses/eecs270/coursedesc.html",
+        "http://www.eecs.umich.edu/courses/eecs270/labsched.html",
+        "http://www.eecs.umich.edu/courses/eecs270/instr.html"
+    ],
+    "ground_truth": "unknow"
+}

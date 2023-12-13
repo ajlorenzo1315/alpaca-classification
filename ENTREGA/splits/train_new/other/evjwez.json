@@ -1,0 +1,10 @@
+{
+    "Title": " Vivek Narasayya: Research Interests",
+    "Body": "The log is used both for recovery and for maintaining coherence of caches.",
+    "link": [
+        "http://www.cs.washington.edu/homes/levy/opal/opal.html",
+        "http://www.cs.washington.edu/homes/levy/",
+        "http://www.cs.duke.edu/~chase/"
+    ],
+    "ground_truth": "other"
+}

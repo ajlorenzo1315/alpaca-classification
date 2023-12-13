@@ -1,0 +1,10 @@
+{
+    "Title": "CS310 Home Page\t",
+    "Body": "Information on assignments including suggestions, copies of assignments, and explanations about grading.",
+    "link": [
+        "http://www.cs.wisc.edu/~cs310-1/Instructors.html",
+        "http://www.cs.wisc.edu/~cs310-1/Assignments.html",
+        "http://www.cs.wisc.edu/~cs310-1/310/AssignReq.html"
+    ],
+    "ground_truth": "course"
+}

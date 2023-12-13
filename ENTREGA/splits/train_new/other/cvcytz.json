@@ -1,0 +1,9 @@
+{
+    "Title": " Voronoi/Delaunay Applet ",
+    "Body": "Alternately, it can be defined as a triangulation of the sites with the additional property that for each triangle of the triangulation, the circumcircle of that triangle is empty of all other sites.",
+    "link": [
+        "http://www.cs.cornell.edu/Info/People/chew/chew.html",
+        "mailto:chew@cs.cornell.edu"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Computer and Information Science Web Page",
+    "Body": "In 1995 the Computer Science Department delivered the first course SUNY Oswego offered via distance learning.",
+    "link": [
+        "http://www.cs.oswego.edu/pr032096.html",
+        "http://www.cs.oswego.edu/openhouse96/OH96pics.html",
+        "http://www.cs.oswego.edu/overview.html"
+    ],
+    "ground_truth": "department"
+}

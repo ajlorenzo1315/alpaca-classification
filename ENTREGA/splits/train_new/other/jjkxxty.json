@@ -1,0 +1,10 @@
+{
+    "Title": "CSE/ENGR 142 Syllabus (Summer '96)",
+    "Body": "The World-Wide Web is used extensively to provide you with course information, such as the schedule mentioned above, homework assignments and solutions, class messages and many other things.",
+    "link": [
+        "#tools",
+        "http://www.cs.washington.edu/education/courses/142/CurrentQtr/lecture-schedule.htm",
+        "http://www.cs.washington.edu/education/courses/142/CurrentQtr/schedule.html"
+    ],
+    "ground_truth": "other"
+}

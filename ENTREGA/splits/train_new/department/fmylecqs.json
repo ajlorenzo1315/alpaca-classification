@@ -1,0 +1,10 @@
+{
+    "Title": "UC Irvine Information and Computer Science Department",
+    "Body": "Date: Tue, 26 Nov 1996 22:37:57 GMT Server: Apache/1.0.5 Content-type: text/html Content-length: 5369 Last-modified: Thu, 21 Nov 1996 18:03:13 GMT UC Irvine Information and Computer Science Department text only Welcome to the Department of Information and Computer Science at the University of California, Irvine.",
+    "link": [
+        "http://www.ics.uci.edu/texthome.html",
+        "http://www.uci.edu",
+        "http://www.ics.uci.edu/dept/Overview93.html"
+    ],
+    "ground_truth": "department"
+}

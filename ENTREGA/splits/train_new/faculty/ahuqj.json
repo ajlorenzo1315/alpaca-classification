@@ -1,0 +1,10 @@
+{
+    "Title": "Kenneth Batcher",
+    "Body": "He is a Fellow in the ACM and a member of SIGARCH.",
+    "link": [
+        "http://www.mcs.kent.edu/mcsinfo/csbrochure/bansal.html",
+        "http://www.mcs.kent.edu/mcsinfo/csbrochure/faculty.html",
+        "http://www.mcs.kent.edu/mcsinfo/csbrochure/chapin.html"
+    ],
+    "ground_truth": "faculty"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "College of CS at Northeastern University",
+    "Body": "in Computer Science and to the Ph.D.",
+    "link": [
+        "#Who_We_Are",
+        "#Academic_Information",
+        "#Campus_Information"
+    ],
+    "ground_truth": "department"
+}

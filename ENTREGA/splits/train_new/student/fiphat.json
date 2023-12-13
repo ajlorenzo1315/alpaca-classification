@@ -1,0 +1,10 @@
+{
+    "Title": "Diana Popova's Home Page",
+    "Body": "Contact Information Name:           Diana Popova University:     University of Victoria Department:     Computer Science Address:        104 -- 3861 Finnerty Road, Victoria, BC V8N 6K8 Telephone:      604-472-2629 Fax:            604-472-2629 E-mail:         dpopova@sanjuan.uvic.ca Career Interests and Goals Computer Systems Administration, Software Development Skills Computer programmer in C, C++; Electronics engineer; Technical translator from Russian.",
+    "link": [
+        "http://www.csc.uvic.ca/~dpopova/myself.html",
+        "http://www.uvic.ca/",
+        "http://www.csc.uvic.ca/~dpopova/thesis.html"
+    ],
+    "ground_truth": "student"
+}

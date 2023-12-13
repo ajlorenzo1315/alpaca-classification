@@ -1,0 +1,10 @@
+{
+    "Title": "Class Survey - CS 302 - Section 4",
+    "Body": "I would like you to attach a picture of yourself to a 8.5\" x 11\" sheet of paper, label it clearly with your name and turn it in.",
+    "link": [
+        "http://www.cs.wisc.edu/~cs302",
+        "http://www.cs.wisc.edu/~milo/cs302.html",
+        "http://www.cs.wisc.edu/~milo"
+    ],
+    "ground_truth": "other"
+}

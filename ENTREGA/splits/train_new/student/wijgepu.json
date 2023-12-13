@@ -1,0 +1,10 @@
+{
+    "Title": "Pascale FUNG",
+    "Body": "Pascale Fung and Dekai Wu: \" Statistical Augmentation of a Chinese Machine-Readable Dictionary \", Second Annual Workshop on Very Large Corpora, Kyoto: Aug. 1994, 69-85 Pascale Fung and Kenneth Church: \" K-vec: A New Approach for Aligning Parallel Texts \", COLING 94: 15th International Conference on Computational Linguistics, Kyoto: Aug 94, 1096-1102.",
+    "link": [
+        "http://www.cs.columbia.edu",
+        "http://www.cc.columbia.edu",
+        "http://www.wpi.edu"
+    ],
+    "ground_truth": "student"
+}

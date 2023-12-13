@@ -1,0 +1,10 @@
+{
+    "Title": "Anthony Belfiore's Home Page",
+    "Body": "Date: Tue, 26 Nov 1996 17:55:24 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Sat, 01 Jul 1995 23:32:41 GMT Content-length: 790 Anthony Belfiore's Home Page Anthony Belfiore tbelf@cs.pitt.edu Read finger information .",
+    "link": [
+        "http://www.cs.pitt.edu/cgi-bin/finger.exp?tbelf",
+        "http://www.cs.pitt.edu/",
+        "http://www.cs.cmu.edu:8001/afs/cs.cmu.edu/user/clamen/misc/movies/scheds/movies.html"
+    ],
+    "ground_truth": "student"
+}

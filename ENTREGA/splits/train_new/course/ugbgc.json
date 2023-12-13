@@ -1,0 +1,10 @@
+{
+    "Title": "CIS 314",
+    "Body": "The Schedule contains a calendar with the tentative list of lecture topics, reading assignments, exams, and projects for each week of the term.",
+    "link": [
+        "http://www.cs.uoregon.edu",
+        "http://www.uoregon.edu",
+        "http://www.cs.uoregon.edu/~conery"
+    ],
+    "ground_truth": "course"
+}

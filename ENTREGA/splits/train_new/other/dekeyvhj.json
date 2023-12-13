@@ -1,0 +1,8 @@
+{
+    "Title": " Program 2 ",
+    "Body": "You need to keep a running total of what is ordered and loop until the cash register operator asks the program to print out the total bill.",
+    "link": [
+        "mailto:mbirk@cs.wisc.edu"
+    ],
+    "ground_truth": "other"
+}

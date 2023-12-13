@@ -1,0 +1,10 @@
+{
+    "Title": " GroupLens Home Page ",
+    "Body": "Keywords: collaborative filtering, GroupLens, Open Ratings Bureau, information filtering Number of Visitors: Join The Mailing List put subscribe grouplens in the body of this message Questions?",
+    "link": [
+        "http://www.cs.umn.edu/Research/GroupLens/grouplens.html",
+        "http://www.cs.umn.edu/Research/GroupLens/bbb.html",
+        "http://www.cs.umn.edu/Research/GroupLens/trial.html"
+    ],
+    "ground_truth": "project"
+}

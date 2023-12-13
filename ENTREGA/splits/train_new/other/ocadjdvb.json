@@ -1,0 +1,9 @@
+{
+    "Title": "Ori Gershony's Resume",
+    "Body": "Date: Tue, 10 Dec 1996 22:52:44 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Sun, 08 Dec 1996 21:12:38 GMT Content-length: 3250 Ori Gershony's Resume Ori Gershony 43427 Buena Vista Way Lancaster, CA 93536 (805) 943-4607 URL: http://www.cs.washington.edu/homes/ori/ Email: ori@cs.washington.edu EDUCATION 1995 - present: University of Washington , Seattle, WA Ph.D. in Computer Science (in progress) Emphasis:  Computer Architecture 1991 - 1995: University of California at Berkeley , Berkeley, CA B.S.",
+    "link": [
+        "http://www.cs.washington.edu/homes/ori",
+        "mailto: ori@cs.washington.edu"
+    ],
+    "ground_truth": "other"
+}

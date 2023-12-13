@@ -1,0 +1,9 @@
+{
+    "Title": "Ron Lancaster:  CS 409/509",
+    "Body": "Prerequisite A data structures course (like CS 305 or CS 335).",
+    "link": [
+        "http://hydra.bgsu.edu/~rlancast//",
+        "http://hydra.bgsu.edu/Directory/"
+    ],
+    "ground_truth": "course"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": " Stefanos Kaxiras' Home Page ",
+    "Body": "Hierarchical Extensions SCI) in collaboration with Jim Goodman.",
+    "link": [
+        "http://www.cs.wisc.edu/cgi-bin/finger?kaxiras",
+        "#research",
+        "#papers"
+    ],
+    "ground_truth": "student"
+}

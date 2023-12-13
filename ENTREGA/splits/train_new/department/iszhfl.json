@@ -1,0 +1,10 @@
+{
+    "Title": "Concordia College, Dept. of Mathematics and Computer Science",
+    "Body": "Return to the Concordia College WWW Server.",
+    "link": [
+        "http://cobweb.cord.edu/mathcs/mathdegr.html",
+        "http://cobweb.cord.edu/mathcs/csdegr.html",
+        "http://cobweb.cord.edu/mathcs/faculty.html"
+    ],
+    "ground_truth": "department"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": " Zheng Lin's Home Page ",
+    "Body": "I got a master in the Physics Department in the University of Texas at Austin .",
+    "link": [
+        "http://www.innerworld.com/outer/",
+        "http://www.cs.utexas.edu/cgi/rwho/linz",
+        "http://www.pku.edu.cn"
+    ],
+    "ground_truth": "other"
+}

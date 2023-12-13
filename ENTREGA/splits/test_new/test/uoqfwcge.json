@@ -1,0 +1,10 @@
+{
+    "Title": "  Daniel S. Weld      ",
+    "Body": "of Computer Science and Engineering, Box 352350, University of Washington, Seattle WA 98195-2359 Research Interests: Weld's current research interests are in Artificial intelligence , specifically software agents and planning .",
+    "link": [
+        "http://www.cs.washington.edu",
+        "http://www.washington.edu",
+        "http://www.cs.yale.edu"
+    ],
+    "ground_truth": "unknow"
+}

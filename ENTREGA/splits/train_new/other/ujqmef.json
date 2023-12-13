@@ -1,0 +1,10 @@
+{
+    "Title": "Steven's Associates",
+    "Body": "Tony, coincidentally, also eats worms.",
+    "link": [
+        "http://www.cs.wisc.edu/~dparter/dparter.html",
+        "http://www.ugcs.caltech.edu/~mcelich/",
+        "http://www.cco.caltech.edu/~smd/"
+    ],
+    "ground_truth": "other"
+}

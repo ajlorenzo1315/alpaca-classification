@@ -1,0 +1,10 @@
+{
+    "Title": "LARGE-SCALE PARALLEL SOFTWARE GROUP",
+    "Body": "Some of the projects in the group are conducted jointly with the Parallel and Distributed Operating Systems Group.",
+    "link": [
+        "http://www.psg.lcs.mit.edu/",
+        "http://www.psg.lcs.mit.edu/~weihl",
+        "http://www.pdos.lcs.mit.edu/"
+    ],
+    "ground_truth": "project"
+}

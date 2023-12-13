@@ -1,0 +1,10 @@
+{
+    "Title": "Patricia J. Teller",
+    "Body": "Traces for programs in this class can be scheduled or unscheduled.",
+    "link": [
+        "http://www.nmsu.edu",
+        "http://www.cs.nmsu.edu",
+        "http://www.nyu.edu"
+    ],
+    "ground_truth": "faculty"
+}

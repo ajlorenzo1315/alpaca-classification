@@ -1,0 +1,10 @@
+{
+    "Title": "CS325 Page",
+    "Body": "Date: Tue, 26 Nov 1996 19:14:53 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Mon, 16 Sep 1996 17:57:06 GMT Content-length: 1947 CS325 Page CS325 Artificial Intelligence I Instructor Dr. Anupam Joshi Syllabus The CS325 syllabus .",
+    "link": [
+        "http://csdeca.cs.missouri.edu/~joshi",
+        "http://csdeca.cs.missouri.edu/~joshi/courses/cs325/syllabus.ps",
+        "http://csdeca.cs.missouri.edu/~joshi/courses/cs325/book.gif"
+    ],
+    "ground_truth": "course"
+}

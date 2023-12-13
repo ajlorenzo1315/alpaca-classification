@@ -1,0 +1,10 @@
+{
+    "Title": "Bill Griswold's Home Page",
+    "Body": "Date: Thu, 21 Nov 1996 20:10:04 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Mon, 11 Nov 1996 19:59:01 GMT Content-length: 3059 Bill Griswold's Home Page William G. Griswold Department of Computer Science and Engineering University of California, San Diego La Jolla, CA 92093-0114 Office: 4210 Applied Physics and Mathematics Building (APM) Phone: +1 (619) 534-6898; Lab: +1 (619) 534-9669 Email: wgg@cs.ucsd.edu ; Fax: +1 (619) 534-7029 Undergraduate Advising: 10:00-11:00am Tuesdays.",
+    "link": [
+        "http://www-cse.ucsd.edu/index.html",
+        "http://www.ucsd.edu/",
+        "mailto:wgg@cs.ucsd.edu"
+    ],
+    "ground_truth": "unknow"
+}

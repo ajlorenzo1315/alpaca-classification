@@ -1,0 +1,10 @@
+{
+    "Title": " Ed's very mini-biography",
+    "Body": "There's used to be picture of me hidden inside some links from my Yale home page.",
+    "link": [
+        "http://www.cs.washington.edu/homes/edhong/random0.txt",
+        "http://www.cs.washington.edu/homes/edhong/random1.txt",
+        "http://www.cs.washington.edu/homes/edhong/random3.txt"
+    ],
+    "ground_truth": "other"
+}

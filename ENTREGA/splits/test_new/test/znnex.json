@@ -1,0 +1,10 @@
+{
+    "Title": "Welcome To Gravity Web",
+    "Body": "Welcome To Gravity Web GRAVITY was originally a Humor Magazine at Brandeis University .",
+    "link": [
+        "http://www.eff.org/blueribbon.html",
+        "http://www.eff.org/blueribbon.html",
+        "http://www.brandeis.edu"
+    ],
+    "ground_truth": "unknow"
+}

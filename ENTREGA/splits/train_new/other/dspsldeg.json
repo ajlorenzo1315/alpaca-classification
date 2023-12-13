@@ -1,0 +1,6 @@
+{
+    "Title": "Web projects",
+    "Body": "Scheme is a good choice for such a language because Scheme implementations are \"safe\" -- it is easy to guarantee that an arbitrary Scheme program received by a server can't damage the server or compromise its security.",
+    "link": [],
+    "ground_truth": "other"
+}

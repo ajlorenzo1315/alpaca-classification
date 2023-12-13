@@ -1,0 +1,9 @@
+{
+    "Title": "Toplevel Lecture Page",
+    "Body": "Date: Tue, 14 Jan 1997 20:02:12 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Thu, 22 Aug 1996 23:44:52 GMT Content-length: 820 Toplevel Lecture Page Lectures by week Slides for the lectures in class will be added here after the lecture has been given in class.",
+    "link": [
+        "http://csdeca.cs.missouri.edu/~joshi/courses/cs352/lectures/l13.html",
+        "mailto:joshi@csdeca.cs.missouri.edu"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": " Jon's Ever-Changing Home Page ",
+    "Body": "Date: Thu, 21 Nov 1996 23:01:53 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Sat, 09 Nov 1996 00:38:50 GMT Content-length: 868 Jon's Ever-Changing Home Page Under Construction I'm working on writing a new home page, but be patient!",
+    "link": [
+        "mailto:jgarrett@cs.ucsd.edu",
+        "http://www-cse.ucsd.edu/",
+        "http://www.ucsd.edu/"
+    ],
+    "ground_truth": "student"
+}

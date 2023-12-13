@@ -1,0 +1,10 @@
+{
+    "Title": "Prof. Eric A. Brewer",
+    "Body": "I also work with the Berkeley NOW Project and the InfoPad group.",
+    "link": [
+        "http://www.cs.berkeley.edu/",
+        "http://www.cs.berkeley.edu/~gauthier/endpoint-security.html",
+        "http://www.hotbot.com"
+    ],
+    "ground_truth": "faculty"
+}

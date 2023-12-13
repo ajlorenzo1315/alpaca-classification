@@ -1,0 +1,10 @@
+{
+    "Title": "Computational Intelligence Research Laboratory",
+    "Body": "Additional information about the University of Oregon computer science department, including application materials for potential graduate students, can be obtained from Betty Lockwood.",
+    "link": [
+        "http://www.uoregon.edu",
+        "http://www.cs.uoregon.edu",
+        "http://www.cs.uoregon.edu/~hacks/cis-fun/"
+    ],
+    "ground_truth": "project"
+}

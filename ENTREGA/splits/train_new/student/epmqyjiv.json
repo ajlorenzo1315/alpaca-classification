@@ -1,0 +1,10 @@
+{
+    "Title": "\nOguer Gutierrez\n",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Monday, 06-Jan-97 19:38:49 GMT Content-Type: text/html Content-Length: 845 Last-Modified: Tuesday, 12-Nov-96 20:03:13 GMT Oguer Gutierrez Oguer Gutierrez The Department of Computer Sciences at The University of Texas at Austin Projects OMI OS WWH Links Conferences on Database Systems The World Email: oguer@cs.utexas.edu",
+    "link": [
+        "http://www.cs.utexas.edu/",
+        "http://www.utexas.edu/",
+        "http://www.cs.utexas.edu/users/oguer/omi.ps"
+    ],
+    "ground_truth": "student"
+}

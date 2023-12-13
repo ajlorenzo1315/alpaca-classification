@@ -1,0 +1,10 @@
+{
+    "Title": "Socket++ Source Code and Manual",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Monday, 06-Jan-97 20:34:20 GMT Content-Type: text/html Content-Length: 678 Last-Modified: Friday, 15-Nov-96 15:49:32 GMT Socket++ Source Code and Manual Last updated 09/26/96 Socket++ Source Code and Manual This is Socket++ version 1.10.",
+    "link": [
+        "ftp://ftp.virginia.edu/pub/",
+        "./socket++-1.10.tar.gz",
+        "./socket++.ps"
+    ],
+    "ground_truth": "unknow"
+}

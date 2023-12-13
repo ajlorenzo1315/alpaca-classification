@@ -1,0 +1,10 @@
+{
+    "Title": null,
+    "Body": "The Horus system offers a framework for building complex distributed systems that involve any number of protocols, as well as a variety of protocols for the different aspects of a distributed application (including some protocols specific to multi-media applications).",
+    "link": [
+        "node1.html",
+        "node1.html",
+        "footnode.html#22"
+    ],
+    "ground_truth": "unknow"
+}

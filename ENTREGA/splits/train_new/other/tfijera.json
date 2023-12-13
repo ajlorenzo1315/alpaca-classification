@@ -1,0 +1,10 @@
+{
+    "Title": "Mobisaic: An Information System for a Mobile and Wireless\nComputing Environment",
+    "Body": "It is one project that is part of the ongoing research in mobile computing at the University of Washington .",
+    "link": [
+        "http://www.cs.washington.edu/research/mobicomp/mobile.html",
+        "http://www.cs.washington.edu/homes/voelker/mobisaic/abs-mobile94.html",
+        "http://www.cs.washington.edu/homes/voelker/mobisaic/papers.html"
+    ],
+    "ground_truth": "other"
+}

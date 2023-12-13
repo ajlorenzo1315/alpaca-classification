@@ -1,0 +1,10 @@
+{
+    "Title": "CS 152 Homepage",
+    "Body": "Class Information Tentative Schedule Grading and Related Issues Printing Account (If you want one--not required for the class) Lecture Notes Students Getting Started If you are not already familiar with the Web, you may find it helpful to become familiar with Mosaic.",
+    "link": [
+        "http://synapse.cs.byu.edu/~george/george.html",
+        "http://synapse.cs.byu.edu/~george/cs152/schedule.html",
+        "http://synapse.cs.byu.edu/~george/cs152/grading.html"
+    ],
+    "ground_truth": "course"
+}

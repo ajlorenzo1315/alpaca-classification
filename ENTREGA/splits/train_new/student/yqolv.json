@@ -1,0 +1,10 @@
+{
+    "Title": "Erich Nahum's Home Page (nahum@cs.umass.edu)",
+    "Body": "in computer science from The University of Wisconsin in 1988 and my M.S.",
+    "link": [
+        "mailto:nahum@cs.umass.edu",
+        "http://www.cs.umass.edu/",
+        "http://www.cs.umass.edu/rcfdocs/newhome/index.html"
+    ],
+    "ground_truth": "student"
+}

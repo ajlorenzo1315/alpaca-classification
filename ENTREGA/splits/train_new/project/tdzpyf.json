@@ -1,0 +1,10 @@
+{
+    "Title": "Coherent Virtual Machine (CVM)",
+    "Body": "Date: Wed, 20 Nov 1996 19:40:50 GMT Server: Apache-SSL/0.4.3b Content-type: text/html Content-length: 2283 Last-modified: Wed, 20 Nov 1996 16:53:53 GMT Coherent Virtual Machine (CVM) Coherent Virtual Machine (CVM) The C oherent V irtual M achine (CVM) software Distributed Shared Memory (DSM) system is being developed here at the University of Maryland.",
+    "link": [
+        "http://www.cs.umd.edu/~keleher",
+        "http://www.cs.umd.edu/~dejanp",
+        "http://www.cs.umd.edu/~kritchal"
+    ],
+    "ground_truth": "project"
+}

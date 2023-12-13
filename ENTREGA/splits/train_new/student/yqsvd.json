@@ -1,0 +1,10 @@
+{
+    "Title": "David M. Hilbert",
+    "Body": "To appear in The Journal of Automated Software Engineering (in preparation).",
+    "link": [
+        "http://www.ics.uci.edu/icsdirserv/gradstudents.html",
+        "http://www.ics.uci.edu/research/soft.html",
+        "mailto:dhilbert@ics.uci.edu"
+    ],
+    "ground_truth": "student"
+}

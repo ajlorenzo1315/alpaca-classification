@@ -1,0 +1,10 @@
+{
+    "Title": "Koichi Kamijo",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Wednesday, 20-Nov-96 19:41:24 GMT Content-Type: text/html Content-Length: 2119 Last-Modified: Saturday, 06-Jul-96 22:37:13 GMT Koichi Kamijo Koichi Kamijo Welcome to the home page of Koichi Kamijo!!",
+    "link": [
+        "http://www.cs.cornell.edu/Info/People/kamijo/kamijobig.html",
+        "http://www.cs.cornell.edu/Info/People/kamijo/return.html",
+        "http://www.cs.cornell.edu/Info/People/kamijo/kamijoj.html"
+    ],
+    "ground_truth": "student"
+}

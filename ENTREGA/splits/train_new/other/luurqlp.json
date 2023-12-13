@@ -1,0 +1,10 @@
+{
+    "Title": "Adam Florence",
+    "Body": "High School I attended the Thomas Jefferson High School for Science and Technology in Alexandria, Virginia.",
+    "link": [
+        "http://www.cs.cornell.edu",
+        "http://www.cornell.edu",
+        "http://www.vt.edu"
+    ],
+    "ground_truth": "other"
+}

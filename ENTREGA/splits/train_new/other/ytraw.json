@@ -1,0 +1,8 @@
+{
+    "Title": "Coral Database Project - Announcement Mailing List",
+    "Body": "Your e-mail address: Add my address to the Coral mailing list.",
+    "link": [
+        "http://www.cs.wisc.edu/coral/coral.home.html"
+    ],
+    "ground_truth": "other"
+}

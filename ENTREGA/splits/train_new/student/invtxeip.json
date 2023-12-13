@@ -1,0 +1,10 @@
+{
+    "Title": "Welcome Page of Alexander Konstantinou",
+    "Body": "Date: Tue, 26 Nov 1996 02:51:33 GMT Server: Apache/1.1.1 Content-type: text/html Content-length: 2565 Last-modified: Sun, 27 Oct 1996 22:56:42 GMT Welcome Page of Alexander Konstantinou Lasciate ogne speranza, voi ch'intrate You are about to Alexander's page ...",
+    "link": [
+        "http://www.crs4.it/~riccardo/Letteratura/DivinaCommedia/DivinaCommedia.html",
+        "http://www.cs.columbia.edu/~akonstan/en/index.html",
+        "http://www.cs.columbia.edu/~akonstan/greek.html"
+    ],
+    "ground_truth": "student"
+}

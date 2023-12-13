@@ -1,0 +1,10 @@
+{
+    "Title": "ACL2 Version 1.9",
+    "Body": "To obtain ACL2 Read the License Agreement and if you agree to its terms, download the ACL2 Sources and Documentation and then follow the Installation Instructions .",
+    "link": [
+        "http://www.cli.com",
+        "http://www.cs.utexas.edu/users/reports/bkm96.ps",
+        "#Selected References"
+    ],
+    "ground_truth": "other"
+}

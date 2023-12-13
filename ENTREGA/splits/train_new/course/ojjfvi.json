@@ -1,0 +1,10 @@
+{
+    "Title": "CSE 380 Home Page",
+    "Body": "Server: Netscape-Communications/1.1 Date: Wednesday, 20-Nov-96 23:24:41 GMT Last-modified: Wednesday, 20-Nov-96 23:05:45 GMT Content-length: 4157 Content-type: text/html CSE 380 Home Page CSE380: Operating System - Fall 1996 This page is under construction.",
+    "link": [
+        "http://www.cis.upenn.edu/~lee/home_lee.html",
+        "http://www.cis.upenn.edu/~heekwak/",
+        "http://www.cis.upenn.edu/~lee/cse380/blurb.ps"
+    ],
+    "ground_truth": "course"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "TRANSOPEN Project",
+    "Body": "Date: Wed, 15 Jan 1997 01:43:01 GMT Server: Apache/1.1.1 Content-type: text/html Content-length: 2832 Last-modified: Mon, 29 Apr 1996 23:04:35 GMT TRANSOPEN Project TRANSOPEN Project Center for Information Management Research, Georgia Tech The mission of the TRANSOPEN project is to research and improve the state of the art in transitioning to Open Systems technology.",
+    "link": [
+        "http://www.cc.gatech.edu/computing/SW_Eng/people/Faculty/Melody.Moore.html",
+        "http://www.cc.gatech.edu/computing/SW_Eng/people/transopen_staff.html",
+        "http://www.cc.gatech.edu/computing/SW_Eng/92_93_transopen.html"
+    ],
+    "ground_truth": "project"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Vineets' Home Page",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Wednesday, 20-Nov-96 19:43:56 GMT Content-Type: text/html Content-Length: 1851 Last-Modified: Monday, 21-Oct-96 18:31:29 GMT Vineets' Home Page Vineet Ahuja M.Engg (95/96) Department of Computer Science Cornell University Ithaca, NY 14850 Address: 2506 Hasbrouck Apts., Ithaca, NY 14850 (607) 253 5497 E-Mail: ahuja@cs.cornell.edu Academics I'm an M. Eng.",
+    "link": [
+        "http://www.cs.cornell.edu/Info/People/ahuja/ahuja.gif",
+        "http://www.cs.cornell.edu",
+        "mailto:ahuja@cs.cornell.edu"
+    ],
+    "ground_truth": "student"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Histogram Refinement for Content-Based Image Retrieval",
+    "Body": "A slightly older paper entitled Comparing Images Using Color Coherence Vectors will appear in the 1996 ACM Conference on Multimedia, and is available in PDF format here .",
+    "link": [
+        "http://www.cs.cornell.edu/home/gregpass/welcome.html",
+        "http://www.cs.cornell.edu/home/rdz/rdz.html",
+        "http://www.cs.cornell.edu/home/rdz/wacv-final.pdf"
+    ],
+    "ground_truth": "other"
+}

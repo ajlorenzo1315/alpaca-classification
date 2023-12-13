@@ -1,0 +1,8 @@
+{
+    "Title": "Cornell Vision and Robotics Lab",
+    "Body": "Cornell Vision and Robotics Lab Some People in the Cornell Vision and Robotics Lab Here are some of the people working in the lab.",
+    "link": [
+        "ftp://ftp.cs.cornell.edu/pub/brd/images/BruceJimDaniela3-wow.gif"
+    ],
+    "ground_truth": "other"
+}

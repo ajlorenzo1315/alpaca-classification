@@ -1,0 +1,10 @@
+{
+    "Title": "Switzerland Home Page",
+    "Body": "``Michael R. Blair''] Brian K. Zuzga [a.k.a.",
+    "link": [
+        "http://www.ai.mit.edu/",
+        "http://www.lcs.mit.edu/",
+        "http://swissnet.ai.mit.edu/~switz/arpa-info/general-info.html"
+    ],
+    "ground_truth": "other"
+}

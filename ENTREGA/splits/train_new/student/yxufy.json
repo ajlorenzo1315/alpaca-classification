@@ -1,0 +1,10 @@
+{
+    "Title": "Mark E. Indermaur's Homepage",
+    "Body": "I am currently working with wireless LANs and with adapters for wireless wide area networks.",
+    "link": [
+        "http://www.csc.ncsu.edu",
+        "http://www.eos.ncsu.edu/coe/coe.html",
+        "http://www.ncsu.edu/"
+    ],
+    "ground_truth": "student"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "The Robot Group",
+    "Body": "If you want to join it, please send mail to robot-group-net-request@cs.utexas.edu.",
+    "link": [
+        "t-shirt.html",
+        "t-shirt.html",
+        "robofest.html"
+    ],
+    "ground_truth": "unknow"
+}

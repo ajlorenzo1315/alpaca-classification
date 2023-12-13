@@ -1,0 +1,10 @@
+{
+    "Title": "Yaron Minsky's Home Page",
+    "Body": "Also, if you want to play Go on the internet (yes, I know it's not as good as a game with a real live person in front of you, but it's better than nothing.)",
+    "link": [
+        "mailto:yminsky@cs.cornell.edu",
+        "http://www.cs.cornell.edu/",
+        "http://www.ithaca.ny.us/"
+    ],
+    "ground_truth": "student"
+}

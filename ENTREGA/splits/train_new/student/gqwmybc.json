@@ -1,0 +1,10 @@
+{
+    "Title": " Karthick's Home Page",
+    "Body": "Date: Tue, 26 Nov 1996 00:19:20 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Mon, 23 Sep 1996 23:50:40 GMT Content-length: 1590 Karthick's Home Page KARTHICK RAJAMANI I am a B.Tech in Electronics and Communication from the Indian Institute of Technology , Madras , India .",
+    "link": [
+        "http://sol.rutgers.edu/~sabesan/iitm.html",
+        "http://comlab1.ee.ufl.edu/~sriraj/madras.html",
+        "http://www.cs.rice.edu/~karthick/links.html#india"
+    ],
+    "ground_truth": "student"
+}

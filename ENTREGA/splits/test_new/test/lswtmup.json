@@ -1,0 +1,10 @@
+{
+    "Title": " Elise H. Turner's Bio Sketch",
+    "Body": "Professor Turner's research interests and publication areas include: communication during multi-agent problem solving, discourse processing, planning in real-world domains, the interaction between communication and problem solving; distributed artificial intelligence, in particular cooperative distributed problem solving (CDPS); and cognitive science.",
+    "link": [
+        "http://www.gatech.edu",
+        "http://cdps.umcs.maine.edu:80/cdps.html",
+        "http://cdps.umcs.maine.edu:80/auv-page.html"
+    ],
+    "ground_truth": "unknow"
+}

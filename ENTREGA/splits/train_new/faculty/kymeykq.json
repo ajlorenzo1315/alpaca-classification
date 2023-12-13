@@ -1,0 +1,10 @@
+{
+    "Title": "Home Page of Robert S. Boyer",
+    "Body": "(Furthermore, to steal a joke from Peter Deutsch, my having a web page on a government-owned computer should not be taken as an indication that I endorse everything that the government does.)",
+    "link": [
+        "http://www.cs.utexas.edu/users/boyer/places.html",
+        "http://www.cs.utexas.edu/users/boyer/courses/index.html",
+        "http://www.cs.utexas.edu/users/boyer/personal.html"
+    ],
+    "ground_truth": "faculty"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Computing Science Department, Uppsala University",
+    "Body": "Date: Tue, 26 Nov 1996 22:17:51 GMT Server: Apache/1.1.1 Content-type: text/html Computing Science Department, Uppsala University General information The department consists of two largely independent units: ADB and Datalogi, belonging to the Faculty of Social Sciences and the Faculty of Science and Technology, respectively.",
+    "link": [
+        "http://www.csd.uu.se/adb/",
+        "http://www.csd.uu.se/datalogi/",
+        "http://www.csd.uu.se//cgi-bin/homepage?hansson"
+    ],
+    "ground_truth": "department"
+}

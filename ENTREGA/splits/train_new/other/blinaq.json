@@ -1,0 +1,10 @@
+{
+    "Title": "Hope 1997 REU Information",
+    "Body": "Also, information is available from the World Wide Web as the page \"http://www.cs.hope.edu/~dershem/info.html\" Research Projects Hope College Computer Science Summer 1997 Project 1: Concurrency Anomaly Prevention Using Java Threads ( Michael J. Jipping ) This project will implement the prediction and detection of concurrency anomalies in the language Java.",
+    "link": [
+        "#proj1",
+        "#proj2",
+        "#proj3"
+    ],
+    "ground_truth": "other"
+}

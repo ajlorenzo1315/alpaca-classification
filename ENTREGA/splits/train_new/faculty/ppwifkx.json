@@ -1,0 +1,9 @@
+{
+    "Title": " Professor Carver Mead ",
+    "Body": "Silicon is thus a medium in which structures of high complexity can be created.",
+    "link": [
+        "http://www.caltech.edu/caltech/EandAS.html",
+        "http://www.pcmp.caltech.edu/"
+    ],
+    "ground_truth": "faculty"
+}

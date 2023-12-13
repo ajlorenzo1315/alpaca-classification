@@ -1,0 +1,10 @@
+{
+    "Title": "Rover",
+    "Body": "It served hundreds of human drivers with a Nintendo joystick controller as the interface for motion command.",
+    "link": [
+        "http://www.cs.utexas.edu/users/wylee/Pictures/rover.gif",
+        "http://www.cs.utexas.edu/users/wylee/Pictures/roverop.jpg",
+        "http://www.cs.utexas.edu/users/wylee/RobotGroup/robofest.html"
+    ],
+    "ground_truth": "other"
+}

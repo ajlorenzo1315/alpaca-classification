@@ -1,0 +1,10 @@
+{
+    "Title": "InfoLab Systems Home Page",
+    "Body": "For more information about our work, please contact the InfoLab Systems Group .",
+    "link": [
+        "http://www.ai.mit.edu/projects/infolab/globe.html",
+        "http://www.ai.mit.edu/projects/infolab/ailab.html",
+        "http://www.ai.mit.edu/projects/infolab/globe.html"
+    ],
+    "ground_truth": "project"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Current Projects",
+    "Body": "The POOMA team PSEware: A Toolkit for Building Problem-Solving Environments PSEware is a multi-institution (California Institute of Technology, Indiana University, Los Alamos National Laboratory, New Mexico State University, and Drexel University) project funded by the National Science Foundation's High Performance Computing and Communications program.",
+    "link": [
+        "http://www.acl.lanl.gov/PoomaFramework/",
+        "http://www.acl.lanl.gov/PoomaFramework/team.html",
+        "http://www.extreme.indiana.edu/pseware/"
+    ],
+    "ground_truth": "other"
+}

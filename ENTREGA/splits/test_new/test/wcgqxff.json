@@ -1,0 +1,10 @@
+{
+    "Title": "Active Harmony",
+    "Body": "We are designing and building Active Harmony , a software architecture that supports distributed execution of computational objects in such environments through the following innovations: dynamic execution environment: Dynamic adaptation to network and resource capacities, both when computational objects are created, and when application requirements or resource capacities change.",
+    "link": [
+        "#discuss",
+        "http://www.cs.umd.edu/projects/harmony/related.html",
+        "http://www.cs.umd.edu/~keleher"
+    ],
+    "ground_truth": "unknow"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Modula-3 and SPIN",
+    "Body": "GC FAQ Learn lots of about garbage collection technologies.",
+    "link": [
+        "http://www.research.digital.com/SRC/modula-3/html/home.html",
+        "http://www.research.digital.com/SRC/modula-3/html/concise-bib.html",
+        "http://www.vlsi.polymtl.ca/m3/"
+    ],
+    "ground_truth": "other"
+}

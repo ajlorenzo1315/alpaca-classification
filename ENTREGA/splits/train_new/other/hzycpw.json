@@ -1,0 +1,10 @@
+{
+    "Title": "\nCS418 Lab 6\n",
+    "Body": "The spotlight as given to you has a \"soft\" cutoff with angle.",
+    "link": [
+        "http://www.tc.cornell.edu/Visualization/Education/cs418/labs/Phong1995RV.net",
+        "http://www.tc.cornell.edu/Visualization/Education/cs418/labs/Phong1995RV.cfg",
+        "http://www.tc.cornell.edu/Visualization/Education/cs418/index.html"
+    ],
+    "ground_truth": "other"
+}

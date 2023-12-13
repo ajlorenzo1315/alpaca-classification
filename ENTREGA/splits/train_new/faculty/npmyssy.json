@@ -1,0 +1,10 @@
+{
+    "Title": "Nancy Amato",
+    "Body": "Date: Tue, 26 Nov 1996 18:55:34 GMT Server: Apache/1.1.1 Content-type: text/html Content-length: 3982 Last-modified: Fri, 22 Nov 1996 09:28:18 GMT Nancy Amato Nancy Amato Assistant Professor Department of Computer Science office: 414B  H.R.",
+    "link": [
+        "http://www.cs.tamu.edu/",
+        "http://www.tamu.edu/",
+        "http://www.ipt.com/"
+    ],
+    "ground_truth": "faculty"
+}

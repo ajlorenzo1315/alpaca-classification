@@ -1,0 +1,10 @@
+{
+    "Title": "picures of people",
+    "Body": "Date: Tue, 10 Dec 1996 14:17:48 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Wed, 24 Jul 1996 18:34:55 GMT Content-length: 814 picures of people The turkey that makes people happy !",
+    "link": [
+        "http://www.cs.washington.edu/homes/jamrozik/pictures/people1.JPG",
+        "http://www.cs.washington.edu/homes/jamrozik/pictures/people2.JPG",
+        "http://www.cs.washington.edu/homes/jamrozik/index.html"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,9 @@
+{
+    "Title": "The OTI Constraint Solver: A Constraint Library for Constructing\n  Interactive Graphical User Interfaces",
+    "Body": "Date: Tue, 10 Dec 1996 03:25:46 GMT Server: NCSA/1.4.2 Content-type: text/html The OTI Constraint Solver: A Constraint Library for Constructing Interactive Graphical User Interfaces The OTI Constraint Solver: A Constraint Library for Constructing Interactive Graphical User Interfaces Authors: Alan Borning and Bjorn N. Freeman-Benson In Proceedings of the First International Conference on Principles and Practice of Constraint Programming , September 1995, Ugo Montanari and Francesca Rossi (eds), Springer LNCS 976, pages 624-628.",
+    "link": [
+        "ftp://cs.washington.edu/pub/constraints/papers/ultraviolet-cp-95.ps.Z",
+        "http://www.cs.washington.edu/research/projects/weird/www/index.html"
+    ],
+    "ground_truth": "other"
+}

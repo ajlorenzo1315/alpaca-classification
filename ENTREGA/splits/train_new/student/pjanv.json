@@ -1,0 +1,10 @@
+{
+    "Title": " Home Page of Fang Lin ",
+    "Body": "Date: Tue, 26 Nov 1996 16:26:09 GMT Server: Apache/1.0.5 Content-type: text/html Home Page of Fang Lin THE BEAUTY OF A BOMB FRIENDLY, ENJOY About Me , Quite Simple My Home Town , Missing a lot Projects OverView , Hard Working Fang Lin Email: flin@gulf.uvic.ca Master in Computer Science University of Victoria , B.C.",
+    "link": [
+        "http://www.csc.uvic.ca/~flin/Resume.html",
+        "http://www.engin.swarthmore.edu/%7Ehe/shanghai/",
+        "http://www.csc.uvic.ca/~flin/Projects.html"
+    ],
+    "ground_truth": "student"
+}

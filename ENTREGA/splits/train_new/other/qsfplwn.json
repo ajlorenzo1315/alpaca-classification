@@ -1,0 +1,10 @@
+{
+    "Title": "Homework Assignment 1",
+    "Body": "Have written C programs for 4 years.",
+    "link": [
+        "mailto:loke@ee.tamu.edu",
+        "mailto:shuehu",
+        "mailto:junf@cs.tamu.edu"
+    ],
+    "ground_truth": "other"
+}

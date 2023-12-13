@@ -1,0 +1,10 @@
+{
+    "Title": " Olvi L. Mangasarian's Home Page ",
+    "Body": "Chunhui Chen and O. L. Mangasarian Smoothing Methods for Convex Inequalities and Linear Complementarity Problems.",
+    "link": [
+        "http://www.cs.wisc.edu/~paulb/paulb.html",
+        "ftp://ftp.cs.wisc.edu/math-prog/tech-reports/96-07.ps",
+        "ftp://ftp.cs.wisc.edu/math-prog/tech-reports/96-06.ps"
+    ],
+    "ground_truth": "faculty"
+}

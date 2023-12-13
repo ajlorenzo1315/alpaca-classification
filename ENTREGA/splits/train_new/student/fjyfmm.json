@@ -1,0 +1,10 @@
+{
+    "Title": "Adam Young",
+    "Body": "In the paper cited below, we describe attacks by viruses that use the public key of the virus author.",
+    "link": [
+        "http://www.columbia.edu",
+        "http://www.cs.columbia.edu/~ayoung/ieee96.ps",
+        "http://www.cs.columbia.edu/~ayoung/crypto96.ps"
+    ],
+    "ground_truth": "student"
+}

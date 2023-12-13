@@ -1,0 +1,10 @@
+{
+    "Title": "CSE 143 section notes page",
+    "Body": "Example ADT Here is an example of an ADT for a String class.",
+    "link": [
+        "mazegen/",
+        "exercises/ex.big-o.html",
+        "http://www.cs/homes/acollins/hw2notes.html"
+    ],
+    "ground_truth": "unknow"
+}

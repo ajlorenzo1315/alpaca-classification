@@ -1,0 +1,10 @@
+{
+    "Title": "Kermit Communications Software",
+    "Body": "What is Kermit?",
+    "link": [
+        "http://www.columbia.edu/",
+        "http://www.columbia.edu/kermit/manuals.html",
+        "http://www.columbia.edu/kermit/k95.html"
+    ],
+    "ground_truth": "other"
+}

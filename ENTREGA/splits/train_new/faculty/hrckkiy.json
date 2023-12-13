@@ -1,0 +1,10 @@
+{
+    "Title": "  John W. Buchanan ",
+    "Body": "Date: Mon, 25 Nov 1996 22:57:30 GMT Server: Apache/1.1.1 Content-type: text/html Content-length: 1986 Last-modified: Tue, 22 Oct 1996 17:14:30 GMT John W. Buchanan John W. Buchanan Assistant Professor Department of Computing Science University of Alberta Edmonton, Alberta Canada T6G 2H1 e-mail:juancho@cs.ualberta.ca phone:  (403)492-7569 Areas of Involvement Computer Graphics Research Laboratory Biographical data / education Born: 1st April 1963, Santa Fe de Bogota, Colombia , South America.",
+    "link": [
+        "http://web.cs.ualberta.ca/home.html",
+        "http://web.cs.ualberta.ca/UofA-about.html",
+        "mailto:juancho@cs.ualberta.ca"
+    ],
+    "ground_truth": "faculty"
+}

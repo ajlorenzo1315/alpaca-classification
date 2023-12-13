@@ -1,0 +1,10 @@
+{
+    "Title": "UW-Madison DBMS Research Group",
+    "Body": "People The DBMS research group at UW-Madison is made up of a large group of faculty, students and staff.",
+    "link": [
+        "#uwdbms",
+        "#software",
+        "#listproc"
+    ],
+    "ground_truth": "unknow"
+}

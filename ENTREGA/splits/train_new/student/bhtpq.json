@@ -1,0 +1,10 @@
+{
+    "Title": "\nHome Page for George Apostolopoulos\n",
+    "Body": "I am mainly interested in high-speed networks and  multimedia systems.",
+    "link": [
+        "http://www.cs.umd.edu/projects/mcml/index.html",
+        "http://www.cs.umd.edu/users/georgeap/ps/abr.ps",
+        "http://www.cs.umd.edu/users/georgeap/ps/qos.ps"
+    ],
+    "ground_truth": "student"
+}

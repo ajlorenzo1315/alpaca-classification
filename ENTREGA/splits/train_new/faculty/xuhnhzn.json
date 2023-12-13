@@ -1,0 +1,8 @@
+{
+    "Title": "Alan J. Smith",
+    "Body": "23, No.",
+    "link": [
+        "mailto:smith@cs.berkeley.edu"
+    ],
+    "ground_truth": "faculty"
+}

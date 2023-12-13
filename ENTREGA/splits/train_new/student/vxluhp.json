@@ -1,0 +1,10 @@
+{
+    "Title": "Kanaka Komandur's Home Page",
+    "Body": "Date: Tue, 26 Nov 1996 17:52:58 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Mon, 07 Oct 1996 19:02:00 GMT Content-length: 1213 Kanaka Komandur's Home Page Welcome to the HomePage of Kanaka Komandur.",
+    "link": [
+        "http://www.cs.pitt.edu/",
+        "http://www.pitt.edu/",
+        "mailto:kanaka@cs.pitt.edu"
+    ],
+    "ground_truth": "student"
+}

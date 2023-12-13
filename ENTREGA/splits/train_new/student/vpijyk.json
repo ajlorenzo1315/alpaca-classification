@@ -1,0 +1,10 @@
+{
+    "Title": " Juei Chang ",
+    "Body": "My dissertation is in the area of specification-based software testing.",
+    "link": [
+        "http://www.ics.uci.edu",
+        "http://www.uci.edu",
+        "http://www.ics.uci.edu/~jueic//dir/faculty/Software/djr"
+    ],
+    "ground_truth": "student"
+}

@@ -1,0 +1,8 @@
+{
+    "Title": "Research & Teaching Summary",
+    "Body": "Since Vortex is written entirely in Cecil, a language with many of the high-level features that I espouse, it also serves as a demonstration that such languages can be practical, given appropriate implementation techniques: its performance has been sufficient to put it to daily use in an interactive development environment.",
+    "link": [
+        "mailto:jdean@cs.washington.edu"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "\nThe UCLA KMeD Home Page\n",
+    "Body": "Currently available are: What's New at the KMeD WWW as of July 20, 1996 Introducing the KMeD Project A Screenshot Tour of KMeD The People Behind KMeD Other Related UCLA Projects KMeD References and Publications If you'd like to know more about the UCLA Computer Science Department in general, go here .",
+    "link": [
+        "http://kmed-www.cs.ucla.edu/bios/chu.html",
+        "http://kmed-www.cs.ucla.edu/bios/cardenas.html",
+        "http://kmed-www.cs.ucla.edu/bios/chu.html"
+    ],
+    "ground_truth": "unknow"
+}

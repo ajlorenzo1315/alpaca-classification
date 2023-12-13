@@ -1,0 +1,10 @@
+{
+    "Title": "OSA Tutorial",
+    "Body": "The objective of this tutorial is for you to learn what OSA is, how to use OSA to model the real world, and why using OSA can lead to better systems.",
+    "link": [
+        "http://lal.cs.byu.edu/people/black.html",
+        "http://bert.cs.byu.edu/~goodman/goodman.html",
+        "http://genie.cs.byu.edu/~nielson/Ben.html"
+    ],
+    "ground_truth": "unknow"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Intelligent DRAM (IRAM)",
+    "Body": "This advanced graduate course, led by Prof. David Patterson , re-examined the design of hardware and software that is based on the traditional separation of the memory and the processor.",
+    "link": [
+        "http://iram.cs.berkeley.edu/index.html",
+        "http://http.cs.berkeley.edu/",
+        "http://www.berkeley.edu"
+    ],
+    "ground_truth": "project"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "UTCS nl-acq proposed papers",
+    "Body": "778-783 proposed by Ray Mooney, September 13, 1995 Riloff, E. and Shoen, J.: \" Automatically Acquiring Conceptual Patterns without an Annotated Corpus \" in WVLC-95, p. 148-162. this isn't as good, but ok proposed by Cindi Thompson, July 19, 1995 Niyogi, Partha.",
+    "link": [
+        "ftp://publications.ai.mit.edu/ai-publications/1500-1999/AIM-1575.ps.Z",
+        "http://www.cs.utah.edu/~riloff/psfiles/aaai96.ps",
+        "http://www.cs.utexas.edu/users/nl-acq/"
+    ],
+    "ground_truth": "other"
+}

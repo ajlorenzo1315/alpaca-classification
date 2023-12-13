@@ -1,0 +1,10 @@
+{
+    "Title": "Carole Hafner's CCS Home Page",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Thursday, 21-Nov-96 19:21:38 GMT Content-Type: text/html Content-Length: 3368 Last-Modified: Friday, 27-Sep-96 20:22:39 GMT Carole Hafner's CCS Home Page Carole D. Hafner (hafner@ccs.neu.edu) Click here for the home pages for Northeastern University and the College of Computer Science .",
+    "link": [
+        "http://www.neu.edu/",
+        "http://www.ccs.neu.edu/",
+        "http://www.ccs.neu.edu/home/hafner/quotes/quote.html"
+    ],
+    "ground_truth": "faculty"
+}

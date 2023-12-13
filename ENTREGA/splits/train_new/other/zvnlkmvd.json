@@ -1,0 +1,10 @@
+{
+    "Title": "Unreliable Failure Detectors for Reliable Distributed Systems",
+    "Body": "Abstract We introduce the concept of unreliable failure detectors and study how they can be used to solve Consensus in asynchronous systems\twith crash failures.",
+    "link": [
+        "http://www.cs.cornell.edu/Info/People/chandra/home.html",
+        "http://www.cs.cornell.edu/Info/People/sam/sam.html",
+        "ftp://ftp.cs.cornell.edu/pub/chandra/failure.detectors.algorithms.ps.Z"
+    ],
+    "ground_truth": "other"
+}

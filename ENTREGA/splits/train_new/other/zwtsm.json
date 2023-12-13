@@ -1,0 +1,10 @@
+{
+    "Title": " A Brief Biography ",
+    "Body": "Date: Tue, 05 Nov 1996 00:20:20 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Mon, 30 Sep 1996 01:31:40 GMT Content-length: 1638 A Brief Biography Name : David Burnett Eggleston Date of Birth : 12/06/67 Nom de Net : fleshhead Academic Status : PhD Wannabe Field of Study : Computer Science B.S.",
+    "link": [
+        "http://www.vt.edu/index.html",
+        "http://www.cs.wisc.edu/~burnett/hobbies.html#books",
+        "news:alt.horror"
+    ],
+    "ground_truth": "other"
+}

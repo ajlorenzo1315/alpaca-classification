@@ -1,0 +1,10 @@
+{
+    "Title": "U of I, CS - other computer Science WWW sites",
+    "Body": "Date: Wed, 15 Jan 1997 02:05:55 GMT Server: NCSA/1.5.2 Last-modified: Mon, 25 Nov 1996 20:41:16 GMT Content-type: text/html Content-length: 7339 U of I, CS - other computer Science WWW sites Other Computer Science Department's World Wide Web pages Big 10 Purdue University University of Wisconsin Northwestern University Michigan State University Ohio State University Penn State University of Iowa Indiana University University of Minnesota University of Michigan ACC North Carolina State University University of North Carolina at Chapel Hill Duke University Georgia Tech University of Maryland, College Park Clemson University Florida State University University of Virginia Wake Forest University others... Brandeis University Brigham Young University Brown University Carnegie Mellon Colgate Univeristy Colorado State University Columbia University.",
+    "link": [
+        "http://www.cs.purdue.edu/",
+        "http://www.cs.wisc.edu/",
+        "http://www.eecs.nwu.edu/"
+    ],
+    "ground_truth": "other"
+}

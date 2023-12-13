@@ -1,0 +1,10 @@
+{
+    "Title": "Rob's Pit of Sarcasm",
+    "Body": "Date: Thu, 21 Nov 1996 21:50:49 GMT Server: NCSA/1.5 Content-type: text/html Rob's Pit of Sarcasm Mike tells 60 Minutes : \"No, pictures...\" Who is he?",
+    "link": [
+        "http://www.cs.bu.edu/students/grads/rip/mike/",
+        "http://www.cs.bu.edu/students/grads/rip/WhoIsHe.html",
+        "http://www.cs.bu.edu/students/grads/rip/employment.html"
+    ],
+    "ground_truth": "unknow"
+}

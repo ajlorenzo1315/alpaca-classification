@@ -1,0 +1,10 @@
+{
+    "Title": " Afzal's Home Page ",
+    "Body": "It seems optimal solutions for the tasks such as pattern recognition, classification and learning are intractable to perform on a serial computer.",
+    "link": [
+        "http://www.cs.ualberta.ca/~upal/sound/afzal.au",
+        "http://www.cs.ualberta.ca/Academic/labs/pics/cogsci.shtml",
+        "http://www.cs.ualberta.ca/"
+    ],
+    "ground_truth": "student"
+}

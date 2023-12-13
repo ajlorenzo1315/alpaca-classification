@@ -1,0 +1,10 @@
+{
+    "Title": "John Dickinson Faculty Page",
+    "Body": "He is an associate professor of computer science and has been at the University of Idaho since 1973.",
+    "link": [
+        "http://www.uidaho.edu/~kari/",
+        "http://www.cs.uidaho.edu/~johnd/kids.html",
+        "http://www.uidaho.edu/~johnd/"
+    ],
+    "ground_truth": "faculty"
+}

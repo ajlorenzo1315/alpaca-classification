@@ -1,0 +1,10 @@
+{
+    "Title": "CS 575 - Quick Index",
+    "Body": "Date: Tue, 14 Jan 1997 20:34:03 GMT Server: Apache/1.0.5 Content-type: text/html Content-length: 2399 Last-modified: Wed, 30 Oct 1996 23:12:06 GMT CS 575 - Quick Index CS 575 - Quick Index Not all the links are working yet !",
+    "link": [
+        "http://www.cs.byu.edu/courses/cs575/silla96.zip",
+        "http://www.cs.byu.edu/courses/cs575/pointsfall.html",
+        "http://www.cs.byu.edu/courses/cs575/touch.html"
+    ],
+    "ground_truth": "other"
+}

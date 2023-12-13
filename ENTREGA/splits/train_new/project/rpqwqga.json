@@ -1,0 +1,9 @@
+{
+    "Title": "Graph Theory",
+    "Body": "Determining whether a graph has an Even Adjacency Split (EAS) is NP-complete for general graphs.",
+    "link": [
+        "http://www.cs.usask.ca/homepages/faculty/cheston/Cheston.html",
+        "http://www.cs.usask.ca/homepages/faculty/keil/Keil.html"
+    ],
+    "ground_truth": "project"
+}

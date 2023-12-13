@@ -1,0 +1,10 @@
+{
+    "Title": "\nCS418 Lab 10\n",
+    "Body": "Modify the water-wave program you just wrote to simulate a cannon firing a ball through the air and into water where it starts a wave.",
+    "link": [
+        "http://www.tc.cornell.edu/Visualization/Education/cs417/SECTIONS/d\nynamics.html",
+        "http://www.tc.cornell.edu/Visualization/Education/cs417/SECTIONS/dynamics.3body.mpg",
+        "http://www.tc.cornell.edu/Visualization/Education/cs417/SECTIONS/dynamics.WaterWave.mpg"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Paradyn Project Overview",
+    "Body": "Normal post-mortem-style tools typically collect information about all events that occur during execution; this can produce trace data at a rate of several Gigabytes per second on a machine with thousands of nodes, a rate which is impossible for a performance tool to cope with.",
+    "link": [
+        "http://www.cs.wisc.edu/~wwt/",
+        "http://www.cs.wisc.edu/~wwt/wi_week16nov94.html",
+        "http://www.cs.wisc.edu/~bart"
+    ],
+    "ground_truth": "other"
+}

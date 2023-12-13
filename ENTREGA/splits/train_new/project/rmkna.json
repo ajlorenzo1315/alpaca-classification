@@ -1,0 +1,10 @@
+{
+    "Title": "The Distributed Systems Group",
+    "Body": "The Distributed Systems Group (DSG) is a coalition of graduate students in the department of computer science, with shared research interests in the areas of distributed systems, networks, security, and simulation.",
+    "link": [
+        "http://www.cs.tamu.edu/other/bright_building.html",
+        "http://www.tamu.edu/buildings/thompson.html",
+        "http://www.cs.tamu.edu/faculty/pooch/"
+    ],
+    "ground_truth": "project"
+}

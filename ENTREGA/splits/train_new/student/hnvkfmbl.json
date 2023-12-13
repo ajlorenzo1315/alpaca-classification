@@ -1,0 +1,10 @@
+{
+    "Title": "Sridhar Bidigalu's Personal Home Page",
+    "Body": "I received my BS in computer science from the Sri Jayachamarajendra College of Enggineering, Karnataka, Mysore, India in 1993.",
+    "link": [
+        "mailto:srbidiga@cs.nmsu.edu",
+        "mailto:sbidigal@crl.nmsu.edu",
+        "http://www.cs.nmsu.edu/"
+    ],
+    "ground_truth": "student"
+}

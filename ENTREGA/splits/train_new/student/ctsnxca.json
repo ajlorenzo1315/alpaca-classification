@@ -1,0 +1,10 @@
+{
+    "Title": "Jim Bednar",
+    "Body": "A particular class of visual illusions called tilt illusions and tilt aftereffects are thought to arise in the primary visual cortex of humans, and thus serve as test cases for theories about that area of the brain.",
+    "link": [
+        "http://www.cs.utexas.edu/users/nn/web-pubs/htmlbook96/sirosh/",
+        "http://www.cs.utexas.edu/users/nn/pages/publications/abstracts.html#miikkulainen.visual-cortex.ps.Z",
+        "mailto://jbednar@cs.utexas.edu"
+    ],
+    "ground_truth": "student"
+}

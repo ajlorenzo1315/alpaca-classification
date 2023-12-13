@@ -1,0 +1,10 @@
+{
+    "Title": "C251 Course Description",
+    "Body": "In this course, you may discuss assignments with other students.",
+    "link": [
+        "http://www.cs.indiana.edu",
+        "mailto:mjahn@cs.indiana.edu",
+        "mailto:jnewkir@cs.indiana.edu"
+    ],
+    "ground_truth": "course"
+}

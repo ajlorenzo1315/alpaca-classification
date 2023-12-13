@@ -1,0 +1,10 @@
+{
+    "Title": "Welcome to Allen Zhang's homepage",
+    "Body": "My Java Corner JavaSoft Java via Yahoo!",
+    "link": [
+        "http://www.ccs.neu.edu/",
+        "http://www.dac.neu.edu/",
+        "http://www.std.com/NE/boston.html"
+    ],
+    "ground_truth": "student"
+}

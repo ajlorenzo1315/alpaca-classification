@@ -1,0 +1,10 @@
+{
+    "Title": " Ensemble ",
+    "Body": "A research tool For a distributed systems researcher, Ensemble is a highly modular and reconfigurable toolkit.",
+    "link": [
+        "http://www.cs.cornell.edu/Info/Projects/HORUS/Overview.html",
+        "http://www.cs.cornell.edu",
+        "http://www.cs.cornell.edu/Info/People/hayden/ensemble/roadmap.html"
+    ],
+    "ground_truth": "other"
+}

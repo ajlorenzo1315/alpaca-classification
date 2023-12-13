@@ -1,0 +1,10 @@
+{
+    "Title": "\nParallel Systems Laboratory\n",
+    "Body": "Date: Wed, 20 Nov 1996 19:35:45 GMT Server: Apache/1.0.2 Content-type: text/html Content-length: 3433 Last-modified: Tue, 19 Nov 1996 21:38:59 GMT Parallel Systems Laboratory <!-- img width=60% SRC=\"http://www.cs.ucsb.edu/~weis/gifs/rainbow.gif\"> Parallel Systems Laboratory <!-- img width=60% SRC=\"http://www.cs.ucsb.edu/~weis/gifs/rainbow.gif\"> The research activities of the PSL involve the development and implementation of  software systems and languages for parallel computers and workstation/PC clusters, and their applications in scientific computing, digitial libraries, and image processing.",
+    "link": [
+        "http://www.cs.ucsb.edu/~cappello",
+        "http://www.cs.ucsb.edu/~martin",
+        "http://www.cs.ucsb.edu/~schauser"
+    ],
+    "ground_truth": "project"
+}

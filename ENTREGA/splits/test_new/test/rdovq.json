@@ -1,0 +1,10 @@
+{
+    "Title": "NDale Dissertations Page",
+    "Body": "The purpose of this research was to develop a quantitative model to measure programming abilities of students who have completed the first course in computer science.",
+    "link": [
+        "mailto:ndale@cs.utexas.edu",
+        "http://www.cs.utexas.edu/",
+        "mailto:ndale@cs.utexas.edu"
+    ],
+    "ground_truth": "unknow"
+}

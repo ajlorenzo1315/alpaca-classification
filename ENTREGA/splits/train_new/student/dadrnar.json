@@ -1,0 +1,10 @@
+{
+    "Title": "My Personal Home Page",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Thursday, 21-Nov-96 22:37:37 GMT Content-Type: text/html Content-Length: 3528 Last-Modified: Friday, 03-Mar-95 16:56:14 GMT My Personal Home Page My Personal Home Page Main Events OS Manpages What's New With NCSA Mosaic Veronica Starting Points for Internet Exploration Registered WWW Servers NCSA Mosaic NCSA Mosaic Demo Document Documents Sourcecode & Binaries NCSA httpd Overview WWW HTML Widget Docs The InterNIC HyperText Mark-up Language FTP sites Tcl/Tk Archive at Harbor garbo ftp wuarchive.wustl.edu Fun Farside GIFS Disney NIH Yale Bitmap Storehouse Image Storehouse Misc WWW Recipe archive Vegitarian Recipes A collection of home pages.",
+    "link": [
+        "ftp://archive.cis.ohio-state.edu/n/vacuum/5/doc/man-src",
+        "http://www.ncsa.uiuc.edu/SDG/Software/Mosaic/Docs/whats-new.html",
+        "gopher://veronica.scs.unr.edu/11/veronica"
+    ],
+    "ground_truth": "student"
+}

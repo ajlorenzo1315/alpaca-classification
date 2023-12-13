@@ -1,0 +1,10 @@
+{
+    "Title": "Rik Belew",
+    "Body": "(0114) University of California - San Diego La Jolla, CA 92093 rik@cs.ucsd.edu January, 1996 I am an associate professor of Computer Science, with special research interests in machine learning and free-text information retrieval.",
+    "link": [
+        "http://www-cse.ucsd.edu/users/rik/section3_1.html",
+        "http://www-cse.ucsd.edu/users/rik/section3_1.html",
+        "http://www-cse.ucsd.edu/users/rik/ccsrg.html"
+    ],
+    "ground_truth": "faculty"
+}

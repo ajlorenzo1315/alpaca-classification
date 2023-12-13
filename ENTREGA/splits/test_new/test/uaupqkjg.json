@@ -1,0 +1,10 @@
+{
+    "Title": "CS302, fall session info",
+    "Body": "11/5 I will be having office hours today from 12 - 2pm today 10/29 I have made a minor modification to the crazy.txt file for assignment 7, you should get a new copy if you have already gotton one.",
+    "link": [
+        "http://www.cs.wisc.edu/~prock/prock.html",
+        "http://www.cs.wisc.edu/~hcl/cs302/oldtq.html",
+        "http://www.cs.wisc.edu/~cs302/C%2B%2B/Text/Text.html"
+    ],
+    "ground_truth": "unknow"
+}

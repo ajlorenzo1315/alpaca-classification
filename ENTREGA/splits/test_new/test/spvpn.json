@@ -1,0 +1,10 @@
+{
+    "Title": "Eric Hazen's Home Page",
+    "Body": "We are located in the Computer Sciences Department at the University of Wisconsin at Madison .",
+    "link": [
+        "http://www.cs.wisc.edu/scout/",
+        "http://rs.internic.net/",
+        "http://rs.internic.net/rs-internic.html"
+    ],
+    "ground_truth": "unknow"
+}

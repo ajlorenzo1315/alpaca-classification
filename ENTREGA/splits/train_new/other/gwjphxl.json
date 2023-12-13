@@ -1,0 +1,10 @@
+{
+    "Title": "Contact Improvisation",
+    "Body": "call 030/7865861 for info.",
+    "link": [
+        "#photos",
+        "#cq",
+        "mailto:jdavis@parc.xerox.com"
+    ],
+    "ground_truth": "other"
+}

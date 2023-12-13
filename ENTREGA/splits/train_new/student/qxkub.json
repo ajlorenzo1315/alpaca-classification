@@ -1,0 +1,10 @@
+{
+    "Title": " Archna's home page ",
+    "Body": "in Computer Science at the University of Pittsburgh , Pittsburgh .",
+    "link": [
+        "http://www.cs.umass.edu/cgi-bin/finger?archna@cs.umass.edu",
+        "http://ciir.cs.umass.edu/info/cartsdir/index.html",
+        "http://www.cs.umass.edu/"
+    ],
+    "ground_truth": "student"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Karin Hogstedt's Homepage",
+    "Body": "Date: Thu, 21 Nov 1996 23:07:59 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Tue, 17 Sep 1996 17:17:13 GMT Content-length: 3698 Karin Hogstedt's Homepage Karin Hogstedt Department of Computer Science and Engineering University of California, San Diego La Jolla, CA  92093-0114 Useful Links My department Links to commercial services Virtual Tourist Planet Earth San Diego traffic , weather , etc .",
+    "link": [
+        "http://www-cse.ucsd.edu/",
+        "http://www.directory.net/",
+        "http://wings.buffalo.edu/world"
+    ],
+    "ground_truth": "student"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "ISDN homepage",
+    "Body": "On this page you'll find pointers to Information about the network Ithaca area dance events Workshops Many other dance-related resources The Ithaca Swing Dance Network (ISDN) is a voluntary organization of swing dance fans who participate in and coordinate dance events in the Ithaca, NY area.",
+    "link": [
+        "#isdn",
+        "#local",
+        "#workshops"
+    ],
+    "ground_truth": "other"
+}

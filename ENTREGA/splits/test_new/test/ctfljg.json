@@ -1,0 +1,10 @@
+{
+    "Title": "Homepage for Kathy Yelick",
+    "Body": "Her research interests include parallel computing, programming languages and compilers, and symbolic computation.",
+    "link": [
+        "http://www.cs.berkeley.edu/",
+        "http://www.berkeley.edu/",
+        "http://HTTP.CS.Berkeley.EDU/~yelick/61b/"
+    ],
+    "ground_truth": "unknow"
+}

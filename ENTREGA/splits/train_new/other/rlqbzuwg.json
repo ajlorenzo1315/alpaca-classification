@@ -1,0 +1,8 @@
+{
+    "Title": "CS 537 - Quiz #10",
+    "Body": "With an allocation scheme based on block groups and a free block bit-map (such as that used in DEMOS), is it possible to tell, after a crash, if a block that is marked \"free\" in the bit-map should not be?",
+    "link": [
+        "http://www.cs.wisc.edu/~bart"
+    ],
+    "ground_truth": "other"
+}

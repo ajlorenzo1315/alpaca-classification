@@ -1,0 +1,10 @@
+{
+    "Title": "CS 330 Homepage",
+    "Body": "This page contains information related to the class such as class policies and the syllabus as well and the assignments, code from the textbook, and information about Scheme and other languages.",
+    "link": [
+        "http://lal.cs.byu.edu/people/windley/windley.html",
+        "http://lal.cs.byu.edu/cs330/policies.html",
+        "http://lal.cs.byu.edu/cs330/grades.html"
+    ],
+    "ground_truth": "course"
+}

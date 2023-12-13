@@ -1,0 +1,10 @@
+{
+    "Title": "Net Scout Services Homepage",
+    "Body": "However, everyone is welcome to use the publications and Web sites provided by Net Scout, and we encourage feedback and suggestions from the entire Internet community.",
+    "link": [
+        "http://www.cs.wisc.edu/scout/textind.html",
+        "http://www.cs.wisc.edu/scout//scout/report/index.html",
+        "http://www.mid.net:80/NET/"
+    ],
+    "ground_truth": "project"
+}

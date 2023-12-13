@@ -1,0 +1,10 @@
+{
+    "Title": "\nVirginia Tech Computer Science Department Home Page\n",
+    "Body": "Date: Tue, 26 Nov 1996 22:17:39 GMT Server: NCSA/1.5.1 Content-type: text/html Last-modified: Mon, 18 Nov 1996 13:10:24 GMT Content-length: 6409 Virginia Tech Computer Science Department Home Page 660 McBryde Hall Blacksburg, VA 24061 Phone: (540)231-6931 FAX: (540)231-6075 Department Head: Dr. John M. Carroll Welcome to the Virginia Tech Department of Computer Science Home Page.",
+    "link": [
+        "http://info.cs.vt.edu/htbin/imagemap/image/maps/vtcs.gif.map",
+        "http://info.cs.vt.edu/whats_new.html",
+        "http://info.cs.vt.edu/faculty_search.html"
+    ],
+    "ground_truth": "department"
+}

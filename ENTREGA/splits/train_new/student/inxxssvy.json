@@ -1,0 +1,10 @@
+{
+    "Title": "Welcome to my Home Page",
+    "Body": "The Graphics are coded using a combination of Open Inventor and OpenGL and are interfaced with the Virtual Reality facility at Cornell Click here to view a postscript of my Resume Some of my favorite Web Sites: All your favorite stars...",
+    "link": [
+        "http://www.cs.cornell.edu/Info/People/kartikhk/kartikhk.gif",
+        "http://www.cornell.edu/",
+        "http://www.cs.cornell.edu/"
+    ],
+    "ground_truth": "student"
+}

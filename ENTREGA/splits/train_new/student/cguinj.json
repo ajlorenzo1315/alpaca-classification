@@ -1,0 +1,10 @@
+{
+    "Title": "\nJeanne's House of Chaos\n",
+    "Body": "Date: Thu, 21 Nov 1996 23:06:17 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Sun, 10 Dec 1995 23:28:24 GMT Content-length: 1274 Jeanne's House of Chaos Jeanne C. Milostan Computer Science and Engineering MZ 0114 La Jolla, CA 92093 U.S.A. (619) 453-4364 (lab) jmilosta@cs.ucsd.edu Yeah, well, under construction.",
+    "link": [
+        "mailto:jmilosta@cs.ucsd.edu",
+        "http://www-cse.ucsd.edu/CSE_Home_Page.html",
+        "http://www-cse.ucsd.edu/users/gary/"
+    ],
+    "ground_truth": "student"
+}

@@ -1,0 +1,5 @@
+{
+    "Título": "OpenGL Example Programs",
+    "Cuerpo": "Same scene as accanti without anti-aliasing. Same as accanti, but anti-aliasing with perspective, example 10-2. Run alpha3D . Run checker2 . A cone. Fog used to make distant lines darker. Draw bitmaps of \"F\" using glBitmap(), example 8-1. Teapots in the fog, example 7-6. Fog in color index mode, example 7-7. Display lists are used to draw lines with different stipples. Run list2 . Mipmaps used to draw a texture map with a different color for each bitmap size, example 9-2. Mouse and depth buffer are used to select objects, example 12-6. Same scene as sccolorlight, but without colored light. Run scene . Same scene as sccolorlight, but with blue ambient light. Demonstrates a stroke (vector) font and display lists, example 4-8. Nurbs surface as a symmetrical hill, example 11-5. Evaluators used to generate curved surface and texture corrdinates, example 11-4. Curves trim away part of a NURBS surface, example 11-6.",
+    "ground_truth": "other"
+}

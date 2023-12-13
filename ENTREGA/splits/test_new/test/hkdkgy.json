@@ -1,0 +1,10 @@
+{
+    "Title": "\nCSE 574  Uncertainty and Decision Making\n",
+    "Body": "Shafer and Pearl: Readings in Uncertain Reasoning This is a nice collection of foundational papers on reasoning and uncertainty, and we will read several selections.",
+    "link": [
+        "http://www.cs.washington.edu/people/faculty/hanks.html",
+        "mailto:hanks@cs.washington.edu",
+        "mailto:cse574@cs.washington.edu"
+    ],
+    "ground_truth": "unknow"
+}

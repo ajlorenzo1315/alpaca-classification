@@ -1,0 +1,10 @@
+{
+    "Title": "Operating Systems Home Page",
+    "Body": "Date: Tue, 26 Nov 1996 18:37:44 GMT Server: Apache/1.1.1 Content-type: text/html Content-length: 2375 Last-modified: Fri, 15 Nov 1996 21:07:20 GMT Operating Systems Home Page W4118X - Operating Systems Course Home Page Links Read the columbia.fall.cs4118 newsgroup Read the columbia.fall.cs4118 newsgroup postings from the WWW (if you cannot access the newsgroup) Post to the columbia.fall.cs4118 newsgroup Important Information Schedule Syllabus (as given out of 4 Sep) Find class resources in Postscript form instead Find class resources in plain text form instead Important Information CS 4118, Operating Systems I, MW 2:40-3:55, 233 Mudd Textbooks Modern Operating Systems Andrew S. Tanenbaum Prentice-Hall, 1992 ISBN 0-13-588187-0 Internetworking with TCP/IP, vol.",
+    "link": [
+        "news:columbia.fall.cs4118",
+        "http://www.columbia.edu/~cs4118/news",
+        "mailto:columbia.fall.cs4118@cs.columbia.edu"
+    ],
+    "ground_truth": "course"
+}

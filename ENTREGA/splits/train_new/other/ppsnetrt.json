@@ -1,0 +1,10 @@
+{
+    "Title": "Papers",
+    "Body": "In this paper, we present an approach that learns the conditional probabilities on a Bayesian network with hidden variables by transforming it into a multi-layer feedforward neural network (ANN).",
+    "link": [
+        "file://ftp.cs.utexas.edu/pub/mooney/papers/banner-proposal-95.ps.Z",
+        "file://ftp.cs.utexas.edu/pub/mooney/papers/banner-icnn-96.ps.Z",
+        "file://ftp.cs.utexas.edu/pub/mooney/papers/misq-rt-qr-94.ps.Z"
+    ],
+    "ground_truth": "other"
+}

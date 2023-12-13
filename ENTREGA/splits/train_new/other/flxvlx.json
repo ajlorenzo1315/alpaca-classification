@@ -1,0 +1,10 @@
+{
+    "Title": "Concert Software Release",
+    "Body": "In order to make Concert work on your system, you must have the following: Sparcstation 4,5,10, or 20 with 32+ MB of memory GNU's g++ compiler version 2.7.2 GNU's gmake, a make program is used to build Concert executables, so you cannot compile programs without it.",
+    "link": [
+        "http://www-csag.cs.uiuc.edu/projects/concert/platforms.html",
+        "http://www-csag.cs.uiuc.edu/projects/concert/release-notice.html",
+        "ftp://prep.ai.mit.edu/pub/gnu"
+    ],
+    "ground_truth": "other"
+}

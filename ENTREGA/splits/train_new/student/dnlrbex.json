@@ -1,0 +1,10 @@
+{
+    "Title": "Amir's Home Page",
+    "Body": "The ins and outs of my existence I am graduate student in the Department of Computer Science at the University of Wisconsin, Madison.",
+    "link": [
+        "mailto:amir@cs.wisc.edu",
+        "http://www.cs.wisc.edu/~amir/resume.ps",
+        "http://www.delphi.com/xf"
+    ],
+    "ground_truth": "student"
+}

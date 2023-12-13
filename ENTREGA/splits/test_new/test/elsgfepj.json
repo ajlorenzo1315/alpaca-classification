@@ -1,0 +1,10 @@
+{
+    "Title": "Shadow Tip",
+    "Body": "The depth buffer is turned into a \"volume\" data set by stacking it with itself in such a way that it overlaps all the vertices in the original objects.",
+    "link": [
+        "http://www.tc.cornell.edu:80/DX/DXTIPS/calculate.html",
+        "http://www.tc.cornell.edu:80/DX/DXTIPS/shadow.net",
+        "http://www.tc.cornell.edu:80/DX/DXTIPS/shadow.cfg"
+    ],
+    "ground_truth": "unknow"
+}

@@ -1,0 +1,9 @@
+{
+    "Title": "Lee Ann Fisk",
+    "Body": "Date: Tue, 26 Nov 1996 17:49:33 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Fri, 02 Feb 1996 17:21:37 GMT Content-length: 556 Lee Ann Fisk Home page of Lee Ann Fisk Personal For the people who access this page because they are friends or relatives, this is my personal home page complete with family photos, etc.",
+    "link": [
+        "http://www.cs.unm.edu/~fisk/personal.html",
+        "http://www.cs.unm.edu/~fisk/serious.html"
+    ],
+    "ground_truth": "student"
+}

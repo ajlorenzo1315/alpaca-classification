@@ -1,0 +1,10 @@
+{
+    "Title": "Alan L. Cox",
+    "Body": "and Ph.D. degrees in Computer Science from the University of Rochester in 1988 and 1992, respectively.",
+    "link": [
+        "http://www.cs.rice.edu/",
+        "http://www.rice.edu/",
+        "http://www.cs.rice.edu/CS/Systems/software/treadmarks.html"
+    ],
+    "ground_truth": "faculty"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Chuck Eastman's Home Page",
+    "Body": "Eastman, C. (1994),\"A Data Model for Design Knowledge, in Knowledge-Based Computer-Aided Architectural Design , G. Carrera and Y. Kalay (eds.",
+    "link": [
+        "cad5.jpg",
+        "",
+        "cad4.jpg"
+    ],
+    "ground_truth": "faculty"
+}

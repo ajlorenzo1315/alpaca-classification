@@ -1,0 +1,9 @@
+{
+    "Title": "Quiz 2 - CS 302 Fall 1996 - Section 4",
+    "Body": "(2 points) What does a void keyword at the beginning of a function header or prototype mean?",
+    "link": [
+        "http://www.cs.wisc.edu/~cs302",
+        "http://www.cs.wisc.edu/~milo/cs302.html"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Presentation of Simulation Results ",
+    "Body": "Normalized bandwidth simply expresses the load/throughput as a fraction of the bisection-bandwidth limited maximum bandwidth of the network for uniform random traffic.",
+    "link": [
+        "http://www.cs.washington.edu/research/projects/lis/chaos/www/pcrcw.html",
+        "http://www.cs.washington.edu/research/projects/lis/chaos/www/cnf.html",
+        "http://www.cs.washington.edu/research/projects/lis/chaos/www/bnf.html"
+    ],
+    "ground_truth": "other"
+}

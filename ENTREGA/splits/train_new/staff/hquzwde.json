@@ -1,0 +1,10 @@
+{
+    "Title": "Mark Tinguely NDSU Staff",
+    "Body": "Media Vision ProMovieStudio Video Capture Driver for FreeBSD (ISA card) .",
+    "link": [
+        "http://www.cs.ndsu.NoDak.edu/~tinguely/hookie.html",
+        "http://www.freebsd.org",
+        "http://www.cs.ndsu.NoDak.edu/~tinguely/casselton_nd/index.html"
+    ],
+    "ground_truth": "staff"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "SNeRG:  Ontological Mediation",
+    "Body": "When two agents are using different ontologies, communication cannot occur unless the agents can agree on the meaning of words and phrases.",
+    "link": [
+        "http://www.cs.buffalo.edu/pub/sneps/WWW",
+        "http://www.cs.buffalo.edu/",
+        "http://wings.buffalo.edu"
+    ],
+    "ground_truth": "project"
+}

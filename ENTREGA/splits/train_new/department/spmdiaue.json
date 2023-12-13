@@ -1,0 +1,10 @@
+{
+    "Title": "Computer Science Department",
+    "Body": "Programs in the department lead to the Bachelor of Science degree with a major in Computer Science.",
+    "link": [
+        "http://www.mtsu.edu/academic/compsci/chair.html",
+        "http://www.mtsu.edu/academic/compsci/comp.policies.html",
+        "http://www.mtsu.edu/academic/compsci/univ.policies.html"
+    ],
+    "ground_truth": "department"
+}

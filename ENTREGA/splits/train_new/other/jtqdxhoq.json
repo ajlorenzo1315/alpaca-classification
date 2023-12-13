@@ -1,0 +1,10 @@
+{
+    "Title": "Sean Landis' Fall 718 Context-Based Image Retrieval Project Page",
+    "Body": "Content-based image retrieval is the semantic analysis and retrieval of images.",
+    "link": [
+        "#Introduction",
+        "#Background",
+        "#Manual Image Analysis"
+    ],
+    "ground_truth": "other"
+}

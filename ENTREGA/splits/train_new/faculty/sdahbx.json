@@ -1,0 +1,10 @@
+{
+    "Title": " Lorna Stewart ",
+    "Body": "University of Toronto.",
+    "link": [
+        "http://web.cs.ualberta.ca/home.html",
+        "http://web.cs.ualberta.ca/UAlberta.html",
+        "mailto:stewart@cs.ualberta.ca"
+    ],
+    "ground_truth": "faculty"
+}

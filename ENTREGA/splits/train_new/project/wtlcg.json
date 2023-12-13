@@ -1,0 +1,10 @@
+{
+    "Title": "The Zoo Homepage",
+    "Body": "Date: Tue, 26 Nov 1996 00:02:05 GMT Server: Apache/1.2-dev Connection: close Content-Type: text/html Last-Modified: Tue, 29 Oct 1996 16:36:39 GMT ETag: \"1f320-e70-32763297\" Content-Length: 3696 Accept-Ranges: bytes The Zoo Homepage Welcome to the Zoo !",
+    "link": [
+        "http://www.ai.mit.edu/",
+        "http://www.ai.mit.edu/projects/cognobotics/",
+        "http://www.ai.mit.edu/projects/cog"
+    ],
+    "ground_truth": "project"
+}

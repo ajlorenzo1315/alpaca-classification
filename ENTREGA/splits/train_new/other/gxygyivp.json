@@ -1,0 +1,10 @@
+{
+    "Title": "Indian Classical Music",
+    "Body": "You should note that I (have at least tried to) rigorously use my own transliteration scheme for all Indian names and terms.",
+    "link": [
+        "news:rec.music.indian.classical",
+        "http://www.cs.wisc.edu/~krisna/rn/rn.html",
+        "mailto:krishna@cs.wisc.edu"
+    ],
+    "ground_truth": "other"
+}

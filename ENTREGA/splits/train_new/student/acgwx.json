@@ -1,0 +1,10 @@
+{
+    "Title": "Bobby® Krupczak Information Page ",
+    "Body": "Contact information: College of Computing 801 Atlantic Drive Georgia Institute of Technology Atlanta, Georgia 30332-0280 404.894.6739 404.894.0272 (fax) E-mail : rdk@cc.gatech.edu rdk@empiretech.com *Bob and its derivatives are trademarks of the Microsoft Corporation **Photo of me after 5 years of grad school courtesy of McDonalds Corporation .",
+    "link": [
+        "http://www.gatech.edu/Computing.html",
+        "http://www.gatech.edu/TechHome.html",
+        "http://www.cc.gatech.edu/computing/Telecomm/playground/"
+    ],
+    "ground_truth": "student"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "John C. Mallery",
+    "Body": "Selected Writings `` The Open Meeting: A Web-Based System for Conferencing and Collaboration ,'' with R. Hurwitz, Proceedings of The Fourth International Conference on The World-Wide Web , Boston: MIT, December 12, 1995.",
+    "link": [
+        "http://www.ai.mit.edu/people/jcma/Yosemite_Valley_L.gif",
+        "http://www.ai.mit.edu/people/jcma/el-capitan-the-nose-topo.gif",
+        "http://www.primenet.com/~midds/Nose.html"
+    ],
+    "ground_truth": "staff"
+}

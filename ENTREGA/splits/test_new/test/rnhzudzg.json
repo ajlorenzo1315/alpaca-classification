@@ -1,0 +1,10 @@
+{
+    "Title": "No title",
+    "Body": "More live action with a picture of UW's Red Square (refreshed every five minutes), .. note that it might rain there.",
+    "link": [
+        "http://www.cs.washington.edu/htbin-post/finger/pighin@cs",
+        "http://www.cs.washington.edu/",
+        "http://www.washington.edu/"
+    ],
+    "ground_truth": "unknow"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "CS 531: Advanced Compiler Construction",
+    "Body": "Since late homework is such a hassle to deal with, you will be penalized substantially for turning you work in late.",
+    "link": [
+        "http://www.cs.byu.edu/info/pegbert.html",
+        "http://www.cs.byu.edu/courses/cs531/syllabus.html",
+        "http://www.cs.byu.edu/courses/cs531/program1.html"
+    ],
+    "ground_truth": "course"
+}

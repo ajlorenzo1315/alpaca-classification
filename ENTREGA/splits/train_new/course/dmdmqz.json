@@ -1,0 +1,10 @@
+{
+    "Title": "ECE 552 Home Page. ",
+    "Body": "Professor and TA: Prof. Kewal Saluja Mr. Dan Sorin General Information Course Outline Course Conduct A Midterm Syllabus is now available.",
+    "link": [
+        "http://www.engr.wisc.edu/ece/index.html",
+        "http://www.wisc.edu/wiscinfo/uwwww.html",
+        "http://www.cae.wisc.edu/~sorin"
+    ],
+    "ground_truth": "course"
+}

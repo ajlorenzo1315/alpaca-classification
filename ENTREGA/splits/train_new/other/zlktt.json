@@ -1,0 +1,10 @@
+{
+    "Title": "Lecture 10 slides",
+    "Body": "This is the Tristan da Cunhan pedigree which has loops but is still solvable with a good peeling sequence.",
+    "link": [
+        "slide1.html",
+        "slide2.html",
+        "slide3.html"
+    ],
+    "ground_truth": "other"
+}

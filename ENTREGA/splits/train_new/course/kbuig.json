@@ -1,0 +1,10 @@
+{
+    "Title": "CSE 180 Home Page",
+    "Body": "Server: Netscape-Communications/1.1 Date: Wednesday, 20-Nov-96 23:25:12 GMT Last-modified: Monday, 03-Jun-96 12:31:16 GMT Content-length: 3080 Content-type: text/html CSE 180 Home Page CSE 180 - X Window Programming Laboratory - Summer I 1996 Please DO NOT print copies of this material on the CETS printers!",
+    "link": [
+        "http://www.cis.upenn.edu/~cse180/syllabus.ps",
+        "http://www.cis.upenn.edu/~cse180/handin.html",
+        "news://netnews.upenn.edu/upenn.cis.cse180"
+    ],
+    "ground_truth": "course"
+}

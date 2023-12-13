@@ -1,0 +1,10 @@
+{
+    "Title": "No title",
+    "Body": "Another reason why some articles are not rated is that you are the first GroupLens user to rate the article.",
+    "link": [
+        "mailto:bmiller@cs.umn.edu.",
+        "http://www.cs.umn.edu/Research/GroupLens/glfaq.html#WhatisCF",
+        "http://www.cs.umn.edu/Research/GroupLens/glfaq.html#WhatisGL"
+    ],
+    "ground_truth": "other"
+}

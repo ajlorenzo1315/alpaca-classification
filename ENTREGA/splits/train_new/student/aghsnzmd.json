@@ -1,0 +1,10 @@
+{
+    "Title": "\n\tGeorgia Institute of Technology --- \n\tGraduate Students --- \n\tC Carlyle Rood\n",
+    "Body": "Date: Thu, 21 Nov 1996 22:11:46 GMT Server: Apache/1.1.1 Content-type: text/html Content-length: 1255 Last-modified: Wed, 07 Aug 1996 04:51:52 GMT Georgia Institute of Technology --- Graduate Students --- C Carlyle Rood Welcome to the home page of C. Carlyle Rood I am a graduate student at Georgia Tech, earning my Masters in Computer Science.",
+    "link": [
+        "http://www.cc.gatech.edu/",
+        "http://east.isx.com",
+        "http://www.nessie.com/"
+    ],
+    "ground_truth": "student"
+}

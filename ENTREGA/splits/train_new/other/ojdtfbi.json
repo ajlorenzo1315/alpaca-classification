@@ -1,0 +1,10 @@
+{
+    "Title": "\nSome Cool links\n",
+    "Body": "Date: Tue, 05 Nov 1996 00:13:15 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Sat, 28 Sep 1996 19:25:24 GMT Content-length: 1379 Some Cool links Acads Like to enter the world of academia ?",
+    "link": [
+        "http://www.cs.wisc.edu/~kristint/dbmshome.html",
+        "http://www.arborsoft.com/papers/intro.html",
+        "http://www-db.stanford.edu"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": " Anindya's Homepage ",
+    "Body": "We have developed a very fast message passing layer called U-Net and an implementation of Active Messages and Split-C on U-Net that show performance at par with parallel programs running on the CM-5 and the Meiko CS-2.",
+    "link": [
+        "http://www.cs.cornell.edu/Info/People/basu/real-me.html",
+        "mailto:basu@cs.cornell.edu",
+        "http://www.cs.cornell.edu:8000"
+    ],
+    "ground_truth": "student"
+}

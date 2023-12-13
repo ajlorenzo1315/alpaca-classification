@@ -1,0 +1,10 @@
+{
+    "Title": " DAKOTA Home Page ",
+    "Body": "The demo version runs the no-server version which means that the user can work on only one screen at a time.",
+    "link": [
+        "telnet://ndsun.cs.ndsu.nodak.edu",
+        "http://ndsun.cs.ndsu.nodak.edu/www/DAKOTA/doc.html>download</a> either the <b>Tutorial</b> or the <b>Users Manual</b>. \n</ul>\nWe would welcome comments, suggestions for improving and enhancing the System. \nPlease mail your responses to (<a href=",
+        "mailto:nygard@ndsun.cs.ndsu.nodak.edu"
+    ],
+    "ground_truth": "other"
+}

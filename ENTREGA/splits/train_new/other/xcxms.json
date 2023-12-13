@@ -1,0 +1,10 @@
+{
+    "Title": "\nJack's Lo-down on WWW Computer pages\n",
+    "Body": "Date: Tue, 10 Dec 1996 21:10:05 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Mon, 13 May 1996 18:42:12 GMT Content-length: 7516 Jack's Lo-down on WWW Computer pages Jack's Lo-down on WWW Computer pages General WWW Computer Architecture Home Page SPEC CPU95 Academic 1994 CRA Taulbee Survey FCRC '96 Brief Info Micro-29 '96 Conference Information CSE590K - Compiler Seminar The Spin Project -- Compiler Effort ACM Graduate student affairs Micro 27 conference Info Micro 28 Conference Info Frequently Asked Questions about the UW CS&E Web IEEE Compcon '95 Info PLDI '95 Info PLDI '96 Info 9th ACM ICS Info A Collection of Computer Science Bibliographies in BibTeX Format (UNC mirror) A Collection of Computer Science Bibliographies in BibTeX Format Rishiyur S. Nikhil's Home Page IEEE Technical Committee on Architecture Hydra Home Page PLDI'96 Information 10th ACM International Conference on Supercomputing ISCA'96 Information Pixel-Planes Home Page The AGASSIZ project The Berkeley Player.",
+    "link": [
+        "http://www.cs.washington.edu/homes/jlo/computers/computers.html",
+        "http://www.cs.wisc.edu/~arch/www/",
+        "http://www.specbench.org/osg/cpu95/"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "CSE471 --- Computer Design and Organization",
+    "Body": "Date: Mon, 02 Dec 1996 14:51:11 GMT Server: NCSA/1.4.2 Content-type: text/html CSE471 --- Computer Design and Organization CSE471 --- Computer Design and Organization General Information Meets: MWF 10:30-11:20, Loew 106 Instructor: Ted Kehl Office Hours: Wednesday 2-3, Thursday 11.30-12.30 E-mail address: ted@cs Office: Sieg 211  543-2421 TA: Meng-Hee Heng Office Hour: Mon 3.00-4.30, Thur 1.30-3.00 Sieg 326A E-mail address: menghee@cs Catalog Description CPU instruction addressing models, CPU structure and functions, computer arithmetic and logic unit, register transfer level design, hardware and microprogram control, memory hierarchy design and organization, I/O and system components interconnection.",
+    "link": [
+        "day01n.ps",
+        "day02n.ps",
+        "day04n.ps"
+    ],
+    "ground_truth": "other"
+}

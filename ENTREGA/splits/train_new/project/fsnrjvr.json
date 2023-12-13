@@ -1,0 +1,10 @@
+{
+    "Title": "High Performance Transaction Processing Group",
+    "Body": "We use semantics in several ways: to define a new correctness criterion for concurrent (non-serializable) transaction execution, to decompose transactions into smaller units so that locks can be released early, and to design a new concurrency control that guarantees correct execution when these units are interleaved.",
+    "link": [
+        "http://www.cs.sunysb.edu",
+        "http://www.cs.sunysb.edu/~gerstl/group/acc.html",
+        "http://www.cs.sunysb.edu/~gerstl/group/modular.html"
+    ],
+    "ground_truth": "project"
+}

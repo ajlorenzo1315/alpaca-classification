@@ -1,0 +1,10 @@
+{
+    "Title": "Faculty Research Interests : Greg Morrisett ",
+    "Body": "Teaching CS 611: Semantics of Programming Languages (Fall 1996) CS 512: Advanced Language Implementation (Spring 1996) Selected Papers Semantics of Memory Management for Polymorphic Languages , Greg Morrisett and Robert Harper , CMU Technical Report CMU-CS-96-176 [Also appears as CMU-CS-FOX-96-04], September, 1996.",
+    "link": [
+        "http://www.cs.cornell.edu",
+        "http://www.cornell.edu",
+        "#Research"
+    ],
+    "ground_truth": "faculty"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "The BioSCAN Project",
+    "Body": "How to submit a query to the BioSCAN server by e-mail.",
+    "link": [
+        "http://genome.cs.unc.edu/whatsnew.shtml",
+        "http://genome.cs.unc.edu/project.html",
+        "http://genome.cs.unc.edu/client-tutorial.html"
+    ],
+    "ground_truth": "unknow"
+}

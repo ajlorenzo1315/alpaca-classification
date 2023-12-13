@@ -1,0 +1,10 @@
+{
+    "Title": "CS310 Documents",
+    "Body": "Date: Tue, 05 Nov 1996 00:33:15 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Wed, 02 Oct 1996 20:36:47 GMT Content-length: 829 CS310 Documents CS310 Course Lecture Notes are available from the DoIT Document Center.",
+    "link": [
+        "http://www.cs.wisc.edu/~cs310-1/310/syllabus.ps",
+        "http://www.cs.wisc.edu/~cs310-1/310/description.ps",
+        "http://www.cs.wisc.edu/~cs310-1/310/Fortran.ps"
+    ],
+    "ground_truth": "other"
+}

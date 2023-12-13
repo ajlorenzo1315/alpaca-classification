@@ -1,0 +1,10 @@
+{
+    "Title": " 3D WireFrame Rotation ",
+    "Body": "Java can create applets, which is a program that can react to user input and dynamically change.",
+    "link": [
+        "Final2/Cone/ConeM.html",
+        "Final2/Cube/CubeM.html",
+        "Final2/Cylinder/CylinderM.html"
+    ],
+    "ground_truth": "student"
+}

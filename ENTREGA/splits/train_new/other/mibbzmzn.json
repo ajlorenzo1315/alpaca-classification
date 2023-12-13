@@ -1,0 +1,10 @@
+{
+    "Title": "OOPS Group Publications",
+    "Body": "Position paper for the 1993 ACM OOPSLA Workshop on Memory Management and Garbage Collection , Washington D.C., September 1993.",
+    "link": [
+        "ftp://ftp.cs.utexas.edu/pub/garbage/rttdshrt.ps",
+        "ftp://ftp.cs.utexas.edu/pub/garbage/rttdshrt.ps",
+        "ftp://ftp.cs.utexas.edu/pub/garbage/neely-thesis.ps.gz"
+    ],
+    "ground_truth": "other"
+}

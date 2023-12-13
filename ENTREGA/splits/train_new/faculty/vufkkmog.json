@@ -1,0 +1,10 @@
+{
+    "Title": " Eric Neufeld's Home Page ",
+    "Body": "Two major international conferences, one organized by the Association for Uncertainty in AI and one organized by the Society for Artificial Intelligence and Statistics , discuss probabilistic and statistical AI, and statistical approaches to AI problems have entered the AI mainstream.",
+    "link": [
+        "http://www.cs.usask.ca/people.shtml",
+        "http://www.cs.usask.ca/",
+        "http://www.usask.ca"
+    ],
+    "ground_truth": "faculty"
+}

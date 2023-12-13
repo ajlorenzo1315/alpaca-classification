@@ -1,0 +1,10 @@
+{
+    "Title": " ASHA-Madison ",
+    "Body": "If you want to volunteer for Asha or would like to know more about it, please contact Shivakumar , or any of us.",
+    "link": [
+        "http://www-leland.stanford.edu/group/asha",
+        "http://www-leland.stanford.edu/group/asha/calendar/",
+        "http://www.cs.wisc.edu/~poosala/asha/concert.html"
+    ],
+    "ground_truth": "other"
+}

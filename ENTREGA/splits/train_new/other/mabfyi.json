@@ -1,0 +1,10 @@
+{
+    "Title": "CS617 Lecture Notes",
+    "Body": "MPP Primer II: Networks (8-31-1994) Introduction to the characteristics of networks used in massively parallel machines LogP model of parallel computation (9-2-1994) Introduction to models of parallel computation: PRAM, BSP, LogP.",
+    "link": [
+        "notes/CS617-01_Overview.ps.gz",
+        "notes/CS617-02_MPP_Nets.ps.gz",
+        "notes/CS617-03_MPP_Route.ps.gz"
+    ],
+    "ground_truth": "other"
+}

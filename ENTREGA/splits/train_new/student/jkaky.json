@@ -1,0 +1,10 @@
+{
+    "Title": "Greg Sullivan",
+    "Body": "College of Computer Science (CCS) in which I am a Ph.D. student in the graduate program .",
+    "link": [
+        "http://www.ccs.neu.edu/home/gregs/vita.html",
+        "ftp://ftp.ccs.neu.edu/pub/people/gregs/papers/index.html",
+        "http://www.ccs.neu.edu/home/gregs/family.html"
+    ],
+    "ground_truth": "student"
+}

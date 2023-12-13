@@ -1,0 +1,10 @@
+{
+    "Title": "UW CSE - Bookstores in and around Seattle\n",
+    "Body": "Powell's has new and used books by the millions.",
+    "link": [
+        "http://www.cs.washington.edu/area/bookstores//",
+        "#recollection",
+        "http://www.esl.net/mbt/"
+    ],
+    "ground_truth": "other"
+}

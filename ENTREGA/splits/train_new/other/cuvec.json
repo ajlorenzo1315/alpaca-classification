@@ -1,0 +1,10 @@
+{
+    "Title": " CS718 Project-  Interdependent Particle Systems ",
+    "Body": "When particle X is reached (or any of the fire particles in the bin) it notes that there are now 9 particles in the bin when their used to be 15.",
+    "link": [
+        "http://www.tc.cornell.edu/Visualization/tools/dx.html",
+        "http://www.tc.cornell.edu/Visualization/Education/cs718/fall1995/mccune/final/Images/FlamePic0.jpg",
+        "http://www.tc.cornell.edu/Visualization/Education/cs718/fall1995/mccune/final/flame.mpg"
+    ],
+    "ground_truth": "other"
+}

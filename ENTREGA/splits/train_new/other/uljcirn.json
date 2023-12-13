@@ -1,0 +1,10 @@
+{
+    "Title": "Projects - UW Astro Dept",
+    "Body": "Server: Netscape-Communications/1.1 Date: Wednesday, 11-Dec-96 23:02:13 GMT Last-modified: Tuesday, 20-Aug-96 20:36:52 GMT Content-length: 1983 Content-type: text/html Projects - UW Astro Dept Washburn Observatory, 1878  ---  Pine Bluff Observatory, 1957  ---  WIYN Observatory, 1994 Projects, Facilities and Groups WIYN Observatory Pine Bluff Observatory Washburn Observatory Space Astronomy Laboratory Hot Star Group WISP The Wide-field Imaging Survey Polarimeter WUPPE The Wisconsin Ultraviolet Photo-Polarimeter Experiment WHaM!",
+    "link": [
+        "http://www.astro.wisc.edu/wiyn/wiyn.html",
+        "http://www.sal.wisc.edu/PBO/",
+        "http://www.astro.wisc.edu/~dolan/Washburn/"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "\nWWW Computer Architecture Home Page\n",
+    "Body": "of Computing, Imperial College, London, U.K. Iowa State Advanced Computer Architecture Research IRISA, CAPS team (Compiler, Parallel Architecture and Systems) APARA team , IRIT Kyushu University, Japan - PPRAM Project Loughborough University, United Kingdom - Electronic Systems Design Group Lund University, Sweden - Cachemire Project McGill-Concordia - EARTH McMaster University Advanced Computer Design Laboratory Michigan High Performance Microprocessor Project Minnesota - Agassiz Minnesota - DICE Minnesota High-Performance Parallel Computing Research Group MIT Computer Architecture Group MIT - Alewife MIT Concurrent VLSI Architecture MIT - StarT-NG University of Newcastle Virtual Memory research Group New Mexico State Parallel Architecture Research Lab NC State - TINKER Notre Dame Laboratory for Advanced Parallel Systems The NYU Ultracomputer Research Project Ohio State Parallel Architecture and Communication Group Hardware Compilation Group , Oxford University Dept.",
+    "link": [
+        "#Topten",
+        "#Groups",
+        "http://www.cs.wisc.edu/~arch/www/people.html"
+    ],
+    "ground_truth": "other"
+}

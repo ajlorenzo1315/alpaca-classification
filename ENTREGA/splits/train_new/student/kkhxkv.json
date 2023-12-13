@@ -1,0 +1,10 @@
+{
+    "Title": "Tom Acree",
+    "Body": "The conference is in May, and if you are going, be sure to check us out!",
+    "link": [
+        "http://www.bgsu.edu/",
+        "http://www.cs.bgsu.edu/~tacree/window-view.html",
+        "http://www.cs.bgsu.edu/~tacree/screen-view.html"
+    ],
+    "ground_truth": "student"
+}

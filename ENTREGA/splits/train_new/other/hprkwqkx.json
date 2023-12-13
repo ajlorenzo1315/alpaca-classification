@@ -1,0 +1,10 @@
+{
+    "Title": "Computer Science",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Wednesday, 15-Jan-97 01:46:50 GMT Content-Type: text/html Content-Length: 836 Last-Modified: Friday, 25-Oct-96 15:22:02 GMT Computer Science CCS - NEU Ph.D.",
+    "link": [
+        "http://www.ccs.neu.edu/home/wand/catalog/catalog.html",
+        "http://www.ccs.neu.edu/gradschool/index.html",
+        "http://www.cs.sunysb.edu/"
+    ],
+    "ground_truth": "other"
+}

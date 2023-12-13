@@ -1,0 +1,10 @@
+{
+    "Title": "CS395T: Multimedia Communication and Databases ",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Tuesday, 07-Jan-97 15:25:03 GMT Content-Type: text/html Content-Length: 8689 Last-Modified: Friday, 10-Nov-95 21:22:47 GMT CS395T: Multimedia Communication and Databases CS395T: Multimedia Communication and Databases Fall 1995 Instructor: Harrick M. Vin Table of Contents Course Description General Information Prerequisites Synopsis Textbook(s) Course Requirements Office Hours Reading List Multimedia Conferencing Routing and Multicasting Internet Services Processor Scheduling and OS Support Multimedia Databases Course Description General Information Course Title: CS395T: Multimedia Communication and Databases Instructor: Professor Harrick M. Vin Semester: Fall 1995 Meeting Time: Friday 10:00 - 1:00, TAY 3.144 Prerequisites Graduate standing, familiarity with basic concepts in network protocols and operating system design, and the CS395T: Multimedia Systems course.",
+    "link": [
+        "http://www.cs.utexas.edu/users/vin/index.html",
+        "http://www.cs.utexas.edu/users/vin/cs395t.html#course",
+        "http://www.cs.utexas.edu/users/vin/cs395t.html#general"
+    ],
+    "ground_truth": "course"
+}

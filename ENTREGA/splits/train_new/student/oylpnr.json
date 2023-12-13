@@ -1,0 +1,10 @@
+{
+    "Title": "Brad Topol Information Page",
+    "Body": "Topol, Brad and Stasko, John T. and Sunderam, Vaidy S., \" Integrating Visualization Support into Distributed Computing Systems ,\" Graphics, Visualization, and Usability Center, Georgia Institute of Technology, Atlanta, GA, Technical Report GIT-GVU-94/38, October 1994.",
+    "link": [
+        "http://www.cc.gatech.edu/gvu/gvutop.html",
+        "http://www.cc.gatech.edu/gvu/softviz/SoftViz.html",
+        "http://www.cc.gatech.edu/gvu/softviz/parviz/pvanimOL/pvanimOL.html"
+    ],
+    "ground_truth": "student"
+}

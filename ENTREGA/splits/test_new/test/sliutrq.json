@@ -1,0 +1,10 @@
+{
+    "Title": "CS 302 Section 70 Lecture Notes - Week 1",
+    "Body": "You don't have to worry about where in memory SUM,TERM1,and TERM2 are located...the compiler takes care of that for you.",
+    "link": [
+        "http://www.cs.wisc.edu/~tick/cs302.html#text",
+        "http://www.cs.wisc.edu/~tick/cs302/Short.html",
+        "http://www.cs.wisc.edu/~tick/tick.html"
+    ],
+    "ground_truth": "unknow"
+}

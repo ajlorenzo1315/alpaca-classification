@@ -1,0 +1,10 @@
+{
+    "Title": "Rutgers INFO",
+    "Body": "People , Schools & Colleges , Homepages of Academic Departments & Programs , Undergraduate Majors , Centers, Bureaus, & Institutes , Places & Transportation , Other Rutgers' Directories Rutgers Now Events Calendar,  News,  Weather.",
+    "link": [
+        "http://info.rutgers.edu/help.shtml",
+        "http://webWatcher.rutgers.edu/",
+        "http://info.rutgers.edu/motdhot.html"
+    ],
+    "ground_truth": "other"
+}

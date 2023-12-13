@@ -1,0 +1,10 @@
+{
+    "Title": " Networking Research Laboratory, UT-Austin ",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Monday, 06-Jan-97 19:47:19 GMT Content-Type: text/html Content-Length: 1478 Last-Modified: Saturday, 16-Nov-96 01:48:38 GMT Networking Research Laboratory, UT-Austin Networking Research Laboratory Department of Computer Sciences The University of Texas at Austin Research activities of the laboratory span the entire development cycle of network protocols, from design and specification, to verification, testing, performance analysis, implementation, and performance tuning.",
+    "link": [
+        "http://net.cs.utexas.edu/Welcome.html",
+        "http://net.cs.utexas.edu/docs/university.html",
+        "http://net.cs.utexas.edu/users/lam"
+    ],
+    "ground_truth": "project"
+}

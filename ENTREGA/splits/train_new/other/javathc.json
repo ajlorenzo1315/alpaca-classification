@@ -1,0 +1,10 @@
+{
+    "Title": "Sound Editor",
+    "Body": "Amplitude Scaling This function is used to modify the amplitude of a range of samples to effect an increase or decrease in volume.",
+    "link": [
+        "http://www.cs.cornell.edu/Info/People/szuwen/szuwen.html",
+        "http://www.cs.cornell.edu/Info/People/szuwen/cs631/final.html",
+        "mailto:szuwen@cs.cornell.edu"
+    ],
+    "ground_truth": "other"
+}

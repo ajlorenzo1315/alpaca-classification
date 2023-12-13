@@ -1,0 +1,10 @@
+{
+    "Title": "Other AI Labs and AI Funding Agencies ",
+    "Body": "NASA Ames Research Center .",
+    "link": [
+        "http://www.arpa.mil",
+        "http://www.research.att.com/",
+        "http://ai.iit.nrc.ca/ai_point.html"
+    ],
+    "ground_truth": "other"
+}

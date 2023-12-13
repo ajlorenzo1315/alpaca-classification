@@ -1,0 +1,5 @@
+{
+    "Título": " Publications of Shun-Tak A. Leung",
+    "Cuerpo": "Improving the Performance of Runtime Parallelization. Proceedings of Fourth ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming , May 1993, pp. Leung. Speaker-independent isolated word recognition using word-based vector quantization and hidden Markov models. Proceedings of IEEE 1987 International Conference on Acoustics, Speech, and Signal Processing , April 1987, pp. Technical Reports Shun-Tak Leung. Array Restructuring for Cache Locality. Technical Report 96-08-01, August 1996. This is my thesis. Shun-Tak Leung and John Zahorjan. Technical Report 95-09-01, September 1995. A more concise version is here . Shun-Tak Leung and John Zahorjan. Technical Report 95-01-08, January 1995. Shun-Tak Leung and John Zahorjan. Restructuring Arrays for Efficient Parallel Loop Execution. Technical Report 94-02-01, February 1994. Shun-Tak Leung and John Zahorjan. Reordering Iterations in Runtime Loop Parallelization. Technical Report 92-12-07, December 1992.",
+    "ground_truth": "other"
+}

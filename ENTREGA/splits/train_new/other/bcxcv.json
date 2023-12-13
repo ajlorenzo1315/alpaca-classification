@@ -1,0 +1,8 @@
+{
+    "Title": "About CS304P",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Wednesday, 08-Jan-97 16:37:24 GMT Content-Type: text/html Content-Length: 1129 Last-Modified: Tuesday, 19-Mar-96 17:09:02 GMT About CS304P Introduction CS304P is the introductory programming course for both majors and non-majors.",
+    "link": [
+        "http://www.cs.utexas.edu/users/suzy/cs304p/pace.html"
+    ],
+    "ground_truth": "other"
+}

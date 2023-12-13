@@ -1,0 +1,10 @@
+{
+    "Title": "CS 540 Lisp",
+    "Body": "Date: Tue, 05 Nov 1996 00:27:53 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Tue, 03 Sep 1996 22:11:04 GMT Content-length: 2689 CS 540 Lisp CS 540 Lisp Local Lisp Help and FAQ Files Using GCL Common Lisp on Department Workstations (Fall, '96) Help Features in Lisp How to Debug in Lisp Some notes on Lisp style Some of the following documents were written for a previous version of CS 540, which used AKCL Common Lisp.",
+    "link": [
+        "http://www.cs.wisc.edu/~dyer/cs540/gcl-intro.html",
+        "http://www.cs.wisc.edu/~dyer/cs540/lisp-help.html",
+        "http://www.cs.wisc.edu/~dyer/cs540/debug-tutorial.html"
+    ],
+    "ground_truth": "unknow"
+}

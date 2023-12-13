@@ -1,0 +1,10 @@
+{
+    "Title": "Dynamic Graph Algorithms Monika Henzinger Monika Rauch Dynamic Graph Algorithm",
+    "Body": "Lower bounds for dynamic graph algorithms Michael L. Fredman and Monika R. Henzinger.",
+    "link": [
+        "http://www.cs.cornell.edu/Info/People/mhr/home.html",
+        "abstract/ab5.gif",
+        "http://www.cs.cornell.edu/Info/People/mhr/papers/cycle-equiv.ps"
+    ],
+    "ground_truth": "other"
+}

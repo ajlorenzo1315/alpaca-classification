@@ -1,0 +1,10 @@
+{
+    "Title": "Arvind H Nithrakashyap's home page",
+    "Body": "I am also working on consistency management issues in the context of software engineering.",
+    "link": [
+        "http://laser.cs.umass.edu/~nithraka/images/nithraka400.jpg",
+        "http://www.cs.umass.edu/",
+        "http://www.umass.edu"
+    ],
+    "ground_truth": "student"
+}

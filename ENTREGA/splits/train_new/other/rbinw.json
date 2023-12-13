@@ -1,0 +1,10 @@
+{
+    "Title": " Papers written by members of the Multiscalar Research Group ",
+    "Body": "Multiscalar Processors, G. S. Sohi, S. Breach,  and T. N. Vijaykumar, 22th International Symposium on Computer Architecture, 1995.",
+    "link": [
+        "http://www.cs.wisc.edu/~mscalar/",
+        "ftp://ftp.cs.wisc.edu/sohi/mscalar/tr1310.ps.Z",
+        "ftp://ftp.cs.wisc.edu/sohi/isca96.HBAT.ps.Z"
+    ],
+    "ground_truth": "other"
+}

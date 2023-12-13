@@ -1,0 +1,10 @@
+{
+    "Title": "\nUSC Information Sciences Institute\n",
+    "Body": "If you have reached this page, it is because of one of the following reasons: You have referred to www.isi.edu by its IP address, which has changed to 128.9.176.20, You have referenced www.isi.edu and your Domain Name Service still has the old IP address.",
+    "link": [
+        "http://www.isi.edu/",
+        "http://128.9.176.20/",
+        "mailto:action@isi.edu"
+    ],
+    "ground_truth": "other"
+}

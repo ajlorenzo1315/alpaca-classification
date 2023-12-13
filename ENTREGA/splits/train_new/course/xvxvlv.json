@@ -1,0 +1,10 @@
+{
+    "Title": "CSE373 Course Web Page",
+    "Body": "Topics to study for the midterm exam Information about the final exam Basic information on C, C++, and on using the g++ compiler Assignments Solutions to Assignments Teaching assistant information Schedule Webs for previous offerings of CSE 373: Winter 96 Autumn 95",
+    "link": [
+        "http://www.cs.washington.edu/education/courses/373/96a/project.html",
+        "http://www.cs.washington.edu/education/courses/373/96a/midterm-topics.html",
+        "http://www.cs.washington.edu/education/courses/373/96a/final-exam-info.html"
+    ],
+    "ground_truth": "course"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "CS304P - Programming Laboratory",
+    "Body": "Before asking for a grader, make sure you have a Cover Sheet, a hard-copy of your Top Down Design (except for Programs #1 and #2), and a hard-copy listing of your program source code.",
+    "link": [
+        "http://www.cs.utexas.edu/users/suzy/cs304p/testroom.html",
+        "http://www.cs.utexas.edu/users/suzy/cs304p/sak.html#Green",
+        "http://www.cs.utexas.edu/users/suzy/cs304p/testroom.html"
+    ],
+    "ground_truth": "other"
+}

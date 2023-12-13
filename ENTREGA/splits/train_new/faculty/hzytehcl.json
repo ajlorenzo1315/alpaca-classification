@@ -1,0 +1,10 @@
+{
+    "Title": "Dean Tullsen home page",
+    "Body": "Date: Thu, 21 Nov 1996 20:08:02 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Fri, 15 Nov 1996 00:06:52 GMT Content-length: 1154 Dean Tullsen home page Dean M. Tullsen I am an assistant professor in the Department of Computer Science and Engineering at the University of California, San Diego .",
+    "link": [
+        "http://www-cse.ucsd.edu/CSE_Home_Page.html",
+        "http://www.ucsd.edu",
+        "http://www-cse.ucsd.edu/users/tullsen/research.html"
+    ],
+    "ground_truth": "faculty"
+}

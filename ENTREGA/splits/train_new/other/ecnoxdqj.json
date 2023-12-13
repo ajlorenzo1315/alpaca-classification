@@ -1,0 +1,10 @@
+{
+    "Title": "Assignment 1: Handout",
+    "Body": "What To Turn In You must turn in: A copy of all source files, including intseq.c and the other files needed to compile your program.",
+    "link": [
+        "http://www.cs.wisc.edu/~cs367-2/assign1/intseq.h",
+        "http://www.cs.wisc.edu/~cs367-2/assign1/intseq.c",
+        "http://www.cs.wisc.edu/~cs367-2/assign1/prog1.c"
+    ],
+    "ground_truth": "other"
+}

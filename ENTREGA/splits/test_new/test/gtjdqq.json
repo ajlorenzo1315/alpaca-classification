@@ -1,0 +1,10 @@
+{
+    "Title": "Sameer's home page",
+    "Body": "I completed MS in Electrical Engineering here at Columbia (Class of '94).",
+    "link": [
+        "http://www.ctr.columbia.edu/~ee/",
+        "http://www.cc.columbia.edu/",
+        "http://www.cs.columbia.edu/CAVE/"
+    ],
+    "ground_truth": "unknow"
+}

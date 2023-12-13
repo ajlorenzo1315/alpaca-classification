@@ -1,0 +1,10 @@
+{
+    "Title": "The CHILLIN Inductive Logic Programming System ",
+    "Body": "In particular, it combines a bottom-up method similar to GOLEM with a top-down method similar to FOIL.",
+    "link": [
+        "ftp://ftp.cs.utexas.edu/pub/mooney/chillin",
+        "http://www.cs.utexas.edu/users/ml/ilp.html",
+        "file://ftp.cs.utexas.edu/pub/mooney/papers/chill-ml-94.ps.Z"
+    ],
+    "ground_truth": "other"
+}

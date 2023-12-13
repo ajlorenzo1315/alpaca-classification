@@ -1,0 +1,10 @@
+{
+    "Title": "CSC 506 Home Page",
+    "Body": "Date: Tue, 26 Nov 1996 18:46:41 GMT Server: NCSA/1.5.2 Last-modified: Fri, 15 Nov 1996 20:35:36 GMT Content-type: text/html Content-length: 1824 CSC 506 Home Page CSC/ECE 506 Architecture of Parallel Computers Fall 1996 Instructor: Dr. Edward Davis TA: Tim Davis Note: You can access hard copies of the homework solutions outside of Dr. Davis' office.",
+    "link": [
+        "http://www.csc.ncsu.edu/directory/bio/EDavis.html",
+        "http://www.csc.ncsu.edu/eos/info/csc506_info/www/syllabus.ps",
+        "http://www.csc.ncsu.edu/eos/info/csc506_info/www/hw1.txt"
+    ],
+    "ground_truth": "course"
+}

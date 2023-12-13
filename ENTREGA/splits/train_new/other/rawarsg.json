@@ -1,0 +1,10 @@
+{
+    "Title": "CS 110 Section 2, Syllabus - Weeks 1-8",
+    "Body": "5.1, 5.3, 5.5 - 5.7 Due: Program #2 (25%) Week 6 Topic: User-defined functions and subroutines.",
+    "link": [
+        "http://www.cs.wisc.edu/~tick/cs110.html#syllabus",
+        "http://www.cs.wisc.edu/~bestor/bestor.html",
+        "mailto:bestor@cs.wisc.edu"
+    ],
+    "ground_truth": "other"
+}

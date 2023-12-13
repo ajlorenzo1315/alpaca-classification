@@ -1,0 +1,10 @@
+{
+    "Title": "Lory D. Molesky (lory@cs.umass.edu)",
+    "Body": "In addition to research in database systems, he has also worked on Real-Time Operating Systems, Distributed and Parallel Debugging tools, and the development of Interactive Computer Graphics Packages.",
+    "link": [
+        "http://www-ccs.cs.umass.edu/~lory/home.html",
+        "http://www.cs.umass.edu/",
+        "http://www.cs.umass.edu/"
+    ],
+    "ground_truth": "student"
+}

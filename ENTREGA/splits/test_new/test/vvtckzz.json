@@ -1,0 +1,10 @@
+{
+    "Title": "Mihnea Marinescu's home page",
+    "Body": "You can contact me at NYU: e-mail: marinesc@cs.nyu.edu finger: marinesc@lang2.cs.nyu.edu or marinesc@slinky.cs.nyu.edu phone: (212) 998-3485 fax: (212) 995-4123 New York University, Department of Computer Science 715 Broadway, Room 715, New York, NY 10003 Interests Program Analysis (abstract interpretation) Program Transformation (mainly partial evaluation) Semantics of Concurrency Languages for Concurrent and Parallel Computing Natural Language Processing (statistic methods) Text Information Retrieval Publications T. Strzalkowski, J.P. Carballo, M. Marinescu - \"Natural Language Information Retrieval in Digital Libraries\" in Proc.",
+    "link": [
+        "http://cs.nyu.edu/cs",
+        "http://www.cs.nyu.edu/cs/faculty/goldberg/",
+        "mailto:marinesc@cs.nyu.edu"
+    ],
+    "ground_truth": "unknow"
+}

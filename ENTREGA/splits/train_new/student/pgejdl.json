@@ -1,0 +1,10 @@
+{
+    "Title": "Erik's Mosaic home page",
+    "Body": "The UGCS WWW Home Page also has lots of neat stuff.",
+    "link": [
+        "http://hope.caltech.edu/winfree/Images/winfreeface.gif",
+        "http://hope.caltech.edu/winfree/.plan",
+        "http://hope.caltech.edu/winfree/bio.html"
+    ],
+    "ground_truth": "student"
+}

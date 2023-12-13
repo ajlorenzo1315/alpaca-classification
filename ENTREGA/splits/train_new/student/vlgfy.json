@@ -1,0 +1,10 @@
+{
+    "Title": "Linus Tauro's Home Page",
+    "Body": "Date: Thu, 21 Nov 1996 22:56:03 GMT Server: Apache/1.1.1 Content-type: text/html Content-length: 1778 Last-modified: Tue, 23 Apr 1996 23:38:11 GMT Linus Tauro's Home Page Welcome to Linus's Home Page About me.. My work..",
+    "link": [
+        "http://www.cs.ucr.edu/~tauro/me.html",
+        "http://www.cs.ucr.edu/~tauro/work.html",
+        "http://corsa.ucr.edu/"
+    ],
+    "ground_truth": "student"
+}

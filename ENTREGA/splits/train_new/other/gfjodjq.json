@@ -1,0 +1,10 @@
+{
+    "Title": "class Ray Tracer",
+    "Body": "The modularity of this approach allows a user to easily extend any specific function of a ray tracer by subclassing one of the existing classes and adding the desired functionality.",
+    "link": [
+        "#DOC.DOCU",
+        "RayTracerObjects.3.html",
+        "SupportingObjects.30.html"
+    ],
+    "ground_truth": "other"
+}

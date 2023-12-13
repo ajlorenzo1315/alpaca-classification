@@ -1,0 +1,10 @@
+{
+    "Title": "Vlad's homely page",
+    "Body": "Other members of my group are Paul Stodghill and Indu Kodukula Publications Here is what Henry Kissinger has once said about lawyers and professors: My friends in the legal profession like to remind me of a comment by a British judge on the difference between lawyers and professors.",
+    "link": [
+        "http://www.cs/Info/People/bau/bau.html",
+        "http://regin.cs.cornell.edu:8001",
+        "http://www.cs.cornell.edu"
+    ],
+    "ground_truth": "student"
+}

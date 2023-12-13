@@ -1,0 +1,6 @@
+{
+    "Title": " Lecture notes - Chapter 5 - Integer Arithmetic",
+    "Body": "rules: - just add all the bits - throw away any carry out of the msb - (same as for unsigned!)",
+    "link": [],
+    "ground_truth": "other"
+}

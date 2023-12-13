@@ -1,0 +1,10 @@
+{
+    "Title": "Madirakshi Das's home page ",
+    "Body": "Date: Thursday, 21-Nov-96 23:25:31 GMT Server: NCSA/1.3 MIME-version: 1.0 Content-type: text/html Last-modified: Thursday, 18-Apr-96 16:36:46 GMT Content-length: 1220 Madirakshi Das's home page Madirakshi Das's home page Hi!",
+    "link": [
+        "http://vis-www.cs.umass.edu/",
+        "http://www.cs.umass.edu/",
+        "http://www.cs.umass.edu/rcfdocs/newhome"
+    ],
+    "ground_truth": "student"
+}

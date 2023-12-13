@@ -1,0 +1,10 @@
+{
+    "Title": "Samuel A. Rebelsky",
+    "Body": "Teaching I'm teaching two courses this term: CS4 , a survey course intended for nonmajors and CS68 , a majors-only course on programming languages.",
+    "link": [
+        "http://www.cs.uchicago.edu/",
+        "mailto:samr@cs.dartmouth.edu",
+        "http://www.dartmouth.edu"
+    ],
+    "ground_truth": "faculty"
+}

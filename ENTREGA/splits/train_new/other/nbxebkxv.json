@@ -1,0 +1,10 @@
+{
+    "Title": "Elke A. Rundensteiner's homepage",
+    "Body": "on Knowledge and Data Engineering, 1995 (a revised version of the Tech.",
+    "link": [
+        "ftp://ftp.eecs.umich.edu/people/rundenst/papers/r-96-1.ps",
+        "ftp://ftp.eecs.umich.edu/people/rundenst/papers/r-96-2.ps",
+        "ftp://ftp.eecs.umich.edu/people/rundenst/papers/r-96-3.ps"
+    ],
+    "ground_truth": "other"
+}

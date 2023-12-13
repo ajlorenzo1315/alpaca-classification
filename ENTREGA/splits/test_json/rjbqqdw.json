@@ -1,0 +1,5 @@
+{
+    "Título": "\n L. Levin. Theory of Computation.\t",
+    "Cuerpo": "Date: Tue, 14 Jan 1997 23:00:17 GMT Server: NCSA/1.5 Content-type: text/html L. Levin. Theory of Computation. Leonid Levin. Fundamentals of Computing. The DVI file; The Postscript file; The BUGGY HTML files. The LaTeX sources: Foreword. Models of Computations; Polynomial Time and Church's Thesis. Pointer Machines. Simulation. Universal Algorithm; Diagonal Results. Universal Turing Machine. Uncomputability; Godel Theorem. Games; Alternation; Exhaustive Search; Time v. Space. How to Win. Example of a Narrow Computation: Inverting a Function. An NP-Complete Problem: Tiling. Randomness and Complexity. Pseudo-randomness. Cryptography. References.",
+    "ground_truth": "unknown"
+}

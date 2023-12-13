@@ -1,0 +1,10 @@
+{
+    "Title": "Amy's Home Page",
+    "Body": "This site contains the most accurate and up-to-date information to be found anywhere in the world on the life, times, and TV show preferences of this extraordinary figure.",
+    "link": [
+        "http://www.cs.wisc.edu/~ejhazen/biography.html",
+        "http://www.cs.wisc.edu/~ejhazen/biography.html",
+        "http://www.cs.wisc.edu/~ejhazen/leisure.html"
+    ],
+    "ground_truth": "other"
+}

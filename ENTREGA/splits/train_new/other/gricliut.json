@@ -1,0 +1,10 @@
+{
+    "Title": "Learning in Games: Othello, Checkers, and Hearts",
+    "Body": "Similarly, using the internet communication and principles described in the technical report, other games can be implemented.",
+    "link": [
+        "ftp://ftp.cs.umass.edu/pub/internet-games/tr-95-67.ps",
+        "ftp://ftp.cs.umass.edu/pub/internet-games/",
+        "http://forum.swarthmore.edu/~jay/learn-game/index.html"
+    ],
+    "ground_truth": "other"
+}

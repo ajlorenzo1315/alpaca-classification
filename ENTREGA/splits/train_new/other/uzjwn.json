@@ -1,0 +1,10 @@
+{
+    "Title": "Research",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Monday, 06-Jan-97 21:41:42 GMT Content-Type: text/html Content-Length: 1314 Last-Modified: Tuesday, 27-Aug-96 02:47:28 GMT Research Research \"I have no gift, only a passionate curiosity.\"",
+    "link": [
+        "http://www.cs.utexas.edu/users/risto",
+        "http://www.cs.utexas.edu/users/nn/pages/publications/nlp.html",
+        "http://www.cs.utexas.edu/users/rupert/ps/ACL-94.paper.ps"
+    ],
+    "ground_truth": "other"
+}

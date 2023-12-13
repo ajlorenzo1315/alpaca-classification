@@ -1,0 +1,10 @@
+{
+    "Title": "CS 395T and PHL 391",
+    "Body": "We will examine some systems for formal reasoning while examining a number of mechanical formal methods tools that support these different systems.",
+    "link": [
+        "http://www.mcs.anl.gov/qed/index.html",
+        "http://www.cybercom.net/~rbjones/rbjpub/logic/qedres00.htm",
+        "ftp://ftp.cs.utexas.edu/pub/boyer/qed-manifesto"
+    ],
+    "ground_truth": "unknow"
+}

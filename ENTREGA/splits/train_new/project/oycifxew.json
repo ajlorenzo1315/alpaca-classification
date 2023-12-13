@@ -1,0 +1,10 @@
+{
+    "Title": "Active Messages",
+    "Body": "The result will be a clearer understanding of the communication architecture and trade-offs in the hardware organization of the network interface.",
+    "link": [
+        "http://now.cs.berkeley.edu/AM/am-spec-2.0.ps",
+        "http://now.cs.berkeley.edu/Fastcomm/fastcomm.html",
+        "http://now.cs.berkeley.edu/Xfs/xfs.html"
+    ],
+    "ground_truth": "project"
+}

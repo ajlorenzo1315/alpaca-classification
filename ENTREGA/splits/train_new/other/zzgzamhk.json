@@ -1,0 +1,10 @@
+{
+    "Title": " Papers of Michael C. Ferris ",
+    "Body": "[FP92] M. C. Ferris and A.",
+    "link": [
+        "ftp://ftp.cs.wisc.edu/math-prog/tech-reports/96-08.ps.Z",
+        "ftp://ftp.cs.wisc.edu/math-prog/tech-reports/95-22.ps.Z",
+        "ftp://ftp.cs.wisc.edu/math-prog/tech-reports/95-16.ps.Z"
+    ],
+    "ground_truth": "other"
+}

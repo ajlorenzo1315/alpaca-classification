@@ -1,0 +1,10 @@
+{
+    "Title": "CSE467 Sample Test Fixtures",
+    "Body": "Date: Wed, 08 Jan 1997 21:43:59 GMT Server: NCSA/1.4.2 Content-type: text/html CSE467 Sample Test Fixtures CSE467: Advanced Logic Design Carl Ebeling, Spring 1996 Sample test fixtures You may find these sample .tf Verilog test fixtures useful as examples during the quarter.",
+    "link": [
+        "example1.tf",
+        "example2.tf",
+        "example3.tf"
+    ],
+    "ground_truth": "other"
+}

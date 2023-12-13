@@ -1,0 +1,10 @@
+{
+    "Title": "Emma Y. Wu's Home Page",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Monday, 06-Jan-97 19:27:34 GMT Content-Type: text/html Content-Length: 4690 Last-Modified: Monday, 05-Feb-96 23:03:48 GMT Emma Y. Wu's Home Page E mma Y. W u Chinese girl coming to US on August 18, 1995, to study in the Department of Computer Science of the University of Texas at Austin .",
+    "link": [
+        "http://www.cs.utexas.edu",
+        "http://www.utexas.edu",
+        "http://www.ihep.ac.cn/china.html"
+    ],
+    "ground_truth": "student"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": " Weiru's  Home Page",
+    "Body": "It is customary to begin a series of dates with a great deal of entertainment, a moderate amount of food, and the merest suggestion of affection.",
+    "link": [
+        "http://www.cs.wisc.edu/~weiruc/mailme.html",
+        "http://www.cs.wisc.edu/cgi-bin/finger?weiru@cs.wisc.edu",
+        "http://www.pku.edu.cn/"
+    ],
+    "ground_truth": "student"
+}

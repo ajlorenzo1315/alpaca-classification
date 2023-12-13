@@ -1,0 +1,10 @@
+{
+    "Title": "CS-432 Home Page",
+    "Body": "Homeworks will be available on the CS-432 home page on a Tuesday and will be due in class on Thursday of the following week.",
+    "link": [
+        "http://www.cs.cornell.edu/",
+        "http://www.cornell.edu/",
+        "http://cs.cornell.edu/Info/Courses/Spring-96/CS432/POST"
+    ],
+    "ground_truth": "course"
+}

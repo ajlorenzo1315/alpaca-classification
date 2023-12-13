@@ -1,0 +1,6 @@
+{
+    "Title": "Assignment 4",
+    "Body": "The program will have the user enter values for variables a, b, and c. It will then find all integer solutions to the equation where both x and y are greater than or equal to -5 and less than or equal to +5.",
+    "link": [],
+    "ground_truth": "other"
+}

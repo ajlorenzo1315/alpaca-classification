@@ -1,0 +1,10 @@
+{
+    "Title": "Sacha's Home Page",
+    "Body": "Server: Netscape-Commerce/1.1 Date: Tuesday, 26-Nov-96 17:58:18 GMT Last-modified: Monday, 28-Oct-96 18:04:44 GMT Content-length: 1957 Content-type: text/html Sacha's Home Page Sacha's Home Page Office: Room 437, Village at Vanderbilt Email: dawes@vuse.vanderbilt.edu Office hours: Tues. 12-2, Thurs.",
+    "link": [
+        "mailto:dawes@vuse.vanderbilt.edu",
+        "http://ece.vuse.vanderbilt.edu/users/dawes",
+        "http://ece.vuse.vanderbilt.edu/multimedia"
+    ],
+    "ground_truth": "student"
+}

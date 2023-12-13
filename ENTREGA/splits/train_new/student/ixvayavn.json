@@ -1,0 +1,10 @@
+{
+    "Title": "Przemek Pardyak's Home Page",
+    "Body": "I am a third year graduate student of Computer Science at the University of Washington.",
+    "link": [
+        "http://www.cs.indiana.edu/finger/gateway?pardy@cs.washington.edu",
+        "http://www.cs.washington.edu/homes/pardy/interests.html",
+        "http://www.cs.washington.edu/homes/pardy/resume.txt"
+    ],
+    "ground_truth": "student"
+}

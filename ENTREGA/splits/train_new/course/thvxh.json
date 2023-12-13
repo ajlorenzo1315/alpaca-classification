@@ -1,0 +1,10 @@
+{
+    "Title": "\nCS 736 - Fall 1995\n",
+    "Body": "Grading There will be two exams (a midterm and a final) and a project.",
+    "link": [
+        "http://www.cs.wisc.edu/~solomon/solomon.html",
+        "mailto:solomon@cs.wisc.edu",
+        "#presentations"
+    ],
+    "ground_truth": "course"
+}

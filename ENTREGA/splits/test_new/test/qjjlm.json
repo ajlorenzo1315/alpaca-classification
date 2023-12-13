@@ -1,0 +1,10 @@
+{
+    "Title": "No title",
+    "Body": "Date: Wednesday, 15-Jan-97 00:19:46 GMT Server: NCSA/1.1 MIME-version: 1.0 Content-type: text/html Last-modified: Friday, 30-Aug-96 20:36:51 GMT Degrees Held Ph.D. in Computer Science , Iowa State University , 1994 M.S.",
+    "link": [
+        "http://www.cs.iastate.edu",
+        "http://www.iastate.edu",
+        "http://www.cs.iastate.edu"
+    ],
+    "ground_truth": "unknow"
+}

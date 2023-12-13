@@ -1,0 +1,10 @@
+{
+    "Title": "Hubba Bubba",
+    "Body": "Date: Thursday, 21-Nov-96 23:46:15 GMT Server: NCSA/1.1 MIME-version: 1.0 Content-type: text/html Last-modified: Sunday, 17-Nov-96 19:23:48 GMT Hubba Bubba John P Tomei What Picture?",
+    "link": [
+        "http://www.yahoo.com/headlines/news/",
+        "http://www.zdnet.com/",
+        "http://www.providence.edu/"
+    ],
+    "ground_truth": "student"
+}

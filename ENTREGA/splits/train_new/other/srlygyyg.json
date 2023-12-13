@@ -1,0 +1,10 @@
+{
+    "Title": "Tools for Research",
+    "Body": "CS Research Resources This is a listing especially for computer science.",
+    "link": [
+        "http://www.cs.umd.edu/documents/CSresources.html",
+        "http://www.ama.caltech.edu/resources.html",
+        "http://www.cchem.berkely.edu/ChemResources/index.html"
+    ],
+    "ground_truth": "other"
+}

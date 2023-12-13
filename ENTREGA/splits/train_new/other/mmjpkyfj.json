@@ -1,0 +1,10 @@
+{
+    "Title": "Resume of Shailesh Kumar",
+    "Body": "Design and implementation of a Data Encryption and Decryption unit to be used as an add-on card for online data communication.",
+    "link": [
+        "http://www.cs.utexas.edu/users/skumar/",
+        "http://www.cs.utexas.edu",
+        "http://www.utexas.edu"
+    ],
+    "ground_truth": "other"
+}

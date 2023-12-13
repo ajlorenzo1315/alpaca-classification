@@ -1,0 +1,10 @@
+{
+    "Title": "Robin Duquette",
+    "Body": "Date: Tue, 26 Nov 1996 02:58:59 GMT Server: Apache/1.0.0 Content-type: text/html Content-length: 2884 Last-modified: Mon, 18 Nov 1996 23:56:55 GMT Robin Duquette My home page is best viewed with (or a newer version) or .",
+    "link": [
+        "http://home.netscape.com/comprod/mirror/index.html",
+        "http://www.microsoft.com/ie/ie.HTM",
+        "http://www.cs.mcgill.ca/~duquette"
+    ],
+    "ground_truth": "student"
+}

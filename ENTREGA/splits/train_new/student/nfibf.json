@@ -1,0 +1,10 @@
+{
+    "Title": "Adam Finkelstein",
+    "Body": "Early in 1997 I will join the Computer Science Department at Princeton University .",
+    "link": [
+        "http://www.cs.washington.edu/homes/adam/index2.html",
+        "http://www.cs.washington.edu/",
+        "http://www.washington.edu/"
+    ],
+    "ground_truth": "student"
+}

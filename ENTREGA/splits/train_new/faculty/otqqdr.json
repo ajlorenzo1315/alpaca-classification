@@ -1,0 +1,10 @@
+{
+    "Title": " HomePage for Robert Wilensky (Wilensky@CS.Berkeley.EDU) ",
+    "Body": "Here are my UC Berkeley Computer Science technical reports on various subjects: Extending the Lexicon by Exploiting Subregularities Sentences, Situations and Propositions The Berkeley UNIX Consultant Project Primal Content and Actual Content: An Antidote to Literal Meaning Some Problems and Proposals for Knowledge Representation UC--A Progress Report Talking to Unix in English: An Overview of an On-line Consultant You can examine any UC Berkeley Computer Science Technical Report, and quite a few other reports, via our UC Berkeley Technical Report Server .",
+    "link": [
+        "http://http.cs.berkeley.edu",
+        "http://http.cs.berkeley.edu/~wilensky/CS294-5/home.html",
+        "http://elib.cs.berkeley.edu"
+    ],
+    "ground_truth": "faculty"
+}

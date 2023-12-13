@@ -1,0 +1,10 @@
+{
+    "Title": " Bruce Buchanan's Home Page",
+    "Body": "Buchanan, and H.B.",
+    "link": [
+        "mailto:buchanan@cs.pitt.edu",
+        "http://www.cs.pitt.edu",
+        "http://www.cs.pitt.edu"
+    ],
+    "ground_truth": "faculty"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "David Shaw, etc.",
+    "Body": "David Shaw I'm glad I'm alive, am I Quote 'o the Hour!",
+    "link": [
+        "http://www.cs.jhu.edu/~dshaw/quotes.html",
+        "http://www.nnic.noaa.gov/cgi-bin/netcast.do-it?state=baltimore%2C+md&area=Local+Forecast&html=yes&match=strong",
+        "http://www.baltimore.com/"
+    ],
+    "ground_truth": "student"
+}

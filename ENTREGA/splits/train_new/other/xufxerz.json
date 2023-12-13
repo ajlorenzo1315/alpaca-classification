@@ -1,0 +1,10 @@
+{
+    "Title": "My Resume",
+    "Body": "Education: Cornell University Ithaca, NY 1995- Master's of Engineering Computer Science Expected date of graduation: May 1996 Worcester Polytechnic Institute Worcester,  MA Double Major: 1990- 1994 1st  Major Bachelor of Science Electrical Engineering Concentration:  Computer and Electronics Engineering 1990- 1995 2nd Major Bachelor of Science Computer Science Concentration:  Hardware Orientation / Scientific Applications Graduation Date:  May, 1995 with honors Cumulative GPA: 3.3 Concentration GPA: 3.5 Coursework: Machine Organization (Assembly) VLSI I&II Software Engineering Techniques of Programming/C++ Analysis of Algorithms Numerical Analysis Computer Architecture Logic Circuits Computer Graphics Finite Automata Graduate level: Computer Networks Multimedia Artificial Intelligence Operating Systems Projects/Research: March 1993 Interactive Qualifying Project: Virtual Reality in Education A study of the possible application of virtual reality as an aid to students.",
+    "link": [
+        "#83599",
+        "#83567",
+        "#83610"
+    ],
+    "ground_truth": "other"
+}

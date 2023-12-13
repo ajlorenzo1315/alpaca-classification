@@ -1,0 +1,10 @@
+{
+    "Title": "WELCOME to Enrico's Page",
+    "Body": "Date: Tuesday, 26-Nov-96 03:07:43 GMT Server: NCSA/1.1 MIME-version: 1.0 Content-type: text/html Last-modified: Saturday, 05-Oct-96 05:57:10 GMT WELCOME to Enrico's Page \"I hate quotations.",
+    "link": [
+        "http://www.eff.org/blueribbon.html",
+        "http://www.cs.nmsu.edu/~epontell/file/node1.html#SECTION00010000000000000000",
+        "file/picture.html"
+    ],
+    "ground_truth": "student"
+}

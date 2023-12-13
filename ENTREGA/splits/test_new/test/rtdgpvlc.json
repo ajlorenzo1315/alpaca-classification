@@ -1,0 +1,10 @@
+{
+    "Title": "Richard Newman-Wolfe",
+    "Body": "Several students and I are working on DCS v2 (Distributed Conferencing System, version 2) and we meet T at 11:00 in CSE-344.",
+    "link": [
+        "http://www.cis.ufl.edu/~nemo/nemo.gif",
+        "http://www.cis.ufl.edu/~nemo/john.gif",
+        "http://www.uflib.ufl.edu/cwis3.html"
+    ],
+    "ground_truth": "unknow"
+}

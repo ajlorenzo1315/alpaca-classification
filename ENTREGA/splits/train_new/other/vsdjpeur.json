@@ -1,0 +1,10 @@
+{
+    "Title": "Center for Intelligent Information Retrieval (CIIR)",
+    "Body": "Date: Wed, 15 Jan 1997 02:10:12 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Tue, 03 Dec 1996 18:50:59 GMT Content-length: 5865 Center for Intelligent Information Retrieval (CIIR) The Center for Intelligent Information Retrieval is an NSF funded S/IUCRC Center located in the Computer Science Department 's Center for Real-Time and Intelligent Complex Computing Systems (CRICCS) at the University of Massachusetts, Amherst .",
+    "link": [
+        "http://ciir.cs.umass.edu/info/whodeweb.html",
+        "http://www.nsf.gov/",
+        "http://www.cs.umass.edu"
+    ],
+    "ground_truth": "other"
+}

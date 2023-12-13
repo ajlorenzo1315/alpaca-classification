@@ -1,0 +1,10 @@
+{
+    "Title": "Learning",
+    "Body": "Two systems we have constructed and tested are: AdventurePlayer, a trip planning microworld that can be anchored to a Jasper macrocontext.",
+    "link": [
+        "http://cswww.vuse.vanderbilt.edu/~biswas/Research/ile/ilebib.html",
+        "http://www.vuse.vanderbilt.edu/~owens/home.html",
+        "http://www.vuse.vanderbilt.edu/~biswas/links.html#AIED"
+    ],
+    "ground_truth": "unknow"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "The SodaBot Home Page",
+    "Body": "We also present a new language for programming the basic software agent whose primitives are designed around human-level descriptions of agent activity.",
+    "link": [
+        "http://www.ai.mit.edu/",
+        "http://www.ai.mit.edu/projects/hci/hci.html",
+        "http://www.ai.mit.edu/people/mhcoen/sodabot.ps"
+    ],
+    "ground_truth": "project"
+}

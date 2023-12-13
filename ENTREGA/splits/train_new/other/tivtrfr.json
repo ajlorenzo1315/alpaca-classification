@@ -1,0 +1,10 @@
+{
+    "Title": "What's New at the QR Group",
+    "Body": "A Guide to Programming Spot, a Mobile Robot of the University of Texas at Austin .",
+    "link": [
+        "http://www.cs.utexas.edu/users/qr/welcome.html",
+        "http://www.cs.utexas.edu/users/qr/QR-book.html",
+        "http://www.cs.utexas.edu/users/qr/frank-review.html"
+    ],
+    "ground_truth": "other"
+}

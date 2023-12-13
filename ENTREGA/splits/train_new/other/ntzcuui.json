@@ -1,0 +1,8 @@
+{
+    "Title": "CS 537 - Quiz #8",
+    "Body": "The size of the disk would allow large virtual address spaces or allow more processes to run, but would not increase CPU utilization.",
+    "link": [
+        "http://www.cs.wisc.edu/~bart"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Brian Dewey's Home Page",
+    "Body": "The images of Northern Ireland.",
+    "link": [
+        "http://www.cs.washington.edu/homes/dewey/music.html",
+        "http://www.cs.washington.edu/homes/dewey/reading1996.html",
+        "http://www.cs.washington.edu/homes/dewey/draft/draft.html"
+    ],
+    "ground_truth": "student"
+}

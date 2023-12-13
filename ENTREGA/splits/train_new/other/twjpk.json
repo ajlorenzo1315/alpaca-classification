@@ -1,0 +1,10 @@
+{
+    "Title": "Zeno Potpourri",
+    "Body": "This is precisely what this project deals with-- taking frozen instants of time, shipping them over a network, then putting them together to create motion.",
+    "link": [
+        "http://www.cs.cornell.edu/Info/Projects/zeno/Potpourri/arrow.html",
+        "http://www.cs.cornell.edu/Info/Projects/zeno/Potpourri/mpegator.pdf",
+        "http://www.valdosta.peachnet.edu/~rbarnett/phi/zeno.html"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Roger Moar",
+    "Body": "My thesis work involves safety and security in download extensible operating systems.",
+    "link": [
+        "http://www.csc.uvic.ca/cgi-bin/imagemap/maps/menuc.map",
+        "http://panda.csc.uvic.ca/",
+        "http://apertos0.csc.UVic.CA/~rmoar/xsecurity.html"
+    ],
+    "ground_truth": "student"
+}

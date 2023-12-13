@@ -1,0 +1,10 @@
+{
+    "Title": "CSE 457 Help",
+    "Body": "More information on all three can be found on these pages: Department info on Mosaic NCSA Mosaic Netscape Communications About Lynx Using Netscape on the Indys Though Netscape isn't officially supported in the IndyLab, we have a copy for you to use.",
+    "link": [
+        "http://www.cs.washington.edu/education/courses/457/notables.html",
+        "http://www.cs.washington.edu/info/mosaic.html",
+        "http://www.ncsa.uiuc.edu"
+    ],
+    "ground_truth": "other"
+}

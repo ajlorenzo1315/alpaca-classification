@@ -1,0 +1,10 @@
+{
+    "Title": "CSE 135 Announcements",
+    "Body": "Date: Mon, 02 Dec 1996 14:29:52 GMT Server: NCSA/1.4.2 Content-type: text/html CSE 135 Announcements CSE 135: Important Announcements Check this page regularly for important announcements.",
+    "link": [
+        "announcements/053195.html",
+        "announcements/042695.html",
+        "announcements/042495.html"
+    ],
+    "ground_truth": "other"
+}

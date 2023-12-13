@@ -1,0 +1,10 @@
+{
+    "Title": "CSE 457 Home Page",
+    "Body": "Date: Thu, 21 Nov 1996 22:21:42 GMT Server: NCSA/1.4.2 Content-type: text/html CSE 457 Home Page 1996 Autumn Quarter Welcome to the World Wide Web hypermedia document for CSE/457, which contains a bounty of information about the class.",
+    "link": [
+        "mailto:pighin@cs",
+        "http://www.cs.washington.edu/education/courses/457/help/",
+        "http://www.cs.washington.edu/education/courses/457/about/personnel/"
+    ],
+    "ground_truth": "course"
+}

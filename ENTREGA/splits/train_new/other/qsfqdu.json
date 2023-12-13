@@ -1,0 +1,10 @@
+{
+    "Title": "\nConnecting to MSUnet from Off-campus\n",
+    "Body": "Connecting to the MSUnet with a Phone Modem You can connect to Pilot, Gopher, and other Internet services using a personal computer, a modem, and communication software that emulates a VT100 terminal..  Communication software for the Macintosh and IBM PC-compatibles can be obtained free of charge from the MSU Computer Store .",
+    "link": [
+        "http://web.cps.msu.edu/~cps100/dorms.html",
+        "http://cstore.msu.edu",
+        "http://home.netscape.com"
+    ],
+    "ground_truth": "other"
+}

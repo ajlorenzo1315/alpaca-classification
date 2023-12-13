@@ -1,0 +1,10 @@
+{
+    "Title": "CS 110 Sections 1&2 Home Page",
+    "Body": "This is primarily an exercise in general problem solving so you do not have to write any FORTRAN code (though you may if you want to and have time) and your solution/algorithm should not even be dependent on a particular programming language such as FORTRAN.",
+    "link": [
+        "http://www.cs.wisc.edu/~pubs/grad-guidebook/node9.html#cs110",
+        "http://www.cs.wisc.edu/~tick/cs110/Announcements.html",
+        "#lectures"
+    ],
+    "ground_truth": "course"
+}

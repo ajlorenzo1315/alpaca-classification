@@ -1,0 +1,10 @@
+{
+    "Title": "CS631 Project Presentation Schedule",
+    "Body": "A list of project proposals is available here .",
+    "link": [
+        "http://www.cs.cornell.edu/Info/Courses/Current/CS631/projects.html",
+        "http://www.csuglab.cornell.edu/Info/People/mpb10/project/project.html",
+        "http://www.csuglab.cornell.edu/Info/People/mpb10/homepage.html"
+    ],
+    "ground_truth": "other"
+}

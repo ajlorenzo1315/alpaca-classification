@@ -1,0 +1,10 @@
+{
+    "Title": "Stuart Schechter",
+    "Body": "This fall I start graduate school in Computer Science at Harvard .",
+    "link": [
+        "http://www.osu.edu",
+        "http://www.microsoft.com",
+        "http://www.harvard.edu"
+    ],
+    "ground_truth": "student"
+}

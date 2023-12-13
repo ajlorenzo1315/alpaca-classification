@@ -1,0 +1,10 @@
+{
+    "Title": " Diyu Yan's home page",
+    "Body": "Anyway, currently I'm a Master of Engineering student in the Department of Computer Science at Cornell University .",
+    "link": [
+        "http://cs.cornell.edu/Info/Courses/Spring-96/CS514/index.html",
+        "http://cs.cornell.edu/Info/Courses/Spring-96/CS432/cs432.html",
+        "gopher://gopher.cornell.edu:70/00/.files/COURSES_FILES/CSEN5"
+    ],
+    "ground_truth": "unknow"
+}

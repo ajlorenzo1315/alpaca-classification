@@ -1,0 +1,10 @@
+{
+    "Title": "TETRA: A Multi-platform Instruction Trace Analyzer",
+    "Body": "Included in the source package are useful goodies including: instruction decoders, disassemblers, and dependency analyzers with machine-independent interfaces (for the MIPS and SPARC architectures), a QPT trace generator, a QPT trace decoder, a GNUPLOT compatible distribution generator, and a portable fixed size heap allocator.",
+    "link": [
+        "http://www.cs.wisc.edu/~austin/austin.html",
+        "http://www.cs.wisc.edu/~larus/warts.html",
+        "http://www.cs.wisc.edu/~larus/warts.html"
+    ],
+    "ground_truth": "unknow"
+}

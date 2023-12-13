@@ -1,0 +1,10 @@
+{
+    "Title": " Matt Aken's home page",
+    "Body": "Researched massively parallel computer vision at the Vision and Autonomous Systems Center (VASC) .",
+    "link": [
+        "http://www.ius.cs.cmu.edu/cgi-bin/vface?matt+aken",
+        "http://www.cs.unm.edu/~maken/da/all.jpg",
+        "http://www.cs.unm.edu/~maken/subjects.html"
+    ],
+    "ground_truth": "student"
+}

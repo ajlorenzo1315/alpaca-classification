@@ -1,0 +1,10 @@
+{
+    "Title": "U of M CS Faculty",
+    "Body": "Shashi Shekhar shekhar@cs.umn.edu (612) 624-8307 Neural networks, software engineering databases, and distributed artificial intelligence.",
+    "link": [
+        "http://www.cs.umn.edu/~du",
+        "mailto:du@cs.umn.edu",
+        "http://www.cs.umn.edu/~dzd"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Publications of Klaus E. Schauser",
+    "Body": "Compiler-controlled Multithreading for Lenient Parallel Languages K. E. Schauser, D. E. Culler, and T. von Eicken Proceedings of the 1991 Conference on Functional Programming Languages and Computer Architecture, Cambridge, MA, August, 1991.",
+    "link": [
+        "http://www.cs.ucsb.edu/~schauser/papers/BIBLIO.bib",
+        "http://www.cs.ucsb.edu/~schauser/papers/97-usenix.ps",
+        "http://www.cs.ucsb.edu/~schauser/papers/96-scizzl.ps"
+    ],
+    "ground_truth": "other"
+}

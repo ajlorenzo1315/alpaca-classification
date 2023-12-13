@@ -1,0 +1,10 @@
+{
+    "Title": "CS 736 - Advanced Operating Systems - Fall 1996",
+    "Body": "So, the formula for being successful in this class is (1) read the papers independently, (2) discuss them in your reading group, trying to identify the important issues, and (3) participate in the class discussion of the papers.",
+    "link": [
+        "http://www.cs.wisc.edu/~bart/cs736.f96/reading_list.html",
+        "http://www.cs.wisc.edu/~bart/cs736.f96/reading_sched.html",
+        "http://www.cs.wisc.edu/~bart/cs736.f96/paper1.html"
+    ],
+    "ground_truth": "course"
+}

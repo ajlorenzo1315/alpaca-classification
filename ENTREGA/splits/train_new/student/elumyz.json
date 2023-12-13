@@ -1,0 +1,10 @@
+{
+    "Title": "Martin Jägersand's URCS Home Page",
+    "Body": "In Karlstad I studied at Älvkullegymnasiet After high school I went to Chalmers which is located in the city of Gothenburg on the Swedish (Atlantic) west coast.",
+    "link": [
+        "http://www.cs.rochester.edu/u/jag/jag3beardandbike.jpg",
+        "http://www.cs.rochester.edu/u/jag/PercAct/PercAct.html",
+        "http://www.cs.rochester.edu/u/jag/PercAct/dvfb.html"
+    ],
+    "ground_truth": "student"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "CS 736 - Project List",
+    "Body": "As with the other group, there should typically be only one process running at a time on any given host.",
+    "link": [
+        "http://www.cs.wisc.edu/~newhall/wsclockstar.ps",
+        "ftp://grilled.cs.wisc.edu/technical_papers/paging.ps.Z",
+        "ftp://grilled.cs.wisc.edu/technical_papers/fuzz.ps.Z"
+    ],
+    "ground_truth": "other"
+}

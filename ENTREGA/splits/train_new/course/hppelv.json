@@ -1,0 +1,10 @@
+{
+    "Title": "CS 596 Computational Complexity Theory Home Page",
+    "Body": "To be familiar with significant recent results in computational complexity theory.",
+    "link": [
+        "#info",
+        "#newsgroups",
+        "#stuff"
+    ],
+    "ground_truth": "course"
+}

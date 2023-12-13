@@ -1,0 +1,10 @@
+{
+    "Title": "Course Schedules",
+    "Body": "Follow the link at the end of the page for information on ordering a printed Course Schedule.",
+    "link": [
+        "http://www.utexas.edu/student/registrar/schedules/spring/fr-contents.html",
+        "http://www.utexas.edu/student/registrar/schedules/fall/fr-contents.html",
+        "http://www.utexas.edu/student/registrar/schedules/summer/fr-contents.html"
+    ],
+    "ground_truth": "unknow"
+}

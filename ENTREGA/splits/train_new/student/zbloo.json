@@ -1,0 +1,10 @@
+{
+    "Title": "Jonathan Lichtner's Home Page",
+    "Body": "Date: Tue, 26 Nov 1996 16:54:05 GMT Server: Apache/1.1.1 Content-type: text/html Content-length: 1965 Last-modified: Fri, 26 Jul 1996 20:12:04 GMT Jonathan Lichtner's Home Page Jonathan's Home Page Self Portrait My All-Time Favorite Quote \"Socialism won't work except in Heaven where they don't need it and in Hell where they already have it.\"",
+    "link": [
+        "http://www.cs.ualberta.ca/~lichtner/cindy.html",
+        "http://calvin.bu.edu/bios/Leacock.html",
+        "http://www.cs.ualberta.ca/~lichtner/quotes.html"
+    ],
+    "ground_truth": "student"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "CS611:  Semantics of Programming Languages",
+    "Body": "Rather, the goal of this course is to study the principles of formal notation for describing computations, and tools for analyzing and proving properties of computations .",
+    "link": [
+        "#Description",
+        "http://www.cs.cornell.edu/Info/Courses/Current/CS611/handouts.html",
+        "http://www.cs.cornell.edu/Info/Courses/Current/CS611/lectures.html"
+    ],
+    "ground_truth": "unknow"
+}

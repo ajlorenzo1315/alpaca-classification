@@ -1,0 +1,10 @@
+{
+    "Title": " Links of Interest ",
+    "Body": "Date: Tue, 05 Nov 1996 20:54:26 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Thu, 29 Aug 1996 21:33:02 GMT Content-length: 7972 Links of Interest Links of Interest Send suggestions for additions to this list to fischer@cs.wisc.edu Other UW-Madison Links CS Department CS Undergraduate Majors CS Graduate Students CS Faculty and Staff CS Department Technical Reports Campus Directory of Students, Faculty and Staff Graduate School Library Catalog Football Team Hoofers Clubs UW-Madison WiscInfo Server (gopher) Career Planning Graduate School Colleges and Universities around the World Computer Science Departments around the World Peterson's Guides Computer Science Programs Tips for Going to Graduate School (from Univ.",
+    "link": [
+        "http://www.cs.wisc.edu/",
+        "http://www.cs.wisc.edu/directories/csmajors.html",
+        "http://www.cs.wisc.edu/directories/gradlist.html"
+    ],
+    "ground_truth": "other"
+}

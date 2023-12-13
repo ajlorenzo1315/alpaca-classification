@@ -1,0 +1,10 @@
+{
+    "Title": "University of Mass Amherst Demonstration Home Page",
+    "Body": "Collegian NCAA tourney page Campus HyperTour A multimedia tour of the University of Massachusetts Amherst Local Information Local and Regional Information, Events, Schedules Campus Directory Services Directory information for campus faculty, staff and students Faculty Information Navigator The Office of Research, Graduate Studies and Economic Development provides information about faculty research, teaching and service.",
+    "link": [
+        "http://www.cs.umass.edu/rcfdocs/newhome/welcome.au",
+        "http://www.umassp.edu/",
+        "http://www.cs.umass.edu/rcfdocs/newhome/new/new.html"
+    ],
+    "ground_truth": "other"
+}

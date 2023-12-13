@@ -1,0 +1,10 @@
+{
+    "Title": "Ashish Deshpande's Home Page",
+    "Body": "Such equations are most commonly solved on a computer by approximating the derivatives using finite differences and advancing the solution forward in time using either an explicit or an implicit method.",
+    "link": [
+        "http://www.cs.yale.edu/HTML/YALE/CS/FrontDoor.html",
+        "http://www.cs.yale.edu/HTML/YALE/FrontDoor.html",
+        "http://spiderman.bu.edu/misc/india/"
+    ],
+    "ground_truth": "student"
+}

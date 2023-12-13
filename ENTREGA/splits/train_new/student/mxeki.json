@@ -1,0 +1,10 @@
+{
+    "Title": " Grzegorz Czajkowski's Homepage ",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Wednesday, 20-Nov-96 19:50:14 GMT Content-Type: text/html Content-Length: 1822 Last-Modified: Wednesday, 08-Nov-95 17:29:08 GMT Grzegorz Czajkowski's Homepage Grzegorz J. Czajkowski Department of Computer Science Cornell University Ithaca , NY 14853 office: (607) 255-9124 grzes@cs.cornell.edu I'm a second-year student in the Ph.D program in the Department of Computer Science at Cornell University in Ithaca , New York.",
+    "link": [
+        "http://www.cs.cornell.edu",
+        "http://www.cornell.edu",
+        "http://www.ithaca.ny.us"
+    ],
+    "ground_truth": "student"
+}

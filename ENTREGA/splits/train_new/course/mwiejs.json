@@ -1,0 +1,10 @@
+{
+    "Title": "CS595J--Readings in Multimedia, Digital Audio, and Computer Music",
+    "Body": "Topics: 1: Introduction: digital audio signal processing and computer music 2: Basic digital audio signals and transformations 3: Software sound synthesis and \"sound compilers\" 4: Spatial processing of sound 5: Representation of musical signals and data 6: Sound compression, transmission and storage formats 7: MIDI and real-time control processing 8: Music composition using computers 9: Practical software for multimedia computing 10: The \"Real-world\"--Conclusions",
+    "link": [
+        "news:ucsb.engr.compsci.cs595j",
+        "mailto:webmaster@create.ucsb.edu",
+        "http://www.create.ucsb.edu"
+    ],
+    "ground_truth": "course"
+}

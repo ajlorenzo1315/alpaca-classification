@@ -1,0 +1,10 @@
+{
+    "Title": " WEI LIU's Home Page ",
+    "Body": "Meantime I am working on my advanced degree in Computer Science.",
+    "link": [
+        "http://www.pitt.edu/",
+        "http://www.geocities.com/SiliconValley/1599/picture.html",
+        "http://www.maya.com/Local/mazur/daBurgh.html"
+    ],
+    "ground_truth": "student"
+}

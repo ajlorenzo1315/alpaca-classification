@@ -1,0 +1,10 @@
+{
+    "Title": "Department of Computer Science, The University of Iowa",
+    "Body": "Date: Tue, 26 Nov 1996 23:15:26 GMT Server: NCSA/1.5 Content-type: text/html Department of Computer Science, The University of Iowa T he U niversity of I owa D epartment of C omputer S cience The administrative offices of the Department of Computer Science at The University of Iowa are located in Room 14 of MacLean Hall.",
+    "link": [
+        "http://cs.uiowa.edu/icons/MLHbig.jpg",
+        "http://www.uiowa.edu/",
+        "http://cs.uiowa.edu/~bruell"
+    ],
+    "ground_truth": "department"
+}

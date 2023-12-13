@@ -1,0 +1,10 @@
+{
+    "Title": "Paul Stockmeyer's Home Page",
+    "Body": "Date: Mon, 25 Nov 1996 23:31:36 GMT Server: NCSA/1.4.1 Content-type: text/html Last-modified: Fri, 18 Oct 1996 15:46:19 GMT Content-length: 1821 Paul Stockmeyer's Home Page Paul K. Stockmeyer Professor Department of Computer Science College of William & Mary Williamsburg, Virginia Snail-mail address Department of Computer Science College of William and Mary P.O.",
+    "link": [
+        "http://www.cs.wm.edu/",
+        "http://www.wm.edu/",
+        "http://www.ci.williamsburg.va.us/cow.htm"
+    ],
+    "ground_truth": "faculty"
+}

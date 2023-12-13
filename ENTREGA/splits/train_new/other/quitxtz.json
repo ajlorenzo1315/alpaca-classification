@@ -1,0 +1,10 @@
+{
+    "Title": "Qualitative Reasoning about the Physical World",
+    "Body": "Research Products: Papers and Software Research papers: indexed bibliography .",
+    "link": [
+        "http://www.cs.utexas.edu/users/qr/qsim-overview.html",
+        "http://www.cs.utexas.edu/users/qr/papers-QR.html",
+        "http://www.cs.utexas.edu/users/qr/qsim-users.html"
+    ],
+    "ground_truth": "other"
+}

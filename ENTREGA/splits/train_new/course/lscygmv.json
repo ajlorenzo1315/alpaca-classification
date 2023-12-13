@@ -1,0 +1,10 @@
+{
+    "Title": "CIS 606 Translator Design I Fall 1996",
+    "Body": "You are encouraged to use these to test your implementation.",
+    "link": [
+        "http://www.cis.ksu.edu/~dwyer/courses/606/lectures/lectures.html",
+        "http://www.cis.ksu.edu/~dwyer/courses/606/project/project.html",
+        "http://www.cis.ksu.edu/~dwyer/courses/606/quizzes/quizzes.html"
+    ],
+    "ground_truth": "course"
+}

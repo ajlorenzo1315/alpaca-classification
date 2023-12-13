@@ -1,0 +1,10 @@
+{
+    "Title": "Spring Picnic 1996",
+    "Body": "Your Name: Can you volunteer to help us with preparations?",
+    "link": [
+        "http://www.cs.duke.edu/~dept/social/s_directions.html",
+        "http://www.cs.duke.edu/cgi-bin/others-rsvp?spring96",
+        "mailto:driggs@cs.duke.edu"
+    ],
+    "ground_truth": "other"
+}

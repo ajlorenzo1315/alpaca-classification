@@ -1,0 +1,10 @@
+{
+    "Title": "CSE/EE 576 Home Page",
+    "Body": "If you do not, contact Renee Reed on Thursday or Friday to make an arrangement to pick up your account login name and password so that you can use it over the weekend and early next week.",
+    "link": [
+        "http://www.cs.washington.edu/homes/mock",
+        "http://www.cs.washington.edu/education/courses/576/final-topics.txt",
+        "http://www.cs.washington.edu/education/courses/576/segmentation.txt"
+    ],
+    "ground_truth": "course"
+}

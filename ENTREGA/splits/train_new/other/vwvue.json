@@ -1,0 +1,10 @@
+{
+    "Title": " CS Department Annual Report: 1994-1995",
+    "Body": "Message from the Chair Educational Statistics Research/Professional Activities of Faculty Research/Professional Activities of Research Scientists Technical Reports List Faculty and Staff Roster The CS-TR project of the Computer Science Department has all the department technical reports available on the Web for your perusal.",
+    "link": [
+        "http://www.cs.cornell.edu/Info/Annual95/background.html",
+        "http://www.cs.cornell.edu/Info/Department/Annual95/Beginning/table-of-contents.html",
+        "http://www.cs.cornell.edu/Info/Department/Annual94/Beginning/msg-from-chair.html"
+    ],
+    "ground_truth": "other"
+}

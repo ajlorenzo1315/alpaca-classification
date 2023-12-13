@@ -1,0 +1,10 @@
+{
+    "Title": "Steve's Home Page",
+    "Body": "Date: Tue, 26 Nov 1996 20:18:53 GMT Server: Apache/1.1.1 Content-type: text/html Content-length: 2054 Last-modified: Tue, 15 Oct 1996 02:28:59 GMT Steve's Home Page Steve Dossick sdossick@cs.columbia.edu, sdossick@mediabridge.com, steve@websters.com Click here for my local address information...",
+    "link": [
+        "http://www.cs.columbia.edu/~sdossick/LocalInfo.html",
+        "http://www.psl.cs.columbia.edu",
+        "http://www.cs.columbia.edu"
+    ],
+    "ground_truth": "staff"
+}

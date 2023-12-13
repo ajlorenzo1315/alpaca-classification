@@ -1,0 +1,10 @@
+{
+    "Title": "OSA Tutorial Page",
+    "Body": "This document consists of a brief description of model-driven analysis , a discussion of the temporal logic of OSA, and concludes with a summary of the different components of an OSA model instance.",
+    "link": [
+        "http://osm7.cs.byu.edu/cs525/cs525HomePage.html",
+        "#MODEL_DRIVEN_ANALYSIS",
+        "#TEMPORAL_LOGIC"
+    ],
+    "ground_truth": "other"
+}

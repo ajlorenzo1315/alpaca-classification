@@ -1,0 +1,10 @@
+{
+    "Title": "CSE 590 ZP: High Performance Scientific Computing in ZPL",
+    "Body": "Description ZPL is a new scientific programming language suitable for computations previously written in Fortran, C, etc.",
+    "link": [
+        "mailto:snyder@cs.washington.edu",
+        "mailto:zpl-info@cs.washington.edu",
+        "mailto:majordomo@cs.washington.edu"
+    ],
+    "ground_truth": "course"
+}

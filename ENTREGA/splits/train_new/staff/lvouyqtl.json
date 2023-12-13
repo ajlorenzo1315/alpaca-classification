@@ -1,0 +1,10 @@
+{
+    "Title": "Chunguang Sun",
+    "Body": "Parallel orthogonal factorizations of large sparse matrices on distributed-memory multiprocessors (with T. F. Coleman), Proceedings of the Sixth SIAM Conference on Parallel Processing for Scientific Computing, R. F. Sinovec, D. E. Keyes, M. R. Leuze, L. R. Petzold, and D. A. Reed, eds., SIAM, Philadelphia, 1993, pp.457-461.",
+    "link": [
+        "http://www.tc.cornell.edu/Research/ACRI",
+        "http://www.tc.cornell.edu",
+        "http://simon.cs.cornell.edu/Info/Projects/ccop/"
+    ],
+    "ground_truth": "staff"
+}

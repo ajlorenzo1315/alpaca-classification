@@ -1,0 +1,10 @@
+{
+    "Title": "OOPS Research Group",
+    "Body": "The graduate students in the group are: Stephen Paul Carl Ajit George Mark S. Johnstone Sheetal V. Kakkad Scott F. Kaplan Donovan Kolbly Michael Neely Zhu Qing Douglas M. Van Wieren Research Areas Memory hierarchies, especially persistent object stores, distributed virtual memories, and caches.",
+    "link": [
+        "http://www.cs.utexas.edu/users/wilson",
+        "http://www.cs.utexas.edu/users/esteban",
+        "http://www.cs.utexas.edu/users/gajit"
+    ],
+    "ground_truth": "project"
+}

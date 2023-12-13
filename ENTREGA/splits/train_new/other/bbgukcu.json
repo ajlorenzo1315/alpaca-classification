@@ -1,0 +1,10 @@
+{
+    "Title": null,
+    "Body": "This paper describes the design and implementation of the data definition language, the application programmer's interface, and the query mechanism of the DEVR system.",
+    "link": [
+        "footnode.html#2",
+        "node1.html",
+        "node1.html"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Colgate University Computer Science 101 Page",
+    "Body": "Date: Tuesday, 26-Nov-96 ?",
+    "link": [
+        "http://www2.colgate.edu/imagemaps/cwishead.map",
+        "http://www.microsoft.com/visualc/",
+        "http://cs.colgate.edu/cslabs/cs101/labguide.html"
+    ],
+    "ground_truth": "course"
+}

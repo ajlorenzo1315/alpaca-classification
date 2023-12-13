@@ -1,0 +1,10 @@
+{
+    "Title": "Lynn Bush",
+    "Body": "Date: Tue, 26 Nov 1996 02:45:21 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Tue, 02 Jul 1996 00:29:04 GMT Content-length: 534 Lynn Bush Master's Student Lynn Bush Resume Work Sample lbush@ces.cwru.edu",
+    "link": [
+        "http://k2.scl.cwru.edu/~lxb41/resume.html",
+        "http://k2.scl.cwru.edu/~lxb41/WorkSample.html",
+        "mailto:lbush@ces.cwru.edu"
+    ],
+    "ground_truth": "student"
+}

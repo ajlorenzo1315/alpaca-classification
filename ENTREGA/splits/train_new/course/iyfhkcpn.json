@@ -1,0 +1,10 @@
+{
+    "Title": "Cos/Mus 325 Home Page",
+    "Body": "C source for the input formatter, form.c (translated from Pascal) Pascal source for the input formatter, formJ.p C source for main program, meteor.c (translated from Pascal) Pascal source for main program, meteorJ.p Test input file for form (to edit) or meteor (to run) Computer Science Home Page Ken's Home Page Paul's Home Page Music Home Page Princeton Home Page Week 1: Getting Started Lab 1 Assignment 1 Week 2: Harmonics, Partials, Overtones, Envelopes, Frequencies Lab 2 Assignment 2 Week 3: Feedforward, feedback filters,  delay lines and combs Lab 3 Assignment 3 Week 4: Variations on a plucked string Lab 4 Assignment 4 Week 5: Finer Filters Lab 5 Week 6: More filters, sound localization, reverberation Lab 6 Week 7: Tools: minc, midi, ellipse Lab 7 Assignment 5 Week 8: Tools, part 2: Detatching pitch and duration.",
+    "link": [
+        "http://www.music.princeton.edu/classes/factsheet.rtf",
+        "http://www.music.princeton.edu/classes/factsheet.html",
+        "http://www.music.princeton.edu/classes/progs"
+    ],
+    "ground_truth": "course"
+}

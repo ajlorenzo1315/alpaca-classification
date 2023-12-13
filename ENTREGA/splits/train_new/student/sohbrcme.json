@@ -1,0 +1,10 @@
+{
+    "Title": "\n         David Carlson WWW Home Page\n      ",
+    "Body": "About David Carlson Current David Carlson is a Ph.D. student in the College of Computing at Georgia Tech .",
+    "link": [
+        "#MyLife",
+        "#CurrentWork",
+        "#Pointers"
+    ],
+    "ground_truth": "student"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Ben Shneiderman",
+    "Body": "His 1993 edited book Sparks of Innovation in Human-Computer Interaction collects 25 papers from the past 10 years of research at the University of Maryland.",
+    "link": [
+        "http://projects/hcil/index.html",
+        "http://www.cs.umd.edu/projects/hcil/Photos/shneiderman.tif",
+        "http://www.cs.umd.edu/projects/hcil/People/pictures.html"
+    ],
+    "ground_truth": "unknow"
+}

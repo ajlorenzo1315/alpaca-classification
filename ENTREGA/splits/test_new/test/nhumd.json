@@ -1,0 +1,10 @@
+{
+    "Title": "  Wisconsin Week Article ",
+    "Body": "Miller said American Express has a parallel computer that offers lightning-fast profiles of customer spending patterns and serves as an early-warning system for credit card theft.",
+    "link": [
+        "http://www.cs.wisc.edu/~paradyn/",
+        "http://www.cs.wisc.edu/~wwt/",
+        "http://www.cs.wisc.edu/~paradyn/"
+    ],
+    "ground_truth": "unknow"
+}

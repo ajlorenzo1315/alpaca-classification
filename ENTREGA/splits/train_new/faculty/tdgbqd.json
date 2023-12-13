@@ -1,0 +1,10 @@
+{
+    "Title": "Brian Howard's Home Page",
+    "Body": "Date: Thu, 21 Nov 1996 19:05:04 GMT Server: NCSA/1.5.1 Last-modified: Sun, 22 Sep 1996 21:00:29 GMT Content-type: text/html Content-length: 2598 Brian Howard's Home Page Brian Howard Assistant Professor Department of Mathematics and Computer Science Bridgewater College Office 227 McKinney Center for Science and Mathematics Box 81 Bridgewater College Bridgewater, Virginia  22812 (540) 828-5623 Home 205 Weeping Willow Lane, Apt.",
+    "link": [
+        "http://www.cis.ksu.edu/~bhoward/bth-big.jpg",
+        "http://www.bridgewater.edu/departments/mathcs/mcshome.html",
+        "http://www.bridgewater.edu"
+    ],
+    "ground_truth": "faculty"
+}

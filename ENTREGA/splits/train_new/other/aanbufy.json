@@ -1,0 +1,10 @@
+{
+    "Title": "Espresso Stand Navigation",
+    "Body": "A labelled map of objects and spaces in and around the espresso stand.",
+    "link": [
+        "http://www.cs.washington.edu/education/courses/590h/lab2.html",
+        "http://www.cs.washington.edu/education/courses/590h",
+        "http://www.cs.washington.edu/homes/map/espresso/introduction.html"
+    ],
+    "ground_truth": "other"
+}

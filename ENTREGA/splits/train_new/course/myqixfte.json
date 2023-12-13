@@ -1,0 +1,10 @@
+{
+    "Title": "CSE 135 Home Page",
+    "Body": "The CSE/ENGR 135 Web: Copyright 1995, Department of Computer Science and Engineering, University of Washington.",
+    "link": [
+        "#help",
+        "http://www.cs.washington.edu/education/courses/135/95s/personnel/",
+        "http://www.cs.washington.edu/education/courses/135/95s/syllabus.html"
+    ],
+    "ground_truth": "course"
+}

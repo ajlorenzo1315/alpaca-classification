@@ -1,0 +1,10 @@
+{
+    "Title": "CS 560 Syllabus - Winter '95",
+    "Body": "You may work in a group to understand the material and questions, but everything you turn in or pass off should be your work.",
+    "link": [
+        "http://nebo.cs.byu.edu/~clement/clement.html",
+        "http://nebo.cs.byu.edu/cgi-bin/cs560sn",
+        "http://nebo.cs.byu.edu/~linus/score.txt"
+    ],
+    "ground_truth": "course"
+}

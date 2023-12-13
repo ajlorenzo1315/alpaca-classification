@@ -1,0 +1,10 @@
+{
+    "Title": " Carla Ellis's Home Page",
+    "Body": "Professional Interests I consider myself an Experimental Computer Scientist with broad interests in Operating Systems for Parallel and Distributed Systems.",
+    "link": [
+        "http://www.cs.duke.edu/",
+        "http://www.cs.duke.edu/~carla/dukedir.html",
+        "http://www.duke.edu/"
+    ],
+    "ground_truth": "faculty"
+}

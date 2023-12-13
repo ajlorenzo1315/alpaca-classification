@@ -1,0 +1,10 @@
+{
+    "Title": "\nHudson's Home Page\n",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Monday, 06-Jan-97 19:28:22 GMT Content-Type: text/html Content-Length: 1902 Last-Modified: Wednesday, 30-Oct-96 23:17:04 GMT Hudson's Home Page Hudson Turner PhD student in Computer Sciences in the College of Natural Sciences at The University of Texas at Austin .",
+    "link": [
+        "http://www.cs.utexas.edu/cgi/rwho/hudson",
+        "http://www.cs.utexas.edu/",
+        "http://www.utexas.edu/cons/"
+    ],
+    "ground_truth": "student"
+}

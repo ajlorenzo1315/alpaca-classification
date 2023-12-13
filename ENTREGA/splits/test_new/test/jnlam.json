@@ -1,0 +1,10 @@
+{
+    "Title": "Pawel Jachowicz",
+    "Body": "I am a Master of Science student in the Department of Computing Science ( here's a detailed address ) at the University of Alberta .",
+    "link": [
+        "http://web.cs.ualberta.ca/home.html",
+        "http://www.cs.ualberta.ca/~pavel/address.html",
+        "http://www.ualberta.ca/www/UAlberta.html"
+    ],
+    "ground_truth": "unknow"
+}

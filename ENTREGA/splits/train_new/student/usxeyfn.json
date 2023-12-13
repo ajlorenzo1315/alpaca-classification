@@ -1,0 +1,10 @@
+{
+    "Title": " NIMAR SINGH ARORA's home page ",
+    "Body": "You can look at my resume to know more about me.",
+    "link": [
+        "http://www.cs.utexas.edu/users/nimar/resume.html",
+        "http://www.cs.utexas.edu/users/nimar/bookmarks.html",
+        "mailto:nimar@cs.utexas.edu"
+    ],
+    "ground_truth": "student"
+}

@@ -1,0 +1,6 @@
+{
+    "Title": "CS 612 - Final Report",
+    "Body": "To avoid this overhead we send packets of size 8k so that am_store_async can return immediately and the processor can get its next packet ready for sending.",
+    "link": [],
+    "ground_truth": "other"
+}

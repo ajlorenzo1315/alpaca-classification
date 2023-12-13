@@ -1,0 +1,10 @@
+{
+    "Title": "UTCS Machine Learning Research Group",
+    "Body": "Data Repositories Language-learning data (in a form for ILP) Some Related WWW Sites Associations and Groups AAAI - American Association for AI ACL Association for Computational Linguistics ILPNet - European Inductive Logic Programming Scientific Network SIGART - ACM Special Interest Group on Artificial Intelligence SIGNLL - ACL Special Interest Group on Natural Language Learning Conferences International Joint Conference on Aritficial Intelligence (IJCAI-97) National Conference on Artificial Intelligence (AAAI-97) International Conference on Machine Learning (ICML-97) Fourth European Conference on Planning (ECP-97) Information Sources AI Subject Index AI Biblio Query Index to Machine Learning Home Pages Machine Learning Information Services Computation and Language Paper Archive Journals AIJ - Artificial Intelligence Journal Computational Linguistics - Journal of the ACL JAIR - Journal of Artificial Intelligence Research MLJ - Machine Learning Journal Learning Systems FOIL - J. R. Quinlan's inductive learner PRODIGY - Problem solving system for planning and learning at Carnegie Mellon UCPOP - Partial-Order Planner at University of Washington Research Groups Explanation-Based Learning Group - University of Illinois Inductive Learning Group - University of Illinois Machine Learning Research Group - Oxford University Machine Learning Research Group - UC Irvine Natural Language Acquisition Group - University of Texas at Austin Machine Learning Research Group - University of Wisconsin at Madison estlin@cs.utexas.edu",
+    "link": [
+        "http://www.cs.utexas.edu/users/mooney/",
+        "http://www.cs.utexas.edu/users/ai-lab",
+        "http://www.cs.utexas.edu/"
+    ],
+    "ground_truth": "project"
+}

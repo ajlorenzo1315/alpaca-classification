@@ -1,0 +1,10 @@
+{
+    "Title": "CS 302 Fall 1996 - Section 2 Programs",
+    "Body": "I would also like you to put your name, login ID, program number, and the due date at the top of each program.",
+    "link": [
+        "http://www.cs.wisc.edu/~dzimm/cs302/Policies/late.html",
+        "http://www.cs.wisc.edu/~dzimm/cs302/Progs/prog0.html",
+        "http://www.cs.wisc.edu/~dzimm/cs302/Progs/prog1.html"
+    ],
+    "ground_truth": "other"
+}

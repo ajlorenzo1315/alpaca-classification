@@ -1,0 +1,10 @@
+{
+    "Title": "SEQ Home Page",
+    "Body": "Databases should model the data using the abstraction of sequences , allow data sequences to be queried in a declarative manner , utilizing the ordered semantics take advantage of the unique opportunities available for query optimization and evaluation integrate sequence data with relational data, so that users can store and query a combination of relation and sequences These requirements serve as the goals of the SEQ project.",
+    "link": [
+        "#Objective",
+        "#Status",
+        "#Example"
+    ],
+    "ground_truth": "project"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": " CPS 6.7 Syllabus ",
+    "Body": "They will be on duty from 7:00pm to 11:00pm each evenng.",
+    "link": [
+        "#info",
+        "#notes",
+        "#supp"
+    ],
+    "ground_truth": "course"
+}

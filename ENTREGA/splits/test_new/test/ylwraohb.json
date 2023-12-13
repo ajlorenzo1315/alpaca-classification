@@ -1,0 +1,10 @@
+{
+    "Title": " Jack Muramatsu",
+    "Body": "If you're looking for a quick example of what can be done with Perl in terms of the Web and HTML take a look at the HTMLized versions of the Machine Learning List Archives .",
+    "link": [
+        "http://www.ics.uci.edu/CORPS/",
+        "http://www.ics.uci.edu/~ackerman",
+        "mailto:jmuramat@ics.uci.edu"
+    ],
+    "ground_truth": "unknow"
+}

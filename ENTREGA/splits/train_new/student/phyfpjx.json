@@ -1,0 +1,10 @@
+{
+    "Title": "JC's Home Page",
+    "Body": "Click here for info and rules.",
+    "link": [
+        "mailto:skyking@cs.pitt.edu",
+        "gopher://wuecon.wustl.edu:671/00/volleyball-faq",
+        "http://www.volleyball.org/"
+    ],
+    "ground_truth": "student"
+}

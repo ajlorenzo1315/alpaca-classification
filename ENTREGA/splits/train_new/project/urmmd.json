@@ -1,0 +1,10 @@
+{
+    "Title": "Coordination Page",
+    "Body": "In this project, coordination is provided by Delirium, a coordination language for expressing scheduling and communication patterns, by adaptive runtime scheduling, and by Multipol , a distributed data structure library.",
+    "link": [
+        "http://HTTP.CS.Berkeley.EDU/projects/parallel/castle/multipol/",
+        "http://HTTP.CS.Berkeley.EDU/projects/parallel/castle",
+        "http://HTTP.CS.Berkeley.EDU/~graham/"
+    ],
+    "ground_truth": "project"
+}

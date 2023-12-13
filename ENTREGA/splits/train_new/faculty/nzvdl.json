@@ -1,0 +1,10 @@
+{
+    "Title": "Jessica K. Hodgins Information Page",
+    "Body": "She received her Ph.D. in Computer Science from Carnegie Mellon University in 1989 and was a postdoctoral fellow in the Leg Lab at the MIT Artificial Intelligence laboratory and the IBM Thomas J. Watson Research Center.",
+    "link": [
+        "http://www.cc.gatech.edu/gvu/gvutop.html",
+        "http://www.ai.mit.edu/projects/leglab",
+        "http://www.cc.gatech.edu/gvu/animation/Animation.html"
+    ],
+    "ground_truth": "faculty"
+}

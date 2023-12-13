@@ -1,0 +1,10 @@
+{
+    "Title": "OO C stuff",
+    "Body": "Date: Tue, 05 Nov 1996 21:56:46 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Mon, 05 Aug 1996 04:34:02 GMT Content-length: 1684 OO C stuff Object Oriented Programming in C Here is a small collection of possibly-interesting tidbits relating to object-oriented programming in C.  Some of these are written by me, others I've pulled off the net.",
+    "link": [
+        "http://www.lysator.liu.se/c/pikestyle.html",
+        "http://www.cs.wisc.edu/~gid/rgb.c",
+        "http://www.sun.com:80/sunworldonline/swol-10-1995/swol-10-ooc.html"
+    ],
+    "ground_truth": "other"
+}

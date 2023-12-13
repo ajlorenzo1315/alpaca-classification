@@ -1,0 +1,10 @@
+{
+    "Title": "Ravi Janardan",
+    "Body": "Date: Thu, 21 Nov 1996 20:54:54 GMT Server: Apache/1.1b3 Content-type: text/html Ravi Janardan Ravi Janardan Associate Professor Email: janardan@cs.umn.edu Phone: (612) 625-7338 Education Background Ph.D. 1987, M.S.",
+    "link": [
+        "mailto:janardan@cs.umn.edu",
+        "http://www.cs.umn.edu/footer.map",
+        "mailto:www@cs.umn.edu"
+    ],
+    "ground_truth": "faculty"
+}

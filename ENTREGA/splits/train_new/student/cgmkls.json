@@ -1,0 +1,10 @@
+{
+    "Title": "Mitsutaka Matsumoto",
+    "Body": "I applied a code which had been discussed as a method of universal coding of integers, with revision, to accelerate string-matching.",
+    "link": [
+        "#States",
+        "#Classes",
+        "#Birth"
+    ],
+    "ground_truth": "student"
+}

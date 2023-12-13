@@ -1,0 +1,10 @@
+{
+    "Title": "Gupta, Rajesh",
+    "Body": "Date: Thu, 21 Nov 1996 20:23:43 GMT Server: NCSA/1.5.2 Last-modified: Tue, 16 May 1995 00:36:42 GMT Content-type: text/html Content-length: 1616",
+    "link": [
+        "http://www.cs.uiuc.edu/CS_INFO_SERVER/DEPT_INFO/CS_RESEARCH/RESEARCH_AREAS/cad.html",
+        "http://www.cs.uiuc.edu/CS_INFO_SERVER/DEPT_INFO/CS_RESEARCH/RESEARCH_AREAS/arch.html",
+        "http://www.cs.uiuc.edu/CS_INFO_SERVER/DEPT_INFO/CS_RESEARCH/RESEARCH_AREAS/real.html"
+    ],
+    "ground_truth": "faculty"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Object-oriented systems at UCSB",
+    "Body": "Date: Wed, 20 Nov 1996 19:35:42 GMT Server: Apache/1.0.2 Content-type: text/html Object-oriented systems at UCSB OOCSB: Object-Oriented Compilers at UCSB Our research group investigates compiler optimizations for object-oriented languages, related implementation aspects (such as dispatch mechanisms or garbage collection), and studies of the instruction-level behavior of object-oriented programs.",
+    "link": [
+        "http://www.cs.ucsb.edu/oocsb/papers.shtml",
+        "http://www.cs.ucsb.edu/oocsb/visitor.ps",
+        "http://www.cs.ucsb.edu/oocsb/self/index.html"
+    ],
+    "ground_truth": "project"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "\nBilly Joel Frequently Asked Questions\n",
+    "Body": "Copyright 1996 by Michael Steele ( msteele@cs.wisc.edu ) except for \"Billy Joel, A look into Billy Joel's early recordings,\" which is copyright 1991 by Paul Maclauchlan ( paul@moore.com ).",
+    "link": [
+        "http://www.cs.wisc.edu/~msteele/bjoel/",
+        "http://www.cs.umd.edu/~mike/bjoel/",
+        "ftp://rtfm.mit.edu/pub/usenet"
+    ],
+    "ground_truth": "other"
+}

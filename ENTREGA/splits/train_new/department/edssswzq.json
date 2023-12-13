@@ -1,0 +1,10 @@
+{
+    "Title": "University Of Tennessee Computer Science Department",
+    "Body": "Date: Tue, 26 Nov 1996 22:20:07 GMT Server: Apache/1.0.5 Content-type: text/html Content-length: 1882 Last-modified: Sun, 17 Nov 1996 16:23:28 GMT University Of Tennessee Computer Science Department PEOPLE EDUCATION RESEARCH NEWS FALL COURSES LIBRARY REGION SEARCH INDUSTRY MAP ORNL UT Department of Computer Science The University of Tennessee 107 Ayres Hall Knoxville, Tennessee 37996-1301 (423) 974 - 5067",
+    "link": [
+        "http://www.cs.utk.edu/cs-homepage/people.html",
+        "http://www.cs.utk.edu/cs-homepage/education.html",
+        "http://www.cs.utk.edu/cs-homepage/research.html"
+    ],
+    "ground_truth": "department"
+}

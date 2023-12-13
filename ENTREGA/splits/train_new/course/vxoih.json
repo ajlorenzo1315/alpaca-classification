@@ -1,0 +1,10 @@
+{
+    "Title": "\nBU CAS CS 552: Operating Systems---Home Page\n\t\t",
+    "Body": "In this course, we will study the design and construction of major subsystems of an operating system, and examine some of the core problems in detail.",
+    "link": [
+        "http://web.bu.edu/",
+        "http://www.cs.bu.edu/",
+        "http://www.cs.bu.edu/faculty/heddaya/CS552/."
+    ],
+    "ground_truth": "course"
+}

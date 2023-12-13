@@ -1,0 +1,10 @@
+{
+    "Title": "M. Wade Barnes",
+    "Body": "Computer Sciences, The University of Texas at Austin , 1996.",
+    "link": [
+        "http://www.cs.utexas.edu/users/mwbarnes/GoodPages.html",
+        "http://www.cs.utexas.edu/users/mwbarnes/TypeMapping.html",
+        "http://www.cs.utexas.edu/users/mwbarnes/ResNotes.html"
+    ],
+    "ground_truth": "student"
+}

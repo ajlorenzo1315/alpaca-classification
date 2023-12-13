@@ -1,0 +1,10 @@
+{
+    "Title": "No Title",
+    "Body": "His present interests are in parallel and distributed processing and  computer systems architecture.",
+    "link": [
+        "http://www.cs.washington.edu/education/courses/378/CurrentQtr",
+        "http://www.cs.washington.edu/education/courses/590g/",
+        "http://www.cs.washington.edu/research/arch/"
+    ],
+    "ground_truth": "faculty"
+}

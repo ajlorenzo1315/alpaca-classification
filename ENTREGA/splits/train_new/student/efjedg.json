@@ -1,0 +1,10 @@
+{
+    "Title": " Raji's Home Page ",
+    "Body": "Date: Thu, 07 Nov 1996 19:20:25 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Sun, 27 Oct 1996 19:20:07 GMT Content-length: 2081 Raji's Home Page Raji's Home...",
+    "link": [
+        "http://www-rennes.enst-bretagne.fr/~grafmeye/addict2.html",
+        "http://www.cs.wisc.edu/",
+        "http://www.wisc.edu/"
+    ],
+    "ground_truth": "student"
+}

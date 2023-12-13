@@ -1,0 +1,10 @@
+{
+    "Title": "Professor Marina Chen -- Home Page",
+    "Body": "She also represents Boston University as an affiliated site of of Center for Research on Parallel Computation (CRPC) .",
+    "link": [
+        "http://cs-www.bu.edu:80/",
+        "http://ccs.bu.edu/",
+        "http://web.bu.edu/"
+    ],
+    "ground_truth": "faculty"
+}

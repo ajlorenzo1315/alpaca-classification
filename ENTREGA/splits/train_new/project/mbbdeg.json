@@ -1,0 +1,10 @@
+{
+    "Title": " Galileo/SCI Home Page ",
+    "Body": "Hardware Support for Synchronization in the Scalable Coherent Interface (SCI) Nagi M. Aboulenein, Stein Gjessing, James R. Goodman, and Philip J. Woest.",
+    "link": [
+        "#Galileo",
+        "#gpublications",
+        "#grelated"
+    ],
+    "ground_truth": "project"
+}

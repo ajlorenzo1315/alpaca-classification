@@ -1,0 +1,10 @@
+{
+    "Title": "Florin Sultan",
+    "Body": "Date: Tue, 26 Nov 1996 03:50:41 GMT Server: Apache/1.1.1 Content-type: text/html Content-length: 809 Last-modified: Wed, 02 Oct 1996 16:00:54 GMT Florin Sultan Florin Sultan I'm a Ph.D. student in Computer Science at Rutgers University .",
+    "link": [
+        "http://www.cs.rutgers.edu",
+        "http://info.rutgers.edu/",
+        "http://paul.rutgers.edu/~sultan/pubs.html"
+    ],
+    "ground_truth": "student"
+}

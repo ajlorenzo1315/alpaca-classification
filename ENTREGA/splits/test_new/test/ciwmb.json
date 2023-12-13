@@ -1,0 +1,10 @@
+{
+    "Title": "\nThe Church Project: A Functional Language Using Intersection Types\n",
+    "Body": "The solution relies on an extension  of ML, where the language of types is sorted  and considered modulo equations, and on a record extension of types.",
+    "link": [
+        "http://www.cs.bu.edu/groups/church/bibliography/default.html",
+        "http://foxnet.cs.cmu.edu/HomePage.html",
+        "http://pauillac.inria.fr/cristal/"
+    ],
+    "ground_truth": "unknow"
+}

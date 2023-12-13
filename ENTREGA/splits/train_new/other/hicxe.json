@@ -1,0 +1,10 @@
+{
+    "Title": "Authoring World Wide Web Home Pages (PC users)",
+    "Body": "a.",
+    "link": [
+        "/people/treu.html",
+        "/index.html",
+        "mailto:treu_kevin/furman@furman.edu"
+    ],
+    "ground_truth": "other"
+}

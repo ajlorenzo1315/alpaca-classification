@@ -1,0 +1,10 @@
+{
+    "Title": "Natalya Lagunova's homepage",
+    "Body": "Links and info to/about my friends and family.",
+    "link": [
+        "http://www.ccs.neu.edu/home/nata/wedding.html",
+        "http://www.ccs.neu.edu/home/nata/lisp.html",
+        "http://www.ccs.neu.edu/home/nata//"
+    ],
+    "ground_truth": "student"
+}

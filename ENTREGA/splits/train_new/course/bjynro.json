@@ -1,0 +1,10 @@
+{
+    "Title": "\nCS302 Homepage\n",
+    "Body": "Date: Mon, 11 Nov 1996 16:03:21 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Mon, 30 Sep 1996 18:38:35 GMT Content-length: 2580 CS302 Homepage CS302 Homepage Welcome to the homepage for CS302.",
+    "link": [
+        "http://www.cs.wisc.edu/~tmunson",
+        "http://www.cs.wisc.edu/~tmunson/302/Class_Information",
+        "http://www.cs.wisc.edu/~tmunson/302/Class_Information/Class_Information.html#expectations"
+    ],
+    "ground_truth": "course"
+}

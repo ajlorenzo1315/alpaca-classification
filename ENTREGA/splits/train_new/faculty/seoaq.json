@@ -1,0 +1,10 @@
+{
+    "Title": "NCSU/CSC: Thomas L. Honeycutt",
+    "Body": "Dr. Honeycutt's research extends the concepts of MIS, DSS and expert systems to improve the basic decision making process through reengineering and quality management.",
+    "link": [
+        "http://www.csc.ncsu.edu/maps/rb-header.map",
+        "http://www.csc.ncsu.edu/index.html",
+        "http://www.csc.ncsu.edu/search/index.html"
+    ],
+    "ground_truth": "faculty"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Keith D. Cooper",
+    "Body": "Date: Tue, 26 Nov 1996 00:17:55 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Thu, 08 Aug 1996 18:03:07 GMT Content-length: 1583 Keith D. Cooper Keith D. Cooper Associate Professor Department of Computer Science Rice University Research Interests Keith Cooper's research interests include compilation for modern microprocessors, classical code optimization, and interprocedural analysis and optimization.",
+    "link": [
+        "http://softlib.rice.edu/MSCP/MSCP.html",
+        "http://softlib.rice.edu/fortran-tools/DSystem/DSystem.html",
+        "http://softlib.rice.edu/MSCP/publications.html"
+    ],
+    "ground_truth": "faculty"
+}

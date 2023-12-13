@@ -1,0 +1,10 @@
+{
+    "Title": " EEL: An Executable Editing Library ",
+    "Body": "In the limit, editing can replace an entire program with instructions for a different architecture.",
+    "link": [
+        "http://www.cs.wisc.edu/~larus/warts.html",
+        "http://www.cs.wisc.edu/~larus/qpt.html",
+        "http://www.cs.berkeley.edu/~manuel/IRAM"
+    ],
+    "ground_truth": "other"
+}

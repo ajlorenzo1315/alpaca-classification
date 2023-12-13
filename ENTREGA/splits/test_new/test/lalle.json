@@ -1,0 +1,10 @@
+{
+    "Title": " Architecture Home Page ",
+    "Body": "Processor Technologies One of the early contributions in instruction level parallel (also called ILP) processor technology was the development of the decoupled architecture concept.",
+    "link": [
+        "http://www.cs.wisc.edu/",
+        "http://www.cs.wisc.edu/~arch/www/",
+        "#Impact"
+    ],
+    "ground_truth": "unknow"
+}

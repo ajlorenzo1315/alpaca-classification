@@ -1,0 +1,10 @@
+{
+    "Title": "\nBU GRS CS 792: Distributed Systems Seminar---Home Page\n\t\t",
+    "Body": "Format: A class meeting will generally consist of a presentation and discussion of a narrow topic covering two or three papers.",
+    "link": [
+        "http://web.bu.edu/pagetwo.html",
+        "http://cs-www.bu.edu/",
+        "http://www.cs.bu.edu/faculty/heddaya/CS792/"
+    ],
+    "ground_truth": "course"
+}

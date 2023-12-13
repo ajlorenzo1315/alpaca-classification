@@ -1,0 +1,10 @@
+{
+    "Title": "The DOLPHIN Speedup-Learning System ",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Tuesday, 07-Jan-97 15:55:40 GMT Content-Type: text/html Content-Length: 1750 Last-Modified: Monday, 11-Dec-95 16:42:34 GMT The DOLPHIN Speedup-Learning System DOLPHIN DOLPHIN is a system which combines Inductive Logic Programming (i.e. FOIL) and Explanation-Based Learning (i.e. EBG) to learn search-control rules for eliminating backtracking in Prolog programs.",
+    "link": [
+        "ftp://ftp.cs.utexas.edu/pub/mooney/dolphin",
+        "http://www.cs.utexas.edu/users/ml/speedup.html",
+        "file://ftp.cs.utexas.edu/pub/mooney/papers/dolphin-ijcai-93.ps.Z"
+    ],
+    "ground_truth": "other"
+}

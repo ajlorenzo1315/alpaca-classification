@@ -1,0 +1,10 @@
+{
+    "Title": "ACM SIGACT",
+    "Body": "Contents of This Document Membership Information Activities SIGACT News SIGACT News Online Sponsored Conferences WWW Pages TCS Virtual Address Book TCS Genealogy Theory Calendar Contributions of Theoretical Computer Science Other Useful Pages Committees Institutional Sponsors Membership Information Membership includes: Subscription to SIGACT News Subscription to SIGACT News Online Reduced-rate registration for SIGACT sponsored conferences Individually mailed Call for Papers and Conference Schedules for SIGACT sponsored conferences More information is available on how to join SIGACT .",
+    "link": [
+        "http://hercule.csci.unt.edu:80/sigact/www.acm.org",
+        "http://www.acm.org/",
+        "#membership"
+    ],
+    "ground_truth": "other"
+}

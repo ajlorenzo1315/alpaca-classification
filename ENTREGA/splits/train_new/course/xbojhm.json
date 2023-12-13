@@ -1,0 +1,10 @@
+{
+    "Title": "\nCS415 Home Page\n",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Sunday, 01-Dec-96 18:59:15 GMT Content-Type: text/html Content-Length: 2049 Last-Modified: Thursday, 07-Dec-95 19:33:16 GMT CS415 Home Page CS414: Systems Programming and Operating Systems CS415: Practicum in Operating Systems Selections that display this symbol correspond to postcript documents.",
+    "link": [
+        "http://cs.cornell.edu/Info/Courses/Fall-95/CS415/CS414/CS414.html",
+        "http://cs.cornell.edu/Info/Courses/Fall-95/CS415/submit.html",
+        "http://www.cs.cornell.edu/Info/Courses/Fall-95/CS415/NetSetup.html>\n<! How to set-up Netscape\n</A>\n<p>\n<DL>\n<DT><H3><A \nHREF="
+    ],
+    "ground_truth": "course"
+}

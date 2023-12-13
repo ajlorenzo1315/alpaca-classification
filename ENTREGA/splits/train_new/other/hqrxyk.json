@@ -1,0 +1,8 @@
+{
+    "Title": "VIP Demo",
+    "Body": "To make a connection, click the mouse, once for each end of the connection, on variable boxes or on \"buttons\" associated with diagrams.",
+    "link": [
+        "http://www.cs.utexas.edu/users/novak/index.html"
+    ],
+    "ground_truth": "other"
+}

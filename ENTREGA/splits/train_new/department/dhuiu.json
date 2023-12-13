@@ -1,0 +1,10 @@
+{
+    "Title": "Department of Computer Science",
+    "Body": "Date: Tue, 26 Nov 1996 23:07:50 GMT Server: Apache/1.1.1 Content-type: text/html Last-modified: Tue, 26 Nov 1996 12:23:18 GMT Department of Computer Science Welcome to the Department of Computer Science Mathematics Department Server can be found here .",
+    "link": [
+        "http://cwis.auc.dk/logo/info.html",
+        "http://www.math.auc.dk",
+        "http://www.iesd.auc.dk/information.html"
+    ],
+    "ground_truth": "department"
+}

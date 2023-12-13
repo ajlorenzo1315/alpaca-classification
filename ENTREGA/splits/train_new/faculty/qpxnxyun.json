@@ -1,0 +1,10 @@
+{
+    "Title": "Professor Frank K.H.A. Dehne ",
+    "Body": "He joined the School of Computer Science at Carleton University , Ottawa , Canada , in July 1986.",
+    "link": [
+        "http://www.informatik.rwth-aachen.de/RWTH/index.html",
+        "http://www-i5.informatik.rwth-aachen.de/mjf/stadt-aachen.html",
+        "http://www.chemie.fu-berlin.de/outerspace/www-german.html"
+    ],
+    "ground_truth": "faculty"
+}

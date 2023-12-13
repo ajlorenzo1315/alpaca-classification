@@ -1,0 +1,10 @@
+{
+    "Title": " ARCADE-PROJECT ",
+    "Body": "Date: Wed, 20 Nov 1996 19:27:45 GMT Server: NCSA/1.4 Content-type: text/html Last-modified: Mon, 12 Aug 1996 00:41:26 GMT Content-length: 3119 ARCADE-PROJECT ARCADE-Project Architectural Computer-Aided Design and Evaluation Principal Investigator: Carlo H. Séquin This project is loosely coupled with research going on in the Department of Architecture in the College of Environmental Design.",
+    "link": [
+        "http://HTTP.CS.Berkeley.EDU/~sequin/PROJ/arc.venice.html",
+        "http://HTTP.CS.Berkeley.EDU/~sequin/PROJ/arc.india.html",
+        "http://HTTP.CS.Berkeley.EDU/~sequin/PROJ/arc.venice.html"
+    ],
+    "ground_truth": "project"
+}

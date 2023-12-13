@@ -1,0 +1,10 @@
+{
+    "Title": "Vision and Touch Guided Manipulation",
+    "Body": "The people in and associated with the Vision and Touch Guided Manipulation Group are: Brian Anthony ( touch sensing ) Mark Cannon ( wavelet networks ,graduated ) Brian Eberman ( system integration, ,graduated ) Brian Hoffman ( active vision ) W. Jesse Hong ( coordination vision-manipulation ) Akhil Madhani ( wrist-hand mechanism ) G&uumlnter Niemeyer ( adaptive control and system integration ) Daniel Theobald ( visual processing ) Ichiro Watanabe ( machine learning ) [Introduction] [Our Robots] [Our Research] [References] Introduction to our Robots The Whole Arm Manipulator The MIT Whole Arm Manipulator (WAM) Arm is a very fast, force controllable robot arm designed in Dr. Salisbury's group at the AI Lab.",
+    "link": [
+        "http://www.ai.mit.edu/",
+        "http://www.ai.mit.edu/people/jks/jks.html",
+        "http://www.ai.mit.edu/projects/handarm-haptics/haptics.html"
+    ],
+    "ground_truth": "project"
+}

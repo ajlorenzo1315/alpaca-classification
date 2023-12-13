@@ -1,0 +1,10 @@
+{
+    "Title": "Computer Science Department",
+    "Body": "Date: Tue, 26 Nov 1996 23:02:50 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Thu, 07 Nov 1996 14:42:23 GMT Content-length: 2946 Computer Science Department Furman University Department of Computer Science Miscellaneous Departmental Information (some links under development) Directory of CS Department Faculty and Staff Directory of CS Department Majors Whereabouts of our illustrious alumni Undergraduate research projects in CS CS16 Term Project Archive Publication abstracts Grant summaries Student Chapter of the ACM Delta Chapter of Upsilon Pi Epsilon The NSF Young Scholar's Progam home page Take a tour of Riley Hall Creating World Wide Web Home Pages at Furman Furman faculty, students and staff all have the ability to write home pages and install them on the Web.",
+    "link": [
+        "http://s9000.furman.edu/faculty.html",
+        "http://s9000.furman.edu/majors2.html",
+        "http://s9000.furman.edu/alumni/alumni.html"
+    ],
+    "ground_truth": "unknow"
+}

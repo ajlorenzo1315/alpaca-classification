@@ -1,0 +1,10 @@
+{
+    "Title": "Using Projects - CS 302 Fall 1996 - Section 4",
+    "Body": "We should now be in Borland, and there should be a new window with the title \"project\" that has something like this in it: [ ] prog6.exe [.exe] ..... | - prog6.cpp [.cpp] This tells us that the project wants to make the program \"prog6.exe\", and it knows that \"prog6.cpp\" is used to make that program.",
+    "link": [
+        "http://www.cs.wisc.edu/~cs302",
+        "http://www.cs.wisc.edu/~milo/cs302.html",
+        "http://www.cs.wisc.edu/~milo"
+    ],
+    "ground_truth": "unknow"
+}

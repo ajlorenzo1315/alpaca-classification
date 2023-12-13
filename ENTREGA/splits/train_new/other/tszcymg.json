@@ -1,0 +1,10 @@
+{
+    "Title": " Yikes Bikes! ",
+    "Body": "The Flat City Cycling Club 's home page.",
+    "link": [
+        "http://www.nashville.net/cycling/stolen.html",
+        "http://www.compumedia.com/~agb/bbtc/",
+        "http://www.cs.purdue.edu/homes/dole/bike.html"
+    ],
+    "ground_truth": "other"
+}

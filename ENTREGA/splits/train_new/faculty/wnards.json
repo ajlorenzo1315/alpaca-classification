@@ -1,0 +1,10 @@
+{
+    "Title": "Matt Stallmann's Home Page",
+    "Body": "Departmental infrastructure list (written Fall 1995, last modified 10/1/96) a list of hardware and software that receives high-priority service within the department.",
+    "link": [
+        "http://www.csc.ncsu.edu",
+        "http://www.ncsu.edu",
+        "http://www.nando.net/triguide/cities/raleigh.html"
+    ],
+    "ground_truth": "faculty"
+}

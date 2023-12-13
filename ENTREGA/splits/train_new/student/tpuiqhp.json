@@ -1,0 +1,8 @@
+{
+    "Title": null,
+    "Body": "This is my first Web Page.",
+    "link": [
+        "/cgi/rwho/myname"
+    ],
+    "ground_truth": "student"
+}

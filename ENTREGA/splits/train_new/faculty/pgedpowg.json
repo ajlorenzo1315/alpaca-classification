@@ -1,0 +1,10 @@
+{
+    "Title": "Farnam's Home Page ",
+    "Body": "Date: Mon, 25 Nov 1996 23:11:57 GMT Server: Apache/1.1-dev Content-type: text/html Set-Cookie: Apache=gs35583184896351731; path=/ Farnam's Home Page F arnam J ahanian University of Michigan Dept.",
+    "link": [
+        "http://www.eecs.umich.edu/~farnam/farnam.jpg",
+        "mailto:farnam@eecs.umich.edu",
+        "http://www.eecs.umich.edu/RTCL/arpa-project/"
+    ],
+    "ground_truth": "faculty"
+}

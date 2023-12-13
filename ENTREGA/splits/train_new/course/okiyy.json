@@ -1,0 +1,10 @@
+{
+    "Title": "CS 327 Home Page",
+    "Body": "Much of the information for the class will not be given on paper but instead through the WEB.",
+    "link": [
+        "http://www.cs.byu.edu/info/snwoodfield.html",
+        "mailto:woodfiel@cs.byu.edu",
+        "http://students.cs.byu.edu/~esok"
+    ],
+    "ground_truth": "course"
+}

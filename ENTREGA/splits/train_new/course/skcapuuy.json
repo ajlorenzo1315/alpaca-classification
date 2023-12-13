@@ -1,0 +1,10 @@
+{
+    "Title": " Web page for CSC417, Fall 96, NC State",
+    "Body": "Click here for more information about SML.",
+    "link": [
+        "http://www.csc.ncsu.edu/eos/info/csc417_info/www/outline.ps",
+        "http://www.cs.cmu.edu/afs/cs.cmu.edu/project/fox/mosaic/intro-notes.ps",
+        "http://www.cs.cmu.edu/afs/cs.cmu.edu/project/fox/mosaic/sml.html"
+    ],
+    "ground_truth": "course"
+}

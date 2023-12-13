@@ -1,0 +1,10 @@
+{
+    "Title": "Christopher Johnson",
+    "Body": "Current Research Projects: Scientific Computing Inverse and Imaging Problems Scientific Visualization Computational Medicine Numerical Analysis Simplified Wrapper and Interface Generator Human Computer Interaction Upcoming Invited Talks: International Workshop on Modern Software Tools for Scientific Computing, SCIRun: A Computational Steering Environment , Oslo, Norway, Septmember 16-18, 1996.",
+    "link": [
+        "http://www.cs.utah.edu/~crj/chris1_small.gif",
+        "http://www.cs.utah.edu",
+        "http://www.physics.utah.edu"
+    ],
+    "ground_truth": "faculty"
+}

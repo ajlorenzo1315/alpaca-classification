@@ -1,0 +1,10 @@
+{
+    "Title": " CS 314 Lectures: Table of Contents ",
+    "Body": "Sections in this document: Introduction to Computer Systems CPU Organization 68000 Programming Procedures, Recursion, and Stacks Assemblers, Linkers and Loaders Interrupts and I/O Introduction to Logic Design Topic 1: Introduction to Computer Systems Readings The What and Why of CS 314 How Pascal Really Works How can we handle complexity?",
+    "link": [
+        "http://www.cs.cornell.edu/Info/Courses/Spring-95/CS314/home.html",
+        "#Topic1",
+        "http://www.cs.cornell.edu/Info/Courses/Spring-95/CS314/lec1/lec1.ps.Z"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Urs Hoelzle ",
+    "Body": "The resulting Self system outperforms comparable systems (such as commercial Smalltalk implementations) by a factor of two to three on some medium-sized (500-line) benchmarks.",
+    "link": [
+        "http://www-cs.stanford.edu",
+        "http://self.smli.com",
+        "http://www.cs.ucsb.edu/oocsb/papers.shtml"
+    ],
+    "ground_truth": "faculty"
+}

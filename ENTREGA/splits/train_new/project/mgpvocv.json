@@ -1,0 +1,10 @@
+{
+    "Title": "\nAmanda, The Advanced Maryland Automatic Network Disk Archiver\n",
+    "Body": "Actually, Amanda will still work if you have full dumps that are larger than the holding disk: Amanda will send those dumps directly to tape one at a time.",
+    "link": [
+        "http://www.cs.umd.edu/projects/amanda/COPYRIGHT.html",
+        "http://www.cs.umd.edu/~jds/",
+        "ftp://ftp.cs.umd.edu/pub/amanda/"
+    ],
+    "ground_truth": "project"
+}

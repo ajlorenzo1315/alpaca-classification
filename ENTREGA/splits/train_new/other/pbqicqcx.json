@@ -1,0 +1,10 @@
+{
+    "Title": "KUOW\nSeattle",
+    "Body": "Date: Tuesday, 10-Dec-96 23:07:58 GMT Server: WinHttpd/1.4c (Shareware Non-Commercial License) Content-type: text/html Last-modified: Friday, 13-Sep-96 00:17:48 GMT Content-length: 1713 KUOW Seattle The National Public Radio News and Information Station At the University of Washington Information about KUOW Programs Newsroom Front Porch Forum - the election-year news project that involves citizens.",
+    "link": [
+        "kuowgen.htm",
+        "programs.htm",
+        "/news/newslead.htm"
+    ],
+    "ground_truth": "other"
+}

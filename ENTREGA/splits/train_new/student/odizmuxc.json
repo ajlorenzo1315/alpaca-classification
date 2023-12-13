@@ -1,0 +1,10 @@
+{
+    "Title": "Chi-Chao Chang's Home Page",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Wednesday, 20-Nov-96 19:50:23 GMT Content-Type: text/html Content-Length: 3375 Last-Modified: Friday, 16-Aug-96 23:37:00 GMT Chi-Chao Chang's Home Page Chi-Chao Chang chichao@cs.cornell.edu I'm a Ph.D. student in the Department of Computer Science at Cornell University .",
+    "link": [
+        "mailto:chichao@cs.cornell.edu",
+        "http://www.cs.cornell.edu/",
+        "http://www.cornell.edu/"
+    ],
+    "ground_truth": "student"
+}

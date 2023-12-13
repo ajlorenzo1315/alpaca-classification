@@ -1,0 +1,10 @@
+{
+    "Title": " Linux Journal ",
+    "Body": "Date: Tue, 10 Dec 1996 22:40:38 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Fri, 02 Jun 1995 22:01:57 GMT Content-length: 1475 Linux Journal Linux Journal Linux Journal is the monthly magazine for and about the Linux community.",
+    "link": [
+        "http://www.ssc.com",
+        "http://www.ssc.com",
+        "http://www.linux.org/"
+    ],
+    "ground_truth": "other"
+}

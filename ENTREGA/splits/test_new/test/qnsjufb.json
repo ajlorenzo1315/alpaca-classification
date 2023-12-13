@@ -1,0 +1,10 @@
+{
+    "Title": "CSE 143 Mailing Addresses",
+    "Body": "Mailing addresses that go just to course staff: cse143-instructor@cs Craig Chambers cse143-headta@cs Brad Chamberlain cse143-collins@cs Andy Collins cse143-kaplan@cs Craig Kaplan cse143-noth@cs Michael Noth cse143-saia@cs Jared Saia cse143-staff@cs All Instructors, TAs, and Lab Consultants cse143-webmaster@cs The Webmaster.",
+    "link": [
+        "mailto:cse143-instructor@cs",
+        "mailto:cse143-headta@cs",
+        "mailto:cse143-collins@cs"
+    ],
+    "ground_truth": "unknow"
+}

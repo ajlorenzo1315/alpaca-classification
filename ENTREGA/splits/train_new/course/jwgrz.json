@@ -1,0 +1,10 @@
+{
+    "Title": "CS 110",
+    "Body": "Date: Thu, 07 Nov 1996 19:23:36 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Wed, 04 Sep 1996 16:29:13 GMT Content-length: 2129 CS 110 Introduction to Computer Programming Computer Sciences 110 Fall 1996 This is a one-credit course designed to cover the basic programming structures needed to prepare the students for CS310 and elementary engineering courses.",
+    "link": [
+        "http://www.cs.wisc.edu/~cs302",
+        "http://www.cs.wisc.edu/~tick/cs110.html",
+        "http://www.cs.wisc.edu/~tick/cs110.html"
+    ],
+    "ground_truth": "course"
+}

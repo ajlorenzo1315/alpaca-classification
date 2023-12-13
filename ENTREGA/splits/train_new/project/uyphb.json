@@ -1,0 +1,10 @@
+{
+    "Title": "Shared Research Project: Home Page",
+    "Body": "Date: Wed, 20 Nov 1996 20:02:04 GMT Server: Apache/1.1b3 Content-type: text/html Shared Research Project: Home Page University of Minnesota - IBM Shared Research Project University of Minnesota-IBM Shared Research Project managed by the Computer Science Department, the Supercomputer Institute, and the Office of Information Technology Announcements: IBM donates new hardware New user support manager hired LoadLeveler Rebate Cluster Status: Thursday, Nov 21 The RS/6000s (rs1-rs8) will be in dedicated mode from noon until 9am the next morning (Friday, Nov 22).",
+    "link": [
+        "http://www.cs.umn.edu/Research/ibm-cluster/newsletter-v1n3.html#hard",
+        "http://www.cs.umn.edu/Research/ibm-cluster/newsletter-v1n3.html#support",
+        "http://www.cs.umn.edu/Research/ibm-cluster/loadleveler_dis.html"
+    ],
+    "ground_truth": "project"
+}

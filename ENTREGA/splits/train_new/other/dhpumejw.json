@@ -1,0 +1,10 @@
+{
+    "Title": "Mesh Generation",
+    "Body": "I have developed efficient techniques for producing meshes of guaranteed quality for problems in the plane and for curved surfaces:  the elements produced are all triangles that are close to equilateral in shape, all region boundaries are respected, and the user can control the element density, producing small elements in ``interesting'' regions and large elements elsewhere.",
+    "link": [
+        "http://www.cs.cornell.edu/Info/People/chew/chew.html",
+        "http://www.cs.cornell.edu/Info/People/chew/2d-mesh.eps",
+        "http://www.cs.cornell.edu/Info/People/chew/surface-mesh.eps"
+    ],
+    "ground_truth": "other"
+}

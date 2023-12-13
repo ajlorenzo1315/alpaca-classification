@@ -1,0 +1,10 @@
+{
+    "Title": "Ariel Tamches",
+    "Body": "Computer Sciences, UW-Madison; May, 1995.",
+    "link": [
+        "http://www.cs.wisc.edu/~tamches/heartattack3b.gif",
+        "http://www.cs.wisc.edu/~tamches/krustyshotgun.gif",
+        "http://www.cs.wisc.edu/~tamches/osn96.html"
+    ],
+    "ground_truth": "student"
+}

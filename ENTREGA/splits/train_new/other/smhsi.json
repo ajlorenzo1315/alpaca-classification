@@ -1,0 +1,10 @@
+{
+    "Title": " Office Hours",
+    "Body": "Date: Tue, 05 Nov 1996 20:56:33 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Wed, 18 Sep 1996 20:30:41 GMT Content-length: 1863 Office Hours Next: Topics to be Up: CS564 Fall 1996 Course Previous: Prerequisites Office Hours Raghu Ramakrishnan (Instructor): 7355CS&S, ( raghu@cs ), MW 12:30PM - 1:30PM Xuemei Bao (TA): 1345 CS&S, ( xbao@cs ),2:30PM-3:30PM Tues Thur If you need to meet with any of the above outside the posted hours, you can do so by setting up an appointment.",
+    "link": [
+        "http://www.cs.wisc.edu/~cs564-1/info/node4.html",
+        "http://www.cs.wisc.edu/~cs564-1/cs564.html",
+        "http://www.cs.wisc.edu/~cs564-1/info/node2.html"
+    ],
+    "ground_truth": "other"
+}

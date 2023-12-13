@@ -1,0 +1,10 @@
+{
+    "Title": "IMA.HomePage",
+    "Body": "Date: Tue, 10 Dec 1996 23:10:05 GMT Server: Apache/1.1.1 Content-type: text/html Content-length: 3107 Last-modified: Thu, 05 Dec 1996 17:02:10 GMT IMA.HomePage IMA Intramural Activities Building WAC Waterfront Activities Center Golf Range Golf Range Intramurals Recreational Competition Club Sports Student Sport Organizations Sports Skills Instruction Program The Recreational Sports Programs staff invites you to enjoy the exercise, sports and fitness opportunities available to students, faculty and staff members at the University of Washington.",
+    "link": [
+        "http://weber.u.washington.edu/~ima/IMA.splash.fac.htm",
+        "http://weber.u.washington.edu/~ima/IMA.splash.wac.htm",
+        "http://weber.u.washington.edu/~ima/IMA.splash.gr.htm"
+    ],
+    "ground_truth": "other"
+}

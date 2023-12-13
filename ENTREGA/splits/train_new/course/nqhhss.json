@@ -1,0 +1,10 @@
+{
+    "Title": " CIS 315, Introduction to Algorithms ",
+    "Body": "We will post them indexed by the last four digits of your student number.",
+    "link": [
+        "http://www.cs.uoregon.edu/classes/cis315/syllabus.html",
+        "http://www.cs.uoregon.edu/classes/cis315/schedule.html",
+        "http://www.cs.uoregon.edu/classes/cis315/resources.html"
+    ],
+    "ground_truth": "course"
+}

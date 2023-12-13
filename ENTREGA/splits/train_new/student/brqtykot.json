@@ -1,0 +1,10 @@
+{
+    "Title": "The Sun Moon Fire and My Dream",
+    "Body": "I got my bachelor degree on Computer Science in 1996.7, in Tsinghua University, China.",
+    "link": [
+        "http://www.cs.pitt.edu/~lky/j13/index.html",
+        "http://www.cs.pitt.edu/~lky/image/myphoto/photo2.jpg",
+        "http://www.cs.pitt.edu/~soffa/cs2211"
+    ],
+    "ground_truth": "student"
+}

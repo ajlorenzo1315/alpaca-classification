@@ -1,0 +1,10 @@
+{
+    "Title": "HARIKLIA   DELTA",
+    "Body": "In Greece I worked for four years as a private tutor.",
+    "link": [
+        "http://www.ccs.neu.edu/home/deltah/images/delta1.gif",
+        "http://www.ccs.neu.edu/",
+        "http://www.neu.edu"
+    ],
+    "ground_truth": "student"
+}

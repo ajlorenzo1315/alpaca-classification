@@ -1,0 +1,10 @@
+{
+    "Title": "Home Page of Laboratory for Software Research",
+    "Body": "Date: Tue Nov 26 00:47:19 1996 GMT Server: NCSA/1.0a5 MIME-version: 1.0 Content-type: text/html Last-modified: Fri Jul 14 16:45:35 1995 GMT Content-length: 1426 Home Page of Laboratory for Software Research Projects Case Study in Software Engineering ConceptTracker , a foundation for building software development environments Software Problem Tracking and Configuration Management System (SPTACM) Distributed Software Engineering Research Center (DSERC) Anesthesia Resources Information System People Director, William M. Lively Mark Lease's home page Haojin Wang's home page Geetha Pathi's home page Related, Local WWW Sites Computer Science Department's Home Page Software Engineering Home Page If you have any questions, problems, or suggestions --- please contact the local WWW maintainer at the address below.",
+    "link": [
+        "http://blaze.cs.tamu.edu/lively/CaseStudy.html",
+        "http://blaze.cs.tamu.edu/ConceptTracker/",
+        "http://blaze.cs.tamu.edu/SPTACM/"
+    ],
+    "ground_truth": "unknow"
+}

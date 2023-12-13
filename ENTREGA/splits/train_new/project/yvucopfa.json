@@ -1,0 +1,10 @@
+{
+    "Title": "Index of /",
+    "Body": "The lab provides an enviroment for research on computer network protocols and distributed system algorithms and architectures.",
+    "link": [
+        "http://www.usc.edu",
+        "http://www.usc.edu/",
+        "http://www.usc.edu/dept/cs/"
+    ],
+    "ground_truth": "project"
+}

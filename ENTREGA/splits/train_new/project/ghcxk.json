@@ -1,0 +1,10 @@
+{
+    "Title": "Automated Theorem Proving Group",
+    "Body": "SET-VAR Feng's prover for set theory Implementation description Proof of Heine-Borel theorem Precondition Prover Bledsoe's prover for analogy Proof of the Heine-Borel theorem NQTHM Boyer and Moore's prover developed at CLInc.",
+    "link": [
+        "http://www.cs.utexas.edu/",
+        "http://www.ma.utexas.edu/",
+        "http://wwwhost.cc.utexas.edu"
+    ],
+    "ground_truth": "project"
+}

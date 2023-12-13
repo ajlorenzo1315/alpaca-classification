@@ -1,0 +1,10 @@
+{
+    "Title": "THE SIFTER Home Page",
+    "Body": "The list below is but one of many possible starting points for your Web exploration: Here A Recent TWINBROOK Console Screen Image Departmental Gopher Service Popular Local Web Pages webNews -- 'URL-Anchorized' USENET News Web Article Archive Near Alabama Blue Cross and Blue Shield Alabama Supercomputing Network BellSouth Telecommunications Kirklin Clinic UAB Department of Photography and Instructional Graphics UAB Lister Hill Library Far Birthplace of the Web IBM Internet Connection and the WebExplorer Netscape Communications Corporation and NetScape Lycos' Catalogue of the Internet National Center for Supercomputing Applications (NCSA) and Mosaic NSF Backbone (Internet Service) Usage with Graphs Principia Cybernetica Project USENET News Filtering Service The White House and an Interactive Citizens' Handbook Yahoo -- WWW Search Facility The Contacts Further information about the SIFTER Research Group, its research interests, projects, computing facilities, or information services not described in these Web pages can be obtained by contacting, appropriately: Warren T. Jones Faculty Advisor, SIFTER Research Group G B Williams Senior Systems Analyst, UAB-CIS Computing Facilities R L Samuell Administrator, UAB-CIS SIFTER Research Group Web Services (The following or similar buttons are located at the end of many hypertext pages on this server.",
+    "link": [
+        "http://twinbrook.cis.uab.edu:70/screen.gif",
+        "http://twinbrook.cis.uab.edu:70/GO/greeting.au",
+        "http://twinbrook.cis.uab.edu:70/SIFTER.80"
+    ],
+    "ground_truth": "project"
+}

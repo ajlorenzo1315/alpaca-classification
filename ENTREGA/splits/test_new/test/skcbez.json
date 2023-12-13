@@ -1,0 +1,10 @@
+{
+    "Title": "Arie E. Kaufman",
+    "Body": "Address Arie E. Kaufman Department of Computer Science State University of New York at Stony Brook Stony Brook, NY 11794-4400, USA ari@cs.sunysb.edu Short Biography Arie E. Kaufman is a Leading Professor of Computer Science and Radiology at the State University of New York at Stony Brook, where he is the director of the Cube project for volume visualization supported by the National Science Foundation, Department of Energy, Hughes Aircraft Company, Hewlett-Packard Company, Silicon Graphics Company, Howard Hughes Medical Institute, Center for Biotechnology, and the State of New York.",
+    "link": [
+        "http://www.cs.sunysb.edu/~volvis/vislab.html",
+        "http://www.cs.sunysb.edu/~volvis/vislab/volvis.html",
+        "http://www.cs.sunysb.edu/~cube"
+    ],
+    "ground_truth": "unknow"
+}

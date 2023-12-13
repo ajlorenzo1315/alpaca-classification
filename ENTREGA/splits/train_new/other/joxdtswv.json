@@ -1,0 +1,9 @@
+{
+    "Title": "Hierarchical Constraint Logic Programming",
+    "Body": "We present a theory of such constraint hierarchies , and an extension, Hierarchical Constraint Logic Programming, of the CLP scheme to include constraint hierarchies.",
+    "link": [
+        "ftp://cs.washington.edu/tr/1993/01/UW-CSE-93-01-02a.PS.Z",
+        "http://www.cs.washington.edu/research/projects/weird/www/index.html"
+    ],
+    "ground_truth": "other"
+}

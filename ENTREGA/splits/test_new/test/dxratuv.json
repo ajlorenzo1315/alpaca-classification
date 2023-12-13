@@ -1,0 +1,10 @@
+{
+    "Title": "University of Chicago Computer Science",
+    "Body": "Date: Tue, 26 Nov 1996 22:36:50 GMT Server: Apache/1.1.1 Content-type: text/html Set-Cookie: Apache=gs3520534849047810915; path=/ Content-length: 3360 Last-modified: Thu, 04 Apr 1996 03:59:06 GMT University of Chicago Computer Science Computer Science Welcome to the University of Chicago Computer Science Department.",
+    "link": [
+        "http://www.uchicago.edu/",
+        "http://cs-www.uchicago.edu/info/admin/admissions",
+        "http://cs-www.uchicago.edu/info/admin/html/faculty-research.html"
+    ],
+    "ground_truth": "unknow"
+}

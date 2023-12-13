@@ -1,0 +1,10 @@
+{
+    "Title": "Tomaso Poggio HomePage",
+    "Body": "Date: Tue, 14 Jan 1997 23:53:19 GMT Server: Apache/1.2-dev Connection: close Content-Type: text/html Expires: Tue, 14 Jan 1997 23:53:19 GMT Last-Modified: Tue, 29 Oct 1996 21:45:44 GMT ETag: \"574c1-852-32767b08\" Content-Length: 2130 Accept-Ranges: bytes Tomaso Poggio HomePage Professor Tomaso Poggio I currently hold the Uncas and Helen Whitaker Professorship of Vision Sciences and Biophysics at the Department of Brain and Cognitive Science at MIT, and am also affiliated to MIT's Artifical Intelligence Laboratory .",
+    "link": [
+        "http://www.ai.mit.edu/projects/cbcl/web-pis/poggio/tp.gif",
+        "http://web.mit.edu/afs/athena.mit.edu/org/b/bcs/www/bcshome/bcshome.htm#department",
+        "http://www.ai.mit.edu/"
+    ],
+    "ground_truth": "faculty"
+}

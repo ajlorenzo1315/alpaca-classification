@@ -1,0 +1,10 @@
+{
+    "Title": "CSE370 E-mail",
+    "Body": "Date: Mon, 02 Dec 1996 14:37:56 GMT Server: NCSA/1.4.2 Content-type: text/html CSE370 E-mail CSE370 E-mail Here are the mailing addresses you should use to get in touch with CSE 370 staff and fellow students.",
+    "link": [
+        "mailto:cse370-instructor@cs",
+        "mailto:cse370-head-ta@cs",
+        "mailto:cse370-webmaster@cs"
+    ],
+    "ground_truth": "other"
+}

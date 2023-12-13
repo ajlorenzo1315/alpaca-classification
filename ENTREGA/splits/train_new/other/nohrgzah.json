@@ -1,0 +1,10 @@
+{
+    "Title": " Kevin Hinshaw: Contact Info\n",
+    "Body": "GS: Graphics Seminar     Sieg 225 RM: Research Meetings\t HSB G501 WE: Wind Ensemble\t Meany 268 home | research | personal | creations | links | music | contact Last modified: Sun Nov 17 22:14:49 1996 hinshaw@cs.washington.edu",
+    "link": [
+        "mailto:hinshaw@cs.washington.edu",
+        "http://www.cs.washington.edu/homes/hinshaw/index.html",
+        "http://www.cs.washington.edu/"
+    ],
+    "ground_truth": "other"
+}

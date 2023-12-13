@@ -1,0 +1,10 @@
+{
+    "Title": "Italian Language Sites",
+    "Body": "Links to a variety of sites all in Italian including L'Edicola where you will find news sources, and cultural links in Italian.",
+    "link": [
+        "mailto:lauren@lss.wisc.edu",
+        "#cult",
+        "#city"
+    ],
+    "ground_truth": "unknow"
+}

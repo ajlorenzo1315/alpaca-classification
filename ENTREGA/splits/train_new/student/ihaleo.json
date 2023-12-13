@@ -1,0 +1,10 @@
+{
+    "Title": " Rajiv Mirani's Home Page ",
+    "Body": "Date: Thu, 21 Nov 1996 23:47:39 GMT Server: NCSA/1.4.1 Content-type: text/html Last-modified: Fri, 31 Mar 1995 14:23:43 GMT Content-length: 1723 Rajiv Mirani's Home Page Rajiv Mirani Note: This page is always under construction.",
+    "link": [
+        "http://www.cs.yale.edu/welcome.html",
+        "http://www.cs.yale.edu/HTML/YALE/CS/FrontDoor.html",
+        "http://hydra.unik.no/%7Erobert/hifi/"
+    ],
+    "ground_truth": "student"
+}

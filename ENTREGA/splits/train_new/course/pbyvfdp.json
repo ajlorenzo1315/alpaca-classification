@@ -1,0 +1,10 @@
+{
+    "Title": "CSE501 Home page",
+    "Body": "Date: Thu, 21 Nov 1996 22:20:42 GMT Server: NCSA/1.4.2 Content-type: text/html CSE501 Home page CSE 501: Implementation of Programming Languages Winter Quarter, 1996 Important Course Information Meeting times M, W, F from 1:30 to 2:20 in MEB 235 Instructor Craig Chambers ( chambers@cs ), office hours: T, Th 11-12 (starting second week), Sieg 309.",
+    "link": [
+        "http://www.cs.washington.edu/people/faculty/chambers.html",
+        "http://www.cs.washington.edu/education/courses/501/slides/",
+        "http://www.cs.washington.edu/education/courses/501/handouts/"
+    ],
+    "ground_truth": "course"
+}

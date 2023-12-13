@@ -1,0 +1,10 @@
+{
+    "Title": "Brad Calder",
+    "Body": "Date: Thu, 21 Nov 1996 20:11:28 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Tue, 01 Oct 1996 06:04:04 GMT Content-length: 1280 Brad Calder Brad Calder I am an Assistant Professor in the Department of Computer Science and Engineering at the University of California, San Diego .",
+    "link": [
+        "http://www-cse.ucsd.edu/CSE_Home_Page.html",
+        "http://www.ucsd.edu",
+        "http://www.cs.colorado.edu/"
+    ],
+    "ground_truth": "faculty"
+}

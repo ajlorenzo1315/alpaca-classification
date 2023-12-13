@@ -1,0 +1,10 @@
+{
+    "Title": "\nCS W3139y Data Structures and Algorithms - Fall 1996\n",
+    "Body": "This home page will be used as a center of communication for the entire class.",
+    "link": [
+        "http://www.cs.columbia.edu/~royr/cs3139/whatsnew.html",
+        "http://www.cs.columbia.edu/~allen/cs3139/GeneralInformation.html",
+        "http://www.cs.columbia.edu/~royr/cs3139/Roster.html"
+    ],
+    "ground_truth": "course"
+}

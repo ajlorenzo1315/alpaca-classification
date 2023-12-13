@@ -1,0 +1,10 @@
+{
+    "Title": "Elaine Cohen",
+    "Body": "Principal Investigator of the NSF Young Scholar's Program, Utah Summer Computing Institute for Computer Graphics, Modeling and Expert Systems.",
+    "link": [
+        "http://www.cs.utah.edu/projects/alpha_1/images/chess.jpg",
+        "http://www.cs.utah.edu/projects/alpha_1/images/dragon.jpg",
+        "http://www.cs.utah.edu/projects/alpha_1/images/claw.mpg"
+    ],
+    "ground_truth": "faculty"
+}

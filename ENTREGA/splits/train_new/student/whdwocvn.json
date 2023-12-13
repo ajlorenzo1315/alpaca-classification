@@ -1,0 +1,10 @@
+{
+    "Title": "Welcome to Yuan Wang's Home Page",
+    "Body": "Date: Tue, 26 Nov 1996 03:48:10 GMT Server: Apache/1.1.1 Content-type: text/html Content-length: 1279 Last-modified: Sat, 23 Nov 1996 02:16:55 GMT Welcome to Yuan Wang's Home Page Welcome to Yuan Wang's Home Page Personal Information It all starts with a dream!",
+    "link": [
+        "http://www.ncsa.uiuc.edu/General/Internet/WWW/HTMLPrimer.html",
+        "http://java.sun.com",
+        "http://gnn.interpath.net/gnn/bus/ora/catalog/index.html"
+    ],
+    "ground_truth": "student"
+}

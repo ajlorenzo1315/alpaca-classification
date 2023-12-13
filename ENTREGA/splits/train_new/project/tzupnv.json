@@ -1,0 +1,10 @@
+{
+    "Title": "USTAT Intrusion Detection System",
+    "Body": "Click here for an abstract of his master's  thesis, and here for the full text (1.2M, postscript) .",
+    "link": [
+        "http://www.cs.ucsb.edu/TRs/TRCS93-25.html",
+        "http://www.cs.ucsb.edu/TRs/techreports/TRCS93-25.ps",
+        "http://www.cs.ucsb.edu/TRs/TRCS93-26.html"
+    ],
+    "ground_truth": "project"
+}

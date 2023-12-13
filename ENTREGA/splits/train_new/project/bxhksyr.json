@@ -1,0 +1,10 @@
+{
+    "Title": "  Formal Methods in System Design and Verification ",
+    "Body": "DB will also have facilities to translate assertions in its design requirements-base into assertions to be verified by the PV (mainly for protocol) and CV (mainly for data-layout and cycle-level details) tools, to ensure consistency between the models.",
+    "link": [
+        "http://www.cs.utah.edu/projects/avalanche",
+        "mailto:ganesh@cs.utah.edu",
+        "http://www.cs.utah.edu/~ganesh/"
+    ],
+    "ground_truth": "project"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Chinook Paper list ",
+    "Body": "[WB94b] E. A. Walkup and G. Borriello, \"Automatic Synthesis of Device Drivers for Hardware/Software Co-design\" University of Washington Department of Computer Science Technical Report 94-06-04 Automatically synthesizing device drivers, the hardware and software needed to interface a device to a processor, is an important element of hardware/software co-design.",
+    "link": [
+        "ftp://shrimp.cs.washington.edu/pub/chou/isss95.ps.Z",
+        "file://ftp.cs.washington.edu/tr/1995/03/UW-CSE-95-03-04.PS.Z",
+        "ftp://shrimp.cs.washington.edu/pub/chou/nato.ps.Z"
+    ],
+    "ground_truth": "other"
+}

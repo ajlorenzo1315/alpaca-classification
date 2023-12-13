@@ -1,0 +1,10 @@
+{
+    "Title": "Daniel J. Clancy's Bookmarks",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Monday, 06-Jan-97 22:59:33 GMT Content-Type: text/html Content-Length: 11425 Last-Modified: Monday, 29-Apr-96 07:29:28 GMT Daniel J. Clancy's Bookmarks Daniel J. Clancy's Bookmarks Yahoo - A Guide to WWW AI Research and Info TIME International Workshop Series QR96 Home page for Qphysics Qualitative Reasoning Research at UTexas New Orleans Links Links to New Orleans sites Virtually New Orleans The Gumbo Pages home page New Orleans Jazz & Heritage Fest Research Sites Conceptual Indexing/Retrieval AT&T Bell Laboratories Computing Science Research Center Microsoft Research Sport Sites The Nando Sports Server Boston Globe Sports: The Celtics Welcome to the Ultimate Longhorn Football Site GORP - Great Outdoor Recreation Pages Horns NBA.com Bostonian Steve's Celtics Page ESPNET SportsZone College Basketball Page OS2 Sites OS/2 User Group at Univ.",
+    "link": [
+        "http://akebono.stanford.edu/yahoo/bin/menu?112,8",
+        "http://www.seas.smu.edu/~mario/time-workshop/welcome.html",
+        "http://WWW-KSL.Stanford.EDU/projects/htw/qr96/"
+    ],
+    "ground_truth": "other"
+}

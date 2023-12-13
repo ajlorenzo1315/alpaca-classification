@@ -1,0 +1,10 @@
+{
+    "Title": " OS and Network support for video services",
+    "Body": "Recent papers and technical reports An algorithm for lossless smoothing of MPEG video Simon S. Lam, Simon Chow, and David K. Y. Yau Proceedings of ACM SIGCOMM '94, London, August 1994 compressed postscript file Delay guarantee of Virtual Clock server Geoffrey G. Xie and Simon S. Lam Technical report TR-94-24, October 6, 1994 presented at 9th IEEE Workshop on Computer Communications, October 1994; IEEE/ACM Transactions on Networking, December 1995 compressed postscript file revised version, September 24, 1995 Burst Scheduling Networks Simon S. Lam and Geoffrey G. Xie Technical report TR-94-20, July 29, 1994; second revision, August 31, 1996 (presented at 9th IEEE Workshop on Computer Communications, October 1994) compressed postscript file compressed postscript file of INFOCOM '95 version Burst Scheduling networks: Flow Specification and performance guarantees Simon S. Lam and Geoffrey G. Xie Proceedings NOSSDAV '95 Workshop, Durham, New Hampshire, April 1995 (extended abstract of Technical report TR-94-20 with more insights) compressed postscript file Group Priority Scheduling Simon S. Lam and Geoffrey G. Xie Technical Report TR-95-28, July 21, 1995; revised, January 4, 1996 ; to appear in INFOCOM '96 compressed postscript file compressed postscript file of INFOCOM '96 version An Efficient Adaptive Search Algorithm for Scheduling Real-Time Traffic Geoffrey G. Xie and Simon S. Lam Technical Report TR-95-29, July 21, 1995; revised, February 1996, with a title change ; to appear in Proc.",
+    "link": [
+        "ftp://ftp.cs.utexas.edu/pub/lam/smooth.ps.Z",
+        "ftp://ftp.cs.utexas.edu/pub/lam/tr94-24.ps.Z",
+        "ftp://ftp.cs.utexas.edu/pub/lam/tr94-20.ps.Z"
+    ],
+    "ground_truth": "other"
+}

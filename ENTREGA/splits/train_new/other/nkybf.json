@@ -1,0 +1,10 @@
+{
+    "Title": "Gideon Glass's Bookmarks",
+    "Body": "Date: Mon, 04 Nov 1996 23:46:31 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Wed, 23 Oct 1996 04:46:55 GMT Content-length: 17271 Gideon Glass's Bookmarks Gideon Glass's Bookmarks Gideon Glass's Bookmarks Gid bookmarks The Netizen - Impolitic People Gideon Glass Jamie Zawinski jwz's bookmarks Tom Anderson Mark Weiser Margo Seltzer's Home Page Martin H. Booda's Home Page Rough Music This is the Place of General Happiness John Wilkes -- External home page Index of John Wilkes's public papers Letter from Donald Knuth Knuth: Retirement [~mswaine] World Chapter 5 Sec4 Statement by Individual Committee Member Vote Smart Web [MojoWire] Welcome to Politics by the Numbers!",
+    "link": [
+        "http://www.cs.wisc.edu/~gid/bookmarks.html",
+        "http://www.netizen.com/netizen/",
+        "http://www.cs.wisc.edu/~gid/gid.html"
+    ],
+    "ground_truth": "other"
+}

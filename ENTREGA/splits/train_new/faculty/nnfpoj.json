@@ -1,0 +1,10 @@
+{
+    "Title": "Sandy Peterson's Home Page",
+    "Body": "Date: Mon, 25 Nov 1996 23:31:14 GMT Server: NCSA/1.4.1 Content-type: text/html Last-modified: Tue, 27 Aug 1996 16:55:56 GMT Content-length: 779 Sandy Peterson's Home Page Sandra L. Peterson Visiting Professor, Department of Computer Science, College of William and Mary E-mail slpete@cs.wm.edu Telephone (757) 221-3483 Mailing address Department of Computer Science College of William and Mary P.O.",
+    "link": [
+        "http://www.cs.wm.edu/~slpete/304.html",
+        "http://www.cs.wm.edu/~slpete/131.html",
+        "http://www.cs.wm.edu/homedoc.html"
+    ],
+    "ground_truth": "faculty"
+}

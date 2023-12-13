@@ -1,0 +1,10 @@
+{
+    "Title": "Beverly Park Woolf, (bev@cs.umass.edu)",
+    "Body": "Beverly Woolf is a Research Assistant Professor and Director of the Center for Knowledge Communication at the University of Massachusetts.",
+    "link": [
+        "http://www.cs.umass.edu/",
+        "mailto:bev@cs.umass.edu",
+        "http://www.cs.umass.edu/~ckc/"
+    ],
+    "ground_truth": "faculty"
+}

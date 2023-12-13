@@ -1,0 +1,10 @@
+{
+    "Title": "About Dr. Al Cripps",
+    "Body": "Date: Mon, 25 Nov 1996 21:52:48 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Mon, 24 Jul 1995 19:46:13 GMT Content-length: 1051 About Dr. Al Cripps Dr. Al Cripps Professor Educational Background B.S., 1974; M.S., 1975, Middle Tennessee State University; Ph.D., 1980, University of Tennessee.",
+    "link": [
+        "http://www.mtsu.edu/academic/compsci/help.html",
+        "http://www.mtsu.edu/academic/compsci/comment.html",
+        "http://www.mtsu.edu/academic/compsci/faculty//"
+    ],
+    "ground_truth": "faculty"
+}

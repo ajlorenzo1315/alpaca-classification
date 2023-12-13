@@ -1,0 +1,10 @@
+{
+    "Title": "Computer Algebra ",
+    "Body": "( Tech Report ) \"Weyl Computer Algebra Substrate\", Design and Implementation of Symbolic Computation Systems '93 , Springer-Verlag Lecture Notes in Computer Science 722, pp.",
+    "link": [
+        "http://cs-tr.cs.cornell.edu/TR/CORNELLCS:TR93-1326?abstract=",
+        "http://cs-tr.cs.cornell.edu/TR/CORNELLCS:TR91-1209?abstract=",
+        "http://cs-tr.cs.cornell.edu/TR/CORNELLCS:TR90-1077?abstract="
+    ],
+    "ground_truth": "unknow"
+}

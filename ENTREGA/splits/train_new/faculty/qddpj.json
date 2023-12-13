@@ -1,0 +1,10 @@
+{
+    "Title": "About Dr. Mack Thweatt",
+    "Body": "A List Of Classes Taught by Dr. Thweatt In the Spring of 1995: CSCI 316, Introduction to Assembly Language: CSCI 411, Advanced Commercial EPD.",
+    "link": [
+        "http://www.mtsu.edu/academic/compsci/help.html",
+        "http://www.mtsu.edu/academic/compsci/comment.html",
+        "http://www.mtsu.edu/academic/compsci/faculty//"
+    ],
+    "ground_truth": "faculty"
+}

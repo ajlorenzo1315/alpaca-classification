@@ -1,0 +1,10 @@
+{
+    "Title": " Nick Afshartous",
+    "Body": "\"Expressing Concurrency in Griffin.\"",
+    "link": [
+        "http://www.cs.nyu.edu",
+        "http://cs.nyu.edu/cs/courantnyu.html",
+        "http://www.nyu.edu"
+    ],
+    "ground_truth": "student"
+}

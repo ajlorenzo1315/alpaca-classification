@@ -1,0 +1,10 @@
+{
+    "Title": "John S. Adair",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Monday, 06-Jan-97 19:43:36 GMT Content-Type: text/html Content-Length: 2883 Last-Modified: Monday, 25-Nov-96 01:33:10 GMT John S. Adair John's crinkum-crankum homepage I live at The Compound with my wife, Holly Eileen Taylor , my son, Evan James Taylor-Adair , and some other Rice alumni .",
+    "link": [
+        "http://www.cs.utexas.edu/users/jadair/compound.html",
+        "http://www.io.com/~hollyt/",
+        "http://www.cs.utexas.edu/users/jadair/evan.html"
+    ],
+    "ground_truth": "student"
+}

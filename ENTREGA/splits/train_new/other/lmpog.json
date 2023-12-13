@@ -1,0 +1,10 @@
+{
+    "Title": "gone skiing !!",
+    "Body": "Click Not here to go to the ExTremE People ® area.",
+    "link": [
+        "http://www.cs.washington.edu/homes/jamrozik/extreme.html",
+        "http://www.whistler.net/blackcomb",
+        "http://www.whistler.net/"
+    ],
+    "ground_truth": "other"
+}

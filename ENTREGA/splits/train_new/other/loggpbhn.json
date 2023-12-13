@@ -1,0 +1,9 @@
+{
+    "Title": "CS100B Program 4 Solution",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Sunday, 24-Nov-96 22:46:48 GMT Content-Type: text/html Content-Length: 624 Last-Modified: Friday, 08-Nov-96 16:45:05 GMT CS100B Program 4 Solution CS100B Program 4 Solution I decided to implement my bigint as #define DIGITS 512",
+    "link": [
+        "bigint.c",
+        "p4.c"
+    ],
+    "ground_truth": "other"
+}

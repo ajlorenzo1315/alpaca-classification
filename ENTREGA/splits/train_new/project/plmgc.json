@@ -1,0 +1,9 @@
+{
+    "Title": " Hyperproof 2.0 ",
+    "Body": "Date: Wed, 20 Nov 1996 19:15:44 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Tue, 28 Nov 1995 19:51:46 GMT Content-length: 1057 Hyperproof 2.0 Hyperproof 2.0 Description: This is a courseware development project aimed at creating a second generation of Hyperproof .",
+    "link": [
+        "http://csli-www.stanford.edu/hp/index.html",
+        "http://www.cs.indiana.edu/research/index.html"
+    ],
+    "ground_truth": "project"
+}

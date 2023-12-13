@@ -1,0 +1,10 @@
+{
+    "Title": "Mail Form",
+    "Body": "Date: Wed, 11 Dec 1996 23:15:31 GMT Server: NCSA/1.5 Content-type: text/html Mail Form College of Engineering University of Wisconsin - Madison webmaster@engr.wisc.edu Before you mail... Have you looked at our FAQ (Frequently Asked Questions) yet?",
+    "link": [
+        "http://www.engr.wisc.edu/cgi-bin//",
+        "http://www.engr.wisc.edu/general/help/faq.html",
+        "http://www.wisc.edu/"
+    ],
+    "ground_truth": "other"
+}

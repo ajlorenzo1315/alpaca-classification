@@ -1,0 +1,10 @@
+{
+    "Title": " Introduction to Computer Vision",
+    "Body": "Server: Netscape-Communications/1.1 Date: Wednesday, 20-Nov-96 23:02:05 GMT Last-modified: Friday, 25-Oct-96 00:55:19 GMT Content-length: 3223 Content-type: text/html Introduction to Computer Vision CS/ECE 181B Introduction to Computer Vision This is an introductory course aimed at juniors/seniors/first year graduate students in Engineering and Sciences.",
+    "link": [
+        "intro181.html",
+        "schedule181.html",
+        "prog181.html"
+    ],
+    "ground_truth": "course"
+}

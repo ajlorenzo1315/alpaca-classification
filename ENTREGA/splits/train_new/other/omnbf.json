@@ -1,0 +1,10 @@
+{
+    "Title": "\nHome Page for Ingolf Krüger\n",
+    "Body": "I am a graduate student in the Master's Degree program of the Department of Computer Sciences at the University of Texas at Austin .",
+    "link": [
+        "http://www.cs.utexas.edu",
+        "http://www.utexas.edu",
+        "http://www.cs.utexas.edu/users/misra"
+    ],
+    "ground_truth": "other"
+}

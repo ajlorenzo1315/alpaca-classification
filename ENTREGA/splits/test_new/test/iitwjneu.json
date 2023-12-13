@@ -1,0 +1,9 @@
+{
+    "Title": " Home Page of Seymour V. Parter ",
+    "Body": "Classical iterative methods and most multigrid methods only work effectively when the system is positive definite.",
+    "link": [
+        "mailto:parter@cs.wisc.edu",
+        "mailto:pubs@cs.wisc.edu"
+    ],
+    "ground_truth": "unknow"
+}

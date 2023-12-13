@@ -1,0 +1,10 @@
+{
+    "Title": "\n    Paul W. Oman Faculty Page\n  ",
+    "Body": "Date: Mon, 25 Nov 1996 23:05:26 GMT Server: NCSA/1.4.1 Content-type: text/html Last-modified: Tue, 20 Aug 1996 23:08:58 GMT Content-length: 3032 Paul W. Oman Faculty Page Paul W. Oman Department of Computer Science University of Idaho oman@cs.uidaho.edu Paul W. Oman is an associate professor of computer science and has been at the University of Idaho since 1984.",
+    "link": [
+        "http://www.cs.uidaho.edu/~setl/oman.classes.html",
+        "http://www.cs.uidaho.edu/~setl/setl.students.html",
+        "http://www.cs.uidaho.edu/~setl/setl.html"
+    ],
+    "ground_truth": "faculty"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": " Personal Page of Joe Mitchell",
+    "Body": "Mitchell How to Reach Me Department of Applied Mathematics and Statistics Math Tower, Room 1-109 State University of New York at Stony Brook Stony Brook, NY 11794-3600, USA e-mail: jsbm@ams.sunysb.edu phone (516) 632-8366 (office), 474-4301 (home) fax (516) 632-8490 Research Interests Computational Geometry and Computer Graphics Algorithms and Data Structures Computer-Aided (Geometric) Design and Manufacturing On-Line Papers Hotlist Events Solid Modeling'97 13th ACM Symposium on Computational Geometry , June 4-6, 1997, Nice, FRANCE.",
+    "link": [
+        "http://ams.sunysb.edu/~jsbm/publications.html",
+        "http://ams.sunysb.edu/~jsbm/hotlist.html",
+        "http://elib.cme.nist.gov/msid/conf/sm97.html"
+    ],
+    "ground_truth": "unknow"
+}

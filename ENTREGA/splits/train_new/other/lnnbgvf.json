@@ -1,0 +1,10 @@
+{
+    "Title": "ARL:UT World Wide Web Home Page",
+    "Body": "Date: Mon, 06 Jan 1997 21:42:45 GMT Server: NCSA/1.5.2 Content-type: text/html ARL:UT World Wide Web Home Page Welcome to the Applied Research Laboratories ARL:UT Online Phonebook Links Miscellaneous Local Information Current ARL Job Opportunities A few divisions within ARL:UT provide WWW services, including: CSD - Computer Science Division - Newsletters , Information , Man pages , System Administration links SGG - Space and Geophysics Group ITG - Information Technology Group NAD - Nonlinear Acoustics Division ASD - Advanced Sonar Division ARL Personnel Office If you are interested in authoring web pages at ARL:UT, check out the ARL:UT Web Authors Group page .",
+    "link": [
+        "query_phone.shtml",
+        "arl_info.html",
+        "/adg_web/personnel/pers_arl_jobs.html"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": " KREC : Class of 1996 hyperlinks",
+    "Body": "(Sundari) : His home Page Also visit the KREC home page maintained by Arun Dattaram Sharma",
+    "link": [
+        "http://www.cs.cornell.edu/Info/People/gbd/gbd.html",
+        "mailto:gbd@cs.cornell.edu",
+        "mailto:gbd@cs.cornell.edu"
+    ],
+    "ground_truth": "unknow"
+}

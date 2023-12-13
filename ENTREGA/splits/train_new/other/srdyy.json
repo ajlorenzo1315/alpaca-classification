@@ -1,0 +1,10 @@
+{
+    "Title": "\nMr. Carl's Home Page\n",
+    "Body": "An example of this type of research can be found by looking at the Functional Programming at Glasgow page.",
+    "link": [
+        "http://www.cs.cmu.edu:8001/afs/cs.cmu.edu/user/mleone/web/language-research.html",
+        "http://www.cs.nott.ac.uk/Department/Staff/mpj/faq.html",
+        "http://www.dcs.glasgow.ac.uk/fp/"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "CS 0445: Introduction to Information Structures",
+    "Body": "Students in this course are also introduced to various searching and sorting methods and also expected to develop an  intuitive understanding of the complexity of these algorithms.",
+    "link": [
+        "http://www.cs.pitt.edu/UgEdu/courses/cs0401.htm",
+        "http://www.cs.pitt.edu/UgEdu/courses/info/cs0445/0445info.htm",
+        "http://www.cs.pitt.edu/~melhem"
+    ],
+    "ground_truth": "unknow"
+}

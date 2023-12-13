@@ -1,0 +1,10 @@
+{
+    "Title": "Feature-Based Algorithms for Detecting and Classifying Scene Breaks\n",
+    "Body": "Source code for the browser and the algorithm are available on an \"as is\" basis.",
+    "link": [
+        "http://www.cs.cornell.edu/Info/People/rdz/rdz.html",
+        "http://www.cs.cornell.edu/Info/People/jmiller/Home.html",
+        "http://www.cs.cornell.edu/Info/People/rdz/MM95/mm95html.html"
+    ],
+    "ground_truth": "unknow"
+}

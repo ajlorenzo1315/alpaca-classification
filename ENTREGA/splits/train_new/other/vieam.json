@@ -1,0 +1,10 @@
+{
+    "Title": "CoNote - small group annotation experiment",
+    "Body": "About annotation an explanation of the project An example An example of CoNote taken from a problem set from the Fall 1994 course CS212.",
+    "link": [
+        "http://dri.cornell.edu/pub/davis/Annotation/about.html",
+        "http://www.cs.cornell.edu/Info/People/dph/annotation/annotation-example.html",
+        "http://dri.cornell.edu/pub/davis/Annotation/demo.html"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,8 @@
+{
+    "Title": "\nDirections to Ben's Office\n",
+    "Body": "Go through that door and follow the hallway around the corner until you see a large fishbowl-like office.",
+    "link": [
+        "http://www.cs.wisc.edu/~thogan/MAP/map1.html"
+    ],
+    "ground_truth": "other"
+}

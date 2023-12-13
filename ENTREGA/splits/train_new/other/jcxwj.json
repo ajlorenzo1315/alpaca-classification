@@ -1,0 +1,9 @@
+{
+    "Title": "Pointer-Intensive Benchmark Suite",
+    "Body": "The source release for the Pointer-Intensive Benchmark Suite, version 1.1, is available via anonymous ftp at \"ftp.cs.wisc.edu\" in the file \"/sohi/Code/ptrdist-1.1.tar.Z\" .",
+    "link": [
+        "ftp://ftp.cs.wisc.edu/sohi/Code/ptrdist-1.1.tar.Z",
+        "http://www.cs.wisc.edu/~austin/austin.html"
+    ],
+    "ground_truth": "other"
+}

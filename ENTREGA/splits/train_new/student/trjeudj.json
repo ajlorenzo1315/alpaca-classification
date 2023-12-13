@@ -1,0 +1,10 @@
+{
+    "Title": "Soha Hassoun's Home Page ",
+    "Body": "Current and previous research at UW.",
+    "link": [
+        "http://www.cs.indiana.edu/finger/gateway?soha@cs.washington.edu",
+        "http://www.cs.washington.edu/research/projects/lis/www/archretiming",
+        "http://www.cs.washington.edu/people/faculty/ebeling.html"
+    ],
+    "ground_truth": "student"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": " Welcome to Tom's Home Page ",
+    "Body": "Date: Tue, 26 Nov 1996 03:01:12 GMT Server: NCSA/1.5.1 Last-modified: Sun, 17 Nov 1996 23:17:05 GMT Content-type: text/html Content-length: 2985 Welcome to Tom's Home Page Welcome to Tom's Home Page Thomas B. Nelson II Michigan Technological University Computer Science Graduate Student General Information: Office:         Fisher 227C Office Phone:   487-2839 Office Hours:   MWF 1-2pm Current Teaching Duties: CS122 - Introduction to Computer Science II _______________________________________________________________ Final Exam - Review topics... Chapt 1: Pointers Pointers ( operators *, &, ->, NULL ) Arrays ( implementation as pointers, and the [] operator ) Character Strings - arrays of characters ( NULL terminator ) Structures ( almost same as classes ) Chapt 2: Classes Constructors, Destructors, Copy constructors & the defaults Operator overloading - istream, ostream, friends, 'this' pointer Chapt 3: Templates Global template functions Template Classes Instantiation, and binding Chapt 4: Inheritance Public vs.",
+    "link": [
+        "http://www.eit.com/web/www.guide/",
+        "http://www.cs.mtu.edu/Home.html",
+        "http://www.cs.mtu.edu/lab/computer.use.policy.html"
+    ],
+    "ground_truth": "unknow"
+}

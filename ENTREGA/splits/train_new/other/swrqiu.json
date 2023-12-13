@@ -1,0 +1,6 @@
+{
+    "Title": "a1hw.ans.html",
+    "Body": "(a) all variables in SAL programs are global ( T ) (b) the SAL statement \"get x\" works the same for all types of \"x\" ( F ) (c) the label \"b\" could be used for a variable in a SAL program ( F,  it's  a reserved word ) (d) variables must be declared before they are used in SAL programs ( F, the \".data\" section can come after the \".text\" section of the source code ) (e) when executed, the SAL statement \"b (ret)\" will cause a branch to the SAL statement labeled by \"ret:\" ( F,  in this context, ret is a variable name, not a statement label ) (f) when executed, the SAL statement \"j ret\" will cause a branch to the SAL statement labeled by \"ret:\" ( T, here ret is a statement label ) (g) every SAL program must have a \"__start:\" label in it somewhere ( T ) (h) \"done\" is part of the SAL instruction set ( F, it's a \"macro\" ) (i) \"rem\" is used to put a remark or comment in a SAL program ( F ) (j) type declarations are made in SAL programs so that type checking can be done by the assembler ( F, type defs are to reserve space only ) (2) 2 points In a single sentence, explain what \"computer architecture\" means.",
+    "link": [],
+    "ground_truth": "other"
+}

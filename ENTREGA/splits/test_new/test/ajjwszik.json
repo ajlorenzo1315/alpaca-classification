@@ -1,0 +1,10 @@
+{
+    "Title": "Dan Huttenlocher's Home Page",
+    "Body": "» Algorithms for comparing geometric structures » Hausdorff-based methods for visual matching and recognition (a C implementation is available) » Fast indexing using an Eigenspace approximation to the Hausdorff fraction (a C and Matlab implementation is available) » Performance evaluation and modeling of recognition methods » Video monitoring , object tracking and identification » DigiPaper: a highly compact, universally viewable document image format » CoNote: a system for supporting collaboration with shared documents Teaching... Brian Smith and I are developing a new course on authoring Web documents, CS130 , which will be offered for the first time in Spring '97.",
+    "link": [
+        "hausdorff/hausdorff1.html",
+        "ftp://ftp.cs.cornell.edu:/pub/wjr/Hausdorff.tar.gz",
+        "motion/motion.html"
+    ],
+    "ground_truth": "unknow"
+}

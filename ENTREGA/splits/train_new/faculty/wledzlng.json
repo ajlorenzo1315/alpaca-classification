@@ -1,0 +1,10 @@
+{
+    "Title": " Eduard Hovy's home page ",
+    "Body": "and E.H. Hovy.",
+    "link": [
+        "http://www.isi.edu/natural-language/people/hovy-pic.gif",
+        "http://www.isi.edu/natural-language/people/hovy-pic2.gif",
+        "http://www.isi.edu/natural-language/nlp-at-isi.html"
+    ],
+    "ground_truth": "faculty"
+}

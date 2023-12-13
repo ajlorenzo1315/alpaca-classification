@@ -1,0 +1,10 @@
+{
+    "Title": "UC Berkeley Robotics and Intelligent Machines Lab Home Page",
+    "Body": "Date: Wed, 20 Nov 1996 19:24:37 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Mon, 21 Oct 1996 01:05:22 GMT Content-length: 4203 UC Berkeley Robotics and Intelligent Machines Lab Home Page Robotics and Intelligent Machines Laboratory Department of Electrical Engineering and Computer Sciences University of California at Berkeley Areas of Research ARO MURI Center - An Integrated Approach to Intelligent Systems Millirobots for Minimally Invasive Surgery Control of Hybrid Systems Adaptation and Learning in Biological and Artificial Systems Air Traffic Management Systems Partners for Advanced Transit and Highways (PATH) Tele-Taction System RISC Robotics Motion Planning With Nonholonomic Velocity Constraints Algebraic and Geometric Computing for Robotics and Vision Vision Micro-Robotics People Professors Post Doctoral Scholars Graduate Students Undergraduate Students Alumni Related Links Robotics Demos and Movies Robotics Tools UCB Robotics FTP server (contains tools and several publications) UCB Computer Vision Group Interfacing Reality Robotics Related Sites of Interest More WWW Sites of Interest UCB Robotics Lab / Gabe Moy / 23 Sep 1996 / Thanks",
+    "link": [
+        "http://www.eecs.berkeley.edu/",
+        "http://www.berkeley.edu",
+        "http://robotics.eecs.berkeley.edu/~mayi/muri/muri.html"
+    ],
+    "ground_truth": "project"
+}

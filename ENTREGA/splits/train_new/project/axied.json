@@ -1,0 +1,10 @@
+{
+    "Title": "Flux Project Home Page",
+    "Body": "Date: Wed, 20 Nov 1996 20:12:39 GMT Server: Apache/1.1.1+ Content-type: text/html Content-length: 5126 Last-modified: Fri, 01 Nov 1996 19:34:34 GMT Flux Project Home Page The Flux Operating System Project The Fluke Nested Process Architecture The Flux Project's objectives are (i) to provide infrastructure (the \"flux\") for highly efficient component-based systems, with flexible degrees of inter-component trust, initially oriented to hardware-enforced protection; (ii) to provide transparent and flexible control of all the resources used by arbitrary subsystems; and (iii) to distribute free and usable versions of the developed software.",
+    "link": [
+        "http://www.cs.utah.edu/projects/flux/npm-arch.ps",
+        "ftp://mancos.cs.utah.edu/papers/fluke-rvm.ps.gz",
+        "ftp://mancos.cs.utah.edu/papers/inherit-sched.ps.gz"
+    ],
+    "ground_truth": "project"
+}

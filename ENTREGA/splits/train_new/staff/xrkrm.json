@@ -1,0 +1,10 @@
+{
+    "Title": "\n    Luc Boulianne's Computer Science Home Page\n ",
+    "Body": "I am currently on leave, working on my thesis.",
+    "link": [
+        "http://www-cnoc.cs.mcgill.ca/~lucb/thesis/thesis.html",
+        "http://www-cnoc.cs.mcgill.ca/~lucb/thesis/announce.html",
+        "http://www-cnoc.cs.mcgill.ca/~lucb/me.html"
+    ],
+    "ground_truth": "staff"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "CS 537 - Processes",
+    "Body": "Each process may directly name the other, or there may be some sort of mailbox or message queue object to be used as the destination of a send or the source of a receive .",
+    "link": [
+        "#using",
+        "#using_what",
+        "#using_why"
+    ],
+    "ground_truth": "unknow"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": " CS 323: Applications of Nonmonotonic Reasoning",
+    "Body": "Readings: we require the book by John McCarthy, Formalizing Common Sense , Ablex 1990, which is available at the bookstore.",
+    "link": [
+        "http://www-formal.stanford.edu/jmc/",
+        "http://www-formal.stanford.edu/eyal/",
+        "http://www-formal.stanford.edu/tlr/"
+    ],
+    "ground_truth": "unknow"
+}

@@ -1,0 +1,6 @@
+{
+    "Title": "Bad Programming",
+    "Body": "Do not use &OPTIONAL at all.",
+    "link": [],
+    "ground_truth": "other"
+}

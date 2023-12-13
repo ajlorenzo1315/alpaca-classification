@@ -1,0 +1,10 @@
+{
+    "Title": "University of Wisconsin-Madison Electronic Library",
+    "Body": "Date: Tue, 05 Nov 1996 00:26:17 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Fri, 23 Aug 1996 17:50:14 GMT Content-length: 7033 University of Wisconsin-Madison Electronic Library Electronic Library MadCat Indexes Campus Libraries WiscINFO Search Help MadCat - Library Catalog ( command search or graphical interface ) Resources in the Electronic Library What's New in the Electronic Library Campus Libraries: Information, Services, Workshops, News, and Events Libraries Worldwide WiscINFO (UW-Madison home page) Utilities, including disk formatting (library workstations only) Help , including information for users outside the library See explanations below.",
+    "link": [
+        "http://www.library.wisc.edu/MadCat.html",
+        "http://www.library.wisc.edu/elib.indexes.1/indexes.html#title",
+        "http://www.library.wisc.edu/libraries/library_table.html"
+    ],
+    "ground_truth": "other"
+}

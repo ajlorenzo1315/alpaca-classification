@@ -1,0 +1,10 @@
+{
+    "Title": "Software Safety (UW) -- Research",
+    "Body": "Since that first demonstration of our approach to a real system, we have been extending the modeling language to include intent and design rationale, improving the readability and usability of the models, and developing a suite of automated tools to assist in evaluating the model/specification for safety.",
+    "link": [
+        "papers.html#rsml",
+        "papers.html#consistency",
+        "sda_gui/"
+    ],
+    "ground_truth": "unknow"
+}

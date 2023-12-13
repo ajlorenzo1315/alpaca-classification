@@ -1,0 +1,10 @@
+{
+    "Title": "Assignment 2 - Design Specifications",
+    "Body": "The design specifications should include justifications for major design decisions.",
+    "link": [
+        "http://www.cs.washington.edu/education/courses/cse403/96sp/specification.html",
+        "http://www.w3.org/pub/WWW/MarkUp/html-spec/html-spec_toc.html",
+        "http://www.cs.washington.edu/education/courses/cse403/96sp/assign2-groups.txt"
+    ],
+    "ground_truth": "unknow"
+}

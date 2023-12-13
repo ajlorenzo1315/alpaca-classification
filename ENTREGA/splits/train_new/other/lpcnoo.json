@@ -1,0 +1,10 @@
+{
+    "Title": "GRAIL: Courses",
+    "Body": "Current Quarter CSE 457 Introduction to Computer Graphics Previous Quarters CSE 490ani Computer Animation CSE 557 Computer Graphics CSE 558 Special Topics in Computer Graphics CSE 590B Graphics Seminar: Numerical Methods in Graphics Computer Graphics Course Number CSE 457 Credits 3 Prerequisite CSE 326 Description Techniques of computer image synthesis, including both hardware and software.",
+    "link": [
+        "",
+        "http://www.cs.washington.edu/education/courses/457",
+        "http://www.cs.washington.edu/education/courses/490ani"
+    ],
+    "ground_truth": "other"
+}

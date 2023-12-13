@@ -1,0 +1,10 @@
+{
+    "Title": "John A. Stankovic (stankovic@cs.umass.edu)",
+    "Body": "In the past he served as Chair of the IEEE technical committee on Real-Time Systems, and is currently on the International Advisory Board for the Journal of Computer Science and Informatics (Computer Society of India).",
+    "link": [
+        "http://www.cs.umass.edu",
+        "http://www.cs.umass.edu/rcfdocs/newhome/index.html",
+        "http://www-astro.phast.umass.edu/guest/amherst.html"
+    ],
+    "ground_truth": "faculty"
+}

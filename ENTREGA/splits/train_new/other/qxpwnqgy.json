@@ -1,0 +1,6 @@
+{
+    "Title": "Notes on Programming in C",
+    "Body": "As a rule, if you find code containing many similar, complex expressions that evaluate to elements of a data structure, judicious use of pointers can clear things up.",
+    "link": [],
+    "ground_truth": "other"
+}

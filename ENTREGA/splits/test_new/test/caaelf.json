@@ -1,0 +1,10 @@
+{
+    "Title": "Home Page for Mark S. Johnstone",
+    "Body": "In addition, I am the TA for an Object Oriented Design and Analysis class taught by Glenn Downing for the IBM/Apple Somerset Company.",
+    "link": [
+        "http://www.cs.utexas.edu/users/markj/images/mark-good.jpg",
+        "mailto:markj@cs.utexas.edu",
+        "http://www.cs.utexas.edu/cgi/finger/markj"
+    ],
+    "ground_truth": "unknow"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Low-Latency Communication over ATM Networks\nusing Active Messages",
+    "Body": "3.3  SSAM implementation The implementation of the SPARCstation ATM Active Messages layer consists of two parts: a device driver which is dynamically loaded into the kernel and a user-level library to be linked with applications using SSAM.",
+    "link": [
+        "hoti-94.html#HDR1",
+        "hoti-94.html#HDR2",
+        "hoti-94.html#HDR7"
+    ],
+    "ground_truth": "other"
+}

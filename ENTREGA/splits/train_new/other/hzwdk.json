@@ -1,0 +1,10 @@
+{
+    "Title": "\nGuidelines For Writing HTTP Server Scripts\n",
+    "Body": "In addition, if you are using a forms interface, the values of all the <input> and <select> tags in the form will be made available, as the standard input of the program.",
+    "link": [
+        "http://south.ncsa.uiuc.edu/forms.html",
+        "http://hoohoo.ncsa.uiuc.edu/cgi/",
+        "http://hoohoo.ncsa.uiuc.edu/docs/setup/admin/KillIt.html"
+    ],
+    "ground_truth": "other"
+}

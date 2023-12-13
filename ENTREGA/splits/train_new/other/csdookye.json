@@ -1,0 +1,10 @@
+{
+    "Title": "UW CSE Softbot UI Overview",
+    "Body": "The Softbot is able to communicate with its user through a graphical user interface, an e-mail interface, and eventually a natural language interface.",
+    "link": [
+        "http://www.cs.washington.edu/research/projects/softbots/www/softbots.html",
+        "http://www.cs.washington.edu/research/projects/softbots/www/gui/intro.html",
+        "http://www.cs.washington.edu/homes/pulkka"
+    ],
+    "ground_truth": "other"
+}

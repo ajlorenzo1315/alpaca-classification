@@ -1,0 +1,10 @@
+{
+    "Title": " The Ficus Research Group ",
+    "Body": "Date: Wed, 20 Nov 1996 19:31:00 GMT Server: NCSA/1.4 Content-type: text/html Last-modified: Tue, 02 Jul 1996 19:06:57 GMT Content-length: 2062 The Ficus Research Group The Ficus Research Group Welcome to the Ficus Research Group's World Wide Web home page.",
+    "link": [
+        "http://www.cs.ucla.edu",
+        "http://www.ucla.edu",
+        "http://ficus-www.cs.ucla.edu/rumor/"
+    ],
+    "ground_truth": "project"
+}

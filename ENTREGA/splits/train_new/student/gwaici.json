@@ -1,0 +1,10 @@
+{
+    "Title": " Arshad Shaikh's Home Page ",
+    "Body": "Date: Tue, 26 Nov 1996 03:59:45 GMT Server: Apache/1.1.1 Content-type: text/html Content-length: 793 Last-modified: Wed, 23 Oct 1996 16:57:27 GMT Arshad Shaikh Arshad Shaikh's Home Page Click here to see some photographs.",
+    "link": [
+        "http://paul.rutgers.edu/~amshaikh/pict",
+        "http://info.rutgers.edu/Kiosk/Topology/NewBrunswick.html",
+        "http://cricinfo.cse.ogi.edu/"
+    ],
+    "ground_truth": "student"
+}

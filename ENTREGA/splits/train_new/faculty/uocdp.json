@@ -1,0 +1,8 @@
+{
+    "Title": "Richard LeBlanc Information Page ",
+    "Body": "He has done consulting work with the Lockheed Aeronautical Systems Company on the development of a specification-based methodology for producing highly reliable digital flight control software and has served as a consultant on software reliability and fault tolerance to corporations in the computing and telecommunications industries.",
+    "link": [
+        "http://www.cc.gatech.edu/Computing.html"
+    ],
+    "ground_truth": "faculty"
+}

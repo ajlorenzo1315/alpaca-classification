@@ -1,0 +1,10 @@
+{
+    "Title": "An Introduction to HTML",
+    "Body": "In the example above, I could have written (for example) <HTML> <HEAD><TITLE>This is the title of the document.</TITLE></HEAD> <BODY>This is the body, or main text, of the document.</BODY> </HTML> and gotten the same result.",
+    "link": [
+        "http://info.cern.ch/hypertext/WWW/MarkUp/Entities.html",
+        "http://www.cs.wisc.edu/docs/url.html",
+        "http://www.cs.wisc.edu/docs/url.html"
+    ],
+    "ground_truth": "other"
+}

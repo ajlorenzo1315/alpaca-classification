@@ -1,0 +1,10 @@
+{
+    "Title": "David's Home Page",
+    "Body": "Date: Tuesday, 26-Nov-96 03:10:18 GMT Server: NCSA/1.1 MIME-version: 1.0 Content-type: text/html Last-modified: Friday, 15-Dec-95 19:45:33 GMT David's Home Page Jesús David Nevárez CS Student Office: SH 127 Phone: (505) 646-6225 ofc.",
+    "link": [
+        "http://www.cs.nmsu.edu/~jnevarez/mail.html",
+        "http://www.cs.nmsu.edu/~jnevarez/resume.html",
+        "http://www.cs.nmsu.edu/~jnevarez/mypics.html"
+    ],
+    "ground_truth": "unknow"
+}

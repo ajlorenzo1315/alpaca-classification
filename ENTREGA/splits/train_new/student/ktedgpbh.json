@@ -1,0 +1,10 @@
+{
+    "Title": " Jeffrey James Blevins",
+    "Body": "Time Sinks: I represent the graduate students in the Department of Information and Computer Science in the Associated Graduate Students' Council .",
+    "link": [
+        "http://www.ics.uci.edu/Arcadia/atUCI.html",
+        "http://www.ics.uci.edu/~jblevins//dir/faculty/Software/taylor",
+        "http://www.ics.uci.edu/Arcadia/Teamware/teamware.html"
+    ],
+    "ground_truth": "student"
+}

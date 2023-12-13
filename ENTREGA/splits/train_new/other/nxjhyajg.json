@@ -1,0 +1,10 @@
+{
+    "Title": "\nUCSD CSE Department Academic Personnel\n",
+    "Body": "Michelangelo Grigni, Ph.D Gregory R. Hidley, Ph.D. David J. Hutches, Ph.D. Susan S. Marx, M.S.",
+    "link": [
+        "http://desargues/personal/dwa.html",
+        "http://www-cse.ucsd.edu/users/berman",
+        "http://www-cse.ucsd.edu/users/burkhard"
+    ],
+    "ground_truth": "other"
+}

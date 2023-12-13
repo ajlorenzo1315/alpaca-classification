@@ -1,0 +1,10 @@
+{
+    "Title": "ENSEMBLE GROUPWARE SYSTEM",
+    "Body": "If you distribute a copy or copies of the Software, or you modify a copy or copies of the Software or any portion of it, thus forming a work based on the Software, and make and/or distribute copies of such work, you must meet the following conditions: If you make a copy of the Software (modified or verbatim) it must include the copyright notice and this license.",
+    "link": [
+        "http://simon.cs.cornell.edu/Info/Projects/Ensemble/index.html",
+        "http://simon.cs.cornell.edu/Info/Projects/Ensemble/overview.html",
+        "http://simon.cs.cornell.edu/Info/Projects/Ensemble/roadmap.html"
+    ],
+    "ground_truth": "other"
+}

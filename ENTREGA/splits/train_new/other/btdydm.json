@@ -1,0 +1,8 @@
+{
+    "Title": "Data Structures - Lecture 2",
+    "Body": "is_valid(response)); For Statement for (init; test; assignment) statement next statement Example for (i=0; i<10; i++) cout << i << endl; Nested Loops for (i=0; i<10; i++) for (j=0; j<10; j++) cout << i << \",\" << j <<endl; Switch Statement Example switch (response) { case 'q': exit(0); // quit case 's': process_s(); break; case 'h': process_h(); break; default: cout << \"Invalid Response\\n\"; break; } Break/Continue break exits the innermost loop continue begins the next iteration Example: for (i=0; i<n; i++) { if (s[i] < 0) break; // exits loop if (s[i] > 0) continue; cout << \"s[i]=0 for i=\" << i; } cout << \"i>=n or s[i]<0 for i=\" << i; Topics Input/Output Input/Output #include <iostream.h> Predefined streams: cin, cout, cerr, clog Examples: int x,y; if (cin >> x >> y) { cout << \"Read: \" << x << \",\" << y; } else { cerr << \"Invalid Input!\"",
+    "link": [
+        "http://www.cs.rpi.edu/~dugan/data_structures/mehta/lect2/sort"
+    ],
+    "ground_truth": "other"
+}

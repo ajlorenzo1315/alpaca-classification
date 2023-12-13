@@ -1,0 +1,10 @@
+{
+    "Title": "UW CS&E Technical Reports Library",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Tuesday, 10-Dec-96 22:06:40 GMT Content-Type: text/html Content-Length: 2271 Last-Modified: Wednesday, 03-Jul-96 15:08:53 GMT UW CS&E Technical Reports Library Networked Computer Science Technical Reports Library University of Washington Computer Science & Engineering NCSTRL (pronounced \"ancestral\") is an international collection of computer science technical reports from CS departments and industrial and government research laboratories, made available for non-commercial and eduational use.",
+    "link": [
+        "http://www.ncstrl.org/Dienst/htdocs/Info/about-ncstrl.html",
+        "/Dienst/UI/2.0/ListPublishers",
+        "http://www.ncstrl.org/Dienst/htdocs/Info/press-package.html"
+    ],
+    "ground_truth": "other"
+}

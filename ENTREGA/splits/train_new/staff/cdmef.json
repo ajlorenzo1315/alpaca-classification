@@ -1,0 +1,10 @@
+{
+    "Title": "Bob Christofferson",
+    "Body": "Date: Mon, 25 Nov 1996 23:06:06 GMT Server: NCSA/1.4.1 Content-type: text/html Last-modified: Mon, 15 Apr 1996 21:06:29 GMT Content-length: 1250 Bob Christofferson Robert Christofferson University of Idaho, Computer Science Department Bob Christofferson is the computer system manager for the department of computer science and has been working in that capacity since Aug 1993.",
+    "link": [
+        "http://www.cs.uidaho.edu/~johnd/policy.plan.html",
+        "http://www.cs.uidaho.edu/system.html",
+        "mailto:bobc@cs.uidaho.edu"
+    ],
+    "ground_truth": "staff"
+}

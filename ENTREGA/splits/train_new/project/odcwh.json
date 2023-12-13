@@ -1,0 +1,10 @@
+{
+    "Title": "\nThe Maruti Project\n",
+    "Body": "The design of Maruti has been guided by the following application characteristics and requirements: Real-Time Requirements The most important requirement for real-time systems is the capability to support the timely execution of applications.",
+    "link": [
+        "http://www.cs.umd.edu/projects/maruti//",
+        "http://www.umcp.umd.edu/",
+        "http://www.cs.umd.edu/projects/maruti/maruti3-announce.html"
+    ],
+    "ground_truth": "project"
+}

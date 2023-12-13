@@ -1,0 +1,10 @@
+{
+    "Title": "Joanna Power",
+    "Body": "Date: Thu, 21 Nov 1996 22:53:30 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Mon, 18 Nov 1996 21:50:19 GMT Content-length: 2548 Joanna Power joanna's page Hi.",
+    "link": [
+        "http://www.cs.washington.edu/",
+        "http://www.cs.brown.edu",
+        "http://www.cs.washington.edu/homes/shade"
+    ],
+    "ground_truth": "student"
+}

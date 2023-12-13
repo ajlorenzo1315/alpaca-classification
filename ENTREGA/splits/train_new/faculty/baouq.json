@@ -1,0 +1,10 @@
+{
+    "Title": " Daniel Miranker's home page ",
+    "Body": "Current Research Interests My current research goals encompass the Venus rule language, its use as the basis of Active, Distributed Databases and the fundamental computer science problems and corollaries that have evolved from that goal.",
+    "link": [
+        "http://www.cs.utexas.edu/users/miranker/leaps-refs.bib",
+        "http://www.cs.utexas.edu/users/miranker/ooq.ps",
+        "http://www.cs.utexas.edu/users/miranker/treat-vs-rete-bib.html"
+    ],
+    "ground_truth": "faculty"
+}

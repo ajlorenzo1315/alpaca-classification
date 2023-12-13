@@ -1,0 +1,10 @@
+{
+    "Title": "LESS Research Agenda",
+    "Body": "To address these problems, the middleware that we plan to build will present the file system to the application not as a detached component of the external environment, but as an integrated partner that can be trusted to provide the data needed during recovery.",
+    "link": [
+        "http://www.cs.utexas.edu/users/less/Welcome.html",
+        "http://www.cs.utexas.edu",
+        "http://www.cs.utexas.edu/users/lorenzo"
+    ],
+    "ground_truth": "other"
+}

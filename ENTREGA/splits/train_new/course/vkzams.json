@@ -1,0 +1,10 @@
+{
+    "Title": "CS 130A Gonzalez",
+    "Body": "They are also in the file ~cs130a/files/hw1.ps You can print that file or view it with ghostscript hw1.ps The press the left bottom on the dismiss sign if it appears.",
+    "link": [
+        "http://rs560.cl.msu.edu/weather/",
+        "http://www.ncsa.uiuc.edu/General/Internet/WWW/HTMLPrimer.html",
+        "http://info.desy.de/user/projects/C++.html"
+    ],
+    "ground_truth": "course"
+}

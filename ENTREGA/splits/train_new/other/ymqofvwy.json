@@ -1,0 +1,9 @@
+{
+    "Title": " Project 1: Martix Products ",
+    "Body": "Your program should prompt the user for the parameters m , n , and p , successively, then allow the user to enter the values of the elements of the matrix, A , then the values of the matrix B .",
+    "link": [
+        "http://www.cs.cornell.edu/Info/Courses/Spring-95/CS314/home.html",
+        "http://www.cs.cornell.edu/Info/Courses/Spring-95/CS314/home.html"
+    ],
+    "ground_truth": "other"
+}

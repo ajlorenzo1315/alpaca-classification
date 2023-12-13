@@ -1,0 +1,10 @@
+{
+    "Title": " Laboratory for Database Systems Research ",
+    "Body": "TIGUKAT/Multimedia Research Group (Click on the image for the uncompressed image) STANDING (left to right): Ling Liu (Dr), Duane Szafron (Dr), Youping Niu (PhD), Ghada El-Medani (MSc), John Li (PhD), M. Tamer Özsu (Dr), Sherine El-Medani (MSc), Yuri Leontiev (PhD), LingLing Yan (PhD), Paul Iglinski (Staff) SEATED (left to right): Chiradeep Vittal (MSc), Jose Icaza (Dr), Kaladhar Voruganti (PhD), Anne Nield (Staff), Randal Kornelsen (Staff), Iqbal Goralwalla (PhD), Manuela Schoene (MSc) NOT SHOWN (left to right): Lin Cheng (MSc), Kathrin Gayer , Richard Lee , Adriana Manas (MSc), Vincent Oria , Heiko Thimm , Jennifer Walchuk , Bing Xu (MSc) Research Activities The group associated with the Laboratory for Database Systems Research are involved in a number of research activities including the development of distributed object-oriented database systems, deductive databases, distributed database management, the application of neural networks to database problems, and the development of databases to support software engineering activities.",
+    "link": [
+        "http://web.cs.ualberta.ca/index.html",
+        "http://web.cs.ualberta.ca/Academic/labs/pics/database.shtml",
+        "http://web.cs.ualberta.ca/Academic/labs/nopics/database.shtml"
+    ],
+    "ground_truth": "project"
+}

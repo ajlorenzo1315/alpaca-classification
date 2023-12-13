@@ -1,0 +1,10 @@
+{
+    "Title": "CS 2083 Microcomputer Applications -Section 5\n\t",
+    "Body": "Introduction This class is designed to familiarize students with the basic computer concepts and the most popular Microcomputer Applications.",
+    "link": [
+        "#IN",
+        "http://ringer.cs.utsa.edu/courses/cs2083-5/solutions.html",
+        "http://ringer.cs.utsa.edu/courses/cs2083-5/project.html"
+    ],
+    "ground_truth": "course"
+}

@@ -1,0 +1,6 @@
+{
+    "Title": "tt4",
+    "Body": "1 : exp(x, n-1) * x; } signature : a function taking two int's and returning an int correctness specification : if n >= 0, then exp( x , n ) will yield x n Signatures The number of parameters that a function takes, together with their types, and  the type of the result it returns are its signature .",
+    "link": [],
+    "ground_truth": "other"
+}

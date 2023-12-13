@@ -1,0 +1,8 @@
+{
+    "Title": "CSE 473 PROJECT",
+    "Body": "If you choose a topic that we haven't gotten to, then you may wish to use one of the sample programs in the text as a starting point, and then implement additional features and perform some experiments.",
+    "link": [
+        "http://www.cs.washington.edu/education/courses/473/writeups.html"
+    ],
+    "ground_truth": "other"
+}

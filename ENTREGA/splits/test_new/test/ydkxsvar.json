@@ -1,0 +1,10 @@
+{
+    "Title": "Natural Language Processing and Information Retrieval: U of U CS",
+    "Body": "Hobbes: \"Maybe we can eventually make language a complete impediment to understanding.\"",
+    "link": [
+        "http://www.cs.utah.edu/projects/nlp/sundance.html",
+        "http://www.cs.utah.edu/projects/nlp/autoslog.html",
+        "http://www.cs.utah.edu/projects/nlp/signatures.html"
+    ],
+    "ground_truth": "unknow"
+}

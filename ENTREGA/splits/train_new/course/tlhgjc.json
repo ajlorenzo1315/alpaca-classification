@@ -1,0 +1,10 @@
+{
+    "Title": "CS384G - Computer Graphics - Fall 1995",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Monday, 06-Jan-97 19:23:43 GMT Content-Type: text/html Content-Length: 2956 Last-Modified: Thursday, 28-Nov-96 03:41:30 GMT CS384G - Computer Graphics - Fall 1995 {CS,CAM}384G Computer Graphics Fall 1995 Instructor: Donald S. Fussell General Course Information Course Description Course Syllabus Lab Information MESA Graphics Library This year we are using the Mesa graphics library, which provides an OpenGL-like API, as the platform for the course.",
+    "link": [
+        "http://www.cs.utexas.edu/users/fussell/index.html",
+        "http://www.cs.utexas.edu/users/fussell/graintro.html",
+        "http://www.cs.utexas.edu/users/fussell/grasyl.html"
+    ],
+    "ground_truth": "course"
+}

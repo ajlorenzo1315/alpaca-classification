@@ -1,0 +1,10 @@
+{
+    "Title": "Lynn Andrea Stein's students",
+    "Body": "Joshua Reuben Brown helped develop 6.80s and 6.096 for the Rethinking CS101 project in the summer of 1996.",
+    "link": [
+        "http://www.ai.mit.edu/projects/haystack/",
+        "http://www.ai.mit.edu/projects/cs101/",
+        "http://www.ai.mit.edu/courses/6.096"
+    ],
+    "ground_truth": "unknow"
+}

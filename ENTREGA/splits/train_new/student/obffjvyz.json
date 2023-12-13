@@ -1,0 +1,10 @@
+{
+    "Title": "Harald Feiel ",
+    "Body": "Of course we also have an outdated American link of this page (yes, you guessed it right, it is my responsibility).",
+    "link": [
+        "http://ernie.bgsu.edu/~alexand/",
+        "http://www.cs.bgsu.edu/~hfeiel/thesis_intro.html",
+        "http://www.tcs.co.at/users/mecl/homemecl.htm"
+    ],
+    "ground_truth": "student"
+}

@@ -1,0 +1,9 @@
+{
+    "Title": "CSE370 Workload and Grading",
+    "Body": "We will make solutions available on the course web for each of the assignments, quizzes, and final exam in a timely fashion.",
+    "link": [
+        "../feedback/",
+        "mailto:cse370-webmaster@cs"
+    ],
+    "ground_truth": "other"
+}

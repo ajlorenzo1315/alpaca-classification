@@ -1,0 +1,10 @@
+{
+    "Title": "CS512:  Advanced Language Implementation",
+    "Body": "Our focus will be on the implementation of modern functional languages, but we will make connections to other kinds of languages, notably object-oriented.",
+    "link": [
+        "#Description",
+        "#Handouts",
+        "#Administrivia"
+    ],
+    "ground_truth": "course"
+}

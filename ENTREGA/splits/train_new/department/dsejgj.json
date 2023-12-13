@@ -1,0 +1,10 @@
+{
+    "Title": "NDSU Computer Science Department",
+    "Body": "Date: Tue, 26 Nov 1996 22:51:59 GMT Server: NCSA/1.5.2 Last-modified: Wed, 11 Sep 1996 14:31:57 GMT Content-type: text/html Content-length: 1705 NDSU Computer Science Department NDSU Computer Science Department The Department of Computer Science and Operations Research at NDSU provides course work leading to the following degrees: Bachelor of Science in Computer Science (accredited by CSAB) Bachelor of Arts in Computer Science Bachelor of Science in Management Information Systems Master of Science in Computer Science Ph.D in Computer Science Minors in Computer Science and Computer Science Education are also provided.",
+    "link": [
+        "http://www.cs.ndsu.nodak.edu/faculty/index.html",
+        "http://www.cs.ndsu.nodak.edu/students/index.html",
+        "http://www.cs.ndsu.nodak.edu/alumni/index.html"
+    ],
+    "ground_truth": "department"
+}

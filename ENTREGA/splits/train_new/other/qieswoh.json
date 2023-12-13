@@ -1,0 +1,10 @@
+{
+    "Title": "Complete Orthogonal Decomposition for Weighted Least Squares",
+    "Body": "In this paper, we propose a complete orthogonal decomposition algorithm to solve this problem and show that it is also stable.",
+    "link": [
+        "http://www.tc.cornell.edu/Dienst/Repository/2.0/Body/ncstrl.cornell.tc%2f95-203/postscript",
+        "http://www.tc.cornell.edu/Dienst/UI/2.0/Print/ncstrl.cornell.tc%2f95-203",
+        "http://www.tc.cornell.edu/ctcCopyright.html"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "CS 484/584 ",
+    "Body": "of Idaho Home Page Instructor: William S. Junk , Computer Science Dept., University of Idaho, Moscow, ID  83844-1010 Telephone: 208-885-7530 / 800-824-2889 Fax: 208-885-6165 (alternate: 208-885-9052) E- Mail: billjunk@cs.uidaho.edu , Courses for Academic Credit: CS 484 and 584 are available on video tape from Engineering Video Outreach CS 584 is available to National Technological University subscribers as NTU SE-760-S on the North American service and the Asia-Pacific service Video Tapes Are Available For Rent or Purchase: The Spring 93-94 offering of CS 484/585 is available for purchase or rental.",
+    "link": [
+        "http://www.cs.uidaho.edu/index.html",
+        "http://www.uidaho.edu/",
+        "http://www.cs.uidaho.edu/~billjunk/index.html"
+    ],
+    "ground_truth": "course"
+}

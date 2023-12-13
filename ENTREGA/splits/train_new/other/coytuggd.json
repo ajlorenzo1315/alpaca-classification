@@ -1,0 +1,10 @@
+{
+    "Title": "The FORTE Knowledge Refinement System ",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Tuesday, 07-Jan-97 15:55:52 GMT Content-Type: text/html Content-Length: 2765 Last-Modified: Monday, 11-Dec-95 16:47:09 GMT The FORTE Knowledge Refinement System FORTE FORTE (First Order Revision of Theories from Examples) is a machine learning system for modifiying a first-order Horn-clause domain theory to fit a set of training examples.",
+    "link": [
+        "ftp://ftp.cs.utexas.edu/pub/mooney/forte",
+        "http://www.cs.utexas.edu/users/ml/ilp.html",
+        "http://www.cs.utexas.edu/users/ml/theory-rev.html"
+    ],
+    "ground_truth": "other"
+}

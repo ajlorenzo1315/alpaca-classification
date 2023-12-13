@@ -1,0 +1,10 @@
+{
+    "Title": "Min (Stanley) Huang's Home Page",
+    "Body": ", Computer Science, Cornell University.",
+    "link": [
+        "http://www.cs.cornell.edu/Info/Projects/M-Eng/prop_os.html",
+        "http://simon.cs.cornell.edu/Info/People/vogels",
+        "http://www.cs.cornell.edu/Info/People/rvr/rvr.html"
+    ],
+    "ground_truth": "student"
+}

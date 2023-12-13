@@ -1,0 +1,10 @@
+{
+    "Title": "CSE 322  \nAssignment 1 Solution Set  \nFriday, January 12, 1996",
+    "Body": "The number of strings  of length 2n that begin with is just the number of ways of writing the last n letters as a string in the alphabet.",
+    "link": [
+        "node1.html",
+        "node1.html",
+        "node1.html#SECTION00010000000000000000"
+    ],
+    "ground_truth": "other"
+}

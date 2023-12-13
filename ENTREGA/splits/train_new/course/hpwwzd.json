@@ -1,0 +1,10 @@
+{
+    "Title": "Data Structures, CS367 Lecs 1 & 4",
+    "Body": "Exams Programming Assignments Sample Code Lecturer and TA Information Course Materials Computers : Labs/Home/Other Announcements Any general announcements are placed here with the most recent announcements first.",
+    "link": [
+        "#announce",
+        "#read",
+        "working/start.html"
+    ],
+    "ground_truth": "course"
+}

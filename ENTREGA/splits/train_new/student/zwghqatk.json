@@ -1,0 +1,10 @@
+{
+    "Title": "The Home Pasture of Dennis Coh",
+    "Body": "I am now a grad student at the University of California at San Diego (UCSD) , working for my Master's degree in Computer Science .",
+    "link": [
+        "http://www-cse.ucsd.edu/users/dennisc/index.html",
+        "http://www-cse.ucsd.edu/users/dennisc/newspaper.html",
+        "http://www-cse.ucsd.edu/users/dennisc/Bookmarks.html"
+    ],
+    "ground_truth": "student"
+}

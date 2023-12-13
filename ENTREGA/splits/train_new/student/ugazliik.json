@@ -1,0 +1,10 @@
+{
+    "Title": "The Home Page of Sung-Eun Choi",
+    "Body": "I am involved in the ZPL Compiler Project at the University of Washington.",
+    "link": [
+        "http://www.cs.washington.edu/research/projects/zpl",
+        "http://donald.phast.umass.edu/latex/tutorials/kicons.html",
+        "http://www.arsc.edu/"
+    ],
+    "ground_truth": "student"
+}

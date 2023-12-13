@@ -1,0 +1,10 @@
+{
+    "Title": "Amer Diwan's Home Page",
+    "Body": "Memory Subsystem Performance of Programs Using Copying Garbage Collection , Amer Diwan, David Tarditi (CMU), and Eliot Moss.",
+    "link": [
+        "http://www.cs.umass.edu/",
+        "http://www.cs.umass.edu/rcfdocs/newhome/index.html",
+        "http://www.cs.umass.edu/cgi-bin/finger?moss@cs.umass.edu"
+    ],
+    "ground_truth": "student"
+}

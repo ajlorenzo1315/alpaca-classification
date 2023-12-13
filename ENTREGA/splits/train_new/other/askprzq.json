@@ -1,0 +1,10 @@
+{
+    "Title": "Skippy's Page",
+    "Body": "Date: Wed, 15 Jan 1997 02:05:17 GMT Server: Apache/1.2b4 Connection: close Content-Type: text/html Skippy's Page Howdy, dammit.",
+    "link": [
+        "http://goober.tamu.edu",
+        "http://http.tamu.edu/~goober/",
+        "http://www.cs.tamu.edu/faculty/garys"
+    ],
+    "ground_truth": "other"
+}

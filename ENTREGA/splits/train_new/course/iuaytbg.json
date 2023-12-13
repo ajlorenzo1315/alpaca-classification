@@ -1,0 +1,10 @@
+{
+    "Title": " COMP 142 Home Page ",
+    "Body": "Lecture 8 -- Memory Management (Thurs.",
+    "link": [
+        "http://www.cs.unc.edu/~jeffay",
+        "mailto:jeffay@cs.unc.edu",
+        "http://www.cs.unc.edu/~borgerse"
+    ],
+    "ground_truth": "course"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "\nCS 736 Reading List\n",
+    "Body": "Week 9 (Oct 31 - Nov 2) McKusick et al : Unix Fast File System Rosenblum and Ousterhout: Log-structured File System Week 10 (Nov 7 - Nov 9) Levy and Silberschatz:  Distributed File System Survey Week 11 (Nov 14 - Nov 16) Jones and Wulf:  Capabilities Gramp and Morris:  Unix Security Popek and Kline: Encryption and Networks Week 12 (Nov 21) Steiner et al : Kerberos Week 13 (Nov 28 - Nov 30) Birrell et al : Grapevine Birrell and Nelson:  Remote Procedure Call Week 14 (Dec 4 - Dec 6) Pike et al : Plan 9 Cheriton and Zwaenepoel: V Kernel Week 15 (Dec 11 - Dec 13) Hamilton and Kougiouris: Spring Nucleus Project presentations.",
+    "link": [
+        "#schedule",
+        "#readings",
+        "#ref1"
+    ],
+    "ground_truth": "other"
+}

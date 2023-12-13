@@ -1,0 +1,8 @@
+{
+    "Title": "\nNormals\n",
+    "Body": "If the surface is defined as a list of triangles then one way of computing the normal is to compute the normalized cross-product of two edges of the triangle.",
+    "link": [
+        "http://www.tc.cornell.edu/ctcCopyright.html"
+    ],
+    "ground_truth": "unknow"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "\nGiovanni Di Crescenzo's Home Page\n",
+    "Body": "De Santis, G. Di Crescenzo, and G. Persiano, The Knowledge Complexity of Quadratic Residuosity Languages, Theoretical Computer Science, vol.",
+    "link": [
+        "mailto:giovanni@cs.ucsd.edu",
+        "http://www-cse.ucsd.edu/users/giovanni/csc.html",
+        "http://www-cse.ucsd.edu/users/giovanni/compcomp.html"
+    ],
+    "ground_truth": "student"
+}

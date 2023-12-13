@@ -1,0 +1,10 @@
+{
+    "Title": "\nNEXT! description\n",
+    "Body": "The NEXT!",
+    "link": [
+        "http://www.cs.wisc.edu/~jussi/devise/devise.html",
+        "http://www.cs.wisc.edu/~praveen/projects/seq.html",
+        "http://www.cs.wisc.edu/condor/NEXT/birch.html"
+    ],
+    "ground_truth": "other"
+}

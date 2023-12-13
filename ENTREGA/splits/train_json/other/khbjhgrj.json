@@ -1,0 +1,5 @@
+{
+    "Título": "CS 302 Fall 1996 - Section 2 Quiz Grades",
+    "Cuerpo": "Date: Mon, 11 Nov 1996 17:04:47 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Thu, 31 Oct 1996 23:56:11 GMT Content-length: 599 CS 302 Fall 1996 - Section 2 Quiz Grades CS 302 Fall 1996 - Section 2 Quiz Grades ID #\tQuiz #1\tQuiz #2\tQuiz #3 9926\t29\t33 2358\t26\t32\t15 4366\t24\t29\t10 6591\t28\t30\t16 7326\t27\t34\t20 1315\t28\t34\t19 6934\t27\t24\t17 6741\t28\t33\t17 3412\t26\t 8\t15 3420\t24\t32\t16 6297\t22\t31\t16 0927\t30\t35\t16 3546\t25\t27\t19 2315\t24\t27\t18 4742\t23\t30\t10 2947\t25\t30\t15 6636\t23\t22\t12 0639\t26\t25\t 0 6916\t19\t33\t11 4293\t23\t33\t17 6344\t27\t30\t16 2313\t26\t32\t19 7647\t24\t 0\t 0 1959\t13\t26\t 8 Max:    30\t35\t20 Mean: 24.5    29.2    15.3",
+    "ground_truth": "other"
+}

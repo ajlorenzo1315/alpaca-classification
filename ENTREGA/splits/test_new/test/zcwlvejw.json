@@ -1,0 +1,10 @@
+{
+    "Title": " EECS 487 Home Page ",
+    "Body": "But being the lonely TA doing the web page, I may make a mistake.",
+    "link": [
+        "mailto:dnguyen@eecs.umich.edu",
+        "http://www.eecs.umich.edu/courses/f96/offhrs.html",
+        "http://www.eecs.umich.edu/courses/f96/announce.html"
+    ],
+    "ground_truth": "unknow"
+}

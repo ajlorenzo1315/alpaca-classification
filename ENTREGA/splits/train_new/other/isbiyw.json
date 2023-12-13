@@ -1,0 +1,10 @@
+{
+    "Title": "Cornell CS Course Home Pages Spring 1996 ",
+    "Body": "CS482 Introduction to Analysis of Algorithms Techniques used in the creation and analysis of algorithms.",
+    "link": [
+        "http://www.cs.cornell.edu/Info/Courses/Spring-96/CS100/CS100.html",
+        "http://www.cs.cornell.edu/Info/Courses/Spring-96/CS211/CS211.html",
+        "http://www.cs.cornell.edu/Info/Courses/Spring-96/CS212/CS212.html"
+    ],
+    "ground_truth": "other"
+}

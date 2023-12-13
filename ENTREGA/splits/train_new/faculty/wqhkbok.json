@@ -1,0 +1,10 @@
+{
+    "Title": "Home Page of Panos K. Chrysanthis",
+    "Body": "Date: Mon, 25 Nov 1996 23:22:22 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Mon, 02 Sep 1996 03:17:55 GMT Content-length: 1506 Home Page of Panos K. Chrysanthis Panos Kypros Chrysanthis Assistant Professor of Computer Science Latest NEWS!",
+    "link": [
+        "http://www.cs.pitt.edu/~panos/news.html",
+        "http://www.cs.pitt.edu/~panos/research/research.html",
+        "http://www.cs.pitt.edu/~panos/publications/publications.html"
+    ],
+    "ground_truth": "faculty"
+}

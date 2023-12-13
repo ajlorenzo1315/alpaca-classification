@@ -1,0 +1,10 @@
+{
+    "Title": "Seth Teller's homepage",
+    "Body": "This semester (Fall 1996), I'm teaching 6.837 (Introduction to Computer Graphics) , which will meet TR from 230-4pm in MIT building/room 3-270 .",
+    "link": [
+        "http://www-eecs.mit.edu/",
+        "http://www.lcs.mit.edu/",
+        "http://www.ai.mit.edu/"
+    ],
+    "ground_truth": "faculty"
+}

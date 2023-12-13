@@ -1,0 +1,10 @@
+{
+    "Title": "John B Chambers: Current Interests",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Monday, 06-Jan-97 21:06:07 GMT Content-Type: text/html Content-Length: 1128 Last-Modified: Wednesday, 04-Dec-96 19:01:02 GMT John B Chambers: Current Interests Current Interests I'm especially interested in topics at the operations research / computer science interface , with a particular focus on adaptive heuristics for difficult optimization problems in operations management.",
+    "link": [
+        "http://www.informs.org/General/Orms.html",
+        "http://www.math.clemson.edu/INFORMS/CSTS/",
+        "/users/jbc/home/diss.html"
+    ],
+    "ground_truth": "other"
+}

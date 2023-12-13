@@ -1,0 +1,10 @@
+{
+    "Title": "UT: Department of Information Science",
+    "Body": "Here is the information we have: History of the department The laboratories Information servers Technical reports Home Page JG 93.11.25",
+    "link": [
+        "http://web.yl.is.s.u-tokyo.ac.jp/ut/ut.html",
+        "http://web.yl.is.s.u-tokyo.ac.jp/is/history.html",
+        "http://web.yl.is.s.u-tokyo.ac.jp/is/labs.html"
+    ],
+    "ground_truth": "unknow"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "CPSC 463 notes- Willis Marti",
+    "Body": "{If you haven't had the equivalent, you must see me the first week of class} Course Summary: The course is part of understanding how to build and use Distributed Systems.",
+    "link": [
+        "http://www.cs.tamu.edu/course-info/cpsc463/fall96/marti/schedule.htm",
+        "http://www.cs.tamu.edu/course-info/cpsc463/fall96/marti/preface.htm",
+        "http://www.cs.tamu.edu/course-info/cpsc463/fall96/marti/schedule.htm"
+    ],
+    "ground_truth": "course"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": " Runtime Code Generation (RTCG) ",
+    "Body": "Uses RTCG.",
+    "link": [
+        "http://www.thomson.com/tcom/resource.html",
+        "mailto:shuntak@cs.washington.edu",
+        "http://www.cs.washington.edu/homes/pardo/papers.d/rtcg-case.html"
+    ],
+    "ground_truth": "other"
+}

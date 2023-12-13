@@ -1,0 +1,10 @@
+{
+    "Title": " Protocol Theory ",
+    "Body": "7, pages 755-775, July 1990 more info A stepwise refinement heuristic for protocol construction A. Udaya Shankar and Simon S. Lam ACM TOPLAS, vol.",
+    "link": [
+        "protocol_abs1.html",
+        "protocol_abs2.html",
+        "protocol_abs3.html"
+    ],
+    "ground_truth": "other"
+}

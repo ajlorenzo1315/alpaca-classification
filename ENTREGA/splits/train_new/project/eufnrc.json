@@ -1,0 +1,10 @@
+{
+    "Title": "COMPUTATION STRUCTURES GROUP",
+    "Body": "Greg Papadopoulos , Associate Professor of Electrical Engineering and Computer Science Jack Dennis, Andy Boughton, Research Associate, Arvind, Yuli Zhou , Research Associate The Monsoon processor architecture uses dataflow principles to address the basic issues of memory access latency and the synchronization of concurrent threads of control.",
+    "link": [
+        "http://www.csg.lcs.mit.edu:8001/",
+        "http://www.csg.lcs.mit.edu:8001/monsoon",
+        "http://www.csg.lcs.mit.edu:8001/monsoon/monsoon-performance/monsoon-performance.html"
+    ],
+    "ground_truth": "project"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Beth Katz's Info Page",
+    "Body": "Server: Netscape-Communications/1.1 Date: Monday, 25-Nov-96 20:38:51 GMT Last-modified: Tuesday, 12-Nov-96 03:22:27 GMT Content-length: 3397 Content-type: text/html Beth Katz's Info Page Beth Katz I am an adjunct instructor in the Computer Science Department at Millersville University .",
+    "link": [
+        "http://cs.millersv.edu/",
+        "http://www.millersv.edu/",
+        "http://cs.millersv.edu/~katz/kids.html"
+    ],
+    "ground_truth": "faculty"
+}

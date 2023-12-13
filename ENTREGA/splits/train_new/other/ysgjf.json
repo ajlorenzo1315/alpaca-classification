@@ -1,0 +1,10 @@
+{
+    "Title": "The FOIDL Inductive Logic Programming System ",
+    "Body": "Induction of First-Order Decision Lists: Results on Learning the Past Tense of English Verbs Raymond J. Mooney and Mary Elaine Califf Journal of Artificial Intelligence Research , 3 (1995) pp.",
+    "link": [
+        "ftp://ftp.cs.utexas.edu/pub/mooney/foidl",
+        "http://www.cs.utexas.edu/users/ml/ilp.html",
+        "file://ftp.cs.utexas.edu/pub/mooney/papers/foidl-jair-95.ps.Z"
+    ],
+    "ground_truth": "other"
+}

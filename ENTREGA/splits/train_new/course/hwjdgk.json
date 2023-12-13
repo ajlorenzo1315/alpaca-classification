@@ -1,0 +1,10 @@
+{
+    "Title": "CSE 531 Home Page, Fall '91 \n",
+    "Body": "Date: Mon, 02 Dec 1996 15:04:25 GMT Server: NCSA/1.4.cp: No match.",
+    "link": [
+        "http://www.cs.washington.edu/people/faculty/beame.html",
+        "quiz1.ps",
+        "quiz2.ps"
+    ],
+    "ground_truth": "course"
+}

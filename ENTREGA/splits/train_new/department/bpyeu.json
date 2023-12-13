@@ -1,0 +1,10 @@
+{
+    "Title": "Cal Poly Computer Science Department",
+    "Body": "These support the BSCS and MSCS degrees in Computer Science, the BSCPE degree in Computer Engineering , a minor in Computer Science, and computer literacy courses for the rest of the university.",
+    "link": [
+        "http://www.calPoly.Edu/",
+        "http://baretta.calpoly.edu/htmlpages/slo.html",
+        "#Admissions"
+    ],
+    "ground_truth": "department"
+}

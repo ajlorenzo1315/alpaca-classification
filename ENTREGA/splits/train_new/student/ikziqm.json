@@ -1,0 +1,10 @@
+{
+    "Title": "Annie Anton's Home Page ",
+    "Body": "Ms. Antón is a member of the Software Systems Design Group (SSDG) and the Center for Information Management Research (CIMR) .",
+    "link": [
+        "http://www.cc.gatech.edu/computing/SW_Eng/people/Phd/anton.resume.html",
+        "http://www.cc.gatech.edu/computing/SW_Eng/people/Phd/anton.vita.html",
+        "http://www.cc.gatech.edu/computing/SW_Eng/people/Phd/aia.gif"
+    ],
+    "ground_truth": "student"
+}

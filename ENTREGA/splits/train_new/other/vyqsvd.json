@@ -1,0 +1,9 @@
+{
+    "Title": "Constraints and Object Identity",
+    "Body": "However, one of the fundamental concepts of object-oriented programming, object identity, can result in implicit relations, even when explicit identity constraints are supported.",
+    "link": [
+        "ftp://cs.washington.edu/tr/1994/03/UW-CSE-94-03-07.PS.Z",
+        "http://www.cs.washington.edu/research/projects/weird/www/index.html"
+    ],
+    "ground_truth": "other"
+}

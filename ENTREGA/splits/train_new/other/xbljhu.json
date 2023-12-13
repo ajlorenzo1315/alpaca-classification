@@ -1,0 +1,8 @@
+{
+    "Title": "KHOROS 2.0.1 Developer's Release",
+    "Body": "This environment variable is needed if you want to execute the sample workspaces that you can download from the Khoros DIP course.",
+    "link": [
+        "http://www.khoros.unm.edu/dip/html/dip.html"
+    ],
+    "ground_truth": "other"
+}

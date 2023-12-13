@@ -1,0 +1,10 @@
+{
+    "Title": " Jeff's Miscellaneous ",
+    "Body": "software Maple ftp server MathWorks Home Page MathWorks ftp site NA-Net Home Page Netlib Home Page Nonlinear Science Print Archive SIAM Web Server Stochastic ODEs The World-Wide Web Virtual Library: Mathematics Yahoo Mathematics Page Yahoo U.S.",
+    "link": [
+        "http://e-math.ams.org/",
+        "http://inls.ucsd.edu/",
+        "ftp://daisy.waterloo.edu/pub/maple"
+    ],
+    "ground_truth": "other"
+}

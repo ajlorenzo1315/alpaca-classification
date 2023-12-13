@@ -1,0 +1,10 @@
+{
+    "Title": "Fall, 1996 CS 132 Announcements",
+    "Body": "10/12/96 On Tuesday, I will be circulating an email list.",
+    "link": [
+        "mailto:iss@cs.wisc.edu",
+        "http://www.cs.wisc.edu/~iss/webdiscuss",
+        "http://www.cs.wisc.edu/~iss/paint"
+    ],
+    "ground_truth": "other"
+}

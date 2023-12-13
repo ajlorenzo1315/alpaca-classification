@@ -1,0 +1,10 @@
+{
+    "Title": "Using Knowledge Automatically",
+    "Body": "The report atp-127.ps by Benjamin Shults reports on some work in this field.",
+    "link": [
+        "file://ftp.cs.utexas.edu/pub/bshults/ATP-tech-reports/atp-127.ps",
+        "ftp://ftp.cs.utexas.edu/pub/bshults/ATP-tech-reports/atp-127a.ps",
+        "http://www.ma.utexas.edu/users/bshults"
+    ],
+    "ground_truth": "other"
+}

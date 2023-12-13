@@ -1,0 +1,10 @@
+{
+    "Title": "Eric Ringger's Home Page",
+    "Body": "I work with Prof. James Allen and other members of the TRAINS research group.",
+    "link": [
+        "http://www.math.byu.edu/",
+        "http://www.byu.edu/",
+        "http://www.cs.byu.edu/map-info/tourProvo.html"
+    ],
+    "ground_truth": "student"
+}

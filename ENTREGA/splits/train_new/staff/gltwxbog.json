@@ -1,0 +1,10 @@
+{
+    "Title": "Bolo",
+    "Body": "All this, and a whole lot more , occurs at the Computer Sciences Department of the Madison Campus of the University of Wisconsin .",
+    "link": [
+        "http://www.cs.wisc.edu/~dewitt/dewitt.html",
+        "http://www.bolo.com/~mike/",
+        "http://www.cs.wisc.edu/~bolo/flight.html"
+    ],
+    "ground_truth": "staff"
+}

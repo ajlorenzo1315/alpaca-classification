@@ -1,0 +1,10 @@
+{
+    "Title": "CSE467 Home Page",
+    "Body": "Date: Mon, 02 Dec 1996 16:02:54 GMT Server: NCSA/1.4.2 Content-type: text/html CSE467 Home Page CSE467: Advanced Digital Design Ted Kehl, Fall 1996 Welcome to the 467 Home Page!",
+    "link": [
+        "http://www.cs.washington.edu/education/courses/467/Fall96/announcements.html",
+        "http://www.cs.washington.edu/education/courses/467/Fall96/misc/summary.html",
+        "http://www.cs.washington.edu/education/courses/467/Fall96/misc/syllabus.html"
+    ],
+    "ground_truth": "unknow"
+}

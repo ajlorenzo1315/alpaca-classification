@@ -1,0 +1,10 @@
+{
+    "Title": "Brian Kris Grant: Personal Information",
+    "Body": "Seattle There are lots of great things to do around Seattle (see The Emerald Web or U/Seattle , or Seattle's Child On-line for kid stuff) and great parks to visit when it isn't raining .",
+    "link": [
+        "http://www.cs.washington.edu/homes/grant/isis/",
+        "http://www.ft-wayne.com/",
+        "http://www.state.in.us/"
+    ],
+    "ground_truth": "other"
+}

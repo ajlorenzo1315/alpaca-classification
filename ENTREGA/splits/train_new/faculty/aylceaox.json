@@ -1,0 +1,10 @@
+{
+    "Title": "David W. Fox",
+    "Body": "Date: Thu, 21 Nov 1996 20:55:35 GMT Server: Apache/1.1b3 Content-type: text/html David W. Fox David W. Fox Professor Applied mathematics, eigenvalue problems.",
+    "link": [
+        "http://www.cs.umn.edu/footer.map",
+        "mailto:www@cs.umn.edu",
+        "http://www.cs.umn.edu/help"
+    ],
+    "ground_truth": "faculty"
+}

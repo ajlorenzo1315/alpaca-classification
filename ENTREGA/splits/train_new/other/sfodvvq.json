@@ -1,0 +1,10 @@
+{
+    "Title": "University of Washington Images",
+    "Body": "Server: Netscape-Commerce/1.12 Date: Tuesday, 10-Dec-96 15:02:09 GMT Last-modified: Tuesday, 28-May-96 21:53:34 GMT Content-length: 15277 Content-type: text/html University of Washington Images I MAGES OF THE U NIVERSITY OF W ASHINGTON University of Washington Health Sciences Center for Educational Resources Please select from the following thumbnail image groups: Structures Fountain Scenery View the titles only ( No display of inline GIFs) View a notice regarding usage of these images Comprehensive Listing of Titles This option allows the medium resolution jpeg-formatted images to be selected by filename, without first displaying the smaller gif-formatted thumbnail images .",
+    "link": [
+        "http://cer.hs.washington.edu/hscer/uwimages/uwimages.map",
+        "http://cer.hs.washington.edu/hscer/uwimages/thummenu.htm",
+        "http://cer.hs.washington.edu/hscer/uwimages/fountain.htm"
+    ],
+    "ground_truth": "other"
+}

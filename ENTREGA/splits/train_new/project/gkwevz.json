@@ -1,0 +1,10 @@
+{
+    "Title": "UMCP Computer Science: The PLUS Group",
+    "Body": "The PLUS group WWW pages are maintained by Dave Rager and Oliver Seeliger .",
+    "link": [
+        "http://www.cs.umd.edu/",
+        "http://www.umcp.umd.edu/",
+        "http://www.cs.umd.edu/projects/hpssl.html"
+    ],
+    "ground_truth": "project"
+}

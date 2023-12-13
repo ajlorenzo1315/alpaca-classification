@@ -1,0 +1,10 @@
+{
+    "Title": "Department of EE&CS at The George Washington University",
+    "Body": "Undergraduate and Graduate Degree Programs The Undergraduate Student Handbook The Graduate Student Handbook Undergraduate Curricula Graduate Curricula The EECS Department Colloquium Colloquium Schedule Department Publications Newsletters EE/CS News Brief Course Descriptions, Course Evaluations, and Class Schedules Electrical Engineering Undergraduate Course Listing Computer Science Undergraduate Course Listing Electrical Engineering Graduate CourseListing Computer Science Graduate Course Listing Undergraduate Courses Available for Graduate Credit Course Evaluations , Produced by Eta Kappa Nu Non-EECS Courses Required in EECS Undergraduate Programs Non-EECS Courses Available in EECS Graduate Programs Class Schedules Home Pages for Students in Certain Courses Graphics CS219 Intermediate Computer Graphics CS297 Procedural Methods for Computer Graphics Multimedia CSci 275 Design and Implementation of Educational Software CSci 278 Multimedia Design CSci 378 Evaluation of Multimedia Organizations and Student Groups Eta Kappa Nu (HKN) The Institute of Electrical and Electronics Engineers (IEEE) Goto: School of Engineering and Applied Science Homepage Suggestions or comments on these pages are welcome.",
+    "link": [
+        "http://www.gwu.edu",
+        "http://www.seas.gwu.edu/seas/eecs/contest.html",
+        "http://www.seas.gwu.edu/seas/eecs/faculty.html"
+    ],
+    "ground_truth": "department"
+}

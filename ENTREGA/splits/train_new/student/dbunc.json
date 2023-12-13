@@ -1,0 +1,10 @@
+{
+    "Title": "Michael Horie's Home Page",
+    "Body": "Date: Tue, 26 Nov 1996 16:21:23 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Mon, 18 Nov 1996 18:45:40 GMT Content-length: 4531 Michael Horie's Home Page Welcome to my Home Page Personal Information: I am a member of the PANDA ( Pa rallel and N etworked D istributed A pplications and Systems) group.",
+    "link": [
+        "http://apertos0.csc.UVic.CA/~mhorie/panda.gif",
+        "http://apertos0.csc.uvic.ca/PANDA-Projects.html",
+        "http://www.csl.sony.co.jp/"
+    ],
+    "ground_truth": "student"
+}

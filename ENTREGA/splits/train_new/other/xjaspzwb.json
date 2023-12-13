@@ -1,0 +1,10 @@
+{
+    "Title": "CSE 457 libui documentation",
+    "Body": "The main things that the libui library provides you with are: A main application window The application will have a main window which will hold all the controls, the text area, drawing areas, etc.",
+    "link": [
+        "#Overview",
+        "#Reference",
+        "#Reference-DataTypes"
+    ],
+    "ground_truth": "other"
+}

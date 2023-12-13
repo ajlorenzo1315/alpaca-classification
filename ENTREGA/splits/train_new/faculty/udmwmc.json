@@ -1,0 +1,10 @@
+{
+    "Title": "Anselm Blumer",
+    "Body": "- Anselm Blumer, ablumer@cs.tufts.edu",
+    "link": [
+        "http://www.cs.tufts.edu/~ablumer/Cascade.html",
+        "http://www.cs.tufts.edu/~ablumer/Cascade1.html",
+        "http://www.cs.tufts.edu/g/170/"
+    ],
+    "ground_truth": "faculty"
+}

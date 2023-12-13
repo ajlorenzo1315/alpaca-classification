@@ -1,0 +1,10 @@
+{
+    "Title": " Gregory Sullivan's download page ",
+    "Body": "by J. D. Bright, G. Sullivan, and G. M. Masson, Digest of the 25th Symposium on Fault-Tolerant Computing , IEEE Computer Society Press, pp.",
+    "link": [
+        "http://www.cs.jhu.edu/~sullivan/cert1ieee.ps",
+        "http://www.cs.jhu.edu/~sullivan/integrity.ps",
+        "http://www.cs.jhu.edu/~sullivan/ftcs94mpq.ps"
+    ],
+    "ground_truth": "other"
+}

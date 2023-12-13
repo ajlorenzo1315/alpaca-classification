@@ -1,0 +1,10 @@
+{
+    "Title": "The Horus Papers",
+    "Body": "Robbert Van Renesse and  Kenneth P. Birman, Protocol Composition in Horus , Cornell University Technical Report, TR95-1505, March, 1995.",
+    "link": [
+        "http://simon.cs.cornell.edu/Info/Projects/HORUS/index.html",
+        "http://simon.cs.cornell.edu/Info/Projects/HORUS/Overview.html",
+        "http://simon.cs.cornell.edu/Info/Projects/HORUS/People.html"
+    ],
+    "ground_truth": "other"
+}

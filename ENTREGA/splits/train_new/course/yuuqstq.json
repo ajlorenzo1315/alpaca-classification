@@ -1,0 +1,10 @@
+{
+    "Title": "CSE 341 Home Page",
+    "Body": "SMALLTALK assignment #1 (Due 5/13) (html) (postscript) (Last update: 05/01/96 at 09AM.)",
+    "link": [
+        "http://www.cs.washington.edu/people/faculty/hanks.html",
+        "mailto:hanks@cs.washington.edu",
+        "http://www.cs.washington.edu/homes/grove/"
+    ],
+    "ground_truth": "course"
+}

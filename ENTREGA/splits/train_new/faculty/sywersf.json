@@ -1,0 +1,10 @@
+{
+    "Title": "Peter K. Allen",
+    "Body": "in Computer Science from the University of Oregon and the Ph.D. in Computer Science from the University of Pennsylvania, where he was the recipient of the CBS Foundation Fellowship, Army Research Office fellowship and the Rubinoff Award for innovative uses of computers.",
+    "link": [
+        "http://www.cs.columbia.edu/robotics/",
+        "http://www.cs.columbia.edu/~allen/cs6998",
+        "http://www.cs.columbia.edu/"
+    ],
+    "ground_truth": "faculty"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": " EECS Department at Lehigh University ",
+    "Body": "Date: Tue, 26 Nov 1996 22:53:51 GMT Server: NCSA/1.5.1 Last-modified: Fri, 15 Nov 1996 01:12:22 GMT Content-type: text/html Content-length: 1986 EECS Department at Lehigh University Lehigh University 's We are hosting part of the Mid-Atlantic region of the ACM programming contest.",
+    "link": [
+        "http://www.lehigh.edu",
+        "http://renoir.vill.edu:80/~midatl/",
+        "http://www.eecs.lehigh.edu/acmcontest.html"
+    ],
+    "ground_truth": "department"
+}

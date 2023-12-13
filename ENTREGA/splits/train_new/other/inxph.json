@@ -1,0 +1,10 @@
+{
+    "Title": "LIS People",
+    "Body": "Date: Tue, 10 Dec 1996 03:20:55 GMT Server: NCSA/1.4.2 Content-type: text/html LIS People People of LIS Click on a face to go to the person's homepage.",
+    "link": [
+        "http://www.cs.washington.edu/htbin-post/unrestricted/imagemap/research/projects/lis/www/ppl.map",
+        "http://www.cs.washington.edu/homes/gaetano",
+        "http://www.cs.washington.edu/people/faculty/burns.html"
+    ],
+    "ground_truth": "other"
+}

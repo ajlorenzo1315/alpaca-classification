@@ -1,0 +1,10 @@
+{
+    "Title": "Helen's resume",
+    "Body": "Management of Information System.",
+    "link": [
+        "http://www.vuse.vanderbilt.edu/~yangwang/helen_gif1.html",
+        "http://www.vanderbilt.edu/",
+        "http://www.vanderbilt.edu/"
+    ],
+    "ground_truth": "student"
+}

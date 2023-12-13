@@ -1,0 +1,10 @@
+{
+    "Title": "CS 537-2 Fall 1996 Home Page",
+    "Body": "Oct 1 monitors; concurrency: summary cont'd Oct 8 deadlock; process scheduling Chapter 6, 2.4 Oct 15 memory management: protection, address translation; caching and TLBs Chapter 3 Oct 22 demand paged virtual memory cont'd.",
+    "link": [
+        "http://www.cs.wisc.edu/~pubs/faculty-info/vernon.html",
+        "http://www.cs.wisc.edu/~muthiah/muthiah.html",
+        "http://www.cs.wisc.edu/~cs537-2/fall96/quizzes/quiz3.solutions.html"
+    ],
+    "ground_truth": "course"
+}

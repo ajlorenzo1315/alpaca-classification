@@ -1,0 +1,10 @@
+{
+    "Title": "Research Summary of Shun-Tak A. Leung",
+    "Body": "My research in runtime parallelization has touched on both the inspector and the executor.",
+    "link": [
+        "#array-restructuring",
+        "#runtime-parallelization",
+        "http://www.cs.washington.edu/people/faculty/zahorjan.html"
+    ],
+    "ground_truth": "other"
+}

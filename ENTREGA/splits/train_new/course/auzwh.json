@@ -1,0 +1,10 @@
+{
+    "Title": "CS 381 Software Engineering ",
+    "Body": "Other information sources: There are a number of excellent publications that provide access to contemporary writings in Software Engineering.",
+    "link": [
+        "http://www.cs.uidaho.edu/index.html",
+        "http://www.uidaho.edu/",
+        "http://www.cs.uidaho.edu/~billjunk/courses/cs381/schedule.html"
+    ],
+    "ground_truth": "course"
+}

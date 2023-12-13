@@ -1,0 +1,10 @@
+{
+    "Title": "CS224r Course Information",
+    "Body": "Date: Wed, 20 Nov 1996 22:24:15 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Tue, 12 Nov 1996 19:09:51 GMT Content-length: 1559 CS224r Course Information Computer Science 224r: Randomness in Computation Instructor Professor M.O.",
+    "link": [
+        "mailto:rabin@deas.harvard.edu",
+        "mailto:bender@deas.harvard.edu",
+        "mailto:dchua@fas.harvard.edu"
+    ],
+    "ground_truth": "course"
+}

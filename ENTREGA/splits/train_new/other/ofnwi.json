@@ -1,0 +1,10 @@
+{
+    "Title": "Univ. of Washington Electrical Engineering",
+    "Body": "of Washington Electrical Engineering Search EE Web pages for: Welcome to the WWW home page for the Department of Electrical Engineering, College of Engineering , University of Washington .",
+    "link": [
+        "http://www.ee.washington.edu/cgi-bin/imagemap/eelogo3",
+        "http://www.engr.washington.edu",
+        "http://www.washington.edu"
+    ],
+    "ground_truth": "other"
+}

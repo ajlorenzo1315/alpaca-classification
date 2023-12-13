@@ -1,0 +1,9 @@
+{
+    "Title": " Home Page of Anne Condon ",
+    "Body": "Recent results on interactive proof systems have resulted in novel models of NP, which in turn can be used to prove non-approximability results for several NP-hard problems.",
+    "link": [
+        "mailto:condon@cs.wisc.edu",
+        "mailto:pubs@cs.wisc.edu"
+    ],
+    "ground_truth": "faculty"
+}

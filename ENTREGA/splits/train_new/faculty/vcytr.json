@@ -1,0 +1,10 @@
+{
+    "Title": "Ellen W. Zegura's Home Page ",
+    "Body": "degree in Computer Science (1990) and the D.Sc.",
+    "link": [
+        "http://www.cc.gatech.edu/Computing.html",
+        "http://www.gatech.edu/TechHome.html",
+        "http://www.cs.wustl.edu/"
+    ],
+    "ground_truth": "faculty"
+}

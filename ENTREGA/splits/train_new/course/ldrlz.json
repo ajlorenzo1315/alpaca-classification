@@ -1,0 +1,10 @@
+{
+    "Title": "CS 60:  Principles of Computer Science",
+    "Body": "Is this a \"Programming Course\"?",
+    "link": [
+        "http://www.hmc.edu/",
+        "http://www.cs.hmc.edu/index.html",
+        "http://www.cs.hmc.edu/Architext/AT-newquery.html"
+    ],
+    "ground_truth": "course"
+}

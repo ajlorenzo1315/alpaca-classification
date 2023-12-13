@@ -1,0 +1,10 @@
+{
+    "Title": "CSE 590S (Systems Seminar)",
+    "Body": "Date: Thu, 21 Nov 1996 22:16:04 GMT Server: NCSA/1.4.2 Content-type: text/html CSE 590S (Systems Seminar) Preliminaries If you're not already on the uw-systems mailing list, you need to be, because that's where various crucial bits of information (e.g., ``this week's seminar is cancelled'') will be sent.",
+    "link": [
+        "http://www.cs.washington.edu/education/courses/590s/sp95/index.html",
+        "http://www.cs.washington.edu/education/courses/590s/su95/index.html",
+        "http://www.cs.washington.edu/education/courses/590s/au95/index.html"
+    ],
+    "ground_truth": "course"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Zen Timer Code",
+    "Body": "Click here to download a copy of the Zen timer code.",
+    "link": [
+        "http://www.intel.com",
+        "http://x86.metronet.com",
+        "http://www.coriolis.com/devclub/pc_sys.htm#zen_codeop"
+    ],
+    "ground_truth": "other"
+}

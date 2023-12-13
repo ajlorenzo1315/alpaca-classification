@@ -1,0 +1,10 @@
+{
+    "Title": "Thu's Resume",
+    "Body": "RESEARCH EXPERIENCE Distributed and Parallel Systems Using Runtime Measurements in Parallel Processor Scheduling: Used runtime measurement of application efficiency to perform dynamic processor scheduling.",
+    "link": [
+        "http://www.cs.washington.edu/homes/thu/papers/pps.abstract.html",
+        "http://www.cs.washington.edu/homes/thu/papers/ulpi.abstract.html",
+        "http://www.cs.washington.edu/homes/thu/papers/pcrw.abstract.html"
+    ],
+    "ground_truth": "other"
+}

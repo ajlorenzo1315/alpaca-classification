@@ -1,0 +1,10 @@
+{
+    "Title": "The Internet Softbot",
+    "Body": "For further information, contact: Oren Etzioni (etzioni@cs.washington.edu) An accessible introduction to the Softbot project can be found here: A Softbot-Based Interface to the Internet .",
+    "link": [
+        "http://www.dc.enews.com/magazines/discover/page6a.html#CS",
+        "http://www.dc.enews.com/magazines/discover/page6.html",
+        "http://www.cs.washington.edu/research/projects/softbots/www/gui/index.html"
+    ],
+    "ground_truth": "unknow"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Nancy Leveson's Home Page",
+    "Body": "Dr. Leveson is a Fellow of the ACM and was awarded the 1995 AIAA Information Systems Award for contributions in space and aeronautics computer technology and science for \"developing the field of software safety and for promoting responsible software and system engineering practices where life and property are at stake.\"",
+    "link": [
+        "http://www.cs.washington.edu/research/projects/safety/www",
+        "http://www.cs.washington.edu/research/projects/safety/www/book.html",
+        "http://www.cs.washington.edu/research/projects/safety/www"
+    ],
+    "ground_truth": "faculty"
+}

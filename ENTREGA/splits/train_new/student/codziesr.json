@@ -1,0 +1,10 @@
+{
+    "Title": "Jing Huang's home page",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Wednesday, 20-Nov-96 19:49:14 GMT Content-Type: text/html Content-Length: 2820 Last-Modified: Thursday, 10-Oct-96 05:39:37 GMT Jing Huang's home page Jing Huang 4138 Upson Hall Department of Computer Science Cornell University Ithaca , NY 14853 (607) 255-1158 huang@cs.cornell.edu I'm a Ph.D. student in the Department of Computer Science at Cornell University .",
+    "link": [
+        "http://www.cs.cornell.edu",
+        "http://www.cornell.edu",
+        "http://www.spinners.com/ithaca"
+    ],
+    "ground_truth": "student"
+}

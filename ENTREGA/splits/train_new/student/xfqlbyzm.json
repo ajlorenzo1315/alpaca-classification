@@ -1,0 +1,10 @@
+{
+    "Title": "Johnny Chen",
+    "Body": "Date: Tue, 26 Nov 1996 00:20:17 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Mon, 21 Oct 1996 01:27:57 GMT Content-length: 670 Johnny Chen Johnny's WWW page I am a graduate student in the Computer Science department at Rice University located in Houston, Texas.",
+    "link": [
+        "http://www.cs.rice.edu/",
+        "http://riceinfo.rice.edu",
+        "http://www.cs.rice.edu/~willy"
+    ],
+    "ground_truth": "student"
+}

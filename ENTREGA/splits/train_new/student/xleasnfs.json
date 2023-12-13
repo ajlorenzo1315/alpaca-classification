@@ -1,0 +1,10 @@
+{
+    "Title": "Andrew Berman's Home Page",
+    "Body": "Special Links My wife, Debbie.",
+    "link": [
+        "mailto:aberman@cs.washington.edu",
+        "http://www.cs.washington.edu/",
+        "ftp://ftp.u.washington.edu/public/"
+    ],
+    "ground_truth": "student"
+}

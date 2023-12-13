@@ -1,0 +1,10 @@
+{
+    "Title": "CISE Research Projects",
+    "Body": "Computer Security Computer Simulation Distributed Conferencing System Image Algebra C++ Library Image Processing Research Group The Phalanx parallel active database project Sparse Matrix Algorithms Past Projects The Ariel active DBMS project [ home ] [ local ] [ academic ] [ research ] [ people ] [ etc ] Suggestions, comments, etc.",
+    "link": [
+        "http://www.cis.ufl.edu/research/projects/hanson-ruleopt/",
+        "http://www.cis.ufl.edu/research/projects/hanson-asynch/",
+        "http://www.cis.ufl.edu/research/projects/vemuri/"
+    ],
+    "ground_truth": "other"
+}

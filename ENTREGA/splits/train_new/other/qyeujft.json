@@ -1,0 +1,10 @@
+{
+    "Title": "CSE/ENGR 142 Lecture Slides",
+    "Body": "Using The Acrobat Reader With Acrobat Reader 2.1 (Sieg Lab), adjust the size of the window to fit one slide at 200% magnification.",
+    "link": [
+        "#instructions",
+        "http://www.cs.washington.edu/research/projects/tslides",
+        "http://www.cs.washington.edu/htbin-post/unrestricted/cse142/byteserver.pl/education/courses/142/slides/ho-a-overview.pdf"
+    ],
+    "ground_truth": "other"
+}

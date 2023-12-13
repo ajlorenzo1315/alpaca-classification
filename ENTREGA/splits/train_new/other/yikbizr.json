@@ -1,0 +1,10 @@
+{
+    "Title": "file:///Untitled",
+    "Body": "The goal of our research is to devise an architecture that's suitable for use in rapid-prototyping (RP) systems.",
+    "link": [
+        "http://www-cse.ucsd.edu/users/kuan/research.html#Partitioning, Placement, and",
+        "http://www-cse.ucsd.edu/users/kuan/research.html#Routing",
+        "http://www-cse.ucsd.edu/users/kuan/research.html#Switching"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Madison Restaurant Review",
+    "Body": "The list of reviewers who contributed to this database.",
+    "link": [
+        "http://www.cs.wisc.edu/~paradyn/Restaurants/Reviewers.html",
+        "http://www.cs.wisc.edu/~paradyn/Restaurants/Restaurants/list.html",
+        "http://www.cs.wisc.edu/~paradyn/Restaurants/Type.html"
+    ],
+    "ground_truth": "other"
+}

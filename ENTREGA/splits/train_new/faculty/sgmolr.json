@@ -1,0 +1,10 @@
+{
+    "Title": "Maria Paola Bonacina",
+    "Body": "Date: Tue, 14 Jan 1997 23:18:30 GMT Server: NCSA/1.5 Content-type: text/html Maria Paola Bonacina Maria Paola Bonacina I am assistant professor in the Department of Computer Science of the University of Iowa since August 1993.",
+    "link": [
+        "http://www.cs.uiowa.edu/",
+        "http://www.uiowa.edu/",
+        "http://www.cs.sunysb.edu/"
+    ],
+    "ground_truth": "faculty"
+}

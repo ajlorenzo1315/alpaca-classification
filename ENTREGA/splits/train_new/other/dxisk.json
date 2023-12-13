@@ -1,0 +1,10 @@
+{
+    "Title": "½É ¿µ»óÀÇ È¨ ÆäÀÌÁö¿¡ ¿À½ÉÀ» È¯¿µÇÕ´Ï´Ù!\n",
+    "Body": "My friends in the world!",
+    "link": [
+        "http://www.cs.cornell.edu",
+        "http://www.cornell.edu",
+        "http://www.ithaca.ny.us/"
+    ],
+    "ground_truth": "other"
+}

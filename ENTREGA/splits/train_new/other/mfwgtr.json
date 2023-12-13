@@ -1,0 +1,10 @@
+{
+    "Title": "CSE467 Laboratory Assignment #4",
+    "Body": "This tells Synario to create a JED file for the PLD programmer that programs the 20 pin PLD provided in your lab kit.",
+    "link": [
+        "http://www.cen.uiuc.edu/~cburian/lcd.doc",
+        "http://www.cen.uiuc.edu/~cburian/chset2.gif",
+        "ftp://ftp.ee.ualberta.ca/pub/cookbook/faq/LCD2.doc"
+    ],
+    "ground_truth": "other"
+}

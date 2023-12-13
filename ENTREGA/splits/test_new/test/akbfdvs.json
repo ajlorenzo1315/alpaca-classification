@@ -1,0 +1,10 @@
+{
+    "Title": "Wei Yinng's Home Page",
+    "Body": "Please have a good look at my personal info, especially if you are an employer, give me the job at once:-).",
+    "link": [
+        "http://www.cs.wisc.edu/~yinong/resume.html",
+        "http://www.cs.wisc.edu/~yinong/interest.html",
+        "http://www.cs.wisc.edu/~yinong/travel.html"
+    ],
+    "ground_truth": "unknow"
+}

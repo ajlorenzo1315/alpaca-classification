@@ -1,0 +1,6 @@
+{
+    "Title": "No title",
+    "Body": "% Part C % The problem is that this often go into infinite loops: % -- if you ask a query whose answer should be \"no\" %             e.g. ?-married(philip, diana).",
+    "link": [],
+    "ground_truth": "other"
+}

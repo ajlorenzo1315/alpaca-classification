@@ -1,0 +1,10 @@
+{
+    "Title": "Graduate Student Directory",
+    "Body": "Date: Thu, 13 Mar 1997 19:08:29 GMT Server: Apache/1.2b7 Connection: close Content-Type: text/html Last-Modified: Thu, 13 Mar 1997 18:33:59 GMT ETag: \"724f008e-6ee2-33284897\" Content-Length: 28386 Accept-Ranges: bytes Graduate Student Directory Graduate Student Directory Each student's name is a link to their home page, if it exists.",
+    "link": [
+        "http://www.cs.wisc.edu/docs/homepage.html",
+        "#A",
+        "#B"
+    ],
+    "ground_truth": "other"
+}

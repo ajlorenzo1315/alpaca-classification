@@ -1,0 +1,8 @@
+{
+    "Title": " Computing Theory ",
+    "Body": "Machine-independent characterizations of computational complexity lend credence to the importance of the classes considered, provide insight into their nature, relate them to programming methodology, suggest new tools for separating them, and offer generalizations to computing over arbitrary structures and to computing in higher types.",
+    "link": [
+        "http://www.cs.indiana.edu/l/www/research/index.html"
+    ],
+    "ground_truth": "unknow"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": " SPIM ",
+    "Body": "SPIM comes with complete source code and documentation of all instructions (including several that aren't in Kane's book, but are produced by MIPS compilers).",
+    "link": [
+        "http://www.cs.wisc.edu/~larus/SPIM_manual/spim-manual.html",
+        "ftp://ftp.cs.wisc.edu/pub/spim/spim.tar.Z",
+        "http://www.cs.wisc.edu/~larus/larus.html"
+    ],
+    "ground_truth": "other"
+}

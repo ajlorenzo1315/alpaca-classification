@@ -1,0 +1,10 @@
+{
+    "Title": "DEVise Performance",
+    "Body": "Drawing GData Drawing performance is improved as follows: GData that overlap are drawn just once.",
+    "link": [
+        "http://www.cs.wisc.edu/~devise/devise/model.html",
+        "#IO",
+        "#Mapping"
+    ],
+    "ground_truth": "unknow"
+}

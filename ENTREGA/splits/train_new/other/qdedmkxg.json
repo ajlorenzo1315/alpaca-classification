@@ -1,0 +1,8 @@
+{
+    "Title": " Notes on the Hangman Programming Assignment ",
+    "Body": "Since char_in_string returns a boolean value, we can use the return value as the condition of an if statement: if ( char_in_string (guess, guessed_letters) ) Add Guess to String of Guessed Letters guessed_letters += guess; Remember that the += is just a shorthand for the following: guessed_letters = guessed_letters + guess; The character guess is automatically converted to a string, and the + operator concatenates the two strings into a single string.",
+    "link": [
+        "mailto:mbirk@cs.wisc.edu"
+    ],
+    "ground_truth": "other"
+}

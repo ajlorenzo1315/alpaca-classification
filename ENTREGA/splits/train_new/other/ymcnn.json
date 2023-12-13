@@ -1,0 +1,10 @@
+{
+    "Title": "\nQuery By Humming -- Musical Information Retrieval in an Audio Database\n",
+    "Body": "In this paper, a system for querying an audio database by humming is described along with a scheme for representing the melodic information in a song as relative pitch changes.",
+    "link": [
+        "http://www.cs.cornell.edu/Info/People/ghias/home.html",
+        "http://www.cs.cornell.edu/Info/People/logan/",
+        "http://www.cs.cornell.edu/Info/Faculty/Brian_Smith.html"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,6 @@
+{
+    "Title": "CS110: Program #2",
+    "Body": "(NOTE: the number of children and number of adults are returned by reference to the main program to be used at a later stage) If the user enters 'n', simply return this response The bookTickets Function The bookTickets function should do the following: Ask the user if s/he wants to buy airline tickets.",
+    "link": [],
+    "ground_truth": "other"
+}

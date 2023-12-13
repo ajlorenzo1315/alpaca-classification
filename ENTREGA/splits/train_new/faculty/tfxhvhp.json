@@ -1,0 +1,10 @@
+{
+    "Title": " Joseph Culberson Home Page",
+    "Body": "Selected Publications On the Futility of Blind Search : No Free Lunch versus NP; adversaries, algorithms and knowledge trade-offs.",
+    "link": [
+        "http://www.cs.ualberta.ca/people/faculty/aiff/joe.aiff",
+        "http://web.cs.ualberta.ca/UAlberta.html",
+        "http://web.cs.ualberta.ca/home.html"
+    ],
+    "ground_truth": "faculty"
+}

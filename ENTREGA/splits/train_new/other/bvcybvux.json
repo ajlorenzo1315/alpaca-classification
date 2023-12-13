@@ -1,0 +1,10 @@
+{
+    "Title": "Recommended Reading",
+    "Body": "Poetry by cats throughout the ages, such as: \"The Cat's Tale\", by Geoffrey Chaucer's Cat \"Vet, Be Not Proud\", by John Donne's Cat \"To the Kittens, to Make Much of Time\", by Robert Herrick's Cat \"Kubla Kat\", by Samuel Taylor Coleridge's Cat \"Meow of Myself\", by Walt Whitman's Cat \"Sitting by the Fire on a Snowy Evening\", by Robert Frost's Cat \"The Love Song of J. Morris Housecat\", by T.S.",
+    "link": [
+        "telnet://locis.loc.gov",
+        "news:alt.horror.cthulhu",
+        "http://www.promo.net/pg/"
+    ],
+    "ground_truth": "other"
+}

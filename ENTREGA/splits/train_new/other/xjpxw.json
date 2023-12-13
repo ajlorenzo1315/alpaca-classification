@@ -1,0 +1,10 @@
+{
+    "Title": "STL Manual and Source",
+    "Body": "If you are on a PC, get the .zip files.",
+    "link": [
+        "./stl.ps",
+        "./stl.pdf",
+        "./stl.faq"
+    ],
+    "ground_truth": "other"
+}

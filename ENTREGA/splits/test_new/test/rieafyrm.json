@@ -1,0 +1,10 @@
+{
+    "Title": " CS302 Section 12 ",
+    "Body": "Date: Mon, 11 Nov 1996 16:00:01 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Fri, 08 Nov 1996 21:01:07 GMT Content-length: 4498 CS302 Section 12 CS302 Section 12 Instructor Michael Birk Email: mbirk@cs.wisc.edu Office: 1302 Comp Sci & St Phone: 262-6600 (office), 251-7734 (home) Office Hours: Tue 4:30 pm, Wed 2:30 pm, Thu 1:00 pm (in my office or the lab), or by appointment Announcements Test cases for Program 6 now available.",
+    "link": [
+        "mailto:mbirk@cs.wisc.edu",
+        "http://www.cs.wisc.edu/~mbirk/cs302/assignments/prog6.html#tests",
+        "http://www.cs.wisc.edu/~mbirk/cs302/examples/dice"
+    ],
+    "ground_truth": "unknow"
+}

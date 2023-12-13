@@ -1,0 +1,10 @@
+{
+    "Title": "DAIMI",
+    "Body": "Date: Tue, 26 Nov 1996 23:07:45 GMT Server: NCSA/1.5.1 Last-modified: Fri, 18 Oct 1996 19:31:23 GMT Content-type: text/html Content-length: 4579 DAIMI DAIMI Department of Computer Science University of Aarhus Faculty of Science Departments of Mathematical Sciences Research Areas DAIMI Administration DAIMI Calendar DAIMI Studies News and Special Events Do you want to study here ?",
+    "link": [
+        "http://www.aau.dk",
+        "http://www.aau.dk/uk/nat/index.html",
+        "http://www.mi.aau.dk"
+    ],
+    "ground_truth": "department"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Computer Science Department",
+    "Body": "of Computer Science Home Page Memorial University of Newfoundland , St. John's, Newfoundland, Canada , A1B 3X5.",
+    "link": [
+        "http://www.mun.ca",
+        "http://www.mun.ca/nfld/",
+        "http://www-cgi.cs.cmu.edu/afs/cs.cmu.edu/user/clamen/misc/Canadiana/REA\nDME.html"
+    ],
+    "ground_truth": "department"
+}

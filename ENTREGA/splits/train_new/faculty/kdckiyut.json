@@ -1,0 +1,10 @@
+{
+    "Title": " M. Tamer Özsu ",
+    "Body": "I joined the department in 1984 after receiving, in 1983, my Ph.D.  in computer and information science from The Ohio State University.",
+    "link": [
+        "http://www.cs.ualberta.ca/~ozsu/gifs/ozsularge.gif",
+        "http://www.cs.ualberta.ca/people/faculty/aiff/ozsu.aiff",
+        "http://web.cs.ualberta.ca/labs/database.html"
+    ],
+    "ground_truth": "faculty"
+}

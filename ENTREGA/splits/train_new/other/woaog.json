@@ -1,0 +1,10 @@
+{
+    "Title": "No title",
+    "Body": "Date: Tue, 14 Jan 1997 22:53:08 GMT Server: Apache/1.1.0 Content-type: text/html Content-length: 853 Last-modified: Thu, 26 Sep 1996 18:24:17 GMT LaTeX-related Information Script file for generating postscript from latex files.",
+    "link": [
+        "http://www.cps.msu.edu/~templet3/cps470/cps470.html",
+        "http://web.cps.msu.edu/~cps470/Docs/latex/essential.ps",
+        "http://web.cps.msu.edu/~cps470/Docs/latex/usrguide.ps.Z"
+    ],
+    "ground_truth": "other"
+}

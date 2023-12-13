@@ -1,0 +1,10 @@
+{
+    "Title": "\nCNS/CS/EE 188 Home page\n",
+    "Body": "Date: Wed, 20 Nov 1996 21:57:58 GMT Server: NCSA/1.4 Content-type: text/html Last-modified: Fri, 15 Nov 1996 10:39:44 GMT Content-length: 1106 CNS/CS/EE 188 Home page CNS/CS/EE 188 Computation Theory and Neural Systems This is the home page of CNS/CS/EE 188, a course offered by the Computation and Neural Systems Department at the California Institute of Technology .",
+    "link": [
+        "http://www.cns.caltech.edu",
+        "http://www.caltech.edu",
+        "http://vigeland.caltech.edu/bruck.html"
+    ],
+    "ground_truth": "course"
+}

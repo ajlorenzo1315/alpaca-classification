@@ -1,0 +1,10 @@
+{
+    "Title": "Rick Bunt's Home Page",
+    "Body": "Classes for 1996/97 I am teaching three classes this year: Fall Term: CMPT 215.3 Introduction to Computer Organization and Architecture CMPT 815.3 Computer Systems and Performance Evaluation Spring Term: (We have no winter term in Saskatchewan) CMPT 115.3 Principles of Computer Science Research Projects At the U of S, my research activities are rooted in the DISCUS Research Group , a group we ( Derek Eager , Carey Williamson , and I) formed to consolidate our common research interests in the performance of distributed computing environments.",
+    "link": [
+        "http://info.queensu.ca/",
+        "http://www.cdf.toronto.edu:80/",
+        "http://www.usask.ca/"
+    ],
+    "ground_truth": "unknow"
+}

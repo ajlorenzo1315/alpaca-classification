@@ -1,0 +1,10 @@
+{
+    "Title": "Dr. Sergey V.  Drakunov",
+    "Body": "Date: Monday, 25-Nov-96 22:50:06 GMT Server: NCSA/1.3 MIME-version: 1.0 Content-type: text/html Last-modified: Saturday, 09-Nov-96 17:41:26 GMT Content-length: 3404 Dr. Sergey V.  Drakunov Tulane University Department of Electrical Engineering and Computer Science Dr. Sergey V. Drakunov Associate Professor Short Biographical Information Research Interests General: Nonlinear Control, Observers and Filters , Automotive and Aerospace applications of Nonlinear Control.",
+    "link": [
+        "http://www.eecs.tulane.edu:80/www/Drakunov.Sergey/bio.html",
+        "http://www.eecs.tulane.edu:80/www/Drakunov.Sergey/recent.html",
+        "http://www.eecs.tulane.edu:80/www/Drakunov.Sergey/courses/ELEN321.html"
+    ],
+    "ground_truth": "faculty"
+}

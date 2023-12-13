@@ -1,0 +1,10 @@
+{
+    "Title": "CSE 322 \nWinter Quarter 1996",
+    "Body": "Chapter 8 - Pushdown Automata and Context-Free Languages - theory behind parsing of computer languages.",
+    "link": [
+        "http://www.cs.washington.edu/homes/ladner/",
+        "mailto:ladner@cs.washington.edu",
+        "http://www.cs.washington.edu/homes/fix/"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": " Rice PLT Group ",
+    "Body": "Date: Wed, 15 Jan 1997 01:46:34 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Sun, 03 Nov 1996 06:31:09 GMT Content-length: 1245 Rice PLT Group Rice Programming Language Research The Programming Language Theory (PLT) Group at Rice works on all aspects of advanced programming languages, including design, semantics, implementations, programming environment tools, and applications.",
+    "link": [
+        "http://www.cs.rice.edu/CS/PLT/packages/drscheme/",
+        "http://www.cs.rice.edu/CS/PLT/packages/doc/",
+        "http://www.cs.rice.edu/CS/PLT/publications.html"
+    ],
+    "ground_truth": "project"
+}

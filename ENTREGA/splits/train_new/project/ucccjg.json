@@ -1,0 +1,10 @@
+{
+    "Title": "Software Engineering Research Group - Department of Computer Science",
+    "Body": "SERG Meeting Information .",
+    "link": [
+        "http://web.cps.msu.edu/groups/serg/research/projects.html",
+        "http://web.cps.msu.edu/groups/serg/research/people.html",
+        "http://web.cps.msu.edu/groups/serg/research/tools.html"
+    ],
+    "ground_truth": "project"
+}

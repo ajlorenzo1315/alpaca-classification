@@ -1,0 +1,10 @@
+{
+    "Title": "S. T. Hedetniemi",
+    "Body": "The syllabus for the course is 231Syllabus .",
+    "link": [
+        "#ThisGuy",
+        "#Classes",
+        "#Assignments"
+    ],
+    "ground_truth": "faculty"
+}

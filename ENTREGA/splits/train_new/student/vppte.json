@@ -1,0 +1,10 @@
+{
+    "Title": "\nThomas E. Kammeyer's Home\n",
+    "Body": "The Cognitive and Computer Science Research Group (CCSRG) The CS&E Department's home page Infopath, UCSD's local information service Snail Mail E-Mail Thomas E. Kammeyer U.C.S.D.",
+    "link": [
+        "ftp://cs.ucsd.edu/pub/GAucsd/GAucsd14.sh.Z",
+        "ftp://cs.ucsd.edu/pub/GAucsd/GAucsd14.ps.Z",
+        "ftp://cs.ucsd.edu/pub/tkammeye/EvoCMPXNets-TR.ps"
+    ],
+    "ground_truth": "student"
+}

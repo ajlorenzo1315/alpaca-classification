@@ -1,0 +1,10 @@
+{
+    "Title": "CSE 573 Project Page",
+    "Body": "(t or f) Number of clauses Number of variables Number of literals Elapsed time encoding (msec) Elapsed time solving (msec) Elapsed time decoding (msec) (zero if solve fails) Mean flips until assign (part of solve output) Mean restarts until assign (part of solve output) Number of time steps in plan produced (ignores noops) Number of steps in plan produced (may be > time steps if parallel) Number of plans created (UCPOP only) Number of plans visited (UCPOP only) Results Results go in /projects/ai/573/project/results.",
+    "link": [
+        "http://www.cs.washington.edu/homes/josh/cse573.html",
+        "http://www.cs.washington.edu/homes/mernst/573-medics.html",
+        "http://www.cs.washington.edu/homes/tian/ai/index.html"
+    ],
+    "ground_truth": "other"
+}

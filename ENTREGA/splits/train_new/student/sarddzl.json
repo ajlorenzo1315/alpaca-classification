@@ -1,0 +1,10 @@
+{
+    "Title": " Yannis Schoinas' Home Page ",
+    "Body": "Date: Thu, 07 Nov 1996 19:17:39 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Tue, 18 Jun 1996 20:01:46 GMT Content-length: 1702 Yannis Schoinas' Home Page Yannis Schoinas ( schoinas@cs.wisc.edu) Research Assistant Department of Computer Sciences University of Wisconsin - Madison 1210 West Dayton Street Madison, WI 53706  USA Note: this page is under construction.",
+    "link": [
+        "http://www.cs.wisc.edu/cgi-bin/finger?schoinas",
+        "http://www.cs.wisc.edu/~schoinas/hello.au",
+        "http://www.cs.wisc.edu/~markhill/markhill.html"
+    ],
+    "ground_truth": "student"
+}

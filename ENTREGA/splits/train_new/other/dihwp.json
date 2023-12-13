@@ -1,0 +1,8 @@
+{
+    "Title": "Mail me!",
+    "Body": "Date: Tue, 10 Dec 1996 20:44:15 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Wed, 28 Aug 1996 20:15:54 GMT Content-length: 644 Mail me!",
+    "link": [
+        "http://metacrawler.cs.washington.edu:8080/cgi-bin/nph-metaquery.p?general=privacy"
+    ],
+    "ground_truth": "other"
+}

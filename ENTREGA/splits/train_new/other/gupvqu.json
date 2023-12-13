@@ -1,0 +1,10 @@
+{
+    "Title": "CS 336: Analysis of Programs - Syllabus",
+    "Body": "Your homework grade will be made up of two parts: Points earned for the problems that are carefully graded by the TA (3/4 of the grade on that assignment) A score that indicates the number of problems for which a reasonable attempt is included; this takes into account all problems that were assigned (1/4 of the grade on that assignment) Each homework will be weighted an equal amount in calculating your homework grade, even though the point totals may differ from assignment to assignment.",
+    "link": [
+        "#CrsInfo",
+        "#Time&Loc",
+        "#Instructor"
+    ],
+    "ground_truth": "other"
+}

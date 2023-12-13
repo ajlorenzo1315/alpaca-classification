@@ -1,0 +1,10 @@
+{
+    "Title": "CUCS IBM SP-2",
+    "Body": "The easiest way to compile and link is with the script file \"ampicc\" (which is built on top of xlC): ampicc -O3 foo.c -o foo You can also compile MPI programs with xlC, gcc, and split-cc (please look at the examples in the directory ~sww/sp2/ampi/examples for information about this).",
+    "link": [
+        "http://www.tc.cornell.edu/UserDoc/Hardware/",
+        "http://www.tc.cornell.edu",
+        "http://www.cs.cornell.edu/Info/Projects/Split-C/"
+    ],
+    "ground_truth": "project"
+}

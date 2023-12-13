@@ -1,0 +1,10 @@
+{
+    "Title": "CS 132,  Fall 1996",
+    "Body": "Look for messages and announcements for CS 132 in your Computer Sciences account.",
+    "link": [
+        "#news",
+        "#instructors",
+        "http://www.cs.wisc.edu/~cs132-1/cs132d-course-guide.html#laboratorywork"
+    ],
+    "ground_truth": "course"
+}

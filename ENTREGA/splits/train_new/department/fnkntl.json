@@ -1,0 +1,10 @@
+{
+    "Title": "The Rose-Hulman Department of Computer Science",
+    "Body": "Date: Tue, 26 Nov 1996 22:51:53 GMT Server: NCSA/1.4.2-SSLeay-0.5.1 Content-type: text/html Last-modified: Thu, 24 Oct 1996 23:03:10 GMT Content-length: 3424 The Rose-Hulman Department of Computer Science [ About Us ] [ Curriculum ] [ Archives ] [ Resources ] [ Home Pages ] [ Rose-Hulman ] [ Help ] Department of Computer Science at the Rose-Hulman Institute of Technology Pardon the mess.",
+    "link": [
+        "http://www.cs.rose-hulman.edu/about/",
+        "http://www.cs.rose-hulman.edu/curriculum/",
+        "http://www.cs.rose-hulman.edu/archives/"
+    ],
+    "ground_truth": "department"
+}

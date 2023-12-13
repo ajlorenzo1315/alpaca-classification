@@ -1,0 +1,10 @@
+{
+    "Title": "ORWELL: Removal of Tracked Objects in Digital Video",
+    "Body": "If we assume a single moving object in the sequence, then it is possible to use one frame which has the object removed and the background reconstructed as the background for the entire sequence.",
+    "link": [
+        "http://www.cs.cornell.edu/Info/People/ahong/home.html",
+        "http://www.cs.cornell.edu/Info/People/hejik/hejik.html",
+        "http://www.cs.cornell.edu/Info/People/lhwang/lhwang.html"
+    ],
+    "ground_truth": "other"
+}

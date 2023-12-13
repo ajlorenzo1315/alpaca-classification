@@ -1,0 +1,10 @@
+{
+    "Title": "World Wide Web Homepage Finger",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Sunday, 01-Dec-96 19:52:48 GMT Content-Type: text/html Content-Length: 1580 Last-Modified: Thursday, 26-Jan-95 02:46:30 GMT World Wide Web Homepage Finger WFinger By Posse Software: John Belizaire / beli@cs.cornell.edu Julian Pelenur / julian@cs.cornell.edu Mauricio Aguilar Alvarez / mauri@cs.cornell.edu WFinger search form.",
+    "link": [
+        "http://www.cs.cornell.edu/Info/People/beli/beli.html",
+        "mailto:beli@cs.cornell.edu",
+        "http://www.cs.cornell.edu/Info/People/julian/julian.html"
+    ],
+    "ground_truth": "unknow"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "The Programmer Of The Month (POTM) Page",
+    "Body": "Email me at fah@potm.ffast.att.com and I'll put you on the mailng list!",
+    "link": [
+        "fah_home.html",
+        "CURRENT/problem.short.html",
+        "status.html"
+    ],
+    "ground_truth": "other"
+}

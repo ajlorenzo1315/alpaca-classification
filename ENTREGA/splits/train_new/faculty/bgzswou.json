@@ -1,0 +1,10 @@
+{
+    "Title": "Dr. Patrick C. Fischer",
+    "Body": "Experience Dr. Fischer held positions at Harvard , Cornell , the University of Waterloo and the Pennsylvania State University before assuming a professorship at Vanderbilt in 1980, where he also served as Chair of Computer Science for 15 years.",
+    "link": [
+        "http://www.umich.edu/",
+        "http://www.umich.edu/",
+        "http://web.mit.edu/mathdept/www/"
+    ],
+    "ground_truth": "faculty"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "UW Department of Atmospheric Sciences Home Page",
+    "Body": "Server: Netscape-Communications/1.1 Date: Tuesday, 10-Dec-96 14:45:36 GMT Content-type: text/html UW Department of Atmospheric Sciences Home Page Department of Atmospheric Sciences We are located in the Atmospheric Sciences Building on the University of Washington (affectionately known as the U dub) campus in Seattle, Washington.",
+    "link": [
+        "/cgi-bin/bark.perl",
+        "/dep_announce.html",
+        "/cgi-bin/list_heath.cgi"
+    ],
+    "ground_truth": "other"
+}

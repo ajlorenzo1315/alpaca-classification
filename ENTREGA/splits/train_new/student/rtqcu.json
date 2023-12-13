@@ -1,0 +1,10 @@
+{
+    "Title": "Welcome",
+    "Body": "The objective of the game is to get five points or get five of your own pieces in a row (horizontally, vertically or diagonally).",
+    "link": [
+        "http://www.cs.cornell.edu/Info/People/avinash/avinash.gif",
+        "http://www.cs.cornell.edu",
+        "mailto:avinash@thecia.net"
+    ],
+    "ground_truth": "student"
+}

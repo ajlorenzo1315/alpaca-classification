@@ -1,0 +1,10 @@
+{
+    "Title": "Computer Aided Prototyping",
+    "Body": "The end product of research of this highly interdisciplinary nature would be: Prototyping environments (software and hardware) that allow the concurrent design of engineering systems (manipulators, mobile robots, electromechanical structures, MEMS, operating systems and schedulers for manufacturing applications).",
+    "link": [
+        "http://www.cs.utah.edu/~tch",
+        "http://www.cs.utah.edu/",
+        "http://www.utah.edu/HTML_Docs/UofU_Home.html"
+    ],
+    "ground_truth": "project"
+}

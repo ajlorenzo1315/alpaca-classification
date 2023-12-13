@@ -1,0 +1,10 @@
+{
+    "Title": "Tom Henzinger: Publications",
+    "Body": "A preliminary version appeared in the Proceedings of the 11th International Conference on Analysis and Optimization of Systems: Discrete-event Systems , Lecture Notes in Control and Information Sciences 199, Springer-Verlag, 1994, pp.",
+    "link": [
+        "http://www.cs.cornell.edu/Info/People/tah/tah.html",
+        "http://www.cs.cornell.edu/Info/People/tah/logics_and_models_of_real_time.html",
+        "ftp://ftp.cs.cornell.edu/pub/tah/Papers/logics_and_models_of_real_time.ps"
+    ],
+    "ground_truth": "unknow"
+}

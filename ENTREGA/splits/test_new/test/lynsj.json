@@ -1,0 +1,10 @@
+{
+    "Title": "Mark L. McAuliffe",
+    "Body": "Mark L. McAuliffe and Marvin H. Solomon.",
+    "link": [
+        "http://www.cs.wisc.edu/cgi-bin/finger?mcauliff",
+        "file://ftp.cs.wisc.edu/tech-reports/reports/94/tr1222.ps.Z",
+        "http://www.cs.wisc.edu/~mcauliff/papers/swizzling.ps.Z"
+    ],
+    "ground_truth": "unknow"
+}

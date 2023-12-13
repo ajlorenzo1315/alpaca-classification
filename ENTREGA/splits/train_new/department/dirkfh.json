@@ -1,0 +1,10 @@
+{
+    "Title": "HKUST Computer Science Department Home Page",
+    "Body": "Date: Tue, 26 Nov 1996 22:59:07 GMT Server: Apache/1.1.1 Content-type: text/html Content-length: 4393 Last-modified: Mon, 25 Nov 1996 13:08:24 GMT HKUST Computer Science Department Home Page The Computer Science Department Hong Kong University of Science and Technology Welcome to the Computer Science Department of the Hong Kong University of Science and Technology .",
+    "link": [
+        "http://www.cs.ust.hk/background/background.html",
+        "http://www.cs.ust.hk/university/overview.html",
+        "http://www.cs.ust.hk/faculty/list.html"
+    ],
+    "ground_truth": "department"
+}

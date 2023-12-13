@@ -1,0 +1,10 @@
+{
+    "Title": "Broadcast Disks",
+    "Body": "Date: Wed, 20 Nov 1996 19:41:49 GMT Server: Apache-SSL/0.4.3b Content-type: text/html Content-length: 2415 Last-modified: Tue, 23 Jul 1996 01:28:24 GMT Broadcast Disks Broadcast Disks: Data Management for Asymmetric Communication Environments The Broadcast Disks project is investigating the use of data broadcast to provide improved performance, scalability, and availability in an increasingly important class of networked applications.",
+    "link": [
+        "http://www.cs.umd.edu/cgi-bin/imagemap/projects/bdisk/menubar.map",
+        "http://www.brown.edu/",
+        "http://inform.umd.edu/"
+    ],
+    "ground_truth": "project"
+}

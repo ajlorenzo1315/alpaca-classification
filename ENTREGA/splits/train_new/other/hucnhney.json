@@ -1,0 +1,10 @@
+{
+    "Title": "PLAPACK ",
+    "Body": "Brian Grayson and Robert van de Geijn \"A High Performance Parallel Strassen Implementation,\" PLAPACK Working Note #3, Parallel Processing Letters, to appear.",
+    "link": [
+        "http://www.cs.utexas.edu/users/sammy/pla/sign-in",
+        "http://www.cs.utexas.edu/users/sammy/pla/sign-in",
+        "http://www.cs.utexas.edu/users/rvdg/395T.96"
+    ],
+    "ground_truth": "other"
+}

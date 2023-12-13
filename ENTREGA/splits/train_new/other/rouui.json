@@ -1,0 +1,10 @@
+{
+    "Title": "Chaotic Routing Publications",
+    "Body": "\"Overview of Fault Handling for the Chaos Router,\" Proceedings of the IEEE International Workshop on Defect and Fault Tolerance in VLSI Systems , Nov. 1991 Mesh and Torus Chaotic Routing Kevin Bolding, Lawrence Snyder.",
+    "link": [
+        "ftp://shrimp.cs.washington.edu/pub/chaos/docs/guide.ps",
+        "http://www.cs.washington.edu/research/projects/lis/chaos/www/abstracts/ebn.html",
+        "http://www.cs.washington.edu/research/projects/lis/chaos/www/abstracts/byost.html"
+    ],
+    "ground_truth": "other"
+}

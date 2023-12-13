@@ -1,0 +1,10 @@
+{
+    "Title": "Ori Gershony",
+    "Body": "My office hours for CSE378 are Monday 1:30-2:20 and Wednesday 3:30-4:20.",
+    "link": [
+        "http://www.cs.washington.edu/",
+        "http://www.washington.edu/",
+        "http://www.cs.washington.edu/education/courses/378/CurrentQtr/"
+    ],
+    "ground_truth": "student"
+}

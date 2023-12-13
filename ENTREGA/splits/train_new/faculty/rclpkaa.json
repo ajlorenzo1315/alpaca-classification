@@ -1,0 +1,10 @@
+{
+    "Title": "Susan Landau",
+    "Body": "from Cornell University in 1979, and her Ph.D.  from M.I.T.",
+    "link": [
+        "http://www.cs.umass.edu/~landau/alg_alg.html",
+        "http://www.cs.umass.edu/~landau/geo_alg.html",
+        "http://www.cs.umass.edu/~landau/crypto_policy.html"
+    ],
+    "ground_truth": "faculty"
+}

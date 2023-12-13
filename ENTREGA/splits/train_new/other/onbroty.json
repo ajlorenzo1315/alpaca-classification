@@ -1,0 +1,10 @@
+{
+    "Title": "Wisconsin Center for Space Automation and Robotics",
+    "Body": "Specifically, WCSAR and its partners have developed the highly successful suite of technologies collectively known as ASTROCULTURE (tm), for the long-term growth and maintenance of plant materials in microgravity.",
+    "link": [
+        "http://www.engr.wisc.edu/centers/wcsar/pics/shuttle.jpg",
+        "http://www.engr.wisc.edu/centers/wcsar/astroculture.html",
+        "http://www.engr.wisc.edu/centers/wcsar/astroculture.html"
+    ],
+    "ground_truth": "other"
+}

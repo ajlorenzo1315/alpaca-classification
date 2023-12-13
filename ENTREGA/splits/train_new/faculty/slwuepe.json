@@ -1,0 +1,10 @@
+{
+    "Title": "Benjamin Goldberg's home page",
+    "Body": "Date: Mon, 25 Nov 1996 22:04:28 GMT Server: NCSA/1.4.1 Content-type: text/html Last-modified: Thu, 05 Sep 1996 18:24:12 GMT Content-length: 2181 Benjamin Goldberg's home page Welcome to Benjamin Goldberg's Home Page I am an Associate Professor in the Computer Science Department at NYU .",
+    "link": [
+        "http://cs.nyu.edu/cs",
+        "http://found.cs.nyu.edu/cgi-bin/finger?goldberg@goldberg",
+        "http://www.yale.edu"
+    ],
+    "ground_truth": "faculty"
+}

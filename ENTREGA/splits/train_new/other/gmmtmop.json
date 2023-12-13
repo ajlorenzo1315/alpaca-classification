@@ -1,0 +1,10 @@
+{
+    "Title": "University of Wisconsin Sea Grant Institute",
+    "Body": "Server: Microsoft-IIS/2.0 Date: Wed, 11 Dec 1996 23:49:38 GMT Content-Type: text/html Accept-Ranges: bytes Last-Modified: Mon, 09 Dec 1996 12:27:54 GMT Content-Length: 7919 University of Wisconsin Sea Grant Institute The University of Wisconsin Sea Grant Institute is part of a national network of 29 university-based programs of research , outreach , and education dedicated to the protection and sustainable use of the United States' coastal, ocean and Great Lakes resources.",
+    "link": [
+        "WhoWeAre/progover.html",
+        "home.html #magellan",
+        "national/national.html"
+    ],
+    "ground_truth": "other"
+}

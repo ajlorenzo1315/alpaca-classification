@@ -1,0 +1,8 @@
+{
+    "Title": "Lisp Server",
+    "Body": "Type xhost + www.cs.utexas.edu (exactly as shown at left) in a window on that host to allow this server to write to your display.",
+    "link": [
+        "http://www.cs.utexas.edu/users/novak/index.html"
+    ],
+    "ground_truth": "unknow"
+}

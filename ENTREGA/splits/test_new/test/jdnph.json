@@ -1,0 +1,10 @@
+{
+    "Title": "Paul Jackson's Home Page",
+    "Body": "Thesis Information My PhD thesis is entitled Enhancing the Nuprl Proof Development System and Applying it to Computational Abstract Algebra .",
+    "link": [
+        "mailto:jackson@cs.cornell.edu",
+        "http://www.cs.cornell.edu/Info/People/jackson/thesis/abstract.html",
+        "http://www.cs.cornell.edu/Info/People/jackson/thesis/thesis.dvi.gz"
+    ],
+    "ground_truth": "unknow"
+}

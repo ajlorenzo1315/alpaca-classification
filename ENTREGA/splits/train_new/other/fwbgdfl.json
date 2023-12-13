@@ -1,0 +1,8 @@
+{
+    "Title": "Computerized Diagnosis Press Release",
+    "Body": "We now have a training set of 569 FNA samples and calculate that the system will correctly diagnose breast FNA samples 97% of the time.",
+    "link": [
+        "http://www.cs.wisc.edu/~street/street.html"
+    ],
+    "ground_truth": "other"
+}

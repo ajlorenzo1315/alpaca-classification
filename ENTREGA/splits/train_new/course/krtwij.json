@@ -1,0 +1,10 @@
+{
+    "Title": "CS 174 Home Page",
+    "Body": "You may need to hit the \"reload\" button if your browser caches web pages Addresses Homework submissions: cs174hw@gg.caltech.edu Questions: cs174ta@gg.caltech.edu Essential Information Requirements and grading policies Tentative course syllabus Facilities you will be using for this class TAs and office hours Assignments Includes the class assignments in html and postscript form, as well as important information on how to turn in the assignments , which you should read carefully before sending anything.",
+    "link": [
+        "http://www.cs.caltech.edu/~ps",
+        "mailto:ps@cs.caltech.edu",
+        "http://www.gg.caltech.edu/~cs174ta/news.html"
+    ],
+    "ground_truth": "course"
+}

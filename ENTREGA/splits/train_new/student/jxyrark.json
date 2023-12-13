@@ -1,0 +1,10 @@
+{
+    "Title": "Gong's Home Page (Frameless version)",
+    "Body": "While the graphics and applets are being loaded, let me point out a few things you should be aware before proceeding.",
+    "link": [
+        "http://www.cs.columbia.edu/~gongsu/frames.html",
+        "http://www.cs.columbia.edu/~gongsu/who_frameless.html",
+        "http://www.cs.columbia.edu/~gongsu/what_frameless.html"
+    ],
+    "ground_truth": "student"
+}

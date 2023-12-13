@@ -1,0 +1,10 @@
+{
+    "Title": "CS381/481 Fall 96 Home Page",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Wednesday, 20-Nov-96 20:17:45 GMT Content-Type: text/html Content-Length: 1398 Last-Modified: Friday, 15-Nov-96 18:50:35 GMT CS381/481 Fall 96 Home Page CS381/481 Fall 1996 Automata and Computability Theory Welcome to CS381/481!",
+    "link": [
+        "http://www.cs.cornell.edu/Info/Courses/Current/CS481/info.html",
+        "http://www.cs.cornell.edu/Info/Courses/Current/CS481/syllabus.html",
+        "http://www.cs.cornell.edu/Info/Courses/Current/CS481/homework.html"
+    ],
+    "ground_truth": "course"
+}

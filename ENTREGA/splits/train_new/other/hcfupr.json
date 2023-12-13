@@ -1,0 +1,8 @@
+{
+    "Title": "CS 537 - Quiz #1",
+    "Body": "while (Y == 0) { // do nothing } cout << \"c\"; Describe the output here: The output will be either: badc or: bacd The difference depends on whether the dispatcher switches processes between first time Y is set to 1 and the time that Y is set to 0 Last modified: Wed Feb  7 12:25:15 CST 1996 by bart",
+    "link": [
+        "http://www.cs.wisc.edu/~bart"
+    ],
+    "ground_truth": "other"
+}

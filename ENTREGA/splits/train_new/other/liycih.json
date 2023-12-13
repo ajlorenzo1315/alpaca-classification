@@ -1,0 +1,10 @@
+{
+    "Title": " CS 736 Lecture Notes (Spring 96)",
+    "Body": "1/23 : Introduction & Review 1/25 : MS-DOS and Early Multiprogramming Systems 1/30 : Synchronization via Shared Memory and Message Passing 2/1 : Monitors and Programming with Threads 2/6 : Processes, Threads, and Synchronization in Modern UNIX Systems 2/8 : Pilot: An Operating System for a Personal Computer 2/13 : Virtual Memory in Early VAX and UNIX Systems 2/15 : ``Condor: Utilizing Idle Workstation Resources'';  Guest lecture by Professor Miron Livny.",
+    "link": [
+        "http://www.cs.wisc.edu/~cao/cs736/cs736-schedule.html",
+        "http://www.cs.wisc.edu/~cao/cs736/cs736-slides/fourpages-cs736-1.ps",
+        "http://www.cs.wisc.edu/~cao/cs736/cs736-slides/fourpages-cs736-2.ps"
+    ],
+    "ground_truth": "other"
+}

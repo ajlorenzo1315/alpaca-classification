@@ -1,0 +1,10 @@
+{
+    "Title": " CS100b Fall 96 Home Page ",
+    "Body": "If you have any complaints about the course (assignments are too hard, or you just cannot grasp of what in the world the instructor is talking about, etc.",
+    "link": [
+        "http://www.cs.cornell.edu",
+        "http://www.cs.cornell.edu/Info/Courses/Current/CS100B/practice/practice.html",
+        "http://www.cs.cornell.edu/Info/Courses/Current/CS100B/info5.html"
+    ],
+    "ground_truth": "course"
+}

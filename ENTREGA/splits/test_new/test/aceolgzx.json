@@ -1,0 +1,10 @@
+{
+    "Title": "\nMeta Web View\n",
+    "Body": "Date: Tue, 10 Dec 1996 21:08:24 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Fri, 22 Nov 1996 00:01:49 GMT Content-length: 1682 Meta Web View A new way to search and view pages on the World Wide Web!",
+    "link": [
+        "http://www.cs.washington.edu/homes/glinden/MetaWebView/WebViewAbout.html",
+        "http://www.cs.washington.edu/homes/glinden/MetaWebView/WebViewInstructions.html",
+        "http://www.cs.washington.edu/homes/glinden/MetaWebView/WebViewWalk.html"
+    ],
+    "ground_truth": "unknow"
+}

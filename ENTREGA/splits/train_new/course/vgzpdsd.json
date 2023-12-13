@@ -1,0 +1,10 @@
+{
+    "Title": "\nBU CLA CS 103: Computing Technology---Home Page\n\t\t",
+    "Body": "Tutoring hours for all teaching fellows are posted next to the CS department office.",
+    "link": [
+        "http://web.bu.edu/pagetwo.html",
+        "http://cs-www.bu.edu/",
+        "http://www.cs.bu.edu/faculty/heddaya/CS103/"
+    ],
+    "ground_truth": "course"
+}

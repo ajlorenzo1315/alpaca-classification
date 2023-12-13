@@ -1,0 +1,10 @@
+{
+    "Title": "No title",
+    "Body": "More specifically, I am interested in the evolution of dynamical neural networks for autonomous agents, the analysis of evolved dynamical neural networks, biologically-inspired robotics, neuroethological modeling, and the theory of adaptive behavior.",
+    "link": [
+        "http://yuggoth.ces.cwru.edu/",
+        "http://www.cwru.edu:80/1/class/eng/ces",
+        "http://www.cwru.edu"
+    ],
+    "ground_truth": "faculty"
+}

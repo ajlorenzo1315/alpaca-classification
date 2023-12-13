@@ -1,0 +1,10 @@
+{
+    "Title": "Lecture Notes and Handouts",
+    "Body": "Nov 15, 1995: Classes.",
+    "link": [
+        "http://www.cs.wisc.edu/~greg/cs302.fall.95/lectures/950906.html",
+        "http://www.cs.wisc.edu/~greg/cs302.fall.95/lectures/950908.html",
+        "http://www.cs.wisc.edu/~greg/cs302.fall.95/lectures/950913.html"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,5 @@
+{
+    "Título": "\nCPSC 300/600 - Principles of Computer Science - Home Page\n",
+    "Cuerpo": "Algorithms and Data Structures in Computer Engineering . Jones and Bartlett Publishers, Boston, 1991. Problem Solving and Program Design in C . Second Edition. Addison-Wesley Publishing Company. Reading, MA, 1996. Tom Adamson, James L. Antonakos, and Kenneth C. Mansfield, Jr. Structured C for Engineering and Technology . Second Edition. Prentice Hall. Englewood Cliffs, NJ  1995. Richard Johnsonbaugh and Martin Kalin. Third Edition. Prentice-Hall. Upper Saddle River, NJ 1996. Sun Soft Press, Moutain View, CA 1994. Delores M. Etter. Engineering Problem Solving with ANSI C . Handouts The ``EECS Guidelines for Students\" contains the general departmental policies concerning written and programming assignments, posting of grades, and - most importantly - academic honesty. ( postscript 12K) The ``Computer Resource Policies\" contains the rules regarding legitimate use of departmental computers.",
+    "ground_truth": "course"
+}

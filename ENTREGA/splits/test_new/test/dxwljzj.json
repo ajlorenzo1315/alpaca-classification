@@ -1,0 +1,10 @@
+{
+    "Title": "Analog Field Computing",
+    "Body": "Date: Wed, 20 Nov 1996 19:16:13 GMT Server: Apache/1.0.3 Content-type: text/html Content-length: 1869 Last-modified: Wed, 29 Nov 1995 21:48:09 GMT Analog Field Computing Analog Field Computing Description: Analog field computing addresses the theory, design, implementation, and applications of analog computers including at least one component that can be treated mathematically as a field.",
+    "link": [
+        "http://www.cs.indiana.edu/hyplan/jwmills/PROJECTS/retic.proj.html",
+        "http://www.cs.indiana.edu/hyplan/jwmills/PROJECTS/mr.proj.html",
+        "http://www.cs.indiana.edu/hyplan/jwmills/PROJECTS/cyc.proj.html"
+    ],
+    "ground_truth": "unknow"
+}

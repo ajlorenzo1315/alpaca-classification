@@ -1,0 +1,10 @@
+{
+    "Title": "Keith Marzullo's Home Page",
+    "Body": "One way to think of this work is that we're looking at failure detectors that are stronger than a Perfect Failure Detector and at approximations of such failure detectors that are implementable.",
+    "link": [
+        "http://www-cse.ucsd.edu/users/marzullo/marzullocanoe.html",
+        "http://www-cse.ucsd.edu/users/marzullo//cse/APM.html",
+        "mailto:marzullo@cs.ucsd.edu"
+    ],
+    "ground_truth": "faculty"
+}

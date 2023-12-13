@@ -1,0 +1,10 @@
+{
+    "Title": "cities",
+    "Body": "Here 's the standard Chamber of Commerce guide to Austin.",
+    "link": [
+        "http://www.neosoft.com/citylink/providen/default.html",
+        "http://www.pencom.com/arts/paramount/",
+        "http://visit.ci.austin.tx.us/"
+    ],
+    "ground_truth": "other"
+}

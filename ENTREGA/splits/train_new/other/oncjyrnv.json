@@ -1,0 +1,10 @@
+{
+    "Title": "CUCS Hockey Home Page",
+    "Body": "hockey-talk@cs.cornell.edu The mailing list for CUCS hockey discussions.",
+    "link": [
+        "http://www.cs.cornell.edu/Info/Activities/hockey/times96.html",
+        "http://www.cs.cornell.edu/Info/Activities/hockey/public-skating.html",
+        "http://www.cs.cornell.edu/Info/People/takako/home.html"
+    ],
+    "ground_truth": "other"
+}

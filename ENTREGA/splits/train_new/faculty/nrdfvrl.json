@@ -1,0 +1,10 @@
+{
+    "Title": "Duane Szafron Home Page",
+    "Body": "Tigukat is an objectbase management system with a novel object model whose identifying characteristics include a purely behavioral semantics and a uniform approach to objects.",
+    "link": [
+        "http://www.cs.ualberta.ca/people/faculty/aiff/duane.aiff",
+        "http://www.cs.ualberta.ca/",
+        "http://www.ualberta.ca/"
+    ],
+    "ground_truth": "faculty"
+}

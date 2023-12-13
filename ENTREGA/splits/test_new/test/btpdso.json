@@ -1,0 +1,10 @@
+{
+    "Title": "Teofilo F. Gonzalez",
+    "Body": "Professor Gonzalez research activity has concentrated on the development of efficient exact and approximation algorithms for problems in several disciplines.",
+    "link": [
+        "http://www.cs.ucsb.edu/~teo/publications/areas.pr.html",
+        "http://www.cs.ucsb.edu/~teo/publications/areas.cg.html",
+        "http://www.cs.ucsb.edu/~teo/publications/areas.sh.html"
+    ],
+    "ground_truth": "unknow"
+}

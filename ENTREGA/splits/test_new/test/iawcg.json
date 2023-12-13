@@ -1,0 +1,10 @@
+{
+    "Title": " UCLA Statistical Series ",
+    "Body": "Technical Report (R-183) J. Pearl and N. Wermuth In Proceedings of the Fourth International Workshop on Artificial Intelligence and Statistics , 141-150, January 1993.",
+    "link": [
+        "http://singapore.cs.ucla.edu/guestbook.html",
+        "ftp://ftp.cs.ucla.edu/pub/stat_ser/R155.ps.Z",
+        "ftp://ftp.cs.ucla.edu/pub/stat_ser/R156.ps.Z"
+    ],
+    "ground_truth": "unknow"
+}

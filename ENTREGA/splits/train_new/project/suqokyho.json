@@ -1,0 +1,10 @@
+{
+    "Title": "SFU Medical Computing Group",
+    "Body": "Date: Tue, 26 Nov 1996 00:38:11 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Thu, 07 Mar 1996 22:05:02 GMT Content-length: 1065 SFU Medical Computing Group SFU Medical Computing Group We do research into the applications of 3D analysis and display techniques for medical images, especially those from functional imaging modalities such as Poiston Emission Tomography (PET).",
+    "link": [
+        "http://fas.sfu.ca/cs/people/Faculty/Atkins/",
+        "http://fas.sfu.ca/cs/people/Faculty/Harrop/",
+        "http://fas.sfu.ca/cs"
+    ],
+    "ground_truth": "project"
+}

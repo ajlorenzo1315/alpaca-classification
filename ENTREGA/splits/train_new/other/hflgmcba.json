@@ -1,0 +1,10 @@
+{
+    "Title": "Computer Systems Lab Frequently Asked Questions",
+    "Body": "If your question is not answered here, please send mail to \"lab\".",
+    "link": [
+        "http://www.cs.wisc.edu/csl/csl.html",
+        "http://www.cs.wisc.edu/csl/faq/vectra_lab/index.html",
+        "http://www.cs.wisc.edu/csl/faq/solaris.html"
+    ],
+    "ground_truth": "other"
+}

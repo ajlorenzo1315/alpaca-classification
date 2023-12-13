@@ -1,0 +1,10 @@
+{
+    "Title": "New PowerBook FAQ 3.0",
+    "Body": "If you'd like to help out on the FAQ, send me e-mail and let me know what you'd want to do.",
+    "link": [
+        "mailto:jcbodner@students.wisc.edu",
+        "http://www.cs.wisc.edu/~jonb/powerbook/FAQ.txt",
+        "http://www.cs.wisc.edu/~jonb/powerbook/todo.txt"
+    ],
+    "ground_truth": "unknow"
+}

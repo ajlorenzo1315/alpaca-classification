@@ -1,0 +1,10 @@
+{
+    "Title": "Zhenghua's WWW page",
+    "Body": "Date: Tue, 26 Nov 1996 00:19:56 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Fri, 16 Aug 1996 18:47:52 GMT Content-length: 893 Zhenghua's WWW page Zhenghua Li's WWW page Zhenghua received her B.S.",
+    "link": [
+        "http://www.xanet.edu.cn/xjtu/newxjtu/xjtu/xjtu.html",
+        "http://www.cernet.edu.cn",
+        "http://www.cs.rice.edu/"
+    ],
+    "ground_truth": "unknow"
+}

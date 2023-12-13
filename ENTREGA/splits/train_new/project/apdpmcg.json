@@ -1,0 +1,10 @@
+{
+    "Title": "Tenet Group Home Page",
+    "Body": "We are affiliated with both the Computer Science Division at the University of California at Berkeley and the International Computer Science Institute , also in Berkeley.",
+    "link": [
+        "http://www.cs.berkeley.edu",
+        "http://http.icsi.berkeley.edu",
+        "http://tenet.berkeley.edu/tenet-people.html"
+    ],
+    "ground_truth": "project"
+}

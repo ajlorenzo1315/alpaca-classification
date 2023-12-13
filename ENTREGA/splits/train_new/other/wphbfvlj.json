@@ -1,0 +1,10 @@
+{
+    "Title": "Madison and UW",
+    "Body": "Date: Wed, 11 Dec 1996 23:16:26 GMT Server: NCSA/1.5 Content-type: text/html Madison and UW College of Engineering University of Wisconsin - Madison Madison and UW-Madison Madison rated number one place to live in U.S .",
+    "link": [
+        "http://www.engr.wisc.edu/general/madison/",
+        "http://pathfinder.com/money/best-cities-96/maintxt.htm",
+        "http://pathfinder.com/money/"
+    ],
+    "ground_truth": "other"
+}

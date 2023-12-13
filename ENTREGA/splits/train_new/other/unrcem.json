@@ -1,0 +1,10 @@
+{
+    "Title": "MacDonald MicroElectroMechanical Systems group page",
+    "Body": "This is the best introduction to our group's research.",
+    "link": [
+        "posterintro.html",
+        "posterintro.html",
+        "potm.html"
+    ],
+    "ground_truth": "other"
+}

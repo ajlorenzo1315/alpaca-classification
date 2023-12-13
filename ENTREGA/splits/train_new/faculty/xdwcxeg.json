@@ -1,0 +1,10 @@
+{
+    "Title": "Gerard Salton",
+    "Body": "Automatic Text Utilization in Large Full Text Databases.",
+    "link": [
+        "http://www.cs.cornell.edu/Info/People/gs/gs.gif",
+        "http://www.cs.cornell.edu/Info/Department/Annual94/Beginning/faculty-list.html",
+        "http://www.cs.cornell.edu/Info/Department/Annual94/Beginning/annual-rpt94-home.html"
+    ],
+    "ground_truth": "faculty"
+}

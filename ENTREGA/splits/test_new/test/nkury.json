@@ -1,0 +1,10 @@
+{
+    "Title": "CS314 Home Page",
+    "Body": "If you wish to surf the web in search of more C material, this is the place to start!",
+    "link": [
+        "mailto:cs314@cs.cornell.edu",
+        "http://www.cs.cornell.edu/Info/Courses/Fall-95/CS314/Information.html",
+        "http://www.cs.cornell.edu/Annotation/Get/cs314_f95_index"
+    ],
+    "ground_truth": "unknow"
+}

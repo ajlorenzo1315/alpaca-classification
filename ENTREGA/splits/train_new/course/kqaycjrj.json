@@ -1,0 +1,10 @@
+{
+    "Title": "CSE322: Introduction to Formal Models, Fall 1996",
+    "Body": "Check this page regularly to find homeworks, solution sets, pointers to upcoming lectures, and exams.",
+    "link": [
+        "http://www.cs.washington.edu/education/courses/322/CurrentQtr//",
+        "http://www.cs.washington.edu/education/courses/322/CurrentQtr/cse322",
+        "http://www.cs.washington.edu/education/courses/322/CurrentQtr/homeworks/homeworks.html"
+    ],
+    "ground_truth": "course"
+}

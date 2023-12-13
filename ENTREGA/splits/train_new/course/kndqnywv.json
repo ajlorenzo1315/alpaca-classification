@@ -1,0 +1,10 @@
+{
+    "Title": "P436/536 Home Page",
+    "Body": "Week of September 2 Textbook Readings: Tanenbaum, Chapter 1 Project: (1) Try to form teams by Monday, Sep. 9, so that you can start on Assignment 1 when it is distributed.",
+    "link": [
+        "http://www.cs.indiana.edu/people/s/stoller.html",
+        "http://www.cs.indiana.edu/people/s/sbalasub.html",
+        "http://www.cs.indiana.edu/dept/acad/descr.html#P436"
+    ],
+    "ground_truth": "course"
+}

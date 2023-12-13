@@ -1,0 +1,10 @@
+{
+    "Title": "Information sources",
+    "Body": "Some of these are lists or collections of \"good sites\" which you browse visually, and others are search systems (you fill in a form, and it tells you what it has).",
+    "link": [
+        "#DRI",
+        "#Libraries",
+        "#Meta"
+    ],
+    "ground_truth": "other"
+}

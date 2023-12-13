@@ -1,0 +1,9 @@
+{
+    "Title": "Practical Data Sheet",
+    "Body": "The user interface was also a distributed, shared application since it had to reflect the changing state of the X-server and the entire system (shared session) as a whole.",
+    "link": [
+        "http://www.cs.washington.edu/homes/derrick/resume.ps",
+        "http://www.cs.washington.edu/research/projects/zpl"
+    ],
+    "ground_truth": "other"
+}

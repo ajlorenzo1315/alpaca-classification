@@ -1,0 +1,10 @@
+{
+    "Title": "Robotics Internet Resources Page",
+    "Body": "About the Laboratory for Perceptual Robotics The Laboratory for Perceptual Robotics is in the Computer Science Department at the University of Massachusetts, Amherst.",
+    "link": [
+        "http://searcher.mckinley.com/searcher.cgi",
+        "http://piglet.cs.umass.edu:4321/lpr.html",
+        "http://www.ai.sri.com/~connolly/"
+    ],
+    "ground_truth": "other"
+}

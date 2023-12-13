@@ -1,0 +1,10 @@
+{
+    "Title": "Susan Calcari's Home Page",
+    "Body": "At that time I elected to relocate to Wisconsin and requested that NSF approve the relocation of the Scout project to the Computer Sciences department at UW - Madison, to which they heartily agreed.",
+    "link": [
+        "mailto: scal@cs.wisc.edu",
+        "http://www.cs.wisc.edu/scout/",
+        "http://www.cs.wisc.edu/"
+    ],
+    "ground_truth": "staff"
+}

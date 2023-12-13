@@ -1,0 +1,10 @@
+{
+    "Title": "\nSilvia Figueira's Home Page\n",
+    "Body": "I plan on graduating by December 96 and going back to life... Research Interests Parallel and Heterogeneous Computing Scheduling in Heterogeneous Platforms Effects of Contention for Resources Recent Publications Mapping Parallel Applications to Distributed Heterogeneous Systems, Silvia M. Figueira and Francine Berman, UCSD Tech.",
+    "link": [
+        "http://www-cse.ucsd.edu/users/silvia/silvia2.ps",
+        "ftp://cs.ucsd.edu/pub/berman/apples.ps",
+        "http://www-cse.ucsd.edu/users/silvia/hpdc96_final.ps"
+    ],
+    "ground_truth": "student"
+}

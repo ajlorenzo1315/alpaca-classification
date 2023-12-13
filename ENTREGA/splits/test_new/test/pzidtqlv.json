@@ -1,0 +1,10 @@
+{
+    "Title": "The Images of Belfast",
+    "Body": "This is a fragment of the first and largest \"peace line\" in Belfast.",
+    "link": [
+        "http://www.cs.washington.edu/homes/dewey/cityhall.gif",
+        "http://www.cs.washington.edu/homes/dewey/peace2.gif",
+        "http://www.cs.washington.edu/homes/dewey/falls.gif"
+    ],
+    "ground_truth": "unknow"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": " Martin Reames's Home Page ",
+    "Body": "Some previous years' exams Job interests: Software design and development in a product oriented environment that exploits my computer science education and my interests in databases and/or compiler design.",
+    "link": [
+        "http://www.cs.wisc.edu/cgi-bin/finger/m?mreames",
+        "http://www.cs.wisc.edu/~mreames/cs302.html",
+        "http://www.cs.wisc.edu/~sacmuse/coke/coke.html"
+    ],
+    "ground_truth": "student"
+}

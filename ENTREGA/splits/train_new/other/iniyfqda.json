@@ -1,0 +1,10 @@
+{
+    "Title": "Electrical and Computer Engineering Faculty",
+    "Body": "Chair, Electrical and Computer Engineering Professor - microcomputer-based biomedical instrumentation, real-time digital signal processing, biomedical computing Agrawal, Rajeev Associate Professor - stochastic systems, stochastic adaptive control, control of queuing networks, communication networks Alvarado, Fernando L. Professor - power systems, computer applications, power system security, computational engineering, sparse matrices Barmish, B. Ross Professor - control systems, robustness, optimization Bollinger, John G. Dean, College of Engineering - Industrial Engineering - manufacturing processes, robotics, tactile sensing, systems analysis and design, noise control, manufacturing systems, spectral analysis Booske, John H. Associate Professor - electromagnetic field interactions with materials, microwave processing of ceramics, high-power microwave sources and electron beams, plasma modification of materials' surfaces; Engineering Research Center for Plasma-Aided Manufacturing ; Materials Science Program Botez, Dan Philip Dunham Reed Professor - high-power semiconductor diode lasers, semiconductor devices based on photonic lattices, novel types of resonant tunneling diodes; Materials Science Program ; Reed Center for Photonics Bucklew, James A.",
+    "link": [
+        "http://www.engr.wisc.edu/ece/",
+        "http://www.engr.wisc.edu/ece/faculty/tompkins_willis.html",
+        "http://www.engr.wisc.edu/ece/faculty/agrawal_rajeev.html"
+    ],
+    "ground_truth": "other"
+}

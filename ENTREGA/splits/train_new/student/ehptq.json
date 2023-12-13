@@ -1,0 +1,10 @@
+{
+    "Title": "\nEugene Hung -- Personal Page\n",
+    "Body": "In addition to regular news, I am also a USENET addict, reading over 60 newsgroups daily (though down from a high of 120+, since the signal-to-noise ratio has been declining considerably of late).",
+    "link": [
+        "http://www-csl.ucsd.edu/",
+        "http://www-cse.ucsd.edu/",
+        "http://www.ucsd.edu/"
+    ],
+    "ground_truth": "student"
+}

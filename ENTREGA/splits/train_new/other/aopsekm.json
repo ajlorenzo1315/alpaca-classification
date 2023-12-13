@@ -1,0 +1,10 @@
+{
+    "Title": "Other Parallel Tools and Related Projects",
+    "Body": "Date: Tue, 05 Nov 1996 20:58:39 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Sun, 13 Oct 1996 22:25:30 GMT Content-length: 2459 Other Parallel Tools and Related Projects Other Parallel Tools and Related Projects The following projects work in areas releated to Paradyn.",
+    "link": [
+        "http://www.ptools.org/",
+        "http://www-pablo.cs.uiuc.edu/",
+        "http://www.cs.uoregon.edu:80/paracomp/tau/"
+    ],
+    "ground_truth": "other"
+}

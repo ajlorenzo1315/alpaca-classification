@@ -1,0 +1,10 @@
+{
+    "Title": "Philipp Breuss",
+    "Body": "As of August 1995, Mr. Breuss has been pursuing his studies at the State University of Ohio in Bowling Green , Department of Computer Science where he holds an assistentship.",
+    "link": [
+        "http://www.cosy.sbg.ac.at/home.html",
+        "http://www.edvz.sbg.ac.at/",
+        "http://www.cosy.sbg.ac.at/~theder/filhome.html"
+    ],
+    "ground_truth": "student"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": " Forrest Home Page ",
+    "Body": "Research Projects Immune System Modeling Towards a Computer Immune System Ecological modeling with Echo Foundations of Genetic Algorithms DNA Fragment Assembly These projects are the result of generous support from the following sponsors: National Science Foundation, IRI-9157644 PYI award Office of Naval Research, N00014-95-1-0364 Santa Fe Institute Defense Advanced Research Projects Agency, N00014-96-1-0680 Recent papers Information for and about students .",
+    "link": [
+        "http://www.cs.unm.edu",
+        "http://www.santafe.edu",
+        "http://www.cs.unm.edu/~forrest/projects.html#ImmuneModel"
+    ],
+    "ground_truth": "faculty"
+}

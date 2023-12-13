@@ -1,0 +1,10 @@
+{
+    "Title": "Some Relatively Useful Files",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Monday, 06-Jan-97 22:56:12 GMT Content-Type: text/html Content-Length: 383 Last-Modified: Sunday, 07-Apr-96 23:51:02 GMT Some Relatively Useful Files Software from MH & xmh: Email for Users & Programmers by Jerry Peek.",
+    "link": [
+        "MHstuff.tar.gz",
+        "MHstuff.listing",
+        "mailto:gajit@cs.utexas.edu"
+    ],
+    "ground_truth": "other"
+}

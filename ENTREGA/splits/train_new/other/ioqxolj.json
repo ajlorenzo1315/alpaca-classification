@@ -1,0 +1,10 @@
+{
+    "Title": "\nStudy Guide\n",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Monday, 06-Jan-97 20:50:01 GMT Content-Type: text/html Content-Length: 1001 Last-Modified: Thursday, 10-Oct-96 16:09:59 GMT Study Guide Study Guide Study Guide #1 Send comments,criticisms, suggestions,new links,additions etc to dwip@cs.utexas.edu .",
+    "link": [
+        "http://www.cs.utexas.edu/users/dwip/cs304p/study_guide/study_guide1.txt",
+        "mailto:dwip@cs.utexas.edu",
+        "mailto:dwip@cs.utexas.e\ndu"
+    ],
+    "ground_truth": "other"
+}

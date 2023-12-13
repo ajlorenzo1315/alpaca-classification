@@ -1,0 +1,10 @@
+{
+    "Title": "Gruia-Catalin Roman",
+    "Body": "He is a professor in the Department of Computer Science and director of the Computer Visualization Laboratory.",
+    "link": [
+        "http://swarm.cs.wustl.edu/",
+        "http://swarm.cs.wustl.edu/~mccap/mobile/index.html",
+        "http://swarm.cs.wustl.edu/formal/formal.html"
+    ],
+    "ground_truth": "faculty"
+}

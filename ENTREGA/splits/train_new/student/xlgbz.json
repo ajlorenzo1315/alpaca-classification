@@ -1,0 +1,10 @@
+{
+    "Title": "Andrew T. Miller",
+    "Body": "The CAVE is an immersive, multiple user, virtual environment that was featured at SIGGRAPH 94.",
+    "link": [
+        "http://www.hamilton.edu/",
+        "http://www.mcs.anl.gov/",
+        "http://www.mcs.anl.gov/FUTURES_LAB/VR/cavelab.html"
+    ],
+    "ground_truth": "student"
+}

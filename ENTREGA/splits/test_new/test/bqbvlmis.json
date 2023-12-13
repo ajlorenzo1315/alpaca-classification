@@ -1,0 +1,6 @@
+{
+    "Title": "Homework 9",
+    "Body": "(b) Suppose that the main program that calls the above subroutine has the following storage declaration: list: dc.w 1, 2, 3, 4 Further suppose that the number 4 is passed in as N and the address list is passed in as A to the subroutine strange .",
+    "link": [],
+    "ground_truth": "unknow"
+}

@@ -1,0 +1,9 @@
+{
+    "Title": "CS 537 - Programming Assignment #1",
+    "Body": "For more information on C++ input/output, you can read the C++ book or type man iostream man fstream Each line is of the form: character-string  number1  number2 Each of these three pieces will be separated by any number of blank characters (spaces or tabs).",
+    "link": [
+        "#details",
+        "http://www.cs.wisc.edu/~bart"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Uncertain Reasoning",
+    "Body": "(Special issue on Architectures for Integrating Neural and Symbolic Processing) This paper describes Rapture --- a system for revising probabilistic knowledge bases that combines connectionist and symbolic learning methods.",
+    "link": [
+        "file://ftp.cs.utexas.edu/pub/mooney/papers/rapture-dissertation-96.ps.Z",
+        "file://ftp.cs.utexas.edu/pub/mooney/papers/banner-proposal-95.ps.Z",
+        "file://ftp.cs.utexas.edu/pub/mooney/papers/banner-icnn-96.ps.Z"
+    ],
+    "ground_truth": "other"
+}

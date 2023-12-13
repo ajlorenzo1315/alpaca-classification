@@ -1,0 +1,10 @@
+{
+    "Title": "The X-Files",
+    "Body": "Here's a link to the blessed-by-TCFFC \"official\" web page , which used to be at Delphi and now appears to be moved to this new location.",
+    "link": [
+        "http://bedlam.rutgers.edu/test/x-files/x-files.au",
+        "http://bedlam.rutgers.edu/test/x-files/xf2ndseason.s7.au",
+        "http://bedlam.rutgers.edu/test/x-files/audio/"
+    ],
+    "ground_truth": "other"
+}

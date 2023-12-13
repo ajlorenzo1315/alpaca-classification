@@ -1,0 +1,10 @@
+{
+    "Title": "BME/CS E4737: Computer Control of Medical Instrumentation",
+    "Body": "The course will discuss: principles of transduction; data acquisition, presentation, visualization and analysis for medical interpretation; Operating principles of medical devices; technology of medical sensors; algorithms for signal analysis; computer interfacing, interface design, and programming; Laboratory assignments will cover basic measurement technology; interfacing techniques; use of Labview software for instrument interrogation and control; automated ECG analysis; ultrasonic measurements; and image processing applied to X-ray images and CT scans.",
+    "link": [
+        "http://www.cs.columbia.edu/~allen/",
+        "http://www.cs.columbia.edu/~michelma/",
+        "http://www.cs.columbia.edu/~laza/"
+    ],
+    "ground_truth": "course"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Rong Tan's Movie Page",
+    "Body": "Maybe it is the only thing that is not bad.",
+    "link": [
+        "http://www.movies.warnerbros.com",
+        "http://www.spe.sony.com/Pictures/SonyMovies",
+        "http://www.mca.com"
+    ],
+    "ground_truth": "other"
+}

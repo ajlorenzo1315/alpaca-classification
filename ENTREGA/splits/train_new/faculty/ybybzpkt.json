@@ -1,0 +1,8 @@
+{
+    "Title": "Yang-Chang Hong's Home Page",
+    "Body": "This includes the study of mechanisms for reducing the scheduling gap between a dataflow instruction and its consumer instruction(s), and the issues of partitioning and compilation of the program graph to maximize the use of the normal \"IP+1\" instruction scheduling of a von Neumann processor, where the IP stands for instructional pointer.",
+    "link": [
+        "http://www.cs.ucr.edu/homes/faculty.html"
+    ],
+    "ground_truth": "faculty"
+}

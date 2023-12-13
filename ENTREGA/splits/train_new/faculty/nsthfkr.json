@@ -1,0 +1,10 @@
+{
+    "Title": "Don Smith",
+    "Body": "The Hypercomputing and Design Project (HPCD) is an ARPA sponsored project developing advanced AI-based design methodologies covering a wide range of applications.",
+    "link": [
+        "http://www.cs.rutgers.edu/hpcd/hpcd.html",
+        "http://www.cs.rutgers.edu/cam/",
+        "http://www.cs.rutgers.edu/hpcd/hpcd.html"
+    ],
+    "ground_truth": "faculty"
+}

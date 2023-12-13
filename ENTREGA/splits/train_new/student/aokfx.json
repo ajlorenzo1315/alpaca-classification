@@ -1,0 +1,10 @@
+{
+    "Title": "Janice Diane Miers ",
+    "Body": "Date: Tue, 26 Nov 1996 16:24:53 GMT Server: NCSA/1.4.1 Content-type: text/html Last-modified: Wed, 05 Jun 1996 23:15:00 GMT Content-length: 2400 Janice Diane Miers Jan Miers e-mail to miers@gulf.uvic.ca Hear a welcome message (au format) Links to places mentioned on this page [ Computer Science ] [ University of Victoria ] [ Education Services Group ] Professional Information Aside from being a part-time graduate student in Computer Science, I am also a full-time employee of the University of Victoria, Computing and Systems Services.",
+    "link": [
+        "mailto:miers@gulf.csc.UVic.CA",
+        "http://gulf.uvic.ca/~miers/hello.au",
+        "http://www.csc.uvic.ca"
+    ],
+    "ground_truth": "student"
+}

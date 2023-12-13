@@ -1,0 +1,10 @@
+{
+    "Title": "No title",
+    "Body": "The best of the Web.",
+    "link": [
+        "#it",
+        "#web",
+        "#fun"
+    ],
+    "ground_truth": "unknow"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Index of /~plakal/logs/",
+    "Body": "Date: Tue, 05 Nov 1996 21:22:26 GMT Server: NCSA/1.5 Content-type: text/html Index of /~plakal/logs/ Index of /~plakal/logs/ Name                   Last modified     Size  Description Parent Directory 04-Nov-96 21:54      - blah 24-Oct-96 01:36     1K chat.log 04-Nov-96 15:19     1K gallery.log 05-Nov-96 13:20     2K hack.log 05-Nov-96 13:13     1K home.log 05-Nov-96 15:20    11K iitkcs96.log 05-Nov-96 13:35     1K junta.log 05-Nov-96 13:13     2K log.log 05-Nov-96 13:21     1K logging.since 20-Oct-96 19:46     1K logreset 21-Oct-96 15:05     1K music.log 27-Oct-96 00:06     1K snaps.log 05-Nov-96 13:20     2K testing 02-Nov-96 23:52     0K www-logs 02-Nov-96 00:23    59K Each log file is for a separate page under my WWW directory.",
+    "link": [
+        "http://www.cs.wisc.edu/~plakal/",
+        "http://www.cs.wisc.edu/~plakal/logs/blah",
+        "http://www.cs.wisc.edu/~plakal/logs/chat.log"
+    ],
+    "ground_truth": "unknow"
+}

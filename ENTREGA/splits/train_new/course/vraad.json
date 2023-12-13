@@ -1,0 +1,10 @@
+{
+    "Title": "CSE 232 - Advanced Programming",
+    "Body": "Date: Tue, 26 Nov 1996 18:52:26 GMT Server: NCSA/1.5 MIME-version: 1.0 Content-type: text/html Last-modified: Fri, 25 Oct 1996 20:40:02 GMT Content-length: 2902 CSE 232 - Advanced Programming CSE 232 - Advanced Programming Class Meeting Time/Place: MWF 9:35am - 10:25am 131 DeBartolo Hall Instructor: Alan G. Yoder Room: 307 Cushing Phone: 631-9166 Email: agy@cse Office Hours: 10:30 -- 12:00 MW Teaching Assistants: Kartik Nanda Room: 206 Cushing Phone: 1-7596 Email: knanda@bach.helios Office Hours: 14:00 -- 15:30 Th, 20:00 -- 22:00 Wed (Fitz.",
+    "link": [
+        "mailto:agy@cse",
+        "http://www.nd.edu/~knanda",
+        "mailto:knanda@bach.helios"
+    ],
+    "ground_truth": "course"
+}

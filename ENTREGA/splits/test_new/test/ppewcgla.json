@@ -1,0 +1,10 @@
+{
+    "Title": "Chris Fisher's home page",
+    "Body": "Date: Thu, 21 Nov 1996 20:06:07 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Fri, 05 Apr 1996 00:02:32 GMT Content-length: 783 Chris Fisher's home page ( no picture yet ) Chris Fisher Department of Computer Science and Engineering Box 352350 University of Washington Seattle WA, 98195-2350 fisher@cs.washington.edu Voice: (206) 685-3807; FAX: (206) 543-2969; e-mail:  fisher@cs.washington.edu Lab: Sieg Hall, Room 424 (LIS) My page is currently under construction!",
+    "link": [
+        "http://www.cs.washington.edu/homes/fisher/fisher.gif",
+        "http://www.cs.washington.edu/homes/fisher//",
+        "http://www.washington.edu/"
+    ],
+    "ground_truth": "unknow"
+}

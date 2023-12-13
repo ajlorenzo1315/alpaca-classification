@@ -1,0 +1,10 @@
+{
+    "Title": "Publications of Eliot Moss",
+    "Body": "To appear in ACM Transactions on Computer Systems.",
+    "link": [
+        "ftp://ftp.cs.umass.edu/pub/techrept/techreport/1995/UM-CS-1995-082.ps",
+        "http://www.cs.umass.edu/~mckinley",
+        "http://www.cs.umass.edu/~moss"
+    ],
+    "ground_truth": "unknow"
+}

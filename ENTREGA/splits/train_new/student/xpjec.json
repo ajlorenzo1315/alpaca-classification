@@ -1,0 +1,9 @@
+{
+    "Title": "The Tiger's Den ",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Monday, 06-Jan-97 19:30:22 GMT Content-Type: text/html Content-Length: 780 Last-Modified: Tuesday, 25-Jun-96 20:02:17 GMT The Tiger's Den Frame ALERT!",
+    "link": [
+        "main.html",
+        "http://www.netscape.com/comprod/products/navigator"
+    ],
+    "ground_truth": "student"
+}

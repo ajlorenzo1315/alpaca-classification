@@ -1,0 +1,10 @@
+{
+    "Title": "SCC: The Safe C Compiler",
+    "Body": "Here are slides from a talk I ( Todd Austin ) gave at PLDI '94 in Orlando, Florida.",
+    "link": [
+        "ftp://ftp.cs.wisc.edu/sohi/safe-c.PLDI94.ps.Z",
+        "ftp://ftp.cs.wisc.edu/tech-reports/reports/93/tr1197.ps.Z",
+        "http://www.cs.wisc.edu/~austin/talk.scc"
+    ],
+    "ground_truth": "unknow"
+}

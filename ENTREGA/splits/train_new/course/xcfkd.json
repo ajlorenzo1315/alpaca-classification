@@ -1,0 +1,10 @@
+{
+    "Title": " CS 540 - Intro to AI (Kunen's Section) ",
+    "Body": "Grades There will be four programming assignments, counting 10% each, and three exams, counting 20% each; the third exam will be at the scheduled time and place for the final.",
+    "link": [
+        "http://www.cs.wisc.edu/~kunen/kunen.html",
+        "ftp://ftp.das.harvard.edu/pub/onlisp/onlisp.lisp",
+        "http://www.cs.cmu.edu/afs/cs.cmu.edu/project/ai-repository/ai/html/cltl/clm/node1.html"
+    ],
+    "ground_truth": "course"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "oppacher.home",
+    "Body": "Date: Mon, 25 Nov 1996 20:10:17 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Tue, 05 Mar 1996 13:25:47 GMT Content-length: 1815 oppacher.home Dr. Franz Oppacher Professor oppacher@scs.carleton.ca Dr. Oppacher has an M.Sc.",
+    "link": [
+        "http://www.scs.carleton.ca/scs/faculty/oppacher/vita.html",
+        "http://www.scs.carleton.ca/scs/faculty/oppacher/courses.html",
+        "http://www.scs.carleton.ca/scs/faculty/oppacher/vita.html"
+    ],
+    "ground_truth": "faculty"
+}

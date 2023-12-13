@@ -1,0 +1,10 @@
+{
+    "Title": "BU - CSD - Grad Student: Robert Gaimari\n",
+    "Body": "I got my Bachelor of Science degree from Daniel Webster College in Nashua , New Hampshire , and my Master's Degree here at BU.",
+    "link": [
+        "http://cs-www.bu.edu/",
+        "http://web.bu.edu",
+        "http://cs-www.bu.edu/students/grads/rgaimari/cs101/f96/cs101.html"
+    ],
+    "ground_truth": "student"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Krung's homepage",
+    "Body": "Krung's homepage underconstruction I try to keep this page short and informative.",
+    "link": [
+        "http://www.cs.wisc.edu/~krung/mathprog.html",
+        "http://www.cs.wisc.edu/~krung/course.html",
+        "http://www.cs.wisc.edu/~krung/computer.html"
+    ],
+    "ground_truth": "student"
+}

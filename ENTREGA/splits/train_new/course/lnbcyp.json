@@ -1,0 +1,10 @@
+{
+    "Title": "Florida Tech, CS:  Graphical User Interfaces (Fall 1996)",
+    "Body": "http://www.javaworld.com/javaworld/jw-04-1996/jw-04-browsertable.html Concurrent Programming in Java by Doug Lea Tcl/TK My list of Widget examples Tcl/Tk Project At Sun Microsystems Tcl/Tk Resources Tcl and TK man pages X Window System X Windows FAQ from Europe (EXUG), better organized than Ohio State.",
+    "link": [
+        "http://cs.fit.edu/~ryan/",
+        "http://www.cs.fit.edu/~ryan/cse5257/",
+        "http://www.cs.fit.edu/academic/catalog/node34.html#cse5257"
+    ],
+    "ground_truth": "course"
+}

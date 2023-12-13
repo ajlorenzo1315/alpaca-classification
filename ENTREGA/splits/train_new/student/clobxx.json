@@ -1,0 +1,10 @@
+{
+    "Title": "Dan R.",
+    "Body": "I am also a research assistant with LASER (the Laboratory for Advanced Software Engineering Research) in the area of analysis of software systems.",
+    "link": [
+        "mailto:drubenst@cs.umass.edu",
+        "http://www.cs.umass.edu/~drubenst/personal/dan.html",
+        "http://www.cs.umass.edu"
+    ],
+    "ground_truth": "student"
+}

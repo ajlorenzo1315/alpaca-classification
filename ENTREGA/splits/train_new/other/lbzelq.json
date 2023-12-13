@@ -1,0 +1,10 @@
+{
+    "Title": "Not All Bits are Created Equal.",
+    "Body": "Work done using lil-gp turned into a paper at the GP workshop of ICGA-95 , an expanded version of which appears in Advances in Genetic Programming II , MIT Press.",
+    "link": [
+        "http://www.cps.msu.edu/prip/jain/jain.html",
+        "http://www.cs.washington.edu/homes/dougz/research/icpr-fs-paper.ps",
+        "http://www.cs.washington.edu/homes/dougz/research/pami-fs-paper.ps"
+    ],
+    "ground_truth": "other"
+}

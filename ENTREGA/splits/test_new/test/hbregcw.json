@@ -1,0 +1,10 @@
+{
+    "Title": "Me",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Monday, 06-Jan-97 19:34:11 GMT Content-Type: text/html Content-Length: 2667 Last-Modified: Wednesday, 13-Mar-96 23:49:25 GMT Me Marty Mayberry PhD Student Department of Computer Sciences The University of Texas at Austin Research All kinds of stuff.",
+    "link": [
+        "http://www.eff.org/blueribbon.html",
+        "http://www.cs.utexas.edu/cgi/htimage/users/martym/images/test1.map",
+        "http://www.cs.utexas.edu/users/nn"
+    ],
+    "ground_truth": "unknow"
+}

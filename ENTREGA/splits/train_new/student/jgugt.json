@@ -1,0 +1,10 @@
+{
+    "Title": "Hao Zhou's Homepage",
+    "Body": "Date: Tue, 26 Nov 1996 03:00:29 GMT Server: NCSA/1.5.1 Last-modified: Thu, 19 Sep 1996 20:07:49 GMT Content-type: text/html Content-length: 1572 Hao Zhou's Homepage Welcome to Hao Zhou's Homepage!",
+    "link": [
+        "http://cs.mtu.edu",
+        "http://www.mtu.edu",
+        "http://www.mm.mtu.edu/~drjohn/windsurfing/kwind.html"
+    ],
+    "ground_truth": "student"
+}

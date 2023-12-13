@@ -1,0 +1,10 @@
+{
+    "Title": "Lei Duan",
+    "Body": "; Feature Table of \"have\" -- Table2 ; Feature Table1 of \"have\" -- Table1 ; Description of the Preprocessor ; Preprocessed   Data ; Raw Data ;",
+    "link": [
+        "http://www.nmsu.edu",
+        "http://www.cs.nmsu.edu",
+        "http://www.cs.nmsu.edu/~lduan/report.may02"
+    ],
+    "ground_truth": "student"
+}

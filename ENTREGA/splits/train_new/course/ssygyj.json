@@ -1,0 +1,10 @@
+{
+    "Title": "COS 126: General Computer Science, Spring 1996. \n\n\n",
+    "Body": "sample exam 1 More sample questions Survival Guide to COS126/128 can help you survive the first 2 weeks of the course.",
+    "link": [
+        "http://www.CS.Princeton.EDU/courses/archive/spr96/cs126/info.html",
+        "http://www.CS.Princeton.EDU/courses/archive/spr96/cs126/1.ps",
+        "http://www.CS.Princeton.EDU/courses/archive/spr96/cs126/info.html#submit"
+    ],
+    "ground_truth": "course"
+}

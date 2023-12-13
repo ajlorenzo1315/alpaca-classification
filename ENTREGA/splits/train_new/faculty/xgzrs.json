@@ -1,0 +1,10 @@
+{
+    "Title": "Jaideep Srivastava",
+    "Body": "- University of California, Berkeley, 1988 Professional Background 1983 - 1984: Research Engineer with Uptron Digital System, Lucknow, India 1984 - 1988: Post Graduate Researcher, U.C.",
+    "link": [
+        "mailto:srivasta@cs.umn.edu",
+        "http://www.cs.umn.edu/footer.map",
+        "mailto:www@cs.umn.edu"
+    ],
+    "ground_truth": "faculty"
+}

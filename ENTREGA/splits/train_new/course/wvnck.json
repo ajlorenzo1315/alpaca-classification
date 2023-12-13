@@ -1,0 +1,10 @@
+{
+    "Title": "Home Page for Martin Reames's CS 302 class",
+    "Body": "Date: Fri, 17 Jan 1997 23:07:48 GMT Server: Apache/1.1.3 Content-type: text/html Content-length: 4012 Last-modified: Fri, 17 Jan 1997 18:33:50 GMT Home Page for Martin Reames's CS 302 class CS 302, Sections 33 & 37 Algebraic Language Programming Spring 1997 Martin Reames , Teaching Assistant What's New Absolutely nothing Everyday information CS302 Class Information Pages Common Programming Mistakes Archive of section 33 and section 37 class mailing lists (most messages are sent to both lists).",
+    "link": [
+        "http://www.cs.wisc.edu/~mreames/",
+        "http://www.cs.wisc.edu/~cs302/cs302.html",
+        "http://www.cs.wisc.edu/~mreames/cs302/common-mistakes.html"
+    ],
+    "ground_truth": "course"
+}

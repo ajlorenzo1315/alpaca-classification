@@ -1,0 +1,10 @@
+{
+    "Title": "Home Page for Xumin Nie",
+    "Body": "Date: Mon, 25 Nov 1996 23:29:55 GMT Server: Apache/1.0.3 Content-type: text/html Content-length: 1940 Last-modified: Tue, 17 Sep 1996 20:40:00 GMT Home Page for Xumin Nie Home Page for Xumin Nie Dr. Xumin Nie Assistant Professor Computer Science Department Wichita State University Wichita , Kansas 67260-0083, U.S.A. Spring 1995 Schedule Teaching CS 742 Computer Communication Networks , TTH 5:35PM to 6:50PM, 219 NH.",
+    "link": [
+        "http://www.cs.twsu.edu",
+        "http://www.twsu.edu/",
+        "http://www.southwind.net/ict/index.html"
+    ],
+    "ground_truth": "faculty"
+}

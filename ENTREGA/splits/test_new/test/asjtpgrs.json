@@ -1,0 +1,10 @@
+{
+    "Title": "Simon Kaplan's Home Page",
+    "Body": "Date: Thursday, 21-Nov-96 20:23:23 GMT Server: NCSA/1.3 MIME-version: 1.0 Content-type: text/html Last-modified: Tuesday, 03-Jan-95 16:35:01 GMT Content-length: 1240 Simon Kaplan's Home Page Under construction !",
+    "link": [
+        "mailto:smk@uiuc.edu",
+        "gopher://cs.uiuc.edu:79/0kaplan",
+        "http://www.uiuc.edu/cgi-bin/ph?kaplan+simon"
+    ],
+    "ground_truth": "unknow"
+}

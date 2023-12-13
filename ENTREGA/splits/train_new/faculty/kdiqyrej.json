@@ -1,0 +1,8 @@
+{
+    "Title": " Harry McLaughlin",
+    "Body": "He is interested in the notion of shape and how to model it using discrete curves and surfaces.",
+    "link": [
+        "http://www.cs.rpi.edu/brochure/Faculty/index.html"
+    ],
+    "ground_truth": "faculty"
+}

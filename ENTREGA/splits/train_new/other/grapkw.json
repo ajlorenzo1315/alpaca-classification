@@ -1,0 +1,10 @@
+{
+    "Title": "CS 110 Section 2 Lecture Notes - Week 8",
+    "Body": "END DO 2-D Arrays and DO Loops 1-D arrays are processed with a single DO loops whose counter is used as the array subscript.",
+    "link": [
+        "http://www.cs.wisc.edu/~bestor/cs110/cs110.html#text",
+        "http://www.cs.wisc.edu/~bestor/bestor.html",
+        "mailto:bestor@cs.wisc.edu"
+    ],
+    "ground_truth": "other"
+}

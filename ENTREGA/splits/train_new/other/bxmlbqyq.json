@@ -1,0 +1,10 @@
+{
+    "Title": "Project help sessions",
+    "Body": "Date: Mon, 02 Dec 1996 16:10:24 GMT Server: NCSA/1.4.2 Content-type: text/html Project help sessions 1996 Autumn Quarter Project help sessions Project 0 help session Introduction to OpenGL, libui, and CaseVision; how to make your home page.",
+    "link": [
+        "mandelbrot/",
+        "morph/",
+        "sweeper/"
+    ],
+    "ground_truth": "other"
+}

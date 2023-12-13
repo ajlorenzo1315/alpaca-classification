@@ -1,0 +1,10 @@
+{
+    "Title": "Welcome to the University of Oregon",
+    "Body": "Date: Wed, 15 Jan 1997 02:12:01 GMT Server: Apache/1.1.1 Content-type: text/html Content-length: 2129 Last-modified: Thu, 31 Oct 1996 17:44:15 GMT Welcome to the University of Oregon UO President, Dave Frohnmayer The University of Oregon is located in Eugene, Oregon, USA, about one hour's drive from both the Cascade Mountains and the beaches and headlands of the Oregon Coast.",
+    "link": [
+        "http://darkwing.uoregon.edu/~rhaller/images/mtnsmall.GIF",
+        "http://darkwing.uoregon.edu/~rhaller/images/beach.GIF",
+        "http://darkwing.uoregon.edu/~admit/"
+    ],
+    "ground_truth": "other"
+}

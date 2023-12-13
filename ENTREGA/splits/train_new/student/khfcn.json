@@ -1,0 +1,10 @@
+{
+    "Title": "Xin Yuan's Home Page",
+    "Body": "Here are my Papers .",
+    "link": [
+        "mailto:xyuan@cs.pitt.edu",
+        "http://www.cs.pitt.edu/",
+        "http://www.pitt.edu/"
+    ],
+    "ground_truth": "student"
+}

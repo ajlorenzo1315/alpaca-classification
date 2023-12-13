@@ -1,0 +1,10 @@
+{
+    "Title": "CS101c1 -- Student Pages     ",
+    "Body": "Date: Tue, 14 Jan 1997 20:29:01 GMT Server: NCSA/1.5 Content-type: text/html CS101c1 -- Student Pages CS 101 C1 -- Student Pages These links are to the Home.html files in your accounts on csa.",
+    "link": [
+        "file://www.cs.bu.edu/faculty/snyder/cs101//home/course/cs101c1/accruz/Home.html",
+        "file://www.cs.bu.edu/faculty/snyder/cs101//home/course/cs101c1/adarosa/Home.html",
+        "file://www.cs.bu.edu/faculty/snyder/cs101//home/course/cs101c1/adeweese/Home.html"
+    ],
+    "ground_truth": "unknow"
+}

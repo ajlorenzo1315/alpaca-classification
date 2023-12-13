@@ -1,0 +1,10 @@
+{
+    "Title": "EECS401 Web Page for Fall '96",
+    "Body": "Date: Tue, 26 Nov 1996 19:11:28 GMT Server: Apache/1.1-dev Content-type: text/html Set-Cookie: Apache=gs359347849035488741; path=/ EECS401 Web Page for Fall '96 Welcome to the EECS 401 Course Web page for the Fall 96 term Course Outline Catalogue description Basic concepts of probability theory.",
+    "link": [
+        "mailto:neuhoff@eecs.umich.edu",
+        "mailto:sungillk@eecs.umich.edu",
+        "mailto:tzuhsien@engin.umich.edu"
+    ],
+    "ground_truth": "course"
+}

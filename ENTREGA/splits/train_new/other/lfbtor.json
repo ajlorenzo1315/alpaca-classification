@@ -1,0 +1,10 @@
+{
+    "Title": "Information on Introduction to the Theory of Computation",
+    "Body": "I am maintaining a list of errata for the first edition.",
+    "link": [
+        "http://www-math.mit.edu/~sipser/",
+        "http://www.pws.com/pws.html",
+        "http://www-math.mit.edu/~sipser/itoc-1.html"
+    ],
+    "ground_truth": "other"
+}

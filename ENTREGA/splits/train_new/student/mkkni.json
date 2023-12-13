@@ -1,0 +1,10 @@
+{
+    "Title": " Eric Freeman's Home Page  ",
+    "Body": "Check out the Lifestreams home page here .",
+    "link": [
+        "http://www.cs.yale.edu/HTML/YALE/CS/FrontDoor.html",
+        "http://www.cs.yale.edu/",
+        "http://www.cs.yale.edu/HTML/YALE/CS/HyPlans/freeman/lifestreams.html"
+    ],
+    "ground_truth": "student"
+}

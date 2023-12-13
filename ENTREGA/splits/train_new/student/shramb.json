@@ -1,0 +1,10 @@
+{
+    "Title": "Walter Hürsch's WWW Home Page",
+    "Body": "I'm a Ph.D. candidate in the College of Computer Science at Northeastern University in Boston , Massachusetts .",
+    "link": [
+        "http://www.ccs.neu.edu/home/huersch/images/do-not-touch-me.gif",
+        "http://www.ccs.neu.edu/home/huersch/images/walter-cool.gif",
+        "http://www.ccs.neu.edu/home/huersch/images/phd.gif"
+    ],
+    "ground_truth": "student"
+}

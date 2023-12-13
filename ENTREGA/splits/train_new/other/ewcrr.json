@@ -1,0 +1,10 @@
+{
+    "Title": " Kevin Hinshaw: Web Links\n",
+    "Body": "Date: Tue, 10 Dec 1996 20:34:54 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Mon, 09 Dec 1996 21:41:19 GMT Content-length: 7617 Kevin Hinshaw: Web Links Current Interest NBA scores News Lycos Top News CNN Nando Times Info Tech Seattle Times Back to School CS graduate students grad student affairs IMA racquetball ladder Image Computing seminar Research Medical Imaging 1997 Dept of Biological Structure Human Brain Project / brain mapping brain visualizations graphics lab docs Metaphysics Tarot I-Ching biorhythms Real Astrology horoscopes Diversions Cassidy's ABC page The Plutonium Blonde WWWF Grudge Match Otter Pops TicketMaster on-sale listing Reference LaTeX commands Internet Movie Database Usenet FAQs MapQuest Cynbe's hotlist H 3 Web Search Metacrawler Alta Vista Switchboard UW Student Directory Web Design Beginner's Guide to HTML HTML Quick Reference Tables Java tutorial graphic design tips (these are great!)",
+    "link": [
+        "http://altavista.digital.com/cgi-bin/query?pg=aq",
+        "http://www.yahoo.com/",
+        "http://www.intellicast.com/weather/sea/"
+    ],
+    "ground_truth": "other"
+}

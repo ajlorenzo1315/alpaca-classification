@@ -1,0 +1,10 @@
+{
+    "Title": "Hang Gliding WWW Server Home Page",
+    "Body": "A WWW server for the foot-launched flying community v1.3.2,  15-Dec-96 Hang Gliding -- Paragliding -- Hang Gliding -- Paragliding -- Hang Gliding -- Paragliding Gallery Browse Photographs (by Date) Hang Gliding Digests Search the HG Digests World-Wide Site Guide What's New This Month Movies!",
+    "link": [
+        "http://cougar.stanford.edu:7878/Photos.html",
+        "http://cougar.stanford.edu:7878/HGMPSVersionInfo.html",
+        "http://www.eff.org/blueribbon.html"
+    ],
+    "ground_truth": "unknow"
+}

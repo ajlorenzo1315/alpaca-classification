@@ -1,0 +1,10 @@
+{
+    "Title": "UT Austin - Austin Links",
+    "Body": "The Bats at Congress Ave. Bridge Home to the largest urban bat population in the world.",
+    "link": [
+        "http://www.auschron.com/issues/annual/bestof/96/",
+        "http://www.auschron.com/",
+        "http://www.utexas.edu/calendars/"
+    ],
+    "ground_truth": "other"
+}

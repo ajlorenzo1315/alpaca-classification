@@ -1,0 +1,10 @@
+{
+    "Title": "Pedro Szekely",
+    "Body": "At the ISI Dr. Szekely developed HUMANOID, a model-based user interface design environment, and is now principal investigator for the MASTERMIND project, an ARPA funded project in collaboration with Georgia Tech.",
+    "link": [
+        "http://www.isi.edu/",
+        "http://www.isi.edu/isd/Mastermind/mastermind.html",
+        "http://www.isi.edu/isd/HUMANOID-HOME.html"
+    ],
+    "ground_truth": "faculty"
+}

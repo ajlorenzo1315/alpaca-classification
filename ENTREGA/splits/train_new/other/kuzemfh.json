@@ -1,0 +1,6 @@
+{
+    "Title": "JT-syllabusMW.html",
+    "Body": "Date: Tue, 05 Nov 1996 20:51:11 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Sat, 07 Sep 1996 23:32:37 GMT Content-length: 11287 JT-syllabusMW.html Syllabus for CS354 - Machine Organization and Programming Section 3, 5:00 - 6:40, MW, Lecturer: Jerry Tutsch, Fall 1996 Week Day Page Chapter Topic ToDo 1 9/4 29 1 Abstractions & Computers 2 9/9 44 2 SAL - Simple Abstract Language 9/11 54 2 SAL - Simple Abstract Language Q1 (SAL) 3 9/16 69 3 Number Systems P1 (SAL - simple proc calls) due 9/18 82 3 Number Systems HW1 due 4 9/23 97 4 Data Representations 9/25 112 4 Data Representations Q2 (base conversions, 2's complement) 5 9/30 125 5 Arithmetic & Logic Ops P2 (SAL - base conversions) due 10/2 138 5 Arithmetic & Logic Ops HW2 due 6 10/7 151 6 Floating Point Arithmetic P3 (SAL - 1D & 2D arrays) due 10/9 166 6 Floating Point Arithmetic HW3 due, Q3 (logic ops, shifts, IEEE FPS) 7 10/14 181 7 Data Structures 10/16 194 7 Data Structures HW4 due 8 10/21 209 8 Registers and MAL P4S (SAL - stack?)",
+    "link": [],
+    "ground_truth": "other"
+}

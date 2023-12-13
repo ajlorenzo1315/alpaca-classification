@@ -1,0 +1,10 @@
+{
+    "Title": "Shree K. Nayar ",
+    "Body": "His research interests are in computational vision, real-time sensors, pattern recognition, robotics, computer graphics, and virtual worlds.",
+    "link": [
+        "http://www.cs.columbia.edu/~nayar//www.cs.columbia.edu",
+        "http://www.columbia.edu/",
+        "http://www.cs.columbia.edu/CAVE"
+    ],
+    "ground_truth": "faculty"
+}

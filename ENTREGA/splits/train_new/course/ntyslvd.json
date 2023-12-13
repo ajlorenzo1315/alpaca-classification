@@ -1,0 +1,10 @@
+{
+    "Title": "CS211: Computer Architecture",
+    "Body": "Have a look at the on-line documentation for how to use our facilities.",
+    "link": [
+        "http://www.cs.rutgers.edu/~murdocca/211syllabus.html",
+        "http://www.cs.rutgers.edu/~murdocca/POCA/POCA.html",
+        "http://www.cs.rutgers.edu/LCSR-Computing/"
+    ],
+    "ground_truth": "course"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "CS 381K: Artificial Intelligence",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Monday, 06-Jan-97 19:23:47 GMT Content-Type: text/html Content-Length: 1250 Last-Modified: Friday, 21-Jul-95 20:06:08 GMT CS 381K: Artificial Intelligence CS 381K: Artificial Intelligence Artificial Intelligence (AI) may be defined as the study of the computations required for intelligent behavior and the attempt to duplicate such computations using computers.",
+    "link": [
+        "http://www.cs.utexas.edu/users/novak/cs381ksyllabus.ps",
+        "http://www.cs.utexas.edu/users/novak/cs381kasg.html",
+        "http://www.cs.utexas.edu/users/novak/cs381kfiles.ps"
+    ],
+    "ground_truth": "course"
+}

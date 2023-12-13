@@ -1,0 +1,10 @@
+{
+    "Title": "Home document for the Performance Evaluation Group",
+    "Body": "Server: Netscape-Commerce/1.1 Date: Tuesday, 26-Nov-96 01:00:45 GMT Last-modified: Wednesday, 31-Jan-96 14:36:49 GMT Content-length: 1819 Content-type: text/html Home document for the Performance Evaluation Group Welcome to the homepage of the Performance Evaluation Group.",
+    "link": [
+        "http://www.vuse.vanderbilt.edu/~dowdy/home.html",
+        "http://cswww.vuse.vanderbilt.edu/~peg/people.html",
+        "http://cswww.vuse.vanderbilt.edu/~peg/publications/publications.html"
+    ],
+    "ground_truth": "project"
+}

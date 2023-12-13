@@ -1,0 +1,10 @@
+{
+    "Title": "Linguistic String Project",
+    "Body": "Date: Tue, 26 Nov 1996 00:11:16 GMT Server: NCSA/1.4.1 Content-type: text/html Last-modified: Tue, 19 Nov 1996 20:25:05 GMT Content-length: 2053 Linguistic String Project LINGUISTIC STRING PROJECT Since 1965 the Linguistic String Project (LSP) at New York University has engaged in Natural Language Processing research.",
+    "link": [
+        "http://cs.nyu.edu/cs/projects/lsp/sager.html",
+        "http://cs.nyu.edu/cs/projects/lsp/nhan/index.html",
+        "http://cs.nyu.edu/cs/projects/lsp/lspselpubs.html"
+    ],
+    "ground_truth": "project"
+}

@@ -1,0 +1,8 @@
+{
+    "Title": "Solutions to Quiz Three",
+    "Body": "( 3 points ) struct ApptPage { Date date; int num_appts; }; Write a code segment that declares an appointment page variable, sets the date to October 31 and sets the number of appointments to 5.",
+    "link": [
+        "quiz3.html"
+    ],
+    "ground_truth": "other"
+}

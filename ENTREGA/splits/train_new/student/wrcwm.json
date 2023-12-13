@@ -1,0 +1,10 @@
+{
+    "Title": "Jonathan Barber, in the Flesh",
+    "Body": "If any of you web-surfers are from Oregon, and have some information you'd like to share (good or bad), please write me.",
+    "link": [
+        "mailto:barber@cs.cornell.edu",
+        "#About",
+        "#Now"
+    ],
+    "ground_truth": "student"
+}

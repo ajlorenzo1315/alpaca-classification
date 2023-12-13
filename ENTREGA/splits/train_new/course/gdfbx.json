@@ -1,0 +1,10 @@
+{
+    "Title": "\nEECS 370\n",
+    "Body": "Date: Tue, 26 Nov 1996 19:11:45 GMT Server: Apache/1.1-dev Content-type: text/html Set-Cookie: Apache=gs359339849035505714; path=/ EECS 370 EECS 370 -- Introduction to Computer Organization -- Fall 1996 Peter M. Chen Edward S. Davidson Dan Friendly Vijayalakshmi Srinivasan Ed Tam Click here to access the class newsgroup.",
+    "link": [
+        "news://news-server.engin.umich.edu/umich.eecs.class.370",
+        "http://www.eecs.umich.edu/~pmchen/eecs370/unix.ps",
+        "http://www.engin.umich.edu/Technotes/notes.mu/MU303_IntroUnix.html"
+    ],
+    "ground_truth": "course"
+}

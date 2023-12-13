@@ -1,0 +1,6 @@
+{
+    "Title": "\nCSE 415  Prog. Assignment 3\n",
+    "Body": "Here the transform identity AA +  BB  =  1  can be applied to the left side of the problem, P, and the simplification score is 4 (there are 5 symbols on T's left side, including the + sign, and one symbol on T's right side).",
+    "link": [],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Keshav Pingali\n",
+    "Body": "The DFG knits together the data and control dependence information of a program, permitting the development of optimization algorithms that generate better code than is possible with competing approaches.",
+    "link": [
+        "http://www.cs.cornell.edu/Info/People/pingali/pingali.gif",
+        "http://www.cs.cornell.edu/Info/Department/Annual95/Beginning/annual-rpt95-home.html",
+        "http://www.cs.cornell.edu/"
+    ],
+    "ground_truth": "faculty"
+}

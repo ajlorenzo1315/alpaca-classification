@@ -1,0 +1,10 @@
+{
+    "Title": "CS C25 Home Page",
+    "Body": "Date: Wed, 20 Nov 1996 22:44:28 GMT Server: Apache/1.0.5 Content-type: text/html Content-length: 2094 Last-modified: Thu, 03 Oct 1996 14:08:40 GMT CS C25 Home Page Computer Science C25-1: Introduction to AI Programming Note: all announcements are made to the C25 newsgroup .",
+    "link": [
+        "news:nwu.school.meas.class.cs-c25",
+        "http://www.cs.nwu.edu/academics/courses/c25/admin/whatnew.html",
+        "http://www.cs.nwu.edu/academics/courses/c25/admin/intro.html"
+    ],
+    "ground_truth": "course"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Homepage for David Bingham Skalak",
+    "Body": "Date: Thursday, 21-Nov-96 23:17:11 GMT Server: NCSA/1.3 MIME-version: 1.0 Content-type: text/html Last-modified: Saturday, 05-Aug-95 19:46:10 GMT Content-length: 712 Homepage for David Bingham Skalak David Bingham Skalak I'm a Ph.D. candidate at UMass, visiting at Cornell: 311C, Upson Hall Department of Computer Science Cornell University Ithaca , NY 14850-7501 voice: 607 255-9216 fax: 607 255-4428 email: skalak@cs.cornell.edu Please see my homepage at Cornell .",
+    "link": [
+        "http://www.cs.cornell.edu",
+        "http://www.cornell.edu",
+        "http://www.cornell.edu/Ithaca.html"
+    ],
+    "ground_truth": "student"
+}

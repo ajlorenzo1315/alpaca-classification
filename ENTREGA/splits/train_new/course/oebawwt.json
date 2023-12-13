@@ -1,0 +1,10 @@
+{
+    "Title": "CSE 1301 Syllabus",
+    "Body": "Projects and Assignments Project 1: Write a document using Microsoft Word.",
+    "link": [
+        "mailto:pjamnia@cs.fit.edu",
+        "mailto:nabia@winnie.fit.edu",
+        "mailto:holiath@.cs.fit.edu"
+    ],
+    "ground_truth": "course"
+}

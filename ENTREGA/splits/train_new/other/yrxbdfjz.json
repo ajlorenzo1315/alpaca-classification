@@ -1,0 +1,10 @@
+{
+    "Title": "Alexandria Personnel",
+    "Body": "Date: Tue, 14 Jan 1997 21:33:01 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Wed, 23 Oct 1996 20:49:37 GMT Content-length: 20660 Alexandria Personnel Alexandria Personnel Alexandria Digital Library This is a comprehensive list of all Alexandria Project participants.",
+    "link": [
+        "http://alexandria.sdc.ucsb.edu/personnel//",
+        "mailto:agrawal@cs.ucsb.edu",
+        "mailto:dandrese@cs.ucsb.edu"
+    ],
+    "ground_truth": "other"
+}

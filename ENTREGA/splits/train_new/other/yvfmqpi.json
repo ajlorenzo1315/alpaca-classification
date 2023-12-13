@@ -1,0 +1,10 @@
+{
+    "Title": "Spot",
+    "Body": "The other sensors Spot has are the current and voltage sensors located in the base.",
+    "link": [
+        "http://www.cs.utexas.edu/users/wylee/Pictures/spot-closeup2.jpg",
+        "http://www.cs.utexas.edu/users/wylee/Pictures/spot-ontable.jpg",
+        "http://www.cs.utexas.edu/users/wylee"
+    ],
+    "ground_truth": "other"
+}

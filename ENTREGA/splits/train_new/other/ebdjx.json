@@ -1,0 +1,10 @@
+{
+    "Title": "CS 110 Section 2 Lecture Notes - Weeks 6",
+    "Body": "Actual Arguments The value of the dummy arguments are initialized to the corresponding values in the function call, called the actual arguments .",
+    "link": [
+        "http://www.cs.wisc.edu/~bestor/cs110/cs110.html#text",
+        "http://www.cs.wisc.edu/~bestor/bestor.html",
+        "mailto:bestor@cs.wisc.edu"
+    ],
+    "ground_truth": "other"
+}

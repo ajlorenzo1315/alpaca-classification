@@ -1,0 +1,10 @@
+{
+    "Title": "Joel D. Kraft",
+    "Body": "The first phase of the project allows the user to specify a query by viewing and selecting segments that are to be included in the resulting presentation, along with the desired length of the presentation.",
+    "link": [
+        "mailto:kraft@ces.cwru.edu",
+        "http://toros.ces.cwru.edu/kraft/pix/vidquery.gif",
+        "mailto:jdk6@po.cwru.edu"
+    ],
+    "ground_truth": "student"
+}

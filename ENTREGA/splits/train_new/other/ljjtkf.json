@@ -1,0 +1,6 @@
+{
+    "Title": "Setting up Linux for Dialup PPP",
+    "Body": "If serial line connection is OK, then we try PPP next.",
+    "link": [],
+    "ground_truth": "other"
+}

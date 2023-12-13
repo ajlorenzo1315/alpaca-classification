@@ -1,0 +1,9 @@
+{
+    "Title": "Kaleidoscope: A Constraint Imperative Programming Language",
+    "Body": "We discuss the benefits and challenges of combining the constraint and imperative paradigms, and present our current ideas in the context of the design and implementation of the Kaleidoscope'93 language.",
+    "link": [
+        "ftp://cs.washington.edu/tr/1993/09/UW-CSE-93-09-04.PS.Z",
+        "http://www.cs.washington.edu/research/projects/weird/www/index.html"
+    ],
+    "ground_truth": "other"
+}

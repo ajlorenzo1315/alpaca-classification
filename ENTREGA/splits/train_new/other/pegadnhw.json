@@ -1,0 +1,10 @@
+{
+    "Title": "Find Properties of Horus Stacks",
+    "Body": "A less usual approach is to put FRAG directly over the network, and layer SIGN (or CHKSUM, depending on the security of your network) and NAK on top of that.",
+    "link": [
+        "http://www.cs.cornell.edu/Info/Projects/HORUS/hardening/validity.html",
+        "http://www.cs.cornell.edu/Info/Projects/HORUS/hardening/validity.html",
+        "http://www.cs.cornell.edu/Info/Projects/HORUS/hardening/validity.html"
+    ],
+    "ground_truth": "other"
+}

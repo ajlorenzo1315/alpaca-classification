@@ -1,0 +1,10 @@
+{
+    "Title": " Class Schedule ",
+    "Body": "Peirce Paper %2/19 - A. Ogren R. Atkinson, \"Security Architecture for the Internet Protocol,\" Request for Comments: 1825 August 1995.",
+    "link": [
+        "http://www.w3.org/pub/Conferences/WWW4/Papers/228/",
+        "http://www.cs.wisc.edu/~cs640-1/security-ip.text",
+        "http://www.cs.wisc.edu/~cs640-1/rsvp.ps"
+    ],
+    "ground_truth": "other"
+}

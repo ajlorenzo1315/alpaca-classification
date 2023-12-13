@@ -1,0 +1,10 @@
+{
+    "Title": "Proceedings: ML95 Workshop on `Agents that Learn from Other Agents'",
+    "Body": "Meanwhile, there is also an active interest in agents that learn from observation (e.g., Iba 1991, Lin 1993), as well as agents that communicate and learn from each other (e.g., Etzioni & Weld 1994, Lashkari, Metral, & Maes 1994, Tan 1993).",
+    "link": [
+        "http://www.eecs.wsu.edu/~schlimme/ml95.html",
+        "http://www.cs.cmu.edu:8001/afs/cs.cmu.edu/user/mitchell/ftp/tomhome.html",
+        "http://www.aic.nrl.navy.mil/~gordon/"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Shilpa Lawande's Resume`",
+    "Body": "Education University of Wisconsin-Madison Transfered from Rice University in May 1996 Research Assistant with Profs.",
+    "link": [
+        "http://www.wisc.edu",
+        "http://www.cs.wisc.edu",
+        "http://www.cs.wisc.edu/~ssl"
+    ],
+    "ground_truth": "other"
+}

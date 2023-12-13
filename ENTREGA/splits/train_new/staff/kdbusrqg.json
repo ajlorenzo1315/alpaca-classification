@@ -1,0 +1,10 @@
+{
+    "Title": " Greg Oster's Home Page ",
+    "Body": "You can find that out by visiting just about any other page on the Web...)  Since I don't have many graphics yet (if you search a bit, you can find some :-) ) these pages should be also viewable under Lynx.",
+    "link": [
+        "http://www.cs.usask.ca",
+        "http://www.usask.ca",
+        "http://www.osf.org/dce/index.html"
+    ],
+    "ground_truth": "staff"
+}

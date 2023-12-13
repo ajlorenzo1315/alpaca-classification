@@ -1,0 +1,10 @@
+{
+    "Title": "WELCOME TO PREMA - PARALLEL RUNTIME SUPPORT SYSTEM",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Sunday, 24-Nov-96 22:57:34 GMT Content-Type: text/html Content-Length: 2038 Last-Modified: Friday, 25-Oct-96 00:02:15 GMT WELCOME TO PREMA - PARALLEL RUNTIME SUPPORT SYSTEM PREMA: Portable Runtime Environment for Multicomputer Architectures PREMA: Portable Runtime Environment for Multicomputer Architectures Advanced Computing Research Institute , Cornell Theory Center ,  Cornell University Overview Prema is a runtime support system for parallel compilers and problem solving environments that target scientific computing applications.",
+    "link": [
+        "http://www.cs.cornell.edu/Info/People/nikosc/projects/prema/prema.html",
+        "http://www.tc.cornell.edu/Research/ACRI",
+        "http://www.tc.cornell.edu/ctc.html"
+    ],
+    "ground_truth": "unknow"
+}

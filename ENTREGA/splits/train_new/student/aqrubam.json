@@ -1,0 +1,10 @@
+{
+    "Title": "Robert Walton's Home Page",
+    "Body": "Date: Thu, 21 Nov 1996 22:20:15 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Mon, 30 Sep 1996 22:31:01 GMT Content-length: 1475 Robert Walton's Home Page Robert Walton R-CODE : A Very Capable Virtual Computer.",
+    "link": [
+        "ftp://ftp.das.harvard.edu/pub/walton/rcode/rcode.html",
+        "ftp://ftp.das.harvard.edu/pub/walton/rcode/final-thesis-techreport.ps.gz",
+        "ftp://ftp.das.harvard.edu/pub/walton/rcode/final-thesis-techreport.ps"
+    ],
+    "ground_truth": "student"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": " Clinton L. Jeffery",
+    "Body": "in Computer Science (1989), University of Arizona Ph.D. in Computer Science (1993), University of Arizona Areas of Interest program execution monitoring , program visualization , programming languages, internet technologies , object-oriented programming, software engineering, programming environments Summary of Research Current research projects include the ALAMO execution monitoring environment , the Proxy Sharing Proxy Server project , and graphical and object-oriented extensions to the Icon programming language .",
+    "link": [
+        "http://www.cs.utsa.edu/research/alamo/alamo.html",
+        "http://www.cs.utsa.edu/research/softviz/index.html",
+        "http://www.cs.utsa.edu/research/proxy/proxy.html"
+    ],
+    "ground_truth": "faculty"
+}

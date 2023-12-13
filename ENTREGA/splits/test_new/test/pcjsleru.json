@@ -1,0 +1,10 @@
+{
+    "Title": " UC Berkeley Digital Library Project ",
+    "Body": "Date: Wed, 20 Nov 1996 19:25:45 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Wed, 06 Nov 1996 20:20:12 GMT Content-length: 2962 UC Berkeley Digital Library Project The UC Berkeley Digital Library project is a 4-year, $4 million research project that includes faculty, staff, and students in the Computer Science Division, the School of Information Management & Systems, and the Research Program in Environmental Planning & Geographic Information Systems, as well as participation from several state and local agencies and industrial partners.",
+    "link": [
+        "http://elib.cs.berkeley.edu/tour/",
+        "http://elib.cs.berkeley.edu/data_access.html",
+        "http://elib.cs.berkeley.edu/docs/"
+    ],
+    "ground_truth": "unknow"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "CSE477 Home Page",
+    "Body": "Date: Thu, 21 Nov 1996 22:21:01 GMT Server: NCSA/1.4.2 Content-type: text/html CSE477 Home Page CSE477: Digital System Design Steve Burns, Spring 1996 Welcome to the 477 Home Page!",
+    "link": [
+        "http://www.cs.washington.edu/education/courses/477/announcements.html",
+        "http://www.cs.washington.edu/education/courses/477/misc/summary.html",
+        "http://www.cs.washington.edu/education/courses/477/misc/syllabus.html"
+    ],
+    "ground_truth": "course"
+}

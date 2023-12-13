@@ -1,0 +1,10 @@
+{
+    "Title": "Paradyn demo",
+    "Body": "Date: Tue, 05 Nov 1996 00:26:44 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Fri, 30 Dec 1994 18:37:01 GMT Content-length: 725 Paradyn demo Paradyn System Architecture Here is some more information about different parts of the system: Dynamic Instrumentation Performance Consultant Visualization Interface Metric Definition Language User Interface Support for High-Level Languages Back to Paradyn home page click here",
+    "link": [
+        "http://www.cs.wisc.edu/cgi-bin/map/~paradyn/poster/paradyn.map",
+        "http://www.cs.wisc.edu/~paradyn/poster/dyn.html",
+        "http://www.cs.wisc.edu/~paradyn/poster/perf.html"
+    ],
+    "ground_truth": "unknow"
+}

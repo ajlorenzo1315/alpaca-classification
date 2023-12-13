@@ -1,0 +1,10 @@
+{
+    "Title": "Math & C.S. Official Home Page",
+    "Body": "A listing of all our courses.",
+    "link": [
+        "http://www.cs.miami.edu/images/Life.java",
+        "http://www.cs.jhu.edu/~callahan/patterns/contents.html",
+        "http://www.cs.miami.edu/info/people.html"
+    ],
+    "ground_truth": "department"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Notes on moving to NT",
+    "Body": "About Windows NT What is Windows NT?",
+    "link": [
+        "mailto:voskuhl@cs.cornell.edu",
+        "http://www.cs.cornell.edu/Info/People/rdz/rdz.html",
+        "http://www.microsoft.com/"
+    ],
+    "ground_truth": "other"
+}

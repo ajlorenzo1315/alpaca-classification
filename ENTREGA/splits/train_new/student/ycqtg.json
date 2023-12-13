@@ -1,0 +1,10 @@
+{
+    "Title": "Ioi Lam's Homeless Page",
+    "Body": "CVS Documentation A short introduction to using CVS in the system lab.",
+    "link": [
+        "mailto:ioi@cs.cornell.edu",
+        "http://www.cs.cornell.edu/Info/Faculty/Brian_Smith.html",
+        "http://www.cs.cornell.edu"
+    ],
+    "ground_truth": "student"
+}

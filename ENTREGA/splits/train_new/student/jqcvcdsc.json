@@ -1,0 +1,10 @@
+{
+    "Title": " Home page for Jeff Gray ",
+    "Body": "My specific interests include: Formal Methods; in particular, The Z Specification Language Object-Orientation and Object-Oriented Programming Software Reuse Language Issues: Ada, C++, and Borland's Delphi Publications Please click here for a list of my publications... My Favorites Computer Science Bibliography Vanderbilt Students Home Page The Best of the Web Award Winners White House Home Page Information on Congress The GOP The Christian Coalition Project Gutenberg (KJV Bible) The churches of Christ Pro-Life News 1-800 White Pages GIFS Pearl Jam and Ozzy Osbourne Pittsburgh Steelers and Pirates Hobbies Playing my guitar Listening to music Weightlifting and Muscle Media 2000 Rooting for the Mountaineers Last modified October 30, 1996 Home Phone: (615)-361-3755 , Office Phone: (615)-343-4404 Office Address: Box 1679-B, Vanderbilt University, Nashville, TN 37235 e-mail: jgray@vuse.vanderbilt.edu",
+    "link": [
+        "http://www.vuse.vanderbilt.edu/~csinfo/cs.html",
+        "http://www.vanderbilt.edu",
+        "http://www.nashville.net/"
+    ],
+    "ground_truth": "student"
+}

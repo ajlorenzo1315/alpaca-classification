@@ -1,0 +1,10 @@
+{
+    "Title": " Search the Web",
+    "Body": "Date: Tue, 10 Dec 1996 21:19:54 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Wed, 04 Sep 1996 04:30:07 GMT Content-length: 1533 Search the Web Search Engines Need to find info on something on the Web?",
+    "link": [
+        "http://metacrawler.cs.washington.edu:8080",
+        "http://lycos.cs.cmu.edu/",
+        "http://beta.yahoo.com/"
+    ],
+    "ground_truth": "other"
+}

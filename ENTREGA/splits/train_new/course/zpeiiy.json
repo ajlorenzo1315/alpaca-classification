@@ -1,0 +1,10 @@
+{
+    "Title": "BME/CS E6998-001: Topics in 3-D Computer Modeling",
+    "Body": "PROJECT: One potential project will be to actually acquire a 3-D object using sensors, and from this create a model that can be manipulated by the computer, as well as physically building the 3-D model on the Rapid Prototyping machine in our lab.",
+    "link": [
+        "http://www.cs.columbia.edu/~allen/",
+        "mailto:allen@cs.columbia.edu",
+        "http://www.stratasys.com"
+    ],
+    "ground_truth": "course"
+}

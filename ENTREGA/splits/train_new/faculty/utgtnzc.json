@@ -1,0 +1,10 @@
+{
+    "Title": " Martin C. Rinard",
+    "Body": "He joined the Computer Science Department at UCSB as an Assistant Professor in 1994.",
+    "link": [
+        "http://www.cs.ucsb.edu/~martin/paper/index.html",
+        "http://www.cs.ucsb.edu/~martin/techreport/index.html",
+        "http://www.cs.ucsb.edu/Courses/cs270a"
+    ],
+    "ground_truth": "faculty"
+}

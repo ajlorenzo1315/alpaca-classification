@@ -1,0 +1,10 @@
+{
+    "Title": "About Dr. Tom Cheatham",
+    "Body": "\"Software Testing:  A Machine Learning Experiment,\" joint with Nancy Wahl and Jungsoon Yoo, at the 24th Annual ACM Computer Science Conference, Nashville, Tennessee, 1995.",
+    "link": [
+        "mailto:cheatham@knuth.mtsu.edu",
+        "http://www.mtsu.edu/help.html",
+        "http://www.mtsu.edu/comment.html"
+    ],
+    "ground_truth": "faculty"
+}

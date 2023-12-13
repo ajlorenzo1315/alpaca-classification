@@ -1,0 +1,10 @@
+{
+    "Title": " Faculty Index ",
+    "Body": "Date: Tue, 14 Jan 1997 22:32:32 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Mon, 11 Nov 1996 19:40:25 GMT Content-length: 6677 Faculty Index Staff Directory Student Directory CS Department Univ.",
+    "link": [
+        "http://www.cs.pitt.edu/Directories/staff.html",
+        "http://www.cs.pitt.edu/Directories/gradnew.html",
+        "http://www.cs.pitt.edu/index.html"
+    ],
+    "ground_truth": "other"
+}

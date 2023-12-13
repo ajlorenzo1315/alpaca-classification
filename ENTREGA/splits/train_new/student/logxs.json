@@ -1,0 +1,10 @@
+{
+    "Title": " Eugenia Kuznetsova, Thing in Itself ",
+    "Body": "Date: Tue, 26 Nov 1996 03:47:05 GMT Server: NCSA/1.4.1 Content-type: text/html Last-modified: Wed, 18 Sep 1996 14:09:51 GMT Content-length: 996 Eugenia Kuznetsova, Thing in Itself Eugenia Kuznetsova Do you want to know more about me , or about my interests ?",
+    "link": [
+        "http://sparky.cs.nyu.edu:1812/person.html",
+        "http://sparky.cs.nyu.edu:1812/interest.html",
+        "http://sparky.cs.nyu.edu:1812/resume.html"
+    ],
+    "ground_truth": "student"
+}

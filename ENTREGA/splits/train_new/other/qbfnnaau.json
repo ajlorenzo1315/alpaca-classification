@@ -1,0 +1,10 @@
+{
+    "Title": "Quote of the Week",
+    "Body": "La Vaca.",
+    "link": [
+        "http://www.cs.washington.edu/homes/sds/quote-old.html",
+        "http://www.eecs.nwu.edu/cgi-bin/deepthought",
+        "http://www.cs.washington.edu/homes/sds/fridge.html"
+    ],
+    "ground_truth": "other"
+}

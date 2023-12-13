@@ -1,0 +1,10 @@
+{
+    "Title": "Jose Luis Fernandez Home Page",
+    "Body": "#E17B Ithaca, NY 14850 E-Mail: joseluis@cs.cornell.edu If you were using a Java-enabled browser, you would see an animated scrolling text sign: Resume Curriculum Vitae Interests My current interests are Distributed Systems, Multimedia,and Computer Graphics.",
+    "link": [
+        "http://www.cs.cornell.edu/Info/People/joseluis/joseluis.gif",
+        "http://www.microsoft.com",
+        "mailto:joseluis@cs.cornell.edu"
+    ],
+    "ground_truth": "student"
+}

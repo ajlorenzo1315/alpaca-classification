@@ -1,0 +1,10 @@
+{
+    "Title": "22c162 Course Page ",
+    "Body": "Please check out our Computer Vision Handbook Staff The instructor is Margaret Fleck .",
+    "link": [
+        "http://www.uiowa.edu",
+        "http://www.cs.uiowa.edu",
+        "http://www.cs.uiowa.edu/~mfleck/vision-html/handbook/vision.html"
+    ],
+    "ground_truth": "unknow"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "CS 152:  Neural Networks",
+    "Body": "The historical importance of this book will be discussed in the course.",
+    "link": [
+        "http://www.hmc.edu/",
+        "http://www.cs.hmc.edu/index.html",
+        "http://www.cs.hmc.edu/~keller"
+    ],
+    "ground_truth": "course"
+}

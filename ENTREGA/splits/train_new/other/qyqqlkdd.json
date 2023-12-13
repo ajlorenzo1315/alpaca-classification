@@ -1,0 +1,10 @@
+{
+    "Title": "CIRCA",
+    "Body": "To combine unrestricted AI techniques with the ability to make hard performance guarantees, we are investigating a Cooperative Intelligent Real-Time Control Architecture (CIRCA).",
+    "link": [
+        "http://ai.eecs.umich.edu/",
+        "http://www.eecs.umich.edu:80/RTCL/",
+        "http://ai.eecs.umich.edu/people/durfee/durfee.html"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Dave Moriarty",
+    "Body": "The system may return a payoff for each decision made or for a sequence of decisions.",
+    "link": [
+        "http://www.cs.utexas.edu/users/moriarty/moriarty-papers.html",
+        "http://www.tulane.edu/",
+        "http://www.cs.utexas.edu/users/nn"
+    ],
+    "ground_truth": "unknow"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": " CS414 Summer 96 Home Page ",
+    "Body": ": CS314 or permission of instructor Instructor: Induprakas Kodukula <prakas@CS.Cornell.Edu> Teaching Assistant: Nawaaz Ahmed <nawaaz@CS.Cornell.Edu> [ MOTD ] [ MOTD Archive ] Subject Description Prerequsites Course Outline Textbooks Course Schedule Quizzes & Grading Policy Statement on Collaboration Office Hours Course Material Send Comments 1 Subject Description CS414 Systems Programming and Operating Systems An introduction to the logical design of systems programs, with emphasis on multiprogrammed operating systems.",
+    "link": [
+        "http://www.cs.cornell.edu/home/prakas/home.html",
+        "http://www.cs.cornell.edu/home/prakas/cs414/MOTD",
+        "http://www.cs.cornell.edu/home/prakas/cs414/MOTDarchive"
+    ],
+    "ground_truth": "course"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Bill Murdock",
+    "Body": "In this project, my work centers around Interactive Kritik, an AI design system which currently acts as the intelligent agent at the core of the HIPED system.",
+    "link": [
+        "http://www.cc.gatech.edu/ai/",
+        "http://www.cc.gatech.edu/cogsci/",
+        "http://www.cc.gatech.edu/"
+    ],
+    "ground_truth": "student"
+}

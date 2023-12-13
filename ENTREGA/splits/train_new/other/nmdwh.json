@@ -1,0 +1,8 @@
+{
+    "Title": "CS514: Homework 3",
+    "Body": "This assignment requires using ftp to connect to machines outside the CS Department firewall.",
+    "link": [
+        "hw.03.news.html"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Dmitry Mikulin's home page.",
+    "Body": "Date: Tue, 26 Nov 1996 17:51:58 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Wed, 02 Oct 1996 16:12:51 GMT Content-length: 624 Dmitry Mikulin's home page.",
+    "link": [
+        "http://www.cs.pitt.edu/",
+        "http://www.pitt.edu/",
+        "mailto:mikulin@cs.pitt.edu"
+    ],
+    "ground_truth": "student"
+}

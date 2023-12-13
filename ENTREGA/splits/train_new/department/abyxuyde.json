@@ -1,0 +1,10 @@
+{
+    "Title": "Colgate University Department of Computer Science",
+    "Body": "Date: Tuesday, 26-Nov-96 ?",
+    "link": [
+        "http://www2.colgate.edu/imagemaps/cwishead.map",
+        "http://cs.colgate.edu/csdept/welcome2.html",
+        "http://cs.colgate.edu/csdept/about.html"
+    ],
+    "ground_truth": "department"
+}

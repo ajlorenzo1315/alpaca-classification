@@ -1,0 +1,10 @@
+{
+    "Title": "\n    The Church Project:\n    A Functional Programming Language Using Intersection Types \n  ",
+    "Body": "Joe Wells coordinates the seminar.",
+    "link": [
+        "http://www.cs.bu.edu/groups/church/seminar-schedule.html",
+        "http://www.cs.bu.edu/groups/church/reports/",
+        "http://www.cs.bu.edu/groups/church/bibliography/"
+    ],
+    "ground_truth": "project"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "CS472 Home Page",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Sunday, 01-Dec-96 19:29:08 GMT Content-Type: text/html Content-Length: 1202 Last-Modified: Friday, 22-Dec-95 23:09:13 GMT CS472 Home Page CS472 Foundations of Artificial Intelligence Computer Science Department Cornell University Fall 1995 Welcome to CS472!",
+    "link": [
+        "http://www.cs.cornell.edu/Info/Courses/Fall-95/CS472/info.html",
+        "http://www.cs.cornell.edu/Info/Courses/Fall-95/CS472/course-materials.html",
+        "http://www.cs.cornell.edu/Info/Courses/Fall-95/CS472/acad_integ.html"
+    ],
+    "ground_truth": "course"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "\n\nLibby's Home Page\n\n",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Wednesday, 20-Nov-96 19:36:34 GMT Content-Type: text/html Content-Length: 1178 Last-Modified: Saturday, 07-Sep-96 19:25:50 GMT Libby's Home Page Welcome to Libby's Home Page !",
+    "link": [
+        "theme.au",
+        "helen2.mov",
+        "readlist.txt"
+    ],
+    "ground_truth": "student"
+}

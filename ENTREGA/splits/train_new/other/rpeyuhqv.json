@@ -1,0 +1,10 @@
+{
+    "Title": "Yi-Cheng Huang's Favori Links Page",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Sunday, 01-Dec-96 18:42:24 GMT Content-Type: text/html Content-Length: 6208 Last-Modified: Thursday, 14-Nov-96 18:40:26 GMT Yi-Cheng Huang's Favori Links Page Favorite Links Formosa National Taiwan University Computer Science & Information Engineering Dept., NTU The NTU CSIE WWW Site Taipei Municipal Chien Kuo Senior High School Cultural Division, TECO in Houston Taiwan Indenpendence Party UFO News World China Times (Taiwan) China Times (US) Chinese Media Information Net Taiwan Chinese Web Home Page Sina Net Chinese Cyber City CNN New York Times USA Today Pictures Hacking Games American Go Association NNGS Home Page Yahoo's Computer Games Page WWW Search Engines My Yahoo Yahoo Excite HotBot Lycos Inktomi Total Search Archie Request Form Investments Stocks Fidelity Investments Home Page My Friends !",
+    "link": [
+        "http://www.ntu.edu.tw",
+        "http://www.csie.ntu.edu.tw",
+        "http://ntucss.csie.ntu.edu.tw"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": " Faculty Research Interests : Sam Toueg ",
+    "Body": "In collaboration with Tushar Chandra and Prasad Jayanti , two Ph.D. Computer Science students, we continued our work on unreliable failure detectors for message-passing systems , and on wait-free objects for shared-memory systems.",
+    "link": [
+        "http://www.cs.cornell.edu/Info/People/sam/pictures/scuba.gif",
+        "http://www.cs.cornell.edu/Info/People/sam/pictures/Mot1.gif",
+        "http://www.cs.cornell.edu/Info/People/sam/pictures/Mot2.gif"
+    ],
+    "ground_truth": "faculty"
+}

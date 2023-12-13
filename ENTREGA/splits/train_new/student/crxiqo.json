@@ -1,0 +1,10 @@
+{
+    "Title": " Aashu's home page ",
+    "Body": "A copy of my resume.",
+    "link": [
+        "http://paul.rutgers.edu/~avirmani/pics/av.gif",
+        "http://athos.rutgers.edu/",
+        "http://www.rutgers.edu"
+    ],
+    "ground_truth": "student"
+}

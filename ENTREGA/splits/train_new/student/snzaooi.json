@@ -1,0 +1,10 @@
+{
+    "Title": "Bob McGrail's Home Page",
+    "Body": "I am a graduate student in both the mathematics and computer science departments at Wesleyan University .",
+    "link": [
+        "../../",
+        "http://www.cs.wesleyan.edu/",
+        "http://www.wesleyan.edu/"
+    ],
+    "ground_truth": "student"
+}

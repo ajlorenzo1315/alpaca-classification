@@ -1,0 +1,10 @@
+{
+    "Title": " CS211 Lecture Notes ",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Sunday, 24-Nov-96 22:34:20 GMT Content-Type: text/html Content-Length: 886 Last-Modified: Friday, 22-Nov-96 16:26:42 GMT CS211 Lecture Notes Lecture Notes Lectures are currently in postscript format.",
+    "link": [
+        "lecture1.ps",
+        "lecture2.ps",
+        "lectures3-7.ps"
+    ],
+    "ground_truth": "unknow"
+}

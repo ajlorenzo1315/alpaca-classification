@@ -1,0 +1,10 @@
+{
+    "Title": "Alejandro Vazquez",
+    "Body": "Previous Education includes a Master of Arts and Science in Computer Science from NMSU(1995), and a Bachelor in Science Degree in Science in Computer Science (1991) from the department of Computer Science at the University of Texas at El Paso.",
+    "link": [
+        "http://www.cs.nmsu.edu/~avazquez/project.ps",
+        "http://www.mathsoft.com",
+        "http://www.frame.com"
+    ],
+    "ground_truth": "student"
+}

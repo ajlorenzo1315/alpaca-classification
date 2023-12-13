@@ -1,0 +1,10 @@
+{
+    "Title": "Faculty Research Interests: Dexter Kozen",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Wednesday, 20-Nov-96 18:57:50 GMT Content-Type: text/html Content-Length: 2140 Last-Modified: Thursday, 14-Nov-96 19:02:07 GMT Faculty Research Interests: Dexter Kozen Dexter Kozen Joseph Newton Pew, Jr.",
+    "link": [
+        "http://www.cs.cornell.edu/Info/People/kozen/papers/papers.html#1",
+        "http://www.cs.cornell.edu/Info/People/kozen/papers/papers.html#2",
+        "http://www.cs.cornell.edu/Info/People/kozen/papers/papers.html#3"
+    ],
+    "ground_truth": "faculty"
+}

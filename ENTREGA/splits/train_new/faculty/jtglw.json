@@ -1,0 +1,10 @@
+{
+    "Title": "Karl Lieberherr's WWW Home  ",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Thursday, 21-Nov-96 19:21:30 GMT Content-Type: text/html Content-Length: 2061 Last-Modified: Thursday, 19-Sep-96 14:21:41 GMT Karl Lieberherr's WWW Home Welcome to my home page.",
+    "link": [
+        "http://www.ccs.neu.edu/home/lieber/demeter.html",
+        "http://www.ccs.neu.edu/home/lieber/tapos.html",
+        "http://www.ccs.neu.edu/home/lieber/book.html"
+    ],
+    "ground_truth": "faculty"
+}

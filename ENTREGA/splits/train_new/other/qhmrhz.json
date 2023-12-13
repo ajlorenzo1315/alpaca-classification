@@ -1,0 +1,10 @@
+{
+    "Title": "UW Madison Computer Science Technical Reports",
+    "Body": "Date: Wed, 11 Dec 1996 23:14:14 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Mon, 19 Feb 1996 22:31:18 GMT Content-length: 2481 UW Madison Computer Science Technical Reports Networked Computer Science Technical Reports Library The Fielded Search Form allows you to perform a search on several fields of the bibliographic data, and/or to limit the search to specific institutions, Or simply enter one or several words into the box below to search author, title, and abstract: Or browse reports at UW Madison by author or by year , or at any of the other participating institutions .",
+    "link": [
+        "/Dienst/UI/2.0/Search",
+        "/Dienst/htdocs/dienst_runtime/search_help.html",
+        "http://www.cs.wisc.edu/Dienst/UI/2.0/BrowseAuthors?authority=ncstrl.uwmadison"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "\nTAs for CS304P\n",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Monday, 06-Jan-97 20:50:51 GMT Content-Type: text/html Content-Length: 3017 Last-Modified: Thursday, 10-Oct-96 16:12:18 GMT TAs for CS304P TAs for CS304P Name E-mail Off.",
+    "link": [
+        "http://www.cs.utexas.edu/users/nimar",
+        "mailto:nimar@cs.utexas.edu",
+        "http://www.cs.utexas.edu/users/dwip/welcome.html"
+    ],
+    "ground_truth": "other"
+}

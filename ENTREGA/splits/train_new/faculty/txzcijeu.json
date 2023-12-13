@@ -1,0 +1,10 @@
+{
+    "Title": "Joe Halpern's Home Page",
+    "Body": "I recently gave a talk in the economics department at Princeton where I described myself as someone with a Ph.D. in mathematics, who calls himself a computer scientist, and is giving a talk to economists about a subject mainly studied by philosophers.",
+    "link": [
+        "http://www.cs.cornell.edu/Info/People/halpern/node8.html",
+        "http://www.cs.cornell.edu/Info/People/halpern/jhresume.html",
+        "http://www.cs.cornell.edu/Info/People/halpern/rak.html"
+    ],
+    "ground_truth": "faculty"
+}

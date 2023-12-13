@@ -1,0 +1,10 @@
+{
+    "Title": "SPIN publications",
+    "Body": "SPIN - An Extensible Microkernel for Application-specific Operating System Services , Brian Bershad , Craig Chambers , Susan Eggers , Chris Maeda , Dylan McNamee , Przemyslaw Pardyak , Stefan Savage , Emin Gun Sirer , University of Washington, Technical Report TR-94-03-03, extended abstract appears in \"Proceedings of the Sixth SIGOPS European Workshop on Matching Operating Systems to Application Needs\" , Operating Systems Review, January 1995, v 29, no 1.",
+    "link": [
+        "http://www.cs.washington.edu/homes/mef",
+        "http://www.cs.washington.edu/homes/bershad",
+        "http://www.cs.washington.edu/research/projects/spin/www/papers/Usenix96/extprotarch.html"
+    ],
+    "ground_truth": "unknow"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Induprakas's Bookmarks",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Sunday, 01-Dec-96 20:25:21 GMT Content-Type: text/html Content-Length: 13054 Last-Modified: Saturday, 23-Nov-96 21:50:11 GMT Induprakas's Bookmarks Induprakas's Bookmarks Research Conference Announcements - Computer Science DAGH: A Data-Management Infrastructure for Parallel Adaptive Mesh-Refinement Techniques Distributed Shared Memory Home Pages Eduard Ayguade Home Page MCRC Technical Reports Naraig Manjikian's Home Page OTIS SYNERGY collab projects Pointers to Thread Programming Info Random IRISA techreports SEL-HPC Compilers & Interpreters Archive The Collection of Computer Science Bibliographies The MOSIX Multicomputer System Threads Newspapers and Magazines All India Radio Electronic Telegraph Indian Express Home Page The New York Times on the Web Welcome to Times Newspapers Ltd. Internet Space Comics/Fun stuff Banned Books On-line Bay Area Restaurant Guide Index of All ST:TNG Episodes Snoopy's Dog House The Art.Net Gallery...",
+    "link": [
+        "http://www.iao.fhg.de/Library/conferences/subjects/Computer_Science.tab.html",
+        "http://godel.ph.utexas.edu/Members/parashar/DAGH/dagh.html",
+        "http://www.cs.umd.edu/users/keleher/dsm.html"
+    ],
+    "ground_truth": "unknow"
+}

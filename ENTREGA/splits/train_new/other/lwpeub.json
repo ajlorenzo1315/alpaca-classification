@@ -1,0 +1,10 @@
+{
+    "Title": "Ken Harker - Vita",
+    "Body": "\"The Design and Development of Interactive Multimedia Conference Proceedings.\"",
+    "link": [
+        "mailto:kharker@cs.utexas.edu",
+        "http://www.ssc.com/lj/issue26/index.html",
+        "http://www.acm.org/pubs/tois/"
+    ],
+    "ground_truth": "other"
+}

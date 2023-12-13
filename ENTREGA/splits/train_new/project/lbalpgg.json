@@ -1,0 +1,10 @@
+{
+    "Title": "OCEANS Research Group at Boston University",
+    "Body": "Date: Wed, 20 Nov 1996 19:06:00 GMT Server: NCSA/1.5 Content-type: text/html OCEANS Research Group at Boston University O bject C aching E nvironments for A pplications and N etwork S ervices R esearch O verview R esearch P rojects R ecent P ublications T he O ceanographers B ibTex D atabase P ointers of I nterest CS-835: S eminar O n N etworked C omputing S ystems Maintainer: A.Bestavros Created on: 1994.05.02 Updated on: 1996.08.18 Visitor No: 2836",
+    "link": [
+        "http://www.cs.bu.edu/groups/oceans/interests/Home.html",
+        "http://www.cs.bu.edu/groups/oceans/interests/Projects.html",
+        "http://www.cs.bu.edu/groups/oceans/papers/Home.html"
+    ],
+    "ground_truth": "project"
+}

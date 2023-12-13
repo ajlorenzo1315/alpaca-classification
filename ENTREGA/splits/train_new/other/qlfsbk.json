@@ -1,0 +1,10 @@
+{
+    "Title": "CS302 E-mail Information",
+    "Body": "Sending E-mail to Your Instructor You are welcomed to send e-mail to me, and I will do my best to answer your questions or other concerns promptly.",
+    "link": [
+        "#list",
+        "",
+        "http://www.cs.wisc.edu/~melski/melski.html"
+    ],
+    "ground_truth": "other"
+}

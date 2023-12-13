@@ -1,0 +1,10 @@
+{
+    "Title": "Ryan Stansifer",
+    "Body": "The hypermedia document Trestle by Example is a description of the Modula-3 library Trestle.",
+    "link": [
+        "http://www.cs.fit.edu/~ryan/ryan-fit.jpg",
+        "http://www.cs.fit.edu",
+        "http://www.fit.edu"
+    ],
+    "ground_truth": "faculty"
+}

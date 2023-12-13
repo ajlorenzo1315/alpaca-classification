@@ -1,0 +1,10 @@
+{
+    "Title": "\nCS418 Lab 7\n",
+    "Body": "The program Volume.net gives an example of two volume textures; stripes and noise (see Images 3a+b ).",
+    "link": [
+        "http://www.tc.cornell.edu/Visualization/Education/cs418/labs/imageRead1994.net",
+        "http://www.tc.cornell.edu/Visualization/Education/cs418/labs/imageRead1994.cfg",
+        "http://www.tc.cornell.edu/Visualization/Education/cs418/labs/Image2Texmap.net"
+    ],
+    "ground_truth": "other"
+}

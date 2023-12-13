@@ -1,0 +1,10 @@
+{
+    "Title": "Gaetano Borriello - Useful WWW Resources",
+    "Body": "Date: Tue, 10 Dec 1996 14:45:24 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Fri, 07 Jun 1996 12:05:18 GMT Content-length: 4634 Gaetano Borriello - Useful WWW Resources Gaetano Borriello's list of useful WWW resources Professional Organizations Association for Computing Machinery (ACM) ACM Special Interest Group on Design Automation (SIGDA) Institute of Electrical and Electronics Engineers (IEEE) IEEE Computer Society Computing Research Association (CRA) Government Organizations National Science Foundation Advanced Research Projects Agency Executive Branch: The White House Legislative Branch: The Congress of the United States Publications Table of contents for IEEE magazines and transactions Carnegie-Mellon University: CS Technical Reports Sun Microsystems: Technical Reports Rutgers: MOBIDATA - An Internet Journal Computer Science bibliography Prentice-Hall Catalog Catalog of computer books Internet Book Shop Libraries UW Information Navigator (you'll need a \"telnet\" application) University of Washington Libraries Internet Public Library at the University of Michigan Library of Congress Patent Information Stanford: Campus Wide Information System - Portfolio News, Magazines, etc.",
+    "link": [
+        "http://acm.org/",
+        "http://kona.ee.pitt.edu",
+        "http://www.ieee.org/"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Charles R. Dyer's Home Page",
+    "Body": "Computer Vision and Pattern Recognition Conf.",
+    "link": [
+        "http://www.cs.wisc.edu/~dyer/images/family-interlaced.gif",
+        "http://www.cs.wisc.edu/",
+        "http://wiscinfo.wisc.edu/"
+    ],
+    "ground_truth": "faculty"
+}

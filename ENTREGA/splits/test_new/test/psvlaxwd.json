@@ -1,0 +1,10 @@
+{
+    "Title": "\nSpecialized Parallel Architectures Research Group\n",
+    "Body": "This research group is involved in building high-performance application-specific parallel architectures and software for heterogeneous systems.",
+    "link": [
+        "http://spa-www.cs.umass.edu/MISTE.html",
+        "http://saa-www.cs.umass.edu/~scale",
+        "http://www-osl.cs.umass.edu/~oos"
+    ],
+    "ground_truth": "unknow"
+}

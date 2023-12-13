@@ -1,0 +1,10 @@
+{
+    "Title": "Introduction to Mathematical Logic",
+    "Body": "Text: Problems and Theorems in Logic by Vladimir Lifschitz.",
+    "link": [
+        "mailto:vl@cs.utexas.edu",
+        "http://www.cs.utexas.edu/users/vl/logic.ps",
+        "http://www.cs.utexas.edu/users/vl"
+    ],
+    "ground_truth": "other"
+}

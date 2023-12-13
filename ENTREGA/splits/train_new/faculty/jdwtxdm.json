@@ -1,0 +1,10 @@
+{
+    "Title": " Olof B. Widlund",
+    "Body": "His primary concern has been new algorithms and mathematical tools for their analysis.",
+    "link": [
+        "http://cs.nyu.edu/cs/faculty/widlund/papers.html",
+        "http://cs.nyu.edu/cs/faculty/widlund/students.html",
+        "file://cs.nyu.edu/pub/tech-reports/tr.html"
+    ],
+    "ground_truth": "faculty"
+}

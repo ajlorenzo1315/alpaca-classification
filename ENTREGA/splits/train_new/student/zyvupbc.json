@@ -1,0 +1,10 @@
+{
+    "Title": "Patrice Caire",
+    "Body": "See the article in the NYU Electronic Journal of Sciences and Arts .",
+    "link": [
+        "mailto:caire@cs.nyu.edu",
+        "http://ejournal.nyu.edu/caire/index.html",
+        "http://ejournal.nyu.edu/"
+    ],
+    "ground_truth": "student"
+}

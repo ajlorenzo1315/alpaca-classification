@@ -1,0 +1,10 @@
+{
+    "Title": "Fantasy and Science Fiction",
+    "Body": "Also, stuff is further organized by authors, so authors end up where I feel like their work that I read belongs, although there may be some overlap between fantasy and sf in the listings.",
+    "link": [
+        "http://www.cs.utexas.edu/users/dastuart/fictiondir/sfdir/spaceopera.html\n",
+        "http://www.cs.utexas.edu/users/dastuart/fictiondir/sfdir/\nmilsf.html\n",
+        "http://www.cs.utexas.edu/users/dastuart/fictiondir/sfdir/\nhardsf.html\n"
+    ],
+    "ground_truth": "unknow"
+}

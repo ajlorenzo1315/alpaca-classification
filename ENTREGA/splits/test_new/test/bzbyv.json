@@ -1,0 +1,10 @@
+{
+    "Title": "A new Algorithm for Semantics-Based Program Integration ",
+    "Body": "The new integration algorithm improves on the integration algorithm of Horwitz, Prins, and Reps in that there are classes of program modifications for which their algorithm reports interference while the new integration algorithm produces satisfactory integrated programs.",
+    "link": [
+        "http://www.cs.wisc.edu/Dienst/Repository/2.0/Body/ncstrl.uwmadison%2fCS-TR-90-962/html",
+        "http://www.cs.wisc.edu/Dienst/UI/2.0/Search",
+        "mailto: www@cs.wisc.edu"
+    ],
+    "ground_truth": "unknow"
+}

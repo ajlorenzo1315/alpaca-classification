@@ -1,0 +1,10 @@
+{
+    "Title": "CS 664:  How to Scribe",
+    "Body": "What we need is the final postscript file, the LaTeX file, and the EPS files for any of the figures you created.",
+    "link": [
+        "howto/lec3.tex",
+        "howto/graph2.eps",
+        "howto/barn-scene.eps"
+    ],
+    "ground_truth": "other"
+}

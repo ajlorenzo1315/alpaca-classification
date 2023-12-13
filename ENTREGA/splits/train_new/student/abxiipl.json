@@ -1,0 +1,10 @@
+{
+    "Title": "Karen L Payne's home page",
+    "Body": "Who is Karen L Payne?",
+    "link": [
+        "http://www.cs.nmsu.edu/~kapayne/index.html",
+        "http://crl.nmsu.edu/Lab/Personnel/payne.html",
+        "http://landru.unx.com/DD/advisor/docs/jun95/jun95.dutt.shtml"
+    ],
+    "ground_truth": "student"
+}

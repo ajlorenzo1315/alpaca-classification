@@ -1,0 +1,10 @@
+{
+    "Title": "Dave Grove Publications",
+    "Body": "Whole-Program Optimization of Object-Oriented Languages Chambers, Dean, and Grove.",
+    "link": [
+        "http://www.cs.washington.edu/research/projects/cecil/www/Papers/hybrid.html",
+        "http://www.cs.washington.edu/research/projects/cecil/www/Papers/cascon95.html",
+        "http://www.cs.washington.edu/research/projects/cecil/www/Papers/profiles.html"
+    ],
+    "ground_truth": "other"
+}

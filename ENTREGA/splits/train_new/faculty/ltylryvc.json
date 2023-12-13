@@ -1,0 +1,10 @@
+{
+    "Title": "Meera Sitharam",
+    "Body": "with Luke Hannah (NSF REU): ``Purely combinatorial switching lemmas'' with Dawn Hines ( NSF/CRA Mentor project ): ``Algebraic aspects of distance constraint problems'' with Karen Mcevoy (NSF REU): ``A graphics tool for visualizing algebraic and geometric manipulation of bi-variate polynomials'' with Lynn Robitaille (NSF/CRA Mentor project): ``Lengths of curves, relation to fractal dimension, and subdivision methods for generation'' Preprint Grants, and  Awards NSF Research Initiation Award for 3 years starting September 1994 Research and Creativity summer grant for summer 1993 awarded by Kent State University Humboldt Fellowship, 1990-1991 awarded by the Alexander von Humboldt Foundation, W. Germany Courses Taught Automata and formal languages Complexity theory Theory of Computation Discrete Mathematics Algorithms (Intro and Advanced) Data Structures Computational Geometry Research Resources CS Bibliography Search Call For Papers and Deadlines for Conferences Journal Article Search.",
+    "link": [
+        "http://www.mcs.kent.edu/mcsinfo/csbrochure/ruttan.html",
+        "http://www.mcs.kent.edu/mcsinfo/csbrochure/faclist.html",
+        "http://nimitz.mcs.kent.edu/~pwang/index.html"
+    ],
+    "ground_truth": "faculty"
+}

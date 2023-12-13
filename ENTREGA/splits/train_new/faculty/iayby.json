@@ -1,0 +1,10 @@
+{
+    "Title": "David Hutchens' Info Page",
+    "Body": "Server: Netscape-Communications/1.1 Date: Monday, 25-Nov-96 20:39:38 GMT Last-modified: Thursday, 17-Oct-96 21:12:54 GMT Content-length: 1847 Content-type: text/html David Hutchens' Info Page David Hutchens I am a faculty member in the Department of Computer Science at Millersville University.",
+    "link": [
+        "http://cs.millersv.edu/gif.dir/hutchens.gif",
+        "http://cs.millersv.edu/",
+        "http://www.millersv.edu/"
+    ],
+    "ground_truth": "faculty"
+}

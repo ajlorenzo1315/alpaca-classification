@@ -1,0 +1,10 @@
+{
+    "Title": "Tiejun Wang's home page",
+    "Body": "in Computer Science at the Special Class for Gifted Young of the University of Science and Technology of China .",
+    "link": [
+        "http://www.cs.jhu.edu",
+        "http://www.jhu.edu",
+        "http://www.baltimore.com/"
+    ],
+    "ground_truth": "unknow"
+}

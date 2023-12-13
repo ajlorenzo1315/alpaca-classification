@@ -1,0 +1,10 @@
+{
+    "Title": "Linda Torczon",
+    "Body": "In the area of interprocedural analysis and optimization, she has developed techniques for interprocedural constant propagation and recompilation analysis.",
+    "link": [
+        "http://www.cs.rice.edu/MSCP/MSCP.html",
+        "http://www.cs.rice.edu/fortran-tools/DSystem/DSystem.html",
+        "http://www.cs.rice.edu/MSCP/publications.html"
+    ],
+    "ground_truth": "staff"
+}

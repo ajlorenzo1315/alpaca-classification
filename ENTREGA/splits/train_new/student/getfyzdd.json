@@ -1,0 +1,10 @@
+{
+    "Title": "Steven S. Tang's Home Page",
+    "Body": "Date: Tue, 26 Nov 1996 16:24:43 GMT Server: Apache/1.0.5 Content-type: text/html Steven S. Tang's Home Page Steven S. Tang Welcome to My Homepage You are visitor number since Jan. 30, 1996 Steven's Homepage General Information Brief Biography To See My Family WWW HotLinks Projects Advanced Database Project Computer Graphics Project Webology Project Real-Time System Design Object-Oriented Design Constrained Optimization SHRINC Project Prof. Maarten van Emden's Home Page Steven S. Tang Department of Computer Science University of Victoria P.O.",
+    "link": [
+        "http://www.csc.uvic.ca/~stang/ref_cgi/stats.pl.cgi",
+        "http://www.csc.uvic.ca/~stang/bio.html",
+        "http://www.csc.uvic.ca/~stang/FamPicGif.html"
+    ],
+    "ground_truth": "student"
+}

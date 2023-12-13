@@ -1,0 +1,10 @@
+{
+    "Title": "Former Students of Bob Boyer",
+    "Body": "Now at CLInc.",
+    "link": [
+        "http://www.cli.com/staff/resumes/bevier/index.html",
+        "http://www.cli.com",
+        "http://www.cs.twsu.edu/~chou/chou.html"
+    ],
+    "ground_truth": "other"
+}

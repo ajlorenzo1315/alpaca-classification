@@ -1,0 +1,10 @@
+{
+    "Title": "CIS 210 Home Page",
+    "Body": "Quiz 1 Key Sample C++ programs Midterm Key Lab Help Pages B26 C++ Tips 96F How to use the C++ Environment in B26 Klamath.",
+    "link": [
+        "http://www.cs.uoregon.edu/~art",
+        "http://www.cs.uoregon.edu/~sabry/",
+        "http://www.cs.uoregon.edu/~michaelh/"
+    ],
+    "ground_truth": "course"
+}

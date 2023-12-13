@@ -1,0 +1,10 @@
+{
+    "Title": "Parallel and Distributed Computing Group",
+    "Body": "Date: Wed, 20 Nov 1996 19:10:41 GMT Server: NCSA/1.4 Content-type: text/html Last-modified: Mon, 18 Nov 1996 22:11:22 GMT Content-length: 4066 Parallel and Distributed Computing Group Parallel and Distributed Computing Group Professor: Jehoshua (Shuki) Bruck Graduate Students: Vasken Bohossian Charles Chenggong Fan Michael Gibson Paul LeMahieu Marc Riedel Lihao Xu Our research group is focusing on a number of fundamental issues related to the design of novel algorithms, protocols and architectures that enable efficient fault-tolerant parallel and distributed computing for scientific and commercial applications.",
+    "link": [
+        "http://paradise.caltech.edu/bruck.html",
+        "http://paradise.caltech.edu/~vincent",
+        "http://paradise.caltech.edu/~fan"
+    ],
+    "ground_truth": "project"
+}

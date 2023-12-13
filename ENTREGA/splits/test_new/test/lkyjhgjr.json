@@ -1,0 +1,6 @@
+{
+    "Title": "Smalltalk quiz sample solution",
+    "Body": "^ self class real: r imaginary: i Number Instance Methods addWithComplex aComplexNumber ^ (ComplexNumber real: self imaginary: 0) add: aComplexNumber cse341-webmaster@cs.washington.edu",
+    "link": [],
+    "ground_truth": "unknow"
+}

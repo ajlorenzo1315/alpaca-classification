@@ -1,0 +1,10 @@
+{
+    "Title": "CS/ECE 752 Fall 1996-1997",
+    "Body": "Examining tradeoffs requires that you already know how to design a correct computer, as is taught is the important prerequisite CS/ECE 552.",
+    "link": [
+        "http://www.cs.wisc.edu/~markhill/",
+        "http://www.cs.wisc.edu/~jshabel/",
+        "#new"
+    ],
+    "ground_truth": "course"
+}

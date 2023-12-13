@@ -1,0 +1,10 @@
+{
+    "Title": "Benjamin Watson Home Page",
+    "Body": "Support How I've been paying for this education thing.",
+    "link": [
+        "http://www.cc.gatech.edu/gvu/people/Phd/Benjamin.Watson/subpages/deliverables.html",
+        "http://www.cc.gatech.edu/gvu/people/Phd/Benjamin.Watson/subpages/research.html",
+        "http://www.cc.gatech.edu/gvu/people/Phd/Benjamin.Watson/subpages/education.html"
+    ],
+    "ground_truth": "student"
+}

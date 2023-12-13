@@ -1,0 +1,10 @@
+{
+    "Title": "Polish Home Page",
+    "Body": "); Polish Airlines LOT -- On-Line telnet data base Polish Railway PKP schedules Information for: Krakow Wroclaw Glowny Gliwice, Katowice, Bytom Lodz Kaliska, Fabryczna and Buses PKP - Information and tariffs The Polish Train Page Polish National Tourist Office Internet, Computers Polish Internet Society Information concerning the new price-list of NASK Map of Polish WWW Servers List of Polish WWW Servers (in Poland and abroad) Database of users e-mail addresses.",
+    "link": [
+        "http://info.fuw.edu.pl/pl/PolskaHome.html",
+        "http://info.fuw.edu.pl/MMosaic/MMosaic.html",
+        "http://info.fuw.edu.pl/national.html"
+    ],
+    "ground_truth": "other"
+}

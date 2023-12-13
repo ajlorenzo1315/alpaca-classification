@@ -1,0 +1,10 @@
+{
+    "Title": "William Chan's Home Page",
+    "Body": "Date: Thu, 21 Nov 1996 23:03:39 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Mon, 03 Jun 1996 07:51:42 GMT Content-length: 583 William Chan's Home Page William Chan's Home Page I spend most of my time in the Hell .",
+    "link": [
+        "http://www.cs.washington.edu/homes/wchan/work/",
+        "http://www.cs.washington.edu/homes/wchan/photo/",
+        "mailto:wchan@cs.washington.edu"
+    ],
+    "ground_truth": "student"
+}

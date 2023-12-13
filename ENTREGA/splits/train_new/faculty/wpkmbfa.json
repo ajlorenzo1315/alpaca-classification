@@ -1,0 +1,10 @@
+{
+    "Title": "Will Clinger's CCS Home Page",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Thursday, 21-Nov-96 19:22:21 GMT Content-Type: text/html Content-Length: 1248 Last-Modified: Monday, 07-Oct-96 20:59:40 GMT Will Clinger's CCS Home Page William D Clinger Teaching The distinction between working code, correct code, and good code.",
+    "link": [
+        "http://www.ccs.neu.edu/home/will/com1390/goodcode.html",
+        "http://www.ccs.neu.edu/home/will/com1370/index.html",
+        "http://www.ccs.neu.edu/home/will/com1390/index.html"
+    ],
+    "ground_truth": "faculty"
+}

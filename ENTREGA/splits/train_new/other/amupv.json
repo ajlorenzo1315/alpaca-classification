@@ -1,0 +1,10 @@
+{
+    "Title": "Getting Started in CS367",
+    "Body": "Further instructions are provided in the samples page for getting a copy of sample code files such as for this case tictactoe.cc.",
+    "link": [
+        "http://www.cs.wisc.edu/~cs367-4/working/mkdir.html",
+        "http://www.cs.wisc.edu/~cs367-4/samples.html",
+        "http://www.cs.wisc.edu/~cs367-4/working/edit.html"
+    ],
+    "ground_truth": "other"
+}

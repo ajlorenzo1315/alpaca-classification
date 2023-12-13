@@ -1,0 +1,10 @@
+{
+    "Title": " Pardo's humor page ",
+    "Body": "The (click here only if you want to be offended) Microsoft Hate Page Net.collectibles The Oracle!",
+    "link": [
+        "http://www.athenanow.com/cgi-bin/engine.cgi",
+        "http://www.cs.washington.edu/homes/pardo/humor.d/sex.html",
+        "http://www.zeta.org.au/~andrewa/aja64.htm"
+    ],
+    "ground_truth": "other"
+}

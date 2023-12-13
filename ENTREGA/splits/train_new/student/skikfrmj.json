@@ -1,0 +1,10 @@
+{
+    "Title": "Scott McCrickard's Home Page",
+    "Body": "Software Visualization is the use of graphics, visualization, and animation as an aid in the understanding of algorithms, architectures, and software.",
+    "link": [
+        "http://www.cc.gatech.edu/CoC.html",
+        "http://www.gatech.edu",
+        "http://www.cc.gatech.edu/gvu/softviz/SoftViz.html"
+    ],
+    "ground_truth": "student"
+}

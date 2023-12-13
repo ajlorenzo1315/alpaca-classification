@@ -1,0 +1,10 @@
+{
+    "Title": " Faculty Research Interests : Brian Smith ",
+    "Body": "Our research on video processing is also exploring methods to simplify experimentation with video processing by developing a programming language where video is a first class data type.",
+    "link": [
+        "#Research",
+        "#Teaching",
+        "#Publications"
+    ],
+    "ground_truth": "faculty"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Scott Breach's Home Page",
+    "Body": "(Computer Engineering) Carnegie Mellon University , 1990 Advisor Guri Sohi Research Interests Computer Architecture Multiscalar Publications Multiscalar Processors Gurindar S. Sohi, Scott E. Breach, T.N.",
+    "link": [
+        "http://www.cs.wisc.edu/cgi-bin/finger?breach",
+        "#addresses",
+        "#education"
+    ],
+    "ground_truth": "student"
+}

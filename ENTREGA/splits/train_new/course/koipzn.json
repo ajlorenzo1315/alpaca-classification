@@ -1,0 +1,10 @@
+{
+    "Title": "CS143: Networks: A Systems Approach",
+    "Body": "Date: Wed, 20 Nov 1996 22:24:44 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Fri, 15 Nov 1996 17:56:43 GMT Content-length: 2473 CS143: Networks: A Systems Approach CS143: Computer Networks (Previous Course Title: \"Networks: A Systems Approach\") Course Description Design, implementation, and performance of computer networks.",
+    "link": [
+        "http://www.eecs.harvard.edu/~htk",
+        "http://www.harvnet.harvard.edu/cs143_reg.html",
+        "http://www.das.harvard.edu/cs/academics/courses/cs143/outline.html"
+    ],
+    "ground_truth": "course"
+}

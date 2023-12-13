@@ -1,0 +1,10 @@
+{
+    "Title": " Joshua Grass ",
+    "Body": "Date: Thu, 21 Nov 1996 23:23:53 GMT Server: NCSA/1.4.2 Content-type: text/html Joshua Grass Joshua Grass Graduate Student Department of Computer Science University of Massachusetts Lederle Graduate Research Center, Room A205 Amherst, MA 01003-4610 voice: 1-413-545-0675 jgrass@cs.umass.edu Who is this guy?",
+    "link": [
+        "http://www.cs.umass.edu",
+        "http://www.cs.umass.edu/rcfdocs/newhome/index.html",
+        "http://anytime.cs.umass.edu/~jgrass/personal/mail.html"
+    ],
+    "ground_truth": "student"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Prof. Robin Popplestone (pop@cs.umass.edu)",
+    "Body": "His pioneering work in robotics and computer language design were recognised when he was selected to be one of the founding fellows of the AAAI.",
+    "link": [
+        "http://piglet.cs.umass.edu:4321/~pop/approach.html",
+        "http://piglet.cs.umass.edu:4321/~pop/robot_web.html",
+        "http://piglet.cs.umass.edu:4321/~pop/functional.html"
+    ],
+    "ground_truth": "faculty"
+}

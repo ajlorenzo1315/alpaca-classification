@@ -1,0 +1,10 @@
+{
+    "Title": "CS 345 (Wilson)---Class Page",
+    "Body": "The main language we'll be using in this course is Scheme , and by default the implementation to use is RScheme , which is installed on the public cs SPARCs (running Solaris) and RS6000's (running AIX).",
+    "link": [
+        "http://www.cs.utexas.edu/users/oops",
+        "ftp://ftp.cs.utexas.edu/pub/garbage/cs345/syll345.txt",
+        "ftp://ftp.cs.utexas.edu/pub/garbage/cs345/class-notes/declara.txt"
+    ],
+    "ground_truth": "course"
+}

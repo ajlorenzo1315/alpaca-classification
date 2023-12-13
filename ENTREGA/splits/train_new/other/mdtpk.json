@@ -1,0 +1,6 @@
+{
+    "Title": " Lecture notes - Chapter 12 - Exception Handling",
+    "Body": "NOTE:  This implies that there is some hardware notion of the priority for whatever is running (user program, keyboard interrupts, clock interrupt, etc.)",
+    "link": [],
+    "ground_truth": "other"
+}

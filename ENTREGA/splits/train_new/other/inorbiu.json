@@ -1,0 +1,10 @@
+{
+    "Title": "Pizzas For A WWW Gourmet",
+    "Body": "Date: Tue, 10 Dec 1996 22:29:14 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Fri, 31 May 1996 20:20:09 GMT Content-length: 859 Pizzas For A WWW Gourmet Links Links Links Here are URLs which I have collected over time.",
+    "link": [
+        "http://www.cs.washington.edu/homes/vass/Links/exclusive.html",
+        "http://www.cs.washington.edu/homes/vass/Links/information.html",
+        "http://www.cs.washington.edu/homes/vass/Links/fun.html"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Biomedical Computing Laboratory",
+    "Body": "The laboratory provides a multidisciplinary environment for biomedical computing research.",
+    "link": [
+        "http://www.cs.utsa.edu/faculty/rosen.html",
+        "http://www.cs.utsa.edu/research/fhr/fhr.html",
+        "http://www.cs.utsa.edu/research/fhr/derm/telderm.html"
+    ],
+    "ground_truth": "project"
+}

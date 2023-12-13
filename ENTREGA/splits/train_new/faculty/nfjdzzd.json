@@ -1,0 +1,10 @@
+{
+    "Title": "ronald.html",
+    "Body": "Date: Mon, 25 Nov 1996 22:24:57 GMT Server: Apache/1.0.1 Content-type: text/html Content-length: 690 Last-modified: Mon, 09 Jan 1995 01:06:56 GMT ronald.html Dr. Ronald L.  Danielson Ronald L.  Danielson, Associate Professor.",
+    "link": [
+        "ftp://pcsel10.scu.edu/296a",
+        "http://www-comp-eng.scu.edu/faculty.html",
+        "mailto:rdanielson@scuacc.scu.edu"
+    ],
+    "ground_truth": "faculty"
+}

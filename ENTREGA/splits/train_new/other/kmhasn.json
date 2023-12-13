@@ -1,0 +1,10 @@
+{
+    "Title": "\nUtility Models\n",
+    "Body": "Work with Mike Williamson explores how these formal models can be integrated with a least-commitment planning algorithms.",
+    "link": [
+        "http://www.cs.uwm.edu/faculty/haddawy/index.html",
+        "ftp://ftp.cs.washington.edu/pub/ai/haddawy-hanks-aij-submission.ps.Z",
+        "http://www.cs.washington.edu/homes/mikew"
+    ],
+    "ground_truth": "other"
+}

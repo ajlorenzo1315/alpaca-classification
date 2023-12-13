@@ -1,0 +1,10 @@
+{
+    "Title": "CS 766 - Computer Vision",
+    "Body": "Homework #1: Skeletons (Due: October 3) Learn about getting started with the Vista vision software Read the Introduction to Vista Programming manual that is available at DOIT Documentation Corrections to the Original Assignment In Method 1, change condition 1 to be \"at least 3 ...\" instead of \"at least 2 ...\";  this will prevent some types of shapes from disappearing altogether In Method 1, condition 2 should also count as a 0-1 transition the case where NW=0 and N=1 In Method 2, the 3 x 3 matrix c for city-block distance should have infinity (i.e., some large constant), not 0, in the four corners In Method 2, the 3 x 3 matrix c for chessboard distance should have 0, not 1, in the center position TEST IMAGES to be used: (1) /p/vision/images/hw1/DOIT.v (2) /p/vision/images/hw1/hand.v To evaluate your thinning results, you might want to try the following additional experiment using the output of at least one of your tests:  (1) Convert your skeleton image to ubyte format using vconvert , (2) edit (you may need to use Emacs because vi is not \"8-bit clean\") the header of the new image file so that it contains the following lines right after the repn: ubyte line: component_interp: gradient low_threshold: 1 high_threshold: 2 (3) run vlink on this file, and then (4) vsegedges .",
+    "link": [
+        "http://www.cs.wisc.edu/~dyer/",
+        "mailto:dyer@cs.wisc.edu",
+        "http://www.cs.wisc.edu/~so/so.html"
+    ],
+    "ground_truth": "course"
+}

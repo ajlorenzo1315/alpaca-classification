@@ -1,0 +1,10 @@
+{
+    "Title": "On-line Information",
+    "Body": "Date: Tue, 10 Dec 1996 21:19:49 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Wed, 04 Sep 1996 04:32:25 GMT Content-length: 3220 On-line Information Phone References Phone and email directory for the whole USA Yellow Pages for the whole USA Standard References Bartlett's Quotations Grolier's Encyclopedia Roget's Thesaurus Strunk & White's Elements of Style Webster's Dictionary and thesaurus Newspapers and News Services The Atlantic Monthly CNN MSNBC - Microsoft and NBC's joint venture The New York Times The Wall Street Journal The Washington Post Information Links Ahoy!",
+    "link": [
+        "http://www.four11.com",
+        "http://www.yellowpages.com",
+        "http://www.columbia.edu/acis/bartleby/bartlett/"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,9 @@
+{
+    "Title": "Mark S. Johnstone - Publications",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Monday, 06-Jan-97 22:49:11 GMT Content-Type: text/html Content-Length: 814 Last-Modified: Tuesday, 29-Aug-95 22:19:53 GMT Mark S. Johnstone - Publications Mark S. Johnstone - Publications Real-Time garbage collection Paul R. Wilson, Mark S. Johnstone.",
+    "link": [
+        "http://www.cs.utexas.edu/users/oops/papers.html#real-time-gc",
+        "http://www.cs.utexas.edu/users/oops/papers.html#allocsrv"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": " EECS 516 Homepage",
+    "Body": "9 (hardcopy distributed in class) ultrasound notes, Ch.",
+    "link": [
+        "http://www.eecs.umich.edu/~fessler/course/516/01,rules.txt",
+        "http://www.eecs.umich.edu/~fessler/course/516/02,ref,book.txt",
+        "http://www.eecs.umich.edu/~fessler/course/516/03,syl.txt"
+    ],
+    "ground_truth": "course"
+}

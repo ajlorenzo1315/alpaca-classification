@@ -1,0 +1,9 @@
+{
+    "Title": "ShopBot",
+    "Body": "Date: Tue, 10 Dec 1996 17:53:27 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Fri, 07 Jun 1996 23:08:01 GMT Content-length: 323 ShopBot The ShopBot Has Moved If your browser supports Java, please use the new version here .",
+    "link": [
+        "shopbot.html",
+        "shopbot-old.html"
+    ],
+    "ground_truth": "unknow"
+}

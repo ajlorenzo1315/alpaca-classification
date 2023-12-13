@@ -1,0 +1,10 @@
+{
+    "Title": "The Doon School",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Tuesday, 17-Dec-96 00:16:42 GMT Content-Type: text/html Content-Length: 1728 Last-Modified: Thursday, 31-Oct-96 18:39:15 GMT The Doon School The Doon School The Doon School is a residential school, located in Dehra Dun, India .",
+    "link": [
+        "http://www.cs.clemson.edu/~nandu/india.html",
+        "doon/intro.html",
+        "doon/dsobsusa.html"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Reinhard von Hanxleden's Home Page",
+    "Body": "In 1995, he received his Ph.D. in computer science from Rice University.",
+    "link": [
+        "http://www.cs.indiana.edu/finger/cs.rice.edu/reinhard",
+        "ftp://softlib.rice.edu/pub/CRPC-TRs/reports/CRPC-TR94494-S.ps",
+        "http://www.cs.rice.edu/~reinhard/pubs.html"
+    ],
+    "ground_truth": "staff"
+}

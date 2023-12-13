@@ -1,0 +1,10 @@
+{
+    "Title": " Bob Walker's Home Page",
+    "Body": "Date: Thu, 21 Nov 1996 19:08:43 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Fri, 13 Sep 1996 20:36:33 GMT Content-length: 2324 Bob Walker's Home Page Dr. Robert A.",
+    "link": [
+        "http://intrepid.mcs.kent.edu/~walker/mypic.gif",
+        "http://www.mcs.kent.edu",
+        "http://www.kent.edu/"
+    ],
+    "ground_truth": "unknow"
+}

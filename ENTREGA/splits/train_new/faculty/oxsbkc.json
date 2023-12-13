@@ -1,0 +1,10 @@
+{
+    "Title": "Dennis Shasha",
+    "Body": "Date: Tue, 14 Jan 1997 20:08:41 GMT Server: NCSA/1.4.1 Content-type: text/html Last-modified: Sat, 20 Apr 1996 20:48:23 GMT Content-length: 1939 Dennis Shasha Dennis Shasha Prof, Computer Science Dept Department of Computer Science Courant Institute of Mathematical Sciences New York University Mail Address 251 Mercer Street New York, NY 10012, U.S.A.",
+    "link": [
+        "http://cs.nyu.edu/",
+        "http://cs.nyu.edu/cs/courantnyu.html",
+        "http://www.nyu.edu/"
+    ],
+    "ground_truth": "faculty"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Yiannis's CS Home Page",
+    "Body": "Research Interests Mobile Robotics.",
+    "link": [
+        "mailto:yiannis@cs.mcgill.ca",
+        "http://www.cs.mcgill.ca/~yiannis/thesis.html",
+        "http://www.cs.mcgill.ca/~yiannis/mrobot.html"
+    ],
+    "ground_truth": "student"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Dragon Bytes",
+    "Body": "Maps of Roneleven -- Roneleven The Empire History of Roneleven The Pantheon of Gods Cyber Kinght Current Projects: Hell and Glory schnarr@cs.wisc.edu",
+    "link": [
+        "http://www.cs.wisc.edu/~schnarr/Roneleven.gif",
+        "http://www.cs.wisc.edu/~schnarr/Empire.gif",
+        "http://www.cs.wisc.edu/~schnarr/Knight.html"
+    ],
+    "ground_truth": "other"
+}

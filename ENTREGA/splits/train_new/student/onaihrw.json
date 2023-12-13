@@ -1,0 +1,10 @@
+{
+    "Title": "Yet Another Unnecessary Home Page",
+    "Body": "I'm not sure how to casually mention my name on my own home page, but I feel strongly that it should be here, so here it is (in bold, no less): Doug Zongker .",
+    "link": [
+        "http://www.cs.washington.edu/homes/dougz/research.html",
+        "http://www.cs.washington.edu/homes/dougz/classes.html",
+        "http://www.cs.washington.edu/homes/dougz/contact.html"
+    ],
+    "ground_truth": "student"
+}

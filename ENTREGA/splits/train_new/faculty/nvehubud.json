@@ -1,0 +1,10 @@
+{
+    "Title": "Lola Haskins Home Page",
+    "Body": "Besides writing, I most love to do poetry readings, and have read (recited; I perform from memory) at many universities and writing centers around the country.",
+    "link": [
+        "http://www.cis.ufl.edu/~lola/lola.gif",
+        "http://www.cis.ufl.edu/",
+        "http://grove.circa.ufl.edu/~u3063bnk/"
+    ],
+    "ground_truth": "faculty"
+}

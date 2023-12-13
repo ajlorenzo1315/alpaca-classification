@@ -1,0 +1,10 @@
+{
+    "Title": "ADEPT",
+    "Body": "Documentation The following documents are currently available (hold down Left-Shift while clicking on the item to download the document, normal click to view it): Technical Report: the complete design document and user manual (Postscript, 1.5 Mb).",
+    "link": [
+        "http://www.cs.tamu.edu/research/ADEPT/project_team.html",
+        "#annex_e",
+        "http://www.gnat.com"
+    ],
+    "ground_truth": "project"
+}

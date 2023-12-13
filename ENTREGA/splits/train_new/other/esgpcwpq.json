@@ -1,0 +1,10 @@
+{
+    "Title": "CSE 322 \nAssignment 4 \nDue Friday, January 26, 1996",
+    "Body": "Prove by induction on the length of a derivation that if and then x satisfies the two properties (i) every prefix of x has at least as many a 's as b 's and (ii) x has an equal number of a 's as b 's.",
+    "link": [
+        "node1.html",
+        "node1.html",
+        "node1.html#SECTION00010000000000000000"
+    ],
+    "ground_truth": "other"
+}

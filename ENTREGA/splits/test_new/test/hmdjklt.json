@@ -1,0 +1,8 @@
+{
+    "Title": "CS 537 - Quiz #9",
+    "Body": "How many additional disk reads will be required to read data block number 300 into memory?",
+    "link": [
+        "http://www.cs.wisc.edu/~bart"
+    ],
+    "ground_truth": "unknow"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": " SodaBot Slide Show ",
+    "Body": "Date: Tue, 14 Jan 1997 21:51:25 GMT Server: Apache/1.2-dev Connection: close Content-Type: text/html Last-Modified: Sun, 18 Jun 1995 14:26:27 GMT ETag: \"5963b-eb9-2fe43793\" Content-Length: 3769 Accept-Ranges: bytes SodaBot Slide Show SodaBot Slide Show These are the slides from a recent SodaBot talk.",
+    "link": [
+        "http://www.ai.mit.edu/people/sodabot/slideshow/total/P001.html",
+        "http://www.ai.mit.edu/people/sodabot/slideshow/total/P002.html",
+        "http://www.ai.mit.edu/people/sodabot/slideshow/total/P003.html"
+    ],
+    "ground_truth": "other"
+}

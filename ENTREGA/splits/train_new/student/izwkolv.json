@@ -1,0 +1,10 @@
+{
+    "Title": "Francisco Reverbel's UNM home page",
+    "Body": "Date: Tue, 26 Nov 1996 17:47:30 GMT Server: NCSA/1.4.2 Content-type: text/html Francisco Reverbel's UNM home page Guess where this picture was shot, then take a look ... Francisco Reverbel PhD Candidate, ABD Area: Systems Software Advisor: Barney Maccabe e-mail: reverbel@cs.unm.edu Computer Science Department Since August 91 I'm on leave of absence from the Computer Science Department of the University of Sao Paulo (Brazil), pursuing a PhD degree at UNM.",
+    "link": [
+        "http://www.cs.unm.edu/~reverbel/rafting.html",
+        "http://www.cs.unm.edu/~reverbel/rafting.html",
+        "http://www.cs.unm.edu/~maccabe/"
+    ],
+    "ground_truth": "student"
+}

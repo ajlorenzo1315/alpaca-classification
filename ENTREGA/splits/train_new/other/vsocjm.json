@@ -1,0 +1,10 @@
+{
+    "Title": "590lobo Reading Group",
+    "Body": "AUTHORS: David R. Cheriton and Kenneth J. Duda (Stanford University).",
+    "link": [
+        "file://localhost/homes/gws/romer/RA/TR/memspy.ps",
+        "ftp://ftp.cs.wisc.edu/markhill/Papers/toc94_sampling.ps",
+        "http://www.cs.washington.edu/homes/levy/sosp.ps"
+    ],
+    "ground_truth": "other"
+}

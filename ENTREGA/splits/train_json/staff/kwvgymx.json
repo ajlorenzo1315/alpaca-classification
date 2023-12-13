@@ -1,0 +1,5 @@
+{
+    "Título": "Paul Michelman",
+    "Cuerpo": "Date: Tue, 26 Nov 1996 20:18:36 GMT Server: Apache/1.1.1 Content-type: text/html Content-length: 1515 Last-modified: Fri, 16 Feb 1996 22:44:49 GMT Paul Michelman Paul Michelman I am currently a Research Scientist in the Department of Computer Science at Columbia University. I am a member of Columbia's Center for Advanced Technology (CAT) in Medical Informatics. Research interests currently: Cardiac-assist devices: We are studying the effects of different left-ventricular assist devices (LVAD) control strategies on the natural cardiovascular system (in conjunction with the Center for Device Research at Columbia-Prebyterian Medical Center). Dextrous robot hands and teleoperation Human strategies for dextrous manipulation. Otherwise, alternative means of transportation Bikes: '92 Kawasaki Vulcan 500 . Legs: Running partners sought at any hour nearby... Columbia University Department of Computer Science 450 Computer Science Building New York, New York 10027 +1 212 939 7090 +1 212 305 9690 michelma@cs.columbia.edu Robotics Home Page . Department of Computer Science Page",
+    "ground_truth": "staff"
+}

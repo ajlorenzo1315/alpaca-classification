@@ -1,0 +1,10 @@
+{
+    "Title": " Research projects",
+    "Body": "Eggers, J. Auslander, M. Philipose, M. Mock and P. Pardyak, Workshop on Compiler Support for Systems Software (February 1996).",
+    "link": [
+        "http://www.cs.washington.edu/homes/eggers/Research/dc.ps",
+        "http://www.cs.washington.edu/homes/eggers/Research/dispatch.ps",
+        "http://www.cs.washington.edu/homes/eggers/Research/vso.ps"
+    ],
+    "ground_truth": "other"
+}

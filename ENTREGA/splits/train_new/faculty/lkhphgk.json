@@ -1,0 +1,10 @@
+{
+    "Title": "Richard D. Schlichting Home Page",
+    "Body": "Since 1982, Rick has been in the Department of Computer Science at The University of Arizona , where he is currently holds the rank of Professor.",
+    "link": [
+        "http://www.cs.wm.edu/",
+        "http://www.cs.cornell.edu/",
+        "http://www.cs.arizona.edu/"
+    ],
+    "ground_truth": "faculty"
+}

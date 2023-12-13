@@ -1,0 +1,10 @@
+{
+    "Title": "CSE 573 Index Page",
+    "Body": "Date: Tue, 10 Dec 1996 22:55:08 GMT Server: NCSA/1.4.2 Content-type: text/html CSE 573 Index Page CSE 573 - Artificial Intelligence Fall Quarter, 1996 Artificial intelligence (AI) poses two of the most fundamental and challenging questions in computer science: can we build intelligent machines?",
+    "link": [
+        "http://www.cs.washington.edu/homes/weld",
+        "mailto:weld@cs",
+        "http://www.cs.washington.edu/homes/friedman"
+    ],
+    "ground_truth": "course"
+}

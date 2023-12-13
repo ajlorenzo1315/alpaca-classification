@@ -1,0 +1,10 @@
+{
+    "Title": "Purush Iyer's Home Page",
+    "Body": "Date: Mon, 25 Nov 1996 22:04:07 GMT Server: NCSA/1.5.2 Last-modified: Fri, 23 Aug 1996 20:57:35 GMT Content-type: text/html Content-length: 3204 Purush Iyer's Home Page Purush Iyer Associate Professor Department of Computer Science North Carolina State Universityd Raleigh , NC 27695-8206 USA purush@csc.ncsu.edu (919) 515-7291 (Voice) (919) 515-7896 (FAX) Education PhD (1986) in Computer Science .",
+    "link": [
+        "http://www.csc.ncsu.edu/",
+        "http://www.ncsu.edu/",
+        "http://www1.nando.net/nao/go/cities/raleigh/raleigh.html"
+    ],
+    "ground_truth": "faculty"
+}

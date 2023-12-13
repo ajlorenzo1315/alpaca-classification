@@ -1,0 +1,10 @@
+{
+    "Title": "New Links",
+    "Body": "Date: Wed, 11 Dec 1996 23:12:44 GMT Server: NCSA/1.5.1 Last-modified: Wed, 11 Dec 1996 20:20:55 GMT Content-type: text/html Content-length: 1122 New Links New Items and Links for the Math Dept's home page New local Items Revised Course schedules Page PhD Alumni: A partial list of everyone who earned a PhD at the UW Math Department since 1897.",
+    "link": [
+        "http://www.math.wisc.edu/courses/index.html",
+        "http://directories/alumni.html",
+        "http://events/cent.html"
+    ],
+    "ground_truth": "unknow"
+}

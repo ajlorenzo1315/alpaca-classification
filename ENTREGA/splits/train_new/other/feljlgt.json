@@ -1,0 +1,10 @@
+{
+    "Title": "CS 110 Section 1 - Announcements",
+    "Body": "When you send me E-mail make sure you send it from the account you will read your E-mail from because I will reply to the same account that you E-mailed me from.",
+    "link": [
+        "http://www.cs.wisc.edu/~tick/cs110.html#menu",
+        "mailto:tick@cs.wisc.edu",
+        "http://www.cs.wisc.edu/~tick/cs110.html#menu"
+    ],
+    "ground_truth": "other"
+}

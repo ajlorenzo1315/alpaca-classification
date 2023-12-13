@@ -1,0 +1,10 @@
+{
+    "Title": "Kathy's Home Page",
+    "Body": "The first,  summary generation, involves the generation of natural language text, or summaries, from data such as stock market statistics.",
+    "link": [
+        "http://www.cs.columbia.edu/~kathy/kathy.gif",
+        "http://www.cs.columbia.edu/",
+        "http://www.cc.columbia.edu/"
+    ],
+    "ground_truth": "faculty"
+}

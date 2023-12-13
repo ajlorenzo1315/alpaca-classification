@@ -1,0 +1,10 @@
+{
+    "Title": "Links To Friends' Home Pages",
+    "Body": "Date: Tue, 05 Nov 1996 21:05:28 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Tue, 03 Sep 1996 16:31:48 GMT Content-length: 1132 Links To Friends' Home Pages Friends with Home Pages: From Salt Lake: Christian Pariseau From Lewis and Clark College: Raven Winter Jon Herlocker From Madison: Brian Bauman Other Miscellaneous links A collection of miscellaneous art Pictures from the Hubble Space Telescope dailey@cs.wisc.edu Tues July 18 10:37:47 1995",
+    "link": [
+        "http://www.cc.utah.edu/~cp6308/",
+        "http://www.nutech.com/raven/",
+        "http://www.cs.umn.edu/~herlocke"
+    ],
+    "ground_truth": "other"
+}

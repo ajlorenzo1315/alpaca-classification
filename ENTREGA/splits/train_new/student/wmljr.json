@@ -1,0 +1,10 @@
+{
+    "Title": "Stanley Chen's Home Page",
+    "Body": "Other: Division of Applied Sciences (Harvard) Computational linguistics preprint server OldPaulNet Stanley Chen / sfc@eecs.harvard.edu",
+    "link": [
+        "http://www.cs.cmu.edu/~sfc",
+        "http://www.das.harvard.edu/users/students/Stanley_Chen/papers/s-tech.ps.gz",
+        "http://www.das.harvard.edu/users/students/Stanley_Chen/papers/acl96.ps.gz"
+    ],
+    "ground_truth": "student"
+}

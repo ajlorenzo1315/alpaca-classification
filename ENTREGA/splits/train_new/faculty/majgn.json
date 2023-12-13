@@ -1,0 +1,10 @@
+{
+    "Title": "Lane A. Hemaspaandra's Home Page",
+    "Body": "Assistant Professor (89-92), Associate Professor (92-present); University of Rochester.",
+    "link": [
+        "http://www.cs.rochester.edu/u/lane/resume-book-journal.html",
+        "http://www.elsevier.nl/inca/publications/store/5/0/5/6/1/2/505612.pub.shtml",
+        "http://phoenix.trentu.ca/jci"
+    ],
+    "ground_truth": "faculty"
+}

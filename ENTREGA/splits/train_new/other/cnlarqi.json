@@ -1,0 +1,8 @@
+{
+    "Title": "Professor Ran Libeskind-Hadas' Research Page",
+    "Body": "The objective of this research is to develop practical algorithms for fault-tolerant unicast and multicast routing in wormhole-routed multicomputers.",
+    "link": [
+        "http://www.cs.hmc.edu/~hadas/vitae/papers.html"
+    ],
+    "ground_truth": "other"
+}

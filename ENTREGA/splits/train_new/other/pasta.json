@@ -1,0 +1,10 @@
+{
+    "Title": " Stuff to do in Seattle",
+    "Body": "In the rest of Washington The Leader and its Arts and Entertainment listings.",
+    "link": [
+        "http://www.thedaily.washington.edu",
+        "http://weber.u.washington.edu/~ima",
+        "http://weber.u.washington.edu/~ashcraft/events.html"
+    ],
+    "ground_truth": "other"
+}

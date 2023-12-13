@@ -1,0 +1,10 @@
+{
+    "Title": "Programming Languages I:G221.2110 Hand Out 0",
+    "Body": "Lecture 3 [ ps , short ps ] Syntax & Semantics Assignment & Types Reading Assignment: Ch 2, 3 & 4 (Sethi), Ch 2, 3 & 4 (Stansifer) HomeWork 1 (only in ps) Lecture 4 [ ps , short ps ] Language Survey 1: C Reading Assignment: Brian Kernighan and Dennis Ritchie The C Programming Language Prentice-Hall Lecture 5 [ ps , short ps ] Language Survey 2: Ada 95 Reading Assignment: J. Barnes Programming in ADA 95 Addison Wesley HomeWork 2 (only in ps) gnatmake for Ada 95 Lecture 6 [ ps , short ps ] Scope Issues Reading Assignment: Ch 5 (Sethi), Ch 5 (Stansifer) Lecture 7 [ ps , short ps ] Runtime System Reading Assignment: Ch 5 (Sethi), Ch 5 (Stansifer) Lecture 8 [ ps , short ps ] Exception Handling Reading Assignment: Section 9.6 (Sethi), Section 5.5 (Stansifer) Lecture 9 [ ps , short ps ] Object Oriented Programming Inheritance & Polymorphism Reading Assignment: Ch 6 & 7 (Sethi), Ch 4 (Stansifer) HomeWork 3 (only in ps) Lecture 10 [ ps , short ps ] Language Survey 3: C++ Reading Assignment: Bjarne Stroustroup C++: Programming Language Addison Wesley Publishers Lecture 11 [ ps , short ps ] Language Survey 4: Java Reading Assignment: James Gosling, Bill Joy & Guy Steele Java Language Specification Addison Wesley HomeWork 4 (only in ps) Lecture 12 [ ps , short ps ] Language Survey 5: Common Lisp Reading Assignment: Guy Steele Common Lisp Manual, Digital Press.",
+    "link": [
+        "http://cs.nyu.edu/cs/dept_info/course_home_pages/fall96/G221.2110/FAQ/faq1",
+        "http://cs.nyu.edu/cs/dept_info/course_home_pages/fall96/G221.2110/FAQ/faq2",
+        "http://cs.nyu.edu/cs/dept_info/course_home_pages/fall96/G221.2110/FAQ/faq3"
+    ],
+    "ground_truth": "course"
+}

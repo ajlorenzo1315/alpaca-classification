@@ -1,0 +1,10 @@
+{
+    "Title": " WWW Pages Relevant to the UW ML Research Group",
+    "Body": "Date: Tue, 05 Nov 1996 21:00:54 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Thu, 07 Mar 1996 15:29:26 GMT Content-length: 9515 WWW Pages Relevant to the UW ML Research Group Table of Contents External AI-Related Links External Compbio-Related Links Links to Advice Links to Federal Agencies Links to Libraries, Publishers, etc.",
+    "link": [
+        "#external",
+        "#combio",
+        "#advice"
+    ],
+    "ground_truth": "other"
+}

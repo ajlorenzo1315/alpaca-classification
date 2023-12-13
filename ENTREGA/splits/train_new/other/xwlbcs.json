@@ -1,0 +1,9 @@
+{
+    "Title": "General Information",
+    "Body": "The hardcopy (paper) submissions of your assignments will be used to write comments and make corrections to your programs and will be returned to you.",
+    "link": [
+        "http://www.cs.columbia.edu/~andreas/W3101-01/postscript/info.ps",
+        "#collaboration"
+    ],
+    "ground_truth": "other"
+}

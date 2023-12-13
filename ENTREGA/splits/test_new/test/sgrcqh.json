@@ -1,0 +1,10 @@
+{
+    "Title": "UW CSE AI Home Page",
+    "Body": "The Canadian Research Council's AI stuff (papers and information).",
+    "link": [
+        "cltl/cltl2.html",
+        "clman.html",
+        "http://www.cs.cmu.edu:8001/Web/Groups/AI/html/faqs/top.htm"
+    ],
+    "ground_truth": "unknow"
+}

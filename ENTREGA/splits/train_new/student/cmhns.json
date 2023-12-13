@@ -1,0 +1,10 @@
+{
+    "Title": "Galen C. Hunt's URCS Home Page",
+    "Body": "Graduate student (94-present), University of Rochester .",
+    "link": [
+        "http://www.cs.rochester.edu",
+        "http://www.utah.edu/HTML_Docs/UofU_Home.html",
+        "http://www.dixie.edu"
+    ],
+    "ground_truth": "student"
+}

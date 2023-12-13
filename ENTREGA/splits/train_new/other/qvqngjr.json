@@ -1,0 +1,8 @@
+{
+    "Title": "\nFrom Technical Diagrams to Electronic Documents\n",
+    "Body": "InfoAccess is currently most interested in the callouts, which are usually numbers or text, sometimes surrounded by circles or boxes, since automatic callout detection software would be of immediate use in their current product.",
+    "link": [
+        "lam.gif"
+    ],
+    "ground_truth": "other"
+}

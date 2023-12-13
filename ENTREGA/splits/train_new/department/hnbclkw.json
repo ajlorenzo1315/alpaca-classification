@@ -1,0 +1,10 @@
+{
+    "Title": "\n\t   Univ. of Washington Computer Science & Engineering\n\t",
+    "Body": "S POTLIGHT UW wins Pacific Regionals of ACM International Student Programming Contest Two videos highlighting educational initiatives Our colloquia are now live on the MBONE Major donation from Intel Corporation Dick Karp receives National Medal of Science Professional Masters Program Department Overview \"The Impact of a Research University:  An IT Perspective\" Faculty/Staff Positions Available \"A Half Century of Exponential Progress in Information Technology\" CSE for in All pages People The Region Courses CS Laboratory Research News Can't handle tables?",
+    "link": [
+        "http://www.cs.washington.edu/htbin/imagemap/sptm_s",
+        "http://www.cs.washington.edu/general/sptm-caption.html",
+        "http://www.cs.washington.edu/news/index.html"
+    ],
+    "ground_truth": "department"
+}

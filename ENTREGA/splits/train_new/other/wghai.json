@@ -1,0 +1,10 @@
+{
+    "Title": " CSE532: Handouts ",
+    "Body": "RCS - A System for Version Control The complete user guide for RCS is available here .",
+    "link": [
+        "http://www.cse.nd.edu/cgi-bin/imagemap/class_data/cse532/www/diskette.map",
+        "http://wizard.cse.nd.edu/class_data/cse532/handouts/groups.ps.gz",
+        "http://wizard.cse.nd.edu/class_data/cse532/handouts/tools.ps.gz"
+    ],
+    "ground_truth": "other"
+}

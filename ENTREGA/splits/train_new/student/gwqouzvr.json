@@ -1,0 +1,10 @@
+{
+    "Title": "Home Page of Ali Ozmez",
+    "Body": "Some Useful Links in the Area of Programming Languages: Will Clinger's Home Page , Mitchell Wand's Home Page , PLR Home Page at CMU , PLR Home Page at Rice University , Scheme Repository , ACM SIGPLAN Home Page .",
+    "link": [
+        "http://www.dmu.ac.uk/~iybam/quran.html",
+        "http://www.turkey.org/turkey/",
+        "http://www.cs.hun.edu.tr/"
+    ],
+    "ground_truth": "student"
+}

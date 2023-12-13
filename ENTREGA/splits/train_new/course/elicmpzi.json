@@ -1,0 +1,10 @@
+{
+    "Title": "CS105A",
+    "Body": "The great ideas of computer science.",
+    "link": [
+        "http://www-cse.stanford.edu/classes/cs106a/",
+        "http://www-cse.stanford.edu/classes/cs106x/",
+        "http://www-cse.stanford.edu/instructors/clausing.html"
+    ],
+    "ground_truth": "course"
+}

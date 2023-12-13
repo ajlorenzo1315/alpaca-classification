@@ -1,0 +1,10 @@
+{
+    "Title": "W. Lewis Johnson",
+    "Body": "Biography Dr. Johnson is a Project Leader of the Educational Technology Group at the USC / Information Sciences Institute and Research Associate Professor of Computer Science at the University of Southern California (USC).",
+    "link": [
+        "http://www.isi.edu/soar/johnson/lewis.gif",
+        "http://www.isi.edu/isd/I-DOC/i-doc.html",
+        "http://www.isi.edu/isd/I-DOC/media-doc.html"
+    ],
+    "ground_truth": "faculty"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": " Mathematics & Computer Science Department. ",
+    "Body": "The Department of Mathematics and Computer Science at Kuwait University offers undergraduate and graduate programmes in Pure Mathematics, Applied Mathematics and Computer Science Currently, it has fifty two faculty members whose research interests cover a wide spectrum in Mathematics and Computer Science.",
+    "link": [
+        "http://www.sci.kuniv.edu.kw/jobs.html",
+        "http://www.sci.kuniv.edu.kw/Faculty.html",
+        "http://www.sci.kuniv.edu.kw/Mcc.html"
+    ],
+    "ground_truth": "department"
+}

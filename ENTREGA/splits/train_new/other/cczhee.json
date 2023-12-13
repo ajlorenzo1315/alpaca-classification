@@ -1,0 +1,10 @@
+{
+    "Title": "Figaro's Home Page",
+    "Body": "Please write to me c/o Jeremy, at jbuhler@cs.washington.edu .",
+    "link": [
+        "http://www.cs.washington.edu/homes/jbuhler/spud.jpg",
+        "http://www.execpc.com/~judyheim/internet4cats.html",
+        "news:rec.pets.cats"
+    ],
+    "ground_truth": "other"
+}

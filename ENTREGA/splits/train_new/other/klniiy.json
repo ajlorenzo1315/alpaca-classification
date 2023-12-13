@@ -1,0 +1,10 @@
+{
+    "Title": "Multi-Service Search and Comparison Using the \n        MetaCrawler",
+    "Body": "The MetaCrawler has an interface similar to WebCrawler and Open Text in that it allows users to enter a search string, or query , and returns a page with click-able references or hits to pages available on the Web.",
+    "link": [
+        "http://www.cs.washington.edu/research/metacrawler",
+        "#wwwgalaxy",
+        "#wwwinfoseek"
+    ],
+    "ground_truth": "other"
+}

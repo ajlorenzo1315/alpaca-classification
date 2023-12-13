@@ -1,0 +1,10 @@
+{
+    "Title": "Iowa Vision Laboratory",
+    "Body": "Date: Wed, 20 Nov 1996 19:38:28 GMT Server: NCSA/1.5 Content-type: text/html Iowa Vision Laboratory The Vision Laboratory at the University of Iowa This page is new and still under construction, but we hope to become your number one source for information in computer vision.",
+    "link": [
+        "http://www.uiowa.edu",
+        "http://www.cs.uiowa.edu/",
+        "http://www.cs.uiowa.edu/~mfleck/vision-html/people.html"
+    ],
+    "ground_truth": "project"
+}

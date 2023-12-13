@@ -1,0 +1,10 @@
+{
+    "Title": "\nPeter Wyckoff's Home Page\n",
+    "Body": "We have a working prototype of a system called Persistent Linda where we apply lite-transactions to the Linda model.",
+    "link": [
+        "http://www.cs.nyu.edu/",
+        "http://www.cs.nyu.edu/cs/courantnyu.html",
+        "http://www.nyu.edu/"
+    ],
+    "ground_truth": "student"
+}

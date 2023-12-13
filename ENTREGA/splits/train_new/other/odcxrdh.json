@@ -1,0 +1,10 @@
+{
+    "Title": "Weather Page",
+    "Body": "Date: Tue, 10 Dec 1996 23:19:23 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Thu, 29 Feb 1996 02:38:56 GMT Content-length: 1008 Weather Page RAIN!!",
+    "link": [
+        "http://www.cs.washington.edu/homes/eric/pix/seattle.gif",
+        "http://atmos.washington.edu/cgi-bin/forecast_city",
+        "gopher://wx.atmos.uiuc.edu:70/00/States/Washington/Climatology%20Report%20Daily%20%28Seattle%29/"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Alfredo Delgado HOME PAGE",
+    "Body": "Date: Tuesday, 26-Nov-96 03:34:17 GMT Server: NCSA/1.1 MIME-version: 1.0 Content-type: text/html Last-modified: Tuesday, 19-Nov-96 20:38:51 GMT Alfredo Delgado HOME PAGE This Page is under construction For text users Here appears a java applet Alfredo Delgado Graduate Student / Computer Science Computer Science Department New Mexico State University Las Cruces , NM 88003 E-mail : adelgado@cs.nmsu.edu Research Areas Visual Programming Languages.",
+    "link": [
+        "http://www.cs.nmsu.edu",
+        "http://www.nmsu.edu",
+        "http://www.weblifepro.com/lascruces/"
+    ],
+    "ground_truth": "student"
+}

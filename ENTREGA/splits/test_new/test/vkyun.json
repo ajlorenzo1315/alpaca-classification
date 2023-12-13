@@ -1,0 +1,10 @@
+{
+    "Title": "Mark A. Anderson -- Homepage",
+    "Body": "Here are links to some of my other pages: Here is a page for those times that you can't lock your terminal.",
+    "link": [
+        "http://www.cs.unm.edu/~mandersn/brb.html",
+        "http://www.cs.unm.edu/~mandersn/friends.html",
+        "http://www.cs.unm.edu/~mandersn/life.html"
+    ],
+    "ground_truth": "unknow"
+}

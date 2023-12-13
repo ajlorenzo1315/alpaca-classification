@@ -1,0 +1,10 @@
+{
+    "Title": "Getting Started (cs302, sects 1 and 22)",
+    "Body": "You may want to read it anyway.",
+    "link": [
+        "http://www.cs.wisc.edu/~cs302/Labs/labs.html",
+        "http://www.cs.wisc.edu/~cs302/C++/Introduction/MSwindows.html",
+        "http://www.cs.wisc.edu/~cs302/C++/Introduction/filemanager1.html"
+    ],
+    "ground_truth": "unknow"
+}

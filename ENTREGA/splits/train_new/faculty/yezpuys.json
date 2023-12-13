@@ -1,0 +1,10 @@
+{
+    "Title": "GVU: Norberto F. Ezquerra",
+    "Body": "Professor Ezquerra served as Associate Director for Research in the GVU Center (1992-94), co-founded the Conference on Visualization in Biomedical Computing (VBC, 1990), and received the FIRST Award from the National Library of Medicine (NLM) for his work in knowledge-based medical image interpretation (1987).",
+    "link": [
+        "http://www.gatech.edu/",
+        "http://www.cc.gatech.edu/gvu/",
+        "http://www.cc.gatech.edu/gvu/research/"
+    ],
+    "ground_truth": "faculty"
+}

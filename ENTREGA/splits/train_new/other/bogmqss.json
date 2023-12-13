@@ -1,0 +1,10 @@
+{
+    "Title": "George Forman: Free Software (Scripts)",
+    "Body": "Date: Tue, 10 Dec 1996 22:55:56 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Sun, 04 Aug 1996 20:58:36 GMT Content-length: 4503 George Forman: Free Software (Scripts) George Forman: Free Software (Scripts) AWK and PERL are great inventions.",
+    "link": [
+        "http://www.cs.washington.edu/homes/forman/sw/graphcols",
+        "http://www.cs.washington.edu/homes/forman/sw/stats",
+        "http://www.cs.washington.edu/homes/forman/sw/colstats"
+    ],
+    "ground_truth": "other"
+}

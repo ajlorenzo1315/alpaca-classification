@@ -1,0 +1,10 @@
+{
+    "Title": "William Chan",
+    "Body": "Proceedings of the Fourth ACM Symposium on the Foundation of Software Engineering",
+    "link": [
+        "http://www.cs.washington.edu/homes/wchan/",
+        "http://www.cs.washington.edu/",
+        "http://www.washington.edu/"
+    ],
+    "ground_truth": "other"
+}

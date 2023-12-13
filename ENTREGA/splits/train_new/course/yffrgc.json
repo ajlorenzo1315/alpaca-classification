@@ -1,0 +1,10 @@
+{
+    "Title": "CS 541 Homepage",
+    "Body": "of Idaho Home Page Welcome to CS 541, Operating Systems Home Page This page contains information related to the class such as the syllabus, newsgroups, and the assignments.",
+    "link": [
+        "http://www.cs.uidaho.edu/index.html",
+        "http://www.uidaho.edu/",
+        "mailto:jimaf@cs.uidaho.edu"
+    ],
+    "ground_truth": "course"
+}

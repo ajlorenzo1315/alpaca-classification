@@ -1,0 +1,9 @@
+{
+    "Title": "Greg Andrews -- Home Page",
+    "Body": "Since 1991 he has been on the Board of Directors of the Computing Research Association (CRA).",
+    "link": [
+        "http://www.cs.arizona.edu/sr/www/index.html",
+        "http://www.cs.arizona.edu/people/filament/index.html"
+    ],
+    "ground_truth": "faculty"
+}

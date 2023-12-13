@@ -1,0 +1,10 @@
+{
+    "Title": "Rwo-Hsi Wang's Homepage",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Monday, 06-Jan-97 19:27:59 GMT Content-Type: text/html Content-Length: 1002 Last-Modified: Tuesday, 16-Jan-96 10:29:54 GMT Rwo-Hsi Wang's Homepage Rwo-Hsi Wang Welcome!",
+    "link": [
+        "http://www.cs.utexas.edu/>\nDepartment of Computer Sciences </a> at the\n<a href=",
+        "http://www.cs.utexas.edu/users/cpg/RTS/",
+        "http://www.cs.utexas.edu/users/rhwang/pub"
+    ],
+    "ground_truth": "student"
+}

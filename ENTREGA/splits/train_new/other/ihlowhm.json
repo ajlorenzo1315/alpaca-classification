@@ -1,0 +1,10 @@
+{
+    "Title": "Computer and Information Science Alumni Web Page",
+    "Body": "To search our alumni database, please submit a query using the following form.",
+    "link": [
+        "mailto:dab@cs.oswego.edu",
+        "http://www.cs.oswego.edu/~dab/forms/alumform.html",
+        "http://www.cs.oswego.edu/alumni/anecdotes.html"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": " Randy Shull Home Page ",
+    "Body": "Date: Mon, 25 Nov 1996 23:29:45 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Wed, 07 Feb 1996 20:36:26 GMT Content-length: 1031 Randy Shull Home Page Name: Randy Shull Department: Computer Science Title: Associate Professor Office: E114 Science Center Extension: X3102 Responsibilities: Currently teaches CS235 (Languages and Automata) and CS305 (Theory of Algorithms).",
+    "link": [
+        "http://www.wellesley.edu/CS/cshome.html",
+        "http://www.wellesley.edu/CS/classes.html#CS235",
+        "http://www.wellesley.edu/CS/classes.html#CS305"
+    ],
+    "ground_truth": "faculty"
+}

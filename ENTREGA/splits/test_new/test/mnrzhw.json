@@ -1,0 +1,10 @@
+{
+    "Title": "Matt Dwyer's Links Page",
+    "Body": "Date: Tue, 14 Jan 1997 23:55:52 GMT Server: NCSA/1.5.2 Last-modified: Fri, 06 Sep 1996 13:51:49 GMT Content-type: text/html Content-length: 2660 Matt Dwyer's Links Page Software Engineering, Programming Language, and Compiler Resources We have a Master of Software Engineering program at Kansas State University.",
+    "link": [
+        "http://www.cis.ksu.edu:80/mse/mse.html",
+        "http://www.cis.ksu/~schmidt/group.survey.html/",
+        "http://www.sei.cmu.edu/topics.html"
+    ],
+    "ground_truth": "unknow"
+}

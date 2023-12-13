@@ -1,0 +1,10 @@
+{
+    "Title": "Don Allison's Home Page",
+    "Body": "Currently I'm interested in animating autonomous agents and interacting with them, and work with the Virtual Environments group and the animation group of the GVU Centre .",
+    "link": [
+        "http://www.gatech.edu/",
+        "http://www.cc.gatech.edu/gvu",
+        "http://www.cc.gatech.edu/gvu/people"
+    ],
+    "ground_truth": "student"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": " Zia-ur Rahman ",
+    "Body": "Zia-ur Rahman is a research associate with the Department of Computer Science at the College of William & Mary and is presently working under a grant with the NASA Langley Research Center on advanced concepts in information processing for high-resolution imaging and imaging spectrometry.",
+    "link": [
+        "http://post.larc.nasa.gov/cgi-bin/whois.pl?ms=473",
+        "http://www.cs.wm.edu",
+        "http://post.larc.nasa.gov/cgi-bin/whois.pl?org=DI"
+    ],
+    "ground_truth": "staff"
+}

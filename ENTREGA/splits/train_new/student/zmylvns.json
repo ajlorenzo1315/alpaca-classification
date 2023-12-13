@@ -1,0 +1,10 @@
+{
+    "Title": " Jack Chieh Changfan's Home Page",
+    "Body": "Date: Thu, 21 Nov 1996 22:57:23 GMT Server: Apache/1.1.1 Content-type: text/html Content-length: 1023 Last-modified: Wed, 09 Oct 1996 05:23:13 GMT Jack Chieh Changfan's Home Page Jack Chieh Changfan's Home Page Current Status: Position : PhD student in University of California, Riverside .",
+    "link": [
+        "http://www.cs.ucr.edu",
+        "mailto:changfan@cs.ucr.edu",
+        "http://gio.gov.tw"
+    ],
+    "ground_truth": "student"
+}

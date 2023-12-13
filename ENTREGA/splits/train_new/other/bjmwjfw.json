@@ -1,0 +1,10 @@
+{
+    "Title": "Math and Computer Science Courses",
+    "Body": "Prerequisite: MTH 210 and 230.",
+    "link": [
+        "#Level200",
+        "#Level300",
+        "#Level400"
+    ],
+    "ground_truth": "other"
+}

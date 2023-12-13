@@ -1,0 +1,10 @@
+{
+    "Title": "Professor Robert E. Noonan",
+    "Body": "Date: Mon, 25 Nov 1996 23:31:57 GMT Server: NCSA/1.4.1 Content-type: text/html Last-modified: Fri, 15 Nov 1996 16:27:31 GMT Content-length: 1257 Professor Robert E. Noonan Robert E. Noonan Acting Associate Provost for Information Technology Professor of Computer Science Mailing address Information Technology College of William and Mary P.O.",
+    "link": [
+        "http://www.cs.wm.edu/~noonan/itplans.html",
+        "http://www.cs.wm.edu/~noonan/kaludis2.html",
+        "http://www.cs.wm.edu/~noonan/webguide.html"
+    ],
+    "ground_truth": "faculty"
+}

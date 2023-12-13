@@ -1,0 +1,10 @@
+{
+    "Title": " New Unity ",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Tuesday, 07-Jan-97 15:47:30 GMT Content-Type: text/html Content-Length: 1189 Last-Modified: Thursday, 17-Nov-94 21:13:28 GMT New Unity This directory contains chapters from a manuscript by Jay Misra revising the UNITY theory.",
+    "link": [
+        "ftp://ftp.cs.utexas.edu/pub/psp/unity/new_unity/safety.ps.Z",
+        "ftp://ftp.cs.utexas.edu/pub/psp/unity/new_unity/progress.ps.Z",
+        "ftp://ftp.cs.utexas.edu/pub/psp/unity/new_unity/composition.ps.Z"
+    ],
+    "ground_truth": "other"
+}

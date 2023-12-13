@@ -1,0 +1,10 @@
+{
+    "Title": "Stefan G. Berg",
+    "Body": "If you can do it in fewer bytes in C, I'd like to see it!",
+    "link": [
+        "mailto:sgberg@cs.washington.edu",
+        "#address",
+        "#about"
+    ],
+    "ground_truth": "student"
+}

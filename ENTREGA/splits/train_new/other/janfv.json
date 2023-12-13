@@ -1,0 +1,10 @@
+{
+    "Title": "Sheetal V. Kakkad - Publications",
+    "Body": "In Persistent Object Systems: Proceedings of the Fifth International Workshop on Persistent Object Systems , San Miniato, Italy, September 1992, pages 11-33.Springer-Verlag Workshops in Computing.",
+    "link": [
+        "http://www.cs.utexas.edu/users/oops/papers.html#texas",
+        "http://www.cs.utexas.edu/users/oops/papers.html#swizz",
+        "http://www.cs.utexas.edu/users/oops/papers.html#prefetchsim"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "CSE 143 Homework Assignments",
+    "Body": "Date: Mon, 02 Dec 1996 14:25:30 GMT Server: NCSA/1.4.2 Content-type: text/html CSE 143 Homework Assignments CSE 143 Homework Assignments Assignments are generally handed out on Monday and due in section on Tuesday (about two weeks later).",
+    "link": [
+        "../comp-info/c++-info.html",
+        "hw1/",
+        "hw1/solution/"
+    ],
+    "ground_truth": "other"
+}

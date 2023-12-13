@@ -1,0 +1,10 @@
+{
+    "Title": "CS 537 - Introduction to Operating Systems - Fall 1996",
+    "Body": "Grading There will be a midterm and a final exam, each of which will count for 25% of your grade.",
+    "link": [
+        "http://www.cs.wisc.edu/~solomon/solomon.html",
+        "mailto:solomon@cs.wisc.edu",
+        "http://www.cs.wisc.edu/~mellen/mellen.html"
+    ],
+    "ground_truth": "course"
+}

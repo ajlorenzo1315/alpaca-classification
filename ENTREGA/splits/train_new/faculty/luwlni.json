@@ -1,0 +1,10 @@
+{
+    "Title": "Yair Amir ",
+    "Body": "A complete resume ( ps , ps.Z , ps.gz ) My Ph.D. presentation ( ps , ps.Z , ps.gz ) My Ph.D. Thesis ( ps , ps.Z , ps.gz ) Courses: Distributed Systems (600.437) Advanced Distributed Systems and Communication (600.667) Introduction to Computer Science (600.103) Publications: Group Communication as an Infrastructure for Distributed System Management ( ps , ps.Z , ps.gz ) Authors: Y. Amir, D. Breitgand, G. V. Chockler and D. Dolev.",
+    "link": [
+        "http://www.cs.jhu.edu/~yairamir/daniel/daniel.html",
+        "http://www.cs.jhu.edu",
+        "http://www.jhu.edu"
+    ],
+    "ground_truth": "faculty"
+}

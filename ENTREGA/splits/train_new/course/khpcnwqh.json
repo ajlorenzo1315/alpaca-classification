@@ -1,0 +1,10 @@
+{
+    "Title": "\nCS217 Fall 1996\n",
+    "Body": "However, when the time comes to write the code that solves the problem, such discussions are no longer appropriate - the program must be your own work (although you may ask teaching assistants for help in debugging).",
+    "link": [
+        "http://www.cs.princeton.edu/~jps",
+        "http://www.cs.princeton.edu/~bilas",
+        "http://www.cs.princeton.edu/~wtcorrea"
+    ],
+    "ground_truth": "course"
+}

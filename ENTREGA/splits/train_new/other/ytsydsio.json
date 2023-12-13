@@ -1,0 +1,10 @@
+{
+    "Title": "Reports by Robert A. van de Geijn",
+    "Body": "TR-95-39, Department of Computer Sciences, University of Texas, Oct. 1995.",
+    "link": [
+        "//www.cs.utexas.edu/users/rvdg/abstracts/SC96.html",
+        "abstracts/sB_BLAS.html",
+        "abstracts/PBMD.html"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Correctness of an Algorithm for Reconstituting a Program from a Dependence Graph ",
+    "Body": "ReconstituteProgram is currently used for program integration, and has the potential to be used by other algorithms that manipulate program dependence graphs.",
+    "link": [
+        "http://www.cs.wisc.edu/Dienst/Repository/2.0/Body/ncstrl.uwmadison%2fCS-TR-90-947/html",
+        "http://www.cs.wisc.edu/Dienst/UI/2.0/Search",
+        "mailto: www@cs.wisc.edu"
+    ],
+    "ground_truth": "other"
+}

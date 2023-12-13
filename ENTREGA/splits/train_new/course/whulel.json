@@ -1,0 +1,10 @@
+{
+    "Title": "CSE462 VLSI Design",
+    "Body": "Date: Tue, 26 Nov 1996 18:51:57 GMT Server: NCSA/1.5 MIME-version: 1.0 Content-type: text/html Last-modified: Tue, 05 Nov 1996 21:36:51 GMT Content-length: 3682 CSE462 VLSI Design CSE 462: VLSI Design Professor: Dr. Jay Brockman 384 Fitzpatrick Hall phone: 1-8810 email: jbb@cse.nd.edu office hours: Tu, Th 2:30-3:30, or by appointment Teaching Assistants: Steve Dartt email: sdartt@bach.helios.nd.edu Lecture: Monday, Wednesday, Friday, 117 DeBartolo Hall, 10:40-11:30 CAD Lab: Monday, Engineering Computer Cluster, 1:00-2:30 Tuesday, Engineering Computer Cluster, 7:30-9:00 PM Texts: Required: N. Weste and K. Eshraghian .",
+    "link": [
+        "http://www.cse.nd.edu/~jbb/index.html",
+        "mailto:jbb@cse.nd.edu",
+        "mailto:sdartt@bach.helios.nd.edu"
+    ],
+    "ground_truth": "course"
+}

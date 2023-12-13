@@ -1,0 +1,10 @@
+{
+    "Title": "David Rey Rodriguez Information Page",
+    "Body": "I also graduated from the Georgia Institute of Technology with a Bachelor of Electrical Engineering in 1991.",
+    "link": [
+        "http://www.gatech.edu/gvutop.html",
+        "http://www.gatech.edu/gvutop.html",
+        "http://www.gatech.edu/gvu/Faculty/Jessica.K.Hodgins.html"
+    ],
+    "ground_truth": "student"
+}

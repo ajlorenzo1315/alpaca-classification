@@ -1,0 +1,10 @@
+{
+    "Title": "Edmar Winskoski",
+    "Body": "Date: Tue, 26 Nov 1996 00:13:47 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Fri, 22 Nov 1996 23:31:48 GMT Content-length: 2618 Edmar Winskoski Edmar Wienskoski Graduate Student Department of Computer Science Rice University Research Interests Optimizing Compilers Instruction Scheduling for Superscalar Architectures.",
+    "link": [
+        "http://guarani.cos.ufrj.br:8000/HOME.html",
+        "http://www.cs.rice.edu/~wiensk/prop.ps#Improved Software Pipelining for Superscalar Architectures",
+        "http://www.cs.rice.edu/~wiensk/tr-rc.ps#Register Constraints in Software Pipelining"
+    ],
+    "ground_truth": "unknow"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "UW Cecil/Vortex Project Papers",
+    "Body": "Date: Tue, 10 Dec 1996 03:35:42 GMT Server: NCSA/1.4.2 Content-type: text/html UW Cecil/Vortex Project Papers UW Cecil/Vortex Project Papers Click on a paper to go to that paper's page, containing an abstract and a link to the postscript file.",
+    "link": [
+        "http://www.cs.washington.edu/research/projects/cecil/www/Papers/a4.html",
+        "http://www.cs.washington.edu/research/projects/cecil/www/Papers/cecil-spec.html",
+        "http://www.cs.washington.edu/research/projects/cecil/www/Papers/cecil-oo-mm.html"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Resume for Lauren Bricker",
+    "Body": "Designed and implemented an application program interface (API) and common dialog boxes for Ark Kidspace and Wrokspace, written in Visual C++.",
+    "link": [
+        "http://www.cs.washington.edu/",
+        "ftp://ftp.u.washington.edu/public/",
+        "http://www.cs.washington.edu/area/"
+    ],
+    "ground_truth": "other"
+}

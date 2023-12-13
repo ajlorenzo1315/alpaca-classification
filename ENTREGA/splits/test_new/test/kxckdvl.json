@@ -1,0 +1,10 @@
+{
+    "Title": "MetaCrawler Searching",
+    "Body": "Server: Apache-nbfp/1.1.1 Content-type: text/html Set-Cookie: nbfp2=1101; expires=Wednesday, 09-Nov-1999 23:12:40 GMT; path=/ MetaCrawler Searching M ETA C RAWLER by Erik Selberg , Greg Lauckhart and Prof. Oren Etzioni If you're searching for a person's home page, try Ahoy!",
+    "link": [
+        "http://www.fiesta.com",
+        "http://www.cs.washington.edu/homes/selberg",
+        "http://www.cs.washington.edu/homes/gregl"
+    ],
+    "ground_truth": "unknow"
+}

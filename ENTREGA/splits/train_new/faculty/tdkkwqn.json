@@ -1,0 +1,10 @@
+{
+    "Title": "Robert A. van de Geijn",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Monday, 06-Jan-97 19:43:47 GMT Content-Type: text/html Content-Length: 2781 Last-Modified: Tuesday, 24-Sep-96 18:30:13 GMT Robert A. van de Geijn Robert A. van de Geijn Associate Professor Department of Computer Sciences and Texas Institute for Computational and Applied Mathematics The University of Texas at Austin Austin, TX 78712 Phone: (512) 471-9720 Fax: (512) 471-8885 e-mail: rvdg@cs.utexas.edu www: http://www.cs.utexas.edu/users/rvdg B.S.",
+    "link": [
+        "http://www.cs.utexas.edu",
+        "http://www.ticam.utexas.edu",
+        "http://www.utexas.edu"
+    ],
+    "ground_truth": "faculty"
+}

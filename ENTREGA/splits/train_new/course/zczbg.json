@@ -1,0 +1,10 @@
+{
+    "Title": " CSE411 - Automata",
+    "Body": "11:00-11:45 a.m. and 1:20-1:55 p.m. Graduate Assistant: Lilia Suslov Room:    222 Cushing Hall Phone: (219)631-8854 Email: lsuslov@legvold.cse.nd.edu Office hours: T.  4:00-5:00 p.m., Th.",
+    "link": [
+        "http://www.cse.nd.edu/faculty/chen.html",
+        "mailto:Ziyi.D.Chen.22@nd.edu",
+        "http://www.nd.edu/~lsuslov/"
+    ],
+    "ground_truth": "course"
+}

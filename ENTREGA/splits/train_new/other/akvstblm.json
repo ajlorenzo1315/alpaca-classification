@@ -1,0 +1,10 @@
+{
+    "Title": "Abstracts of the Horus Papers",
+    "Body": "In this paper we will describe a set of protocols that we have developed to allow a user with a mobile computer to communicate without compromising privacy.",
+    "link": [
+        "http://simon.cs.cornell.edu/Info/Projects/HORUS/index.html",
+        "http://simon.cs.cornell.edu/Info/Projects/HORUS/Overview.html",
+        "http://simon.cs.cornell.edu/Info/Projects/HORUS/People.html"
+    ],
+    "ground_truth": "other"
+}

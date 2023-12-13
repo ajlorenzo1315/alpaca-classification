@@ -1,0 +1,10 @@
+{
+    "Title": "\nNews Articles\n",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Monday, 06-Jan-97 20:48:33 GMT Content-Type: text/html Content-Length: 1244 Last-Modified: Thursday, 10-Oct-96 16:08:42 GMT News Articles News Articles Welcome Send comments,criticisms, suggestions,new links,additions etc to dwip@cs.utexas.edu .",
+    "link": [
+        "http://www.cs.utexas.edu/users/dwip/cs304p/articles/welcome.txt",
+        "mailto:dwip@cs.utexas.edu",
+        "mailto:dwip@cs.utexas.e\ndu"
+    ],
+    "ground_truth": "other"
+}

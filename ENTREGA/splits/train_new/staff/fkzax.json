@@ -1,0 +1,10 @@
+{
+    "Title": " Sarmistha Dutta's Home Page ",
+    "Body": "Some useful information: I am a Systems Administrator at the Central Research Facility( CRF ) My office address is as follows: Sarmistha Dutta(Manu) 483 Computer Science Dept.",
+    "link": [
+        "http://www.cs.columbia.edu/cgi-bin/finger?manu@cs\"",
+        "http://www.cs.columbia.edu",
+        "http://www.columbia.edu"
+    ],
+    "ground_truth": "staff"
+}

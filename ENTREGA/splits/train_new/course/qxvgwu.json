@@ -1,0 +1,10 @@
+{
+    "Title": "No title",
+    "Body": "Date: Wed, 20 Nov 1996 23:18:00 GMT Server: NCSA/1.5 Content-type: text/html Programming Techniques and Data Structures (22C:17/107) MLH 113, 1:10 pm Daily Instructor: Sriram Pemmaraju , Office: 201M MLH, Phone: 335-0741, Office Hours: 10:00 am to 11:00 am, Daily.",
+    "link": [
+        "http://www.cs.uiowa.edu/~sriram",
+        "http://www.cs.uiowa.edu/~qli",
+        "http://www.cs.uiowa.edu/~sriram/17summer95/syllabus.html"
+    ],
+    "ground_truth": "course"
+}

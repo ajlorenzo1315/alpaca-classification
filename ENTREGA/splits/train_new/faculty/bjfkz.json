@@ -1,0 +1,10 @@
+{
+    "Title": "Donald E. Johnson",
+    "Body": "Date: Thu, 21 Nov 1996 20:54:22 GMT Server: Apache/1.1b3 Content-type: text/html Donald E. Johnson Picture to come.",
+    "link": [
+        "mailto:djohnson@cs.umn.edu",
+        "http://www.cs.umn.edu/footer.map",
+        "mailto:www@cs.umn.edu"
+    ],
+    "ground_truth": "faculty"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Wisconsin Computer Vision Group Publications",
+    "Body": "The results we show from an experimental system demonstrate that features of the occluding contour can be computed in a model-based framework, and and their geometry constrains the viewpoints from which a model will project to a set of occluding contour features in an image.",
+    "link": [
+        "#exploration",
+        "#motion",
+        "#shape"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "SOFTWARE INTERCONNECTION LABORATORY",
+    "Body": "Various tech reports and manuals concerning research activities within the laboratory are available, with the hope that readers on the net will feel free to comment and become involved in our work.",
+    "link": [
+        "http://www.cs.umd.edu/",
+        "file://thumper.cs.umd.edu/files/docs/People/who.html",
+        "file://thumper.cs.umd.edu/files/docs/tr.html"
+    ],
+    "ground_truth": "project"
+}

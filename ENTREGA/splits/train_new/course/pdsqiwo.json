@@ -1,0 +1,10 @@
+{
+    "Title": "COS 318: Course Information",
+    "Body": "Problem sets will be handed out on Thursdays and will be due in one or two weeks depending on their complexity.",
+    "link": [
+        "http://www.CS.Princeton.EDU/~rjl",
+        "http://www.CS.Princeton.EDU/~psa",
+        "http://www.CS.Princeton.EDU/courses/archive/spr95/cs318/a0.html"
+    ],
+    "ground_truth": "course"
+}

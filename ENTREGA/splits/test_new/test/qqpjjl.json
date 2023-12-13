@@ -1,0 +1,10 @@
+{
+    "Title": "Routing/Interconnection Network Research Sites",
+    "Body": "GAP , the Parallel Architecture Group at the Technical University of Valencia, led by Jose Duato, has information on routers and theory being worked on by their group.",
+    "link": [
+        "mailto:bolding@spu.edu",
+        "http://www.cs.washington.edu/research/projects/lis/chaos/www/chaos.html",
+        "http://www.ee.gatech.edu/research/labs/csrl"
+    ],
+    "ground_truth": "unknow"
+}

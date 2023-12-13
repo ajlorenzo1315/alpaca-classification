@@ -1,0 +1,10 @@
+{
+    "Title": "Selected Abstracts",
+    "Body": "The file is still in preparation, and until the present sentence is removed, the list of subjects should be considered as partial Please choose abstracts from the following subjects: Approximation orders of general shift-invariant spaces .",
+    "link": [
+        "ftp://ftp.cs.wisc.edu/Approx",
+        "http://www.cs.wisc.edu/~amos/abst/appr.ps ",
+        "http://www.cs.wisc.edu/~amos/abst/int.ps "
+    ],
+    "ground_truth": "other"
+}

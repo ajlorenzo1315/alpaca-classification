@@ -1,0 +1,10 @@
+{
+    "Title": "Information - Peggy Storey",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0pre3 Date: Tuesday, 26-Nov-96 16:31:41 GMT Content-Type: text/html Content-Length: 912 Last-Modified: Friday, 15-Nov-96 19:54:34 GMT Information - Peggy Storey Peggy Storey Peggy Storey is a joint PhD student with the School of Computing Science at Simon Fraser University and the Department of Computer Science at the University of Victoria .",
+    "link": [
+        "http://www-csc.uvic.ca/",
+        "http://www.uvic.ca/",
+        "http://www.rigi.csc.uvic.ca"
+    ],
+    "ground_truth": "student"
+}

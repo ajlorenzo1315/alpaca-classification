@@ -1,0 +1,10 @@
+{
+    "Title": "MPI References",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Wednesday, 15-Jan-97 01:46:22 GMT Content-Type: text/html Content-Length: 929 Last-Modified: Monday, 05-Feb-96 17:25:53 GMT MPI References MPI References There are many MPI documents on the Web.",
+    "link": [
+        "http://www.ccs.neu.edu/home/misha/www",
+        "http://www.mcs.anl.gov/mpi/",
+        "http://www.erc.msstate.edu/mpi/mpi-faq.html"
+    ],
+    "ground_truth": "unknow"
+}

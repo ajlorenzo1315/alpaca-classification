@@ -1,0 +1,10 @@
+{
+    "Title": "Jim Salehi's Home Page (salehi@cs.umass.edu)",
+    "Body": "2nd ACM International Conference on Multimedia, San Francisco, California, October 1994.",
+    "link": [
+        "http://www.cs.umass.edu/",
+        "http://www.cs.umass.edu/rcfdocs/newhome/index.html",
+        "http://www-net.cs.umass.edu/"
+    ],
+    "ground_truth": "student"
+}

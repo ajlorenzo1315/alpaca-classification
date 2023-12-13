@@ -1,0 +1,10 @@
+{
+    "Title": "CS246. Principles from the Cognitive Sciences for Human-Computer Interaction",
+    "Body": "Students learn when and how different areas of the cognitive sciences are likely to be useful (or not be useful) in design.",
+    "link": [
+        "http://pcd.stanford.edu/hci/courses/cs377strub-readings.html",
+        "http://www-pcd.stanford.edu/hci/courses.html",
+        "http://www-cs.stanford.edu"
+    ],
+    "ground_truth": "course"
+}

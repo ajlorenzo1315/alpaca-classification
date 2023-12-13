@@ -1,0 +1,10 @@
+{
+    "Title": " Computer Science Department",
+    "Body": "Server: Netscape-Commerce/1.1 Date: Tuesday, 26-Nov-96 01:00:22 GMT Last-modified: Friday, 22-Nov-96 16:23:49 GMT Content-length: 4240 Content-type: text/html Computer Science Department The Department Computer Resources Faculty, and Staff Graduate Students Alumni Academic Programs Contact Information Suggestion Box Activities With-It Seminars Vanderbilt ACM CSGSO Using the Web Server CS Trivia Server Jargon Watch Job Openings Faculty Positions Research Artifical Intelligence Computational Science Databases Graph Algorithms Image Processing Learning Theory Performance Evaluation Software Engineering On-Line Publications The computer science department is part of Vanderbilt University's School of Engineering .",
+    "link": [
+        "http://cswww.vuse.vanderbilt.edu/computer-resources.html",
+        "http://cswww.vuse.vanderbilt.edu/fac-staff.html",
+        "http://cswww.vuse.vanderbilt.edu/gradstud.html"
+    ],
+    "ground_truth": "unknow"
+}

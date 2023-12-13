@@ -1,0 +1,10 @@
+{
+    "Title": "Personal Page of David Dion",
+    "Body": "Date: Tue, 10 Dec 1996 23:01:10 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Mon, 28 Oct 1996 20:02:22 GMT Content-length: 3101 Personal Page of David Dion David Dion ddion@cs.washington.edu Work Department of Computer Science and Engineering Sieg Hall C-109A University of Washington, FR-35 Seattle, WA 98195 USA (206) 616-1846 Home 8320 Lake City Way NE Apt 305 Seattle, WA 98115-4437 (206) 616-1846 Current Life (or lack thereof): These days just about all my waking hours are spent working in the Department of Computer Science and Engineering at the University of Washington .",
+    "link": [
+        "http://www.cs.indiana.edu/finger/gateway?ddion@cs.washington.edu",
+        "http://www.cs.washington.edu/",
+        "http://www.cs.washington.edu/homes/ddion/office/c109a.html"
+    ],
+    "ground_truth": "other"
+}

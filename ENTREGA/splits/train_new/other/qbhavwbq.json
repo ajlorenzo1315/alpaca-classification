@@ -1,0 +1,9 @@
+{
+    "Title": "Computer Science Fair: HomePage",
+    "Body": "If the project is done as part of an on ongoing Cornell research project, then it is crucial that you clarify the exact contribution of your work in relation to the contributions of persons that are not part of the project team.",
+    "link": [
+        " http://www.media.mit.edu/MediaLab/Noteworthy.html",
+        " http://artnetweb.com/artnetweb/gallery/code/home.html"
+    ],
+    "ground_truth": "other"
+}

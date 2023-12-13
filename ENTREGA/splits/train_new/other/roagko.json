@@ -1,0 +1,10 @@
+{
+    "Title": " Using GNU Common Lisp on Department Workstations ",
+    "Body": "Edit your program in a file using a text editor such as vi or Emacs .",
+    "link": [
+        "http://www.cs.wisc.edu/csl/texihtml/gcl-2.1/gcl-si_toc.html",
+        "http://www.cs.wisc.edu/~shavlik/cs540/html/lisp-editing-tips.html",
+        "http://www.cs.wisc.edu/~dyer/cs540/lisp-vi.lisp"
+    ],
+    "ground_truth": "other"
+}

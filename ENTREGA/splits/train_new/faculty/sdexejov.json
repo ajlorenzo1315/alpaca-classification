@@ -1,0 +1,10 @@
+{
+    "Title": "M.S. Schmalz",
+    "Body": "Introduction to Computers for Architecture Majors (CGS 3470) This link contains course notes, assignments, and grades for the AutoCAD class.",
+    "link": [
+        "mailto:mssz@cis.ufl.edu",
+        "http://www.cise.ufl.edu",
+        "http://www.ufl.edu"
+    ],
+    "ground_truth": "faculty"
+}

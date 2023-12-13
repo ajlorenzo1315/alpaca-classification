@@ -1,0 +1,10 @@
+{
+    "Title": "David A. Karr's LEGO Collection",
+    "Body": "A number of the pages that are currently in the list of LEGOmaniacs on the Web really should be in the above list due to the depth and breadth of their content.",
+    "link": [
+        "http://www.lego.com/",
+        "http://www.cs.cornell.edu/Info/People/karr/lego/disclaimer.html",
+        "http://www.cs.cornell.edu/Info/People/karr/lego/index-txt.html"
+    ],
+    "ground_truth": "other"
+}

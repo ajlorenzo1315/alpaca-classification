@@ -1,0 +1,10 @@
+{
+    "Title": "Ahoy! The Homepage Finder",
+    "Body": "Please report problems to ahoy@cs.washington.edu by Jonathan Shakes , Marc Langheinrich , and Professor Oren Etzioni Ahoy!",
+    "link": [
+        "http://ahoy.cs.washington.edu:6060/doc/orghelp.html",
+        "http://ahoy.cs.washington.edu:6060/doc/directed_search.html",
+        "http://ahoy.cs.washington.edu:6060/doc/geohelp.html"
+    ],
+    "ground_truth": "unknow"
+}

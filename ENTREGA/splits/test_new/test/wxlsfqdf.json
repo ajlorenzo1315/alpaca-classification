@@ -1,0 +1,10 @@
+{
+    "Title": "HMI-5 Home Page",
+    "Body": "Date: Tue, 26 Nov 1996 00:40:51 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Wed, 31 Jan 1996 02:01:49 GMT Content-length: 1286 HMI-5 Home Page HMI-5: Knowledge Discovery in Databases IRIS-2:HMI-5, with the title \"DBLearn: Knowledge Discovery in Databases\" is an IRIS-PRECARN project in the area of ( Human Machine Interaction ).",
+    "link": [
+        "http://fas.sfu.ca/cs/research/projects/HMI-5/images/kdd.jpeg",
+        "http://www.precarn.ca/precarn",
+        "http://fas.sfu.ca/cs/research/projects/HMI-5/plan.html"
+    ],
+    "ground_truth": "unknow"
+}

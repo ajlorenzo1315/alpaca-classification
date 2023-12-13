@@ -1,0 +1,5 @@
+{
+    "Título": "Levent'in ev sayfasi\n",
+    "Cuerpo": "MIME-Version: 1.0 Server: CERN/3.0 Date: Monday, 06-Jan-97 19:40:13 GMT Content-Type: text/html Content-Length: 793 Last-Modified: Friday, 01-Nov-96 00:26:35 GMT Levent'in ev sayfasi Welcome to the home page of Levent Erkok. I'm a graduate student at the department of Computer Sciences at the University of Texas at Austin. My former home page is located in Turkey and my personal information can be reached via there. Just go to http://www.ceng.metu.edu.tr/~erkok to find more about me. Thanks..",
+    "ground_truth": "student"
+}

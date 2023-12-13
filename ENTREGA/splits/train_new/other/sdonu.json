@@ -1,0 +1,10 @@
+{
+    "Title": "Contact Information",
+    "Body": "Date: Tue, 05 Nov 1996 00:13:26 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Fri, 18 Oct 1996 04:02:23 GMT Content-length: 1247 Contact Information How to Reach Me I'm back in Madison, Wisconsin, after a wonderful summer in Portland, Oregon.",
+    "link": [
+        "http://www.cs.wisc.edu/~moy/moy.html",
+        "moy.html",
+        "http://www.cs.wisc.edu/~moy/index.html"
+    ],
+    "ground_truth": "other"
+}

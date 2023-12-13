@@ -1,0 +1,10 @@
+{
+    "Title": "Richard Enbody's Home Page",
+    "Body": "Recent Submissions: IPPS97: Comparing Gang Scheduling with Dynamic Space Sharing on Symmetric Multiprocessors Using Automatic Self-Allocating Threads (ASAT) IEEE Micro (Techical Report MSU CPS-96-11): Beyond RISC -- The Post-RISC Architecture Upcoming publications: Journal of Parallel and Distributed Computing -- Special Issue on Multithreading for Multiprocessors: Managing the Overall Balance of Operating System Threads on a MultiProcessor using Automatic Self-Allocating Threads (ASAT) .",
+    "link": [
+        "http://web.msu.edu:/",
+        "http://web.cps.msu.edu/~enbody//",
+        "http://web.msu.edu:/"
+    ],
+    "ground_truth": "unknow"
+}

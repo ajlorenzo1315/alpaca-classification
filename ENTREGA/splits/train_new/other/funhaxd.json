@@ -1,0 +1,10 @@
+{
+    "Title": "Mike VanHilst's research",
+    "Body": "The key to this approach is to provide a method for implementing components in such a way that they can be composed and independently interchanged.",
+    "link": [
+        "http://www.cs.washington.edu/homes/notkin/",
+        "http://www.cs.washington.edu/homes/vanhilst/isotA.ps",
+        "http://www.cs.washington.edu/homes/vanhilst/isotA.ps.gz"
+    ],
+    "ground_truth": "other"
+}

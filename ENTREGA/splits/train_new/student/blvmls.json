@@ -1,0 +1,10 @@
+{
+    "Title": "Dean Jerding Home Page",
+    "Body": "The key to my approach is the use of patterns of interaction between entities in the system as abstractions which bridge the gulf of abstraction between a program's design and its implementation.",
+    "link": [
+        "http://www.gatech.edu/",
+        "http://www.cc.gatech.edu/gvu/",
+        "http://www.cc.gatech.edu/gvu/people/people.html"
+    ],
+    "ground_truth": "student"
+}

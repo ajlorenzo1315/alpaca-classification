@@ -1,0 +1,10 @@
+{
+    "Title": "Dan's Cyber Abode",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Wednesday, 20-Nov-96 19:41:35 GMT Content-Type: text/html Content-Length: 3038 Last-Modified: Thursday, 25-Apr-96 15:01:37 GMT Dan's Cyber Abode Dan's Cyber Abode Greetings, Ye travelers through digital space, Welcome to mine humble home.",
+    "link": [
+        "http://www.cs.cornell.edu/Info/People/ddhung/autobio/autobio.html",
+        "http://www.cs.cornell.edu/Info/People/ddhung/resume/resume.html",
+        "http://www.tc.cornell.edu/~ddhung"
+    ],
+    "ground_truth": "student"
+}

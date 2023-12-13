@@ -1,0 +1,6 @@
+{
+    "Title": "CSE567 Summary",
+    "Body": "Each team will design a complete project using schematics and Verilog for specification, Verilog-XL for simulation, the Synopsys tools for synthesis, and Xilinx FPGAs for implementation.",
+    "link": [],
+    "ground_truth": "other"
+}

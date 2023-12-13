@@ -1,0 +1,10 @@
+{
+    "Title": " background ",
+    "Body": "sukhpal@cs.cornell.edu I have an interdisciplinary background  comprising Computer Science, High Energy Physics (HEP), and Nonlinear Optics.",
+    "link": [
+        "./pub_suk.ps",
+        "./conf.ps",
+        "http://www.nile.utexas.edu/NC/"
+    ],
+    "ground_truth": "other"
+}

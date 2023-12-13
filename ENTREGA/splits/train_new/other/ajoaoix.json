@@ -1,0 +1,9 @@
+{
+    "Title": " BERNOULLI PROJECT ",
+    "Body": "Such large systems of equations can be solved on parallel machines like the IBM SP-2, using solvers that exploit the sparsity of matrix A to reduce computation and communication requirements.",
+    "link": [
+        "http://www.tc.cornell.edu/SC96/Bernoulli/compiler.html",
+        "http://www.tc.cornell.edu/SC96/Bernoulli/prema/index.html"
+    ],
+    "ground_truth": "other"
+}

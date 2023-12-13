@@ -1,0 +1,10 @@
+{
+    "Title": "\nDoug Burger's Home Page\n",
+    "Body": "Date: Thu, 07 Nov 1996 19:11:31 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Tue, 05 Nov 1996 12:28:20 GMT Content-length: 1957 Doug Burger's Home Page Doug Burger's Home Page Professional information: Research summary Resume/CV Transcript Course projects Advisor Affiliated projects: Galileo/SCI Wisconsin Wind Tunnel Pages I maintain: WWW computer architecture UW computer architecture SimpleScalar tool set Generica SACM Personal stuff: About me Useful links Photo gallery Riding the DEMON Hunting those damn cats Beware of grad school",
+    "link": [
+        "http://www.cs.wisc.edu/~dburger/research.html",
+        "http://www.cs.wisc.edu/~dburger/resume/cv.html",
+        "http://www.cs.wisc.edu/~dburger/resume/transcript.html"
+    ],
+    "ground_truth": "unknow"
+}

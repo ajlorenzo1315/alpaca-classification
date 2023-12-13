@@ -1,0 +1,10 @@
+{
+    "Title": "Courses Home Page ",
+    "Body": "Date: Wed, 15 Jan 1997 00:27:37 GMT Server: Apache/1.1.1 Content-type: text/html Content-length: 605 Last-modified: Wed, 16 Oct 1996 17:05:26 GMT Courses Home Page Courses CPSC 210 Data Structures CPSC 321 Computer Architecture CPSC 483 Computer System Design Last updated: Oct 16th, 1996.",
+    "link": [
+        "http://www.cs.tamu.edu/people/anishk/321/",
+        "http://www.cs.tamu.edu/people/chenxt/cpsc483.html",
+        "http://www.cs.tamu.edu/cgi-bin/personal_mailform?rabi"
+    ],
+    "ground_truth": "other"
+}

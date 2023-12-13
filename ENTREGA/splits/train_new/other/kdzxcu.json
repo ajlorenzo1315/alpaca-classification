@@ -1,0 +1,10 @@
+{
+    "Title": "What I did on my Summer Vacation",
+    "Body": "I took a number of pictures along the way, but, due to my own stupidity, the first roll of film containing pictures of the Badlands, Wall Drug, Mount Rushmore, and other highlights of South Dakota and Wyoming was ruined.",
+    "link": [
+        "\nhttp://www.software.ibm.com/torcas",
+        "http://www.cs.wisc.edu/~dburger/dburger.html",
+        "http://www.cs.wisc.edu/"
+    ],
+    "ground_truth": "other"
+}

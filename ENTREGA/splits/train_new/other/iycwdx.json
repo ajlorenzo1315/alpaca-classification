@@ -1,0 +1,8 @@
+{
+    "Title": " Courses: Databases and Information Systems ",
+    "Body": "Some issues concerning spatial and geographic databases will be addressed next: how to store data, and how to specify and process queries.",
+    "link": [
+        "http://www.cs.wm.edu/~simha"
+    ],
+    "ground_truth": "other"
+}

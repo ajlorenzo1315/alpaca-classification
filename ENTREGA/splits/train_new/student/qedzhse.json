@@ -1,0 +1,10 @@
+{
+    "Title": "Markus Mock's Home Page ",
+    "Body": "Before coming to the UW I studied Computer Science at the University of Karlsruhe from which I obtained a \"Diplom\" (M.S.)",
+    "link": [
+        "http://www.cs.washington.edu/htbin-post/finger/mock@cs",
+        "http://www.cs.washington.edu/",
+        "http://www.washington.edu/"
+    ],
+    "ground_truth": "student"
+}

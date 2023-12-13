@@ -1,0 +1,10 @@
+{
+    "Title": "Curve Finder",
+    "Body": "If you are ready to run the program on your image file, please use the submission form below: Please type in the complete URL of a GIF, JPEG or IFF file.",
+    "link": [
+        "http://www.cs.rochester.edu/u/eveland",
+        "http://www/cs.rochester.edu/u/si",
+        "http://www.cs.rochester.edu/u/selinger"
+    ],
+    "ground_truth": "unknow"
+}

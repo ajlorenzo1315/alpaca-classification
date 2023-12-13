@@ -1,0 +1,10 @@
+{
+    "Title": "  Julian Pelenur  ",
+    "Body": "PRVF (Posse Really Fast Video): The goal is to design and implement a technique to achieve full screen motion video over a cluster of workstations on an ATM network.",
+    "link": [
+        "http://www.cs.cornell.edu/Info/People/julian/julian.gif",
+        "http://www.cornell.edu/",
+        "http://www.cs.cornell.edu/"
+    ],
+    "ground_truth": "student"
+}

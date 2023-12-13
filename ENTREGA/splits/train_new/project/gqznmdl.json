@@ -1,0 +1,10 @@
+{
+    "Title": "\nMemory Systems Research at the University of Washington\n",
+    "Body": "People Faculty: Brian Bershad (bershad@cs.washington.edu) Anna Karlin (karlin@cs.washington.edu) Current Students: Dennis Lee (dlee@cs.washington.edu) Wayne Ohlrich (ohlrich@cs.washington.edu) Ted Romer (romer@cs.washington.edu) Wayne Wong (waynew@cs.washington.edu) Papers Reducing TLB and Memory Overhead Using Online Superpage Promotion .",
+    "link": [
+        "http://www.cs.washington.edu",
+        "ftp://ftp.u.washington.edu/public/",
+        "http://www.cs.washington.edu/area/"
+    ],
+    "ground_truth": "project"
+}

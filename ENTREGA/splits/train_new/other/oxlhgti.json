@@ -1,0 +1,10 @@
+{
+    "Title": "Sieg Hall Thermometer",
+    "Body": "Date: Tue, 10 Dec 1996 20:44:19 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Wed, 04 Sep 1996 19:39:02 GMT Content-length: 727 Sieg Hall Thermometer Sieg Hall Thermometer Sorry, the Sieg Hall Thermometer requires Java.",
+    "link": [
+        "http://www.cs.washington.edu/homes/nick/thermometer/temp.txt",
+        "http://www.cs.washington.edu/homes/nick/thermometer/thermometer-description.html",
+        "http://www.cs.washington.edu/homes/nick/classes/Thermometer.java"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,5 @@
+{
+    "Título": "Eric's Home Page",
+    "Cuerpo": "Date: Tue, 26 Nov 1996 02:50:19 GMT Server: Apache/1.1.1 Content-type: text/html Content-length: 1323 Last-modified: Tue, 26 Mar 1996 23:22:28 GMT Eric's Home Page Eric's SUPER DUPER Home Page Eric Siegel Man's Best Friend I am a graduate student in the Computer Science Department at Columbia University in New York City . I am doing a thesis on natural language processing with Kathleen R. McKeown. My other major interest is genetic algorithms, so I use them for natural language. I maintain a Genetic Programming Brainstorming Archive created by the participants of the AAAI Symposium on Genetic Programming, Fall 1995. Also, here are my opinions on How To Write a Paper for GP . My homepage is lame, but my friend Alex Chaffee says everything else I want to say about genetic programming and stuff, and Lars likes it anyway. You can send me email . \"Wow, this is some kind of genetic algorithm!\" says Kelly Lynch in \"Virtuousity,\" starring Denzel Washington.",
+    "ground_truth": "student"
+}

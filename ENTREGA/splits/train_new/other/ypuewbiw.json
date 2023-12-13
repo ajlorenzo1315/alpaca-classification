@@ -1,0 +1,10 @@
+{
+    "Title": "CS Department Researchers",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Monday, 16-Dec-96 23:56:34 GMT Content-Type: text/html Content-Length: 2852 Last-Modified: Friday, 01-Nov-96 17:12:29 GMT CS Department Researchers Researchers in the CS Department We have a directory listing of all the people in the department, giving the email address, office number, and phone number for each person.",
+    "link": [
+        "http://www.cs.cornell.edu/Info/Department/list_of_people.line",
+        "http://www.cs.cornell.edu/Info/People/frank/frank.html",
+        "http://www.cs.cornell.edu/Info/People/chew/chew.html"
+    ],
+    "ground_truth": "other"
+}

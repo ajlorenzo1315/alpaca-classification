@@ -1,0 +1,10 @@
+{
+    "Title": "Support for Cecil/Vortex",
+    "Body": "They also developed the javac compiler as part of the JDK, which we have adapted as our Java front-end for Vortex.",
+    "link": [
+        "http://www.nsf.gov/",
+        "http://www.arpa.mil/",
+        "http://www.cs.washington.edu/research/projects/spin/www"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,6 @@
+{
+    "Title": "Parallel Raytracing in CC++",
+    "Body": "5.Experiences and Conclusions CC++ We found CC++ to be overall a very effective language to work with in that it allowed us to think about parallelism in a structured manner.",
+    "link": [],
+    "ground_truth": "other"
+}

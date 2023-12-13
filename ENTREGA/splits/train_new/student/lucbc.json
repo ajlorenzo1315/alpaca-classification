@@ -1,0 +1,10 @@
+{
+    "Title": " Val Donaldson ",
+    "Body": "Ninth Workshop on Languages and Compilers for Parallel Computing, San Jose, CA, August 1996.",
+    "link": [
+        "http://www-cse.ucsd.edu/users/vdonalds/lcpc.ps",
+        "http://www-cse.ucsd.edu/users/vdonalds/tr481.ps",
+        "http://www-cse.ucsd.edu/users/vdonalds/ipps.ps"
+    ],
+    "ground_truth": "student"
+}

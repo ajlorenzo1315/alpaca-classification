@@ -1,0 +1,10 @@
+{
+    "Title": "\nCSE331 -  Lecture Transparencies\n",
+    "Body": "(GIF format) Slide 96 Representing 2-3-4 Trees with R-B Trees (GIF format) Slide 97 Equivalent 3-node Representations (GIF format) Slide 98 4-Nodes in Red-Black Trees (GIF format) Slide 99 Ramifications of Breaking-up 4-nodes (GIF format) Slide 100 4-Node Break-Up Ramifications (GIF format) Slide 101 4-Node Break-Up Ramifications (GIF format) Slide 102 4-Node Break-Up Ramifications (GIF format) Slide 103 4-Node Break-Up ramifications (GIF Format) Slide 104 4-Node Break-Up Ramifications (GIF format) Slide 105 The Rotate Routine (GIF format) Slide 106 4-Node Break-Up at the Root (GIF format) Slide 107 The 4-Node Split Routine (GIF format) Slide 108 Searching in Red-Black Trees (GIF format) Slide 109 Worstcase Insertion Order (GIF format) Slide 110 Hashing Introduction (GIF format) Slide 111 Hashing With Modulo Arithmetic (GIF format) Slide 112 The Modulo Operation (GIF format) Slide 113 Separate Chaining (GIF Format) Slide 114 Linear Probing (GIF format) Slide 115 Linear Probing Example (GIF format) Slide 116 Double Hashing (GIF format) Slide 117 Double Hashing Example (GIF format) Slide 118 Linear Probe Statistics (GIF format) Slide 119 Other Hashing Functions (GIF format) Slide 120 Black-and-White Image Coding (GIF format) Slide 121 Coded Image Example (GIF format) Slide 122 Variable-Length Coding (GIF format) Slide 123 Huffman Coding Example (GIF Format) Slide 124 Continuing (GIF format) Slide 125 Continuing (GIF format) Slide 126 C.W.",
+    "link": [
+        "http://wizard.cse.nd.edu/class_data/cse331/lectures/slide1.gif",
+        "http://wizard.cse.nd.edu/class_data/cse331/lectures/slide2.gif",
+        "http://wizard.cse.nd.edu/class_data/cse331/lectures/slide3.gif"
+    ],
+    "ground_truth": "other"
+}

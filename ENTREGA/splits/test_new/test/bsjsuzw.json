@@ -1,0 +1,10 @@
+{
+    "Title": "The Horus Project",
+    "Body": "The Horus project was originally launched as an effort to redesign  the Isis group communication system, but has evolved into a general purpose communication architecture with advanced support for the development of robust distributed systems in settings for which Isis was unsuitable, such as applications that have special security or real-time requirements.",
+    "link": [
+        "http://simon.cs.cornell.edu/Info/Projects/HORUS/index.html",
+        "http://simon.cs.cornell.edu/Info/Projects/HORUS/Overview.html",
+        "http://simon.cs.cornell.edu/Info/Projects/HORUS/People.html"
+    ],
+    "ground_truth": "unknow"
+}

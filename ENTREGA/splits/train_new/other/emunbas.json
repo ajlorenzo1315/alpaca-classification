@@ -1,0 +1,10 @@
+{
+    "Title": "Multimedia Services",
+    "Body": "It is also meant as a showcase for our services, so that those in the building can get a feel for what services we can provide for them, and those out of the building can see what we are about, what we have done, and hopefully benefit from our experience.",
+    "link": [
+        "history.html",
+        "tools.html",
+        "3Dmod_rend.html"
+    ],
+    "ground_truth": "other"
+}

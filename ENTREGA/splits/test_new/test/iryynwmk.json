@@ -1,0 +1,8 @@
+{
+    "Title": "Program Four",
+    "Body": "The puzzle would become: #A#'# ##A### But if the user guesses a letter which isnt in the word (for example, a Q), then he is one step closer to the hangman's gallows.",
+    "link": [
+        "http://www.cs.wisc.edu/~turnidge/turnidge.html"
+    ],
+    "ground_truth": "unknow"
+}

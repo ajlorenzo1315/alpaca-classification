@@ -1,0 +1,10 @@
+{
+    "Title": "Ed C's Home Page",
+    "Body": "Date: Tue, 26 Nov 1996 17:50:15 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Thu, 01 Dec 1994 20:57:38 GMT Content-length: 1294 Ed C's Home Page Ed Cymbalak (picture coming soon - maybe not so soon ?",
+    "link": [
+        "http://www.cs.pitt.edu/cgi-bin/finger.exp?epc",
+        "http://www.cs.pitt.edu/~epc/schedule.html",
+        "http://info.cern.ch/hypertext/WWW/TheProject.html"
+    ],
+    "ground_truth": "student"
+}

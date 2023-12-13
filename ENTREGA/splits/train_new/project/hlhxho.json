@@ -1,0 +1,10 @@
+{
+    "Title": "Locality Management",
+    "Body": "This work will lead to a better understanding of the role of locality and data sharing in parallel program performance, and a comprehensive understanding of the effectiveness of techniques for locality management and their interactions.",
+    "link": [
+        "http://www.cs.rochester.edu/urcs.html",
+        "http://www.cs.rochester.edu/users/faculty/leblanc/home.html",
+        "http://www.cs.rochester.edu/users/faculty/scott/home.html"
+    ],
+    "ground_truth": "project"
+}

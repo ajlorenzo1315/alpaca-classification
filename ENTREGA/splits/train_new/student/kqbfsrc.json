@@ -1,0 +1,10 @@
+{
+    "Title": " Muralidhar's home page ",
+    "Body": "( Best to be viewed using Netscape version 2.0 or higher ) I made this bland page specially for those accessing from far away places so that they neednt wait staring at the blank page until dozens of socket connections are made and thousands of bits of images are transferred.",
+    "link": [
+        "http://www.cs.wisc.edu/~kmurli/kmurli_academic.html",
+        "http://www.cs.wisc.edu/~kmurli/kmurli_main.html",
+        "http://www.cs.wisc.edu/~kmurli/kmurli_text.html"
+    ],
+    "ground_truth": "student"
+}

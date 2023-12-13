@@ -1,0 +1,10 @@
+{
+    "Title": " Bryan So's Home Page ",
+    "Body": "Date: Thu, 07 Nov 1996 19:14:57 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Fri, 19 Jan 1996 05:22:56 GMT Content-length: 1556 Bryan So's Home Page Bryan So Graduate Student Computer Sciences Department University of Wisconsin - Madison 1210 W. Dayton St. Madison, WI  53706 Office: CS 5364 E-mail: so@cs.wisc.edu Telephone: (608) 262-5105 Fax: (608) 262-9777 MS Computer Sciences, University of Wisconsin-Madison 1989 BS Computer Science, Purdue University, 1988 Interests: intelligent help systems, human-computer interaction, knowledge representation of operating system activities Selected Recent Publications So, B.",
+    "link": [
+        "http://www.cs.wisc.edu/",
+        "http://www.cs.wisc.edu/~shavlik/uwai.html",
+        "http://www.cs.wisc.edu/~so/travis.html"
+    ],
+    "ground_truth": "student"
+}

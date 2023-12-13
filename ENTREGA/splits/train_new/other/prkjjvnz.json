@@ -1,0 +1,10 @@
+{
+    "Title": "Duke University Computer Science People",
+    "Body": "Date: Tue, 14 Jan 1997 19:52:00 GMT Server: NCSA/1.5.2 Last-modified: Mon, 13 Jan 1997 23:18:34 GMT Content-type: text/html Content-length: 1465 Duke University Computer Science People The People of the Duke University Department of Computer Science Faculty Administrative Staff Research Associates Systems Staff Graduate Students Graduate Alumni Undergraduate Students Guests Enter keywords to look up in the Duke phone book: Duke University Department of Computer Science.",
+    "link": [
+        "http://www.cs.duke.edu/cgi-bin/factable?text",
+        "http://www.cs.duke.edu//adminstaff.html",
+        "http://www.cs.duke.edu/people/ra.html"
+    ],
+    "ground_truth": "other"
+}

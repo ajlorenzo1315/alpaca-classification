@@ -1,0 +1,10 @@
+{
+    "Title": "  WWT Technical Papers ",
+    "Body": "Wood, Satish Chandra, Babak Falsafi, Mark D. Hill, James R. Larus, Alvin R. Lebeck, James C. Lewis, Shubhendu S. Mukherjee, Subbarao Palacharla, Steven K. Reinhardt (ACM/IEEE International Symposium on Computer Architecture (ISCA), May 1993).",
+    "link": [
+        "#overview",
+        "#tempest",
+        "#custom"
+    ],
+    "ground_truth": "other"
+}

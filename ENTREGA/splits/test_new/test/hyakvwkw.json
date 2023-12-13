@@ -1,0 +1,8 @@
+{
+    "Title": "The E-Mail Virus",
+    "Body": "A virus can only be active (do something) if it is a piece of an executable; if however it is in file that is treated only as data, it can do no harm.",
+    "link": [
+        "index.html"
+    ],
+    "ground_truth": "unknow"
+}

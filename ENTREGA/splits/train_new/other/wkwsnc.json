@@ -1,0 +1,6 @@
+{
+    "Title": "The evolution of a Programmer ",
+    "Body": "// get object path wcsPath[0] = '\\0'; wcsT[0] = '\\0'; if( argc > 1) { mbstowcs(wcsPath, argv[1], strlen(argv[1]) + 1); wcsupr(wcsPath); } else { fprintf(stderr, \"Object path must be specified\\n\"); return(1); } // get print string if(argc > 2) mbstowcs(wcsT, argv[2], strlen(argv[2]) + 1); else wcscpy(wcsT, L\"Hello World\"); printf(\"Linking to object %ws\\n\", wcsPath); printf(\"Text String %ws\\n\", wcsT); // Initialize the OLE libraries hRslt = CoInitializeEx(NULL, COINIT_MULTITHREADED); if(SUCCEEDED(hRslt)) { hRslt = CreateFileMoniker(wcsPath, &pmk); if(SUCCEEDED(hRslt)) hRslt = BindMoniker(pmk, 0, IID_IHello, (void **)&pHello); if(SUCCEEDED(hRslt)) { // print a string out pHello->PrintSz(wcsT); Sleep(2000); ulCnt = pHello->Release(); } else printf(\"Failure to connect, status: %lx\", hRslt); // Tell OLE we are going away.",
+    "link": [],
+    "ground_truth": "other"
+}

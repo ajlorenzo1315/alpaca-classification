@@ -1,0 +1,10 @@
+{
+    "Title": "Andy Gray's Home Page",
+    "Body": "In my other life, I am a software engineer for ACCEL Technologies, Inc. , an industry leader in the Electronic Design Automation software market since 1986.",
+    "link": [
+        "mailto:agray@cs.ucsd.edu",
+        "http://www-cse.ucsd.edu/users/wgg/swevolution.html",
+        "http://www-cse.ucsd.edu/users/agray/research/proposal.html"
+    ],
+    "ground_truth": "student"
+}

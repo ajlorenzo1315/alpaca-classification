@@ -1,0 +1,10 @@
+{
+    "Title": "\nRon Even's Home Page\n",
+    "Body": "Research Interests Right now, I am working on a simulator for complex adaptive systems.",
+    "link": [
+        "http://cs.nyu.edu/",
+        "http://cs.nyu.edu/cs/courantnyu.html",
+        "http://www.nyu.edu/"
+    ],
+    "ground_truth": "student"
+}

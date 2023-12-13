@@ -1,0 +1,10 @@
+{
+    "Title": " Dr. Reilly's home page ",
+    "Body": "Simulation Processors and Environments Our BEAK model of a SimEnvironment (Build, Exercise, Analyse, Knowledge) includes work such as: B-unit activites are a logic-based processor for reasoning about simulation software and natural language input in the model building process.",
+    "link": [
+        "http://www.cis.uab.edu/info/faculty/reilly/96HerraraVergegay.html",
+        "http://www.cis.uab.edu/info/faculty/reilly/96IPMU.Granada.html",
+        "http://www.cis.uab.edu/info/faculty/reilly/TransSocCompSimI.ps"
+    ],
+    "ground_truth": "unknow"
+}

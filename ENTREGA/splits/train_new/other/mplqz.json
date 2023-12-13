@@ -1,0 +1,10 @@
+{
+    "Title": "The D System Home Page",
+    "Body": "Date: Tue, 14 Jan 1997 21:26:48 GMT Server: NCSA/1.5.1 Last-modified: Thu, 21 Nov 1996 18:51:57 GMT Content-type: text/html Content-length: 1887 The D System Home Page Welcome to the World Wide Web home page for the D System, a major component of the Fortran Tools effort at Rice University .",
+    "link": [
+        "http://www.crpc.rice.edu/fortran-tools/",
+        "http://riceinfo.rice.edu",
+        "http://www.crpc.rice.edu/fortran-tools/DSystem/project.html"
+    ],
+    "ground_truth": "other"
+}

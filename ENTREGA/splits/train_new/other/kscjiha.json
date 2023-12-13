@@ -1,0 +1,10 @@
+{
+    "Title": "Paradyn Project Papers",
+    "Body": "In this paper we describe a configuration that integrates a performance tool, Paradyn, and a debugger to build a steering environment.",
+    "link": [
+        "ftp://grilled.cs.wisc.edu/technical_papers/overview.ps.Z",
+        "http://www.cs.wisc.edu/~paradyn/dyninstAPI.html",
+        "ftp://grilled.cs.wisc.edu/technical_papers/costmodel.ps.Z"
+    ],
+    "ground_truth": "other"
+}

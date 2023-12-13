@@ -1,0 +1,10 @@
+{
+    "Title": "CSE 322 \nAssignment 9 \nDue Friday, March 1, 1996",
+    "Body": "Construct a new NFA M that accepts the language Think of L as the set of arbitrary shuffles of strings from and .",
+    "link": [
+        "node1.html",
+        "node1.html",
+        "node1.html#SECTION00010000000000000000"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": " Homepage for Scott B. Baden ",
+    "Body": "Date: Thu, 21 Nov 1996 20:12:03 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Wed, 23 Oct 1996 21:37:05 GMT Content-length: 5246 Homepage for Scott B. Baden Scott B. Baden Associate Professor of Computer Science and Engineering Address Department of Computer Science and Engineering University of California, San Diego 9500 Gilman Drive La Jolla  CA  92093-0114 USA Phone: (619) 534-8861 FAX: (619) 534-7029 Email: baden@cs.ucsd.edu Office hours for SQ '96 (5101 APM): Wed 2 PM - 4 PM Secretary: Michele Foley (mfoley@cs), tel 619-534-5288 Research Interests Software support for parallel scientific programming, load balancing, applications, including ab-initio molecular dynamics.",
+    "link": [
+        "http://www-cse.ucsd.edu/",
+        "http://www.ucsd.edu",
+        "http://www-cse.ucsd.edu/users/baden/research.html"
+    ],
+    "ground_truth": "faculty"
+}

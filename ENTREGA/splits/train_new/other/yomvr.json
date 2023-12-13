@@ -1,0 +1,10 @@
+{
+    "Title": "Summary of Nuprl Theories",
+    "Body": "Lemmas concern basic properties of arithmetic functions over integers, and induction principles.",
+    "link": [
+        "format.html",
+        "theories/core_1.html",
+        "theories/core_2.html"
+    ],
+    "ground_truth": "other"
+}

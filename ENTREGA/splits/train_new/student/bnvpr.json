@@ -1,0 +1,10 @@
+{
+    "Title": "Yong-Chul Oh Information Page ",
+    "Body": "He researched at the Database Systems Research & Development Center of University of Florida, and joined PhD program in Georgia Institute of Technology in 1991.",
+    "link": [
+        "http://www.cc.gatech.edu/computing/Database/students/oh/pictures/pic.jpeg",
+        "http://www.cc.gatech.edu/computing/Database/database.html",
+        "http://www.cc.gatech.edu/Computing.html"
+    ],
+    "ground_truth": "student"
+}

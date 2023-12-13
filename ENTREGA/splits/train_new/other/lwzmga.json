@@ -1,0 +1,10 @@
+{
+    "Title": "David Krumme Research Overview",
+    "Body": "The following two papers deal mainly with the case where each vertex can only send to or receive from one neighbor at a time: Gossiping in Minimal Time obtains lower and upper bounds on the time to gossip for several types of graphs.",
+    "link": [
+        "http://www.cs.tufts.edu/~dwk/gossip.ps",
+        "http://www.cs.tufts.edu/~dwk/cubegossip.ps",
+        "http://www.cs.tufts.edu/~dwk/reorder.ps"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Suggested Projects for CS664 ",
+    "Body": "We would like the user to be able to click on a portion of the image and have the camera pan/tilt to keep the object centered in focus.",
+    "link": [
+        "http://www.cs.washington.edu/research/arch/",
+        "http://www.virage.com/vir-res/demos/",
+        "http://www.cfar.umd.edu/ftp/TRs/CVL-Reports-1993/TR3176-Sirohey.ps.Z"
+    ],
+    "ground_truth": "other"
+}

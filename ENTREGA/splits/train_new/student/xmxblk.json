@@ -1,0 +1,10 @@
+{
+    "Title": "Andy's Home Page",
+    "Body": "Date: Tue, 26 Nov 1996 18:01:25 GMT Server: NCSA/1.4.1 Content-type: text/html Last-modified: Tue, 20 Aug 1996 19:10:58 GMT Content-length: 1313 Andy's Home Page Andrew S Miner Professional student since 1976 File Photo Welcome to my home page In accordance with section 42-3.14159 of the Virginia penal code, which requires all computer geeks to have their own web pages, I herewith provide the index to said pages.",
+    "link": [
+        "http://www.cs.wm.edu/~asminer/resume.html",
+        "http://www.cs.wm.edu/~asminer/monster.html",
+        "http://www.cs.wm.edu/~asminer/darkside.html"
+    ],
+    "ground_truth": "student"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Martin Hardwick",
+    "Body": "He is a member of the IEEE Computer Society and the ACM.",
+    "link": [
+        "http://www.cs.rpi.edu",
+        "http://www.rdrc.rpi.edu",
+        "http://www.steptools.com"
+    ],
+    "ground_truth": "faculty"
+}

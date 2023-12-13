@@ -1,0 +1,10 @@
+{
+    "Title": "James' New and IMPROVED page...",
+    "Body": "Date: Tuesday, 26-Nov-96 03:08:17 GMT Server: NCSA/1.1 MIME-version: 1.0 Content-type: text/html Last-modified: Sunday, 03-Nov-96 19:59:36 GMT James' New and IMPROVED page... James' World (If you see this,your browser is JAVA impaired....and you're missing some cool stuff!!!)",
+    "link": [
+        "http://www.cs.nmsu.edu/~jaovertu/me.html",
+        "http://www.cs.nmsu.edu/~t1cs371",
+        "http://www.cs.nmsu.edu/~cawallac"
+    ],
+    "ground_truth": "student"
+}

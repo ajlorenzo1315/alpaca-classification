@@ -1,0 +1,9 @@
+{
+    "Title": "No title",
+    "Body": "Date: Tuesday, 26-Nov-96 03:07:23 GMT Server: NCSA/1.1 MIME-version: 1.0 Content-type: text/html Last-modified: Wednesday, 10-Jul-96 17:57:41 GMT Thorsten Sandgren-Öhrström This page is still under construction Welcome... My Resume Mail Thorsten Sandgren-Öhrström",
+    "link": [
+        "http://www.cs.nmsu.edu/~tsandgre/my_resume.html",
+        "mailto:tsandgre@cs.nmsu.edu"
+    ],
+    "ground_truth": "student"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Virtual Reality and Telepresence",
+    "Body": "The course has been novel in its use of electronic mechanisms for distribution of information to students, and from students to the instructor.",
+    "link": [
+        "http://www.cs.umd.edu/projects/eve/projects/hcil/vrtp/overview",
+        "ftp://umd5.umd.edu/pub/vrtp/syllabus",
+        "ftp://umd5.umd.edu/pub/vrtp"
+    ],
+    "ground_truth": "project"
+}

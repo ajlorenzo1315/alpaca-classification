@@ -1,0 +1,10 @@
+{
+    "Title": "Chris Rosin's Homepage",
+    "Body": "\"A Competitive Approach to Game Learning\" , Christopher D. Rosin and Richard K. Belew.",
+    "link": [
+        "http://www-cse.ucsd.edu/users/crosin/newmethods.ps",
+        "http://www-cse.ucsd.edu/users/crosin/icgawww.ps",
+        "http://www-cse.ucsd.edu/users/crosin/coltwww.ps"
+    ],
+    "ground_truth": "unknow"
+}

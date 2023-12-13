@@ -1,0 +1,10 @@
+{
+    "Title": " CUinfo -Ithaca",
+    "Body": "Life in the Ithaca Area ...information about the Ithaca community.",
+    "link": [
+        "/CUinfo.html",
+        "#Info",
+        "http://www.cornell.edu/cgi-bin/ithaca_date"
+    ],
+    "ground_truth": "other"
+}

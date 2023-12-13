@@ -1,0 +1,10 @@
+{
+    "Title": "\nJussi Karlgren, NYU\n",
+    "Body": "Background and Reseach Goals I received my B A in Computational Linguistics and Mathematics in 1988, a Licentiate of Philosophy in Computer and Systems Sciences 1992, and have since then been employed at SICS in the Language and Interaction group - the former Natural Language Processing group - which position I currently am on leave from to uphold a research assistant position at New York University.",
+    "link": [
+        "http://www.sics.se/",
+        "http://www.sunet.se:80/stockholm/",
+        "http://www.sunet.se/map/sweden.html"
+    ],
+    "ground_truth": "staff"
+}

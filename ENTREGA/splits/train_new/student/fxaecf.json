@@ -1,0 +1,10 @@
+{
+    "Title": "Neat stuff about Brad Fischer",
+    "Body": "My résumé is slightly updated, reflecting my new degree (and I made general updates to the whole site to reflect that).",
+    "link": [
+        "http://www.gatech.edu/TechHome.html",
+        "http://www.cc.gatech.edu/Computing.html",
+        "http://www.cc.gatech.edu/grads/f/Brad.Fischer/photography/index.html"
+    ],
+    "ground_truth": "student"
+}

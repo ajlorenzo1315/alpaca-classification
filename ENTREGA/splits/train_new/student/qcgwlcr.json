@@ -1,0 +1,10 @@
+{
+    "Title": "Carlos Puchol",
+    "Body": "Check the group's Web page .",
+    "link": [
+        "http://cs-www.bu.edu/pub/ieee-rts/Home.html",
+        "http://www.comlab.ox.ac.uk/archive/formal-methods/",
+        "http://www.cs.utexas.edu/users/cpg/TempEst"
+    ],
+    "ground_truth": "student"
+}

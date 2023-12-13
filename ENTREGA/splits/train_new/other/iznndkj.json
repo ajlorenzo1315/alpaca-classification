@@ -1,0 +1,10 @@
+{
+    "Title": "CS 537 - Introduction",
+    "Body": "Problems: getting it to work at all getting it to work efficiently utilization (keeping all the devices busy) throughput (getting a lot of useful work done per hour) response (getting individual things done quickly) protection limiting the effects of bugs (preventing idiots from ruining it for everyone) preventing unauthorized access to data modification of data use of resources (preventing bad guys from ruining it for everyone) Bottom-up View (starting with the hardware) Hardware (summary; more details later) components one or more central processing units (CPU's) main memory (RAM, core) I/O devices bus, or other communication mechanism connects them all together CPU has PC pointing to next instruction to execute fetches instructions one at a time from location specified by PC increments PC after fetching instruction; branch instructions can also alter the PC responds to \"interrupts\" by jumping to a different location (like an unscheduled procedure call) Memory responds to \"load\" and \"store\" requests from the CPU, one at a time.",
+    "link": [
+        "#history",
+        "#goals",
+        "#bottom-up"
+    ],
+    "ground_truth": "other"
+}

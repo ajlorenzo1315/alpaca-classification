@@ -1,0 +1,10 @@
+{
+    "Title": " The UW-Madison Computer Sciences Dept. Alumni Group",
+    "Body": "We use our email list to announce job postings and other items of general interest to UW-CS alums.",
+    "link": [
+        "mailto:alumni@cs.wisc.edu",
+        "mailto:alumni@cs.wisc.edu",
+        "http://www.cs.wisc.edu/~alumni/send-news.html"
+    ],
+    "ground_truth": "other"
+}

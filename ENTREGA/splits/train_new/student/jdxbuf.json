@@ -1,0 +1,10 @@
+{
+    "Title": "D.X.Hoang's Homepage",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Thursday, 21-Nov-96 22:39:22 GMT Content-Type: text/html Content-Length: 1307 Last-Modified: Tuesday, 19-Nov-96 14:17:18 GMT D.X.Hoang's Homepage Dustin X. Hoang Your daily life is your temple and religion.",
+    "link": [
+        "http://www.ccs.neu.edu/home/dxhoang/academic/academic.html",
+        "http://www.ccs.neu.edu/home/dxhoang/asia.html",
+        "http://www.ccs.neu.edu/home/dxhoang/religion/religion.html"
+    ],
+    "ground_truth": "student"
+}

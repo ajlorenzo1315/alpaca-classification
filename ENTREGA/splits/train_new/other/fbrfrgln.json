@@ -1,0 +1,10 @@
+{
+    "Title": "Roll Dice to Solve the Same-Birthday Puzzle",
+    "Body": "Alternatively, you can press the ``recalculate'' button next to the number of dice to find out how many dice you need to roll in order to have a sufficiently low probability of not rolling too many matching numbers.",
+    "link": [
+        "#foo",
+        "http://www.cs.cornell.edu/home/karr/",
+        "mailto:karr@cs.cornell.edu"
+    ],
+    "ground_truth": "other"
+}

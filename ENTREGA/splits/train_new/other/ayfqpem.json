@@ -1,0 +1,10 @@
+{
+    "Title": "Wayne's Fun and Games",
+    "Body": "Page Created February 3, 1995.",
+    "link": [
+        "http://www.cs.washington.edu/homes/ohlrich/quote.html",
+        "http://www.ugcs.caltech.edu/~werdna/handey.html",
+        "http://www.cs.washington.edu/homes/ohlrich/horton.html"
+    ],
+    "ground_truth": "other"
+}

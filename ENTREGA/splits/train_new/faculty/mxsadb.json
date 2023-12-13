@@ -1,0 +1,10 @@
+{
+    "Title": "Amy Weinberg",
+    "Body": "Other Appointments: Joint Appointments in UMIACS and Computer Science Co-director of CLIP Laboratory with Bonnie Dorr and Louiqa Raschid Research Interests: Syntactic modeling of human language, the development of psychologically verified models of human sentence processing, and the development of broad coverage, compact and efficient natural language systems to support computerized language understanding systems.",
+    "link": [
+        "http://www.umiacs.umd.edu/",
+        "http://www.cs.umd.edu/",
+        "http://www.umiacs.umd.edu/research/CLIP/"
+    ],
+    "ground_truth": "faculty"
+}

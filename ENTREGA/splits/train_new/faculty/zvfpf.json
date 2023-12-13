@@ -1,0 +1,10 @@
+{
+    "Title": "Jim Lipton HyperMedia Plan File",
+    "Body": "Welcome to the WWW page of the LPAI (Logic Programming and Artificial Intelligence) Research Group at the Department of Computer Science at the Katholieke ... --- [567] http://www.cs.kuleuven.ac.be/~lpai/ (2K) Welcome to the Logic Programming Section , Department of Computing, Imperial College.",
+    "link": [
+        "mailto:lipton@wesleyan.edu",
+        "http://cs.indiana.edu/finger/allegory.cs.wesleyan.edu/lipton/w",
+        "http://www.cs.wesleyan.edu/~lipton/may_send96.ps"
+    ],
+    "ground_truth": "faculty"
+}

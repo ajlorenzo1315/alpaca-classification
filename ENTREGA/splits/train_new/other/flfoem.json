@@ -1,0 +1,9 @@
+{
+    "Title": "Gaetano Borriello - Bio",
+    "Body": "Date: Tue, 10 Dec 1996 14:47:58 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Fri, 07 Jun 1996 12:05:17 GMT Content-length: 1443 Gaetano Borriello - Bio Gaetano Borriello's department brochure biography Gaetano Borriello , Associate Professor, has a BS in EE from the Polytechnic Institute of New York (1979), an MS in EE from Stanford University (1981), and a PhD in CS from the University of California at Berkeley (1988) after four years at the Xerox Palo Research Center.",
+    "link": [
+        "mailto:gaetano@cs.washington.edu",
+        "http://www.cs.washington.edu/homes/gaetano"
+    ],
+    "ground_truth": "other"
+}

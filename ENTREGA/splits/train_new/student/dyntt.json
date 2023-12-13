@@ -1,0 +1,9 @@
+{
+    "Title": "Meghan O'Brien",
+    "Body": "Hope you can come (except for those of you who insulted my Web page).",
+    "link": [
+        "http://www.cs.utexas.edu/users/obrien/gif/meg.gif",
+        "http://www.cs.utexas.edu/users/obrien/resume/resume.html"
+    ],
+    "ground_truth": "student"
+}

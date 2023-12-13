@@ -1,0 +1,9 @@
+{
+    "Title": "NEXT! Homepage",
+    "Body": "Date: Thu, 07 Nov 1996 19:22:27 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Sun, 01 Oct 1995 05:40:47 GMT Content-length: 358 NEXT!",
+    "link": [
+        "http://www.cs.wisc.edu/condor/NEXT/description.html",
+        "http://www.cs.wisc.edu/condor/NEXT/people.html"
+    ],
+    "ground_truth": "project"
+}

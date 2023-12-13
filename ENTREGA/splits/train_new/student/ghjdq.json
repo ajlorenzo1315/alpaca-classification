@@ -1,0 +1,10 @@
+{
+    "Title": "Charles's weird and wonderful homepage",
+    "Body": "Some links I frequent BBS stuff You are visitor since September 1, 1996.",
+    "link": [
+        "http://www.cs.ualberta.ca/~cruden/me.html",
+        "http://www.cs.ualberta.ca/~cruden/links.html",
+        "http://www.cs.ualberta.ca/~cruden/bbs.html"
+    ],
+    "ground_truth": "student"
+}

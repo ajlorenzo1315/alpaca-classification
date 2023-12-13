@@ -1,0 +1,10 @@
+{
+    "Title": "CS 480 ",
+    "Body": "Final grades will be determined by a \"curve\" based on class performance, but in no case will the curve b",
+    "link": [
+        "http://www.cs.uidaho.edu/index.html",
+        "http://www.uidaho.edu/",
+        "http://www.cs.uidaho.edu/~billjunk/index.html"
+    ],
+    "ground_truth": "course"
+}

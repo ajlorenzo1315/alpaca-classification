@@ -1,0 +1,10 @@
+{
+    "Title": "CPS 131 Home Page",
+    "Body": "From here you can find all sorts of important information for the course.",
+    "link": [
+        "calendar.html",
+        "http://www.cps.msu.edu/cgi-user/cps131/handouts/index.html",
+        "nclass/index.html"
+    ],
+    "ground_truth": "unknow"
+}

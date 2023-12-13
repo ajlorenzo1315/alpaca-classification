@@ -1,0 +1,10 @@
+{
+    "Title": " THE CSE371 HOME PAGE",
+    "Body": "Server: Netscape-Commerce/1.12 Date: Wednesday, 20-Nov-96 23:24:43 GMT Last-modified: Tuesday, 27-Feb-96 21:50:08 GMT Content-length: 1279 Content-type: text/html THE CSE371 HOME PAGE CSE 371: Digital System Organization and Design Laboratory Section CSE371 lab manual.",
+    "link": [
+        "http://www.cis.upenn.edu/~dsl/dsl.html",
+        "http://www.seas.upenn.edu/~cse370/cse371/cse371manual.html",
+        "news:upenn.cis.cse371"
+    ],
+    "ground_truth": "course"
+}

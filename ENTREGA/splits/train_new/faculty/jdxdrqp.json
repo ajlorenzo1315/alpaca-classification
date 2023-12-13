@@ -1,0 +1,10 @@
+{
+    "Title": "Axel Krings Faculty Page",
+    "Body": "Dr. Krings is an assistant professor of Computer Engineering and Computer Science and has been at the University of Idaho since 1995.",
+    "link": [
+        "http://www.unl.edu/index.html",
+        "http://www.cs.uidaho.edu/compe.html",
+        "http://www.cs.uidaho.edu/"
+    ],
+    "ground_truth": "faculty"
+}

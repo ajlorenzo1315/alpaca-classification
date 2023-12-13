@@ -1,0 +1,10 @@
+{
+    "Title": "David Culler's homepage",
+    "Body": "Date: Thu, 21 Nov 1996 19:59:01 GMT Server: NCSA/1.4 Content-type: text/html Last-modified: Tue, 03 Sep 1996 23:55:24 GMT Content-length: 4663 David Culler's homepage David E. Culler David Culler is an Associate Professor in Computer Science at  UC Berkeley e-mail: culler@cs.berkeley.edu Phone: (510) 643-7572 Fax: (510) 642-5775 Computer Science Division #1776 627 Soda Hall University of California at Berkeley Berkeley, CA 94720-1776 Directions to Soda Hall Office hours Wed 2:00 pm - 4:00 pm Thu 3:00 pm - 4:00 pm (often in instruction lab on 3rd floor) Current Research Projects TITAN A Next-Generation Infrastructure for Integrating Computing and Communication.",
+    "link": [
+        "http://www.cs.berkeley.edu/",
+        "http://HTTP.CS.Berkeley.EDU/~culler/directions.html",
+        "http://www.cs.berkeley.edu/projects/titan/index.html"
+    ],
+    "ground_truth": "unknow"
+}

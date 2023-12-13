@@ -1,0 +1,10 @@
+{
+    "Title": "CLINICAL DECISION MAKING GROUP",
+    "Body": "Working with physicians from nearby institutions (including New England Medical Center and Children's Hospital), we are exploring the ways in which medical knowledge is represented, and how disease may be explained as physiological \"derangements\" of the healthy individual.",
+    "link": [
+        "http://www.medg.lcs.mit.edu/",
+        "http://www.medg.lcs.mit.edu/people/psz/psz.html",
+        "http://www.medg.lcs.mit.edu/people/doyle/doyle.html"
+    ],
+    "ground_truth": "unknow"
+}

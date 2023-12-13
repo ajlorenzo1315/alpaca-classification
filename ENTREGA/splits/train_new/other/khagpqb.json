@@ -1,0 +1,10 @@
+{
+    "Title": " Interesting WWW Pages ",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Monday, 06-Jan-97 21:39:01 GMT Content-Type: text/html Content-Length: 1280 Last-Modified: Wednesday, 22-Nov-95 00:09:33 GMT Interesting WWW Pages Work Related Berkeley NOW Project UCLA CS Division MIT Media Labs Brian Bershad at Univ.",
+    "link": [
+        "http://now.cs.berkeley.edu",
+        "http://www.cs.ucla.edu",
+        "http://www.media.mit.edu"
+    ],
+    "ground_truth": "other"
+}

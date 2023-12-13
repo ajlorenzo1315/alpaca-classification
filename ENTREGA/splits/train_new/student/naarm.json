@@ -1,0 +1,10 @@
+{
+    "Title": " Home Page for Elizabeth Varki ",
+    "Body": "Varki, E., Dowdy, L.W., Exact Response Time Analysis of Two Server Fork-Join Systems , , Vanderbilt University, Nashville, TN, 1995, Tech Report.",
+    "link": [
+        "http://cswww.vuse.vanderbilt.edu/~varki//",
+        "http://www.vuse.vanderbilt.edu/~eap/cs.html",
+        "http://www.vanderbilt.edu"
+    ],
+    "ground_truth": "student"
+}

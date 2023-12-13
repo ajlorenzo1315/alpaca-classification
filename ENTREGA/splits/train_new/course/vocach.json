@@ -1,0 +1,10 @@
+{
+    "Title": "\nBU CLA CS 835: Seminar in Image and Video Computing---Home Page\n\t\t",
+    "Body": "Date: Wed, 20 Nov 1996 21:41:18 GMT Server: NCSA/1.5 Content-type: text/html BU CLA CS 835: Seminar in Image and Video Computing---Home Page BU CLA CS 835: Seminar in Image and Video Computing Fall 1995 HOME PAGE Participants e-mail comments on readings: Color (9/18), Texture (9/25), Eigenmethods (10/2), Shape I (10/10), Shape II (10/16), Segmentation (10/23), Similarity Measures (10/30), Video Motion (11/6), Cut Detection (11/13), Video Mosaics (11/20), Video Interface (11/27), People in Video (12/4).",
+    "link": [
+        "http://web.bu.edu/pagetwo.html",
+        "http://cs-pub.bu.edu/",
+        "http://cs-pub.bu.edu/faculty/sclaroff/courses/cs835-95/Home.html"
+    ],
+    "ground_truth": "course"
+}

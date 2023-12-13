@@ -1,0 +1,10 @@
+{
+    "Title": "Computer Science 111 - Princeton University",
+    "Body": "Server: Netscape-Commerce/1.12 Date: Wednesday, 20-Nov-96 22:46:48 GMT Last-modified: Wednesday, 11-Sep-96 21:58:44 GMT Content-length: 2872 Content-type: text/html Computer Science 111 - Princeton University Computer Science 111 Factsheet and Week-by-Week Schedule Hands-On Computing Laboratory Weekly Lab Schedule General Information Glossary Princeton CS Home Notes for Lab Assistants Credits Community Bulletin Board Student Home Pages Current (Fall 1996) Previous Semesters Lab Modules Brief Tour of Computer Hardware Introduction to Your Operating System The Internet The Web Information Retrieval Graphics Sound and Multimedia Assembly Language Programming Intro to Java Sorting in Java Recursion in Java $Date: 1996/09/06 00:35:14 $",
+    "link": [
+        "http://www.CS.Princeton.EDU/courses/archive/fall96/cs111/courseinfo.html",
+        "http://www.CS.Princeton.EDU/courses/archive/fall96/cs111/schedule.html",
+        "http://www.CS.Princeton.EDU/courses/archive/fall96/cs111/lab_sched.html"
+    ],
+    "ground_truth": "course"
+}

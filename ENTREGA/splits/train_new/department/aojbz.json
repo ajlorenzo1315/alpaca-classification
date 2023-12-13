@@ -1,0 +1,10 @@
+{
+    "Title": "Computer Science at the Vienna University of Technology",
+    "Body": "(german) If you don't like Vienna , you may also study computer science in Johannes-Kepler-University (Linz) University Klagenfurt University of Salzburg Research and Development Information about the R&D efforts at our university can be found in the research documentation (FODOK).",
+    "link": [
+        "http://info.tuwien.ac.at/histu/pers/10480.html",
+        "http://w6.infosys.tuwien.ac.at:8888/Mou=Technische%20Informatik,ou=Technisch-Naturwissenschaftliche%20Fakultaet,o=Technische%20Universitaet%20Wien,c=AT",
+        "http://www.vmars.tuwien.ac.at/"
+    ],
+    "ground_truth": "department"
+}

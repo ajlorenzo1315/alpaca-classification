@@ -1,0 +1,10 @@
+{
+    "Title": "Homepage, EECS 587, Parallel Computing",
+    "Body": "Net Resources: There are a lot of parallel computing resources available on the Net, and as the semester progresses I'll give you pointers to some of them.",
+    "link": [
+        "http://www.eecs.umich.edu/~qstout/index.html",
+        "http://www.eecs.umich.edu/~qstout/mit_over.html",
+        "http://www.engin.umich.edu/center/cpc/"
+    ],
+    "ground_truth": "unknow"
+}

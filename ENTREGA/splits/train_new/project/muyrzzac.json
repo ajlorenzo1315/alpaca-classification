@@ -1,0 +1,10 @@
+{
+    "Title": "OSL and SAA Home Page",
+    "Body": "Date: Wednesday, 20-Nov-96 19:49:27 GMT Server: NCSA/1.3 MIME-version: 1.0 Content-type: text/html Last-modified: Tuesday, 12-Nov-96 02:12:16 GMT Content-length: 3301 OSL and SAA Home Page Object Systems Laboratory  and Systems for Advanced Architectures The Systems for Advanced Architecture and the Object Systems Laboratories are part of the Computer Science Department at the University of Massachusetts, Amherst .",
+    "link": [
+        "http://www.cs.umass.edu/",
+        "http://www.umass.edu/",
+        "http://www.cs.umass.edu/~mckinley/home.html"
+    ],
+    "ground_truth": "project"
+}

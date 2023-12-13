@@ -1,0 +1,10 @@
+{
+    "Title": "\n      Collaborative Spanish-English Dictionary\n    ",
+    "Body": "If you use the Wordbot, it does it by clicking on the word.",
+    "link": [
+        "http://www.cs.washington.edu/homes/friedman",
+        "mailto:friedman@cs.washington.edu",
+        "mailto:friedman@cs.washington.edu"
+    ],
+    "ground_truth": "other"
+}

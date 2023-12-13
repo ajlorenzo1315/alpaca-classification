@@ -1,0 +1,10 @@
+{
+    "Title": "Michael Huth's Home Page",
+    "Body": "In: Logic in Computer Science, pp.",
+    "link": [
+        "http://www.cis.ksu.edu/~huth/huth.jpg",
+        "http://www.cis.ksu.edu",
+        "http://www.ksu.edu"
+    ],
+    "ground_truth": "faculty"
+}

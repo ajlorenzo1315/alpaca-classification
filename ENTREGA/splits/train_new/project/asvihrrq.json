@@ -1,0 +1,10 @@
+{
+    "Title": "\nESEG at UMCP Home Page\n",
+    "Body": "The EF is an organizational approach for packaging reusable software experiences and supplying them to projects and building core competencies in software.",
+    "link": [
+        "ftp://ftp.cs.umd.edu/pub/sel/papers/tr22.94.ps",
+        "ftp://ftp.cs.umd.edu/pub/sel/papers/fact.ps",
+        "ftp://ftp.cs.umd.edu/pub/sel/papers/gqm.ps"
+    ],
+    "ground_truth": "project"
+}

@@ -1,0 +1,9 @@
+{
+    "Title": "Introduction",
+    "Body": "While the basic concepts will be taught in the lectures and assessed in the exams, the real learning will occur in the programming assignments.",
+    "link": [
+        "http://heg-school.aw.com/cseng/authors/roberts/asc/asc.html",
+        "mailto:riesbeck@ils.nwu.edu"
+    ],
+    "ground_truth": "unknow"
+}

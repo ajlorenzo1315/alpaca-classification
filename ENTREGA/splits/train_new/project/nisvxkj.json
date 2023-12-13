@@ -1,0 +1,10 @@
+{
+    "Title": "Interactive Systems Group",
+    "Body": "The Interactive Systems Group provides a valuable resource to the computer industrial community, the University, and the Computer and Information Science Department.",
+    "link": [
+        "http://zfishstix.cs.uoregon.edu/ISL/isystems.t.html",
+        "http://www.cs.uoregon.edu",
+        "http://www.uoregon.edu"
+    ],
+    "ground_truth": "project"
+}

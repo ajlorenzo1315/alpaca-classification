@@ -1,0 +1,10 @@
+{
+    "Title": "Joan's Home Page",
+    "Body": "Date: Thu, 21 Nov 1996 22:55:52 GMT Server: Apache/1.1.1 Content-type: text/html Content-length: 4439 Last-modified: Tue, 01 Oct 1996 05:26:01 GMT Joan's Home Page Welcome to Joan's Home Page I am a graduate student in the Computer Science Department at the University of California, Riverside .",
+    "link": [
+        "http://www.microsoft.com/sitebuilder",
+        "http://www.cs.ucr.edu/~joan//",
+        "http://www.ucr.edu/"
+    ],
+    "ground_truth": "unknow"
+}

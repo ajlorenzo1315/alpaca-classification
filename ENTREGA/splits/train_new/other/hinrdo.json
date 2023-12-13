@@ -1,0 +1,10 @@
+{
+    "Title": "RFB Symposium on Math and Science Access",
+    "Body": "Here are the official proceedings from the conference.",
+    "link": [
+        "./cfp.txt",
+        "./proceedings.txt",
+        "./trip-report.html"
+    ],
+    "ground_truth": "other"
+}

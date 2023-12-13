@@ -1,0 +1,10 @@
+{
+    "Title": "Regular Language to SQL Query Translation",
+    "Body": "This requires the flight schedule answering system to be aware of what has been asked in a session, then results can be further refined by the user with several questions.",
+    "link": [
+        "#Description",
+        "#Approach",
+        "#Results"
+    ],
+    "ground_truth": "other"
+}

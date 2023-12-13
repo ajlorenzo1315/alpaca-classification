@@ -1,0 +1,10 @@
+{
+    "Title": "Design-to-time Real-time Scheduling",
+    "Body": "Garvey, A. and Lesser, V., \"Design-to-time Real-Time Scheduling,\" IEEE Transactions on Systems, Man and Cybernetics - Special Issue on Planning, Scheduling and Control, Vol.",
+    "link": [
+        "http://dis.cs.umass.edu/research/integ.html",
+        "ftp://ftp.cs.umass.edu/pub/lesser/garvey-dtt-smc.ps",
+        "ftp://ftp.cs.umass.edu/pub/lesser/garvey-aaai93.ps"
+    ],
+    "ground_truth": "other"
+}

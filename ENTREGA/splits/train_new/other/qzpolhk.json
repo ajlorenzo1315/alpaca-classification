@@ -1,0 +1,10 @@
+{
+    "Title": "Real-Time Research at Boston University: Lab Facilities",
+    "Body": "Date: Tue, 14 Jan 1997 21:57:55 GMT Server: NCSA/1.5 Content-type: text/html Real-Time Research at Boston University: Lab Facilities Lab Facilities Exclusive Equipment Pharos.bu.edu Pharos, a SPARCstation-10 with 34 megabytes of memory and 6 GigaBytes of Disk Space, is the file server for a VME-based real-time environment that consists of 4 single-board MicroSparcs, each with 8 megabytes of memory.",
+    "link": [
+        "http://www.cs.bu.edu/cgi-bin/finger?@pharos.bu.edu",
+        "http://www.cs.bu.edu/labs/Home.html",
+        "http://www.cs.bu.edu/labs/computer-resources.html"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Proxy Sharing Proxy Server Project",
+    "Body": "Date: Wed, 15 Jan 1997 01:07:59 GMT Server: Apache/1.1.1 Content-type: text/html Content-length: 2552 Last-modified: Thu, 11 Jul 1996 07:19:33 GMT Proxy Sharing Proxy Server Project The Proxy Sharing Proxy Server Project The Proxy Sharing Proxy Server Project is an investigation into the application of wide-area demand-driven replication techniques to sharing WWW resources.",
+    "link": [
+        "http://www.cs.utsa.edu/research/proxy/etacom.ps",
+        "http://www.cs.utsa.edu/faculty/jeffery.html",
+        "http://www.cs.utsa.edu/faculty/das.html"
+    ],
+    "ground_truth": "unknow"
+}

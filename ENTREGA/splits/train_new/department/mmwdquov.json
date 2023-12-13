@@ -1,0 +1,10 @@
+{
+    "Title": "Oregon Graduate Institute CSE Department Home Page",
+    "Body": "Date: Tue, 26 Nov 1996 22:51:09 GMT Server: Apache/1.0.3 Content-type: text/html Content-length: 3898 Last-modified: Wed, 16 Oct 1996 21:51:47 GMT Oregon Graduate Institute CSE Department Home Page OREGON GRADUATE INSTITUTE -OF- SCIENCE & TECHNOLOGY Department of Computer Science and Engineering Mailing: P.O.",
+    "link": [
+        "http://www.cse.ogi.edu/centers.html",
+        "http://www.cse.ogi.edu/research-topics.html",
+        "http://www.cse.ogi.edu/tech-reports.html"
+    ],
+    "ground_truth": "department"
+}

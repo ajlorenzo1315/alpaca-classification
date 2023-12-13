@@ -1,0 +1,10 @@
+{
+    "Title": "Emerald",
+    "Body": "\"Emerald - An Architecture-Driven Tool Compiler for FPGAs\" , To appear in Proceedings of the 1996 ACM/SIGDA Fourth International Symposium on Field-Programmable Gate Arrays , February 1996.",
+    "link": [
+        "http://www.cs.washington.edu/research/projects/lis/www/papers/postscript/cronquist-FPGA96.ps",
+        "http://www.cs.washington.edu/research/projects/lis/www/papers/postscript/mcmurchie-FPGA95.ps",
+        "http://www.cs.washington.edu/homes/darrenc/"
+    ],
+    "ground_truth": "project"
+}

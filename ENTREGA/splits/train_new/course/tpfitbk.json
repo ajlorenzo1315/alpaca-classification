@@ -1,0 +1,10 @@
+{
+    "Title": "CS 495/Math 405 Analysis of Algorithms Home Page",
+    "Body": "Solutions to homework one are available now.",
+    "link": [
+        "http://www.cs.uidaho.edu/faculty/foster.html",
+        "http://www.cs.uidaho.edu/~foster/495s96/syllabus.html",
+        "#announcements"
+    ],
+    "ground_truth": "course"
+}

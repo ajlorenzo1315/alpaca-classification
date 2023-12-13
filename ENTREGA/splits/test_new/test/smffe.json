@@ -1,0 +1,10 @@
+{
+    "Title": "CTC Resources",
+    "Body": "Date: Mon, 25 Nov 1996 00:20:29 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Wed, 31 Jul 1996 16:19:00 GMT Content-length: 4158 CTC Resources Overview High Performance Computing Environment Hardware Configuration Diagram What Is the SP?",
+    "link": [
+        "http://www.tc.cornell.edu/Hardware/hpce.html",
+        "http://www.tc.cornell.edu/Hardware/config.gif",
+        "http://www.tc.cornell.edu/UserDoc/SP/what.is.sp2.html"
+    ],
+    "ground_truth": "unknow"
+}

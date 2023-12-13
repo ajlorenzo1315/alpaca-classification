@@ -1,0 +1,10 @@
+{
+    "Title": "Michael VanHilst",
+    "Body": "Personal Mike is starting his 7th year as a graduate student at the University of Washington.",
+    "link": [
+        "http://cs.indiana.edu/finger/gateway?vanhilst@cs.washington.edu",
+        "http://cs.indiana.edu/finger/gateway?vanhilst@cs.washington.edu",
+        "#personal"
+    ],
+    "ground_truth": "student"
+}

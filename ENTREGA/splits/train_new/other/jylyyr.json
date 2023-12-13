@@ -1,0 +1,10 @@
+{
+    "Title": "EDS Financial Trading & Technology Center",
+    "Body": "The EDS Financial Trading and Technology Center is a state-of-the-art trading, research, and teaching facility in the College and Graduate School of Business at The University of Texas at Austin .",
+    "link": [
+        "http://bevo.bus.utexas.edu",
+        "http://www.utexas.edu",
+        "http://www.edscenter.utexas.edu/corp/eds.html"
+    ],
+    "ground_truth": "other"
+}

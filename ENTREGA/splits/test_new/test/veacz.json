@@ -1,0 +1,10 @@
+{
+    "Title": "277",
+    "Body": "Date: Wed, 20 Nov 1996 23:02:38 GMT Server: Apache/1.0.2 Content-type: text/html Content-length: 608 Last-modified: Sun, 17 Nov 1996 23:17:23 GMT 277 GCMP 277: Computer Security Overhead Transparencies Lecture 1 Lecture 2 Lecture 3 Lecture 4 Lecture 10 Lecture 11 Lecture 15 Lecture 16 Last modified: Nov 17 1996 by Dick Kemmerer kemm@cs.ucsb.edu",
+    "link": [
+        "http://www.cs.ucsb.edu/~kemm/courses/cs277/day1.ps",
+        "http://www.cs.ucsb.edu/~kemm/courses/cs277/day2.ps",
+        "http://www.cs.ucsb.edu/~kemm/courses/cs277/day3.ps"
+    ],
+    "ground_truth": "unknow"
+}

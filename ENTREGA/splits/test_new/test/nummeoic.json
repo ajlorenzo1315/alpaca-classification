@@ -1,0 +1,10 @@
+{
+    "Title": "\nJenny Schopf\n",
+    "Body": "Date: Thu, 21 Nov 1996 23:04:46 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Fri, 23 Aug 1996 18:03:56 GMT Content-length: 2224 Jenny Schopf Jenny Schopf Department of Computer Science and Engineering Mail Code 0114 University of California San Diego La Jolla, CA  92093  USA Lab: 4325 Applied Physics and Mathematics Building (APM) Phone: (619) 534-5913 Email: jenny@cs.ucsd.edu Academic Links My thesis topic, Modeling Heterogeneous Applications , and my cv in postscript or in html My advisor, Fran Berman The AppLeS project, the Heterogeneous Computing Group , and some publications from both groups.",
+    "link": [
+        "http://www-cse.ucsd.edu/users/jenny/thesis.html",
+        "http://www-cse.ucsd.edu/users/jenny/cv.ps",
+        "http://www-cse.ucsd.edu/users/jenny/cv.html"
+    ],
+    "ground_truth": "unknow"
+}

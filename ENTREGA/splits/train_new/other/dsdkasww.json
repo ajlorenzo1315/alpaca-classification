@@ -1,0 +1,10 @@
+{
+    "Title": "Lutheran Campus Ministry UT Austin home page",
+    "Body": "Craig Sommer serves as Campus Pastor.",
+    "link": [
+        "http://www.elca.org/",
+        "http://www.utexas.edu/students/lcm/center.html",
+        "http://www.utexas.edu/students/lcm/special_activities.html"
+    ],
+    "ground_truth": "other"
+}

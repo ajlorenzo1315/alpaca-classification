@@ -1,0 +1,10 @@
+{
+    "Title": "PS314 Instruction Set Simulator",
+    "Body": "We will give you an M68K assembly language program which accomplishes part of this task, and you will add whatever assembly language code is necessary to make the simulator fully functional.",
+    "link": [
+        "http://www.cs.cornell.edu/Info/Courses/Spring-95/CS314/home.html",
+        "http://www.cs.cornell.edu/Info/Courses/Spring-95/CS314/hw/proj2.asm",
+        "http://www.cs.cornell.edu/Info/Courses/Spring-95/CS314/home.html"
+    ],
+    "ground_truth": "other"
+}

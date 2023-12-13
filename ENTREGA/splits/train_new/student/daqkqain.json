@@ -1,0 +1,10 @@
+{
+    "Title": "Bert Kay",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Monday, 06-Jan-97 19:36:59 GMT Content-Type: text/html Content-Length: 1564 Last-Modified: Tuesday, 03-Dec-96 23:42:19 GMT Bert Kay Bert Kay Research Reasoning with and refining imprecise models of physical processes.",
+    "link": [
+        "http://www.cs.utexas.edu/users/bert/research.html",
+        "http://www.cs.utexas.edu/users/bert/resume.ps.Z",
+        "http://www.cs.utexas.edu/users/bert/my-papers.html"
+    ],
+    "ground_truth": "student"
+}

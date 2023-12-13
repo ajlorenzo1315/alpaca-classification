@@ -1,0 +1,10 @@
+{
+    "Title": "Gaetano Borriello - Teaching",
+    "Body": "CSE567 , Principles of Digital Design (graduate) Research oriented course that exposes students to current methods in logic design including hardware description languages, automatic logic synthesis, simulation at various levels, and field-programmable logic for implementation.",
+    "link": [
+        "http://www.cs.washington.edu/education/courses/142/94a",
+        "http://www.cs.washington.edu/education/courses/467/Spring95",
+        "http://www.cs.washington.edu/homes/gaetano/DAESweb/index.html"
+    ],
+    "ground_truth": "unknow"
+}

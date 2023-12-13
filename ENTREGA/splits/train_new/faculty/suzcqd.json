@@ -1,0 +1,10 @@
+{
+    "Title": "John Bruno",
+    "Body": "Building Fundamentally Extensible Application-Specific Operating Systems in SPACE, with Dave Probert, UCSB Department of Computer Science Technical Report TRCS95-06, April 1995.",
+    "link": [
+        "http://www.cs.ucsb.edu/~bruno/www.cs.ucsb.edu/",
+        "mailto:bruno@cs.ucsb.edu",
+        "http://www.cs.ucsb.edu/TRs/TRCS95-06.html"
+    ],
+    "ground_truth": "faculty"
+}

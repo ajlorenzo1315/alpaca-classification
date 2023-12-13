@@ -1,0 +1,10 @@
+{
+    "Title": "Prof. James A. Hendler",
+    "Body": "Systems Education: PhD, Computer Science, Brown University, 1986 ScM, Computer Science, Brown University, 1984 MS, Psychology, Southern Methodist University, 1982 BS, Computer Science, Yale University, 1978 Professional Activities: Associate Editor, Journal of Experimental and Theoretical AI Associate Editor, Connection Science Editorial Board, Autonomous Robots My Most Recent Book: Massively Parallel Artificial Intelligence, AAAI/MIT Press, 1994.",
+    "link": [
+        "http://www.cs.umd.edu",
+        "http://www.isr.umd.edu",
+        "http://www.cs.umd.edu/users/hendler/AITL/index.html"
+    ],
+    "ground_truth": "faculty"
+}

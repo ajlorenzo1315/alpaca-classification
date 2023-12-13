@@ -1,0 +1,10 @@
+{
+    "Title": "\nBU CLA CS 111: Intro CS I---Home Page\n\t\t",
+    "Body": "SOC-B63\t\tT -- Z Class meetings: A1\tTR 9:30 - 11:00am\tCLA-B12 A2\tT  3:30 -  4:30pm\tPSY-B51->CLA-415 A3\tW 10:00 - 11:00am\tPSY-B53 A4\tF 12:00 -  1:00pm\tMCS-148 A5\tF  9:00 - 10:00am\tBRB-122 HS\tR  3:30 -  4:30pm\tMCS-135 Instructor: A. Heddaya (O.",
+    "link": [
+        "http://web.bu.edu/pagetwo.html",
+        "http://cs-pub.bu.edu/",
+        "http://www.cs.bu.edu/faculty/heddaya/CS111/home.html"
+    ],
+    "ground_truth": "course"
+}

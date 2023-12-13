@@ -1,0 +1,10 @@
+{
+    "Title": "C++",
+    "Body": "Date: Tue, 05 Nov 1996 20:55:02 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Wed, 29 Mar 1995 21:18:42 GMT Content-length: 1407 C++ C++ Operators and expressions Precedence, short-circuit evaluation, and more.",
+    "link": [
+        "http://www.cs.wisc.edu/~cs302/C%2B%2B/Language/Operators/Operators.html",
+        "http://www.cs.wisc.edu/~cs302/C%2B%2B/Language/Statements/Statements.html",
+        "http://www.cs.wisc.edu/~cs302/C%2B%2B/Language/IO/BasicIo/handout1.html"
+    ],
+    "ground_truth": "other"
+}

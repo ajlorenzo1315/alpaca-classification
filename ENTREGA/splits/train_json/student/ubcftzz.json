@@ -1,0 +1,5 @@
+{
+    "Título": "HomePage ",
+    "Cuerpo": "Welcome to my homepage. Testing frames ... I am a graduate student at the Computer Science Department of the University of Texas, at Austin . Assignments . Topics on Computer: Here is an excellent source of Ethernet info. ATM technology. Special sysadm topic: Domain Name System DNS . Information about the free UNIXish operating system: the Linux Documentation Project Home Page . on using GNU's debuger GDB . Get help on C++, UNIX, HTML, email, etc. Other stuffs: Visit UTCS ACM . Visit Kristina Ross' tutorial to learn how to construct web pages. Visit Edmund's Automobile Buyer's Guides if you want to buy a car. PGP See my PGP public key in ASCII format. What is PGP? Look at PGP (Pretty Good Privacy) Help . I like this scenery picture . jfang@cs.utexas.edu (512) 494-1148(H) I started to construct my homepage on 8/28/96. Testing cgi ... Testing Java applet ...",
+    "ground_truth": "student"
+}

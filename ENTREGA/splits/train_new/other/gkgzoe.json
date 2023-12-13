@@ -1,0 +1,10 @@
+{
+    "Title": "A protocol and server for a distributed digital technical report library",
+    "Body": "Server: Dienst v4-1-6 MIME-version: 1.0 Content-type: text/html A protocol and server for a distributed digital technical report library A protocol and server for a distributed digital technical report library James R. Davis and  Carl Lagoze TR94-1418 June 24, 1994 This paper describes {\\bf Dienst} -- a Distributed Interactive Extensible Network Server for Techreports.",
+    "link": [
+        "http://cs-tr.cs.cornell.edu/Dienst/UI/2.0/Composite/ncstrl.cornell%2fTR94-1418/1?nsections=1",
+        "http://cs-tr.cs.cornell.edu/Dienst/UI/2.0/Contents/ncstrl.cornell%2fTR94-1418",
+        "http://cs-tr.cs.cornell.edu/Dienst/Repository/2.0/Body/ncstrl.cornell%2fTR94-1418/ocr"
+    ],
+    "ground_truth": "other"
+}

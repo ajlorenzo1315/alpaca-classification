@@ -1,0 +1,10 @@
+{
+    "Title": "Securing and Hardening the Horus System",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Sunday, 01-Dec-96 20:27:15 GMT Content-Type: text/html Content-Length: 5381 Last-Modified: Friday, 26-Apr-96 04:37:53 GMT Securing and Hardening the Horus System Securing and Hardening the Horus System A joint project by researchers in the Horus and Nuprl projects at Cornell University and the Transis project at Hebrew University in Jerusalem .",
+    "link": [
+        "http://www.cs.cornell.edu/Info/Projects/HORUS/",
+        "http://www.cs.cornell.edu/Info/Projects/NuPrl/",
+        "http://www.cs.cornell.edu/"
+    ],
+    "ground_truth": "other"
+}

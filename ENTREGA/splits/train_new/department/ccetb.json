@@ -1,0 +1,10 @@
+{
+    "Title": "Computer Science, UCSB",
+    "Body": "Date: Tue, 26 Nov 1996 22:40:28 GMT Server: Apache/1.0.2 Content-type: text/html Content-length: 3803 Last-modified: Mon, 11 Nov 1996 16:10:08 GMT Computer Science, UCSB Campus Visitors P EOPLE Faculty Post Docs Staff Graduates Undergraduates Academic Advisors Alumni Research Groups Laboratories R ESEARCH & FACILITIES Technical Reports Lab Facilities Meiko Parallel Processor Usage Policy Getting Support New User Tutorial Abstracts of Recent Student Research Software Tree S TUDENT INFO Courses with Online Materials, Fall, 1996 Changes to Winter, 97 Schedule General Course Info Undergraduate Brochure Degree Programs Graduate Pre-Application Graduate Student FAQ Grad Survival Manual U.S. Dept.",
+    "link": [
+        "http://www.engineering.ucsb.edu/infoweb/visit.html",
+        "http://www.cs.ucsb.edu/People/faculty.html",
+        "http://www.cs.ucsb.edu/People/postdocs.html"
+    ],
+    "ground_truth": "department"
+}

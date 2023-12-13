@@ -1,0 +1,10 @@
+{
+    "Title": "CSC 171: Computer Programming",
+    "Body": "Like writing essays, programming in high level languages is a skill that is best learned by reading well written programs and trying to emulate them.",
+    "link": [
+        "http://www.acm.org/crossroads/xrds1-2/xrds1-2.html",
+        "http://www.acm.org/crossroads/xrds1-2/ovp.html",
+        "http://www.cs.rochester.edu/courses/171/syllabus.html"
+    ],
+    "ground_truth": "course"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Le CHATEAU",
+    "Body": "Grande Entranceway and view of the front .",
+    "link": [
+        "http://www.ee.washington.edu/sideview.gif",
+        "http://www.ee.washington.edu/skyview.gif",
+        "http://www.cs.washington.edu/homes/echris/chateau/ChateauEntrance.gif"
+    ],
+    "ground_truth": "other"
+}

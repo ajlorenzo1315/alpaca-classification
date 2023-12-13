@@ -1,0 +1,10 @@
+{
+    "Title": " Publications of Shun-Tak A. Leung",
+    "Body": "Technical Reports Shun-Tak Leung.",
+    "link": [
+        "ftp://ftp.cs.washington.edu/tr/1992/10/UW-CSE-92-10-05.PS.Z",
+        "http://www.eee.hku.hk/eee/staff/pcheung.html",
+        "ftp://ftp.cs.washington.edu/tr/1996/08/UW-CSE-96-08-01.PS.Z"
+    ],
+    "ground_truth": "other"
+}

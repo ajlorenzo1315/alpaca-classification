@@ -1,0 +1,10 @@
+{
+    "Title": "Hassan Ait-Kaci",
+    "Body": "of Pennsylvania, Philadelphia, PA, 1982 Ph.D. Computer Science, Univ.",
+    "link": [
+        "http://www.isg.sfu.ca/~hak",
+        "mailto:hak@cs.sfu.ca",
+        "http://www.isg.sfu.ca/"
+    ],
+    "ground_truth": "faculty"
+}

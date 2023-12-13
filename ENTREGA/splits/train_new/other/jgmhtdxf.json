@@ -1,0 +1,8 @@
+{
+    "Title": " FPGA Architecture ",
+    "Body": "In this paper, we give a method to design FPGA logic modules, based on an extension of classical work on designing Universal Logic Modules (ULM).",
+    "link": [
+        "http://www.acm.org/todaes/V1N1/L104/paper.ps"
+    ],
+    "ground_truth": "other"
+}

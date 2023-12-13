@@ -1,0 +1,10 @@
+{
+    "Title": "Guangshun's Home Page",
+    "Body": "Date: Thu, 07 Nov 1996 19:11:43 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Wed, 06 Nov 1996 02:29:17 GMT Content-length: 4032 Guangshun's Home Page Welcome to Guangshun's Home Page!",
+    "link": [
+        "http://www.cs.wisc.edu/directories/gradlist.html",
+        "http://www.cs.wisc.edu/",
+        "http://www.wisc.edu/"
+    ],
+    "ground_truth": "student"
+}

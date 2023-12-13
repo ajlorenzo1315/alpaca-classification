@@ -1,0 +1,10 @@
+{
+    "Title": " Carol Smith ",
+    "Body": "Date: Mon, 25 Nov 1996 22:53:24 GMT Server: Apache/1.1.1 Content-type: text/html Content-length: 1857 Last-modified: Thu, 24 Oct 1996 02:09:30 GMT Carol Smith Carol Smith Faculty Services Officer, Manager of Computer Operations Department of Computing Science University of Alberta carol@cs.ualberta.ca (403) 492-2843 (office) (403) 492-1071 Office: 654e General Services Building Work Address Areas of Involvement As Manager of Computer Operations I am responsible for the day-to-day operation and adminstration of the Department's research and administrative computer systems.",
+    "link": [
+        "http://www.cs.ualberta.ca/people/faculty/aiff/carol.aiff",
+        "http://web.cs.ualberta.ca/home.html",
+        "http://web.cs.ualberta.ca/UAlberta.html"
+    ],
+    "ground_truth": "staff"
+}

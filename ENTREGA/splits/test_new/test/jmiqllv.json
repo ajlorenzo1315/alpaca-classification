@@ -1,0 +1,10 @@
+{
+    "Title": "CS302 Announcements",
+    "Body": "Mon Sep  9 09:39:43 1996 Program 1 will be online on Wednesday, 9/11 and be due Wednesday, 9/18.",
+    "link": [
+        "http://www.cs.wisc.edu/~weaver/cs302/examquiz/examquiz.html",
+        "http://www.cs.wisc.edu/~weaver/",
+        "http://www.cs.wisc.edu/"
+    ],
+    "ground_truth": "unknow"
+}

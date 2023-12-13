@@ -1,0 +1,10 @@
+{
+    "Title": "  WWT Project Funding Sources ",
+    "Body": "B550, Wright Laboratory Avionics Directorate, Air Force Material Command, USAF, under grant #F33615-94-1-1525), Computer and Information Science and Engineering Directorate of National Science Foundation (NSF) PYI/NYI Awards CCR-9157366, MIPS-8957278, and CCR-9357779, NSF Grants CCR-9101035 and MIP-9225097, DOE Grant DE-FG02-93ER25176, University of Wisconsin Graduate School Grant, Wisconsin Alumni Research Foundation Fellowship and donations from A.T.&T.",
+    "link": [
+        "http://www.cs.wisc.edu/~wwt/",
+        "http://ftp.arpa.mil/",
+        "http://www.arpa.mil/"
+    ],
+    "ground_truth": "other"
+}

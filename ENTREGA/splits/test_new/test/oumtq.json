@@ -1,0 +1,10 @@
+{
+    "Title": "Distributed Systems Research links.",
+    "Body": "This page holds some links to other projects or research groups doing work related to the work going on in the Horus group.",
+    "link": [
+        "http://simon.cs.cornell.edu/Info/Projects/HORUS/index.html",
+        "http://simon.cs.cornell.edu/Info/Projects/HORUS/Overview.html",
+        "http://simon.cs.cornell.edu/Info/Projects/HORUS/People.html"
+    ],
+    "ground_truth": "unknow"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Narrative Resume of Martin Dickey",
+    "Body": "Each native process sees memory as a variable set of unforgeable \"descriptors\" which give access to protected virtual address spaces ranging in size from one byte to many megabytes.",
+    "link": [
+        "http://www.ic.edu",
+        "http://204.249.224.196/lincoln/index.html#order1",
+        "http://www.asu.edu"
+    ],
+    "ground_truth": "unknow"
+}

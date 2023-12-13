@@ -1,0 +1,10 @@
+{
+    "Title": "Computer Science Department, University of Minnesota",
+    "Body": "Date: Tue, 26 Nov 1996 22:27:04 GMT Server: Apache/1.1b3 Content-type: text/html Computer Science Department, University of Minnesota Department of Computer Science University of Minnesota 4-192 EE/CSci Building 200 Union Street S.E.",
+    "link": [
+        "http://www.cs.umn.edu/departmental/faculty",
+        "http://www.cs.umn.edu/departmental/Users/index.html",
+        "http://acm.cs.umn.edu"
+    ],
+    "ground_truth": "unknow"
+}

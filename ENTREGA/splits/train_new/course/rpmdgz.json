@@ -1,0 +1,10 @@
+{
+    "Title": "CS 60:  Principles of Computer Science",
+    "Body": "In developing code for a programming assignment, you can discuss ideas with others, but discussion of ideas must not involve wholesale examination or transcription of the actual working code of others, with the exception that you may use any code explicitly provided by the instructor.",
+    "link": [
+        "http://www.cs.hmc.edu/~keller/cs60s96index.html",
+        "http://www.hmc.edu/",
+        "http://www.cs.hmc.edu/index.html"
+    ],
+    "ground_truth": "course"
+}

@@ -1,0 +1,6 @@
+{
+    "Title": "CS 3733 Operating Systems Assignment 4",
+    "Body": "Modify the children so that when a child receives a SIGUSR1 signal it prints statistics about what it is monitoring including the time it started monitoring and the last time the newsgroup changed.",
+    "link": [],
+    "ground_truth": "other"
+}

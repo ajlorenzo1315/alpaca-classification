@@ -1,0 +1,10 @@
+{
+    "Title": "Jeff Lampert's Home Page",
+    "Body": "Yes, I know that's not a picture of me (at least, not on a good day), but I'm still looking for one that's not too incriminating and one that doesn't make me look like a convict.",
+    "link": [
+        "http://www.cs.wisc.edu/~tick/test.html",
+        "#link",
+        "http://www.inlink.com/~pezmike/pez/pezland.html"
+    ],
+    "ground_truth": "student"
+}

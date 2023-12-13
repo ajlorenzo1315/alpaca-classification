@@ -1,0 +1,8 @@
+{
+    "Title": "CSE467 Staff Hours",
+    "Body": "CSE 467 Office Hours and Meeting Times Monday Tuesday Wednesday Thursday Friday 10:00am 10:30am Aaron Sieg 327 Aaron Sieg 327 11:00am 11:30am Scott Sieg 327 Scott Sieg 327 12:00pm 12:30pm Jason Sieg 327 Jason Sieg 327 1:00pm 1:30pm Class Lab Section AA Class Lab Section AB Class 2:00pm 2:30pm Ebeling 477 Uses Sieg 327 477 Uses Sieg 327 3:00pm 3:30pm 4:00pm 4:30pm Ebeling 5:00pm 5:30pm 6:00pm NOTE: If the browser you are using does not support tables, consult the text version of the office hours/meeting times information.",
+    "link": [
+        "texthour.html"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Lab #15",
+    "Body": "Here are a few web sites where you can find help on writing HTML code.",
+    "link": [
+        "http://web.cps.msu.edu/~cps100/lab15/hello.html",
+        "http://web.cps.msu.edu/~cps100/lab15/herc1.html",
+        "http://web.cps.msu.edu/~cps100/lab15/herc2.html"
+    ],
+    "ground_truth": "other"
+}

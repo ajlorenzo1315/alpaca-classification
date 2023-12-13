@@ -1,0 +1,10 @@
+{
+    "Title": "Lei Cao's HomePage",
+    "Body": "Date: Thu, 07 Nov 1996 19:11:34 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Fri, 01 Mar 1996 03:24:25 GMT Content-length: 5859 Lei Cao's HomePage Welcome to Lei Cao's Home Page About Me I am a first-year graduate student in the Computer Science Department here at University of Wisconsin-Madison .",
+    "link": [
+        "http://www.cs.wisc.edu/",
+        "http://www.wisc.edu",
+        "http://www.engin.swarthmore.edu/~he/shanghai"
+    ],
+    "ground_truth": "student"
+}

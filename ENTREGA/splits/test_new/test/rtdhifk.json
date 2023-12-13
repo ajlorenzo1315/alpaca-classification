@@ -1,0 +1,10 @@
+{
+    "Title": "CS 326B: Computational Methods for Automatic Movie Generation",
+    "Body": "Readings on Computer Animation.",
+    "link": [
+        "http://www-leland.stanford.edu/class/cs326b/basics.html",
+        "http://www-leland.stanford.edu/class/cs326b/schedule.html",
+        "http://www-leland.stanford.edu/class/cs326b/companies.html"
+    ],
+    "ground_truth": "unknow"
+}

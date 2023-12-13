@@ -1,0 +1,10 @@
+{
+    "Title": "Eve's Page",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Thursday, 21-Nov-96 22:00:47 GMT Content-Type: text/html Content-Length: 2961 Last-Modified: Thursday, 30-May-96 20:42:18 GMT Eve's Page Eve M. Schooler Status: survived my second year at Caltech (advanced to candidacy!)",
+    "link": [
+        "http://www.cs.caltech.edu/~schooler/booth.gif",
+        "http://www.cs.caltech.edu/~adam/CALTECH/mani.html",
+        "http://www.research.att.com/mbone-faq.html"
+    ],
+    "ground_truth": "student"
+}

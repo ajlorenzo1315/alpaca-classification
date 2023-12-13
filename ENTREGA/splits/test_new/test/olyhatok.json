@@ -1,0 +1,10 @@
+{
+    "Title": "All About Brian Pinkerton",
+    "Body": "In addition to being a great Web indexer, it can act like an agent, and find stuff for you on the Web.",
+    "link": [
+        "http://webcrawler.cs.washington.edu/WebCrawler/WebCrawler.html",
+        "http://webcrawler.cs.washington.edu/WebCrawler/WebQuery.html",
+        "http://www.cs.washington.edu/index.html"
+    ],
+    "ground_truth": "unknow"
+}

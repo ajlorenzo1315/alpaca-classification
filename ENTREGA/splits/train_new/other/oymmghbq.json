@@ -1,0 +1,10 @@
+{
+    "Title": "Overview of Current RAID Technology",
+    "Body": "Digital Equipment Corp. - DECraid,                     48-96 GB,                   $417,000-$600,000 - SA900 Storage Array,         2.8-80 GB,                  $18,300-$303,000 - SF35 SABB,                   1.7-20.2 GB, 6.6-39.6 MB/s, $6,840-$26,040 - StorageWorks RAID Array 110, 2.1-5.3 GB,  20 MB/s,       $15,100-$19,400",
+    "link": [
+        "http://www.cs.wisc.edu/~jussi/jussi.html",
+        "http://www.cs.wisc.edu/~jussi/jussi.html",
+        "http://www.cs.wisc.edu/cgi-bin/finger?jussi"
+    ],
+    "ground_truth": "other"
+}

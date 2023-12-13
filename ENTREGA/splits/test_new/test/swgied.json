@@ -1,0 +1,10 @@
+{
+    "Title": "Home Page for Martin Farach",
+    "Body": "208-222, 1994; see also FOCS '91) An Alphabet Independent Approach to Two Dimensional Pattern Matching (SICOMP V.23, 1994; see also STOC '92) Efficient Randomized Dictionary Matching Algorithms (CPM '92) An Efficient Algorithm for Dynamic Text Indexing (SODA '94) Let Sleeping Files Lie:Pattern Matching in Z-compressed Files (To appear in JCSS; see also SODA '94) String Matching in Lempel-Ziv Compressed Strings (STOC '95) Optimal Parallel Dictionary Matching and Compression (SPAA '95) Phylogeny - Construction A Robust Model for Finding Optimal Evolutionary Trees (Algorithmica, Special Issue on Computational Biology, V.13, pp.",
+    "link": [
+        "http://www.cs.rutgers.edu",
+        "http://www.rutgers.edu",
+        "mailto:farach@cs.rutgers.edu"
+    ],
+    "ground_truth": "unknow"
+}

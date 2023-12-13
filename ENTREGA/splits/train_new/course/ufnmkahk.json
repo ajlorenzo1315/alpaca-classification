@@ -1,0 +1,10 @@
+{
+    "Title": "CS 302 Section 70 Home Page",
+    "Body": "1306 Computer Science & Statistics, 1210 W. Dayton St. Office Hours: Wed 7:45 - 8:45 am, Fri 11:00 - 1:00 pm or by appointment Phone: (608) 262-6601 [office] (608) 251-5193 [home, emergencies only ] E-mail: bestor@cs.wisc.edu (click here for finger) World-Wide-Web: http://www.cs.wisc.edu/~bestor/bestor.html Grading Policy Your final grade is based on seven programming assignments each worth 5% (not including Program #0) and three exams.",
+    "link": [
+        "http://www.cs.wisc.edu/~pubs/grad-guidebook/node9.html#cs302",
+        "http://www.cs.wisc.edu/~bestor/cs302/Announcements.html",
+        "#lectures"
+    ],
+    "ground_truth": "course"
+}

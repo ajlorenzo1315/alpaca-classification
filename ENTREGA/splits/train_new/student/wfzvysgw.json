@@ -1,0 +1,10 @@
+{
+    "Title": "Luis's Home Page at MIT",
+    "Body": "MIME-Version: 1.0 Date: Tuesday, 26-Nov-96 02:58:00 GMT Server: NaviServer/2.0 GNNserver/2.1b2 Content-Type: text/html Content-Length: 2004 Last-Modified: Thursday, 26-Sep-96 16:20:07 GMT Luis's Home Page at MIT Luis's Home Page at MIT Greetings I am a Ph.D. graduate student in the Switzerland (a.k.a.",
+    "link": [
+        "http://www.swiss.ai.mit.edu/~lhr/pix/jpg/lhr-full.jpg",
+        "http://www-swiss.ai.mit.edu/",
+        "http://www.ai.mit.edu/"
+    ],
+    "ground_truth": "student"
+}

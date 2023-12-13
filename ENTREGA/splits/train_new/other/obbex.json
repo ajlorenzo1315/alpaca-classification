@@ -1,0 +1,10 @@
+{
+    "Title": "Cornell CS Course Home Pages Fall 1995 ",
+    "Body": "CS212 Structure and Interpretation of Computer Programs A challenging introduction to programming languages and computer science.",
+    "link": [
+        "http://www.cs.cornell.edu/Info/Courses/Fall-95/CS211/cs211.html",
+        "http://www.cs.cornell.edu/Info/Courses/Fall-95/CS212/CS212.html",
+        "http://www.cs.cornell.edu/Info/Courses/Fall-95/CS214/CS214.html"
+    ],
+    "ground_truth": "other"
+}

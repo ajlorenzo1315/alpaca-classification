@@ -1,0 +1,10 @@
+{
+    "Title": " Angel Home Page ",
+    "Body": "He has held academic positions at the University of California at Berkeley, the University of Southern California, and the University of Rochester.",
+    "link": [
+        "http://www.cs.unm.edu/~tmason/graphics.html",
+        "http://www.unm.edu/~kholland/",
+        "http://www.cs.unm.edu/~angel/essay.html"
+    ],
+    "ground_truth": "faculty"
+}

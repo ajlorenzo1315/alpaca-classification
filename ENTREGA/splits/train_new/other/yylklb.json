@@ -1,0 +1,10 @@
+{
+    "Title": "USTC-8511 Home Page",
+    "Body": "Date: Wed, 15 Jan 1997 01:23:27 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Thu, 14 Nov 1996 15:09:18 GMT Content-length: 4403 USTC-8511 Home Page USTC Class 8511 USA : Bai, Ruogu Email: rbai@bnr.ca Tel : (H)214-644-2824 Chen, Zhaobing Deng, Hongbin Dong, Yifei Email: ydong@cs.sunysb.edu .",
+    "link": [
+        "http://math.wisc.edu:80/~cliu/ustc",
+        "http://www.cacs.usl.edu/~rb",
+        "mailto:rbai@bnr.ca"
+    ],
+    "ground_truth": "other"
+}

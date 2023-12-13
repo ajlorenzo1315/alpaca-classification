@@ -1,0 +1,10 @@
+{
+    "Title": "198:205 Course Information",
+    "Body": "Homework 1 Homework 2 Homework 3 Homework 4 Homework 5 Homework 6 Homework 7 Homework 8 Homework 9 Homework 10 Grades Last Updated 11/19/96 Again, this is in postscript format.",
+    "link": [
+        "mailto:srinivas@cs.rutgers.edu",
+        "http://info.rutgers.edu/DCS/hill.html",
+        "mailto:iacono@john.rutgers.edu"
+    ],
+    "ground_truth": "unknow"
+}

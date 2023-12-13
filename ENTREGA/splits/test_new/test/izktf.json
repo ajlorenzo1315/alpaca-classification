@@ -1,0 +1,10 @@
+{
+    "Title": "Boston University Home Page",
+    "Body": "Webspirs , an interface to citations in the Electronic Reference Library (ERL) databases, is available to Boston University students, faculty, and staff.",
+    "link": [
+        "http://web.bu.edu/About.html",
+        "http://web.bu.edu/ADMISSIONS/",
+        "#Schools"
+    ],
+    "ground_truth": "unknow"
+}

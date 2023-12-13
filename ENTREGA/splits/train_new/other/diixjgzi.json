@@ -1,0 +1,10 @@
+{
+    "Title": "\nPapers (Ajita John)\n",
+    "Body": "Workshop on Languages and Compilers for Parallel Computers , August, 1996, LNCS, Springer-Verlag, To Appear.",
+    "link": [
+        "/users/ajohn/hipc.ps.Z",
+        "/users/ajohn/PDPTA96.ps.Z",
+        "/users/ajohn/LCPC96.ps.Z"
+    ],
+    "ground_truth": "other"
+}

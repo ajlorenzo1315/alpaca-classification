@@ -1,0 +1,10 @@
+{
+    "Title": "About Mr. Homer Brown, WB4PAX",
+    "Body": "to Computer Science Advanced Calculus Numerical Analysis 1 Assembly Language Pascal Programming Service 34 years teaching at MTSU; I have taught in the Computer Science Dept.",
+    "link": [
+        "http://www.mtsu.edu/academic/compsci/help.html",
+        "http://www.mtsu.edu/academic/compsci/comment.html",
+        "http://www.mtsu.edu/academic/compsci/faculty//"
+    ],
+    "ground_truth": "faculty"
+}

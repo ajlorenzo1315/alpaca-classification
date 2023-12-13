@@ -1,0 +1,10 @@
+{
+    "Title": "Documents discussing the Wide Area Information Server",
+    "Body": "WAIS Concepts is a much longer paper in which many of the ideas for using WAIS are discussed, such as information marketplaces, dynamic folders, and personal newspapers.",
+    "link": [
+        "http://www.cs.washington.edu/homes/voelker",
+        "http://www.cs.washington.edu/research/projects/ai/590i/wais/wais-corporate-paper.txt",
+        "http://www.cs.washington.edu/research/projects/ai/590i/wais/wais-concepts.txt"
+    ],
+    "ground_truth": "other"
+}

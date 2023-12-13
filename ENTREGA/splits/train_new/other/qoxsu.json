@@ -1,0 +1,9 @@
+{
+    "Title": "\nCreate an Assessment Page\n",
+    "Body": "Date: Tue, 10 Dec 1996 22:42:33 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Tue, 08 Nov 1994 19:21:36 GMT Content-length: 2343 Create an Assessment Page This form is used to create a multiple choice assessment page.",
+    "link": [
+        "//www.cs.washington.edu/homes/dbj/help-multi.html",
+        "//www.cs.washington.edu/homes/dbj/edit-multi.html"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Recent Publications",
+    "Body": "Optimization of Object-Oriented Programs Using Static Class Hierarchy Analysis Dean, Grove, and Chambers.",
+    "link": [
+        "http://www.cs.washington.edu/research/projects/cecil/www/Papers/jdean-thesis.html",
+        "http://www.cs.washington.edu/research/projects/cecil/www/Papers/auto-inlining.html",
+        "http://www.cs.washington.edu/research/projects/cecil/www/Papers/specialize.html"
+    ],
+    "ground_truth": "other"
+}

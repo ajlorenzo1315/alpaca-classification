@@ -1,0 +1,10 @@
+{
+    "Title": "UT-Austin Math",
+    "Body": "Date: Tue, 07 Jan 1997 15:45:05 GMT Server: NCSA/1.4.2 Content-type: text/html UT-Austin Math University of Texas at Austin Department of Mathematics Information about the Department Graduate information Current list of faculty Related Organizations and Programs Actuarial Studies Program Computational and Applied Mathematics Geometry Mathematical Physics Mathematics Education Number Theory Center for Numerical Analysis University of Texas at Austin The University of Texas System Local Resources Faculty office hours TA office hours Faculty and graduate student home pages The Mathematical Physics Preprint Archive mp_arc Mathematical Physics Electronic Journal Preprints and abstracts from UT Mathematics faculty Free software from our department The weekly Department Calendar in PostScript or plain text Our Gopher Server Restricted Local Resources Computer Lab Projects List of Applications Math Department Computer System F.A.Q.",
+    "link": [
+        "http://www.ma.utexas.edu/brochure.html",
+        "http://www.ma.utexas.edu/faculty.html",
+        "http://www.utexas.edu/depts/acs/"
+    ],
+    "ground_truth": "other"
+}

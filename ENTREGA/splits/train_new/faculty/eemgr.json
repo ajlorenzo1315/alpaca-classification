@@ -1,0 +1,10 @@
+{
+    "Title": "Home Page for Kenneth Ross",
+    "Body": "Date: Tue, 26 Nov 1996 02:53:44 GMT Server: Apache/1.1.1 Content-type: text/html Content-length: 1156 Last-modified: Wed, 29 May 1996 21:05:41 GMT Home Page for Kenneth Ross Kenneth Ross Click here for color picture.",
+    "link": [
+        "http://www.cs.columbia.edu/~kar/kar1195.gif",
+        "http://www.cs.columbia.edu/",
+        "http://www.cc.columbia.edu/"
+    ],
+    "ground_truth": "faculty"
+}

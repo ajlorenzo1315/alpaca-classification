@@ -1,0 +1,10 @@
+{
+    "Title": "CS 367",
+    "Body": "Date: Thu, 07 Nov 1996 19:25:10 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Wed, 30 Oct 1996 20:46:29 GMT Content-length: 10016 CS 367 CS 367-3: Introduction to Data Structures ( http://www.cs.wisc.edu/~cs367-3/cs367.html , Revised 9/4/96) Fall 1996 James R. Larus Instructor: James Larus larus@cs.wisc.edu 5393 Computer Sciences 262-9519 http://www.cs.wisc.edu/~larus/larus.html Office hours: Tuesday 3-4 pm , Friday 11-12 am Contents Teaching Assistants Text Lecture Information Electronic Mail The C++ Language Grading Exams Course Schedule Assignment 0 Assignment 1 Assignment 2 Assignment 3 Programming Assignments Course Objectives CS367 has two objectives: Present the concepts of data structures in general and some of the most widely used structures in detail.",
+    "link": [
+        "http://www.cs.wisc.edu/~cs367-3/cs367.html",
+        "http://www.cs.wisc.edu/~larus",
+        "http://www.cs.wisc.edu/cgi-bin/finger/m?larus"
+    ],
+    "ground_truth": "course"
+}

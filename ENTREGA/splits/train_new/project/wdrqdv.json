@@ -1,0 +1,10 @@
+{
+    "Title": " Rhythm in Music and Speech",
+    "Body": "Our project is concerned (1) with experimental investigation of the perception and production of rhythm in people and (2) with the development of a computational model of the learning and processing of simple rhythmic patterns.",
+    "link": [
+        "http://www.cs.indiana.edu/hyplan/port.html",
+        "http://www.cs.indiana.edu/hyplan/gasser.html",
+        "http://www.cs.indiana.edu/hyplan/deck.html"
+    ],
+    "ground_truth": "project"
+}

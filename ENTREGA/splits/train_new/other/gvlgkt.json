@@ -1,0 +1,10 @@
+{
+    "Title": "Previous Work",
+    "Body": "Date: Tue, 10 Dec 1996 23:00:59 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Thu, 23 May 1996 01:22:58 GMT Content-length: 1005 Previous Work Previous Research Experience at Notre Dame People and Organizations Dr. David L. Cohn Arindam Banerji Distributed Computing Research Lab Papers These documents were written for specific departments at the University of Notre Dame and were never intended for publication.",
+    "link": [
+        "http://www.nd.edu:80/~dcrlab/dlc",
+        "http://www.nd.edu:80/~dcrlab/axb",
+        "http://www.nd.edu:80/~dcrlab/"
+    ],
+    "ground_truth": "other"
+}

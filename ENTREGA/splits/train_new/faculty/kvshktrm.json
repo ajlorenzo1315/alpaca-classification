@@ -1,0 +1,10 @@
+{
+    "Title": "Samuel H. Drake",
+    "Body": "Research Associate Professor of Computer Science.",
+    "link": [
+        "http://www.cs.utah.edu/projects/alpha_1/images/gears.mpg",
+        "http://www.cs.utah.edu/projects/alpha_1/alpha1.html",
+        "http://www.cs.utah.edu/projects/alpha_1/alpha1.html"
+    ],
+    "ground_truth": "faculty"
+}

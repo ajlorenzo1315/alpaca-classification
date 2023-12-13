@@ -1,0 +1,10 @@
+{
+    "Title": "About Jim Davis at the Design Research Institute",
+    "Body": "I am interested in Corporate (or Group) Memory, meaning electronic systems for capturing and accessing the knowledge used and produced by (the workers of) an institution, in order to increase the quality of or reduce the time required to do future work.",
+    "link": [
+        "http://cs-tr.cs.cornell.edu/Dienst/htdocs/Info/cstr.html",
+        "http://cs-tr.cs.cornell.edu",
+        "http://dri.cornell.edu/pub/davis/annotation.html"
+    ],
+    "ground_truth": "staff"
+}

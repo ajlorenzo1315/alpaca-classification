@@ -1,0 +1,10 @@
+{
+    "Title": "Concurrent Systems Architecture Group home page",
+    "Body": "Scalable Clusters Fast Communication MPI on Fast Messages (MPI-FM) Fast Messages (on the Cray T3D and Myrinet) Network Interfaces and Routing Papers , talks , and software distributions Parallel Input/Output Characterization Portable Parallel File System Talks MORPH: High Performance computing based on Smart Reconfiguration People Papers Funding information Projects in the Concurrent Systems Architecture Group are supported in part by the National Science Foundation , Advanced Research Projects Administration , Office of Naval Research , National Aeronautics and Space Administration , Intel Corporation , Tandem Computer , Hewlett-Packard Corporation , Microsoft Corporation , and Motorola Corporation .",
+    "link": [
+        "http://www-csag.cs.uiuc.edu/individual/achien/achien.html",
+        "#job",
+        "http://www-csag.cs.uiuc.edu/projects/concert.html"
+    ],
+    "ground_truth": "project"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": " Persistent Linda Home Page ",
+    "Body": "Objectives The objectives of the PLinda project are two-fold: Fault tolerant parallel computing - provide language constructs that facilitate the design of high performance fault-tolerant parallel programs.",
+    "link": [
+        "http://merv.cs.nyu.edu:8001/~binli/plinda/abstract.html",
+        "http://merv.cs.nyu.edu:8001/~binli/plinda/source.html",
+        "#PEOPLE"
+    ],
+    "ground_truth": "project"
+}

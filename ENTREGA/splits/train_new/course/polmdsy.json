@@ -1,0 +1,10 @@
+{
+    "Title": "CS147",
+    "Body": "MIME-Version: 1.0 Server: WebSTAR/1.3.1 ID/1975 Message-ID: Date: Wednesday, 20-Nov-96 22:57:14 GMT Last-Modified: Tuesday, 09-Apr-96 13:15:53 GMT Content-type: text/html Content-length: 1501 CS147 CS147 Introduction To Human-Computer Interaction Design Description Introduction to the concepts underlying the design of human-computer interaction: usability and affordances, direct manipulation, systematic design methods, user conceptual models and interface metaphors, design languages and genres, human cognitive and physical ergonomics, information and interactivity structures, design tools and environments.",
+    "link": [
+        "http://www-pcd.stanford.edu/hci/courses/cs147.html",
+        "http://www-pcd.stanford.edu/hci/people/winograd.html",
+        "mailto:www-cs-education@cs.stanford.edu"
+    ],
+    "ground_truth": "course"
+}

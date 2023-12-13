@@ -1,0 +1,10 @@
+{
+    "Title": "Masahiro Watanabe",
+    "Body": "on Computer Vision and Pattern Recognition, San Fransisco, CA, June, 1996 \"Real-Time Implementation of Depth from Defocus,\" M. Watanabe, S. K. Nayar, and M. Noguchi, Proceedings of SPIE Conference: Three-Dimensional and Unconventional Imaging for Industrial Inspection and Metrology 2599: pp.",
+    "link": [
+        "http://cam.cornell.edu/cgi-bin/finger?nabe@cs.columbia.edu",
+        "ftp://ftp.cs.columbia.edu/pub/CAVE/papers/watanabe/nabe-nayar-ratio\nnal_tr-95.ps",
+        "ftp://ftp.cs.columbia.edu/pub/CAVE/papers/watanabe"
+    ],
+    "ground_truth": "staff"
+}

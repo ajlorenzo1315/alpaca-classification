@@ -1,0 +1,10 @@
+{
+    "Title": "CS428: Software Systems",
+    "Body": "Quality Assurance Nov 29 Thanksgiving Dec 02 37.",
+    "link": [
+        "http://escalante.cs.byu.edu/cs428/cs428.lecture.1.html",
+        "http://escalante.cs.byu.edu/cs428/cs428.lecture.2.html",
+        "http://escalante.cs.byu.edu/cs428/cs428.lecture.3.html"
+    ],
+    "ground_truth": "unknow"
+}

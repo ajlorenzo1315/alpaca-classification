@@ -1,0 +1,10 @@
+{
+    "Title": "IBM POWERparallel Systems: Documentation, Papers, and Reports",
+    "Body": "Date: Sun, 01 Dec 1996 19:58:05 GMT Server: Apache/1.1b1 Content-type: text/html Content-length: 2168 Last-modified: Fri, 19 May 1995 18:16:49 GMT IBM POWERparallel Systems: Documentation, Papers, and Reports A Parallel Primer Scheduling Parallel Jobs On The SP2 - a Loadleveler Primer SP1 High Performance Switch Architecture and Implementation of Vulcan The SP2 Communication Subsystem (html version/10 Nov 94) The SP2 Communication Subsystem (PostScript version/10 Nov 94) PVMe Release 3.1 REAME Information Reducing the Variance of Point-to-Point Transfers for Parallel Real-Time Programs by Ronald Mraz, from the IEEE Parallel & Distributed Technology, Vol.",
+    "link": [
+        "/ibm/pps/doc/primer/",
+        "/ibm/pps/doc/LlPrimer.html",
+        "/ibm/pps/doc/hps.ps"
+    ],
+    "ground_truth": "other"
+}

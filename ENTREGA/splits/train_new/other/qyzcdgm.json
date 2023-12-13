@@ -1,0 +1,10 @@
+{
+    "Title": "Favorite Pages on the Web",
+    "Body": "This page contains some of the sites I frequently check out, so it serves exclusively as a launchpad to other sites.",
+    "link": [
+        "http://www.unitedmedia.com/comics/dilbert/",
+        "http://www.unitedmedia.com/comics/dilbert/",
+        "http://beavis.cba.uiuc.edu/"
+    ],
+    "ground_truth": "other"
+}

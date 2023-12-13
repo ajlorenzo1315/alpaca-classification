@@ -1,0 +1,10 @@
+{
+    "Title": "Homepage of Kerstin Voigt, CSUSB",
+    "Body": "Research Interest and Activities My rsearch interests are in the areas of Artificial Intelligence Knowledge-Based Systems in particular: knowledge-based algorithm design (e.g., see my dissertation (abstract) Knowledge Compilation Temporal Reasoning Reasoning with/about Uncertainty AI and Knowledge Navigation in particular: personalization of knowledge navigation tools (e.g. browsers); for current project see SKIPPER For experimentation with CGI-scripts for SKIPPER click Miscellaneous, Not So Dry Stuff ... ... how about The manuscript in the drawer either rots or ripens.",
+    "link": [
+        "http://www.csci.csusb.edu/cgi-bin/voigt/exper_auth",
+        "http://www.csci.csusb.edu",
+        "http://www.cs.rutgers.edu"
+    ],
+    "ground_truth": "faculty"
+}

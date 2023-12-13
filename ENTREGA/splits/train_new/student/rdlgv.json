@@ -1,0 +1,10 @@
+{
+    "Title": "Doris' Home Page",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Thursday, 21-Nov-96 22:37:04 GMT Content-Type: text/html Content-Length: 1427 Last-Modified: Wednesday, 09-Oct-96 15:47:19 GMT Doris' Home Page Welcome to Doris Lin's Home Page Here are some of my favorite links UMass Men's Basketball Page ESPNET SportsZone: Men's College Basketball The Useless WWW Pages Mr.",
+    "link": [
+        "http://www.chelmsford.com/home/aharm/umassbb.html",
+        "http://espnet.sportszone.com/ncb/",
+        "http://www.chaco.com/useless/"
+    ],
+    "ground_truth": "student"
+}

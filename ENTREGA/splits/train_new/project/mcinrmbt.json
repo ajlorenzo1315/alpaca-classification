@@ -1,0 +1,10 @@
+{
+    "Title": "Wearable Computer Research Home Page",
+    "Body": "We are attemtpting to develop a commercially acceptable system that will support the hardware being developed by a variety of vendors in many applications.",
+    "link": [
+        "http://www.cs.uoregon.edu/~kortuem/Projects/Achilles",
+        "http://www.cs.uoregon.edu/research/wearables/Papers/",
+        "http://www.cs.uoregon.edu/research/wearables/Oregon/"
+    ],
+    "ground_truth": "project"
+}

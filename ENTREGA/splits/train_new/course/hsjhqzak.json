@@ -1,0 +1,10 @@
+{
+    "Title": "cis 425 Principle of Programming Languages",
+    "Body": "As part of the assignments you will be required to program in C++, ML and Prolog.",
+    "link": [
+        "#instructor",
+        "#textbook",
+        "#grade"
+    ],
+    "ground_truth": "course"
+}

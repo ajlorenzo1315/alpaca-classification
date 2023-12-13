@@ -1,0 +1,10 @@
+{
+    "Title": "Vassar Computer Science Dept.",
+    "Body": "Computer Science Event Calendar ( empty at the present time ) Some History about Computing at Vassar The Grace Hopper Web Page The CS Department Handbook Search the CS web site Information for folks with Computer Science Unix accounts User Help and System News - Updated regularly, some sections may only be accessible from within the Vassar domain.",
+    "link": [
+        "mailto:w3group@cs.vassar.edu",
+        "http://www.cs.vassar.edu/describe/description.html",
+        "http://www.cs.vassar.edu/faculty/proflist.html"
+    ],
+    "ground_truth": "department"
+}

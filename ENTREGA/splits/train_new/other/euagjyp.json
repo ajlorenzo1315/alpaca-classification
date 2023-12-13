@@ -1,0 +1,10 @@
+{
+    "Title": "Opal Papers",
+    "Body": "Workshop on Object Orientation in Operating Systems , September 1992.",
+    "link": [
+        "http://www.cs.duke.edu/~chase/research/thesis.ps",
+        "file://ftp.cs.washington.edu/tr/1992/03/UW-CSE-92-03-09.PS.Z",
+        "ftp://cs.washington.edu/tr/1992/03/UW-CSE-92-03-10.PS.Z"
+    ],
+    "ground_truth": "other"
+}

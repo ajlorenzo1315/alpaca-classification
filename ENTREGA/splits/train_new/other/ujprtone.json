@@ -1,0 +1,10 @@
+{
+    "Title": "CS 537 - Programming Assignment I",
+    "Body": "Using Threads Your primary class will read a command from a user and then will create a thread to carry out the command.",
+    "link": [
+        "#intro",
+        "#suggestions",
+        "#scanning"
+    ],
+    "ground_truth": "other"
+}

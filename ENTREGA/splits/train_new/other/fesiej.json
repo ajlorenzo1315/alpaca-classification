@@ -1,0 +1,10 @@
+{
+    "Title": "¾åÛê¹À°ì",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Sunday, 01-Dec-96 19:08:44 GMT Content-Type: text/html Content-Length: 1878 Last-Modified: Saturday, 06-Jul-96 22:33:11 GMT ¾åÛê¹À°ì ¾åÛê¹À°ì »ä¤Î¥Û¡¼¥à¥Ú¡¼¥¸¤Ë¤è¤¦¤³¤½¡ª¡ª ¸½ºß¡ÊÃçËÜ¡Ë¹©»öÃæ¤Ç¤¹¡£ Ê¿À®£¸Ç¯£··î£±£°Æü°Ê¹ß [ English / Japanese ] ÆüËÜ¤Ëµ¢¤ëÁ°¤ËÇä¤ë¤â¤Î¤¬Âô»³Í­¤ê¤Þ¤·¤¿¤¬ËØ¤ó¤ÉÇä¤ì¤Þ¤·¤¿¡£ £¹£¶Ç¯£¶·î°Ê¹ßCornellËô¤Ï¥¢¥á¥ê¥«Åì³¤´ß ¤Ë½»¤àÍ½Äê¤Î¤¢¤ëÊý¤Ï ¤³¤³ ¤ò¥¯¥ê¥Ã¥¯¤·¤Æ²¼¤µ¤Ã¤Æ¤â·ë¹½¤Ç¤¹¤¬¤â¤¦¼êÃÙ¤ì¤Ç¤¹¡£ ¹ÖµÁ¡¢ÏÀÊ¸ ¸Î¶¿ Î¬Îò¡¢¿¦Îò ¥¢¥á¥ê¥«¤ËÍè¤Æ¡¢¼ñÌ£¤Î£±Éô¤Ç¤¢¤ë¥Þ¡¼¥¸¥ã¥ó¡¢¾­´ý¤¬½ÐÍè¤Ê¤¤¤Î¤¬¾¯¤·»ÄÇ°¤Ç¤¹¡£ ¥Þ¡¼¥¸¥ã¥ó¤ÏÌµÍý¤Ç¤¹¤¬¡¢ ¾­´ý ¤¬¹¥¤­¤ÊÊý¤¬¤¤¤é¤·¤¿¤é¡¢À§ÈóÀ¼¤ò¤«¤±¤Æ²¼¤µ¤¤¡£´ýÎÏ¤Ï¥¢¥Þ½éÃÊ¤°¤é¤¤¤Ç¤¹¡£ Koichi Kamijo 207 Muriel St #2 Ithaca, NY 14850 (607) 257-0799 kamijo@cs.cornell.edu or kkamijoh@vnet.ibm.com ¡ÊIBMÉüµ¢¸å¡Ë ¡Ê¤É¤Á¤é¤ÎID¤âÆüËÜ¸ì¡¢±Ñ¸ìÎ¾Êý²Ä¡Ë",
+    "link": [
+        "http://www.cs.cornell.edu/Info/People/kamijo/kamijobig.html",
+        "http://www.cs.cornell.edu/Info/People/kamijo/returnj.html",
+        "http://www.cs.cornell.edu/Info/People/kamijo/kamijo.html"
+    ],
+    "ground_truth": "other"
+}

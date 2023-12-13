@@ -1,0 +1,10 @@
+{
+    "Title": "C11 Home Page",
+    "Body": "About C++: Chapter 1 notes on C++ .",
+    "link": [
+        "news:nwu.school.meas.class.cs-c11",
+        "http://www.cs.nwu.edu/academics/courses/c11/whatnew.html",
+        "http://www.cs.nwu.edu/academics/courses/c11/intro.html"
+    ],
+    "ground_truth": "course"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Alejandro (ALEX) Jaimes' Home Page",
+    "Body": "As a member of the DFAC (Computer Aided Manufacturing and Design) Research Group at Universidad de los Andes I Worked for a year as Research Assistant developing a software library for Image Processing and Computer Vision.",
+    "link": [
+        "http://www.cs.columbia.edu/~ajaimes/alex1-2.jpg",
+        "http://wwwisc.uniandes.edu.co/eng/cs.html",
+        "http://www.uniandes.edu.co/"
+    ],
+    "ground_truth": "student"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "CS 110 Section 2 - Handin Directory",
+    "Body": "The file server for the Vectra's in the 1350 lab has a special \"handin\" directory for you where you will copy your source code files, executable files and any related data files.",
+    "link": [
+        "http://www.cs.wisc.edu/~bestor/cs110/cs110.html#assignments",
+        "http://www.cs.wisc.edu/~bestor/bestor.html",
+        "mailto:bestor@cs.wisc.edu"
+    ],
+    "ground_truth": "other"
+}

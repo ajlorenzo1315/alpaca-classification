@@ -1,0 +1,10 @@
+{
+    "Title": "UW Pathology WWW Server",
+    "Body": "Date: Tuesday, 10-Dec-96 ?",
+    "link": [
+        "http://larry.pathology.washington.edu/faculty.html",
+        "http://www.washington.edu/medical/som/som_departments/path/index.html",
+        "http://larry.pathology.washington.edu/grad/introduction.html"
+    ],
+    "ground_truth": "other"
+}

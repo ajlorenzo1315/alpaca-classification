@@ -1,0 +1,10 @@
+{
+    "Title": "David Gries -Home Page",
+    "Body": "I was an assistant professor of Computer Science at Stanford from 1966 to 1969.",
+    "link": [
+        "http://www.cs.cornell.edu/Info/People/gries/gries.gif",
+        "http://www.cs.cornell.edu/Info/People/gries/Logic/Introduction.html",
+        "http://www.cs.cornell.edu/Info/People/gries/vita.html"
+    ],
+    "ground_truth": "unknow"
+}

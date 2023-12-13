@@ -1,0 +1,10 @@
+{
+    "Title": "Links to other ATP pages",
+    "Body": "Date: Tue, 07 Jan 1997 15:42:04 GMT Server: NCSA/1.4.2 Content-type: text/html Links to other ATP pages Links to other ATP pages The UT ATP page .",
+    "link": [
+        "http://www.ma.utexas.edu/users/bshults/ATP/home.html",
+        "http://js-sfbsun.cs.uni-sb.de/pub/www/worldwide-deduction.html",
+        "http://www.comlab.ox.ac.uk/archive/formal-methods.html"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,5 @@
+{
+    "Título": "Computer-Network Security",
+    "Cuerpo": "Date: Wed, 20 Nov 1996 19:35:49 GMT Server: Stronghold/1.3.2 Ben-SSL/1.3 Apache/1.1.1 Content-type: text/html Set-Cookie: Apache=gs3511112848518549136; path=/ Content-length: 2339 Last-modified: Sun, 20 Oct 1996 22:03:04 GMT Computer-Network Security The Computer-Network Security research group within the CISE department at the University of Florida is involved with numerous sponsored projects and individual research ideas. Weekly discussions and presentations are held every Wednesday at 12:30 in room 305 of the CSE building. Current Research Projects Research Personnel Those that advise: Dr. Randy Chow Dr. Richard-Newman Wolfe Those that labor: Hsiao-Yang Cheng Chung-Wei Lee Marie Powell Ozzie Sabina John Selbie Sudheer Tumuluru Sushmala Yarramreddy Jyh-haw Yeh Jing Zong Links to other Computer-Network Security Resources on the World Wide Web Inquries about our research are welcome. Please direct your input to comsec@cise.ufl.edu via electronic mail.",
+    "ground_truth": "project"
+}

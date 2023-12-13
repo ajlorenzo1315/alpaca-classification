@@ -1,0 +1,10 @@
+{
+    "Title": "Kenneth P. Birman",
+    "Body": "We are also studying extensions of the virtual synchrony model, notably in work by Roy Friedman on adding real-time guarantees to Horus and in work by Mark Hayden on support for probabilistic broadcast primitives and programming tools.",
+    "link": [
+        "http://www.cs.cornell.edu/Info/People/ken/ken.gif",
+        "http://www.cs.cornell.edu/Info/Department/Annual95/Beginning/annual-rpt95-home.html",
+        "http://www.cs.cornell.edu/"
+    ],
+    "ground_truth": "unknow"
+}

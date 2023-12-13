@@ -1,0 +1,10 @@
+{
+    "Title": "Papers",
+    "Body": "Edward W. Felten and Dylan McNamee.",
+    "link": [
+        "ftp://cs.washington.edu/homes/dylan/generals.ps.gz",
+        "ftp://cs.washington.edu/tr/1994/03/UW-CSE-94-03-03.PS.Z",
+        "ftp://cs.washington.edu/homes/dylan/WWOS93.PS.gz"
+    ],
+    "ground_truth": "unknow"
+}

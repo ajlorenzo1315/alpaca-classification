@@ -1,0 +1,10 @@
+{
+    "Title": "Terry Winograd",
+    "Body": "Terry Winograd and Fernando Flores, Understanding Computers and Cognition: A New Foundation for Design Addison-Wesley, 1987 Paul Adler and Terry Winograd (eds.)",
+    "link": [
+        "http://www-cs.stanford.edu",
+        "http://www.stanford.edu",
+        "mailto:winograd@cs.stanford.edu"
+    ],
+    "ground_truth": "faculty"
+}

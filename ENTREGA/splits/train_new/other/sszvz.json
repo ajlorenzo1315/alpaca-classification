@@ -1,0 +1,10 @@
+{
+    "Title": "\nBU CAS CS 552: Operating Systems---Homework\n\t\t",
+    "Body": "A general requirement is that the OS should use the best approximations for the actuator values that can be obtained by successive calls to controlCar without violating more important requirements.",
+    "link": [
+        "http://web.bu.edu/",
+        "http://www.cs.bu.edu/",
+        "http://www.cs.bu.edu/faculty/heddaya/CS552/"
+    ],
+    "ground_truth": "other"
+}

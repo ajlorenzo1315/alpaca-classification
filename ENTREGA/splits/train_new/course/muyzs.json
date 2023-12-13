@@ -1,0 +1,10 @@
+{
+    "Title": "CPS 100 Using Computers Home Page, Fall 1996, MSU",
+    "Body": "CPS 100 FTP This site allows you to transfer files you will need for class to the computer you are using.",
+    "link": [
+        "http://web.cps.msu.edu/~cps100/dorms.html",
+        "http://web.cps.msu.edu/~cps100/course.html",
+        "http://web.cps.msu.edu/~cps100/people.html"
+    ],
+    "ground_truth": "course"
+}

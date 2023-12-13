@@ -1,0 +1,10 @@
+{
+    "Title": "WPI Computer Science Department",
+    "Body": "Date: Tue, 26 Nov 1996 22:13:50 GMT Server: NCSA/1.4.2 Content-type: text/html WPI Computer Science Department About the Department Overview, What is CS?, Contact information, Annual reports, ... News and Announcements Colloquia, news, events, group meetings, ...",
+    "link": [
+        "http://cs.wpi.edu/About/",
+        "http://cs.wpi.edu/News/",
+        "http://cs.wpi.edu/News/job-ad9697.html"
+    ],
+    "ground_truth": "department"
+}

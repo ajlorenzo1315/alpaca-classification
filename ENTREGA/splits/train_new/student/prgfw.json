@@ -1,0 +1,10 @@
+{
+    "Title": "\nRupert Tang's Home Page\n",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Monday, 06-Jan-97 19:29:25 GMT Content-Type: text/html Content-Length: 2085 Last-Modified: Tuesday, 17-Dec-96 00:59:17 GMT Rupert Tang's Home Page Rupert Tang Ph.D. student, Dept of Computer Sciences, The University of Texas at Austin.",
+    "link": [
+        "http://www.cs.utexas.edu/",
+        "http://www.studentlink.com/",
+        "http://www.cs.utexas.edu/users/rupert/intro.html"
+    ],
+    "ground_truth": "student"
+}

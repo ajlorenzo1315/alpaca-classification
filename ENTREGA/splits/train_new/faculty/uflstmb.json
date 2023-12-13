@@ -1,0 +1,10 @@
+{
+    "Title": "Kay A. Robbins",
+    "Body": "\"Chaotic dynamics near the extinction limit of a premixed flame on a porous plug burner,\" with M. Gorman and M. el-Hamdi, Combustion Science & Tech.",
+    "link": [
+        "http://vip.cs.utsa.edu/flames/overview.html",
+        "http://vip.cs.utsa.edu/systems/overview.html",
+        "http://vip.cs.utsa.edu/classes/cs5633f96/overview.html"
+    ],
+    "ground_truth": "faculty"
+}

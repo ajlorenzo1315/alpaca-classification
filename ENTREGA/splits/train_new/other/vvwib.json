@@ -1,0 +1,10 @@
+{
+    "Title": "Distributed Systems & Networks",
+    "Body": "Date: Wed, 15 Jan 1997 00:34:30 GMT Server: NCSA/1.5.2 Last-modified: Wed, 22 Jun 1994 16:44:10 GMT Content-type: text/html Content-length: 1061 Distributed Systems & Networks Distributed Systems & Networks Distributed Databases & Computations: Belford , Kaplan , J. Liu Fault Tolerance: Belford , Campbell Microprocessors: Campbell , Faiman Modelling & Analysis: Agha , Belford , Kaplan Go back to Research Areas Index",
+    "link": [
+        "http://www.cs.uiuc.edu/CS_INFO_SERVER/DEPT_INFO/CS_FACULTY/FAC_HTMLS/belford.html",
+        "http://www.cs.uiuc.edu/CS_INFO_SERVER/DEPT_INFO/CS_FACULTY/FAC_HTMLS/kaplan.html",
+        "http://www.cs.uiuc.edu/CS_INFO_SERVER/DEPT_INFO/CS_FACULTY/FAC_HTMLS/jliu.html"
+    ],
+    "ground_truth": "other"
+}

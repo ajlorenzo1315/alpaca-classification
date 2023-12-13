@@ -1,0 +1,10 @@
+{
+    "Title": "Reading Assignments",
+    "Body": "Rendering tricks Foley et al., Sections 16.3, 16.4, 16.6, 16.12.1 Optional: William T. Reeves, David H. Salesin, and Robert L. Cook.",
+    "link": [
+        "../lectures/1-hardware.ps",
+        "../lectures/2-displaying-images.ps",
+        "../lectures/4-morphing.ps"
+    ],
+    "ground_truth": "other"
+}

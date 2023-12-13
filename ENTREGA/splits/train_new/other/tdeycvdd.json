@@ -1,0 +1,9 @@
+{
+    "Title": " CS100 Program 5 ",
+    "Body": "You need not look at these files; the files you are most likely to be interested in are: Genetics.h and Graphics.h.",
+    "link": [
+        "ftp://ftp.cs.cornell.edu/pub/courses/cs100-s96/Program5.sea.hqx",
+        "ftp://ftp.cs.cornell.edu/pub/courses/cs100-s96/Program5AtHome.sea.hqx"
+    ],
+    "ground_truth": "other"
+}

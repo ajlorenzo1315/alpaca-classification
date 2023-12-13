@@ -1,0 +1,10 @@
+{
+    "Title": "Research Projects in the Cornell CS Department",
+    "Body": "Active Messages -- High-performance communication Information about developments using the Active Messages communication architecture.",
+    "link": [
+        "http://www.cs.cornell.edu/Info/Projects/M-Eng/",
+        "http://www.cs.cornell.edu/Info/Projects/SimLab/index.html",
+        "http://www.cs.cornell.edu/Info/Projects/csrvl/csrvl.html"
+    ],
+    "ground_truth": "other"
+}

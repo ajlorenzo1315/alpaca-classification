@@ -1,0 +1,10 @@
+{
+    "Title": "Barak Pearlmutter Homepage",
+    "Body": "Employment I'm an associate professor in the Computer Science Department at the University of New Mexico in Albuquerque .",
+    "link": [
+        "http://www.cs.unm.edu/~bap/graphic/pigstyhead.jpg",
+        "http://www.cs.unm.edu/~bap/interests.html",
+        "http://www.cs.unm.edu/~bap/demos.html"
+    ],
+    "ground_truth": "faculty"
+}

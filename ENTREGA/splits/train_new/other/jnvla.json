@@ -1,0 +1,8 @@
+{
+    "Title": "CS 304P: Computer Science I: Syllabus",
+    "Body": "This section of CS 304P will use the programming language Scheme, a dialect of Lisp.",
+    "link": [
+        "http://www.cs.utexas.edu/users/novak/index.html"
+    ],
+    "ground_truth": "other"
+}

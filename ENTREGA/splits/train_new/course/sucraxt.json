@@ -1,0 +1,10 @@
+{
+    "Title": "CSE 543 Home Page",
+    "Body": "Date: Thu, 21 Nov 1996 22:19:33 GMT Server: NCSA/1.4.2 Content-type: text/html CSE 543 Home Page CSE 543: Computer System Performance Modeling Spring 1996 Your Hosts: Ed Lazowska and Mary Vernon Welcome to the home page for CSE 543, Computer System Performance Modeling.",
+    "link": [
+        "http://www.cs.washington.edu",
+        "http://www.cs.washington.edu/homes/lazowska/",
+        "http://www.cs.wisc.edu/~pubs/faculty-info/vernon.html"
+    ],
+    "ground_truth": "course"
+}

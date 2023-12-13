@@ -1,0 +1,10 @@
+{
+    "Title": "Steve Seitz's View Interpolations",
+    "Body": "View Interpolations Original (1) Interpolated (1.5) Original (2) This work is described in: Physically-Valid View Synthesis by Image Interpolation , S. M. Seitz and C. R. Dyer, Proc.",
+    "link": [
+        "http://www.cs.wisc.edu/~seitz/seitz.html",
+        "http://www.cs.wisc.edu/~dyer/dyer.html",
+        "http://www.cs.wisc.edu/~seitz/interp/vmorph.html"
+    ],
+    "ground_truth": "project"
+}

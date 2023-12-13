@@ -1,0 +1,10 @@
+{
+    "Title": "CS280: Discrete Structures",
+    "Body": "Newsflash ( November 15 ) Prelim 1 grades are posted in front of Upson 303  ( October 17 ) Additional Consulting Hours ( October 4 ) Announcements Handouts Reading Assignments Homeworks Solutions Announcements Please remember to return your homework in the yellow \"campus mail'' envelope with your name written on it.",
+    "link": [
+        "http://www.cs.cornell.edu/Info/Courses/Current/CS280/handouts/info.ps",
+        "http://www.cs.cornell.edu/Info/People/sam/sam.html",
+        "mailto:sam@cs.cornell.edu"
+    ],
+    "ground_truth": "course"
+}

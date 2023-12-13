@@ -1,0 +1,10 @@
+{
+    "Title": "Resume for Andrew Prock",
+    "Body": "Presented results to the department and associates.",
+    "link": [
+        "mailto:prock@cs.wisc.edu",
+        "http://www.cs.wisc.edu",
+        "http://www.acusd.edu"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "\nLecture Notes from Dr. Porter's Class\n",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Monday, 06-Jan-97 20:50:26 GMT Content-Type: text/html Content-Length: 2273 Last-Modified: Friday, 22-Nov-96 07:49:43 GMT Lecture Notes from Dr. Porter's Class Lecture Notes from Dr. Porter's Class This page will contain the notes from Dr. Porter's class for each week.",
+    "link": [
+        "http://www.cs.utexas.edu/users/dwip/cs304p/lectures/lecture1.ps",
+        "http://www.cs.utexas.edu/users/dwip/cs304p/lectures/lecture2.ps",
+        "http://www.cs.utexas.edu/users/dwip/cs304p/lectures/lecture3.ps"
+    ],
+    "ground_truth": "other"
+}

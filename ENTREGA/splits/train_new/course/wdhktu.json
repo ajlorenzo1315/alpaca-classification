@@ -1,0 +1,10 @@
+{
+    "Title": " BU CAS CS 525: Compiler Design---Home Page ",
+    "Body": "Date: Wed, 20 Nov 1996 21:42:23 GMT Server: NCSA/1.5 Content-type: text/html BU CAS CS 525: Compiler Design---Home Page CS 525 -- Compiler Design Summer Session I, 1996 Instructor: W ayne S nyder Office: MCS 280, Office Phone: 353-8925, email: snyder, Office hours: Tues, Wed, Thurs 1:00 -- 1:45 Final Grades for Summer 1996 Course Materials Syllabus Assignments Policy on Academic Conduct",
+    "link": [
+        "http://www.cs.bu.edu/faculty/snyder/Home.html",
+        "http://www.cs.bu.edu/faculty/snyder/cs525/grades.txt",
+        "http://www.cs.bu.edu/faculty/snyder/cs525/syll.html"
+    ],
+    "ground_truth": "course"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": " Odds & Ends ",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Wednesday, 15-Jan-97 01:45:36 GMT Content-Type: text/html Content-Length: 1321 Last-Modified: Sunday, 09-Jun-96 22:48:30 GMT Odds & Ends Odds & Ends This would be the bit with a number of links that I find interesting.",
+    "link": [
+        "http://www.ucis.vill.edu/studlife/sports/mbball/",
+        "http://www.mi.uib.no/hobbit/",
+        "http://www.clark.net/pub/edseiler/WWW/asimov_home_page.html"
+    ],
+    "ground_truth": "other"
+}

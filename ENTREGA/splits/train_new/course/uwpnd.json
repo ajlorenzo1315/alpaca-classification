@@ -1,0 +1,10 @@
+{
+    "Title": "CS222:  Introduction to Scientific Computation",
+    "Body": "P5.1.5, P5.2.2, P5.2.7, P6.1.3, P6.3.1 and P6.3.3.",
+    "link": [
+        "#ClassInfo",
+        "#Syllabus",
+        "#SourceCode"
+    ],
+    "ground_truth": "course"
+}

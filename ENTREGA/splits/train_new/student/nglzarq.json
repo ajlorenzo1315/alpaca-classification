@@ -1,0 +1,10 @@
+{
+    "Title": "  Aswin van den Berg  ",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Wednesday, 20-Nov-96 19:46:37 GMT Content-Type: text/html Content-Length: 1756 Last-Modified: Tuesday, 19-Nov-96 20:56:55 GMT Aswin van den Berg Aswin van den Berg Graduate Student aswin@cs.cornell.edu Office: 4153, Upson Hall phone: (607) 255-1372 Home: 19 Skyacre Drive .",
+    "link": [
+        "http://www.loesje.org/",
+        "mailto:aswin@cs.cornell.edu",
+        "http://maps.yahoo.com/yt.hm?CMD=MAP&FAM=yahoo&SEC=geo&MA=1&GC=X:-76.4868|Y:42.51195|LT:42.51195|LN:-76.4868|LS:10000|c:Ithaca|s:NY|z:14850&IC=42.51195:-76.4868:Smallcross:&GAD2=19+Skyacres+Dr&GAD3=Ithaca%2c+NY+14850&W=600&H=375&ZM=2"
+    ],
+    "ground_truth": "student"
+}

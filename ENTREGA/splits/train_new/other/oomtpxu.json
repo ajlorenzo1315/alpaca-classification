@@ -1,0 +1,10 @@
+{
+    "Title": "Misclassification Minimization ",
+    "Body": "Novel aspects of the approach include: (i) A linear complementarity formulation of the step function that ``counts'' misclassifications, (ii) Exact penalty formulation without boundedness, nondegeneracy or constraint qualification assumptions, (iii) An exact solution extraction from the sequence of minimizers of the penalty function for a finite value of the penalty parameter for the general LPEC and an explicitly exact solution for the LPEC with uncoupled constraints, and (iv) A parametric quadratic programming formulation of the LPEC associated with the misclassification minimization problem.",
+    "link": [
+        "http://www.cs.wisc.edu/Dienst/Repository/2.0/Body/ncstrl.uwmadison%2fCS-TR-93-1186/postscript",
+        "http://www.cs.wisc.edu/Dienst/UI/2.0/Print/ncstrl.uwmadison%2fCS-TR-93-1186",
+        "http://www.cs.wisc.edu/Dienst/UI/2.0/Search"
+    ],
+    "ground_truth": "other"
+}

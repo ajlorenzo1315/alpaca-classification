@@ -1,0 +1,10 @@
+{
+    "Title": "Computer Sciences Courses",
+    "Body": "577 Introduction to Algorithms 3 cr.",
+    "link": [
+        "http://www.cs.wisc.edu/~bobh/timetable",
+        "http://www.cs.wisc.edu/directories/classes.html",
+        "http://www.engr.wisc.edu/"
+    ],
+    "ground_truth": "other"
+}

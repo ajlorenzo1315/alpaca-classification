@@ -1,0 +1,10 @@
+{
+    "Title": "The InfoPad WWW Server",
+    "Body": "Server: Netscape-Communications/1.1 Date: Wednesday, 20-Nov-96 19:25:25 GMT Last-modified: Sunday, 17-Nov-96 18:52:24 GMT Content-length: 3078 Content-type: text/html The InfoPad WWW Server The goal of the InfoPad research project is to develop the hardware, software and mobile network support which will allow ubiquitous, wireless access of realtime multimedia data from high speed networks using an inexpensive, portable terminal.",
+    "link": [
+        "http://infopad.eecs.berkeley.edu/infopad-ftp/reports/A.Multimedia.Communication.System.Providing.Wireless.Access",
+        "http://infopad.eecs.berkeley.edu/infopad-ftp/slides/ARPA.Presentations/ARPA.7.95/infopad_overview",
+        "http://infopad.eecs.berkeley.edu/~rb/Overview"
+    ],
+    "ground_truth": "project"
+}

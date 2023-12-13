@@ -1,0 +1,10 @@
+{
+    "Title": "Alistair Sinclair's Home Page",
+    "Body": "637-659 Markov Chain Algorithms for Planar Lattice Structures Michael Luby, Dana Randall and Alistair Sinclair, FOCS 1995, pp.",
+    "link": [
+        "http://HTTP.CS.Berkeley.EDU/~sinclair/mcmc.ps",
+        "http://HTTP.CS.Berkeley.EDU/~sinclair/binpack.ps",
+        "http://HTTP.CS.Berkeley.EDU/~sinclair/grids.ps"
+    ],
+    "ground_truth": "faculty"
+}

@@ -1,0 +1,6 @@
+{
+    "Title": " Program 4 ",
+    "Body": "Your program should be menu-driven, so that the user is repeatedly presented with a menu of their options - the various shapes to print, and the current settings of the options (solid or hollow and printing character).",
+    "link": [],
+    "ground_truth": "other"
+}

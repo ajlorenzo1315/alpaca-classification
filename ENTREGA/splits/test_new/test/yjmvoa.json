@@ -1,0 +1,10 @@
+{
+    "Title": "MPI-FM: MPI for Fast Messages",
+    "Body": "The performance of MPI-FM shows that MPP-like communication latency and bandwidth can be achieved with a network of workstations at the user level with carefully tuned messaging layers.",
+    "link": [
+        "http://www.mcs.anl.gov/home/lusk/mpich/index.html",
+        "http://www-csag.cs.uiuc.edu/projects/comm/fm.html",
+        "http://www-csag.cs.uiuc.edu/projects/comm/mpich-fm-latency.gif"
+    ],
+    "ground_truth": "unknow"
+}

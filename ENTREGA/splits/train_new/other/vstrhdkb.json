@@ -1,0 +1,9 @@
+{
+    "Title": "my life at the keyboard",
+    "Body": "But in my spare time at work I was allowed to use the computer language APL, and this time I found a textbook for the language so I was able to learn some of it.",
+    "link": [
+        "http://www.best.com/~thvv/multics.html",
+        "http://www.best.com/~thvv/mspp.html"
+    ],
+    "ground_truth": "other"
+}

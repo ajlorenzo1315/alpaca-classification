@@ -1,0 +1,10 @@
+{
+    "Title": "Andrew Kehler's Home Page",
+    "Body": "(handout available here ) Andrew Kehler, The Effect of Establishing Coherence in Ellipsis and Anaphora Resolution , In Proceedings of the 31st Annual Conference of the Association for Computational Linguistics (ACL-93), pp.",
+    "link": [
+        "http://www.das.harvard.edu/users/students/Andrew_Kehler/Papers/eacl95.ps.gz",
+        "http://www.das.harvard.edu/users/students/Andrew_Kehler/Papers/li-squib.ps.gz",
+        "http://www.das.harvard.edu/users/students/Andrew_Kehler/Papers/doso-handout.ps.gz"
+    ],
+    "ground_truth": "unknow"
+}

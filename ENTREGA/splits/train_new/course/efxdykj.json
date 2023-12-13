@@ -1,0 +1,10 @@
+{
+    "Title": "Shlomo Zilberstein -- Teaching -- CMPSCI 383",
+    "Body": "comp.lang.lisp Frequently Asked Questions (FAQ) Lisp Resources at University of Massachusetts.",
+    "link": [
+        "http://anytime.cs.umass.edu/~shlomo/",
+        "http://anytime.cs.umass.edu/~shlomo/classes/383/handouts/info.html",
+        "http://anytime.cs.umass.edu/~shlomo/classes/383/handouts/schedule.html"
+    ],
+    "ground_truth": "course"
+}

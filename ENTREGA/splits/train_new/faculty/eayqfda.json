@@ -1,0 +1,10 @@
+{
+    "Title": "Gene Myers -- Home Page",
+    "Body": "Sequence Comparison Algorithms in Molecular Biology , Tech.",
+    "link": [
+        "mailto:gene@cs.arizona.edu",
+        "#bio",
+        "#papers"
+    ],
+    "ground_truth": "faculty"
+}

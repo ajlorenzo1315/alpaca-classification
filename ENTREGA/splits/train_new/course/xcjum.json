@@ -1,0 +1,10 @@
+{
+    "Title": "CS 515",
+    "Body": "CS 515 is the practicum for those students who also take CS 514 , Practical Distributed Systems .",
+    "link": [
+        "http://simon.cs.cornell.edu/Info/Courses/Spring-96/CS514",
+        "http://simon.cs.cornell.edu/Info/Courses/Spring-96/CS515/toc.html",
+        "http://simon.cs.cornell.edu/Info/Courses/Spring-96/CS515/toc.html"
+    ],
+    "ground_truth": "course"
+}

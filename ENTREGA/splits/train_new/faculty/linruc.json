@@ -1,0 +1,10 @@
+{
+    "Title": "David Nicol's Home Page",
+    "Body": "Date: Mon, 25 Nov 1996 23:30:55 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Sat, 23 Nov 1996 15:54:58 GMT Content-length: 2089 David Nicol's Home Page David M. Nicol Associate Professor Dept.",
+    "link": [
+        "http://www.cs.dartmouth.edu/~nicol/plan.txt",
+        "http://www.cs.dartmouth.edu/~nicol/bart-beard.gif",
+        "http://www.cs.dartmouth.edu/~nicol/vitae.ps "
+    ],
+    "ground_truth": "faculty"
+}

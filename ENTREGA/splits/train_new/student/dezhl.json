@@ -1,0 +1,10 @@
+{
+    "Title": "Geoff's Li'l Pie in the Sky",
+    "Body": "Date: Thu, 21 Nov 1996 22:50:40 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Sat, 12 Oct 1996 05:32:03 GMT Content-length: 774 Geoff's Li'l Pie in the Sky Who I am a graduate student at the University of Washington in Seattle.",
+    "link": [
+        "http://www.cs.washington.edu/homes/voelker/mobisaic/mobisaic.html",
+        "http://www.cs.washington.edu/homes/voelker/ntemacs.html",
+        "http://www.cs.washington.edu/homes/voelker"
+    ],
+    "ground_truth": "student"
+}

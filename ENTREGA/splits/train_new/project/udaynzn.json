@@ -1,0 +1,10 @@
+{
+    "Title": "Information Capture and Access project",
+    "Body": "In addition to its utility to the general CS research community, We use this document collection as test material for our research in information access.",
+    "link": [
+        "http://cs-tr.cs.cornell.edu",
+        "http://www.cs.cornell.edu/Info/People/dean/home.html",
+        "http://dri.cornell.edu/pub/People/davis.html"
+    ],
+    "ground_truth": "project"
+}

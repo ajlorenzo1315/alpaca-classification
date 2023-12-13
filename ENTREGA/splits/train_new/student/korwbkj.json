@@ -1,0 +1,10 @@
+{
+    "Title": "Emery Berger : Home page",
+    "Body": "academics functional programming FP+OOP=Haskell , Emery Berger (UT TR 92-30).",
+    "link": [
+        "http://www.cs.utexas.edu/",
+        "http://www.utexas.edu/maps/main/buildings/tay.html",
+        "http://www.utexas.edu/"
+    ],
+    "ground_truth": "student"
+}

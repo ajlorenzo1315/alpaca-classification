@@ -1,0 +1,10 @@
+{
+    "Title": "Jonathan Barber's Resume",
+    "Body": "Teaching Assistant for CS314:  An Introduction to Digital Systems and Computer Organization Aug, 1995 - Present Department of Computer Science, Cornell Engineering Course teaches fundamentals of computer structures and low-level programming concepts, using the PowerPC architecture as a model.",
+    "link": [
+        "http://www.cs.cornell.edu/Info/People/barber",
+        "mailto:barber@cs.cornell.edu",
+        "http://www.cornell.edu/"
+    ],
+    "ground_truth": "other"
+}

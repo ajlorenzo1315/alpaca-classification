@@ -1,0 +1,10 @@
+{
+    "Title": "John Lu",
+    "Body": "Date: Tue, 26 Nov 1996 00:14:15 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Thu, 14 Nov 1996 21:25:49 GMT Content-length: 1232 John Lu John Lu Graduate Student Department of Computer Science Rice University Research Interests John Lu's research interests include pointer analysis and code transformations that utilize pointer analysis.",
+    "link": [
+        "http://www.cs.rice.edu",
+        "http://www.rice.edu",
+        "ftp://cs.rice.edu/public/preston/optimizer/clean.ps.gz"
+    ],
+    "ground_truth": "student"
+}

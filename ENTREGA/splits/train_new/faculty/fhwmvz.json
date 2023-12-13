@@ -1,0 +1,10 @@
+{
+    "Title": "Arden Ruttan",
+    "Body": "``The Laguerre Inequalities with Applications to a Problem Associated with the Riemann Hypothesis'', Numerical Algorithms , 1(1991), pp 305-330, (with G. Csordas and R. S. Varga).",
+    "link": [
+        "http://www.mcs.kent.edu/mcsinfo/csbrochure/rothstein.html",
+        "http://www.mcs.kent.edu/mcsinfo/csbrochure/faculty.html",
+        "http://nimitz.mcs.kent.edu/~sitharam/index.html"
+    ],
+    "ground_truth": "faculty"
+}

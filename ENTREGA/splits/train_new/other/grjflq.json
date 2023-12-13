@@ -1,0 +1,9 @@
+{
+    "Title": " Where is CS 3310? ",
+    "Body": "Go up the 4 steps, Look out the window, turn right, and enter the First Door.",
+    "link": [
+        "http://www.cs.wisc.edu/~whitsitt/MAP/map1.html",
+        "http://www.cs.wisc.edu/~bockrath/bockrath.html"
+    ],
+    "ground_truth": "other"
+}

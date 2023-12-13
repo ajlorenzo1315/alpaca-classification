@@ -1,0 +1,10 @@
+{
+    "Title": "Not a girl named Brian",
+    "Body": "Or use URouLette to go to a random URL in the Web.",
+    "link": [
+        "http://www.cs.washington.edu/homes/bam/phoenix/phoenix.html",
+        "http://www.kabalarians.com/male/brian.htm",
+        "http://www.cs.washington.edu"
+    ],
+    "ground_truth": "student"
+}

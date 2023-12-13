@@ -1,0 +1,10 @@
+{
+    "Title": "Physics of Computation",
+    "Body": "Other resources include all the lab assignments for Carver's analog VLSI course (CNS 182) , and the assignments for the companion course on Analog VLSI design (CNS 184) .",
+    "link": [
+        "http://www.pcmp.caltech.edu/people.html",
+        "http://www.cns.caltech.edu/",
+        "http://www.caltech.edu/"
+    ],
+    "ground_truth": "project"
+}

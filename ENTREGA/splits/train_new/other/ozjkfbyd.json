@@ -1,0 +1,10 @@
+{
+    "Title": "SACM Coke Club",
+    "Body": "Coke is it!",
+    "link": [
+        "http://www.cs.wisc.edu/~sacmuse/coke/coke_manual.html",
+        "http://www.cs.wisc.edu/cgi-bin/finger/m?coke",
+        "http://www.cs.wisc.edu/~mreames/"
+    ],
+    "ground_truth": "other"
+}

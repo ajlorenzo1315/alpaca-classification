@@ -1,0 +1,10 @@
+{
+    "Title": "Jose Luis Fernandez Home Page",
+    "Body": "Designed and implemented new algorithms to calculate the Quick Cosine Transform in UNIX C. Designed and constructed hardware and drivers for the processor M68010.",
+    "link": [
+        "http://www.microsoft.com",
+        "http://www.cs.cornell.edu/Info/People/joseluis/usares.ps",
+        "#Education"
+    ],
+    "ground_truth": "other"
+}

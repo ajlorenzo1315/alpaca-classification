@@ -1,0 +1,10 @@
+{
+    "Title": "No title",
+    "Body": "on Distributed Computing Systems (ICDCS), May 1995.",
+    "link": [
+        "http://paul.rutgers.edu/~acharya/dataman.html",
+        "http://winwww.rutgers.edu/",
+        "ftp://paul.rutgers.edu/pub/badri/mrpc.ps.Z"
+    ],
+    "ground_truth": "student"
+}

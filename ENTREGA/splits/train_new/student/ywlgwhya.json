@@ -1,0 +1,10 @@
+{
+    "Title": "Guy Zuelzke's Personal Web Page",
+    "Body": "Date: Thu, 21 Nov 1996 21:55:23 GMT Server: NCSA/1.4.1 Content-type: text/html Last-modified: Mon, 18 Mar 1996 13:14:17 GMT Content-length: 3661 Guy Zuelzke's Personal Web Page Guy Zuelzke Computer Science Phone(Office): (419) 372-8957 Office: Hayes 226.",
+    "link": [
+        "http://www.bgsu.edu",
+        "mailto:zuelzke@cs.bgsu.edu",
+        "http://www.cs.bgsu.edu/~zuelzke/resume.html"
+    ],
+    "ground_truth": "student"
+}

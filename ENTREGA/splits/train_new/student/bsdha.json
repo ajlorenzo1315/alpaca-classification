@@ -1,0 +1,10 @@
+{
+    "Title": "Michael Wu",
+    "Body": "He is currently enrolled in the Ph.D. program in the Electrical and Computer Engineering department at Rice under his advisor Willy Zwaenepoel .",
+    "link": [
+        "http://www.cs.rice.edu/~mikewu/personal.html",
+        "http://www.cmu.edu/cmufront",
+        "http://www.rice.edu"
+    ],
+    "ground_truth": "student"
+}

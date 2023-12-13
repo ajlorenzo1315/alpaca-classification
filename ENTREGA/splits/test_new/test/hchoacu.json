@@ -1,0 +1,10 @@
+{
+    "Title": "Gene Stark's Home Page",
+    "Body": "Go to the Computer Science Department home page.",
+    "link": [
+        "http://www.cs.sunysb.edu/~stark/welcome.au",
+        "http://bsd7.cs.sunysb.edu/~stark",
+        "http://www.ug.cs.sunysb.edu/~stark"
+    ],
+    "ground_truth": "unknow"
+}

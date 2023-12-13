@@ -1,0 +1,9 @@
+{
+    "Title": " Neeraj's Pages ",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Monday, 06-Jan-97 19:33:51 GMT Content-Type: text/html Content-Length: 1346 Last-Modified: Monday, 01-Jul-96 23:27:51 GMT Neeraj's Pages Your browser does not support frames... To view my home page you can either download Netscape Navigator or view it without frames .",
+    "link": [
+        "http://www.netscape.com/comprod/products/navigator",
+        "front.html"
+    ],
+    "ground_truth": "student"
+}

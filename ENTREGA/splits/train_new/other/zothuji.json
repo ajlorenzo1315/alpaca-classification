@@ -1,0 +1,10 @@
+{
+    "Title": "Mathematical Programming in Machine Learning",
+    "Body": "Date: Tue, 05 Nov 1996 21:00:12 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Tue, 10 Sep 1996 22:35:10 GMT Content-length: 4117 Mathematical Programming in Machine Learning Mathematical Programming in Machine Learning This WWW page provides links to the work being done in Mathematical Programming in Machine Learning in the Mathematical Programming section of the University of Wisconsin-Madison Computer Sciences Department.",
+    "link": [
+        "http://www.cs.wisc.edu/~olvi/uwmp/pat_sep.html",
+        "http://www.cs.wisc.edu/~olvi/uwmp/cancer.html",
+        "http://www.cs.wisc.edu/~olvi/uwmp/nn-solodov.html"
+    ],
+    "ground_truth": "other"
+}

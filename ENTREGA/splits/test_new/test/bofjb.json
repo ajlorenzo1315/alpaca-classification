@@ -1,0 +1,10 @@
+{
+    "Title": "SHORE Project Beta Release (0.9.3)",
+    "Body": "The aim of this newsletter is to provide users with timely information on the SHORE project, especially the latest release.",
+    "link": [
+        "http://www.cs.wisc.edu/shore/beta/betarelease/betarelease.html",
+        "http://www.cs.wisc.edu/shore/beta/betarelease/betarelease.html",
+        "ftp://ftp.cs.wisc.edu/shore/beta.0.9.3/"
+    ],
+    "ground_truth": "unknow"
+}

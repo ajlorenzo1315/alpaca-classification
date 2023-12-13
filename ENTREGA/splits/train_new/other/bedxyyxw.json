@@ -1,0 +1,10 @@
+{
+    "Title": "CSE 590H Home Page",
+    "Body": "Related Web Sites I don't want to duplicate all of Aaron's great work, so for now, here's a pointer to the University of Washington UI Students' Web (which is a good starting point).",
+    "link": [
+        "http://www.cs.washington.edu/homes/borning",
+        "http://www.cs.washington.edu/homes/brd",
+        "http://www.cs.washington.edu/homes/brd"
+    ],
+    "ground_truth": "other"
+}

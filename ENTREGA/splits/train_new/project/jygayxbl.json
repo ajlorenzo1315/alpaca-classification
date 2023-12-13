@@ -1,0 +1,10 @@
+{
+    "Title": " Computer Graphics Group ",
+    "Body": "Date: Tue, 14 Jan 1997 23:37:31 GMT Server: Apache/1.0.0 Content-type: text/html Content-length: 974 Last-modified: Thu, 14 Nov 1996 18:19:50 GMT Computer Graphics Group Welcome to the web site of Massachusetts Institute of Technology's Computer Graphics Group!",
+    "link": [
+        "http://web.mit.edu/",
+        "http://graphics.lcs.mit.edu/people.html",
+        "http://graphics.lcs.mit.edu/publications.html"
+    ],
+    "ground_truth": "project"
+}

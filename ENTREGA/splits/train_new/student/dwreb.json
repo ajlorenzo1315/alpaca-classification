@@ -1,0 +1,10 @@
+{
+    "Title": "My Homepage: Andreas Junghanns",
+    "Body": "Education Sept. 1994 - August 199?, PhD student, computing science, University of Alberta Sept. 1992 - April 1993, visiting student, Informatika, Universidad Politecnica de Madrid.",
+    "link": [
+        "http://www.cs.ualberta.ca/people/grad/aiff/andreas.aiff",
+        "http://www.cs.ualberta.ca/~andreas/Pictures/a+t.jpg",
+        "http://web.cs.ualberta.ca/home.html"
+    ],
+    "ground_truth": "student"
+}

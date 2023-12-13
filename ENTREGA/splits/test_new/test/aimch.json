@@ -1,0 +1,10 @@
+{
+    "Title": "Home Page of Thomas Obenaus",
+    "Body": "If you want to see what I do to pay the rent, refer to the MACS Lab Software Page which contains a list of CAD-tools I maintain for the MACS lab.",
+    "link": [
+        "http://www.cs.mcgill.ca/~obenaus/benetton.au",
+        "mailto:obenaus@cs.mcgill.ca",
+        "http://www.macs.ee.mcgill.ca/~obenaus/research.html"
+    ],
+    "ground_truth": "unknow"
+}

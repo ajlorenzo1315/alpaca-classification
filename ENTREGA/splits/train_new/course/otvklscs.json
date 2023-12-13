@@ -1,0 +1,10 @@
+{
+    "Title": "Computer Science 250",
+    "Body": "Course information, assignments, solutions, and help with Eiffel are all available.",
+    "link": [
+        "http://www.cs.usask.ca/classes/250/tutorials96/960909/960909.html",
+        "http://www.cs.usask.ca/classes/250/tutorials96/960909/960909.ps",
+        "http://www.cs.usask.ca/classes/250/tutorials96/960916/960916.html"
+    ],
+    "ground_truth": "course"
+}

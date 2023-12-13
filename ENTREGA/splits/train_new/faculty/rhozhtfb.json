@@ -1,0 +1,10 @@
+{
+    "Title": " Home Page of David J. DeWitt ",
+    "Body": "The objective of SHORE is to design, implement, and evaluate a persistent object system that will serve the needs of a wide variety of target applications including hardware and software CAD systems, persistent programming languages, geographic information systems, satellite data repositories, and multimedia applications.",
+    "link": [
+        "ftp://ftp.cs.wisc.edu/oo7/",
+        "http://www.cs.wisc.edu/shore/",
+        "http://www.cs.wisc.edu/paradise/"
+    ],
+    "ground_truth": "faculty"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Deborah A. Frincke Faculty Page\n",
+    "Body": "Date: Mon, 25 Nov 1996 23:05:51 GMT Server: NCSA/1.4.1 Content-type: text/html Last-modified: Sun, 10 Mar 1996 22:12:30 GMT Content-length: 2229 Deborah A. Frincke Faculty Page Department of Computer Science, University of Idaho frincke@cs.uidaho.edu Deborah A. Frincke, PhD.",
+    "link": [
+        "http://www.cs.uidaho.edu/~frincke/classes/classIndex.html",
+        "http://www.cs.uidaho.edu/~frincke/research/researchIndex.html",
+        "http://www.cs.uidaho.edu/~frincke/research/uidahoSecurity.html"
+    ],
+    "ground_truth": "faculty"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Aris Floratos",
+    "Body": "So, I entered the Computer Science and Engineering Department at the University of Patras and, somehow, I managed to get a Bachelor's degree (1991).",
+    "link": [
+        "http://cs.nyu.edu/",
+        "http://cs.nyu.edu/cs/courantnyu.html",
+        "http://www.nyu.edu/"
+    ],
+    "ground_truth": "student"
+}

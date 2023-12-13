@@ -1,0 +1,10 @@
+{
+    "Title": " NYU Ultracomputer Project Home Page ",
+    "Body": "Date: Tue, 26 Nov 1996 00:11:14 GMT Server: NCSA/1.4.1 Content-type: text/html Last-modified: Fri, 15 Sep 1995 19:30:55 GMT Content-length: 1453 NYU Ultracomputer Project Home Page The NYU Ultracomputer Project The NYU Ultracomputer Lab conducts research in parallel computer architecture and software design.",
+    "link": [
+        "http://cs.nyu.edu/cs/projects/ultra/staff.html",
+        "ftp://cs.nyu.edu/pub/local/ultra/ucn/",
+        "ftp://cs.nyu.edu/pub/local/ultra/theses/"
+    ],
+    "ground_truth": "project"
+}

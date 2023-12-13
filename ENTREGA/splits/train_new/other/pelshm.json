@@ -1,0 +1,10 @@
+{
+    "Title": "Problems and Solutions",
+    "Body": "The problem has to do with the use of frames; the configuration option to turn off frames is the only known fix.",
+    "link": [
+        "http://www.fiesta.com",
+        "mailto:problems@metacrawler.com",
+        "http://metacrawler.cs.washington.edu:8080//"
+    ],
+    "ground_truth": "other"
+}

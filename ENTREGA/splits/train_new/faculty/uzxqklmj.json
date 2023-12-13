@@ -1,0 +1,8 @@
+{
+    "Title": "Jeffrey F. Naughton",
+    "Body": "(1) Techniques for improving the performance of multi-dimensional data analysis, including array-based storage and processing algorithms, bit-map indices, and algorithms for computing the \"cube\"; (2) The performance of object-relational database systems, including benchmarking O/R DBMS, algorithms for set-valued attributes, and techniques for parallelizing O/R workloads; (3) Parallel geo-spatial information systems.",
+    "link": [
+        "http://www.cs.wisc.edu/cgi-bin/finger?naughton"
+    ],
+    "ground_truth": "faculty"
+}

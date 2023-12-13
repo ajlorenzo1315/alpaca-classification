@@ -1,0 +1,10 @@
+{
+    "Title": "CS513, Fall96: on-line handouts",
+    "Body": "The site you are accessing here is a mirror of the account ~amos/public/cs513 .",
+    "link": [
+        "http://www.cs.wisc.edu/~amos/513/email",
+        "http://www.cs.wisc.edu/~amos/513/as4.ps",
+        "http://www.cs.wisc.edu/~amos/513/mid_sam.ps"
+    ],
+    "ground_truth": "course"
+}

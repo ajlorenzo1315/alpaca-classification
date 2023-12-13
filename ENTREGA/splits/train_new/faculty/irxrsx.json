@@ -1,0 +1,10 @@
+{
+    "Title": " R.G. (Randy) Goebel ",
+    "Body": "(Randy) Goebel Professor Department of Computing Science Faculty of Science University of Alberta Edmonton, Alberta Canada  T6G 2H1 E-mail: goebel@cs.ualberta.ca Voice: (403) 492-2683 Facsimile: (403) 492-1071 WWW: http://www.cs.ualberta.ca/~goebel Education B.Sc.",
+    "link": [
+        "http://www.cs.ualberta.ca/home.html",
+        "http://eta.sci.ualberta.ca/",
+        "http://www.ualberta.ca/www/UAlberta.html"
+    ],
+    "ground_truth": "faculty"
+}

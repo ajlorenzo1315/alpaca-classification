@@ -1,0 +1,10 @@
+{
+    "Title": "CIS 199 : Web Page Authoring",
+    "Body": "Date: Tue, 26 Nov 1996 19:16:21 GMT Server: Apache/1.1.1 Content-type: text/html CIS 199 : Web Page Authoring CIS 199 : Web Page Authoring Welcome, gs35.sp.cs.cmu.edu , to the CIS 199 web page.",
+    "link": [
+        "http://www.cs.uoregon.edu/classes/cis199www/frames/frame.html",
+        "http://www.cs.uoregon.edu/classes/cis199www/class/getinput.shtml",
+        "http://members.aol.com/jynelms/tv/links.htm"
+    ],
+    "ground_truth": "course"
+}

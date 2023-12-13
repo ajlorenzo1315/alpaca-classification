@@ -1,0 +1,10 @@
+{
+    "Title": "Mark Guzdial Information Page",
+    "Body": "Current Areas of Interest Educational computing, software-realized scaffolding, construction and design environments for students, constructionism, collaboration support, log file analysis and visualization, computational science (computer modeling, simulation, and visualization) for students Mark Guzdial's current research centers on facilitating student learning through student design, construction, and analysis of artifacts.",
+    "link": [
+        "http://www.cc.gatech.edu/gvu/gvutop.html",
+        "http://www.cc.gatech.edu/gvu/edtech/Emile.html",
+        "http://www.cc.gatech.edu/gvu/edtech/MediaText.html"
+    ],
+    "ground_truth": "faculty"
+}

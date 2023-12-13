@@ -1,0 +1,8 @@
+{
+    "Title": " Structurally Free Logic ",
+    "Body": "Combinators are take as \"first-class' objects, and still a cut-elimination theorem can be proven.",
+    "link": [
+        "http://www.cs.indiana.edu/l/www/research/index.html"
+    ],
+    "ground_truth": "project"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "ICSE-17 Root Menu",
+    "Body": "Date: Tue, 10 Dec 1996 15:04:45 GMT Server: NCSA/1.4.2 Content-type: text/html ICSE-17 Root Menu The 17th International Conference on Software Engineering and Co-Located Events April 23-30 1995 Seattle, Washington, USA Westin Hotel To software engineering in the Department of Computer Science & Engineering , University of Washington .",
+    "link": [
+        "http://www.cs.washington.edu/research/se/icse17/icse17/seattle.html",
+        "http://www.cs.washington.edu/research/se/icse17/icse17/hotel.html",
+        "http://www.cs.washington.edu/research/se/"
+    ],
+    "ground_truth": "other"
+}

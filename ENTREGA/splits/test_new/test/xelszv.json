@@ -1,0 +1,6 @@
+{
+    "Title": "Tcl/Tk Knowledge Base",
+    "Body": "A: You can use the \"windd\" command (/usr/local/bin/windd) to log on an NT machine.",
+    "link": [],
+    "ground_truth": "unknow"
+}

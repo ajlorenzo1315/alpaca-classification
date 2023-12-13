@@ -1,0 +1,10 @@
+{
+    "Title": "\nCS418 Lab 12\n",
+    "Body": "One example shows this process with a CA source strength of 0.05 for blue and 0.0 for red, and using text as an initial condition for the CA.",
+    "link": [
+        "http://www.tc.cornell.edu/Visualization/Education/cs418/labs/SurfaceTension.net",
+        "http://www.tc.cornell.edu/Visualization/Education/cs418/labs/SurfaceTension.cfg",
+        "http://www.tc.cornell.edu/Visualization/Education/cs418/labs/FFTtextures.net"
+    ],
+    "ground_truth": "other"
+}

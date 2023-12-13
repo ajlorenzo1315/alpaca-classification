@@ -1,0 +1,10 @@
+{
+    "Title": "Brian Haberman's Home Page",
+    "Body": "With my work schedule and school, I have very little free time.",
+    "link": [
+        "http://www.csc.ncsu.edu/",
+        "http://www.csc.ncsu.edu/faculty/GRouskas/GNR.html",
+        "http://www.csc.ncsu.edu/directory/bio/DReeves.html"
+    ],
+    "ground_truth": "student"
+}

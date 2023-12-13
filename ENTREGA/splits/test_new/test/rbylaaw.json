@@ -1,0 +1,10 @@
+{
+    "Title": "J. Wang's Home Page",
+    "Body": "degrees from Tsinghua University , which is one of the most prestigious education and research institutes in China.",
+    "link": [
+        "http://www.cs.ualberta.ca/people/grad/aiff/jiankang.aiff",
+        "http://www.cs.ualberta.ca/~jiankang",
+        "mailto:jiankang@cs.ualberta.ca"
+    ],
+    "ground_truth": "unknow"
+}

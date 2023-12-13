@@ -1,0 +1,10 @@
+{
+    "Title": "Finding clusters quickly in parallel",
+    "Body": "Date: Tue, 10 Dec 1996 21:21:47 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Mon, 04 Sep 1995 17:39:55 GMT Content-length: 2685 Finding clusters quickly in parallel Next: Introduction Finding clusters quickly in parallel Brendan Mumey Department of Computer Science University of Washington, Seattle, WA 98195, USA brendan@cs.washington.edu January 27, 1995 Abstract: This report describes the implementation of a new parallel algorithm for finding clusters point sets of Euclidean space.",
+    "link": [
+        "node1.html",
+        "node1.html",
+        "node1.html#SECTION00010000000000000000"
+    ],
+    "ground_truth": "other"
+}

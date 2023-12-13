@@ -1,0 +1,10 @@
+{
+    "Title": "CS244a Programming Assignment Rules and Guidelines",
+    "Body": "We require a makefile to be submitted with each assignment.",
+    "link": [
+        "http://www-leland.stanford.edu/class/cs244a/Makefile.html",
+        "http://www.isi.edu/rfc-editor",
+        "ftp://nis.nsf.net/documents/rfc"
+    ],
+    "ground_truth": "other"
+}

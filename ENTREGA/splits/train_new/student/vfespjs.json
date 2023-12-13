@@ -1,0 +1,10 @@
+{
+    "Title": "\nHome page for Jack L. Lo\n",
+    "Body": "Research Papers Converting Thread-Level Parallelism Into Instruction-Level Parallelism via Simultaneous Multithreading ( Abstract , Postscript ) Jack L. Lo , Susan J. Eggers , Joel S. Emer, Henry M. Levy , Rebecca L. Stamm, and Dean M. Tullsen Submitted for publication, July 1996.",
+    "link": [
+        "http://www.cs.washington.edu/htbin-post/finger/jlo",
+        "http://www.cs.washington.edu/",
+        "http://www.uwtc.washington.edu/UWHome.html"
+    ],
+    "ground_truth": "student"
+}

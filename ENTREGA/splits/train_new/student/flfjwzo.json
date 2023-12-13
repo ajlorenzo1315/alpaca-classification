@@ -1,0 +1,10 @@
+{
+    "Title": "Tara Estlin",
+    "Body": "My research involves using a combination of analytical and inductive machine learning techniques to acquire this control information.",
+    "link": [
+        "http://www.cs.utexas.edu/users/estlin/prop.ps",
+        "http://www.cs.utexas.edu/users/estlin/cv.ps",
+        "http://www.cs.utexas.edu/users/estlin/pubs.html"
+    ],
+    "ground_truth": "student"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Ramin Zabih's Home Page",
+    "Body": "Professional Activities I am on the program comittee for CVPR-97 , the IEEE conference on computer vision and pattern recognition, which will be held in San Juan, PR in June 1997.",
+    "link": [
+        "http://www.cs.cornell.edu/home/rdz/refinement.html",
+        "http://www.cs.cornell.edu/Info/People/rdz/priceweb.html",
+        "http://communication.ucsd.edu/pagre/tno/"
+    ],
+    "ground_truth": "unknow"
+}

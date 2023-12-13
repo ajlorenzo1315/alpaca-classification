@@ -1,0 +1,10 @@
+{
+    "Title": "Aviv's home ",
+    "Body": "My name is Aviv Rosenberg, and I was born in 1965 in Petah-Tikva Israel .",
+    "link": [
+        "http://www.ccs.neu.edu/home/aviv/pt.html",
+        "http://www.ac.il/israel_sens.html",
+        "http://splinter.coe.neu.edu"
+    ],
+    "ground_truth": "student"
+}

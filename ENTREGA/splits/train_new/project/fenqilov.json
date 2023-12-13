@@ -1,0 +1,10 @@
+{
+    "Title": "  Cornell Modeling and Simulation Project Home Page  ",
+    "Body": "Overview of the Project The SimLab Software Package Selected Research Activities: Collaborative Mathematics Environments , a research proposal [a postscript version] Guaranteed-Quality Mesh Generation Microstorage Architecture The Weyl computer algebra substrate SPL, a high-level programming language for synthesizing scientific software The Chains Algebraic-Topological Programming Language Selected Presentations: The SimLab Component of the ARPA/NIST MADEFAST Collaborative Design and Manufacturing Exercise.",
+    "link": [
+        "http://www.cs.cornell.edu/Info/Projects/SimLab/overview.html",
+        "http://www.cs.cornell.edu/Info/Projects/SimLab/releases/release-1-0.html",
+        "http://www.cs.cornell.edu/Info/Projects/NuPrl/documents/colmath/it.html\n"
+    ],
+    "ground_truth": "project"
+}

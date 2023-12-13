@@ -1,0 +1,10 @@
+{
+    "Title": "Arnold L. Rosenberg",
+    "Body": "Prior to joining UMass, he was a Professor of Computer Science at Duke University from 1981 to 1986, and a Research Staff Member at the IBM Watson Research Center from 1965 to 1981.",
+    "link": [
+        "http://www.cs.umass.edu",
+        "http://www.cs.umass.edu/rcfdocs/newhome",
+        "http://www.cs.umass.edu/~thtml/TPDP.html"
+    ],
+    "ground_truth": "faculty"
+}

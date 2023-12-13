@@ -1,0 +1,10 @@
+{
+    "Title": " Welcome to Jeff's Home ",
+    "Body": "Date: Tue, 26 Nov 1996 02:53:14 GMT Server: Apache/1.1.1 Content-type: text/html Content-length: 1003 Last-modified: Fri, 20 Sep 1996 16:17:08 GMT Welcome to Jeff's Home Welcome to Jeff's Home This is very simple attempt to just put up a barely functional homepage containing important contact information: Office: Watson Hall, 612 West 115th Street, room 716, NY,NY 10025 Phone: (212) 854-1344 e-mail: jaltman@columbia.edu Kermit Software CS 6998-41: Adv.",
+    "link": [
+        "http://www.columbia.edu/kermit/",
+        "http://www.columbia.edu/~jaltman/cs6998.html",
+        "http://www.columbia.edu/~jaltman/oogui.html"
+    ],
+    "ground_truth": "student"
+}

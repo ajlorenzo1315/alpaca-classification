@@ -1,0 +1,10 @@
+{
+    "Title": "No title",
+    "Body": "How do add my new machine?",
+    "link": [
+        "http://www.cs.columbia.edu/~thayer/crf-guide/crf-guide.html",
+        "http://www.cs.columbia.edu/~qcrf/bin/qscan.cgi",
+        "http://www.cs.columbia.edu/~crf/suggestion-box/"
+    ],
+    "ground_truth": "unknow"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Allison L. Elliott Home Page ",
+    "Body": "She is a member of the Software Systems Design Group (SSDG) and the Center for Information Management Research (CIMR) .",
+    "link": [
+        "http://www.cc.gatech.edu/CoC.html",
+        "http://www.gatech.edu/TechHome.html",
+        "http://www.ajc.com/atl/welcome.htm"
+    ],
+    "ground_truth": "student"
+}

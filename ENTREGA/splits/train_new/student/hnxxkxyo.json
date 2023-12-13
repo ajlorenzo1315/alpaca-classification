@@ -1,0 +1,10 @@
+{
+    "Title": "Jeff Baggett",
+    "Body": "Here is a research proposal (postscript - 5 pages) for some work I would like to do in the next couple of years.",
+    "link": [
+        "http://cam.cornell.edu",
+        "http://www.cornell.edu",
+        "mailto:baggett@cam.cornell.edu"
+    ],
+    "ground_truth": "student"
+}

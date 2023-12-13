@@ -1,0 +1,10 @@
+{
+    "Title": "Cornell Split-C",
+    "Body": "It is implemented on top of U-Net Active Messages For more information contact Thorsten von Eicken .",
+    "link": [
+        "http://www.cs.cornell.edu/Info/Projects/CAM",
+        "http://www.cs.cornell.edu/Info/People/tve/tve.html",
+        "http://www.cs.cornell.edu/Info/Projects/Split-C/split-c-distr.tar.Z"
+    ],
+    "ground_truth": "project"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "CS 664:  Problem Set 1",
+    "Body": "If you correct the mistake, be sure to double the Delta constant to 20 when using the tree images, so that the disparity map I gave you will be the right size.",
+    "link": [
+        "ps1/ps1.ps",
+        "ps1/lrand.pgm",
+        "ps1/rrand.pgm"
+    ],
+    "ground_truth": "unknow"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Richard Cole",
+    "Body": "Recent work has been concentrated in the following areas: the design of efficient algorithms for the PRAM model of parallel computation, string and pattern matching algorithms, amortization as an analysis technique, and network and routing problems.",
+    "link": [
+        "http://cs.nyu.edu/",
+        "http://cims.nyu.edu/",
+        "http://nyu.edu/"
+    ],
+    "ground_truth": "faculty"
+}

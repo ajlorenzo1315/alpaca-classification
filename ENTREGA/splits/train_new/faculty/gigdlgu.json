@@ -1,0 +1,10 @@
+{
+    "Title": "Stuart Russell",
+    "Body": "In Proceedings of the First International Conference on Principles of Knowledge Representation and Reasoning , Toronto, Ontario: Morgan Kaufmann, 1989.",
+    "link": [
+        "http://www.cs.berkeley.edu",
+        "http://HTTP.CS.Berkeley.EDU/~sequin/soda/soda.html",
+        "http://www.berkeley.edu"
+    ],
+    "ground_truth": "faculty"
+}

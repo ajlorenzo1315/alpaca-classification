@@ -1,0 +1,6 @@
+{
+    "Title": " Turning in programming assignments ",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Monday, 06-Jan-97 20:32:48 GMT Content-Type: text/html Content-Length: 1014 Last-Modified: Tuesday, 22-Oct-96 00:00:29 GMT Turning in programming assignments What to turn in Source code User's guide - short description of the user interface Code architecture description - subroutine call graph and brief routine descriptions Using turnin Electronic submission of programming assignments (turnin) Use the command `turnin' in /p/bin.",
+    "link": [],
+    "ground_truth": "other"
+}

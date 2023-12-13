@@ -1,0 +1,9 @@
+{
+    "Title": "CSE 373 G++ Tips",
+    "Body": "\"; cout << \" This is Autumn \"; cout <<  1990 + 6; } Compiling and Running the Program To compile the program on Entropy or Hilbert, type in the command, %  g++ Hello-cse373.cpp Then to run the program, type %  a.out Note: if you receive the following warning message, ignore it.",
+    "link": [
+        "http://www.cs.washington.edu/htbin/info2www?(lab/tn161.info)",
+        "http://arachnid.cs.cf.ac.uk/Dave/C/chapter2_12.html#SECTION00120000000000000000"
+    ],
+    "ground_truth": "other"
+}

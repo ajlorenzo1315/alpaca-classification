@@ -1,0 +1,10 @@
+{
+    "Title": "Home page of Lars Thomas Hansen",
+    "Body": "Scheme home page .",
+    "link": [
+        "http://www.ccs.neu.edu/home/lth/whattodo.html",
+        "http://www.ccs.neu.edu/home/lth/contact.html",
+        "http://www.ccs.neu.edu/home/lth/useful.html"
+    ],
+    "ground_truth": "student"
+}

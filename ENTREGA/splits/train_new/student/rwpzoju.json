@@ -1,0 +1,10 @@
+{
+    "Title": "Chubin Lin's Homepage",
+    "Body": "My main areas of interest are workflow technology in multidatabase systems, database management, object-oriented programming, and computer control .",
+    "link": [
+        "mailto:clin@eos.ncsu.edu",
+        "http://www.csc.ncsu.edu/",
+        "http://www.ncsu.edu/"
+    ],
+    "ground_truth": "student"
+}

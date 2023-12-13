@@ -1,0 +1,10 @@
+{
+    "Title": " Home Page of the UW-Madison Machine Learning Research Group ",
+    "Body": "Table of Contents Group Members MLRG's Archive of Recent Papers MLRG's Archive of Datasets and Domain Theories MLRG's Paper-Reading Schedule The AI Seminar CS 760 - Machine Learning (graduate course) Relevant Local Links Some Useful External Links Group Members Carolyn Allex Jonathon Bodner Kevin Cherkauer Mark Craven Tina Eliassi Richard Maclin (graduated August 1995) David Opitz (graduated August 1995) Jude Shavlik MLRG's Archive of Recent Papers Visit the page describing our recent publications .",
+    "link": [
+        "#members",
+        "http://www.cs.wisc.edu/~shavlik//~shavlik/mlrg/publications.html",
+        "#archive"
+    ],
+    "ground_truth": "project"
+}

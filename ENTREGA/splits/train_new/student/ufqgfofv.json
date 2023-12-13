@@ -1,0 +1,10 @@
+{
+    "Title": "Darren Atkinson's Home Page",
+    "Body": "Date: Thu, 21 Nov 1996 23:10:21 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Mon, 05 Aug 1996 22:31:25 GMT Content-length: 2481 Darren Atkinson's Home Page Darren Atkinson Department of Computer Science & Engineering, 0114 Univerity of Califonia, San Diego San Diego, CA  92093-0114 atkinson@cs.ucsd.edu Personal Information I am currently a 4th year Ph.D. student in Computer Science at UCSD .",
+    "link": [
+        "http://www.ucsd.edu/index.html",
+        "http://www-cse.ucsd.edu/users/wgg/swevolution.html",
+        "http://liinwww.ira.uka.de/bibliography/Compiler/index.html"
+    ],
+    "ground_truth": "student"
+}

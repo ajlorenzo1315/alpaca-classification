@@ -1,0 +1,10 @@
+{
+    "Title": "\nCS418 Lab 2\n",
+    "Body": "A beer bottle A vase A soda bottle Note that the form a?b:c used in a compute module is a conditional.",
+    "link": [
+        "http://www.tc.cornell.edu/Visualization/Education/cs418/labs/parametric.1995.net",
+        "http://www.tc.cornell.edu/Visualization/Education/cs418/labs/parametric.1995.cfg",
+        "http://www.tc.cornell.edu/Visualization/Education/cs418/labs/labgifs/Parametric.net.gif"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Drew Kessler Information Page",
+    "Body": "Current Research Activities: The Simple Virtual Environments programming library development A set of programming tools for easily creating a Virtual Environments Application, or a 3D visualization for flat screens or 3D glasses.",
+    "link": [
+        "http://www.cc.gatech.edu/gvu/gvutop.html",
+        "http://www.cc.gatech.edu/gvu/gvutop.html",
+        "http://www.gatech.edu/"
+    ],
+    "ground_truth": "student"
+}

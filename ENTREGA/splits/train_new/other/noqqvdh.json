@@ -1,0 +1,10 @@
+{
+    "Title": "Distributed Manipulation and Micro-Electro Mechanical Systems (MEMS)",
+    "Body": "Click here to see pictures of people and robots working in the lab.",
+    "link": [
+        "http://simlab.cs.cornell.edu/people/daniela.rus.html",
+        "http://www.cs.cornell.edu/Info/People/rbrown/rbrown.html",
+        "ftp://ftp.cs.cornell.edu/pub/brd/brd.html"
+    ],
+    "ground_truth": "other"
+}

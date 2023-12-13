@@ -1,0 +1,10 @@
+{
+    "Title": " University of Wisconsin Robotics Lab Home Page ",
+    "Body": "Date: Thu, 07 Nov 1996 19:22:08 GMT Server: NCSA/1.4.1 Content-type: text/html University of Wisconsin Robotics Lab Home Page UW-Madison Robotics Lab 302 Mechanical Engineering 1513 University Avenue Madison, WI 53706 Vladimir Lumelsky , Director About the Lab Brief Review of the Lab's Research Activities People in the Lab Lab Technical Reports (compressed postscript available) The Simulation Library, v2.0 Related Courses Robotics Seminar Recent Projects and Selected Publication Abstracts Maze-searching algorithms Effect of kinematics in sensor-based motion planning Dynamics and sensor-based control: the Jogger's Model Sensing and planning Decentralized intelligence: groups of robots Special topics in sensor-based motion planning: Tethered robots; Underwater robots; Kinematic redundancy Sensitive skin project Human-centered systems Computational Geometry Related Research at UW--Madison Neil A. Duffie -- Manufacturing Systems Chuck Dyer -- Computer Vision Robert Lorenz -- Sensors and Actuators Jude Shavlik -- Machine Learning Robotics links IEEE Society of Robotics and Automation (IEEE RAS) IEEE RAS Tech.",
+    "link": [
+        "http://robios8.me.wisc.edu/~lumelsky/lumelsky.html",
+        "http://robios8.me.wisc.edu/research.summary.html",
+        "http://robios8.me.wisc.edu/people.html"
+    ],
+    "ground_truth": "project"
+}

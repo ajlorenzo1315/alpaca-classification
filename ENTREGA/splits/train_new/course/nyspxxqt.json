@@ -1,0 +1,10 @@
+{
+    "Title": "Fall 1995 Course CS510",
+    "Body": "Course Schedule Weeks 1-5 .",
+    "link": [
+        "mailto:boehm@sunset.usc.edu",
+        "mailto:jobaik@pollux.usc.edu",
+        "http://sunset.usc.edu/classes/cs510/project.html"
+    ],
+    "ground_truth": "course"
+}

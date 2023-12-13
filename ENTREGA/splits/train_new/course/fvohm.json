@@ -1,0 +1,10 @@
+{
+    "Title": "CS240A Home Page\n",
+    "Body": "Instructor Mendel Rosenblum ( mendel@cs.stanford.edu ) Office:\tGates 309 Phone:  723-0474 Office hours: Tues. 1:30-2:30; Wed. and Fri. 11:00-12:00 (Other times by appointment) Teaching Assistants Steve Herrod ( herrod@cs.stanford.edu ) Office hours: Tues. 9:00-11:00; Wed. 3:00-5:00 (or by appt.)",
+    "link": [
+        "http://www-leland.stanford.edu/class/cs240a/Handouts/midterm-solutions.html",
+        "mailto: mendel@cs.stanford.edu",
+        "mailto: herrod@cs.stanford.edu"
+    ],
+    "ground_truth": "course"
+}

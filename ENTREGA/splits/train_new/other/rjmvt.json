@@ -1,0 +1,6 @@
+{
+    "Title": "Microstorage Architecture ",
+    "Body": "File systems, object oriented databases and virtual memory subsystems are examples of different storage servers that can be constructed on top of a microstorage kernel.",
+    "link": [],
+    "ground_truth": "other"
+}

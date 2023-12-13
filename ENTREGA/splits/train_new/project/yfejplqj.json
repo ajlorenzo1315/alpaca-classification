@@ -1,0 +1,10 @@
+{
+    "Title": " Laboratory for Scientific Computing ",
+    "Body": "The LSC is an interdisciplinary laboratory dedicated to research in high-performance computing for scientific and engineering applications.",
+    "link": [
+        "http://www.cse.nd.edu/cgi-bin/imagemap/~lsc/LSC_Logo.map",
+        "http://www.cse.nd.edu/~lsc/personnel",
+        "http://www.cse.nd.edu/~lsc/research"
+    ],
+    "ground_truth": "project"
+}

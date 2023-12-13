@@ -1,0 +1,10 @@
+{
+    "Title": "Lab Safety Manual",
+    "Body": "This manual covers safety practices for labs in the",
+    "link": [
+        "contents/toc.html",
+        "labman.pdf",
+        "http://www.adobe.com/prodindex/acrobat/readstep.html"
+    ],
+    "ground_truth": "unknow"
+}

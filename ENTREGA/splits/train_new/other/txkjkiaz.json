@@ -1,0 +1,10 @@
+{
+    "Title": "Tong Wang's Resume\n",
+    "Body": "of Computer Sciences , Austin, TX, Spring 1996 Assist with graduate course CS387H: Database System Implementation Member of Technical Staff - Level 1 Lucent Technologies , ( AT&T ) Bell Labs , Holmdel, NJ, 05/96 - 08/96 Worked with a group in Performance Analysis Department, Bell Labs, participated in designing and was in charge of implementing a Network Design Tools using object-oriented language, designing large scale circiut and ATM networks for different needs of AT&T business units.",
+    "link": [
+        "http://www.cs.utexas.edu/users/twang",
+        "mailto:twang@cs.utexas.edu",
+        "http://www.utexas.edu"
+    ],
+    "ground_truth": "other"
+}

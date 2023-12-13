@@ -1,0 +1,10 @@
+{
+    "Title": "William Junk Faculty Page",
+    "Body": "Date: Mon, 25 Nov 1996 23:05:49 GMT Server: NCSA/1.4.1 Content-type: text/html Last-modified: Tue, 20 Aug 1996 18:21:21 GMT Content-length: 2491 William Junk Faculty Page Department of Computer Science University of Idaho Moscow, ID  83844-1010 William S. Junk billjunk@cs.uidaho.edu 208-885-7530 Bill Junk is an assistant professor of computer science and has been at the University of Idaho since 1980.",
+    "link": [
+        "mailto:billjunk@cs.uidaho.edu",
+        "http://www.cs.uidaho.edu/index.html",
+        "http://www.uidaho.edu/"
+    ],
+    "ground_truth": "faculty"
+}

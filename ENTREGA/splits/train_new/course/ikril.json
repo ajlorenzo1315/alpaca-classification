@@ -1,0 +1,9 @@
+{
+    "Title": "CIS 705 syllabus fall 1993",
+    "Body": "Note to undergraduates regarding course prerequisite: The prerequisite for this course is CIS605.",
+    "link": [
+        "http://www.it.dtu.dk/~jsm/49152/49152.html",
+        "http://www.cis.ksu.edu/htbin/finger?schmidt@cis.ksu.edu"
+    ],
+    "ground_truth": "course"
+}

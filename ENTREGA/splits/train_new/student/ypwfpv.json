@@ -1,0 +1,10 @@
+{
+    "Title": "Xuechen Liu's Homepage",
+    "Body": "Date: Tue, 26 Nov 1996 17:48:03 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Wed, 06 Nov 1996 19:23:51 GMT Content-length: 2675 Xuechen Liu's Homepage Xuechen Liu Graduate Student at Department of Computer Science University of New Mexico Albuquerque, NM 87131 Phone: (505) 246-8744 (H) (505) 277-6676 (O) Email: xcliu@cs.unm.edu Programming Language Links Hot Links Courses For FALL96 UNM Career Services USENET FAQs SEARCH ENGINE This page is still under construction.",
+    "link": [
+        "http://www.cs.unm.edu/Engr_Schl/CS_Dept/subpages/graduates.html",
+        "http://www.cs.unm.edu",
+        "http://www.unm.edu"
+    ],
+    "ground_truth": "student"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Object-Oriented Programming (Graduate) Home Page",
+    "Body": "Date: Tue, 26 Nov 1996 18:48:13 GMT Server: NCSA/1.4.1 Content-type: text/html Last-modified: Thu, 26 Sep 1996 17:03:15 GMT Content-length: 1164 Object-Oriented Programming (Graduate) Home Page Object-Oriented Programming G22.3033.04 Wednesdays 5:00 - 7:00 Room 102, Warren Weaver Hall Professor Edmond Schonberg Reaching Me e-mail schonberg@cs.nyu.edu phone: (212) 998-3494 office: 715 Broadway, Room 706 office hours: by appointment (e-mail at all times!)",
+    "link": [
+        "http://cs.nyu.edu/cs/faculty/schonberg",
+        "mailto:schonber@cs.nyu.edu",
+        "http://cs.nyu.edu/cs/dept_info/course_home_pages/fall96/G22.3033.04/javac.html"
+    ],
+    "ground_truth": "course"
+}

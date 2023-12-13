@@ -1,0 +1,10 @@
+{
+    "Title": "William W. Lee",
+    "Body": "That's probably one of the reasons why I got rejected by my own school.",
+    "link": [
+        "http://www.cs.cornell.edu/Info/People/wwlee/group.jpg",
+        "http://www.cornell.edu",
+        "http://www.cmu.edu"
+    ],
+    "ground_truth": "unknow"
+}

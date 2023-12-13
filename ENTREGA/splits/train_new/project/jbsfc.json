@@ -1,0 +1,10 @@
+{
+    "Title": "UMASS UGV Introduction",
+    "Body": "Date: Tue, 14 Jan 1997 21:46:23 GMT Server: NCSA/1.5.1 Last-modified: Thu, 07 Dec 1995 06:07:32 GMT Content-type: text/html Content-length: 1983 UMASS UGV Introduction The UMass Unmanned Ground Vehicle (UGV) Project Project Overview: The UMass Unmanned Ground Vehicle (UGV) project is part of the larger ARPA -sponsored UGV effort.",
+    "link": [
+        "http://ftp.arpa.mil/",
+        "http://vis-www.cs.umass.edu/~ravela/oda.html",
+        "http://vis-www.cs.umass.edu/~ravela/stealth.html"
+    ],
+    "ground_truth": "project"
+}

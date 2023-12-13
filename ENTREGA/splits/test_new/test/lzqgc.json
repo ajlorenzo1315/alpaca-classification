@@ -1,0 +1,10 @@
+{
+    "Title": "Home Page - David S. Wile",
+    "Body": "Server: Netscape-Commerce/1.1 Date: Thursday, 21-Nov-96 21:03:06 GMT Last-modified: Monday, 18-Mar-96 21:55:46 GMT Content-length: 2444 Content-type: text/html Home Page - David S. Wile David S. Wile USC / Information Sciences Institute 4676 Admiralty Way Marina del Rey CA 90292, USA tel: +1 310 822 1511 ext 248 fax:    +1 310 823 6714 email:  wile@isi.edu Biography Dr. Wile is a Research Professor in the Software Sciences Division within USC / Information Sciences Institute.",
+    "link": [
+        "http://www.isi.edu/software-sciences/home-page.html",
+        "http://www.isi.edu/isi.html",
+        "http://www.brown.edu/"
+    ],
+    "ground_truth": "unknow"
+}

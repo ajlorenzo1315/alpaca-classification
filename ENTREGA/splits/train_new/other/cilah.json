@@ -1,0 +1,8 @@
+{
+    "Title": "How to Reach Me",
+    "Body": "Paul Franklin <paul@cs.washington.edu> At School My office is in Sieg Hall, room 431, at the University of Washington.",
+    "link": [
+        "../restricted/me/contact.html"
+    ],
+    "ground_truth": "other"
+}

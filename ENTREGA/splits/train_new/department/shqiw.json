@@ -1,0 +1,10 @@
+{
+    "Title": "University of Waterloo Department of Computer Science",
+    "Body": "Date: Tuesday, 26-Nov-96 22:18:45 GMT Server: NCSA/1.3 MIME-version: 1.0 Content-type: text/html Last-modified: Wednesday, 23-Oct-96 20:21:26 GMT Content-length: 3113 University of Waterloo Department of Computer Science Computer Science at Waterloo The Department of Computer Science is in the Faculty of Mathematics at the University of Waterloo .",
+    "link": [
+        "http://math.uwaterloo.ca/faculty.html",
+        "http://www.uwaterloo.ca",
+        "http://math.uwaterloo.ca/CS_Dept/facstaff.html"
+    ],
+    "ground_truth": "department"
+}

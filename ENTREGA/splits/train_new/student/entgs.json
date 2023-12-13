@@ -1,0 +1,10 @@
+{
+    "Title": "Kevin Hibray's Home Page",
+    "Body": "Date: Tue, 26 Nov 1996 17:49:00 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Wed, 10 May 1995 19:18:08 GMT Content-length: 1780 Kevin Hibray's Home Page Kevin Hibray's Home Page Kevin at the wharf on Catalina Island Click here for a studio picture .",
+    "link": [
+        "http://www.cs.unm.edu/~kevinh/graphics/kevin_interlace.gif",
+        "http://www.cs.unm.edu/~kevinh/resume.html",
+        "http://www.cs.unm.edu/~kevinh/reports/SysAdmin_report.html"
+    ],
+    "ground_truth": "student"
+}

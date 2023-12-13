@@ -1,0 +1,10 @@
+{
+    "Title": " Michael T. Goodrich ",
+    "Body": "He is co-director of the Center for Geometric Computing at Johns Hopkins University, which is part of a larger collaborative center at Brown, Duke and Johns Hopkins, and is supported by the Army Research Office.",
+    "link": [
+        "http://www.cs.jhu.edu/~goodrich/goodrich.gif",
+        "http://www.cs.jhu.edu/goodrich/publications.html",
+        "http://www.cs.jhu.edu/goodrich/colleagues.html"
+    ],
+    "ground_truth": "faculty"
+}

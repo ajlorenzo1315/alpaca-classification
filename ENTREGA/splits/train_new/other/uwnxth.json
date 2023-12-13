@@ -1,0 +1,10 @@
+{
+    "Title": "An Improved-Version of a Parallel Object-Tracker in RivL",
+    "Body": "We tested the performance of our implementation using a master process, and 1 to 4 slave processes.",
+    "link": [
+        "mailto:stans@cs.cornell.edu",
+        "http://www.cs.cornell.edu/Info/People/barber",
+        "mailto:barber@cs.cornell.edu"
+    ],
+    "ground_truth": "other"
+}

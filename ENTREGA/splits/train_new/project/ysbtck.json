@@ -1,0 +1,10 @@
+{
+    "Title": "High-Performance Synchronization",
+    "Body": "Includes two queue-based mutual exclusion locks; test-and-set and ticket locks; a fair, scalable, queue-based reader-writer lock; competitive and optimal-time small-scale barriers; and a scalable barrier.",
+    "link": [
+        "http://www.cs.rochester.edu/urcs.html",
+        "http://www.cs.rochester.edu/u/scott/home.html",
+        "http://www.cs.rochester.edu/users/grads/kthanasi/"
+    ],
+    "ground_truth": "project"
+}

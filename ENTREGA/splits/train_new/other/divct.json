@@ -1,0 +1,10 @@
+{
+    "Title": "Brian Swander's Bookmarks",
+    "Body": "Date: Tue, 05 Nov 1996 21:47:30 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Thu, 29 Feb 1996 03:59:22 GMT Content-length: 1406 Brian Swander's Bookmarks Brian Swander's Bookmarks http://www.mcs.net/~jorn/html/favorites.html Basic Repertoire List Arts Calendar Books On-line, Listed by Call Number W3 Search Engines BABEL: A Glossary of Computer Related Abbreviations and Acronyms Comedy Central Online",
+    "link": [
+        "http://www.mcs.net/~jorn/html/favorites.html",
+        "http://www.webcom.com/~music/rep/top.html#basicrep",
+        "gopher://gopher.adp.wisc.edu:70/11/.cal/.arts"
+    ],
+    "ground_truth": "other"
+}

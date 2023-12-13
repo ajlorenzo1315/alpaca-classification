@@ -1,0 +1,9 @@
+{
+    "Title": "Quiz 3 Solutions - CS 302 Fall 1996 - Section 4",
+    "Body": "int bar(int number, int value) { if ((number == 1) && (value++ > 0)) { return value + 10; } else { return value; } }",
+    "link": [
+        "http://www.cs.wisc.edu/~cs302",
+        "http://www.cs.wisc.edu/~milo/cs302.html"
+    ],
+    "ground_truth": "other"
+}

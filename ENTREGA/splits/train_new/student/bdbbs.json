@@ -1,0 +1,10 @@
+{
+    "Title": "Scott Colcord's Front Lawn",
+    "Body": "Date: Tue, 26 Nov 1996 03:01:41 GMT Server: NCSA/1.5.1 Content-type: text/html Scott Colcord's Front Lawn Scott Colcord's Front Lawn You are standing in front of a large, modern-looking building.",
+    "link": [
+        "http://www.cs.mtu.edu/grads/Colcord/fr_hall.html",
+        "http://www.csl.mtu.edu/cs121/www",
+        "http://www.cs.mtu.edu/grads/Colcord/schedule.html"
+    ],
+    "ground_truth": "student"
+}

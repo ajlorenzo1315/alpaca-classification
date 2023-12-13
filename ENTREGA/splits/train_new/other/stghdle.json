@@ -1,0 +1,10 @@
+{
+    "Title": "Francesmary Modugno -- Selected Publications",
+    "Body": "In the OOPSLA'93 Workshop on Visual Object-Oriented Programming.",
+    "link": [
+        "thesis-summary.html",
+        "http://www.cs.washington.edu/research/projects/safety/www/papers/hics96.abstract",
+        "http://www.cs.washington.edu/research/projects/safety/www/papers/hics.ps"
+    ],
+    "ground_truth": "other"
+}

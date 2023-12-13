@@ -1,0 +1,10 @@
+{
+    "Title": "QR Book",
+    "Body": "This book may become a very important book for Geographic Systems and for geography in general, despite the fact, that it does not discuss anything geographical or spatial in its 400 pages.",
+    "link": [
+        "file://ftp.cs.utexas.edu/pub/qsim/papers/QR-book-review-Davis.ps.Z",
+        "http://www.cs.utexas.edu/users/qr/acm-cr-review.html",
+        "file://ftp.cs.utexas.edu/pub/qsim/papers/QR-book-review-Sacks.ps.Z"
+    ],
+    "ground_truth": "other"
+}

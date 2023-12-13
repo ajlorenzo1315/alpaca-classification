@@ -1,0 +1,5 @@
+{
+    "Título": "Center for Computational Biology Home Page",
+    "Cuerpo": "Server: Netscape-Enterprise/2.0a Date: Wed, 20 Nov 1996 19:11:16 GMT Accept-ranges: bytes Last-modified: Mon, 23 Sep 1996 00:53:48 GMT Content-length: 1325 Content-type: text/html Center for Computational Biology Home Page Center for Computational Biology The Beckman Institute California Institute of Technology Welcome to the WWW server for the Center for Computational Biology in the Beckman Institute at the California Institute of Technology. Topics: People in the Center The Compositional C++ (CC++) Programming Language High Performance Networking The Nexus Compiler Runtime System The Globus Project Computational Biology Applications Usage of the Center for Computational Biology WWW server is kept track of through usage statistics . California Institute of Technology, Pasadena, CA 91125.",
+    "ground_truth": "project"
+}

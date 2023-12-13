@@ -1,0 +1,10 @@
+{
+    "Title": "Jerry Hsu's MEng Project",
+    "Body": "One method is to listen to the soundtrack and whenever one hears the start of a sentence, he presses a key to mark the time on a computer (known as spacebar method).",
+    "link": [
+        "http://www.cs.cornell.edu/Info/People/jhsu/",
+        "http://www.fdemocracy.org/~jhsu/personal/",
+        "mailto:jh32@cornell.edu"
+    ],
+    "ground_truth": "other"
+}

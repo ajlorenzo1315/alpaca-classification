@@ -1,0 +1,10 @@
+{
+    "Title": "Kang Shin's Home Page ",
+    "Body": "Date: Mon, 25 Nov 1996 23:10:18 GMT Server: Apache/1.1-dev Content-type: text/html Set-Cookie: Apache=gs355845848963418368; path=/ Kang Shin's Home Page Kang G. Shin Kang G. Shin is Professor and Director of the Real-Time Computing Laboratory (RTCL) in the Electrical Engineering and Computer Science department at the University of Michigan .",
+    "link": [
+        "http://www.eecs.umich.edu/~kgshin/kgshin.jpg",
+        "http://www.eecs.umich.edu/RTCL",
+        "http://www.eecs.umich.edu/"
+    ],
+    "ground_truth": "unknow"
+}

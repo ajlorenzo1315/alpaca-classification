@@ -1,0 +1,10 @@
+{
+    "Title": " Steve Seiden",
+    "Body": "A PostScript version is available or you can get the TeX source as a compressed tar archive .",
+    "link": [
+        "http://www.ics.uci.edu/~theory/",
+        "http://www.ics.uci.edu/~dan",
+        "http://www.ics.uci.edu/~irani"
+    ],
+    "ground_truth": "student"
+}

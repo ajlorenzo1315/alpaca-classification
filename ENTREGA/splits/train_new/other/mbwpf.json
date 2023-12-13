@@ -1,0 +1,10 @@
+{
+    "Title": "Natural Language Acquisition",
+    "Body": "This paper presents results from recent experiments with CHILL, a corpus-based parser acquisition system.",
+    "link": [
+        "file://ftp.cs.utexas.edu/pub/mooney/papers/chill-ilp-96.ps.Z",
+        "file://ftp.cs.utexas.edu/pub/mooney/papers/emnlp-96.ps.Z",
+        "file://ftp.cs.utexas.edu/pub/mooney/papers/chill-aaai-96.ps.Z"
+    ],
+    "ground_truth": "other"
+}

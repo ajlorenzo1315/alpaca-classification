@@ -1,0 +1,10 @@
+{
+    "Title": "Ashvin M Dsouza\n",
+    "Body": "The focus of my thesis research is the development of tools to support process algebraic methods for the specification and verification of concurrent systems.",
+    "link": [
+        "./pa2bdd.ps",
+        "./pa2bdd-lite.ps",
+        "./ccs.ps"
+    ],
+    "ground_truth": "unknow"
+}

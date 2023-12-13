@@ -1,0 +1,10 @@
+{
+    "Title": "\nAn overview of the HERMES Project\n",
+    "Body": "This language is based on Annotated Logics, due to Kifer and Subrahmanian, and it provides a powerfull and extensible programming environment.",
+    "link": [
+        "http://www.cs.umd.edu/projects/hermes/overview/paper/index.html",
+        "http://www.cs.umd.edu/projects/hermes",
+        "mailto:kemal@cs.umd.edu"
+    ],
+    "ground_truth": "other"
+}

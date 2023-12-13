@@ -1,0 +1,10 @@
+{
+    "Title": "CptSci 112a: Lecture schedule",
+    "Body": "Readings: Sections 13.6 and 13.7.",
+    "link": [
+        "http://pine.cs.yale.edu:4201/cs112/index.html",
+        "http://pine.cs.yale.edu:4201/cs112/sample-final.html",
+        "http://pine.cs.yale.edu:4201/cs112/sample-final-solutions.html"
+    ],
+    "ground_truth": "other"
+}

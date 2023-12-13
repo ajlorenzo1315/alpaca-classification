@@ -1,0 +1,10 @@
+{
+    "Title": "Susan B. Horwitz",
+    "Body": "S. Horwitz and T. Reps, The use of program dependence graphs in software engineering .",
+    "link": [
+        "http://www.cs.wisc.edu/",
+        "http://www.cs.wisc.edu/cgi-bin/finger?horwitz",
+        "http://www.cs.wisc.edu/wpis/papers/popl97.ps"
+    ],
+    "ground_truth": "faculty"
+}

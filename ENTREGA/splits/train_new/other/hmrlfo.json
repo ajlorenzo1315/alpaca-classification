@@ -1,0 +1,10 @@
+{
+    "Title": " CS211 handouts ",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Sunday, 24-Nov-96 22:34:15 GMT Content-Type: text/html Content-Length: 636 Last-Modified: Wednesday, 04-Sep-96 20:11:48 GMT CS211 handouts Handouts Handouts are in postscript format.",
+    "link": [
+        "handout1.ps",
+        "handout2.ps",
+        "handout2a.ps"
+    ],
+    "ground_truth": "other"
+}

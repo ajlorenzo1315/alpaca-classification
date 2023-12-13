@@ -1,0 +1,10 @@
+{
+    "Title": " EECS 380 Information ",
+    "Body": "Date: Tue, 26 Nov 1996 19:11:33 GMT Server: Apache/1.1-dev Content-type: text/html Set-Cookie: Apache=gs35934984903549329; path=/ EECS 380 Information EECS 380 - Data Structures and Algorithms Fall 1996 Instructors Prof. C.V. Ravishankar Lecture : Tue, Thu 10:30-12 in 1200 EECS Office : 2239 EECS Office hours : Tue, Thu 3:00-4:30 Phone : 647-1806 E-mail : ravi@eecs.umich.edu Prof.",
+    "link": [
+        "http://heg-school.aw.com/cseng/authors/weiss/adp-cpp/adp-cpp.html",
+        "http://www.eecs.umich.edu/~ravi",
+        "mailto:ravi@eecs.umich.edu"
+    ],
+    "ground_truth": "course"
+}

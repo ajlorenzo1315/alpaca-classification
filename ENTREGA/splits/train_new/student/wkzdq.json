@@ -1,0 +1,10 @@
+{
+    "Title": " Gaurav Aggarwal - WWW Home Page",
+    "Body": "Gaurav Aggarwal Information and Computer Science , University of California, Irvine , CA 92697-3425.",
+    "link": [
+        "http://www.ics.uci.edu/~gaurav/personal.html",
+        "http://www.uci.edu/",
+        "http://www.ics.uci.edu/ICShome.html"
+    ],
+    "ground_truth": "student"
+}

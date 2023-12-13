@@ -1,0 +1,9 @@
+{
+    "Title": "A Brief Introduction to TCAS II",
+    "Body": "The little white cross in the lower-middle of the display is the aircraft that this display is on.",
+    "link": [
+        "http://www.caasd.org/atca1994/NSCBrochures/html/TCASII.html",
+        "mailto:jdreese@cs.washington.edu"
+    ],
+    "ground_truth": "other"
+}

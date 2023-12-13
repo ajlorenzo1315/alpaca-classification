@@ -1,0 +1,10 @@
+{
+    "Title": " Stuff on Internet ",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Monday, 06-Jan-97 21:31:08 GMT Content-Type: text/html Content-Length: 3241 Last-Modified: Friday, 22-Nov-96 23:05:04 GMT Stuff on Internet Stuff on Internet Web OS readling list Prof. Dahlin's links to Internet Netscape home page Net Site Magic Internet Society Starting Point for Internet Exploration CERN Home Page WWW FAQ SGML a metalanguage for defining markup language NCSA's Beginner's Guide to HTML What is HyperText ?",
+    "link": [
+        "http://gnn.com",
+        "http://www.cs.utexas.edu/users/dahlin/Classes/WebOS/reading.html",
+        "http://www.cs.utexas.edu/users/dahlin/Classes/WebOS/ref.html"
+    ],
+    "ground_truth": "other"
+}

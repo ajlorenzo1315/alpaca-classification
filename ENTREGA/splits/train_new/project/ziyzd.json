@@ -1,0 +1,10 @@
+{
+    "Title": "Rice Compiler Group",
+    "Body": "Date: Tue, 26 Nov 1996 00:10:00 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Mon, 08 Apr 1996 17:38:33 GMT Content-length: 4796 Rice Compiler Group Rice Compiler Group Members of the Rice Compiler Group focus on compiling imperative programs for modern computer architectures.",
+    "link": [
+        "http://www.cs.rice.edu/MSCP/MSCP.html",
+        "http://www.crpc.rice.edu/fortran-tools/fortran-tools.html",
+        "#fac"
+    ],
+    "ground_truth": "project"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Torrey Hoffman",
+    "Body": "Date: Tue, 26 Nov 1996 16:25:59 GMT Server: NCSA/1.4.1 Content-type: text/html Last-modified: Thu, 04 Jul 1996 01:59:28 GMT Content-length: 761 Torrey Hoffman [Contact Me] [Research] [Web Construction] [Classes] [Crypto] [Free Speech] web design by torrey",
+    "link": [
+        "http://gulf.uvic.ca/cgi-bin/imagemap/~thoffman/menu.map",
+        "http://gulf.uvic.ca/~thoffman/contact/",
+        "http://gulf.uvic.ca/~thoffman/research/"
+    ],
+    "ground_truth": "student"
+}

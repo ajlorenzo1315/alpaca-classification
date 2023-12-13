@@ -1,0 +1,10 @@
+{
+    "Title": "University At Albany Computer Science Department",
+    "Body": "University at Albany Information Links to the University Gopher server and WWW server.",
+    "link": [
+        "http://www.mckinley.com/",
+        "http://www.cs.albany.edu/csdoc.html",
+        "http://www.cs.albany.edu/phone.html"
+    ],
+    "ground_truth": "department"
+}

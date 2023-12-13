@@ -1,0 +1,10 @@
+{
+    "Title": "BGSU Computer Science Directory",
+    "Body": "Date: Tue, 14 Jan 1997 20:03:09 GMT Server: NCSA/1.4.1 Content-type: text/html Last-modified: Fri, 25 Aug 1995 18:10:39 GMT Content-length: 1941 BGSU Computer Science Directory BGSU Welcome BGSU Overview Computer Science Map By Room Computer Science Directory This is a directory of the Faculty and Staff of the department.",
+    "link": [
+        "http://www.bgsu.edu/cgi-bin/imagemap/welcome/imaps/header.map",
+        "http://www.bgsu.edu/welcome.html",
+        "http://www.bgsu.edu/overview.html"
+    ],
+    "ground_truth": "unknow"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": " Evan Speight's Home Page ",
+    "Body": "Publications All in one list By topic Performance Debugging Shared Remote Data Caching Shared-Memory Multiprocessors Resume Computer Architecture Related Pages The World Wide Web Computer Architecture Page at the University of Wisconsin.",
+    "link": [
+        "http://www-ce.rice.edu/cgi-bin/finger?espeight",
+        "http://www-ece.rice.edu/~espeight/nobackground.html",
+        "http://www-ce.rice.edu/ce/members/jkb/htdocs/jkb.html"
+    ],
+    "ground_truth": "student"
+}

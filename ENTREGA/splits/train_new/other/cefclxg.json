@@ -1,0 +1,10 @@
+{
+    "Title": "Journal Publications by Robert A. van de Geijn",
+    "Body": "1535-1554 (1995) E. Barragy, G. F. Carey, and R. van de Geijn, ``Performance and Scalability of Finite Element Analysis for Parallel Computation,'' Journal of Parallel and Distributed Computing , 21, pp.",
+    "link": [
+        "abstracts/sB_BLAS.html",
+        "abstracts/JACOBI.html",
+        "abstracts/LAWN79.html"
+    ],
+    "ground_truth": "other"
+}

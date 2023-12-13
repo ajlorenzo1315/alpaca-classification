@@ -1,0 +1,10 @@
+{
+    "Title": "CS674 Spring 1996 Course Information",
+    "Body": "Teaching Assistant Francis Chu fcc@cs.cornell.edu Office Hours: Tu 3-4 p.m., Th 3-4 p.m., or by appointment Office Address: Upson 5153.",
+    "link": [
+        "http://www.cs.cornell.edu/Info/People/cardie",
+        "http://www.cs.cornell.edu/Info/People/cardie",
+        "mailto:cardie@cs.cornell.edu"
+    ],
+    "ground_truth": "unknow"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "online papers by Jim Davis",
+    "Body": "Copyright and all rights therein are maintained by the authors or by other copyright holders, notwithstanding that they have offered their works here electronically.",
+    "link": [
+        "http://dri.cornell.edu/pub/davis/Papers/www94.html",
+        "http://dri.cornell.edu/pub/davis/Papers/ www94.ps",
+        "http://dri.cornell.edu/pub/davis/Papers/cacm95.html"
+    ],
+    "ground_truth": "other"
+}

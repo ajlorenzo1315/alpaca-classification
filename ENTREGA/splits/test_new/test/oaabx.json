@@ -1,0 +1,10 @@
+{
+    "Title": "Wei Chen's Bookmarks",
+    "Body": "(Financial Aid Search Through the Web) Financial Aid Information Page How to Succeed in Graduate School Binghamton University Home Page Ithaca College WWW Syracuse University's Campus-Wide Information System Yahoo - Education:Universities:United States Rank PhD Programs in Computer Science 1996 America's Best Graduate Schools: U.S. News Rankings 1996 U.S. News Graduate Liberal Arts Rankings, Computer Science Computer Science Faculty, Research and Postdoc Positions Peterson's Education Center US INDUSTRY COMPUTER INDUSTRY Digital Systems Research Center Home Page The IBM world wide web home page AT&T Home Page AT&T Bell Lab Xerox PARC Sandbox, Nano, and UbiComp Server Access HP - Welcome to Hewlett-Packard Digital Equipment Corporation Microsoft Corporation OSF Home Page IBM Research Homepage COMMUNICATION AND PUBLIC RELATION Cunningham Communication Inc. Hoovers: company database Arthur Andersen Home Page Andersen Consulting Home Page JOB SEARCH Online Career Center ICPA - Jobs for Technology, Marketing & Finance Professionals in Asia / Pacific Rim (Japan, Singapore, Hong Kong, China) and US Pacific Coast INTERNET CAREER CONNECTION Job Database/Search tools MONSTER BOARD Job Search JobWeb - Catapult - International Student Guides NEWS Welcome to MSNBC CNN Interactive CHINESE STUFFS Tsinghua Veterans Homepage Chinese Students Soccer Tournaments Chinese Community Information Center(IFCSS) Welcome to IFCSS Professional Service ChinaNet homepage Welcome to Chinese Universities page !",
+    "link": [
+        "http://www.cs.cornell.edu/",
+        "http://www.cornell.edu/",
+        "http://www.orie.cornell.edu/"
+    ],
+    "ground_truth": "unknow"
+}

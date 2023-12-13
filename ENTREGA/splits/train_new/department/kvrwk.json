@@ -1,0 +1,10 @@
+{
+    "Title": "Harvard University DEAS Home Page",
+    "Body": "Date: Tue, 26 Nov 1996 23:01:51 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Wed, 26 Jun 1996 19:36:40 GMT Content-length: 5054 Harvard University DEAS Home Page Please bear with us; this site is under heavy construction.",
+    "link": [
+        "http://www.das.harvard.edu/index.text.html",
+        "http://www.deas.harvard.edu/es.grafx.html",
+        "http://www.deas.harvard.edu/cs.grafx.html"
+    ],
+    "ground_truth": "department"
+}

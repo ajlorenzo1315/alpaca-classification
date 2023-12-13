@@ -1,0 +1,10 @@
+{
+    "Title": "Arizona Computer Science: Financial Aid",
+    "Body": "This department receives a great number of applications each semester, making all financial aid awards highly competitive.",
+    "link": [
+        "#pagetop",
+        "http://www.cs.arizona.edu/",
+        "mailto:wjs@cs.arizona.edu"
+    ],
+    "ground_truth": "other"
+}

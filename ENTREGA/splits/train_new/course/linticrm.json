@@ -1,0 +1,10 @@
+{
+    "Title": "NCSU's CSC 200 Course Information",
+    "Body": "Date: Tue, 26 Nov 1996 18:49:19 GMT Server: NCSA/1.5.2 Last-modified: Sat, 28 Sep 1996 23:12:25 GMT Content-type: text/html Content-length: 3038 NCSU's CSC 200 Course Information CSC 200: Introduction to Computers and Their Uses Department of Computer Science North Carolina State University What Is It?",
+    "link": [
+        "http://www.csc.ncsu.edu/eos/info/csc200_info/www/desc/index.html",
+        "http://www.csc.ncsu.edu/eos/info/csc200_info/www/lab/index.html",
+        "http://www.csc.ncsu.edu/eos/info/csc200_info/www/new/index.html"
+    ],
+    "ground_truth": "course"
+}

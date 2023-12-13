@@ -1,0 +1,10 @@
+{
+    "Title": "Dave Busse's Home Page",
+    "Body": "I'm employed as a Principle Software Engineer for Data General Corporation .",
+    "link": [
+        "http://www.cc.gatech.edu/CoC.html",
+        "http://www.gatech.edu/TechHome.html",
+        "http://www.dg.com/"
+    ],
+    "ground_truth": "unknow"
+}

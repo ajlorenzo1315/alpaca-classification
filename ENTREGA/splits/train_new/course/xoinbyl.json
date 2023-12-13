@@ -1,0 +1,9 @@
+{
+    "Title": "Numerical Linear Algebra",
+    "Body": "Students are to be familiar with approximation theory, error analysis, direct and iterative techniques for solving linear systems, and discretization of continuous problems to the level normally encountered in an undergraduate course in numerical analysis.",
+    "link": [
+        "http://www.cs.dartmouth.edu/courseguide/undergrad/cs_26.html",
+        "http://www.cs.dartmouth.edu/courseguide/grad//"
+    ],
+    "ground_truth": "course"
+}

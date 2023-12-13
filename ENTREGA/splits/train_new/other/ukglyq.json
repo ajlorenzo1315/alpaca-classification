@@ -1,0 +1,10 @@
+{
+    "Title": "Kelly Bauman's X-win32 HowTo Page",
+    "Body": "Start Xwin32 Telnet to any sol or vega machine Type runX {ip address} at the command prompt Be patient and an xterm will come up on your local screen.",
+    "link": [
+        "http://ad.linkexchange.com/1/X015620/gotoad.map",
+        "http://www.linkexchange.com/",
+        "http://www.cs.wisc.edu/~bauman/files/xdemo327.zip"
+    ],
+    "ground_truth": "other"
+}

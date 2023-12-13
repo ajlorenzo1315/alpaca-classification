@@ -1,0 +1,10 @@
+{
+    "Title": "Andrew Calkins' Home Page",
+    "Body": "Date: Thu, 21 Nov 1996 23:03:05 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Tue, 16 Apr 1996 04:01:27 GMT Content-length: 2589 Andrew Calkins' Home Page My page is still under construction so please be patient.",
+    "link": [
+        "mailto:fcalkins@cs.ucsd.edu",
+        "http://www-cse.ucsd.edu/classes/fa95/cse121",
+        "http://www-cse.ucsd.edu/users/fcalkins/Nile/overview.html"
+    ],
+    "ground_truth": "student"
+}

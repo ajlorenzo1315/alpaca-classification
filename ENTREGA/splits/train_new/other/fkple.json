@@ -1,0 +1,10 @@
+{
+    "Title": "Project Descriptions",
+    "Body": "Soffa, IEEE International Conference on Software Engineering , pages 575-586, Berlin, Germany, March 1996.",
+    "link": [
+        "http://www.cs.pitt.edu/~soffa/research/SE/jstvr96.ps",
+        "http://www.cs.pitt.edu/~soffa/research/SE/icse96.ps",
+        "http://www.cs.pitt.edu/~soffa/research/SE/icsm95.ps"
+    ],
+    "ground_truth": "other"
+}

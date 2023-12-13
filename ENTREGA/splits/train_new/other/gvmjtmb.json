@@ -1,0 +1,10 @@
+{
+    "Title": "Benji's ATP research page",
+    "Body": "It determines which theorem to use by comparing the branch (as a sequent) to the theorems in the knowledge base.",
+    "link": [
+        "http://www.ma.utexas.edu/users/bshults/IPR/knowledge-using.html",
+        "http://www.ma.utexas.edu/users/bshults/IPR/TR-FLAIRS97.ps",
+        "http://www.ma.utexas.edu/users/bshults/IPR/TR-AAR.ps"
+    ],
+    "ground_truth": "other"
+}

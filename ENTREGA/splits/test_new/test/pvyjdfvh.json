@@ -1,0 +1,10 @@
+{
+    "Title": "CSE/ENGR 142 Home Page (Autumn 95)",
+    "Body": "Click here for help .",
+    "link": [
+        "http://www.cs.washington.edu/education/courses/142/95a//",
+        "#help",
+        "http://www.cs.washington.edu/education/courses/142/95a/messages.html"
+    ],
+    "ground_truth": "unknow"
+}

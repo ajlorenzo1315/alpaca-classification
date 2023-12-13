@@ -1,0 +1,10 @@
+{
+    "Title": "David Moore's CSE Page",
+    "Body": "Of course, I'd rather not do this, so if you know of good locations for me to obtain this information already in computer format, I'll take you to lunch or something.",
+    "link": [
+        "http://oj.egbt.org/dmoore/",
+        "http://www-csl.ucsd.edu/",
+        "http://www.cs.utah.edu/projects/flux"
+    ],
+    "ground_truth": "student"
+}

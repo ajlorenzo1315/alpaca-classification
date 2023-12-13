@@ -1,0 +1,10 @@
+{
+    "Title": " Funny Links",
+    "Body": "Date: Tue, 05 Nov 1996 00:16:14 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Tue, 03 Sep 1996 20:18:31 GMT Content-length: 663 Funny Links Comics The Dilbert Archive Peanuts Calvin and Hobbes Entertaining Articles Indian Jokes Articles by Ramesh Mahadevan",
+    "link": [
+        "http://www.unitedmedia.com/comics/dilbert/archive/",
+        "http://www.unitedmedia.com/comics/peanuts/",
+        "http://eos.kub.nl:2080/calvin_hobbes/gallery.html"
+    ],
+    "ground_truth": "other"
+}

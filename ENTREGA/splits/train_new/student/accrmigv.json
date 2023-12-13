@@ -1,0 +1,10 @@
+{
+    "Title": "if i publish it, it is true.",
+    "Body": "so i wrote a letter .",
+    "link": [
+        "Letters/byron.txt",
+        "Letters/unabomber.txt",
+        "Letters/utne.txt"
+    ],
+    "ground_truth": "student"
+}

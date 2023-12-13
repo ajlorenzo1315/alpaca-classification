@@ -1,0 +1,10 @@
+{
+    "Title": "\nCPSC 300/600 - Principles of Computer Science - Home Page\n",
+    "Body": "Engineering Problem Solving with ANSI C .",
+    "link": [
+        "http://www.eecs.tulane.edu:80/www/Buckles.Bill",
+        "http://www.eecs.tulane.edu/",
+        "mailto:buckles@eecs.tulane.edu"
+    ],
+    "ground_truth": "course"
+}

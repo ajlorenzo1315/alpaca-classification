@@ -1,0 +1,10 @@
+{
+    "Title": " \nC661: Natural Language Processing\n",
+    "Body": "Thus we will look at morphology, approaches to parsing, and semantic case, for example, in each case considering how both symbolic and connectionist/statistical approaches deal with the problem.",
+    "link": [
+        "http://www.cs.indiana.edu/hyplan/gasser.html",
+        "http://www.cs.indiana.edu/hyplan/gasser/oh_appointments.html",
+        "mailto:gasser@cs.indiana.edu"
+    ],
+    "ground_truth": "unknow"
+}

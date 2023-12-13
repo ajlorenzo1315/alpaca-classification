@@ -1,0 +1,10 @@
+{
+    "Title": "GW Graphics Group Home Page",
+    "Body": "Human-Computer Interaction Research Group home page EECS Department home page School of Engineering and Applied Science home page The George Washington University home page",
+    "link": [
+        "http://www.seas.gwu.edu/seas/eecs/Research/Interaction/",
+        "http://www.seas.gwu.edu/student/gritz/index.html",
+        "http://www.seas.gwu.edu/seas/eecs/Research/Graphics/spinlogo.html"
+    ],
+    "ground_truth": "unknow"
+}

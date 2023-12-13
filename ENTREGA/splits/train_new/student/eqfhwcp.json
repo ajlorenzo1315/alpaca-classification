@@ -1,0 +1,10 @@
+{
+    "Title": " Ivan_Yanasak.html ",
+    "Body": "in Computer Engineering (concentrations in operating systems and music composition) from Carnegie-Mellon in 1989, and his M.S.",
+    "link": [
+        "http://www.cc.gatech.edu/computing/Architecture/projects/beehive.html",
+        "ftp://ftp.cc.gatech.edu/pub/coc/tech_reports/1994/GIT-CC-94-59.ps.Z",
+        "ftp://ftp.cc.gatech.edu/pub/groups/architecture/TASS/git.cc.94.44.ps.Z"
+    ],
+    "ground_truth": "student"
+}

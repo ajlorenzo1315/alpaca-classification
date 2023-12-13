@@ -1,0 +1,10 @@
+{
+    "Title": "\nCs244a - Winter 1997\n",
+    "Body": "2.UNIX Network Programming ,                       Stevens SITN Information SITN students who do not come to class have the same deadlines for the projects as the local students; i.e., there will be no 7 day grace period.",
+    "link": [
+        "http://www-scpd.stanford.edu/scpd.html",
+        "http://ee.stanford.edu/~nickm",
+        "mailto:nickm@ee.stanford.edu"
+    ],
+    "ground_truth": "course"
+}

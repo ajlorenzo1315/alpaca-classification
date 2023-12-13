@@ -1,0 +1,10 @@
+{
+    "Title": "Windows",
+    "Body": "When in the File Manager and attempting to copy (for example) the prog0.dat file, if you drag the file from the TA's directory and drop it onto the U: drive icon, it will copy the file into current directory for the U: drive...which is usually the Windows directory.",
+    "link": [
+        "mailto:michaell@cs.wisc.edu",
+        "http://www.cs.wisc.edu/~cs302/",
+        "http://www.cs.wisc.edu/~cs302/Labs/1370/1370.html"
+    ],
+    "ground_truth": "other"
+}

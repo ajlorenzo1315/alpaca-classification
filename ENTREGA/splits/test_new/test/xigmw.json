@@ -1,0 +1,10 @@
+{
+    "Title": " Stoughton Home Page ",
+    "Body": "Date: Mon, 25 Nov 1996 23:18:26 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Thu, 21 Nov 1996 20:26:06 GMT Content-length: 1976 Stoughton Home Page Welcome to the Stoughton Bell Home Page I am a Professor Emeritus in the Department of Computer Science , College of Engineering at The University of New Mexico and can be reached at sto@unm.edu .",
+    "link": [
+        "http://www.cs.unm.edu",
+        "http://www.cs.unm.edu/Engr_Schl/",
+        "http://www.unm.edu"
+    ],
+    "ground_truth": "unknow"
+}

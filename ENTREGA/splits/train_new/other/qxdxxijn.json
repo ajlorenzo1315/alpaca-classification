@@ -1,0 +1,10 @@
+{
+    "Title": "CS Consultants Home Page",
+    "Body": "If needed, you may go to the printer room to ask that consultant questions about CS302.",
+    "link": [
+        "http://www.cs.wisc.edu/~cs302/Consultants/duties.html",
+        "http://www.cs.wisc.edu/~cs302/Consultants/nametags.html",
+        "http://www.cs.wisc.edu/~cs302/Labs/1350.html"
+    ],
+    "ground_truth": "other"
+}

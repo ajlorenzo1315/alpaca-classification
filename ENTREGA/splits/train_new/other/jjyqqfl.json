@@ -1,0 +1,10 @@
+{
+    "Title": "\n\t\tAcademics page for Joshua Seims\n\t",
+    "Body": "If you'd like to find out about my undergraduate thesis in lighting for computer graphics, check out my undergraduate thesis page.",
+    "link": [
+        "resume.html",
+        "lighting.html",
+        "http://www.cs.cmu.edu/afs/cs.cmu.edu/Web/People/thkang/grafish.html"
+    ],
+    "ground_truth": "other"
+}

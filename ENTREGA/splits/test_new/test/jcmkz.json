@@ -1,0 +1,10 @@
+{
+    "Title": "Assorted links to Java pages ",
+    "Body": "- William Shakespeare, Love's Labour's Lost Sun links Java home page Java FAQ The HotJava browser The Java developer's kit Java language tutorial documentation page demo applets Developer's resources Digital Focus The Java Developer Stephen R. Pietrowicz's Java information page Elliotte Rusty Harold's Cafe Au Lait Gamelan Nelson Yu has an unofficial AWT tutorial Contributed classes AlphanumStreamTokenizer is a workaround for the fact that StreamTokenizer won't give you a number (or anything starting with a digit) as a string token.",
+    "link": [
+        "http://java.sun.com/",
+        "http://java.sun.com/faqIndex.html",
+        "http://java.sun.com/hotjava.html"
+    ],
+    "ground_truth": "unknow"
+}

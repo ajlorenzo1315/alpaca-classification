@@ -1,0 +1,10 @@
+{
+    "Title": "\njfoster directory",
+    "Body": "jfoster directory jfoster Up to pub clpsc.dvi clpsc.sea.hqx clpsc.tar.gz README",
+    "link": [
+        "jfoster/..",
+        "jfoster/clpsc.dvi",
+        "jfoster/clpsc.sea.hqx"
+    ],
+    "ground_truth": "unknow"
+}

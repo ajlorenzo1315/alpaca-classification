@@ -1,0 +1,10 @@
+{
+    "Title": "David Krumme",
+    "Body": "With my family, I have traveled extensively in the U.S., Canada, and Europe.",
+    "link": [
+        "http://www.cs.tufts.edu/g/50/index.html",
+        "http://www.cs.tufts.edu/g/40/index.html",
+        "http://www.cs.tufts.edu/~dwk/research.html"
+    ],
+    "ground_truth": "faculty"
+}

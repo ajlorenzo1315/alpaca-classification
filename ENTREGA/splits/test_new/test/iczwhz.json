@@ -1,0 +1,10 @@
+{
+    "Title": "Lei Zhou's Home Page",
+    "Body": "He continued his studies in 1990 and got his Ph.D. from the University of Paris in 1994, while all his research work had been done at Ecole Nationale Supérieure des Mines de Paris .",
+    "link": [
+        "http://www.pku.edu.cn/",
+        "http://www.ensmp.fr",
+        "http://info.acm.org"
+    ],
+    "ground_truth": "unknow"
+}

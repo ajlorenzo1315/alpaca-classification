@@ -1,0 +1,10 @@
+{
+    "Title": "Philosophy Department Home Page",
+    "Body": "Date: Mon, 06 Jan 1997 20:18:18 GMT Server: NCSA/1.4.2 Content-type: text/html Philosophy Department Home Page Who, What, and Where: Departmental Addresses and Phone Numbers Faculty Contact Information Assistants'Contact Information What's New?",
+    "link": [
+        "dptaddrs.html",
+        "facofchrs.html",
+        "taofchrs.html"
+    ],
+    "ground_truth": "unknow"
+}

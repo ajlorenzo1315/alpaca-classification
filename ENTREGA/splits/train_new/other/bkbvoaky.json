@@ -1,0 +1,10 @@
+{
+    "Title": "University of Kentucky ACM Student Chapter - Home Page",
+    "Body": "All the rules and regulations ACM Collegiate Programing Contest Information Meet some of UK's best and brightest High School Programing Contest Coming Spring '97 Learning Project Increasing Computer Literacy throughout KY How to Contact Us List of members, officers, and our address Join the UK-ACM Our on-line application for New and Old Members The Ubiquitous List 'O links More about the ACM, UK, and other useful pages.",
+    "link": [
+        "http://al.cs.engr.uky.edu/~acm/nominations.html",
+        "http://al.cs.engr.uky.edu/~acm/minutes/index.html",
+        "http://al.cs.engr.uky.edu/~acm/constitution_and_bylaws.txt"
+    ],
+    "ground_truth": "other"
+}

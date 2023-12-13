@@ -1,0 +1,10 @@
+{
+    "Title": "\nCS418 Lab 3\n",
+    "Body": "There must be at least two leaves on the plant.",
+    "link": [
+        "http://www.tc.cornell.edu/Visualization/Education/cs418/labs/transform.net",
+        "http://www.tc.cornell.edu/Visualization/Education/cs418/labs/transform.cfg",
+        "http://www.tc.cornell.edu/Visualization/Education/cs418/labs/windmill.net"
+    ],
+    "ground_truth": "unknow"
+}

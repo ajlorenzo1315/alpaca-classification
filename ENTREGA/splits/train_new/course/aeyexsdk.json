@@ -1,0 +1,10 @@
+{
+    "Title": "Computer Architecture Home Page",
+    "Body": "I will be in thursday morning.",
+    "link": [
+        "http://cs.nyu.edu/cs/faculty/gottlieb",
+        "http://found.cs.nyu.edu/cgi-bin/finger?gottlieb@nyu",
+        "http://cs.nyu.edu/cs/dept_info/course_home_pages/fall95/V22.0436.001/more-info.html"
+    ],
+    "ground_truth": "course"
+}

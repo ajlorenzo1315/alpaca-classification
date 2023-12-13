@@ -1,0 +1,10 @@
+{
+    "Title": "MultiMATLAB",
+    "Body": "Such a user's problems might be solved by a system that makes it convenient to spawn MATLAB processes on multiple processors of a parallel computer or a network of workstations or PCs.",
+    "link": [
+        "http://www.tc.cornell.edu/~anne",
+        "http://www.cs.cornell.edu/Info/People/vsm",
+        "http://www.cs.cornell.edu/Info/People/chichao/chichao.html"
+    ],
+    "ground_truth": "other"
+}

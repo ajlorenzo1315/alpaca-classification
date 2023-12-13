@@ -1,0 +1,10 @@
+{
+    "Title": "C251 Course Description",
+    "Body": "Most homeworks will not be graded for credit; the purpose of these assignments is to guide participants in preparing for the presentation of material in the class, and to show the kinds of problems that will be asked on examinations.",
+    "link": [
+        "http://www.cs.indiana.edu/classes/s251/grades/grades.txt",
+        "http://www.cs.indiana.edu/classes/s251/exam/e2a.txt",
+        "http://www.cs.indiana.edu/classes/s251/img/students.html"
+    ],
+    "ground_truth": "course"
+}

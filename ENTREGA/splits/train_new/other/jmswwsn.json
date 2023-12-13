@@ -1,0 +1,10 @@
+{
+    "Title": "CIS 500",
+    "Body": "Project #4 - Due November 18 Hypertext Postscript Input Homework #4 - Due November 14 Solutions Homework #5 - Due Dec. 5 From 1st Ed.",
+    "link": [
+        "http://www.cis.ksu.edu/~howell/500f96/syl/syl.html",
+        "http://www.cis.ksu.edu/~howell/500f96/syl.ps",
+        "http://www.cis.ksu.edu/~howell/500f96/lab1/lab1.html"
+    ],
+    "ground_truth": "other"
+}

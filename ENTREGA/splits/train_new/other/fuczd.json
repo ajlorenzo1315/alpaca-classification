@@ -1,0 +1,8 @@
+{
+    "Title": "UMass ANW Laboratory - Introduction to Reinforcement Learning",
+    "Body": "Date: Tue, 14 Jan 1997 18:57:07 GMT Server: NCSA/1.5.2 Last-modified: Tue, 03 Sep 1996 18:40:11 GMT Content-type: text/html Content-length: 1637 UMass ANW Laboratory - Introduction to Reinforcement Learning Introduction to Reinforcement Learning In this form of learning, an agent tries to learn how to maximize a measure of long-term reward while interacting with a stochastic dynamic environment.",
+    "link": [
+        "http://envy.cs.umass.edu/anw-home-page.html"
+    ],
+    "ground_truth": "other"
+}

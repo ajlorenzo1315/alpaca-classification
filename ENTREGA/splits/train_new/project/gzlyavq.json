@@ -1,0 +1,10 @@
+{
+    "Title": "IC-2 Home Page",
+    "Body": "Date: Tue, 26 Nov 1996 00:41:14 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Thu, 02 Mar 1995 18:58:32 GMT Content-length: 1620 IC-2 Home Page To the top!",
+    "link": [
+        "http://fas.sfu.ca/1/cs",
+        "http://www.sfu.ca",
+        "http://www.precarn.ca/precarn"
+    ],
+    "ground_truth": "project"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "CS480 - Computer Networking II",
+    "Body": "Networking Demo If you want to contact the instructor, you can send mail by selecting the frog icon below.",
+    "link": [
+        "http://www.cs.missouri.edu/deptinfo_docs/gks.html",
+        "http://www.cs.missouri.edu/deptinfo_docs/Course.html#CS480",
+        "http://www.cs.missouri.edu/Classes/cs480/syllabus.html"
+    ],
+    "ground_truth": "course"
+}

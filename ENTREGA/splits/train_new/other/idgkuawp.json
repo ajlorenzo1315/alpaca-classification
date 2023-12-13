@@ -1,0 +1,6 @@
+{
+    "Title": "Using turnin",
+    "Body": "If you want to check and see which files you've actually submitted, you can give turnin the -v option: turing_39% turnin -v For this submission, you may enter the course information interactively.",
+    "link": [],
+    "ground_truth": "other"
+}

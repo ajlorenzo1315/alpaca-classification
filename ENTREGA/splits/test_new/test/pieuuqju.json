@@ -1,0 +1,10 @@
+{
+    "Title": "Samir Khuller",
+    "Body": "Events: Checout the web page for the Maryland Facility Location Day on Oct 26th.",
+    "link": [
+        "http://www.cs.umd.edu/~samir/addr.html",
+        "http://www.cs.wisc.edu/~shubu/iitk/iitk.html",
+        "http://www.cs.cornell.edu/"
+    ],
+    "ground_truth": "unknow"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "DJF's Reinforcement Learning Page",
+    "Body": "Date: Tue, 05 Nov 1996 21:58:40 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Fri, 25 Oct 1996 18:21:39 GMT Content-length: 2170 DJF's Reinforcement Learning Page Some Reinforcement Learning Resources My publications Short subjects: What is reinforcement learning, and why is it hard?",
+    "link": [
+        "http://www.cs.wisc.edu/~finton/djfpubs.html",
+        "http://www.cs.wisc.edu/~finton/what-rl.html",
+        "http://www.cs.wisc.edu/~finton/ibfe.html"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": " Kevin Hinshaw: Web Creations\n",
+    "Body": "Date: Tue, 10 Dec 1996 20:35:03 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Mon, 18 Nov 1996 07:10:07 GMT Content-length: 1871 Kevin Hinshaw: Web Creations UW Band Program Since I play clarinet in the Wind Ensemble at UW, I maintain web pages for the band program at the University of Washington.",
+    "link": [
+        "http://www.cs.washington.edu/homes/hinshaw/bands",
+        "http://www.cs.washington.edu/homes/hinshaw/calendar",
+        "http://www.cs.washington.edu/homes/map/goldberg"
+    ],
+    "ground_truth": "unknow"
+}

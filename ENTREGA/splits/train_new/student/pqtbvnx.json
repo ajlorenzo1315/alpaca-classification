@@ -1,0 +1,10 @@
+{
+    "Title": "Nenad Nedeljkovic's Home Page",
+    "Body": "Date: Tue, 26 Nov 1996 00:14:10 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Mon, 29 Jul 1996 16:30:42 GMT Content-length: 1273 Nenad Nedeljkovic's Home Page Nenad Nedeljkovic I am a graduate student in the Department of Computer Science , at Rice University .",
+    "link": [
+        "http://www.cs.rice.edu/",
+        "http://riceinfo.rice.edu",
+        "http://www.crpc.rice.edu/HPFF/home.html"
+    ],
+    "ground_truth": "student"
+}

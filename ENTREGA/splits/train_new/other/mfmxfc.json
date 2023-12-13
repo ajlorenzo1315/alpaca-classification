@@ -1,0 +1,10 @@
+{
+    "Title": "Assignment 1: FAQ",
+    "Body": "\"How do I create binary data files?\"",
+    "link": [
+        "#bin-files",
+        "#const-mem",
+        "#scope"
+    ],
+    "ground_truth": "other"
+}

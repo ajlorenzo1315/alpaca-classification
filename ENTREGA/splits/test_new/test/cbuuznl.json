@@ -1,0 +1,10 @@
+{
+    "Title": "Family Medicine Data Viewer",
+    "Body": "Just click on the check buttons of the clinics you want to see.",
+    "link": [
+        "http://www.fammed.wisc.edu",
+        "http://www.cs.wisc.edu/~jussi/devise/devise.html",
+        "http://www.cs.wisc.edu/"
+    ],
+    "ground_truth": "unknow"
+}

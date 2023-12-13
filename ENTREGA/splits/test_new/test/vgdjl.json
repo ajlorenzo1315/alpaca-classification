@@ -1,0 +1,10 @@
+{
+    "Title": "Parallel Object Recognition and Applications to Facial Recognition\n",
+    "Body": "Given a database of faces and a scene, it is possible to use this algorithm to search the image for people who appear in the database.",
+    "link": [
+        "#references",
+        "http://http.cs.berkeley.edu/projects/parallel/castle/split-c/",
+        "#references"
+    ],
+    "ground_truth": "unknow"
+}

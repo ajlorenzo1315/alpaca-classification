@@ -1,0 +1,10 @@
+{
+    "Title": "spline bibliography",
+    "Body": "The format is explained in detail at the end of the \\TeX-file journal.tex which also contains the definition of the abbreviations of journal names used in the references.",
+    "link": [
+        "http://www.cs.wisc.edu/cgi-bin/finger/m?s@mars.cas.vanderbilt.edu",
+        "http://cgi.cs.wisc.edu/scripts/deboor/refsearch",
+        "http://www.math.auckland.ac.nz/~waldron/Splinebib/splinebib.html"
+    ],
+    "ground_truth": "unknow"
+}

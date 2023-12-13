@@ -1,0 +1,10 @@
+{
+    "Title": "Fuzz Testing Results",
+    "Body": "Date: Tue, 05 Nov 1996 20:46:09 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Wed, 30 Aug 1995 18:56:33 GMT Content-length: 1201 Fuzz Testing Results Fuzz Testing Results Random testing work will be described here.",
+    "link": [
+        "ftp://grilled.cs.wisc.edu/technical_papers/fuzz-revisited.ps.Z",
+        "http://www.cs.wisc.edu/~bart/fuzz/fuzz-revisited-talk.ps.Z",
+        "http://www.cs.wisc.edu/~bart/fuzz/fuzz-basic-summary.html"
+    ],
+    "ground_truth": "other"
+}

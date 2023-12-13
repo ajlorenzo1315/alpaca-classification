@@ -1,0 +1,10 @@
+{
+    "Title": " Schemm Home Page",
+    "Body": "Date: Tue, 26 Nov 1996 03:00:57 GMT Server: NCSA/1.5.1 Last-modified: Thu, 14 Nov 1996 00:54:10 GMT Content-type: text/html Content-length: 1669 Schemm Home Page Schemm Guy's Home Page This place is majorly under construction Watch for falling grades Links around the world: The LDSSA Homepage .",
+    "link": [
+        "http://www.cs.mtu.edu/grads/Schemm/project.html",
+        "http://www.cs.mtu.edu/grads/Schemm/links.html",
+        "http://www.cs.mtu.edu/grads/Schemm/schemmhour.html"
+    ],
+    "ground_truth": "student"
+}

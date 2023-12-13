@@ -1,0 +1,6 @@
+{
+    "Title": "Computer Science 510 - Numerical Analysis",
+    "Body": "Numerical solution of ordinary differential equations : basic methods (e.g., Euler's method, quadrature-based methods), truncation error, higher order equations, systems.",
+    "link": [],
+    "ground_truth": "other"
+}

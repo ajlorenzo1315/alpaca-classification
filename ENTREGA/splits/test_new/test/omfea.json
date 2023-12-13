@@ -1,0 +1,10 @@
+{
+    "Title": "EECS/CS 183 Home Page",
+    "Body": "Date: Tue, 26 Nov 1996 19:14:18 GMT Server: NCSA/1.5.1 Content-type: text/html EECS/CS 183 Home Page EECS/CS 183 Elementary Programming Concepts EECS/CS 183 is an introductory course in computer programming for non-majors.",
+    "link": [
+        "http://www-personal.umich.edu/~arford/",
+        "mailto:arford@umich.edu",
+        "mailto:pjewell@umich.edu"
+    ],
+    "ground_truth": "unknow"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "CSE 370 Index Page ",
+    "Body": "Date: Mon, 02 Dec 1996 14:34:25 GMT Server: NCSA/1.4.2 Content-type: text/html CSE 370 Index Page CSE 370 Index Page Current Quarter The web for the current quarter of CSE 370 is here .",
+    "link": [
+        "http://www.cs.washington.edu/education/courses/370/CurrentQtr/",
+        "http://www.cs.washington.edu/education/courses/370/Spring96/",
+        "http://www.washington.edu/"
+    ],
+    "ground_truth": "course"
+}

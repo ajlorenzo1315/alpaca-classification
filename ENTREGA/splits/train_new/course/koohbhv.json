@@ -1,0 +1,10 @@
+{
+    "Title": "CSE 421, Winter 1996",
+    "Body": "Get a free viewer from Adobe's Acrobat and the Web Page.",
+    "link": [
+        "http://www.cs.washington.edu/education/courses/421//",
+        "http://www.cs.washington.edu/education/courses/421/96w/bboard.shtml",
+        "http://www.cs.washington.edu/education/courses/421/96w/clr/errata.html"
+    ],
+    "ground_truth": "course"
+}

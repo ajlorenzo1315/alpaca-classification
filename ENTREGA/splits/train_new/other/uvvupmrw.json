@@ -1,0 +1,8 @@
+{
+    "Title": "Fill-Out Form Example #1",
+    "Body": "Because this fill-out form contains only a single text entry field, the query can be submitted by pressing return in the text entry field (as well as by pressing the \"Submit Query\" button).",
+    "link": [
+        "http://www-cse.ucsd.edu/users/ibayrakt/example-2.html"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": " List of Publications ",
+    "Body": "Babak Falsafi and David A.",
+    "link": [
+        "ftp://ftp.cs.wisc.edu/wwt/isca93_mechanisms.ps",
+        "ftp://ftp.cs.wisc.edu/wwt/usenix93_kernel.ps",
+        "ftp://ftp.cs.wisc.edu/wwt/pads94_costperf.ps"
+    ],
+    "ground_truth": "other"
+}

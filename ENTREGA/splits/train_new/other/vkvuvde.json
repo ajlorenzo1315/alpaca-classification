@@ -1,0 +1,10 @@
+{
+    "Title": "Cecil paper: \"Whole-Program Optimization of Object-Oriented Languages\"",
+    "Body": "Date: Tue, 10 Dec 1996 03:35:54 GMT Server: NCSA/1.4.2 Content-type: text/html Cecil paper: \"Whole-Program Optimization of Object-Oriented Languages\" Whole-Program Optimization of Object-Oriented Languages Craig Chambers , Jeffrey Dean , and David Grove We describe Vortex, an optimizing compiler intended to produce high-quality code for programs written in a heavily-object-oriented style.",
+    "link": [
+        "http://www.cs.washington.edu/people/faculty/chambers.html",
+        "http://www.cs.washington.edu/homes/jdean",
+        "http://www.cs.washington.edu/homes/grove"
+    ],
+    "ground_truth": "other"
+}

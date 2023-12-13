@@ -1,0 +1,10 @@
+{
+    "Title": "Machine Learning Lab Home Page",
+    "Body": "Date: Wed, 20 Nov 1996 19:48:20 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Wed, 06 Mar 1996 18:08:37 GMT Content-length: 2037 Machine Learning Lab Home Page Machine Learning Laboratory Warning!",
+    "link": [
+        "http://www.cs.umass.edu/",
+        "http://www.umass.edu/",
+        "http://www-ml.cs.umass.edu/~utgoff/"
+    ],
+    "ground_truth": "project"
+}

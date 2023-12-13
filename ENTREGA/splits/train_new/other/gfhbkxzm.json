@@ -1,0 +1,10 @@
+{
+    "Title": "Bert Kay's Papers",
+    "Body": "In Proceedings of the Eleventh National Conference on Artificial Intelligence (AAAI-93), pages 606-613, 1993.",
+    "link": [
+        "file://ftp.cs.utexas.edu/pub/qsim/papers/Kaytr-ai96-247.ps.Z",
+        "file://ftp.cs.utexas.edu/pub/qsim/papers/Kay+Kuipers-AAAI93.ps.Z",
+        "file://ftp.cs.utexas.edu/pub/qsim/papers/Kay+Ungar-QR93.ps.Z"
+    ],
+    "ground_truth": "other"
+}

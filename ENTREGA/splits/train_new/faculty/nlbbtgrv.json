@@ -1,0 +1,10 @@
+{
+    "Title": "GEORGES G. GRINSTEIN",
+    "Body": "Grinstein and M.A.",
+    "link": [
+        "http://www.cs.uml.edu/Faculty/georges.gif",
+        "http://www.cs.uml.edu/",
+        "http://cs.uml.edu/~haim/ivpr.shtml"
+    ],
+    "ground_truth": "faculty"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": " Travler Research Project ",
+    "Body": "In support of these capabilities, we are involved in the following activities:  virtual networking, nomadic routing, wireless and nomadic systems simulation, nomadic systems modeling, predictive caching, user-level replication services, security encapsulation, and data consistency.",
+    "link": [
+        "http://fmg-www.cs.ucla.edu/cgi-bin/imagemap/travler1",
+        "http://millennium.cs.ucla.edu/lk.html",
+        "http://fmg-www.cs.ucla.edu/csd/faculty/popek.html"
+    ],
+    "ground_truth": "project"
+}

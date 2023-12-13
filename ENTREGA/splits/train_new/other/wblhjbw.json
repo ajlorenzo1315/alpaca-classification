@@ -1,0 +1,10 @@
+{
+    "Title": "Asynchronous Circuits",
+    "Body": "Also relevant to asynchronous circuits is Montage, the first FPGA for asynchronous circuits.",
+    "link": [
+        "ftp://shrimp.cs.washington.edu/pub/olympia/AsynchArt.ps.Z",
+        "ftp://shrimp.cs.washington.edu/pub/olympia/MontageJ.ps.Z",
+        "http:/research/projects/lis/triptych/www/index.html"
+    ],
+    "ground_truth": "other"
+}

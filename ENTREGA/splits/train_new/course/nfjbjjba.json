@@ -1,0 +1,10 @@
+{
+    "Title": "CS-650 Home Page",
+    "Body": "[2.0 points, Optional, Due: 11/26/96] Mail Problem # 16 Thematic Maps [1.5 points, Optional, Due: 12/10/96] Problem # 17 These Primes aren't Leo's the're Gemini [1.0 points, Optional, Due: 12/12/96] Problem # 18 Read a Number [1.0 points, Optional, Due: 12/10/96] Problem # 19 Multimedia via Browsers [1.5 points, Optional, Due: 12/17/96] Problem # 20 Improved Interval Classes [1.0 points, Optional, Due: 12/17/96] Revised:  October 17, 1996 All contents copyright © 1996 UK CS.",
+    "link": [
+        "http://al.cs.engr.uky.edu:80/~tony/cs650/General/remarks.html",
+        "http://al.cs.engr.uky.edu:80/~tony/cs650/General/roll.html",
+        "http://al.cs.engr.uky.edu:80/~tony/Useful/index.html"
+    ],
+    "ground_truth": "course"
+}

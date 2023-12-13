@@ -1,0 +1,10 @@
+{
+    "Title": "Cluster Programs",
+    "Body": "All graduate student admission will be into one of the Cluster-affiliated departments/schools.",
+    "link": [
+        "mailto:webmaster@cs.wm.edu",
+        "http://www.cs.wm.edu/index.html",
+        "http://www.cs.wm.edu/cspages/overview/index.html"
+    ],
+    "ground_truth": "unknow"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Dean B. Krafft's Home Page",
+    "Body": "A technical report on Dienst is available.",
+    "link": [
+        "http://www.cs.cornell.edu/Info/People/dean/dean.gif",
+        "http://cs-tr.cs.cornell.edu/",
+        "gopher://ietf.cnri.reston.va.us/1"
+    ],
+    "ground_truth": "unknow"
+}

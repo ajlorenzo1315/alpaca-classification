@@ -1,0 +1,10 @@
+{
+    "Title": "CS 110 Section 2 - Current Grades",
+    "Body": "Date: Mon, 11 Nov 1996 18:03:17 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Wed, 15 May 1996 23:12:54 GMT Content-length: 2049 CS 110 Section 2 - Current Grades Current Grades - Section 2 ID Number\tWWW\tProg0\tProg1\tDays1\tProg2\tDays2\tProg3\tDays3\tProg4\tDays4\tTotal\tGrade ---------------+-------+-------+-------+-------+-------+-------+-------+-------+-------+-------+-------+-------",
+    "link": [
+        "http://www.cs.wisc.edu/~bestor/cs110/cs110.html#menu",
+        "http://www.cs.wisc.edu/~bestor/bestor.html",
+        "mailto:bestor@cs.wisc.edu"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Homework 2",
+    "Body": "2.2  Sequential program for 2-D heat diffusion The generalization of the heat transfer formula for 2-D problems is (assuming dx=dy): Write a program for your favorite workstation that simulates arbitrary shaped plates on a fixed 2-D grid.",
+    "link": [
+        "homework_2.fig_3.ps",
+        "homework_2.fig_4.ps",
+        "homework_2.fig_5.ps"
+    ],
+    "ground_truth": "other"
+}

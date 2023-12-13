@@ -1,0 +1,10 @@
+{
+    "Title": "Vivek Ratan's Publications",
+    "Body": "\"Safety Analysis Tools for Requirements Specifications\" , Vivek Ratan, Kurt Partridge, Jon Reese, and Nancy Leveson.",
+    "link": [
+        "ftp://ftp.cs.cmu.edu/user/mootaz/papers/icodp95.ps",
+        "ftp://ftp.cs.cmu.edu/user/mootaz/papers/bellcore96.ps",
+        "http://www.cs.washington.edu/research/projects/safety/www/papers/nasa/draft3.ps"
+    ],
+    "ground_truth": "unknow"
+}

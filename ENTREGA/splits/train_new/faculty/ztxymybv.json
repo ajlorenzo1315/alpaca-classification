@@ -1,0 +1,10 @@
+{
+    "Title": "Peter Schröder's home page",
+    "Body": "Spherical Wavelets: Efficiently Representing Functions on the Sphere (with Wim Sweldens), appeared in Proceedings of Siggraph 95 .",
+    "link": [
+        "http://www.cs.caltech.edu/~ps/bio.html",
+        "http://www.cs.caltech.edu/~ps/java/chaikin.html",
+        "http://dmitri.caltech.edu/cs284/h2"
+    ],
+    "ground_truth": "faculty"
+}

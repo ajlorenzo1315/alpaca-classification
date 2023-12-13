@@ -1,0 +1,10 @@
+{
+    "Title": " Jim Greer homepage ",
+    "Body": "Date: Mon, 25 Nov 1996 23:25:25 GMT Server: NCSA/1.5.1 Last-modified: Tue, 20 Aug 1996 00:36:04 GMT Content-type: text/html Content-length: 3278 Jim Greer homepage Jim Greer B.Sc, B.Ed., M.Ed (Sask), M.S., Ph.D. (Texas) Jim's primary research interest is in Artificial Intelligence, especially the area of intelligent tutoring systems (ITS).",
+    "link": [
+        "http://www.cs.usask.ca/projects/aries/index.shtml",
+        "http://www.cs.usask.ca/projects/ether/",
+        "http://www.telelearn.ca/"
+    ],
+    "ground_truth": "unknow"
+}

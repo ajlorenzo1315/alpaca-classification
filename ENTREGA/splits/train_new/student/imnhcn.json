@@ -1,0 +1,10 @@
+{
+    "Title": "\n\t\tHome page for Joshua Seims\n\t",
+    "Body": "Date: Thu, 21 Nov 1996 22:51:45 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Tue, 01 Oct 1996 04:18:35 GMT Content-length: 1701 Home page for Joshua Seims Home page for Joshua Seims ABSTRACT Joshua Seims is a biologically-based neural network system, currently being tested at the University of Washington's Department of Computer Science.",
+    "link": [
+        "http://www.cs.washington.edu/homes/josh/personal.html",
+        "http://www.cs.washington.edu/homes/josh/academics.html",
+        "http://www.cs.washington.edu/homes/josh/contact.html"
+    ],
+    "ground_truth": "student"
+}

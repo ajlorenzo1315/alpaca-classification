@@ -1,0 +1,10 @@
+{
+    "Title": "Brett Fleisch's Home Page",
+    "Body": "N. C. Juul, B. D. Fleisch, A Memory Approach to Consistent, Reliable DSM, Proceedings of the Fifth IEEE Workshop on Hot Topics in Operating Systems (HotOS-V), May 4-5, 1995 O. E. Theel, B. D. Fleisch, Design and Analysis of Highly Available and Scalable Coherence Protocols for Distributed Shared Memory Systems bases on Stochastic Models, Technical Report THD-BS-1995-02, University of Darmstadt, Department of Computer Science, Institute for System Architecture, Germany, January 1995.",
+    "link": [
+        "http://www.cs.ucr.edu/",
+        "http://www.ucr.edu/",
+        "http://www.cs.ucr.edu/~brett/bourns.html"
+    ],
+    "ground_truth": "faculty"
+}

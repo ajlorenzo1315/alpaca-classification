@@ -1,0 +1,10 @@
+{
+    "Title": "Sample Code and Such",
+    "Body": "Date: Mon, 11 Nov 1996 17:40:26 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Tue, 05 Nov 1996 22:00:54 GMT Content-length: 687 Sample Code and Such Sample-Code-and-Such Archive HourlyWorker Class For loop shenanigans Answers to for loop questions Short-Circuit Evaluation Answers from Test Prep Bonus lecture on pre/postconditions.",
+    "link": [
+        "Examples/HourlyWorker.cpp",
+        "Examples/for_loop.txt",
+        "Examples/answers.txt"
+    ],
+    "ground_truth": "unknow"
+}

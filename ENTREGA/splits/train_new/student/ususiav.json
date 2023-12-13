@@ -1,0 +1,10 @@
+{
+    "Title": " Yumpee's Home Page ",
+    "Body": "Date: Thu, 07 Nov 1996 19:18:11 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Wed, 06 Nov 1996 06:07:33 GMT Content-length: 5134 Yumpee's Home Page Manoj Plakal Graduate Slave Dept of Computer Science UniversityofWisconsin-Madison Some blah about me My home country is India .",
+    "link": [
+        "http://www.cs.wisc.edu",
+        "http://www.wisc.edu",
+        "http://www.yahoo.com/Regional/Countries/India"
+    ],
+    "ground_truth": "student"
+}

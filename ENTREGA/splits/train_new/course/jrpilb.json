@@ -1,0 +1,10 @@
+{
+    "Title": "CSE 262 Handout 1",
+    "Body": "Topics will include: Basics of language theory: alphabets, strings, concatenation, languages, operations on languages (including Kleene *) Deterministic finite automata (DFA's) The cross-product construction Nondeterministic finite automata (NFA's) From NFA's to DFA's, the subset algorithm (Rabin and Scott) Labeled directed graphs, NFA's and DFA's Regular languages and regular expressions From regular expressions to NFA's From NFA's to regular expressions (node elimination) The Myhill-Nerode Theorem, State equivalence, minimal DFA's The pumping lemma for regular languages Fractals and languages (a glimpse) Context-free grammars and context-free languages Leftmost derivations, rightmost derivations, parse trees The universality of leftmost derivations Cleaning-up context-free grammars (e-rules, chain rules) Chomsky Normal Form Right-linear grammars and regular languages Eliminating useless productions Greibach Normal Form Tree domains, Gorn trees, and parse trees A pumping lemma for context-free languages Pushdown Automata (PDA's), instantaneous descriptions, acceptance modes DPDA's (Deterministic PDA's) From context-free grammars to PDA's From PDA's to context-free grammars A glimpse at LR-parsing Generalities on computability, models of computation Turing Machines RAM programs (flowchart and sequential form) Primitive recursive functions Recursive and partial recursive functions Recursively enumerable languages and recursive languages The equivalence of RAM computable and Turing computable functions The equivalence of Turing computable functions and partial recursive functions Phrase-Structure Grammars Type-0 Languages Type-0 Grammars and Context-Sensitive Grammars Monotonic Grammars and Linear-Bounded Automata published by: Jean Gallier",
+    "link": [
+        "mailto:jean@saul.cis.upenn.edu",
+        "mailto:dparkes@unagi",
+        "http://www.cis.upenn.edu/~jean/cse262hw1.ps.Z"
+    ],
+    "ground_truth": "course"
+}

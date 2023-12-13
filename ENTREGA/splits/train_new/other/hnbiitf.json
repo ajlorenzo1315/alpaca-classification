@@ -1,0 +1,8 @@
+{
+    "Title": "TMYCIN Expert System Shell",
+    "Body": "It should run under any implementation of Common Lisp; it will run under the student version of Gold Hill Lisp with the addition of the file gcaux.lsp .",
+    "link": [
+        "file://ftp.cs.utexas.edu/pub/novak/tmycin/"
+    ],
+    "ground_truth": "other"
+}

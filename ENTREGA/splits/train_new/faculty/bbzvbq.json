@@ -1,0 +1,10 @@
+{
+    "Title": "Bryant York's CCS Home Page",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Thursday, 21-Nov-96 19:19:49 GMT Content-Type: text/html Content-Length: 2194 Last-Modified: Wednesday, 03-Jul-96 22:37:05 GMT",
+    "link": [
+        "http://www.neu.edu/",
+        "http://www.ccs.neu.edu/",
+        "http://www.ccs.neu.edu/finger?york"
+    ],
+    "ground_truth": "faculty"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Center for Autonomous, Real-Time Systems (CARTS)",
+    "Body": "Date: Wed, 20 Nov 1996 19:59:47 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Thu, 11 May 1995 23:28:08 GMT Content-length: 3313 Center for Autonomous, Real-Time Systems (CARTS) Welcome to CARTS!",
+    "link": [
+        "http://ciir.cs.umass.edu/criccs.html",
+        "http://vis-www.cs.umass.edu/",
+        "http://piglet.cs.umass.edu:4321/lpr.html"
+    ],
+    "ground_truth": "project"
+}

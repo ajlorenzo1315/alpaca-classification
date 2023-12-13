@@ -1,0 +1,10 @@
+{
+    "Title": "CS 442/542: Computer Security Concepts Lectures",
+    "Body": "Lecture 1 (Aug 26): Introduction in Postscript or Powerpoint format Lecture 2 (Aug 28): Introduction in Postscript or Powerpoint format by Jim Alves-Foss",
+    "link": [
+        "http://www.cs.uidaho.edu/~jimaf/viewing.html",
+        "http://www.cs.uidaho.edu/~jimaf/cs442/lectures/lect01.ps",
+        "http://www.cs.uidaho.edu/~jimaf/cs442/lectures/lect01.ppt"
+    ],
+    "ground_truth": "other"
+}

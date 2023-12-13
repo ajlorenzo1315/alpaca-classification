@@ -1,0 +1,10 @@
+{
+    "Title": " CS 540, Fall 1996 ",
+    "Body": "Date: Thu, 07 Nov 1996 19:24:05 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Fri, 01 Nov 1996 19:31:31 GMT Content-length: 5057 CS 540, Fall 1996 CS 540 Introduction to Artificial Intelligence Fall 1996 Instructor: Chuck Dyer Office:       6397 CS Telephone:    262-1965 E-mail: dyer@cs.wisc.edu Office Hours: 2:30 - 3:30 Tuesdays, 1:30 - 2:30 Fridays, and by appointment Teaching Assistant: David Finton Office:       3360 CS Telephone:    262-9275 E-mail: finton@cs.wisc.edu Office Hours: 1:00 - 2:00 Mondays and Thursdays, and by appointment Teaching Assistant: Bryan So Office:       5364 CS Telephone:    262-5105 E-mail: so@cs.wisc.edu Office Hours: 12 - 1 Mondays and Wednesdays, and by appointment What's New?",
+    "link": [
+        "http://www.cs.wisc.edu/~dyer/",
+        "mailto:dyer@cs.wisc.edu",
+        "http://www.cs.wisc.edu/~finton/"
+    ],
+    "ground_truth": "course"
+}

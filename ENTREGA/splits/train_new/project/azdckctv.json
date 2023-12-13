@@ -1,0 +1,10 @@
+{
+    "Title": " \t\t\tIntelligent Systems Lab - Home Page \t\t",
+    "Body": "The MSU Genetic Algorithms Research and Applications Group (the GARAGe) is a multi-disciplinary unit interested in the application of Genetic Algorithms and Genetic Programming to real-world problems, as well as fundamental research on GA and GP.",
+    "link": [
+        "http://isl.cps.msu.edu/GA/",
+        "http://isl.cps.msu.edu/personnel/fac-staff-index.html",
+        "http://isl.cps.msu.edu/personnel/grad-student-index.html"
+    ],
+    "ground_truth": "project"
+}

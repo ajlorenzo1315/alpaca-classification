@@ -1,0 +1,8 @@
+{
+    "Title": "Beverly Seavey's Home Page",
+    "Body": "Date: Thu, 07 Nov 1996 19:14:25 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Fri, 18 Aug 1995 22:11:20 GMT Content-length: 748 Beverly Seavey's Home Page Beverly Seavey I'm currently registered as a grad student in computer science, but will switch to a special degree in computational biology.",
+    "link": [
+        "http://www.cs.wisc.edu/cgi-bin/finger?keeper@spacely"
+    ],
+    "ground_truth": "student"
+}

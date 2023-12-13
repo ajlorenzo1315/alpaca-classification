@@ -1,0 +1,10 @@
+{
+    "Title": "NCSU/CSC: Alan L. Tharp",
+    "Body": "In the area of file structures, he is currently investigating improvements to perfect hashing techniques, file structures for use with optical disks and with information filtering.",
+    "link": [
+        "http://www.csc.ncsu.edu/maps/rb-header.map",
+        "http://www.csc.ncsu.edu/index.html",
+        "http://www.csc.ncsu.edu/search/index.html"
+    ],
+    "ground_truth": "faculty"
+}

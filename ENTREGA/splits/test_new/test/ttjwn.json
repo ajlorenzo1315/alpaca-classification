@@ -1,0 +1,10 @@
+{
+    "Title": " Russell P. Lentini ",
+    "Body": "The system being used is Parallel Virtual Machine (PVM) running on a Cray T3D at the Pittsburgh Supercomputing Center .",
+    "link": [
+        "http://www.cs.pitt.edu/",
+        "http://www.pitt.edu/",
+        "http://www.comlab.ox.ac.uk/archive/comp/ai.html"
+    ],
+    "ground_truth": "unknow"
+}

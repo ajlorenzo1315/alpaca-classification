@@ -1,0 +1,10 @@
+{
+    "Title": "Otter Pops Home Page",
+    "Body": "Date: Tue, 10 Dec 1996 21:36:42 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Sat, 03 Feb 1996 06:01:03 GMT Content-length: 1069 Otter Pops Home Page The Unofficial Otter Pops Home Page (Home of the Six Zippy Flavors) Otter Pops are a frozen taste sensation which are greatly enjoyed by the members of Le Chateau 109-d .",
+    "link": [
+        "http://www.cs.washington.edu/homes/brad/op/otter_pop.gif",
+        "http://www.cs.washington.edu/homes/map/office/",
+        "http://www.cs.washington.edu/homes/map/office/225.html"
+    ],
+    "ground_truth": "other"
+}

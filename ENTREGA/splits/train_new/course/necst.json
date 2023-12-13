@@ -1,0 +1,10 @@
+{
+    "Title": "Home Page for Sid Hummert's  cs110, C++  sections",
+    "Body": "Date: Mon, 11 Nov 1996 16:01:38 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Sat, 09 Nov 1996 00:02:19 GMT Content-length: 2533 Home Page for Sid Hummert's  cs110, C++  sections CS110 Instructor: Sid Hummert How to contact me: email: hummert@cs.wisc.edu office: 1307, Computer Sciences and Statistics office phone: 262-6602 home phone: 276-4477 Office Hours: Monday   12:15-1:15 Thursday  3:00-4:00 Announcements: Textbook Problem solving with C++-- the object of programming by Walter Savitch Section Information: 9:55-10:45a, MWF, Psych 138, Lec.",
+    "link": [
+        "http://www.cs.wisc.edu/~hummert/hummert.html",
+        "mailto:hummert@cs.wisc.edu ",
+        "http://www.cs.wisc.edu/~hummert/cs110/grades.txt"
+    ],
+    "ground_truth": "course"
+}

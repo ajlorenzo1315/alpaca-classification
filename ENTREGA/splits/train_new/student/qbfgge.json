@@ -1,0 +1,10 @@
+{
+    "Title": "Eric's Home Page",
+    "Body": "\"Trace Cache: a Low Latency Approach to High Bandwidth Instruction Fetching\" , Eric Rotenberg, Steve Bennett, and James E. Smith, University of Wisconsin - Madison Technical Report #1310, April 1996.",
+    "link": [
+        "http://www.cs.wisc.edu/",
+        "http://www.wisc.edu",
+        "http://www.engr.wisc.edu/"
+    ],
+    "ground_truth": "student"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "CS 110 Section 2 Home Page",
+    "Body": "You will only get the most out of this class if you read the relevant sections of the text before coming to class.",
+    "link": [
+        "http://www.cs.wisc.edu/~pubs/grad-guidebook/node9.html#cs110",
+        "http://www.cs.wisc.edu/~bestor/cs110/Announcements.html",
+        "#lectures"
+    ],
+    "ground_truth": "course"
+}

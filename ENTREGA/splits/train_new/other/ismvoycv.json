@@ -1,0 +1,10 @@
+{
+    "Title": "SSGRG Publications Page",
+    "Body": "P++: A Language for Software System Generators .",
+    "link": [
+        "http://www.cs.utexas.edu",
+        "http://www.cs.utexas.edu/users/schwartz/index.html",
+        "http://www.cs.utexas.edu/users/schwartz/new_index.html"
+    ],
+    "ground_truth": "other"
+}

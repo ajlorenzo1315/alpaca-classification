@@ -1,0 +1,10 @@
+{
+    "Title": "My teaching activity",
+    "Body": "Date: Tue, 14 Jan 1997 23:18:33 GMT Server: NCSA/1.5 Content-type: text/html My teaching activity My teaching activity I teach classes in Artificial Intelligence and in Programming Languages .",
+    "link": [
+        "http://www.cs.uiowa.edu/~bonacina/22C:023.html",
+        "http://www.cs.uiowa.edu/~bonacina/22C:123.html",
+        "http://www.cs.uiowa.edu/~bonacina/22C:145.html"
+    ],
+    "ground_truth": "other"
+}

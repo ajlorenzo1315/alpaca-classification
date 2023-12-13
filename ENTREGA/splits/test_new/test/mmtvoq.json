@@ -1,0 +1,10 @@
+{
+    "Title": "Craig Lanzen's Home Page",
+    "Body": "Currently, I am studying computer science as a graduate student here at Bowling Green State University.",
+    "link": [
+        "http://sportsone.radix.net/Welcome.html",
+        "http://espnet.sportszone.com/",
+        "http://www.nba.com/"
+    ],
+    "ground_truth": "unknow"
+}

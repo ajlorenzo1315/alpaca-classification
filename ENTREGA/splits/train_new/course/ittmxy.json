@@ -1,0 +1,10 @@
+{
+    "Title": "CSE373 Course Web Page",
+    "Body": "The key is next enclosed in quotes.",
+    "link": [
+        "http://www.cs.washington.edu/homes/shapiro",
+        "http://www.cs.washington.edu/homes/denisep",
+        "http://www.cs.washington.edu/education/courses/373/96w/96w/syllabus.html"
+    ],
+    "ground_truth": "course"
+}

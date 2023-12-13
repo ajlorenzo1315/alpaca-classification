@@ -1,0 +1,10 @@
+{
+    "Title": "Graph Theory Course Home Page",
+    "Body": "Date: Wed, 20 Nov 1996 23:18:22 GMT Server: NCSA/1.5 Content-type: text/html",
+    "link": [
+        "http://www.cs.uiowa.edu/~sriram",
+        "http://www.cs.uiowa.edu/~sriram/graphtheory/advert.ps",
+        "http://www.cs.uiowa.edu/~sriram/graphtheory/syllabus.ps"
+    ],
+    "ground_truth": "course"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "University of Birmingham School of Computer Science",
+    "Body": "Date: Tue, 26 Nov 1996 22:38:48 GMT Server: NCSA/1.5.1 Last-modified: Wed, 04 Sep 1996 11:44:33 GMT Content-type: text/html Content-length: 3478 University of Birmingham School of Computer Science Home Page of the School of Computer Science at The University of Birmingham R esearch Research within the School, Seminar Notice Board , Technical Report archive, How to apply to be a Research Student here.",
+    "link": [
+        "http://www.cs.bham.ac.uk/system/contact.html",
+        "http://www.bham.ac.uk/",
+        "http://www.cs.bham.ac.uk/research/research.html"
+    ],
+    "ground_truth": "department"
+}

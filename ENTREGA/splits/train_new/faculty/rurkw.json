@@ -1,0 +1,8 @@
+{
+    "Title": "  Joseph E. Flaherty",
+    "Body": "These systems will allow scientists and engineers to describe problems in a natural way, automatically select appropriate numerical techniques, solve the equations to a prescribed level of accuracy, and display the results.",
+    "link": [
+        "http://www.cs.rpi.edu/brochure/Faculty/index.html"
+    ],
+    "ground_truth": "faculty"
+}

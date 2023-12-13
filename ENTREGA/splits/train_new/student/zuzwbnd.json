@@ -1,0 +1,10 @@
+{
+    "Title": "Sunil Srivastava Home Page",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Wednesday, 20-Nov-96 19:36:19 GMT Content-Type: text/html Content-Length: 787 Last-Modified: Wednesday, 11-Sep-96 17:10:30 GMT Sunil Srivastava Home Page Welcome to the Home Page of Sunil Srivastava Master of Engineering Student Computer Science Department Cornell University Academic Classes TA Classes M.Eng.",
+    "link": [
+        "http://www.cs.cornell.edu/Info/People/sxsrivas/class/courses.html",
+        "http://www.cs.cornell.edu/Info/People/sxsrivas/ta/courses.html",
+        "http://www.cs.cornell.edu/Info/People/sxsrivas/project/description.html"
+    ],
+    "ground_truth": "student"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": " Huang Guang-Rung (Michael)\n",
+    "Body": "Date: Thu, 21 Nov 1996 21:53:19 GMT Server: NCSA/1.5 Content-type: text/html Huang Guang-Rung (Michael) Welcome to Michael's kingdom Personal Stuff: Who am I Current research More personal information My resume My publications My research group Juliana's Work: Artemis Logo NetBenefit Logo Course of Instruction: CAS CS320 Programming Language CAS CS111 Introduction of Computer Science MET CS301 Data Structure Misc.",
+    "link": [
+        "http://www.cs.bu.edu/students/grads/ghuang/wai.html",
+        "http://www.cs.bu.edu/students/grads/ghuang/research.html",
+        "http://www.cs.bu.edu/students/grads/ghuang/pi.html"
+    ],
+    "ground_truth": "student"
+}

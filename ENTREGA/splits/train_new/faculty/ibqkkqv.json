@@ -1,0 +1,10 @@
+{
+    "Title": "Klara Nahrstedt",
+    "Body": "Date: Thu, 21 Nov 1996 20:22:38 GMT Server: NCSA/1.5.2 Last-modified: Tue, 08 Oct 1996 21:27:12 GMT Content-type: text/html Content-length: 6651 Klara Nahrstedt Klara Nahrstedt 3111 Digital Computer Laboratory 1304 West Springfield Avenue Urbana, IL 61801 (217) 244-6624 (217) 333-3501 - fax klara@cs.uiuc.edu Administrative help: Anda Harney Teaching Multimedia Courses: Selected Topics in Multimedia Communication (Fall 1995) - CS497 Multimedia Computing Systems (Spring 1996) - CS397 Resource Management For Video Traffic in High-Speed Networks (Fall 1996 - seminar) CS491 Teaching System Courses: Operating System Design (Fall 1996) - CS323 Areas of Research Interest: Communication Networks: Quality of Service Support, Real-Time Protocols, Network Management, Guaranteed Services, Pricing, Dynamic Connection Management Real-Time Systems: Resource Management, Scheduling, Languages Multimedia Distributed Systems and Applications: Multimedia Document Architectures, Visualization of Quality of Service, Authoring Systems, Security Publications: Books: Ralf Steinmetz, Klara Nahrstedt, \"Multimedia: Computing, Communications, and Applications\" Prentice Hall, July 1995 Book Chapters: Klara Nahrstedt and Jonathan Smith, \"A Service Kernel for Multimedia Endpoints\" , in Multimedia: Advanced Teleservices and High-Speed Communication Architectures, Ralf Steinmetz (editor), Springer Verlag Lecture Notes in Computer Science LNCS-868,  1994, Section I., pp.",
+    "link": [
+        "http://www.cs.uiuc.edu/CS_INFO_SERVER/DEPT_INFO/CS_STAFF/STAFF_HTMLS/harney.html",
+        "http://nahrstedt.cs.uiuc.edu:5000/pub/cs497mm.html",
+        "http://nahrstedt.cs.uiuc.edu:5000/pub/cs397mm.html"
+    ],
+    "ground_truth": "faculty"
+}

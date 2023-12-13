@@ -1,0 +1,9 @@
+{
+    "Title": "University of Wisconsin-Madison: Old Web Resources Page",
+    "Body": "Copyright © 1996 The Board of Regents of the University of Wisconsin System",
+    "link": [
+        "http://www.wisc.edu/cgi-bin/imagemap/wiscinfo/wiscinfo.map",
+        "http://www.wisc.edu/"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": " Stephen Vavasis ",
+    "Body": "More specifically, I am interested in: Numerical optimization and complexity issues Numerical methods for boundary value problems Geometric problems arising in scientific computing Sparse matrix computations I have a few recent manuscripts available on-line: S. Vavasis and Y. Ye, ``A primal dual accelerated interior point method whose running time depends only on A '' ( click here ) P. Hough and  S. Vavasis, ``Complete orthogonal decomposition for weighted least squares'' ( click here ) S. Mitchell and S. Vavasis, ``An aspect ratio bound for triangulating a d-grid cut by a hyperplane'' ( click here ) T. Driscoll and S. Vavasis, ``Numerical conformal mapping using cross-ratios and Delaunay triangulation'' ( click here ) The QMG package I have recently completed a software project on mesh generation for the finite element method in three dimensions.",
+    "link": [
+        "http://www.mcs.anl.gov",
+        "http://www.anl.gov",
+        "http://www.cs.cornell.edu/Info/People/lnt/defn.ps"
+    ],
+    "ground_truth": "faculty"
+}

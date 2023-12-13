@@ -1,0 +1,10 @@
+{
+    "Title": "The Carl Household",
+    "Body": "The Year's Events - 1994 I'll briefly recap the year's events:  I began Graduate School in January, then there was an eclipse in May which I saw for about 5 seconds during a break in the clouds, then a comet struck Jupiter over a period of days during the summer (a nice picture of this event is here ), then Rice beat Texas in football for the first time since I was two (resulting in nature wreaking havoc as heavy rains inundated Houston), then the Republicans became the majority party in the House of Representatives, then I finished my first year of Graduate School.",
+    "link": [
+        "#1995",
+        "#1994",
+        "#reading"
+    ],
+    "ground_truth": "other"
+}

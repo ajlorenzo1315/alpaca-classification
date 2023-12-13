@@ -1,0 +1,10 @@
+{
+    "Title": "Washington University Computer Science Department",
+    "Body": "The Computer Science Department is part of the School of Engineering and Applied Science .",
+    "link": [
+        "http://aix.cait.wustl.edu/",
+        "http://www.wustl.edu/",
+        "http://www.cs.wustl.edu/cs/intro.html"
+    ],
+    "ground_truth": "department"
+}

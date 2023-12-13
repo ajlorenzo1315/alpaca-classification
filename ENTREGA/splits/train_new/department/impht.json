@@ -1,0 +1,10 @@
+{
+    "Title": "BYU CS Department Homepage",
+    "Body": "Student Academic Groups BYU UNIX Users Group CS Graduate Student Association Student Chapter of the ACM Ketav : The Computer Science Department's On-line Magazine The Internet Club Employment Search Various resources for finding employment , including reading or posting for students in BYU CS department Other Information: If something doesn't work, please follow the link at the bottom to the webmaster page.",
+    "link": [
+        "http://cpms.byu.edu/cpms",
+        "http://www.cs.byu.edu/statistics.html",
+        "http://www.byu.edu/"
+    ],
+    "ground_truth": "department"
+}

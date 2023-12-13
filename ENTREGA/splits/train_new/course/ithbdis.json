@@ -1,0 +1,10 @@
+{
+    "Title": "Computational Geometry Course Home Page",
+    "Body": "Date: Wed, 20 Nov 1996 23:18:17 GMT Server: NCSA/1.5 Content-type: text/html",
+    "link": [
+        "http://www.cs.uiowa.edu/~sriram",
+        "http://www.cs.uiowa.edu/~sriram/compgeom/advert.ps",
+        "http://www.cs.uiowa.edu/~sriram/compgeom/syllabus.ps"
+    ],
+    "ground_truth": "course"
+}

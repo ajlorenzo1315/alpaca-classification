@@ -1,0 +1,10 @@
+{
+    "Title": "Jon's Cool Sites",
+    "Body": "Date: Tue, 05 Nov 1996 21:07:26 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Wed, 13 Sep 1995 05:42:41 GMT Content-length: 9850 Jon's Cool Sites Jon's Cool Sites News / Politics / Computers / Music / Jewish Stuff / People / Money / My Stuff / Assorted Sundries News San Francisco Examiner Home Page New York Weather Mother Jones ESPNET SportsZone Pathfinder: Time/Warner on the Web Time Daily News Summary Entertainment Weekly Magazine The Electronic Telegraph (London) The NandO Times Mr. Showbiz Table of Contents Politics U.S. House Of Representatives The White House The Progress and Freedom Foundation WWW Homepage Computers Companies: Apple's Internet Servers Power Computing's Web Site Stores: Cyberian Outpost Home Page Hayen Publisher's Web Site Software: Alpha Home Page INFO-MAC HyperArchive New files added to Apple Software Updates PowerLisp home page Arachnid Home Page Magazines: MacWEEK Home Page MacUser Home Page MacWorld Home Page InfoWorld Home Page Ziff-Davis' Magazine Info: Common Lisp the Language, 2nd Edition The QuickDraw GX Fan Club WP Mac News Apple Developer Services and Products HotNews EDUPAGE, from EDUCOM Internet Starter Kit for Macintosh Internet Resources Land o' Mac Geeks The Association of Lisp Users -- Home Page The Mac Patch Page MicroSoft Hate Page Welcome to Macintosh -- Mac Info WebConference for Macs Meta-Places: Global Network Navigator Home Page Yahoo Starting Point Music The Capitol Steps The Concrete Blonde Web Site Concrete Blonde from Grooves Magazine The Beatles Information Page Mammoth Records Internet Center Van Halen Internet Universe The Metaverse Sound Bytes: WWW TV Themes Home Page : By Patrick G. Kenny Rock Trivia On This Day in Rock The Capt.",
+    "link": [
+        "#1",
+        "#2",
+        "#3"
+    ],
+    "ground_truth": "unknow"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Gideon Glass",
+    "Body": "I suppose I should have a Netscape button here, but that MS-thing over to the right will have to suffice.",
+    "link": [
+        "http://cgi.cs.wisc.edu/scripts/gid/images?dir=images",
+        "#pics",
+        "http://www.cs.wisc.edu/~gid/images/usual1.jpg"
+    ],
+    "ground_truth": "student"
+}

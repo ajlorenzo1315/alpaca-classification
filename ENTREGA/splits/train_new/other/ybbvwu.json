@@ -1,0 +1,10 @@
+{
+    "Title": "Cecil/Vortex: Related Projects",
+    "Body": "Date: Tue, 10 Dec 1996 03:35:32 GMT Server: NCSA/1.4.2 Content-type: text/html Cecil/Vortex: Related Projects Related Projects in Object-Oriented Language Design/Implementation Self (Stanford/Sun) Concert (Illinois) OOCSB (UC-Santa Barbara) Object Systems Laboratory (Univ.",
+    "link": [
+        "http://self.smli.com/",
+        "http://www-csag.cs.uiuc.edu/",
+        "http://www.cs.ucsb.edu/oocsb/"
+    ],
+    "ground_truth": "other"
+}

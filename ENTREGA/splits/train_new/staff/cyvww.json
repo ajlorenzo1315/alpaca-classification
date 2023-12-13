@@ -1,0 +1,10 @@
+{
+    "Title": "Bryce Cogswell's Home Page",
+    "Body": "Real-Time web pages.",
+    "link": [
+        "http://www.cs.uoregon.edu/~cogswell/tibbit/index.html",
+        "http://www.cs.uoregon.edu/~cogswell/tibbit/index.html",
+        "http://www.cs.uoregon.edu/~cogswell/repeatable.html"
+    ],
+    "ground_truth": "staff"
+}

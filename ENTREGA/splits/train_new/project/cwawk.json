@@ -1,0 +1,10 @@
+{
+    "Title": "\nSimultaneous Multithreading home page\n",
+    "Body": "People Faculty Susan Eggers Hank Levy Graduate students Jack Lo Dean Tullsen Industrial collaborators (Digital Equipment Corporation) Joel S. Emer Rebecca L. Stamm Publications Converting Thread-Level Parallelism Into Instruction-Level Parallelism via Simultaneous Multithreading ( Abstract , Postscript ) J.L.",
+    "link": [
+        "http://www.cs.washington.edu/research/smt/index.html#Overview",
+        "http://www.cs.washington.edu/research/smt/index.html#People",
+        "http://www.cs.washington.edu/research/smt/index.html#Publications"
+    ],
+    "ground_truth": "project"
+}

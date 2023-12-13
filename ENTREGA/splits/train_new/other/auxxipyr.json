@@ -1,0 +1,10 @@
+{
+    "Title": "CSE 322 Bboard/Mail Log\n",
+    "Body": "Sorry for missing these before, I'll correct them on the web, -j To: cse322@cs Subject: Homework 10, problem 1 Date: Thu, 07 Mar 1996 11:54:33 PST From: Richard Ladner <ladner@whalespout.cs.washington.edu> Instead of building a DPDA for the set of strings with an equal number of a's as b's do it for the following set.",
+    "link": [
+        "mailto:cse322@cs.washington.edu",
+        "mailto:fix@cs.washington.edu",
+        "mailto:ladner@cs.washington.edu"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": " CPS 220 Computer Systems Organization ",
+    "Body": "Exams (30% of grade): There will be two midterm exams and a short exit interview in this course (see important dates ) Research Project (30% of grade): Course projects will be completed individually or in groups of two.",
+    "link": [
+        "http://www.cs.duke.edu/~alvy/",
+        "http://www.cs.duke.edu/~sri/",
+        "http://www.cs.duke.edu/~alvy/courses/220/csonly/suggest.html"
+    ],
+    "ground_truth": "course"
+}

@@ -1,0 +1,8 @@
+{
+    "Title": "Biography",
+    "Body": "He is currently Director of the USC Center for Software Engineering.",
+    "link": [
+        "http://sunset.usc.edu/faculty.html"
+    ],
+    "ground_truth": "faculty"
+}

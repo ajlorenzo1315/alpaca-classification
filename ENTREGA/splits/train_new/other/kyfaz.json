@@ -1,0 +1,10 @@
+{
+    "Title": "home sweet home...",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Sunday, 01-Dec-96 20:36:58 GMT Content-Type: text/html Content-Length: 833 Last-Modified: Friday, 09-Aug-96 19:39:42 GMT home sweet home... the glass house... what's to be found?",
+    "link": [
+        "http://www.altavista.digital.com",
+        "http://www.yahoo.com",
+        "http://www.excite.com"
+    ],
+    "ground_truth": "other"
+}

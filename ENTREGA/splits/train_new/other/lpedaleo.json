@@ -1,0 +1,10 @@
+{
+    "Title": "CSE 322 \nAssignment 8 \nDue Friday, February 23, 1996",
+    "Body": "For the NFA M of problem 1 use the regular expression diagram method to construct a regular expression equivalent to M .",
+    "link": [
+        "node1.html",
+        "node1.html",
+        "node1.html#SECTION00010000000000000000"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": " Martha E. Pollack's Home Page",
+    "Body": "Date: Mon, 25 Nov 1996 23:21:25 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Wed, 23 Oct 1996 14:51:20 GMT Content-length: 1357 Martha E. Pollack's Home Page Martha E. Pollack Prof. Martha Pollack            Internet:  pollack@cs.pitt.edu Dept.",
+    "link": [
+        "http://www.cs.pitt.edu/",
+        "http://pogo.isp.pitt.edu/",
+        "http://www.cs.pitt.edu/~pollack/distrib/guide.html"
+    ],
+    "ground_truth": "faculty"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Parallel Computation",
+    "Body": "We will be involved with the implementation of this library, so students will all be required to have an extensive background in C++.",
+    "link": [
+        "#general",
+        "#description",
+        "#materials"
+    ],
+    "ground_truth": "unknow"
+}

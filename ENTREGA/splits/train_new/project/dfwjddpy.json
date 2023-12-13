@@ -1,0 +1,10 @@
+{
+    "Title": " The Berkeley NOW project ",
+    "Body": "Date: Wed, 20 Nov 1996 19:24:54 GMT Server: NCSA/1.4 Content-type: text/html Last-modified: Tue, 19 Nov 1996 20:50:31 GMT Content-length: 2324 The Berkeley NOW project The Berkeley Network of Workstations (NOW) project seeks to harness the power of clustered machines connected via high-speed switched networks.",
+    "link": [
+        "http://inktomi.berkeley.edu",
+        "http://now.cs.berkeley.edu/sponsors.html",
+        "http://now.cs.berkeley.edu/nowOverview.html"
+    ],
+    "ground_truth": "project"
+}

@@ -1,0 +1,9 @@
+{
+    "Title": "PLinda: ",
+    "Body": "Check that the .rhosts file has the machine you are running the server on in it.",
+    "link": [
+        "http://merv.cs.nyu.edu:8001/~binli/plinda/index.html",
+        "http://merv.cs.nyu.edu:8001/~binli/"
+    ],
+    "ground_truth": "other"
+}

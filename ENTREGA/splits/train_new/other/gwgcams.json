@@ -1,0 +1,10 @@
+{
+    "Title": "CS314 Course Information",
+    "Body": "Consultants will grade your homeworks as well as answer questions about the computer system, programs, homework assignments, and other things related to the content of the course.",
+    "link": [
+        "http://dave.cs.cornell.edu:8888/Home/CS314/",
+        "mailto:tve@cs.cornell.edu",
+        "mailto:atd4@cornell.edu"
+    ],
+    "ground_truth": "other"
+}

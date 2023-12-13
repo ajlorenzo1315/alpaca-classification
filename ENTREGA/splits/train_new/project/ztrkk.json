@@ -1,0 +1,10 @@
+{
+    "Title": "The OPAL Operating System Project",
+    "Body": "Date: Thu, 21 Nov 1996 20:32:01 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Wed, 15 Nov 1995 23:21:19 GMT Content-length: 2596 The OPAL Operating System Project Opal The Opal project is exploring a new operating system structure, tuned to the needs of complex applications, such as CAD/CAM, where a number of cooperating programs manipulate a large shared persistent database of objects.",
+    "link": [
+        "http://www.cs.washington.edu/homes/levy/opal/opalpapers.html",
+        "http://www.cs.washington.edu/people/faculty/levy.html",
+        "http://www.cs.washington.edu/people/faculty/lazowska"
+    ],
+    "ground_truth": "project"
+}

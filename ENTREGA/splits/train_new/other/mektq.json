@@ -1,0 +1,6 @@
+{
+    "Title": "More Introduction to the Lab (hello, observe)",
+    "Body": "This command will call the C++ compiler but will also tell the compiler where to look for our string class and to link it in when we use it.",
+    "link": [],
+    "ground_truth": "other"
+}

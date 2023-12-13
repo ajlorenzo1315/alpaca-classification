@@ -1,0 +1,10 @@
+{
+    "Title": "Charles Heuer's Home Page\n  ",
+    "Body": "Date: Mon, 25 Nov 1996 20:29:07 GMT Server: Apache/1.1.1 Content-type: text/html Content-length: 1646 Last-modified: Thu, 09 May 1996 20:30:10 GMT Charles Heuer's Home Page Charles Heuer Department of Mathematics and Computer Science Concordia College Office: Ivers 234G Phone:  299-3347 E-mail: cheuer@cord.edu Academic Background and Experience Undergraduate degree from Concordia College in 1958 in Mathematics and Physics.",
+    "link": [
+        "mailto:cheuer@cord.edu",
+        "http://home.cord.edu/faculty/cheuer/personal.html",
+        "http://www.cord.edu/disclaimer.html"
+    ],
+    "ground_truth": "faculty"
+}

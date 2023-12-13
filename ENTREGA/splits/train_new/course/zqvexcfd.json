@@ -1,0 +1,10 @@
+{
+    "Title": " COMP 15 HOME PAGE ",
+    "Body": "Section 2: M 2 - 2:50 p.m. Recitations are held in 014 Sitterson.",
+    "link": [
+        "http://www.cs.unc.edu/~stanat/Comp15/syllabus.html",
+        "http://www.cs.unc.edu/~stanat/Comp15/questions.html",
+        "http://www.cs.unc.edu/~stanat/Comp15/H23prog8"
+    ],
+    "ground_truth": "course"
+}

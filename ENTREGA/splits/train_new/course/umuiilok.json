@@ -1,0 +1,10 @@
+{
+    "Title": "CS99 Course Home Page",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Sunday, 01-Dec-96 18:54:16 GMT Content-Type: text/html Content-Length: 1566 Last-Modified: Monday, 08-Jul-96 20:15:40 GMT CS99 Course Home Page CS 99 [ Info ] [ Syllabus ] [ Labs ] [ Links ] Announcements Room Update: Due to unforseen circumstances, we are still unable to use Upson 215 for class.",
+    "link": [
+        "http://www.cornell.edu/",
+        "http://www.cs.cornell.edu",
+        "http://www.cs.cornell.edu/Info/Courses/Summer-96/CS99/info.html"
+    ],
+    "ground_truth": "course"
+}

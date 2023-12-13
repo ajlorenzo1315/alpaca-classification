@@ -1,0 +1,10 @@
+{
+    "Title": "Java for C++ Programmers",
+    "Body": "Integer.MAX_VALUE           // 2147483648, the largest possible int Integer.parseInt(\"123\")     // the int value 123 Integer.toHexString(123)    // \"7b\", 123 in hex new Double(\"123e-2\").doubleValue() // the double value 1.23 // see also page 150 of the Java Book Character.isDigit('3')      // true Character.isUpperCase('a')  // false Character.toUpperCase('a')  // 'A' Vector A Vector is like an array, but it grows as necessary to allow you to add as many elements as you like.",
+    "link": [
+        "#intro",
+        "#sort",
+        "#objects"
+    ],
+    "ground_truth": "other"
+}

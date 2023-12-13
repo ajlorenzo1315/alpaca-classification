@@ -1,0 +1,10 @@
+{
+    "Title": " Howard Pu's Home Page ",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Monday, 25-Nov-96 20:12:11 GMT Content-Type: text/html Content-Length: 3572 Last-Modified: Thursday, 21-Nov-96 21:16:28 GMT Howard Pu's Home Page Welcome to Howard Pu's Home Page 1974 BE Computer Science, University of Tamkang, Taiwan 1976 MBA Management Information Systems, University of Tamkang 1988 Ph.D. Information Systems, University of Pittsburgh 1988 Assistant Professor, Computer Information Science , CSU 1995 Associate Professor, Computer Information Science, CSU CIS 306, Fall 1996 What's Out There Using Sybase SQL Server on Grail Advanced HTML/Images/JavaScript Learning Dr. Howard Pu's Office: UC 483 Phone: (216)687-3685 Fax: (216)687-5448 pu@cis.csuohio.edu Please type any questions, comments, or suggestions on how I can improve this site to better serve my readers, in the box below.",
+    "link": [
+        "http://www.tku.edu.tw",
+        "http://www.pitt.edu",
+        "http://cis.csuohio.edu"
+    ],
+    "ground_truth": "faculty"
+}

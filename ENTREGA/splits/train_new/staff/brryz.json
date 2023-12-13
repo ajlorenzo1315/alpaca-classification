@@ -1,0 +1,10 @@
+{
+    "Title": "Werner Vogels",
+    "Body": "If we want to take our distributed systems to a global scope, there is a need to find a generic mechanism to support failure suspision, detection and management of processes, nodes and networks.",
+    "link": [
+        "mailto:vogels@cs.cornell.edu",
+        "http://www.cs.cornell.edu/Info/Projects/HORUS",
+        "http://www.cs.cornell.edu/Info/Projects/ATM"
+    ],
+    "ground_truth": "staff"
+}

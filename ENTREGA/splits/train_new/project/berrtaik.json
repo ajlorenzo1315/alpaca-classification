@@ -1,0 +1,10 @@
+{
+    "Title": "Duke's Voice and Natural Language Laboratory",
+    "Body": "Date: Wed, 20 Nov 1996 19:12:40 GMT Server: NCSA/1.5.1 Last-modified: Tue, 20 Aug 1996 17:49:28 GMT Content-type: text/html Content-length: 3767 Duke's Voice and Natural Language Laboratory Voice and Natural Language Laboratory Department of Computer Science Duke University , Durham, North Carolina Overview: In the area of natural language processing systems, we seek to develop a class of task-oriented natural language processors that enable a human and machine to collaborate efficiently in problem-solving.",
+    "link": [
+        "http://www.cs.duke.edu",
+        "http://www.duke.edu/",
+        "http://ncnet.com/ncnw/dur-intr.html"
+    ],
+    "ground_truth": "project"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "CSE 590 ZP: Course Syllabus",
+    "Body": "Date: Mon, 02 Dec 1996 15:21:38 GMT Server: NCSA/1.4.2 Content-type: text/html CSE 590 ZP: Course Syllabus CSE 590 ZP: Course Syllabus The last four weeks of the quarter will be devoted to presentations by class participants.",
+    "link": [
+        "./notes/CSE590ZPL1.ps",
+        "./notes/CSE590ZPL2.ps",
+        "./notes/CSE590ZPL3.ps"
+    ],
+    "ground_truth": "unknow"
+}

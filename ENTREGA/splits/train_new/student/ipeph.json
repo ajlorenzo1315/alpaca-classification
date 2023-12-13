@@ -1,0 +1,10 @@
+{
+    "Title": " Aaron's Home Page ",
+    "Body": "I expect to finish my degree in the spring of 1996.",
+    "link": [
+        "http://www.cc.gatech.edu/CoC.html",
+        "http://www.gatech.edu/",
+        "http://www.oberlin.edu/"
+    ],
+    "ground_truth": "student"
+}

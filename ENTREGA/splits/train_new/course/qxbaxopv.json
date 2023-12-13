@@ -1,0 +1,10 @@
+{
+    "Title": "B551 Main Page",
+    "Body": "The following preparation is recommended: Read chapters 1-2 of The Little Schemer , and on p. 33 (the first page of chapter 3), try to write \"rember.\"",
+    "link": [
+        "http://www.cs.indiana.edu/hyplan/leake.html",
+        "mailto:leake@cs.indiana.edu",
+        "http://www.cs.indiana.edu/hyplan/elyk.html"
+    ],
+    "ground_truth": "course"
+}

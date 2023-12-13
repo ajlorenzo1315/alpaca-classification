@@ -1,0 +1,10 @@
+{
+    "Title": "Resume: James A. Basney",
+    "Body": "and Ph.D. in Computer Science .",
+    "link": [
+        "mailto:jbasney@cs.wisc.edu",
+        "http://www.wisc.edu/grad/",
+        "http://www.cs.wisc.edu/"
+    ],
+    "ground_truth": "other"
+}

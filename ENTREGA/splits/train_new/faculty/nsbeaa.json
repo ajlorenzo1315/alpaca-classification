@@ -1,0 +1,9 @@
+{
+    "Title": "Robert Cypher's Home Page",
+    "Body": "Current Projects: Portable and Repeatable Parallel Applications: The goal of this project is the creation of software that will help application developers write correct message-passing code.",
+    "link": [
+        "http://www.cs.jhu.edu/faculty/konstant/ConcLab.html",
+        "http://www.cs.jhu.edu/~cypher/pubs/pubs.html"
+    ],
+    "ground_truth": "faculty"
+}

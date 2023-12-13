@@ -1,0 +1,10 @@
+{
+    "Title": "ONline Wisconsin",
+    "Body": "Date: Wed, 11 Dec 1996 23:10:06 GMT Server: Apache/1.1.1 Content-type: text/html ONline Wisconsin state / campus / health & science / weather onlife / about olw / mail / today in cyberspace",
+    "link": [
+        "/olw/statenews/statemadison.html",
+        "/olw/campnews/campusnews.html",
+        "/olw/weather/weather.html"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,9 @@
+{
+    "Title": "Abraham Silberschatz",
+    "Body": "B. Ozden, R. Rastogi, and A. Silberschatz, \"A framework for the storage and retrieval of continuous media data,\" IEEE International Conference on Multimedia Computing and Systems, May 1995.",
+    "link": [
+        "http://www.cs.utexas.edu/docs/prof.html",
+        "http://www.cs.utexas.edu/users/UTCS/report/1995/profiles/index.html"
+    ],
+    "ground_truth": "faculty"
+}

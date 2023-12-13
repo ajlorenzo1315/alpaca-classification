@@ -1,0 +1,10 @@
+{
+    "Title": "HOME ",
+    "Body": "My Resume Publications Baker, Marla J., and Stephen G. Eick, \"Space-Filling Software Visualization,\" The Journal of Visual Languages and Computing, June 1995, pp.",
+    "link": [
+        "http://www.cs.washington.edu/",
+        "http://www.washington.edu:1183/",
+        "http://www.cs.washington.edu/area/"
+    ],
+    "ground_truth": "student"
+}

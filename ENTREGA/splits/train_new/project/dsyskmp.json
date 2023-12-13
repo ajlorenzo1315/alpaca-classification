@@ -1,0 +1,10 @@
+{
+    "Title": "The Duke CS PerlJaM/AdvIL page",
+    "Body": "If you're on a Duke CS machine, I have them in ~gadde/public_html/Java/diagrams_beta.",
+    "link": [
+        "http://javacontest.sun.com/",
+        "mailto:gadde@cs.duke.edu",
+        "mailto:geha@cs.duke.edu"
+    ],
+    "ground_truth": "project"
+}

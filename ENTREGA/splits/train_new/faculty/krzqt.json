@@ -1,0 +1,10 @@
+{
+    "Title": " Home Page of Charles N. Fischer ",
+    "Body": "The ultimate in register allocation is interprocedural register allocation in which all the procedures of a program are analyzed.",
+    "link": [
+        " http://www.cs.wisc.edu/",
+        "mailto:fischer@cs.wisc.edu",
+        " http://www.cs.wisc.edu/~fischer/cs701.html"
+    ],
+    "ground_truth": "faculty"
+}

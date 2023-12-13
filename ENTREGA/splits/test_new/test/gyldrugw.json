@@ -1,0 +1,9 @@
+{
+    "Title": "Gerald Jay Sussman",
+    "Body": "Sussman, and K.S.",
+    "link": [
+        "http://www-swiss.ai.mit.edu/zoo/gjs-gorilla-staring.jpg",
+        "http://www-swiss.ai.mit.edu/~gjs/biography.html"
+    ],
+    "ground_truth": "unknow"
+}

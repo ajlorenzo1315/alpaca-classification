@@ -1,0 +1,10 @@
+{
+    "Title": "\nGeorge Xylomenos' Home Page\n",
+    "Body": "Since October 1994, I am a graduate student and researcher in the University of California, San Diego , in the Computer Science and Engineering Department .",
+    "link": [
+        "http://www.aueb.gr",
+        "http://www.aueb.gr/inform/wellcome.htm",
+        "http://www.ucsd.edu"
+    ],
+    "ground_truth": "student"
+}

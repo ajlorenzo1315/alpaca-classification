@@ -1,0 +1,10 @@
+{
+    "Title": "CSE/EE 461 Projects\n",
+    "Body": "Project 3 ( LaTeX , PS ), due May 29, 11:30pm .",
+    "link": [
+        "doc/doc.html",
+        "doc.tex",
+        "doc.ps"
+    ],
+    "ground_truth": "other"
+}

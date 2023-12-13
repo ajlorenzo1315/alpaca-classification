@@ -1,0 +1,10 @@
+{
+    "Title": "Personal Info",
+    "Body": "Research Interest Computer Graphics, Image Processing, Computer Vision, Pattern Recognition, Computational Geometry, Multimedia and image database.",
+    "link": [
+        "http://www.cs.wisc.edu/~yinong/finger?ywei@math.wisc.edu",
+        "http://math.wisc.edu/",
+        "http://utkvx1.utk.edu/~xurs/uni/pku/pku.html"
+    ],
+    "ground_truth": "unknow"
+}

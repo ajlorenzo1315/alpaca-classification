@@ -1,0 +1,10 @@
+{
+    "Title": "Email",
+    "Body": "Saving an email message If you're using the email software in the 1370 lab, select from the File menu the item Save As .",
+    "link": [
+        "http://www.cs.wisc.edu/csl/csl.html",
+        "#email.starting",
+        "#email.message.saving"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Complete List of Cornell Web Pages",
+    "Body": "Date: Mon, 16 Dec 1996 23:54:38 GMT Server: NCSA/1.4.2 Content-type: text/html Complete List of Cornell Web Pages CUinfo List of WWW Sites This list is sorted in alphabetical order, and includes all World Wide Web home pages at Cornell, with the exception of personal home pages .",
+    "link": [
+        "http://www.cornell.edu/cgi-bin/CUW3_Pers?page=cornell",
+        "http://www.cornell.edu/Computer/CUW3_Reg.html",
+        "mailto:CUinfo-admin@cornell.edu"
+    ],
+    "ground_truth": "other"
+}

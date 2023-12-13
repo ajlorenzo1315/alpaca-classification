@@ -1,0 +1,10 @@
+{
+    "Title": "\nJ. David Morgenthaler's Home Page, UCSD CSE\n",
+    "Body": "\"Brains just make a man do crazy things,\" Cap said.",
+    "link": [
+        "http://geogweb.berkeley.edu/BerkGeog.html",
+        "http://www.berkeley.edu/",
+        "http://www.mcs.csuhayward.edu/"
+    ],
+    "ground_truth": "student"
+}

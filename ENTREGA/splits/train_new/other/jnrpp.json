@@ -1,0 +1,10 @@
+{
+    "Title": "Communicating",
+    "Body": "My PGP key .",
+    "link": [
+        "//www.cs.indiana.edu/finger/cs.washington.edu/bam",
+        "//www.cs.indiana.edu/finger/cs.washington.edu/bam",
+        "mailto:bam@cs.washington.edu"
+    ],
+    "ground_truth": "other"
+}

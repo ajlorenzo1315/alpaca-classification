@@ -1,0 +1,10 @@
+{
+    "Title": "Justinian Rosca's Home Page",
+    "Body": "\"Discovery of Subroutines in Genetic Programming.\"",
+    "link": [
+        "http://www.cs.rochester.edu/users/faculty/dana",
+        "http://www.cs.rochester.edu/u/rosca/research.html",
+        "http://www.cs.rochester.edu/u/rosca/research.html#1996"
+    ],
+    "ground_truth": "student"
+}

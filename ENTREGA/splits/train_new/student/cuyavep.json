@@ -1,0 +1,10 @@
+{
+    "Title": "Sam Fenster's Home Page",
+    "Body": "My former advisor is Terry Boult , who is now at Lehigh .",
+    "link": [
+        "http://www.cs.columbia.edu/",
+        "http://www.cc.columbia.edu/",
+        "http://www.cs.columbia.edu/info/research-guide/html/node27.html#SECTION000120000000000000000"
+    ],
+    "ground_truth": "student"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "PRL Seminar talks",
+    "Body": "This is a very early version of formal theories (modules) in Nuprl.",
+    "link": [
+        "http://www.adobe.com/acrobat/readstep.html",
+        "http://www.adobe.com/prodindex/persuasion/main.html",
+        "http://www.adobe.com/prodindex/illustrator/main.html"
+    ],
+    "ground_truth": "other"
+}

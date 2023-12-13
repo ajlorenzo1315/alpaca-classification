@@ -1,0 +1,10 @@
+{
+    "Title": " Dilian Gurov's Home Page ",
+    "Body": "Date: Tue, 26 Nov 1996 16:26:43 GMT Server: Apache/1.0.5 Content-type: text/html Dilian Gurov's Home Page Dilian GUROV PhD Student , Dept.",
+    "link": [
+        "http://www.csc.uvic.ca/gradinfo/graduate.html",
+        "http://www.csc.uvic.ca/",
+        "http://www.uvic.ca/"
+    ],
+    "ground_truth": "student"
+}

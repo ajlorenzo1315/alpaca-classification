@@ -1,0 +1,10 @@
+{
+    "Title": "Neil McKenzie's Menu of Fine Dining",
+    "Body": "In my copious free time as an expatriate graduate student, I am working on chaotic routing with faculty advisors Carl Ebeling and Larry Snyder .",
+    "link": [
+        "#contact",
+        "#employment",
+        "#current"
+    ],
+    "ground_truth": "unknow"
+}

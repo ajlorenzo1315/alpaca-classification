@@ -1,0 +1,9 @@
+{
+    "Title": "Flordia Tech, CSE 5257:  Assignment #2",
+    "Body": "Write a program to read a person's sex, height, and weight, determine the body mass index, and print a message as to obesity.",
+    "link": [
+        "http://www.cs.fit.edu/~ryan/",
+        "mailto:ryan@cs.fit.edu"
+    ],
+    "ground_truth": "other"
+}

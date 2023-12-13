@@ -1,0 +1,10 @@
+{
+    "Title": "Apostolos's Home Page",
+    "Body": "My future research plans include an all-optical implementation of the Isochronets switch and the development of protocols to support its operation.",
+    "link": [
+        "http://www.cs.columbia.edu/~apostolo/apostolos.gif",
+        "http://www.cs.columbia.edu/",
+        "http://www.cc.columbia.edu/"
+    ],
+    "ground_truth": "unknow"
+}

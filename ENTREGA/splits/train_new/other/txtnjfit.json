@@ -1,0 +1,10 @@
+{
+    "Title": " University of Wisconsin - Machine Learning Paper-Reading Group ",
+    "Body": "of the 12th International Conference on Machine Learning pp.",
+    "link": [
+        "http://www.cs.wisc.edu/~shavlik/mlrg//~shavlik/mlrg/old-scheds.html",
+        "http://www.cs.utexas.edu/users/nn/abstracts.html#miikkulainen.natural-language.ps.Z",
+        "http://www.csi.uottawa.ca/~holte/Learning/ml95.agnostic-pac.ps"
+    ],
+    "ground_truth": "other"
+}

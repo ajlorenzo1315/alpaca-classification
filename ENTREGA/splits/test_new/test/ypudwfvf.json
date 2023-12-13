@@ -1,0 +1,6 @@
+{
+    "Title": " Lecture notes - Chapter 7 - Data Structures",
+    "Body": "SO, we need to know 1.  where the array starts (called base address) 2.  size of an element in bytes (to get a byte address) 3.  what the first element is numbered",
+    "link": [],
+    "ground_truth": "unknow"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "\nScientific Visualization Laboratory\n",
+    "Body": "Date: Tue, 26 Nov 1996 00:46:39 GMT Server: Apache/1.1.1 Content-type: text/html Content-length: 2818 Last-modified: Tue, 28 May 1996 14:39:49 GMT Scientific Visualization Laboratory SCIENTIFIC VISUALIZATION LABORATORY Department of Computer Science Texas A&M University College Station, TX 77843-3112 Tel: 409/845-8870  Fax: 409/847-8578 svl@cs.tamu.edu Scientific visualization combines computer-based vision with advanced techniques in geometric modeling, rendering, animation, and virtual reality.",
+    "link": [
+        "http://www.cs.tamu.edu",
+        "mailto:svl@cs.tamu.edu",
+        "http://www.cs.tamu.edu/faculty/mccormic/"
+    ],
+    "ground_truth": "unknow"
+}

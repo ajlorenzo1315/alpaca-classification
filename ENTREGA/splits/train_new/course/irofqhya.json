@@ -1,0 +1,10 @@
+{
+    "Title": " THE CSE370 HOME PAGE",
+    "Body": "Server: Netscape-Commerce/1.12 Date: Wednesday, 20-Nov-96 23:24:48 GMT Last-modified: Thursday, 28-Sep-95 17:19:03 GMT Content-length: 1246 Content-type: text/html THE CSE370 HOME PAGE CSE 370: Introduction to Switching Theory and Logic Design Laboratory Section Some links of interest: CSE370 lab manual.",
+    "link": [
+        "http://www.cis.upenn.edu/~dsl/dsl.html",
+        "http://www.seas.upenn.edu/~cse370/cse370/cse370manual.html",
+        "news:upenn.cis.cse370"
+    ],
+    "ground_truth": "course"
+}

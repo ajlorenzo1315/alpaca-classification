@@ -1,0 +1,10 @@
+{
+    "Title": "Lauren Bricker",
+    "Body": "Date: Thu, 21 Nov 1996 23:04:25 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Tue, 24 Sep 1996 20:59:44 GMT Content-length: 2785 Lauren Bricker Lauren Bricker Computer Science & Engineering Department, University of Washington, FR-35, Seattle, WA 98195 USA Click here if you need a clue.",
+    "link": [
+        "http://www.cs.washington.edu/",
+        "http://www.cac.washington.edu:1183/",
+        "http://www.cs.washington.edu/area/"
+    ],
+    "ground_truth": "student"
+}

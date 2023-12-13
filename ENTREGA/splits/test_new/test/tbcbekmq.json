@@ -1,0 +1,10 @@
+{
+    "Title": "GRAIL: Theses",
+    "Body": "Reconstruction of Surfaces from Planar Contours , David Meyers, Ph.D. Thesis, 1994.",
+    "link": [
+        "",
+        "ftp://ftp.cs.washington.edu/tr/1995/07/UW-CSE-95-07-04.PS.Z",
+        "ftp://ftp.cs.washington.edu/pub/graphics/LounsPhd.ps.Z"
+    ],
+    "ground_truth": "unknow"
+}

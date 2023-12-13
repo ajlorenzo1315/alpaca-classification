@@ -1,0 +1,10 @@
+{
+    "Title": " CS100 Home Page Spring 1996 ",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Sunday, 24-Nov-96 22:03:12 GMT Content-Type: text/html Content-Length: 1679 Last-Modified: Friday, 19-Apr-96 20:53:08 GMT CS100 Home Page Spring 1996 CS100 Home Page Spring 1996 Message of the Day Welcome to the CS100 Home Page.",
+    "link": [
+        "http://www.cs.cornell.edu/Info/Courses/Spring-96/CS100/info/instructors.html",
+        "http://www.cs.cornell.edu/Info/Courses/Spring-96/CS100/info/tas.html",
+        "http://www.cs.cornell.edu/Info/Courses/Spring-96/CS100/info/officehours.html"
+    ],
+    "ground_truth": "course"
+}

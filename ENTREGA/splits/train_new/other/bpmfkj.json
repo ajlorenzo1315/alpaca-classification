@@ -1,0 +1,10 @@
+{
+    "Title": "CS 537 - Memory Management",
+    "Body": "Assume all blocks and holes have sizes which are powers of two (so requests are always rounded up to the next power of two) and each block or hole starts at an address that is an exact multiple of its size.",
+    "link": [
+        "#core",
+        "#core_algorithms",
+        "#core_compaction"
+    ],
+    "ground_truth": "other"
+}

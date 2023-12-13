@@ -1,0 +1,10 @@
+{
+    "Title": "22C:295 Seminar in artificial intelligence - Spring 1995",
+    "Body": "Analysis of the problems, suggestion and discussion of  solutions What are the obstacles in effectively parallelizing deduction strategies; How the choice of the deduction strategy, the type of architecture and the type of parallel computation interact in determining the issues, including e.g. size and degree of dynamicity of the data base of clauses, shared memory versus distributed memory and conflicts between parallel inferences; Focus on contraction-based strategies.",
+    "link": [
+        "http://www.cs.uiowa.edu/~bonacina/",
+        "file://ftp.cs.uiowa.edu/pub/bonacina/papers/JAR94parallelism.ps.Z",
+        "http://www.mcs.anl.gov/home/mccune/ar/jar/"
+    ],
+    "ground_truth": "unknow"
+}

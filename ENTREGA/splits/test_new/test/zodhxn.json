@@ -1,0 +1,10 @@
+{
+    "Title": " CS 736 Paper Reading Schedule",
+    "Body": "Summary This schedule refers to the numbers in the reading list .",
+    "link": [
+        "http://www.cs.wisc.edu/~bart/cs736-1.html",
+        "http://www.cs.wisc.edu/~bart/cs736.f96/reading_list.html",
+        "http://www.cs.wisc.edu/~bart/cs736.f96/reading_list.html#denning"
+    ],
+    "ground_truth": "unknow"
+}

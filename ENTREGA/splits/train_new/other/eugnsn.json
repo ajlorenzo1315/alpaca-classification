@@ -1,0 +1,10 @@
+{
+    "Title": "GRAIL: Publications (by year)",
+    "Body": "Date: Tue, 10 Dec 1996 03:30:34 GMT Server: NCSA/1.4.2 Content-type: text/html GRAIL: Publications (by year) Listings sorted by year Click on a publication's title to view its abstract and to access links to any associated on-line documents.",
+    "link": [
+        "http://www.cs.washington.edu/research/projects/grail2/www/",
+        "http://www.cs.washington.edu/research/projects/grail2/www/pub/abstracts.html",
+        "http://www.cs.washington.edu/research/projects/grail2/www/pub/pub-title.html"
+    ],
+    "ground_truth": "other"
+}

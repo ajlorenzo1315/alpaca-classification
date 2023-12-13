@@ -1,0 +1,10 @@
+{
+    "Title": " Arthur Alexander Reyes",
+    "Body": "The discipline of knowledge acquisition has sought to provide domain experts with tools by which they can evolve domain models (distinguished from domain theories by not having the requirement for declarative semantics) without assistance from knowledge engineers.",
+    "link": [
+        "http://www.ics.uci.edu/~artreyes/Multimedia/Images/poohgang_small.gif",
+        "http://www.ics.uci.edu/~taylor/software/soft.html",
+        "http://www.ics.uci.edu/~djr"
+    ],
+    "ground_truth": "student"
+}

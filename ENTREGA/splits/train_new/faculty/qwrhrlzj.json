@@ -1,0 +1,10 @@
+{
+    "Title": "Raymond J. Mooney's Homepage",
+    "Body": "In December 1987, I completed my Ph.D. thesis in the Explanation-Based Learning Group under the direction of Prof. Gerald Dejong and then began my position here in The Department of Computer Sciences at the The University of Texas at Austin .",
+    "link": [
+        "http://www.cs.utexas.edu/",
+        "http://www.utexas.edu/",
+        "http://www.ece.uiuc.edu/"
+    ],
+    "ground_truth": "faculty"
+}

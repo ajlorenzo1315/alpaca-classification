@@ -1,0 +1,10 @@
+{
+    "Title": " Laura Sabel ",
+    "Body": "Versions appear in: Proceedings of the 13th Annual Symposium on Principles of Distributed Computing, August 1994.",
+    "link": [
+        "http://www-cse.ucsd.edu:80/users/marzullo/",
+        "http://www.cs.cornell.edu/Info/People/chandra/FailureDetectionPapers.html",
+        "http://www.cs.cornell.edu/home/ftp/pub/sabel/thesis.ps"
+    ],
+    "ground_truth": "student"
+}

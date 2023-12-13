@@ -1,0 +1,10 @@
+{
+    "Title": " Amit's personal page ",
+    "Body": "I run about 30 miles a week at the shell , in winter, and outdoors in summer, and dream of running a marathon some day.",
+    "link": [
+        "http://www.cs.wisc.edu/",
+        "http://www.cs.wisc.edu/~cs302",
+        "http://www.wisc.edu/recsports/facilities/serf.html"
+    ],
+    "ground_truth": "other"
+}

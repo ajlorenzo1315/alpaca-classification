@@ -1,0 +1,10 @@
+{
+    "Title": "CS 302 Section 70 Lecture Notes - Week 3,Part 2",
+    "Body": "The end of the loop is indicated by the END DO statement.",
+    "link": [
+        "http://www.cs.wisc.edu/~tick/cs302.html#text",
+        "http://www.cs.wisc.edu/~bestor/bestor.html",
+        "mailto:bestor@cs.wisc.edu"
+    ],
+    "ground_truth": "other"
+}

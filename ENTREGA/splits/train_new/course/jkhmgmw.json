@@ -1,0 +1,10 @@
+{
+    "Title": "Florida Tech, CS:  Software Development I (Fall 1996)",
+    "Body": "Ada Core Technologies developers of the GNU Ada Translator (GNAT); How to use the GNAT [local copy; 73K bytes] ada-mode for Emacs aimap Perl script for case of identifers How to run GNAT on Tuck Ada Information Clearinghouse Home Page The special interest group on Ada has a WWW page World Wide Web Home Page for ACM SIGAda that contains information about SIGAda and pointers to other source of information about Ada including Ada Related Jobs Information about Augusta Ada Bryan The programs appearing in Programming and Problem Solving with Ada by Dale, Weems, and McCormick.",
+    "link": [
+        "http://www.cs.fit.edu/~ryan/",
+        "http://www.cs.fit.edu/~ryan/",
+        "mailto:ryan@cs.fit.edu"
+    ],
+    "ground_truth": "course"
+}

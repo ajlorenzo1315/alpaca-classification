@@ -1,0 +1,10 @@
+{
+    "Title": "EECS 373",
+    "Body": "of the lab.",
+    "link": [
+        "http://www.eecs.umich.edu/under-couns/EECSHOMEPAGE/html/courses.html#373",
+        "http://ai.eecs.umich.edu/people/wpb/373/chart.html",
+        "http://ai.eecs.umich.edu/people/wpb/373/format.html"
+    ],
+    "ground_truth": "course"
+}

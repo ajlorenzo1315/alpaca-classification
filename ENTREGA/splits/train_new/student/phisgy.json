@@ -1,0 +1,10 @@
+{
+    "Title": "Katherine Guo's Home Page ",
+    "Body": "To appear in the proceedings of the 15th IEEE Symposium on Reliable Distributed Systems , Niagara-on-the-Lake, Canada, October 23-25, 1996.",
+    "link": [
+        "mailto:kguo@cs.cornell.edu",
+        "http://www.cs.cornell.edu/Info/People/students.html",
+        "http://www.cornell.edu"
+    ],
+    "ground_truth": "student"
+}

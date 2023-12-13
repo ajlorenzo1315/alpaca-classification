@@ -1,0 +1,10 @@
+{
+    "Title": " CS414 Course Material ",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Monday, 16-Dec-96 21:51:43 GMT Content-Type: text/html Content-Length: 2145 Last-Modified: Tuesday, 13-Aug-96 13:44:44 GMT CS414 Course Material CS414 Course Material Introduction to operating systems.",
+    "link": [
+        "notes/class1.ps",
+        "notes/class2.ps",
+        "notes/class3.ps"
+    ],
+    "ground_truth": "unknow"
+}

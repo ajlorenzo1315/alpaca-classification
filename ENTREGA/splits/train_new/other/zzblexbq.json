@@ -1,0 +1,10 @@
+{
+    "Title": "Kurt's Oregon Surf/Ski Report",
+    "Body": "A more detailed interface to the Tides Predictor Newport, Oregon Surf Report - a great page with lot of content: Plot of wave heights for past 14 days.",
+    "link": [
+        "http://www.cs.uoregon.edu/~kurtw/",
+        "http://www.cs.uoregon.edu/~kurtw/research/",
+        "http://www.cs.uoregon.edu/~kurtw/surf.html"
+    ],
+    "ground_truth": "other"
+}

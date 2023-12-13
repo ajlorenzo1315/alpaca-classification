@@ -1,0 +1,10 @@
+{
+    "Title": "Jean Schweitzer - Home Page",
+    "Body": "Here is a postscript file containing my dissertation .",
+    "link": [
+        "http://www.cs.washington.edu/",
+        "http://www.washington.edu/",
+        "http://www.seanet.com/Seattle/SeattleHome.html"
+    ],
+    "ground_truth": "student"
+}

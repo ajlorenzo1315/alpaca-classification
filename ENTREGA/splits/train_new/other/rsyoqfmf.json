@@ -1,0 +1,6 @@
+{
+    "Title": " Lecture notes - Chapter 2 - SAL",
+    "Body": "/* do statement until expression is TRUE */ repeat if (a < b) then a := a + 1; if (a > b) then a := a - 1; until a = b;",
+    "link": [],
+    "ground_truth": "other"
+}

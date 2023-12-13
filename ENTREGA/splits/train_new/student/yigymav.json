@@ -1,0 +1,10 @@
+{
+    "Title": " Robert Shaffer's Home Page",
+    "Body": "Date: Tue, 26 Nov 1996 16:49:29 GMT Server: Apache/1.1.1 Content-type: text/html Content-length: 1414 Last-modified: Wed, 16 Oct 1996 16:01:44 GMT Robert Shaffer's Home Page Robert Shaffer's Home Page Robert Shaffer email: shaffer@cs.ualberta.ca Here's a Bit About Me...",
+    "link": [
+        "http://www.cs.ualberta.ca/people/grad/aiff/shaffer.aiff",
+        "http://www.ualberta.ca/CNS/",
+        "http://www.ualberta.ca/HELP/"
+    ],
+    "ground_truth": "student"
+}

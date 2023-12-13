@@ -1,0 +1,10 @@
+{
+    "Title": "CS367 Sample Code ",
+    "Body": "In this case you would enter the following command at the UNIX prompt, and replace the directory with the name of the directory shown in parentheses in the list above.",
+    "link": [
+        "#howto",
+        "http://www.cs.wisc.edu/~cs367-4/working/working.html",
+        "http://www.cs.wisc.edu/~cs367-4/samples/queue/readme"
+    ],
+    "ground_truth": "other"
+}

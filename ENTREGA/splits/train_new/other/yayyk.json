@@ -1,0 +1,8 @@
+{
+    "Title": " Mini Resume ",
+    "Body": "Fall 1985 - Spring 1990: University of California at Berkeley, where I received my bachelor's degree with honors in Computer Science.",
+    "link": [
+        "ftp://shrimp.cs.washington.edu/pub/chou/pippin.ps.Z"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "About the Design Research Institute",
+    "Body": "DRI Partners The Design Research Institute is a partnership of industry, academia, and government.",
+    "link": [
+        "http://www.tc.cornell.edu/ctc.html",
+        "#icap",
+        "#prototyping"
+    ],
+    "ground_truth": "other"
+}

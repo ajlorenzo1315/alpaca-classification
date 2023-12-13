@@ -1,0 +1,10 @@
+{
+    "Title": "About the Graduate Program",
+    "Body": "This seminar began with a survey of some of the basic issues in distributed databases and object-oriented databases.",
+    "link": [
+        "http://www.cs.umd.edu/Grad/Request.html",
+        "http://www.ads-rr.umd.edu/Grad/appreq.html",
+        "http://www.cs.umd.edu/Grad/distgrad.html"
+    ],
+    "ground_truth": "other"
+}

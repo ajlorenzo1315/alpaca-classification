@@ -1,0 +1,10 @@
+{
+    "Title": "About the UW Astro Dept",
+    "Body": "Server: Netscape-Communications/1.1 Date: Wednesday, 11-Dec-96 23:02:32 GMT Last-modified: Wednesday, 16-Oct-96 18:47:53 GMT Content-length: 1332 Content-type: text/html About the UW Astro Dept About the Astronomy Department Annual Report Department Directory Graduate Program Undergraduate Program Woodman Astronomical Library Washburn Observatory A little bit about Madison Visiting the department?",
+    "link": [
+        "http://www.astro.wisc.edu/ObsRept.html",
+        "http://www.astro.wisc.edu/directory.html",
+        "http://www.astro.wisc.edu/grad_info.html"
+    ],
+    "ground_truth": "other"
+}

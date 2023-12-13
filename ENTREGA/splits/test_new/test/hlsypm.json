@@ -1,0 +1,10 @@
+{
+    "Title": "random",
+    "Body": "Date: Tue, 10 Dec 1996 21:27:13 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Fri, 22 Nov 1996 21:34:37 GMT Content-length: 1586 random random The THOUGHTS DETECTING MACHINE , and more about the MACHINE .",
+    "link": [
+        "http://www.cs.washington.edu/homes/map/thoughts-detecting-machine",
+        "http://www.cs.washington.edu/homes/map/thoughts-detecting-machine-2",
+        "http://www.cs.washington.edu/homes/map/thoughts-detecting-machine-3"
+    ],
+    "ground_truth": "unknow"
+}

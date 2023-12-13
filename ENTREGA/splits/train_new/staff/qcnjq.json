@@ -1,0 +1,10 @@
+{
+    "Title": "Terrance E. Boult",
+    "Body": "To learn more about my research see TBoult's Research Page I am also an ex-Columbia-faculty (86-94), an ex-Columbia-graduate student (MS in CS 83-84, Ph.D. in CS 84-86) and an ex-Columbia-undergraduate (B.S.",
+    "link": [
+        "http://www.cs.columbia.edu/~tboult/tboult-color.gif",
+        "http://www.cs.columbia.edu/",
+        "http://www.cc.columbia.edu"
+    ],
+    "ground_truth": "staff"
+}

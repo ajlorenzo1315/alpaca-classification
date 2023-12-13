@@ -1,0 +1,10 @@
+{
+    "Title": "PARALLEL & DISTRIBUTED OPERATING SYSTEMS GROUP",
+    "Body": "We take a pragmatic approach by focusing on three primary goals: simplifying the parallel and distributed programming process, building efficient distributed systems with off-the-shelf technology that also can be used for parallel supercomputing, and building scalable, flexible, high-performance storage services for these distributed systems.",
+    "link": [
+        "http://www.pdos.lcs.mit.edu/",
+        "http://www.pdos.lcs.mit.edu/~kaashoek",
+        "http://larch-www.lcs.mit.edu:8001/~corbato"
+    ],
+    "ground_truth": "project"
+}

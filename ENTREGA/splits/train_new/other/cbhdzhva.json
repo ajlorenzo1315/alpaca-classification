@@ -1,0 +1,10 @@
+{
+    "Title": " Andrew Prock",
+    "Body": "It is a lot colder here than in San Diego, but just a bit warmer than Minneapolis.",
+    "link": [
+        "http://www.intellicast.com/weather/msp/wxmsp.html",
+        "http://designstein.com/gmcva/hi_res.html",
+        "http://informns.k12.mn.us/~0001do/south/south.html"
+    ],
+    "ground_truth": "other"
+}

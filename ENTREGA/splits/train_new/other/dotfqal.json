@@ -1,0 +1,10 @@
+{
+    "Title": "A Powerful Clone Overlap Test for Restriction Fragment Mapping",
+    "Body": "The main result is an overlap test which is argued to be powerful in a stochastic model of the process in the sense of admitting the lowest false negative rate for a given rate of false positives.",
+    "link": [
+        "node1.html",
+        "node1.html",
+        "node1.html#SECTION00010000000000000000"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "UCLA Parallel Computing Laboratory",
+    "Body": "Date: Wed, 20 Nov 1996 19:30:45 GMT Server: NCSA/1.4.2 Content-type: text/html UCLA Parallel Computing Laboratory Ongoing Research Overview Maisie : our parallel simulation language MVP E : a visual programming environment for Maisie SESAME : System Software Measurement and Evaluation.",
+    "link": [
+        "http://may.cs.ucla.edu//",
+        "http://may.cs.ucla.edu/projects/",
+        "http://may.cs.ucla.edu/projects/maisie/"
+    ],
+    "ground_truth": "project"
+}

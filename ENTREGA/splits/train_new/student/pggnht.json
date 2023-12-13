@@ -1,0 +1,10 @@
+{
+    "Title": "The Craig Web Experience",
+    "Body": "Here are some photos from the ball.",
+    "link": [
+        "http://www.cs.washington.edu/",
+        "http://www.washington.edu/",
+        "http://www.undergrad.math.uwaterloo.ca/~cskaplan/"
+    ],
+    "ground_truth": "student"
+}

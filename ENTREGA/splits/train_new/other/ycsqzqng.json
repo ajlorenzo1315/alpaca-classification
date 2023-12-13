@@ -1,0 +1,10 @@
+{
+    "Title": "The Ill-Posed Linear Complementarity Problem ",
+    "Body": "For the case when the underlying matrix M of the LCP is in the class Q_0 (LCP solvable if feasible), the RLCP can be solved by a quadratic program, which is convex if M is positive semidefinite.",
+    "link": [
+        "http://www.cs.wisc.edu/Dienst/Repository/2.0/Body/ncstrl.uwmadison%2fMP-TR-95-15/postscript",
+        "http://www.cs.wisc.edu/Dienst/UI/2.0/Print/ncstrl.uwmadison%2fMP-TR-95-15",
+        "http://www.cs.wisc.edu/Dienst/UI/2.0/Search"
+    ],
+    "ground_truth": "other"
+}

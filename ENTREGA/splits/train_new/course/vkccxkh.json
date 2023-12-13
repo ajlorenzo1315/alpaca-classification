@@ -1,0 +1,10 @@
+{
+    "Title": "CSE 490 Home Page",
+    "Body": "Date: Thu, 21 Nov 1996 22:20:53 GMT Server: NCSA/1.4.2 Content-type: text/html CSE 490 Home Page Welcome to the CSE 490 course web, containing a bevy of information relating to the course.",
+    "link": [
+        "mailto:bswest@cs.washington.edu",
+        "http://www.cs.washington.edu/education/courses/490ani/about/personnel.html",
+        "http://www.cs.washington.edu/education/courses/490ani/about/syllabus.html"
+    ],
+    "ground_truth": "course"
+}

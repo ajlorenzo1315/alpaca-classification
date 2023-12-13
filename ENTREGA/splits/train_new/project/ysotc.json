@@ -1,0 +1,10 @@
+{
+    "Title": "The Laboratory for Perceptual Robotics",
+    "Body": "Facilities The Laboratory for Perceptual Robotics is equipped with two General Electric P50 robots, two GE A4s , a Zebra Zero, and a customized MRI mobile platform.",
+    "link": [
+        "http://piglet.cs.umass.edu:4321/sound/welcome.au",
+        "http://www.cs.umass.edu/",
+        "http://www.umass.edu/"
+    ],
+    "ground_truth": "project"
+}

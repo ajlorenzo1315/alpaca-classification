@@ -1,0 +1,10 @@
+{
+    "Title": "Project GIMME",
+    "Body": "Date: Wed, 20 Nov 1996 20:02:08 GMT Server: Apache/1.1b3 Content-type: text/html Project GIMME GIMME -- Graphical Interfaces for MultiMedia Environments directed by Prof. Joseph A. Konstan Department of Computer Science University of Minnesota Project GIMME explores all aspects of graphical user interfaces and the application of user interface technology to multimedia systems and applications.",
+    "link": [
+        "http://www.cs.umn.edu/~konstan",
+        "http://www.cs.umn.edu",
+        "http://www.umn.edu"
+    ],
+    "ground_truth": "project"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": " Kristen Summers ",
+    "Body": "My long-term goal is to provide support for sophisticated electronic document manipulation tools for indexing, browsing, linking, etc.",
+    "link": [
+        "http://www.cs.cornell.edu/Info/Projects/icap.html",
+        "http://cs-tr.cs.cornell.edu:80/TR/CORNELLCS:TR94-1452?abstract",
+        "http://www.cs.cornell.edu/Info/People/summers/classify.html"
+    ],
+    "ground_truth": "student"
+}

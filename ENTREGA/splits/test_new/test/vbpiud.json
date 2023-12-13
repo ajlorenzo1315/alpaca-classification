@@ -1,0 +1,10 @@
+{
+    "Title": "\nJim Kurose's home page\n",
+    "Body": "He is currently a Professor of Computer Science at the University of Massachusetts, where he is also co-director of the Networking Research Laboratory and director of the Multimedia Systems Laboratory.",
+    "link": [
+        "http://www.wesleyan.edu",
+        "http://www.cs.columbia.edu",
+        "http://www.cs.umass.edu/"
+    ],
+    "ground_truth": "unknow"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Weidong Cai's WWW Home Page",
+    "Body": "Date: Tue, 26 Nov 1996 18:00:54 GMT Server: NCSA/1.4.1 Content-type: text/html Last-modified: Wed, 23 Oct 1996 20:36:54 GMT Content-length: 1675 Weidong Cai's WWW Home Page Welcome to Weidong Cai's WWW Home Page Current Link Dipartimento di Computer Science at the College of William and Mary in Virginia.",
+    "link": [
+        "http://www.cs.wm.edu",
+        "http://www.wm.edu",
+        "mailto:wdc@cs.wm.edu"
+    ],
+    "ground_truth": "student"
+}

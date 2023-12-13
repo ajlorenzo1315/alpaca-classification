@@ -1,0 +1,10 @@
+{
+    "Title": "Harmful If Swallowed",
+    "Body": "Harmful If Swallowed Harmful If Swallowed Click to see Harmful if Swallowed home page.",
+    "link": [
+        "http://www.cs.cornell.edu/Info/Projects/HiS/home.html",
+        "ftp://ftp.cs.cornell.edu/pub/brd/harmful-if-swallowed/demo-tape-label.ps.Z",
+        "ftp://ftp.cs.cornell.edu/pub/brd/harmful-if-swallowed/cassette-label-dat.ps.Z"
+    ],
+    "ground_truth": "other"
+}

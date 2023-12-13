@@ -1,0 +1,10 @@
+{
+    "Title": "Advice for Graduate Students",
+    "Body": "The hope, of course, is that your advisor will get a big research grant that will support you as an RA for your graduate career.",
+    "link": [
+        "http://www.cs.utexas.edu/users/gracs",
+        "http://www.cs.utexas.edu",
+        "http://communication.ucsd.edu/pagre/grad-school.html"
+    ],
+    "ground_truth": "other"
+}

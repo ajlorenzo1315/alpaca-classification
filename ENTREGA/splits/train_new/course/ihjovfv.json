@@ -1,0 +1,10 @@
+{
+    "Title": "CPS291 Home Page",
+    "Body": "The purpose of this course is two-fold: Become familiar with Internet protocols and resources .",
+    "link": [
+        "http://web.cps.msu.edu/~cps291/glossary.html#protocols",
+        "http://web.cps.msu.edu/~cps291/glossary.html#resources",
+        "http://web.cps.msu.edu/~pattona"
+    ],
+    "ground_truth": "course"
+}

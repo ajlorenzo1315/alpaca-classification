@@ -1,0 +1,10 @@
+{
+    "Title": " University of Wisconsin - Artificial Intelligence Seminars ",
+    "Body": "4:00 pm in 311 Psychology Sep 20  Steve Seitz         View Morphing ( Abstract ) Sep 27\tKevin Cherkauer     Growing Simpler Decision Trees to Facilitate Knowledge Discovery ( Abstract ) Oct  4  David Finton        Importance-Based Feature Extraction for Reinforcement Learning ( Abstract ) Oct 11 Oct 18 Oct 25 Nov  1 Nov  5  Richard K. Belew    Competitive  Co-evolution ( Abstract ) NOTE: Joint seminar with Chaos/Complexity SPECIAL DAY, TIME, AND PLACE: Tue.",
+    "link": [
+        "http://www.cs.wisc.edu/~shavlik/aisem//~shavlik/uwai-mailing-lists.html",
+        "http://www.cs.wisc.edu/~shavlik/aisem/abstracts/1996.3.fall/massaro.html",
+        "http://www.cs.wisc.edu/~shavlik/aisem/abstracts/1996.3.fall/seitz.html"
+    ],
+    "ground_truth": "other"
+}

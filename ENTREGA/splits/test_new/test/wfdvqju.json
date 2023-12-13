@@ -1,0 +1,8 @@
+{
+    "Title": " Deformable Contours: Modeling, Extraction, Detection and Classification ",
+    "Body": "Under the Bayesian framework, contour extraction turns into posterior estimation, which is in turn equivalent to energy minimization in a generalized active contour model.",
+    "link": [
+        "http://www.cs.wisc.edu/computer-vision/projects/gsnake.html"
+    ],
+    "ground_truth": "unknow"
+}

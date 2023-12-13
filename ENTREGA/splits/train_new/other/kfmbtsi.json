@@ -1,0 +1,10 @@
+{
+    "Title": " Trefethen numerical ODE/PDE textbook ",
+    "Body": "Because of figures and other complications, not all of the book is in PostScript, so it would not be possible to make it fully available on the Web.",
+    "link": [
+        "introductory.ps",
+        "excerpts.ps",
+        "http://www.cs.cornell.edu/home/lnt"
+    ],
+    "ground_truth": "other"
+}

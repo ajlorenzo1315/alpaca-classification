@@ -1,0 +1,10 @@
+{
+    "Title": "Research Centers",
+    "Body": "Date: Wed, 11 Dec 1996 23:15:55 GMT Server: NCSA/1.5 Content-type: text/html Research Centers College of Engineering University of Wisconsin - Madison Research Centers The UW-Madison College of Engineering is a national and international leader in the establishment and support of various interdisciplinary research centers.",
+    "link": [
+        "http://www.engr.wisc.edu/centers//",
+        "http://www.engr.wisc.edu/groups/",
+        "http://www.engr.wisc.edu/centers/asc/"
+    ],
+    "ground_truth": "other"
+}

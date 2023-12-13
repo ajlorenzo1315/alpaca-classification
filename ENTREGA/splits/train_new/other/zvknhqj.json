@@ -1,0 +1,10 @@
+{
+    "Title": "Cornell Rugby",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Sunday, 24-Nov-96 22:15:08 GMT Content-Type: text/html Content-Length: 3037 Last-Modified: Friday, 25-Oct-96 16:34:01 GMT Cornell Rugby Fall 1996 Men's Schedule | Women's Schedule | Women's Practice Schedule | Johnson School Schedule Season Results and Standings | Strength Training Program Get in Touch!",
+    "link": [
+        "http://www.cs.cornell.edu/Info/People/kozen/rugby/schedule.html",
+        "http://lancelot.bio.cornell.edu/bruce/women-rugby-schedule-Fall96.html",
+        "http://www.cs.cornell.edu/Info/People/kozen/rugby/womensschedule.html"
+    ],
+    "ground_truth": "other"
+}

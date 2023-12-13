@@ -1,0 +1,8 @@
+{
+    "Title": "\nSafeware: System Safety and Computers\n",
+    "Body": "The need for and role of humans in automated systems PART 2: Introduction to System Safety (50 pages) Foundations of system safety (systems theory and systems engineering) Historical development Basic concepts (hazard analysis, design for safety, management), Software system safety Cost and effectiveness of system safety Other approaches to safety (industrial engineering, reliability engineering).",
+    "link": [
+        "http://www.cs.washington.edu/people/faculty/leveson.html"
+    ],
+    "ground_truth": "other"
+}

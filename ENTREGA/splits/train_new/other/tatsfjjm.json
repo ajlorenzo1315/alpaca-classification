@@ -1,0 +1,10 @@
+{
+    "Title": " Cornell CS GNU page ",
+    "Body": "You can also find package specific installation procedures.",
+    "link": [
+        "http://www.cs.cornell.edu/home/prakas/home.html",
+        "http://www.cs.cornell.edu/home/prakas/gnu/annc/",
+        "http://www.cs.cornell.edu/home/prakas/gnu/gpl.html"
+    ],
+    "ground_truth": "other"
+}

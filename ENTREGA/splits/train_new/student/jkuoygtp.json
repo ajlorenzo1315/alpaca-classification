@@ -1,0 +1,10 @@
+{
+    "Title": "Sugata Mukhopadhyay's home page",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Wednesday, 20-Nov-96 19:47:59 GMT Content-Type: text/html Content-Length: 2224 Last-Modified: Tuesday, 03-Sep-96 14:23:03 GMT Sugata Mukhopadhyay's home page Sugata Mukhopadhyay Welcome to my home page!",
+    "link": [
+        "http://www.cs.cornell.edu/",
+        "http://www.cornell.edu/",
+        "http://www.cs.cornell.edu/Info/Projects/zeno/zeno.html"
+    ],
+    "ground_truth": "student"
+}

@@ -1,0 +1,9 @@
+{
+    "Title": " Home Page of Sheldon Klein ",
+    "Body": "The basic semantic units are objects and relations.",
+    "link": [
+        "mailto:sklein@cs.wisc.edu",
+        "mailto:pubs@cs.wisc.edu"
+    ],
+    "ground_truth": "faculty"
+}

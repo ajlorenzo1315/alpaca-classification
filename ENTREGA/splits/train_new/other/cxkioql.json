@@ -1,0 +1,9 @@
+{
+    "Title": " CS100 Program 2 ",
+    "Body": "Thus, in the checklist of \"What to hand in\", delete the item beginning \"A listing of the file choose.c ...\", and, in the following item, note that \"pascal.c\" will now also contain your definition of \"choose\".",
+    "link": [
+        "ftp://ftp.cs.cornell.edu/pub/courses/cs100-s96/Program2.sea.hqx",
+        "ftp://ftp.cs.cornell.edu/pub/courses/cs100-s96/Program2choose.sea.hqx"
+    ],
+    "ground_truth": "other"
+}

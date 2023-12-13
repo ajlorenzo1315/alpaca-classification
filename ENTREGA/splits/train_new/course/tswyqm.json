@@ -1,0 +1,10 @@
+{
+    "Title": " Comp 202 Information ",
+    "Body": "Final Note: If you are planning to take this course, then I suggest that you read the first 13 chapters of the textbook BEFORE the semester begins.",
+    "link": [
+        "http://www.cs.unc.edu/~tulpule/202.html",
+        "http://www.cs.unc.edu/~anderson/teach/comp202/syl.ps.Z",
+        "http://www.cs.unc.edu/admin/Courses/descriptions/122.html"
+    ],
+    "ground_truth": "course"
+}

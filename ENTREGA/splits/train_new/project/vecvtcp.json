@@ -1,0 +1,10 @@
+{
+    "Title": "Image Analysis Laboratory",
+    "Body": "Date: Tue, 26 Nov 1996 00:40:54 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Mon, 25 Nov 1996 15:47:52 GMT Content-length: 1280 Image Analysis Laboratory Image Analysis Laboratory Under Construction Research The current focus is on processing of bi-level images such as text pages and bar codes.",
+    "link": [
+        "http://www.cs.sunysb.edu/~theo/papers.html",
+        "http://www.cs.sunysb.edu/~theo/index.html",
+        "http://www.cs.sunysb.edu/~hongwei"
+    ],
+    "ground_truth": "project"
+}

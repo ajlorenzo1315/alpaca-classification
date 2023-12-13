@@ -1,0 +1,10 @@
+{
+    "Title": "\nEvaluating predicated and speculative execution on Alpha\n",
+    "Body": "Will they have their own niches, e.g., is predicated execution mainly useful for small branches and speculative for large branches?",
+    "link": [
+        "http://www.cs.washington.edu.homes/dbc1",
+        "http://www.cs.washington.edu/homes/madani",
+        "http://www.cs.washington.edu/homes/kapu"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "GSNAKE API",
+    "Body": "ITI and NTU gives no warranty, express, implied, or statutary for the software and/or documentation provided, including, without limitation, waranty of merchantibility and warranty of fitness for a particular purpose.",
+    "link": [
+        "http://www.iti.gov.sg/>Information Technology Institute</a>, Singapore, and the School of Applied Science, <a href=",
+        "mailto:asschan@ntu.ac.sg",
+        "http://www.iti.gov.sg/iti_people/iti_staff/kflai/kflai.html>Dr Kok F. Lai</a>, Information Technology Institute, Singapore, <a href=mailto:kflai@iti.gov.sg>kflai@iti.gov.sg</a>.\n</ul>\n<center><IMG SRC="
+    ],
+    "ground_truth": "other"
+}

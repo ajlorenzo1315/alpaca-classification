@@ -1,0 +1,10 @@
+{
+    "Title": "EECS 598",
+    "Body": "Date: Tue, 26 Nov 1996 19:09:06 GMT Server: Apache/1.1-dev Content-type: text/html Set-Cookie: Apache=gs3593428490353473; path=/ EECS 598 This page contains the latest information on EECS598 - make it a point to read it regularly, because information is subject to change.",
+    "link": [
+        "http://www.eecs.umich.edu/~tnm/eecs598f96/hwk1.html",
+        "http://www.eecs.umich.edu/~tnm/eecs598f96/hwk2.html",
+        "http://www.eecs.umich.edu/~tnm/eecs598f96/hwk3.html"
+    ],
+    "ground_truth": "course"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Colophon and Statistics for www.cs.wisc.edu",
+    "Body": "Statistics These are the statistics records from our server.",
+    "link": [
+        "http://www.cs.wisc.edu/forms/mailwww.html",
+        "http://cgi.cs.wisc.edu/",
+        "http://cgi.cs.wisc.edu/logs"
+    ],
+    "ground_truth": "other"
+}

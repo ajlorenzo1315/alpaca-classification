@@ -1,0 +1,10 @@
+{
+    "Title": "01:198:111 Introduction to Computer\nScience",
+    "Body": "Date: Tue, 26 Nov 1996 18:53:51 GMT Server: NCSA/1.5.2 Last-modified: Thu, 01 Feb 1996 16:04:09 GMT Content-type: text/html Content-length: 2061 01:198:111 Introduction to Computer Science 01:198:111 Introduction to Computer Science Spring, 1996 Credits: 4 Objectives: To provide the requisite foundation for future courses in Computer Science by developing the necessary programming and problem solving skills (structured problem solving, programming in a high-level language, testing, documentation and style) with a brief introduction to several key areas of computer science: namely, Searching and Sorting, Data Structures, Numerical Computations and Machine Representation.",
+    "link": [
+        "http://athos.rutgers.edu/DCS_Library/111/Syllabus.html",
+        "http://athos.rutgers.edu/DCS_Library/111/Parameters.html",
+        "http://athos.rutgers.edu/DCS_Library/111/Procedures.html"
+    ],
+    "ground_truth": "course"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Daniel Maskit",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Thursday, 21-Nov-96 22:01:35 GMT Content-Type: text/html Content-Length: 2734 Last-Modified: Friday, 11-Oct-96 21:19:04 GMT Daniel Maskit Daniel Maskit Contact Information E-mail: danielm@scp.caltech.edu S-mail: Caltech 256-80, Pasadena , CA 91125 Phone Numbers Work Phone: (818) 395-3903 Home Phone: (213) 258-7890 Often seen in the company of my fiancee Kelly Smith .",
+    "link": [
+        "http://www.ugcs.caltech.edu/htbin/exact?danielm@scp.caltech.edu",
+        "http://pubweb.parc.xerox.com/map/color=1/db=usa/features=alltypes/ht=3.80/lat=34.26/lon=-118.53/wd=7.50",
+        "http://www.cs.caltech.edu/~danielm/kss.gif"
+    ],
+    "ground_truth": "student"
+}

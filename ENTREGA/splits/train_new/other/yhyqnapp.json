@@ -1,0 +1,10 @@
+{
+    "Title": "ZPL Program Walk-Through",
+    "Body": "1 /*                      Jacobi                                  */ 2 3 program jacobi; 4 5 config var n       : integer = 10;                -- Declarations 6            delta   : float   = 0.0001; 7 8 region     R       = [1..n, 1..n]; 9 10 direction  north   = [-1, 0]; south = [ 1, 0]; 11            east    = [ 0, 1]; west  = [ 0,-1]; 12 13 procedure jacobi();                               -- Entry point 14 var A, Temp : [R] float; 15     err     :     float; 16 17              begin 18 [R]              A := 0.0;                        -- Initialization 19 [north of R]     A := 0.0; 20 [east  of R]     A := 0.0; 21 [west  of R]     A := 0.0; 22 [south of R]     A := 1.0; 23 24 [R]              repeat                           -- Main body 25                      Temp := (A@north+A@east+A@west+A@south) / 4.0; 26                      err  := max<< abs(A-Temp); 27                      A    := Temp; 28                  until err < delta; 29 30 [R]              writeln(A);                      -- Output result 31              end; Figure 1: ZPL program for the Jacobi computation.",
+    "link": [
+        "#region",
+        "#region",
+        "#var"
+    ],
+    "ground_truth": "other"
+}

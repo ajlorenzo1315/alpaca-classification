@@ -1,0 +1,10 @@
+{
+    "Title": "Alec Wolman's home page.",
+    "Body": "Latency Analysis of TCP on an ATM Network by Wolman, Voelker, and Thekkath.",
+    "link": [
+        "http://www.cs.indiana.edu/finger/gateway?wolman@cs.washington.edu",
+        "http://www.cs.washington.edu/",
+        "http://www.cac.washington.edu:1183/"
+    ],
+    "ground_truth": "student"
+}

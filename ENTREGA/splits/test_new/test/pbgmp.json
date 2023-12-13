@@ -1,0 +1,10 @@
+{
+    "Title": "David Brogan Information Page",
+    "Body": "I work in the Animation Lab here at Georgia Tech.",
+    "link": [
+        "http://www.cc.gatech.edu/gvu/gvutop.html",
+        "http://www.cc.gatech.edu/gvu/gvutop.html",
+        "http://www.cc.gatech.edu/gvu/animation/Animation.html"
+    ],
+    "ground_truth": "unknow"
+}

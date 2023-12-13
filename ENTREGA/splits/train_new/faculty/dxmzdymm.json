@@ -1,0 +1,10 @@
+{
+    "Title": "Home Page for Ibrahim Matta\n",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Thursday, 21-Nov-96 19:21:26 GMT Content-Type: text/html Content-Length: 2347 Last-Modified: Friday, 08-Nov-96 21:26:12 GMT Home Page for Ibrahim Matta Ibrahim Matta Assistant Professor College of Computer Science Northeastern University Research Interests: Integrated Services Networks, Routing Protocols, Modeling and Performance Analysis.",
+    "link": [
+        "http://www.ccs.neu.edu/home/matta/publications.html",
+        "http://www.ccs.neu.edu/home/matta/Papers/dissertation.ps",
+        "http://www.ccs.neu.edu/home/matta/courses/com1337.html"
+    ],
+    "ground_truth": "faculty"
+}

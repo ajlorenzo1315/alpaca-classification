@@ -1,0 +1,10 @@
+{
+    "Title": "Yuri Gurevich: Home Page",
+    "Body": "Date: Mon, 25 Nov 1996 23:13:41 GMT Server: Apache/1.1-dev Content-type: text/html Set-Cookie: Apache=gs355832848963621165; path=/ Yuri Gurevich: Home Page Yuri Gurevich Professor of Computer Science at the University of Michigan Research Main Projects Publications Vita Family Links Zoe Gurevich Hava Gurevich Naomi Gurevich Contact Information Email: gurevich@umich.edu EECS Department University of Michigan Ann Arbor, MI 48109-2122 Tel: +1 313 763-4526 Last updated: Thursday, 07-Nov-96 06:15:53 EST",
+    "link": [
+        "http://www.eecs.umich.edu/~gurevich/yuri2.gif",
+        "http://www.eecs.umich.edu/~gurevich/projects.html",
+        "http://www.eecs.umich.edu/~gurevich/Publ/index.html"
+    ],
+    "ground_truth": "faculty"
+}

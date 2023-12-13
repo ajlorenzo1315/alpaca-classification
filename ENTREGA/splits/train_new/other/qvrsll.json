@@ -1,0 +1,10 @@
+{
+    "Title": "CSE 143 Computing information",
+    "Body": "Date: Mon, 02 Dec 1996 14:24:28 GMT Server: NCSA/1.4.2 Content-type: text/html CSE 143 Computing information CSE 143 Computing Information Platforms Support policy and help information about the platforms we support.",
+    "link": [
+        "http://www.cs.washington.edu/education/courses/143/CurrentQtr/comp-info/platforms/",
+        "http://www.cs.washington.edu/education/courses/143/CurrentQtr/messages/",
+        "http://www.ms.washington.edu/"
+    ],
+    "ground_truth": "other"
+}

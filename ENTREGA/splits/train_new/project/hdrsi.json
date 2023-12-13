@@ -1,0 +1,10 @@
+{
+    "Title": " Medical Computing Laboratory ",
+    "Body": "Date: Tue, 26 Nov 1996 00:54:27 GMT Server: Apache/1.1-dev Content-type: text/html Set-Cookie: Apache=gs356222848969667130; path=/ Medical Computing Laboratory Medical Computing Laboratory Director:  Janice M. Jenkins, Ph.D.",
+    "link": [
+        "http://www.amhrt.org/heartg/arrhythm.html",
+        "http://www.amhrt.org/heartg/impdefib.html",
+        "http://www.eecs.umich.edu/~mcleecs/twochan.html"
+    ],
+    "ground_truth": "project"
+}

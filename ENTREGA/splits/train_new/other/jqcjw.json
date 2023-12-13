@@ -1,0 +1,10 @@
+{
+    "Title": "\nPapers of Richard E. Ladner\n",
+    "Body": "Revised and published A. Condon and R. Ladner.",
+    "link": [
+        "/research/tr/techreports.shtml",
+        "ftp://ftp.cs.washington.edu/tr/1996/10/UW-CSE-96-10-01.PS.Z",
+        "ftp://ftp.cs.washington.edu/tr/1996/09/UW-CSE-96-09-02.PS.Z"
+    ],
+    "ground_truth": "other"
+}

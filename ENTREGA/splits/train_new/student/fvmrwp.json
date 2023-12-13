@@ -1,0 +1,10 @@
+{
+    "Title": "My Homepage:(Jerry) Lijun Yin ",
+    "Body": "Date: Tue, 26 Nov 1996 16:47:04 GMT Server: Apache/1.1.1 Content-type: text/html Content-length: 3034 Last-modified: Thu, 07 Nov 1996 22:16:28 GMT My Homepage:(Jerry) Lijun Yin My 3D face is coming... (Jerry) Lijun Yin Ph.D Student Department of Computing Science (the Address ) University of Alberta E-mail: lijun@cs.ualberta.ca Phone: (403) 492-2315(O),433-3338(H) WEB page I am interested in: The Turk: And how it all started!",
+    "link": [
+        "http://www.cs.ualberta.ca/people/grad/aiff/andreas.aiff",
+        "http://www.cs.ualberta.ca/~andreas/Pictures/a+t.jpg",
+        "http://web.cs.ualberta.ca/home.html"
+    ],
+    "ground_truth": "student"
+}

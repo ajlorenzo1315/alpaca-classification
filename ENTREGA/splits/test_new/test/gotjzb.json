@@ -1,0 +1,10 @@
+{
+    "Title": "MIPSI - MIPS Simulator",
+    "Body": "Current Uses MIPSI has been used by Andrew Appel and Marcelo Goncalves at Princeton University to investigate garbage collection alternatives for future architectures.",
+    "link": [
+        "http://www.mips.com/Mips_Chip_Rm.html",
+        "http://www.cs.princeton.edu/~appel/",
+        "http://www.cs.princeton.edu/~appel/papers/cache.ps"
+    ],
+    "ground_truth": "unknow"
+}

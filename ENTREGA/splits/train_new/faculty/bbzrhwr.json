@@ -1,0 +1,10 @@
+{
+    "Title": " Simon Kasif's home page ",
+    "Body": "Murthy, S., S. Kasif and S. Salzberg, A System for Induction of Oblique Decision Trees, Journal of Artificial Intelligence Research, 2:1 (1994),1--33.",
+    "link": [
+        "http://www.cs.jhu.edu/~kasif/send-out",
+        "http://blaze.cs.jhu.edu/delcher/home.html",
+        " http://mission.amil.jhu.edu/projects/liver"
+    ],
+    "ground_truth": "faculty"
+}

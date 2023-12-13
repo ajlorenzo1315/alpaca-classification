@@ -1,0 +1,10 @@
+{
+    "Title": "22C:297 Seminar on Virtual Environments FALL 1994",
+    "Body": "U. Washington HIT Lab Report on VR information sources  - ANOTHER VERY GOOD GENERAL SOURCE U. Washington HIT Lab ftp directory OZ Project at Carnegie Mellon University - Prof. Joseph Bates - Woggles Naval Postgraduate School NPSNET project U. Penn Graphics Lab and Center for Human Simulation and Modeling (Badler's group, inventor's of the JACK system) NAVE : Navigating and Acting in Virtual Environments (U. Colorado) Meta VR: links to VR work at Georgia Tech and lots of other places Encyclopedia of Virtual Environments Homepage for Visual Systems Lab at U.",
+    "link": [
+        "http://www.cs.uiowa.edu/~cremer",
+        "http://www.cs.uiowa.edu/~bonak",
+        "http://www.cs.uiowa.edu/~des"
+    ],
+    "ground_truth": "course"
+}

@@ -1,0 +1,6 @@
+{
+    "Title": " Lecture notes - Chapter 11 - I/O",
+    "Body": "-- putc and puts:  how does the computer know that the device is ready to print out a second character?",
+    "link": [],
+    "ground_truth": "other"
+}

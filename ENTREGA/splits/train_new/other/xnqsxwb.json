@@ -1,0 +1,10 @@
+{
+    "Title": "CSE/ENGR 142 Staff",
+    "Body": "Date: Tue, 10 Dec 1996 16:50:39 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Wed, 06 Nov 1996 18:01:37 GMT Content-length: 5058 CSE/ENGR 142 Staff The CSE/ENGR 142 Crew Instructors Teaching Assistants Lab Consultants Instructional Technologists CSE 143 Consultants Weekly schedule at a glance Instructors Name Phone E-mail Office hours Martin Dickey , Lecturer 616-4368 dickey@cs.washington.edu M-W 1:30-2:30pm F 2:30-3:30pm Sieg 417 (full weekly schedule ) Richard Ladner , Professor 543-9347 ladner@cs.washington.edu Tu-Th 10:30am-noon Sieg 311 Teaching Assistants For section locations, see the Weekly Schedule .",
+    "link": [
+        "#instructors",
+        "#TAs",
+        "#consultants"
+    ],
+    "ground_truth": "other"
+}

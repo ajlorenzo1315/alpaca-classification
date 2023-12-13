@@ -1,0 +1,8 @@
+{
+    "Title": "Coupling and Cohesion",
+    "Body": "Different than logical cohesion because functions not intertwined.",
+    "link": [
+        ""
+    ],
+    "ground_truth": "other"
+}

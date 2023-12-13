@@ -1,0 +1,10 @@
+{
+    "Title": "COS 595: Advanced Topics in Software Systems: Advanced Compilers, Fall 1995\n",
+    "Body": "The course will provide a background for those students interested in further work in areas such as compiler design, flow analysis, optimization techniques, parallelizing compilers, and computer architecture.",
+    "link": [
+        "http://www.CS.Princeton.EDU/courses/archive/fall95/cs595/schedule.html>lectures</A>, <A HREF=",
+        "http://www.cs.princeton.edu/~amr/",
+        "http://www.CS.Princeton.EDU/courses/archive/fall95/cs595/schedule.html"
+    ],
+    "ground_truth": "unknow"
+}

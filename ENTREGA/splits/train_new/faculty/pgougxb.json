@@ -1,0 +1,10 @@
+{
+    "Title": " Home Page of Eric Bach ",
+    "Body": "How large is the least witness, as a function of the number tested?",
+    "link": [
+        "mailto:bach@cs.wisc.edu",
+        "http://math.uwaterloo.ca/~shallit/ant.html",
+        "http://www.cs.wisc.edu/~bach/eric.ps"
+    ],
+    "ground_truth": "faculty"
+}

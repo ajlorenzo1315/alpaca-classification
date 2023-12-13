@@ -1,0 +1,10 @@
+{
+    "Title": "Computer Science 410 --- Spring 1996",
+    "Body": "We will be programming in a shell, in the Perl language and C. The topics include the file system, terminal I/O, process management and interprocess communication.",
+    "link": [
+        "http://cs-www.bu.edu/Home.html",
+        "http://www.eecs.nwu.edu/unix.html",
+        "http://www.cs.cmu.edu/Web/People/rgs/perl.html"
+    ],
+    "ground_truth": "course"
+}

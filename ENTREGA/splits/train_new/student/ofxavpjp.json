@@ -1,0 +1,10 @@
+{
+    "Title": " Karan Bhatia's Home Page ",
+    "Body": "Bhatia, Karan, and Elkan, Charles.",
+    "link": [
+        "http://www-cse.ucsd.edu/",
+        "http://lahs.losalamos.k12.nm.us/NEWHOME/losalamos.html",
+        "http://www.berkeley.edu/"
+    ],
+    "ground_truth": "student"
+}

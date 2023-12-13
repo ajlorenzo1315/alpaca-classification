@@ -1,0 +1,10 @@
+{
+    "Title": "\"Simultaneous Multithreading: Maximizing On-Chip Parallelism\"\n",
+    "Body": "However, the benefit of such superscalar architectures is ultimately limited by the parallelism available in a single thread.",
+    "link": [
+        "http://www.cs.washington.edu/homes/tullsen",
+        "http://www.cs.washington.edu/homes/eggers",
+        "http://www.cs.washington.edu/homes/levy"
+    ],
+    "ground_truth": "other"
+}

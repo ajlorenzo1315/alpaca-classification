@@ -1,0 +1,10 @@
+{
+    "Title": "Homework #3, Part II Solutions",
+    "Body": "16-bit AND unit 16-bit logical shift left (lsl) unit 2x1 16-bit mux These next 2 components were created in Homework #2: 16-bit CLA adder 4x1 16-bit mux Problem 7 A schematic of a Memory unit, plus its component part schematics: memory control unit RAM module Problem 8 Implementing MYCALC requires you to use the ALU and memory module that you created in the previous two design questions, plus you must make a program counter which can count up by 1.",
+    "link": [
+        "alu.ps",
+        "and16.ps",
+        "lsl16.ps"
+    ],
+    "ground_truth": "other"
+}

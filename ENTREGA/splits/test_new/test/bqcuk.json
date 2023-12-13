@@ -1,0 +1,10 @@
+{
+    "Title": "Rice Systems Group",
+    "Body": "Date: Tue, 26 Nov 1996 00:18:26 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Tue, 19 Nov 1996 18:27:49 GMT Content-length: 2808 Rice Systems Group Rice Systems Group The Systems Group at Rice works on various fields of computer systems including software and hardware for parallel and distributed computing, fault tolerance, memory-based permanent storage systems, and advanced operating systems.",
+    "link": [
+        "http://www.cs.rice.edu/~willy/TreadMarks/overview.html",
+        "http://www.cs.rice.edu/CS/Systems/software/envy.html",
+        "http://www.cs.rice.edu/CS/Systems/LRP/index.html"
+    ],
+    "ground_truth": "unknow"
+}

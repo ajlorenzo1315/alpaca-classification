@@ -1,0 +1,10 @@
+{
+    "Title": "Courses currently enrolled in",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Sunday, 01-Dec-96 19:29:02 GMT Content-Type: text/html Content-Length: 587 Last-Modified: Wednesday, 11-Sep-96 20:57:31 GMT Courses currently enrolled in This is a list of all classes I am enrolled in.",
+    "link": [
+        "cs631/cs631.html",
+        "cs519/cs519.html",
+        "cs501/cs501.html"
+    ],
+    "ground_truth": "other"
+}

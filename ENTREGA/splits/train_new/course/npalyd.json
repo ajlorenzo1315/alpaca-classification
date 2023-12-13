@@ -1,0 +1,10 @@
+{
+    "Title": "CS314 Home Page",
+    "Body": "HELP If you have a problem related to a lecture, a homework set, or a project, the best way to get help is to add an annotation at the appropriate point in the course materials.",
+    "link": [
+        "mailto:cs314@cs.cornell.edu",
+        "http://dave.cs.cornell.edu:8888/Home/CS314/",
+        "http://www.cs.cornell.edu/Info/Courses/Current/CS314/Information.html"
+    ],
+    "ground_truth": "course"
+}

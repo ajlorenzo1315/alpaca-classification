@@ -1,0 +1,10 @@
+{
+    "Title": "Resume: NIMAR SINGH ARORA",
+    "Body": "Other Projects Wrote an ADA compiler (runs on PC -- written in C) Wrote a mini QUEL - database.",
+    "link": [
+        "http://www.cs.utexas.edu/users/nimar",
+        "mailto:nimar@cs.utexas.edu",
+        "http://www.cs.utexas.edu/users/nimar"
+    ],
+    "ground_truth": "other"
+}

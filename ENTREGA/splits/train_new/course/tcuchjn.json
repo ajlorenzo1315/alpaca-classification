@@ -1,0 +1,10 @@
+{
+    "Title": "CS 240 Home Page",
+    "Body": "Final -- in Class(7%) Communication We would like to meet with you when you have problems,  but, if  you  can't, please use e-mail.",
+    "link": [
+        "http://www.cs.byu.edu/info/snwoodfield.html",
+        "mailto:istook@cs.byu.edu",
+        "mailto:laird@cs.byu.edu"
+    ],
+    "ground_truth": "course"
+}

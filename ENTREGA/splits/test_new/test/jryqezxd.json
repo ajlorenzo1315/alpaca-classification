@@ -1,0 +1,10 @@
+{
+    "Title": "Fuz's Home Page",
+    "Body": "Date: Tue, 26 Nov 1996 02:48:37 GMT Server: Apache/1.1.1 Content-type: text/html Content-length: 10288 Last-modified: Thu, 16 Mar 1995 22:51:26 GMT Fuz's Home Page Welcome to Fuz's Home Page Columbia University - Department of Computer Science Currently under light construction, let me know if anything's misconfigured Check out the photo gallery if you have the time and bandwidth.",
+    "link": [
+        "http://www.cs.columbia.edu/~lih/gallery.html",
+        "http://www.mediabridge.com:8080/nyc/current/",
+        "http://www.cs.columbia.edu/~lih/howtoreach.html"
+    ],
+    "ground_truth": "unknow"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Tufts University Alumni E-Mail Address List",
+    "Body": "Grad school.",
+    "link": [
+        "http://www.tufts.edu/index.html",
+        "mailto:lukas@cs.wisc.edu",
+        "mailto:sainley@emerald.tufts.edu"
+    ],
+    "ground_truth": "other"
+}

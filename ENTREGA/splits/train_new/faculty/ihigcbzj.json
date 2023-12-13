@@ -1,0 +1,10 @@
+{
+    "Title": "Eric Brill's home page",
+    "Body": "I am also a member of the Center for Language and Speech Processing here at Hopkins.",
+    "link": [
+        "http://www.cs.jhu.edu",
+        "http://www.ece.jhu.edu/~clsp/",
+        "mailto:brill@cs.jhu.edu"
+    ],
+    "ground_truth": "faculty"
+}

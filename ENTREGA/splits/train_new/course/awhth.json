@@ -1,0 +1,10 @@
+{
+    "Title": "\nBU CAS CS 752: Advanced Operating Systems---Syllabus\n\t\t",
+    "Body": "As an experiment, we will run the course along two tracks; each track will have a concrete goal for the class participants to reach as a group, that of writing a single collective report on a major topic of current research interest, or that of implementing a small software tool.",
+    "link": [
+        "http://web.bu.edu/",
+        "http://www.cs.bu.edu/",
+        "http://www.cs.bu.edu/faculty/heddaya/CS752/."
+    ],
+    "ground_truth": "course"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": " Other CS People ",
+    "Body": "Date: Tue, 10 Dec 1996 22:41:41 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Mon, 04 Nov 1996 20:20:21 GMT Content-length: 3163 Other CS People Other CS People Andrew W. Appel (lazy, functional and dynamic languages, compilers and runtime systems) Henry Baker (compilers, garbage collection, languages, linkers, LISP) Robert Bedichek (architecture and architectural simulators) Michael Blair is working on Descartes , which uses profile-guided runtime optimization helped by machine learning.",
+    "link": [
+        "http://www.cs.princeton.edu/~appel/",
+        "ftp://ftp.netcom.com/pub/hb/hbaker/home.html",
+        "http://amsterdam.lcs.mit.edu/~robertb/"
+    ],
+    "ground_truth": "unknow"
+}

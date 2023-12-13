@@ -1,0 +1,10 @@
+{
+    "Title": "Allan Waren's Home Page",
+    "Body": "My hobbies are listed below and include some quite interesting links if you're interests happen to coincide with any of mine: Rocks and Minerals: Smithsonian: Stamp Collecting: Stamp World: Oriental Objets d'Art: Genghis Khan Astronomy & Cosmology: The Nine Planets Finally, here is a link to my son's home page: < David Waren > (His page is currently in transition) CSU Computer Science WWW server If your browser is mail enabled, you can send me an e-mail message.",
+    "link": [
+        "http://cis.csuohio.edu/~waren/pic/allan2.jpg",
+        "http://www.ieee.org",
+        "http://www.acm.org"
+    ],
+    "ground_truth": "faculty"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Web Texas",
+    "Body": "Date: Mon, 06 Jan 1997 21:43:32 GMT Server: NCSA/1.5.2 Last-modified: Thu, 12 Dec 1996 21:33:25 GMT Content-type: text/html Content-length: 1626 Web Texas UT Austin is the official WWW registration site for Texas Web servers.",
+    "link": [
+        "http://www.utexas.edu/cgi-bin/imagemap/texas/graphics/txflag.map",
+        "http://www.w3.org/hypertext/DataSources/WWW/Servers.html",
+        "http://www.utexas.edu/texas/new/"
+    ],
+    "ground_truth": "other"
+}

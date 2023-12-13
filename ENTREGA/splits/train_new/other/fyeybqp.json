@@ -1,0 +1,10 @@
+{
+    "Title": " The Johns Hopkins University Computer Science Department ",
+    "Body": "in Computer Science, Dual Degree Options, Course Catalog , Undergraduate Advising Manual, undergraduate requirements worksheet Events and Opportunities General Announcements, Featured Computer Science Conferences Seminars, Graduate Seminars, Special Events, Job Postings, Internships, Scholarships JHU Resources Whiting School of Engineering WWW server , JHUniverse WWW server , JHUniverse gopher server , Charm Net , JHU Guidelines for Usage of Computers and Resources General Resources on the World Wide Web NCSA Mosaic Home Page , Computer Science Technical Reports Archive , Computer Science Departments across the Web Around Campus Baltimore , Directions to JHU Support Services Departmental Computing Policy , Request for Support Form , Information on using Slirp in the Department , How to Create Your Own Home Page , Our Department Manual Changes to this server How do I put my page on this server?",
+    "link": [
+        "http://www.cs.jhu.edu/search/index.html",
+        "http://www.cs.jhu.edu/faculty.html",
+        "http://www.cs.jhu.edu/grad.students.html"
+    ],
+    "ground_truth": "other"
+}

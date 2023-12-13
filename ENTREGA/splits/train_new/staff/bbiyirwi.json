@@ -1,0 +1,10 @@
+{
+    "Title": "Yanhong Annie Liu's home page",
+    "Body": "Program analysis and transformation techniques for incremental computation and parallel/concurrent computation.",
+    "link": [
+        "http://www.cs.cornell.edu/home/tt/",
+        "http://www.cs.cornell.edu/Info/People/yanhong/thesis-abs.html",
+        "ftp://ftp.cs.cornell.edu/pub/yanhong/Inc-SCP95.ps.Z"
+    ],
+    "ground_truth": "staff"
+}

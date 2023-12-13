@@ -1,0 +1,10 @@
+{
+    "Title": "Keele, Computer Science - Home Page",
+    "Body": "Date: Tue, 26 Nov 1996 22:55:37 GMT Server: NCSA/1.5 Content-type: text/html Keele, Computer Science - Home Page Department of Computer Science Address: Department of Computer Science, Keele, Staffordshire UK ST5 5BG Phone: (01782) 583075 Fax: (01782) 713082 General Information - about the Department Course Information - undergraduate, postgraduate and other courses Announcements - conferences, short courses, seminars, demonstrating jobs.",
+    "link": [
+        "http://www.keele.ac.uk/depts/cs/General/toplevel.html",
+        "http://www.keele.ac.uk/depts/cs/Courses/toplevel.html",
+        "http://www.keele.ac.uk/depts/cs/Announcements/toplevel.html"
+    ],
+    "ground_truth": "unknow"
+}

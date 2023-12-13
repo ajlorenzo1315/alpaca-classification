@@ -1,0 +1,10 @@
+{
+    "Title": "OLE 2.0 vs. OpenDoc and Microsoft Foundation Classes",
+    "Body": "Labs Novell/WordPerfect Taligent, Inc. Adobe Borland Microsoft Foundation Classes (MFC) Overview The Foundation classes are a \"thin\" wrapper around the Windows (16-bit & 32-bit) API.",
+    "link": [
+        "ole-opendoc-mfc-presentation.html>\nClick here to view an on-line versions of the presentation given in\nCS717 on September 12, 1995\n</a>\n\n<h1>OLE 2.0 Overview</h1>\nOLE is <a href=",
+        "http://www.microsoft.com/DEVONLY/strategy/strategy.map?471,46",
+        "http://www.microsoft.com/DEVONLY/strategy/strategy.map?407,68"
+    ],
+    "ground_truth": "other"
+}

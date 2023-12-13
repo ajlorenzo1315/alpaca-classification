@@ -1,0 +1,9 @@
+{
+    "Title": "CS 152 - How to Print",
+    "Body": "To print a document from Mosaic: Select Print from the File menu.",
+    "link": [
+        "http://www.cs.byu.edu/info/jlogan.html",
+        "http://www.cs.byu.edu/building/TMCB-2nd.html"
+    ],
+    "ground_truth": "other"
+}

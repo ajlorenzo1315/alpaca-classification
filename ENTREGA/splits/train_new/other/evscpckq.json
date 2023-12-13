@@ -1,0 +1,9 @@
+{
+    "Title": "Raj's Work Page",
+    "Body": "Date: Wed, 15 Jan 1997 01:52:10 GMT Server: Apache/1.1.1 Content-type: text/html Content-length: 1032 Last-modified: Fri, 23 Feb 1996 06:18:13 GMT Raj's Work Page Hi, I work on research projects at the Computer Science Dept.",
+    "link": [
+        "http://www.cs.columbia.edu/cgi-bin/finger?kumar",
+        "mailto:kumar@cs.columbia.edu"
+    ],
+    "ground_truth": "other"
+}

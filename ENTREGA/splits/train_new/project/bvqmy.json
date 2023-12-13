@@ -1,0 +1,10 @@
+{
+    "Title": " Acquisition of Words ",
+    "Body": "This project explores the acquisition of words within this second sort of framework, focusing on their form: how words are composed out of constituent morphemes ( morphology ) and how the primitive sounds of a language combine with one another ( phonology ).",
+    "link": [
+        "http://www.cs.indiana.edu/hyplan/gasser.html",
+        "http://www.cs.indiana.edu/ai/Gasser/Morphophon/home.html",
+        "http://www.cs.indiana.edu/l/www/research/index.html"
+    ],
+    "ground_truth": "project"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": " David Kolson",
+    "Body": "I like to read fantasy and science fiction.",
+    "link": [
+        "http://www.ics.uci.edu/~newesp/ps_group",
+        "http://www.ics.uci.edu/CRR/nicolau93.html",
+        "mailto:dkolson@ics.uci.edu"
+    ],
+    "ground_truth": "student"
+}

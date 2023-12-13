@@ -1,0 +1,10 @@
+{
+    "Title": "CS 515 Project",
+    "Body": "Our goal is to design and implement an efficient network management system with different networks topologies discoveries and display it through a graphical interface to give a clear view of the connections and status.",
+    "link": [
+        "http://www.cs.cornell.edu/Info/People/janwun/janwun.html",
+        "mailto:janwun@cs.cornell.edu",
+        "http://www.cs.cornell.edu/Info/People/vince/vince.html"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,8 @@
+{
+    "Title": " CS 736 Assignment #1 (Spring 96)",
+    "Body": "What to submit: A brief description of what you measured, and how you did it; A list of your results; use graphs when appropriate; The benchmark routines, with a Makefile showing how to build and run them.",
+    "link": [
+        "cs736-lmbench.tar.Z"
+    ],
+    "ground_truth": "unknow"
+}

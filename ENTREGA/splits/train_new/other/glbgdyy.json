@@ -1,0 +1,10 @@
+{
+    "Title": "Web Diverse-o-Meter",
+    "Body": "Date: Tue, 10 Dec 1996 20:44:47 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Fri, 18 Oct 1996 02:56:21 GMT Content-length: 1589 Web Diverse-o-Meter Web Diverse-o-Meter Estimated percentage of web pages in each language: English 84.0% Italian 12.2% French 2.6% German 1.2% Czech 0.1% updated 11.09.96 03:00 PDT This table looks best with the newer browsers that can render text in different c o l o r s .",
+    "link": [
+        "http://www.netscape.com/",
+        "http://www.cs.washington.edu/homes/nick/dom/info.html",
+        "http://www.cs.washington.edu/homes/nick/dom/info.html#addlang"
+    ],
+    "ground_truth": "other"
+}

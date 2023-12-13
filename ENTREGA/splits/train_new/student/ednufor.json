@@ -1,0 +1,10 @@
+{
+    "Title": "Sharad Singhai's Home Page",
+    "Body": "Please e-mail questions/comments to me at singhai@cs.umass.edu Am I logged on?",
+    "link": [
+        "http://osl-www.cs.umass.edu/~oos/home.html",
+        "http://www.cs.umass.edu/",
+        "http://www.umass.edu/"
+    ],
+    "ground_truth": "student"
+}

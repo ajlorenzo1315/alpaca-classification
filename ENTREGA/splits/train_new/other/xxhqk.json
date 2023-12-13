@@ -1,0 +1,10 @@
+{
+    "Title": "University Book Store",
+    "Body": "Look what General Book and Children's Book events we have in store for you.",
+    "link": [
+        "/map/MapservePub.cgi$ubslogo.map",
+        "http://www.washington.edu/",
+        "general_books/general_books.html"
+    ],
+    "ground_truth": "other"
+}

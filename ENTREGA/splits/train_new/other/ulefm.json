@@ -1,0 +1,10 @@
+{
+    "Title": " Personal Info of Nicholas R. Howe ",
+    "Body": "Links to Other Family Members and Friends: Both of my parents are employed at Yale University .",
+    "link": [
+        "http://www.ithaca.ny.us/",
+        "http://www.li.net/~j4dice/li-nyc.html",
+        "http://www.ctstateu.edu/state.html"
+    ],
+    "ground_truth": "other"
+}

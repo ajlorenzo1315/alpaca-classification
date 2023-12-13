@@ -1,0 +1,10 @@
+{
+    "Title": "Elizabeth Thomas's Home Page",
+    "Body": "Date: Tue, 26 Nov 1996 00:16:45 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Wed, 20 Dec 1995 22:57:19 GMT Content-length: 1143 Elizabeth Thomas's Home Page Elizabeth Thomas Research Programmer II, D Group Rice university Office CRPC 195 Phone: On campus : x6002    Off Campus : 527 - 6002 Postal Rice University P.O.",
+    "link": [
+        "http://www.rice.edu/",
+        "http://www.cs.indiana.edu/finger/cs.rice.edu/lisaj",
+        "http://www.cs.rice.edu/~lisaj/lisa.html"
+    ],
+    "ground_truth": "staff"
+}

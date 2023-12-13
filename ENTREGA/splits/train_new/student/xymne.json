@@ -1,0 +1,10 @@
+{
+    "Title": " Soner Onder's Home Page",
+    "Body": "Computer architecture: In order to sort through a zillion bad ideas and find the few which are good, I thought it would be easier if I could design and develop a tool that can be used to define a Computer Architecture at the RTL level and obtain the assembler, and the simulator for the architecture automatically.",
+    "link": [
+        "http://www.cs.pitt.edu/",
+        "http://www.pitt.edu/",
+        "http://www.maya.com/Local/mazur/daBurgh.html"
+    ],
+    "ground_truth": "student"
+}

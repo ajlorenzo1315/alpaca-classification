@@ -1,0 +1,10 @@
+{
+    "Title": "CSE 341 Home Page",
+    "Body": "Server: Netscape-Communications/1.1 Date: Wednesday, 20-Nov-96 23:24:50 GMT Last-modified: Friday, 19-Jan-96 14:23:12 GMT Content-length: 2115 Content-type: text/html CSE 341 Home Page CSE 341 - Compilers and Interpreters - Spring 1996 General Information General Course Information Course Project Description Newsgroup: upenn.cis.cse341 Course Directory All course lectures, assignments, tests,  and solutions (after the due date) are available online.",
+    "link": [
+        "http://homepage.seas.upenn.edu/~lou/s96341/outline.dvi",
+        "http://homepage.seas.upenn.edu/~lou/s96341/project.ps",
+        "news://netnews.upenn.edu/upenn.cis.cse341"
+    ],
+    "ground_truth": "course"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Question Of The Week",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Sunday, 01-Dec-96 19:11:43 GMT Content-Type: text/html Content-Length: 651 Last-Modified: Wednesday, 25-Oct-95 21:04:15 GMT Question Of The Week Question Of The Week It's 10pm, do you know where you I-nodes are?",
+    "link": [
+        "http://www.cs.cornell.edu/Info/People/jmm/jmm.html",
+        "http://www.cs.cornell.edu/Info/People/wwlee/qotw_2.html",
+        "http://www.cs.cornell.edu/Info/People/hejik/hejik.html"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": " Vision and Software Technology ( VAST ) Lab Home Page",
+    "Body": "Date: Mon, 25 Nov 1996 23:53:52 GMT Server: NCSA/1.5.1 Last-modified: Fri, 01 Nov 1996 19:38:06 GMT Content-type: text/html Content-length: 2610 Vision and Software Technology ( VAST ) Lab Home Page Research in Computer Vision and Software Technology VAST Laboratory Department of Electrical Engineering and Computer Science Lehigh University Packard Lab, #19 Memorial Drive West, Bethlehem PA 18015 VAST Laboratory VAST Lab, under the direction of Professor Terrance Boult, is primarly enaged in research in computer vision and object oriented software technology currently with over 1 million dollars support from ARPA and NSF.",
+    "link": [
+        "http://www.eecs.lehigh.edu",
+        "http://www.lehigh.edu",
+        "http://www.netanswers.com/lvinfo"
+    ],
+    "ground_truth": "project"
+}

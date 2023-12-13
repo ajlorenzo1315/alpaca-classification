@@ -1,0 +1,10 @@
+{
+    "Title": "Transit Project Home Page",
+    "Body": "This document serves as a central location for information produced by and related to the Transit Project.",
+    "link": [
+        "http://www.ai.mit.edu/projects/abacus/home_page.html",
+        "http://www.ai.mit.edu/projects/transit/rc_home_page.html",
+        "http://www.ai.mit.edu/projects/transit/rc_home_page.html"
+    ],
+    "ground_truth": "project"
+}

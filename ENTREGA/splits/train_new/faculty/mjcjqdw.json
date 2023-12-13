@@ -1,0 +1,10 @@
+{
+    "Title": "Joseph Pasquale Home Page",
+    "Body": "I lead a research group at the UCSD Computer Systems Laboratory , where we work in the following research areas : Operating Systems : kernel structure, support for multimedia agents, fast I/O and IPC Networks : real-time communications, wireless (mobile computing), multicasting Decentralized Control : multi-agent coordination, effects of delayed communication A research topic I am especially interested in nowadays is Internet Computing .",
+    "link": [
+        "http://www-cse.ucsd.edu",
+        "http://www.ucsd.edu",
+        "http://www.iaco.com/features/lajolla/homepage.htm"
+    ],
+    "ground_truth": "faculty"
+}

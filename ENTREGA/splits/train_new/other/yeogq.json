@@ -1,0 +1,10 @@
+{
+    "Title": "MST3K Catch Phrase Catalog",
+    "Body": "I'm hysterical, and I'm wet, and I'm in pain!",
+    "link": [
+        "welcome.html",
+        "http://www.eff.org/blueribbon.html",
+        "http://www.moviedatabase.com"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "University of Michigan's Radiation Laboratory",
+    "Body": "Date: Tue, 26 Nov 1996 00:54:21 GMT Server: Apache/1.1-dev Content-type: text/html Set-Cookie: Apache=gs356202848969661397; path=/ University of Michigan's Radiation Laboratory Remote sensing Space electrodynamics E-m scattering Micromachined circuits Microwave packaging Microwave antennas Contact Information About the laboratory Laboratory Personnel Research areas Electromagnetic scattering and diffraction Microwave remote sensing Polarimetric radar techniques Millimeter wave receivers Numerical techniques Space applications of electrodynamics Monolithic circuits and antennas Collision avoidance sensors Academic programs & degrees Course descriptions (Bulletin) EECS Department Home Page College of Engineering Home Page University of Michigan Home Page This page has been accessed 3863 times since Nov 1, 1995.",
+    "link": [
+        "http://www.eecs.umich.edu/RADLAB/random.html",
+        "http://www.eecs.umich.edu/RADLAB/tss.html",
+        "http://www.eecs.umich.edu/RADLAB/engine.html"
+    ],
+    "ground_truth": "project"
+}

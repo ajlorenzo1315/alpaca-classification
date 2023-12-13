@@ -1,0 +1,10 @@
+{
+    "Title": "peter's Home Page",
+    "Body": "People bothering not during my office hours.",
+    "link": [
+        "mailto:peter@cs.mcgill.ca",
+        "http://www.cs.mcgill.ca/~peter/public_html/research1.html",
+        "http://www.cs.mcgill.ca/~jline/welcome.html"
+    ],
+    "ground_truth": "student"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Steve Seitz's Publications",
+    "Body": "Workshop on Motion of Non-Rigid and Articulated Objects , 1994, pp.",
+    "link": [
+        "ftp://ftp.cs.wisc.edu/computer-vision/abstracts.html#sigg96-seitz",
+        "ftp://ftp.cs.wisc.edu/computer-vision/abstracts.html#icpr96-seitz",
+        "ftp://ftp.cs.wisc.edu/computer-vision/abstracts.html#icpr96-seitz"
+    ],
+    "ground_truth": "other"
+}

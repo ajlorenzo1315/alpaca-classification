@@ -1,0 +1,10 @@
+{
+    "Title": "Mike Pechura's Home Page",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Monday, 25-Nov-96 20:12:14 GMT Content-Type: text/html Content-Length: 1164 Last-Modified: Friday, 23-Feb-96 15:19:26 GMT Mike Pechura's Home Page Dr. Pechura's home page Welcome to my little corner on the Web.",
+    "link": [
+        "http://cis.csuohio.edu/www_faq.html",
+        "http://cis.csuohio.edu/~map/multi.html",
+        "http://www.csuohio.edu/"
+    ],
+    "ground_truth": "faculty"
+}

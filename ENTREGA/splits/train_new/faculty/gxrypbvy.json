@@ -1,0 +1,10 @@
+{
+    "Title": "Bill Buckles",
+    "Body": "Petry, \"Behavior of Interconnected Subpopulations: Genetic Algorithms in a SIMD Environment,\" submitted to Evolutionary Computation .",
+    "link": [
+        "http://www.eecs.tulane.edu/",
+        "http://www.tulane.edu/",
+        "mailto:buckles@eecs.tulane.edu"
+    ],
+    "ground_truth": "faculty"
+}

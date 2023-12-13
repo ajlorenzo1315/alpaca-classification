@@ -1,0 +1,10 @@
+{
+    "Title": "David Sundaram-Stukel's Homepage",
+    "Body": "Links of a more philosophic/scientific/artistic nature.. Physics/Consciousness .",
+    "link": [
+        "http://www.cs.wisc.edu/~sundaram/bio.html",
+        "http://www.cs.wisc.edu/directories/classes.html",
+        "http://www.cs.wisc.edu/~cs577-1/cs577.html"
+    ],
+    "ground_truth": "student"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "\nCS418 Lab 11\n",
+    "Body": "You should use transmitters/receivers, macros, and comments in the \"Notation\" field of each module so that you and the grader can understand the program.",
+    "link": [
+        "http://www.tc.cornell.edu/Visualization/Education/cs418/labs/heart.net",
+        "http://www.tc.cornell.edu/Visualization/Education/cs418/labs/heart.cfg",
+        "http://www.tc.cornell.edu/Visualization/Education/cs418/labs/SurfaceCombine.net"
+    ],
+    "ground_truth": "other"
+}

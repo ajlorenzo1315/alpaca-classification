@@ -1,0 +1,10 @@
+{
+    "Title": "ARL's Welcome Page",
+    "Body": "Date: Tue, 14 Jan 1997 23:53:41 GMT Server: NCSA/1.5.2 Content-type: text/html ARL's Welcome Page Welcome to the ARL Information Projects Directory Publications Research Summary Workshops The purpose of the Applied Research Laboratory (ARL) is to develop high performance hardware and software technologies by building practical prototype systems and deploying them in testbed settings.",
+    "link": [
+        "http://arl.wustl.edu/arl/info.html",
+        "http://arl.wustl.edu/arl/images/new.gif",
+        "http://arl.wustl.edu/arl/projects/"
+    ],
+    "ground_truth": "project"
+}

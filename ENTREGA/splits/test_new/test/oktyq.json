@@ -1,0 +1,10 @@
+{
+    "Title": "Michigan State University",
+    "Body": "Date: Tue, 14 Jan 1997 21:24:17 GMT Server: NCSA/1.5.2 Last-modified: Fri, 10 Jan 1997 19:44:47 GMT Content-type: text/html Content-length: 2692 Michigan State University Home | Academics | Admissions and Financial Aid | Info for Faculty and Staff | Info for Students | Information Technology | MSU Info | Outreach, Alumni | People at MSU | Search MSU | Spartan Athletics Welcome to Michigan State University, a research-intensive, land-grant institution.",
+    "link": [
+        "http://www.msu.edu/cgi-bin/imagemap/msuhome.map",
+        "http://www.msu.edu/",
+        "http://www.msu.edu/academics/"
+    ],
+    "ground_truth": "unknow"
+}

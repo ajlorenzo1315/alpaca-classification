@@ -1,0 +1,10 @@
+{
+    "Title": "University of Washington Department of Linguistics Home Page",
+    "Body": "The University of Washington is located in the city of Seattle, Washington.",
+    "link": [
+        "http://www.washington.edu",
+        "office/index.html",
+        "programs/index.html"
+    ],
+    "ground_truth": "unknow"
+}

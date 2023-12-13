@@ -1,0 +1,10 @@
+{
+    "Title": "\nTassos Dimitriou \n",
+    "Body": "In 1990, I graduated from the Department of Computer Science and Engineering of the University of Patras, Greece.",
+    "link": [
+        "http://www-cse.ucsd.edu/users/tassos/acropolis.html",
+        "http://www-cse.ucsd.edu/users/russell",
+        "http://www.forthnet.gr/hellas/hellas.html"
+    ],
+    "ground_truth": "student"
+}

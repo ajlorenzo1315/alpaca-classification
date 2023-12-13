@@ -1,0 +1,10 @@
+{
+    "Title": "Rob's Home Page",
+    "Body": "My supervisor is Dr. G. C. Shoja .",
+    "link": [
+        "http://info.uvic.ca/",
+        "http://www.csc.uvic.ca/home/gshoja/gshoja.html",
+        "http://www.brandonu.ca/"
+    ],
+    "ground_truth": "student"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "My Applet Page",
+    "Body": "See the course projects page for more discussion of the problem, and the specific Speedy Tourist Page.",
+    "link": [
+        "http://www.cs.washington.edu/homes/eric/java/TravellingTourist.html",
+        "http://www.cs.washington.edu/homes/eric/java/ttdataset.html",
+        "http://www.cs.washington.edu/education/courses/521/winter96/project/project.html"
+    ],
+    "ground_truth": "other"
+}

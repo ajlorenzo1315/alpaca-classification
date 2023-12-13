@@ -1,0 +1,10 @@
+{
+    "Title": "Marc Langheinrich's Resume",
+    "Body": "Experience Research Assistant Department of Computer Science , University of Washington, USA Summer 1996 Development of Web Agent software for the research project \" Ahoy!",
+    "link": [
+        "http://www.uni-bielefeld.de",
+        "http://www.techfak.uni-bielefeld.de/techfak/studiengang.html",
+        "http://www.techfak.uni-bielefeld.de/techfak/techfakengl.html"
+    ],
+    "ground_truth": "other"
+}

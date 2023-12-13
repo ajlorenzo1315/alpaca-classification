@@ -1,0 +1,10 @@
+{
+    "Title": "Welcome ",
+    "Body": "Date: Tuesday, 26-Nov-96 17:02:38 GMT Server: NCSA/1.3 MIME-version: 1.0 Content-type: text/html Welcome Welcome to Dongni Chen's Homepage You are the 's visitor since Nov. 30, 1995 Be the member of my guest book!",
+    "link": [
+        "http://www.cis.uab.edu/info/grads/cdn/cdnjava/index.html",
+        "http://www.cis.uab.edu/info/grads/cdn/guest.html",
+        "http://www.cis.uab.edu/info/grads/cdn/chen1.cgi"
+    ],
+    "ground_truth": "student"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "L0 Home Page",
+    "Body": "The current set of Graduate Students working on the project is David Bailey Srini Narayan Jonathan Segal The first thesis to come directly out of the L-zero project was that of Terry Regier , who is now a professor at the University of Chicago.",
+    "link": [
+        "http://www.icsi.berkeley.edu/~jfeldman",
+        "http://www.icsi.berkeley.edu/",
+        "http://www.icsi.berkeley.edu/~shastri"
+    ],
+    "ground_truth": "project"
+}

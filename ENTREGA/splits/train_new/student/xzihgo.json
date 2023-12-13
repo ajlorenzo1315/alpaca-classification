@@ -1,0 +1,10 @@
+{
+    "Title": "Cindi Thompson",
+    "Body": "Specifically, I am interested in Natural Language Acquisition.",
+    "link": [
+        "http://www.women.ca/violence/candle.html",
+        "http://www.cs.utexas.edu/users/kuipers/agents.html",
+        "http://www.cs.utexas.edu/bin/finger/cthomp"
+    ],
+    "ground_truth": "student"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Acknowledgments",
+    "Body": "Date: Tue, 10 Dec 1996 03:28:42 GMT Server: NCSA/1.4.2 Content-type: text/html Acknowledgments Acknowledgments We thank the lab staff here at the University of Washington for their support of our project machines ( derkins , rosalyn and wormwood ) as well as support of our Intel Paragon.",
+    "link": [
+        "http://www.sdsc.edu",
+        "http://www.arsc.edu",
+        "http://www.tc.cornell.edu/ctc.html"
+    ],
+    "ground_truth": "other"
+}

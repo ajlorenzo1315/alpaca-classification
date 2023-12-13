@@ -1,0 +1,10 @@
+{
+    "Title": "The DART Board",
+    "Body": "Date: Wed, 20 Nov 1996 19:13:47 GMT Server: NCSA/1.5.1 Last-modified: Tue, 05 Mar 1996 00:03:00 GMT Content-type: text/html Content-length: 3305 The DART Board The DART Board Duke University's Artificial Intelligence Seminar Group Department of Computer Science Overview: The Duke Artificial Intelligence Seminar Group, DART , is a a group of both faculty and students with common interests in AI.",
+    "link": [
+        "http://www.cs.duke.edu/~msf/dartboard//",
+        "http://www.cs.duke.edu/~amit/Ai.html",
+        "http://www.aic.nrl.navy.mil/galist/"
+    ],
+    "ground_truth": "project"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "MVPE",
+    "Body": "This paper describes MVP E , a visual programming environment for parallel simulation design.",
+    "link": [
+        "../maisie/",
+        "http://may.cs.ucla.edu/projects/mvpe/flow.gif",
+        "http://may.cs.ucla.edu/projects/mvpe/prototype.html"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Biomedical Ultrasonics Laboratory",
+    "Body": "Date: Tue, 26 Nov 1996 00:54:43 GMT Server: NCSA/1.5.2 Last-modified: Tue, 17 Sep 1996 18:36:18 GMT Content-type: text/html Content-length: 2825 Biomedical Ultrasonics Laboratory Lab Address Lab Directory Lab Research Ultrasound Data FTP Site Related Sites Computer Tips The Biomedical Ultrasonics Laboratory at the Univeristy of Michigan is a multidisciplinary center for biomedical ultrasound research.",
+    "link": [
+        "http://bul.eecs.umich.edu/address.html",
+        "http://bul.eecs.umich.edu/bul-directory.html",
+        "http://bul.eecs.umich.edu/research/index.html"
+    ],
+    "ground_truth": "project"
+}

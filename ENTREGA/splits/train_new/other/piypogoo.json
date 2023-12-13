@@ -1,0 +1,10 @@
+{
+    "Title": " Cases",
+    "Body": "A case study of technology, productivity, and process change management in the telecommunications industry.",
+    "link": [
+        "http://www.cs.columbia.edu/~michael/intro.ps",
+        "http://www.cs.columbia.edu/~michael/conmut.ps",
+        "http://www.cs.columbia.edu/~michael/nynex.ps"
+    ],
+    "ground_truth": "other"
+}

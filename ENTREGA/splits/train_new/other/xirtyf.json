@@ -1,0 +1,10 @@
+{
+    "Title": "\nCS418 Lab 1\n",
+    "Body": "You should see a tetrahedron in the Image window.",
+    "link": [
+        "http://www.tc.cornell.edu/Visualization/Education/cs418/labs/MakePolyhedron.net",
+        "http://www.tc.cornell.edu/Visualization/Education/cs418/labs/MakePolyhedron.cfg",
+        "http://www.tc.cornell.edu/Visualization/Education/cs418/labs/2octahedron.net"
+    ],
+    "ground_truth": "other"
+}

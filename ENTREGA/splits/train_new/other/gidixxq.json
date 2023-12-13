@@ -1,0 +1,10 @@
+{
+    "Title": "\nMy courses for Spring 1996\n",
+    "Body": "Date: Tue, 05 Nov 1996 00:11:55 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Wed, 21 Aug 1996 16:22:28 GMT Content-length: 617 My courses for Spring 1996 My courses for Spring 1996 CS 701 - Construction of Compilers CS 757 - Advanced Computer Architecture II Back to my home page",
+    "link": [
+        "http://www.cs.wisc.edu/~fischer/cs701.html",
+        "http://www.cs.wisc.edu/~cs757-1/cs757.html",
+        "http://www.cs.wisc.edu/~sastry"
+    ],
+    "ground_truth": "other"
+}

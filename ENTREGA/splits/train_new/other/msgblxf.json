@@ -1,0 +1,10 @@
+{
+    "Title": "HYBRID 95",
+    "Body": "Kurshan, AT&T Bell Labs, USA, A. Nerode, Cornell University, USA, M. Reed, Oxford University, UK, J. Sifakis, VERIMAG, France, P. Varaiya, University of California at Berkeley, USA Wednesday, October 25 Invited Lecture IV Chair: A. Pnueli, The Weizmann Institute of Science, Israel 8.30-9.30 N. Lynch, MIT, USA, Modelling and verification of automated transit systems, using timed automata, invariants and simulations Invited Session VII Chair: H.J.",
+    "link": [
+        "http://dimacs.rutgers.edu",
+        "http://www.math.rutgers.edu/~sontag/sycon/sycon.html",
+        "http://www.cs.cornell.edu/Info/People/tah/hybrid95.html#1"
+    ],
+    "ground_truth": "other"
+}

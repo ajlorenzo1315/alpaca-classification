@@ -1,0 +1,10 @@
+{
+    "Title": "Ron K. Cytron's Home Page",
+    "Body": "Date: Thu, 21 Nov 1996 21:33:42 GMT Server: NCSA/1.5.2 Content-type: text/html Ron K. Cytron's Home Page Ron K. Cytron Associate Professor, Computer Science School of Engineering and Applied Science Washington University St. Louis, Missouri E-mail address: cytron@cs.wustl.edu Phone: +1 314 935 7527 Ongoing activities Teaching Computer Science 100: An Introduction to Computing Tools Computer Science 431: Translation of Computer Languages Computer Science 6781: Research Seminar on Programming Languages Research Fractal Intermediate Languages Packet filtering (with Mahesh Jayaram ) Continuous compilers with Michael Plezbert ; his thesis .",
+    "link": [
+        "http://www.cs.wustl.edu/cs/personnel/faculty/cytron.html",
+        "http://www.cs.wustl.edu/",
+        "http://www.ecl.wustl.edu/seas/"
+    ],
+    "ground_truth": "faculty"
+}

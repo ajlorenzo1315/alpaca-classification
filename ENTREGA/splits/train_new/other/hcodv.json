@@ -1,0 +1,10 @@
+{
+    "Title": "Projects - Marc Langheinrich",
+    "Body": "Date: Tue, 10 Dec 1996 20:45:57 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Sun, 01 Sep 1996 22:39:02 GMT Content-length: 2251 Projects - Marc Langheinrich Projects - Marc Langheinrich Projects Here is a sample of the projects I worked on or I am currently working on: The Homepage-Finder Shortly after my arrival at the University of Washington I joined Jonathan Shakes in his Homepage-Finder project.",
+    "link": [
+        "http://www.cs.washington.edu/research/ahoy/",
+        "http://www.techfak.uni-bielefeld.de/techfak/ags/wbski/hypercon/",
+        "http://www.ub.uni-bielefeld.de/e-home.htm"
+    ],
+    "ground_truth": "other"
+}

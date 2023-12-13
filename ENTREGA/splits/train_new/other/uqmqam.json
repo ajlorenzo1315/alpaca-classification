@@ -1,0 +1,9 @@
+{
+    "Title": "Programming in Prolog",
+    "Body": "For example, the fact that ` I'll get wet if it's raining ', can be expressed as wet :- raining.",
+    "link": [
+        "how_to_run_prolog.html",
+        "how_to_run_prolog.html"
+    ],
+    "ground_truth": "other"
+}

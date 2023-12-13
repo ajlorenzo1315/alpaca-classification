@@ -1,0 +1,10 @@
+{
+    "Title": "The Interaction Lab",
+    "Body": "Using the 24 mobile robots and a robot simulator with full dynamics.",
+    "link": [
+        "http://www.eff.org/blueribbon.html",
+        "http://volen.ccs.brandeis.edu/index.html",
+        "http://www.brandeis.edu"
+    ],
+    "ground_truth": "project"
+}

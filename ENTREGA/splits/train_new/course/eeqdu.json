@@ -1,0 +1,10 @@
+{
+    "Title": "EECS 627 Home Page",
+    "Body": "Server: Netscape-Commerce/1.12 Date: Tuesday, 26-Nov-96 19:09:53 GMT Last-modified: Tuesday, 17-Sep-96 01:27:10 GMT Content-length: 1668 Content-type: text/html EECS 627 Home Page EECS 627: VLSI Design II, Winter 1996 Prof. Richard B.",
+    "link": [
+        "http://www-personal.engin.umich.edu/~brown/Eecs627/index.html",
+        "mailto:brown@engin.umich.edu",
+        "mailto:phiroze@engin.umich.edu"
+    ],
+    "ground_truth": "course"
+}

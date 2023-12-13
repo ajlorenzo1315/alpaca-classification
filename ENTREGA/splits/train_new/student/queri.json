@@ -1,0 +1,10 @@
+{
+    "Title": "\nRoman Yangarber\n",
+    "Body": "Date: Tue, 26 Nov 1996 03:43:58 GMT Server: NCSA/1.4.1 Content-type: text/html Roman Yangarber Roman Yangarber Department of Computer Science Courant Institute of Mathematical Sciences New York University Current Research Publications Background Hobbies and Other Interests Favorite Quotes Contact Information Contact Information: E-mail: roman@cs.nyu.edu Address: 900 West 190th Street, New York, NY 10040 Office: (212) 998-3264 Home: (212) 568-5158 Fax: (212) 995-4123 Current Research: My work is in the field of Natural Language Processing, focusing on the following areas: Customization for Information Extraction Machine Translation This work is part of the Proteus Project at the Courant Institute, under the direction of Ralph Grishman , who is my thesis advisor.",
+    "link": [
+        "http://www.cs.nyu.edu/",
+        "http://cims.nyu.edu/",
+        "http://www.nyu.edu/"
+    ],
+    "ground_truth": "student"
+}

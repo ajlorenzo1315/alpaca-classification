@@ -1,0 +1,10 @@
+{
+    "Title": "CS193e: Object-Oriented User Interface Programming on the  \nNeXT machineDesign",
+    "Body": "Date: Wed, 20 Nov 1996 22:55:38 GMT Server: Apache/1.0.5 Content-type: text/html Content-length: 4115 Last-modified: Fri, 22 Sep 1995 19:01:14 GMT CS193e: Object-Oriented User Interface Programming on the NeXT machineDesign CS193e: Object-Oriented User Interface Programming on the NeXT machine Stanford University 1994-95 Spring, (Zelenski@cs.stanford.edu) Check to make sure this is being offered 94-95 CS193e uses NeXTstep as a platform to explore designing and implementing significant software projects in a GUI environment.",
+    "link": [
+        "http://www-pcd.stanford.edu/hci/courses.html",
+        "http://www-cs.stanford.edu",
+        "http://www-pcd.stanford.edu/hci/hci-coordinator.html"
+    ],
+    "ground_truth": "course"
+}

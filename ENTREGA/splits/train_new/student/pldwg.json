@@ -1,0 +1,10 @@
+{
+    "Title": "\nHome Page for Norm McCain\n",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Monday, 06-Jan-97 19:34:06 GMT Content-Type: text/html Content-Length: 2500 Last-Modified: Thursday, 07-Nov-96 15:38:23 GMT Home Page for Norm McCain Norm McCain About Me PhD student in Computer Sciences in the College of Natural Sciences at The University of Texas at Austin .",
+    "link": [
+        "http://www.cs.utexas.edu/cgi/finger/mccain",
+        "http://www.cs.utexas.edu/",
+        "http://www.utexas.edu/cons/"
+    ],
+    "ground_truth": "student"
+}

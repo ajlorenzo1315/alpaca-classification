@@ -1,0 +1,10 @@
+{
+    "Title": "Topics in Neural Networks",
+    "Body": "Click here for lecture notes on the Generalized Regression Neural Networks.",
+    "link": [
+        "http://www.cs.utsa.edu/courses/cs6253/gmdh.ps",
+        "http://www.cs.utsa.edu/courses/cs6253/boltz.ps",
+        "http://www.cs.utsa.edu/courses/cs6253/evolve_alg.ps"
+    ],
+    "ground_truth": "course"
+}

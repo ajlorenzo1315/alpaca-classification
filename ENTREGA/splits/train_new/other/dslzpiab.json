@@ -1,0 +1,8 @@
+{
+    "Title": "Document moved",
+    "Body": "WWW Alert:  Redirection response from server is not handled by this client Date: Fri, 04 Apr 1997 22:15:49 GMT Server: NCSA/1.5.2 Location: http://www.arlut.utexas.edu/~atc/ Content-type: text/html Document moved Document moved This document has permanently moved here .",
+    "link": [
+        "http://www.arlut.utexas.edu/~atc/"
+    ],
+    "ground_truth": "other"
+}

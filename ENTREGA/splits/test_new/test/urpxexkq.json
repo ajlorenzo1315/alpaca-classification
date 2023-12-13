@@ -1,0 +1,10 @@
+{
+    "Title": "Dr. Tong Lai Yu's Homepage",
+    "Body": "Date: Mon, 25 Nov 1996 20:12:42 GMT Server: NCSA/1.4.1 Content-type: text/html Last-modified: Mon, 19 Feb 1996 21:57:05 GMT Content-length: 1277 Dr. Tong Lai Yu's Homepage Welcome to Dr. Tong Lai Yu's Homepage Associate Professor of Computer Science of California State University at San Bernardino.",
+    "link": [
+        "http://www.csci.csusb.edu/tongyu/PICTURES.HTM",
+        "http://www.csci.csusb.edu/tongyu/JOURNAL.HTM",
+        "http://www.csci.csusb.edu/tongyu/BOOKS.HTM"
+    ],
+    "ground_truth": "unknow"
+}

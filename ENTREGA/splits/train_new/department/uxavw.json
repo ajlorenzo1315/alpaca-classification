@@ -1,0 +1,10 @@
+{
+    "Title": "UCSD Computer Science and Engineering  Home Page ",
+    "Body": "CSE Job Announcements CSE Academic and Staff positions currently available.",
+    "link": [
+        "http://www-cse.ucsd.edu/groups/beautify/people.html",
+        "http://www-cse.ucsd.edu/groups/beautify/research.html",
+        "http://www-cse.ucsd.edu/groups/beautify/papers.html"
+    ],
+    "ground_truth": "department"
+}

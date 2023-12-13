@@ -1,0 +1,10 @@
+{
+    "Title": "CSE370 Schedule",
+    "Body": "Date: Mon, 02 Dec 1996 14:37:43 GMT Server: NCSA/1.4.2 Content-type: text/html CSE370 Schedule CSE370 Schedule Lecture transparencies , quizzes/exams and their solutions , and assignments and their solutions are also available.",
+    "link": [
+        "http://www.cs.washington.edu/education/courses/370/CurrentQtr/lectures/",
+        "http://www.cs.washington.edu/education/courses/370/CurrentQtr/exams/",
+        "http://www.cs.washington.edu/education/courses/370/CurrentQtr/assignments/"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": " Roberta Lamb",
+    "Body": "Roberta Lamb and Rob Kling (1995), \"Online Information Resource Mediation of Interorganizational Relationships\", Proceedings of the First AIS Americas Conference on Information Systems.",
+    "link": [
+        "http://www.ics.uci.edu/CORPS/",
+        "http://www.ics.uci.edu/~kling",
+        "mailto:rlamb@ics.uci.edu"
+    ],
+    "ground_truth": "student"
+}

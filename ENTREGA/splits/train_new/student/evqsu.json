@@ -1,0 +1,10 @@
+{
+    "Title": "\n\tArijit Sarcar\n",
+    "Body": "Date: Thu, 21 Nov 1996 21:50:44 GMT Server: NCSA/1.5 Content-type: text/html Arijit Sarcar Boston University -- Computer Science Department Welcome Official Here is a link to my RESUME I'm a Master's student due to graduate this Dec '96 (hopefully!).",
+    "link": [
+        "http://web.bu.edu",
+        "http://cs-www.bu.edu/",
+        "http://www.cs.bu.edu/students/grads/asarcar/resume.html"
+    ],
+    "ground_truth": "student"
+}

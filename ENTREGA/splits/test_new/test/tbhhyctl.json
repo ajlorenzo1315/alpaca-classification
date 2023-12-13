@@ -1,0 +1,10 @@
+{
+    "Title": " Collective Communications ",
+    "Body": "Date: Tue, 10 Dec 1996 21:47:45 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Tue, 28 Feb 1995 07:07:10 GMT Content-length: 1084 Collective Communications Collective Communications Collective communications are routines that require greater than two processors to communicate in order to carry out some global operation on distributed data.",
+    "link": [
+        "http:intercom/intercom.html",
+        "http:./explicit.html",
+        "http:./remap.html"
+    ],
+    "ground_truth": "unknow"
+}

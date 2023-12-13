@@ -1,0 +1,10 @@
+{
+    "Title": "CS 378 Programming Assignment Information",
+    "Body": "General Info You should read the following information as it applies to all programs for this course: C++ Programming Guidelines in Postscript or PDF Submission Instructions in Postscript or PDF If you are using Unix, you will need to write a Makefile.",
+    "link": [
+        "./coding.ps",
+        "./coding.pdf",
+        "./submission.ps"
+    ],
+    "ground_truth": "other"
+}

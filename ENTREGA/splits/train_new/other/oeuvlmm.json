@@ -1,0 +1,10 @@
+{
+    "Title": "MetaCrawler Searching",
+    "Body": "Date: Tue, 05 Nov 1996 00:04:09 GMT Server: Apache/1.1.1 Content-type: text/html MetaCrawler Searching MetaCrawler Parallel Web Search Service by Erik Selberg and Oren Etzioni Try the new MetaCrawler Beta !",
+    "link": [
+        "http://www.fiesta.com",
+        "http://www.cs.washington.edu/homes/selberg",
+        "http://www.cs.washington.edu/homes/etzioni"
+    ],
+    "ground_truth": "other"
+}

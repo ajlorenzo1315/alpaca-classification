@@ -1,0 +1,10 @@
+{
+    "Title": " Vishy's Resume ",
+    "Body": "Research Interests Query result-size and cost estimation Query optimization, query processing Physical database design Parallel database systems Education Ph.D: Computer Sciences, University of Wisconsin-Madison (expected 7/96).",
+    "link": [
+        "http://www.cs.wisc.edu/~poosala/tech/pub.html",
+        "http://www.cs.wisc.edu/~poosala/tech/work.html",
+        "http://www.cs.wisc.edu/~poosala/tech/prof.html"
+    ],
+    "ground_truth": "other"
+}

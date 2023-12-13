@@ -1,0 +1,10 @@
+{
+    "Title": "Vivek Ratan's Home Page",
+    "Body": "Details on safety research at UW can be found at the UW safety page .",
+    "link": [
+        "http://www.cs.washington.edu",
+        "http://www.washington.edu/",
+        "http://www.bellcore.com"
+    ],
+    "ground_truth": "student"
+}

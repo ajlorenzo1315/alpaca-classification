@@ -1,0 +1,8 @@
+{
+    "Title": "Dissertation Abstract",
+    "Body": "Low test time and reduced performance degradation must be achieved simultaneously during the design of a testable system.",
+    "link": [
+        "http://www-cse.ucsd.edu/users/iharris/images/diss_abs.ps"
+    ],
+    "ground_truth": "unknow"
+}

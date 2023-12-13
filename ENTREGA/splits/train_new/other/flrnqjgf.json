@@ -1,0 +1,10 @@
+{
+    "Title": "Real-Time Systems Simulators",
+    "Body": "Date: Tue, 14 Jan 1997 21:49:02 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Fri, 01 Sep 1995 15:19:39 GMT Content-length: 1704 Real-Time Systems Simulators Real-Time Systems: Simulators University of Massachusetts, Amherst Spring Real-Time Scheduling The Spring real-time scheduling simulator supports the study of various real-time scheduling algorithms.",
+    "link": [
+        "http://www-ccs.cs.umass.edu/spring/carts.html",
+        "http://www-ccs.cs.umass.edu/spring/db.html",
+        "http://www-ccs.cs.umass.edu/rts.html"
+    ],
+    "ground_truth": "other"
+}

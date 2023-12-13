@@ -1,0 +1,10 @@
+{
+    "Title": "GNU Emacs for Windows NT and Windows 95",
+    "Body": "With default-frame-alist , we set the top left corner of new frames to be at pixel offset +200+400, the width and height to be 80x40, the cursor to be white, the foreground to be yellow, the background to be black, and the font to be Courier 10.",
+    "link": [
+        "#changes19-33",
+        "#trouble-usedtowork",
+        "#support"
+    ],
+    "ground_truth": "other"
+}

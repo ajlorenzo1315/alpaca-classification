@@ -1,0 +1,10 @@
+{
+    "Title": "Chris Welty",
+    "Body": "Electronic Information Director of IJCAI Information Director of ACM SIGART Announcements Editor of the SIGART Bulletin Moderator of the NL-KR Digest Ph.D. from the RPI Computer Science Department Fall 1996 Courses: CMPU-265: Artificial Intelligence Mon & Wed 10:00-11:15, OLB 105 COGS-100: Introduction to Cognitive Science Tues & Thurs 11:30-12:45, Blodgett 105 Research Interests: Artificial Intelligence and Software Engineering Specifically, making software more understandable through better representations.",
+    "link": [
+        "http://www.cs.vassar.edu/faculty/welty/stealing.html",
+        "http://www.cs.vassar.edu/",
+        "http://www.vassar.edu"
+    ],
+    "ground_truth": "faculty"
+}

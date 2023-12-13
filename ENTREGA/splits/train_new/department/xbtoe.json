@@ -1,0 +1,10 @@
+{
+    "Title": " UTEP Computer Science Department ",
+    "Body": "Date: Tue, 26 Nov 1996 22:19:47 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Fri, 20 Sep 1996 19:37:59 GMT Content-length: 4827 UTEP Computer Science Department Welcome!",
+    "link": [
+        "brochure/br_dept.html",
+        "brochure/br_univ.html",
+        "brochure/br_ep.html"
+    ],
+    "ground_truth": "department"
+}

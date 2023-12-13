@@ -1,0 +1,10 @@
+{
+    "Title": "UC Santa Cruz - CE/CS Departments Home Page",
+    "Body": "CE/CS Home Page Personnel Research Academic Programs Facilities Announcements Other Servers Help For basic information on building home pages, see the tutorials.",
+    "link": [
+        "http://www.cse.ucsc.edu/tutorials/baskin.html",
+        "http://www.cse.ucsc.edu/stats2/wwwstat.html",
+        "http://www.cse.ucsc.edu/stats2/index.html"
+    ],
+    "ground_truth": "unknow"
+}

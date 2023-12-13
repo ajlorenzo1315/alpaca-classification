@@ -1,0 +1,10 @@
+{
+    "Title": "CS302:  Handouts for Chad's section(s)",
+    "Body": "Date: Mon, 11 Nov 1996 17:17:18 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Thu, 31 Oct 1996 17:40:14 GMT Content-length: 1081 CS302:  Handouts for Chad's section(s) Handouts Look here for things you might need for class.",
+    "link": [
+        "handout/tribble.h",
+        "handout/streamy.cpp",
+        "handout/parmpass.cc"
+    ],
+    "ground_truth": "other"
+}

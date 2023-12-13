@@ -1,0 +1,10 @@
+{
+    "Title": "Eric De Mund",
+    "Body": "Extracurricular: University of New Mexico Southwest Film Center UNM Hiking Club Personal My non-academic interests include, in no particular order, literature, hiking (check out page 46 of the October 1994 Issue of National Geographic for another photo of me), backpacking, bicycle touring (I've crossed North Carolina, bicycled several days along the Pacific Coast Highway, bicycled several days along the Blue Ridge Parkway, and crossed the country along the BikeCentennial trail in 1985), canoeing (100 miles of mosquitos and scorpions in the Florida Everglades), and ultimate frisbee.",
+    "link": [
+        "http://www.cs.unm.edu/",
+        "http://www.cs.unm.edu/~ead/wisdom-cookiefile",
+        "http://www.cs.unm.edu/~ead/abbey-cookiefile"
+    ],
+    "ground_truth": "student"
+}

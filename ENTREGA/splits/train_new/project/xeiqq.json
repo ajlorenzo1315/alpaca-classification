@@ -1,0 +1,10 @@
+{
+    "Title": "Rutgers CAM Project ",
+    "Body": "By 2000 a CAM architecture can provide 5-10 giga-ops on a single chip that replaces DRAM, significantly increases system peak performance, and scales with memory size.",
+    "link": [
+        "http://www.cs.rutgers.edu/~levy",
+        "http://www.cs.rutgers.edu/~josh",
+        "http://www.cs.rutgers.edu/~dsmith"
+    ],
+    "ground_truth": "project"
+}

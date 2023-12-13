@@ -1,0 +1,10 @@
+{
+    "Title": "\nParallel MPEG Encoding\n",
+    "Body": "Because our version of parallel MPEG encoding is an integral part of RIVL, it is extremely easy to use.",
+    "link": [
+        "#mulva",
+        "http://www.cs.cornell.edu/Info/People/jmm/jmm.html",
+        "mailto:jmm@cs.cornell.edu"
+    ],
+    "ground_truth": "other"
+}

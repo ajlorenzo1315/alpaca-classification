@@ -1,0 +1,10 @@
+{
+    "Title": "CS 640 Mail List Archive",
+    "Body": "I am wondering if this > is really what you plan to do, or should we expect that you might do > either of the following as well: > > suspend the process - the node goes unresponsive, but later it floods > \t\t      the network with packets that are way too late > \t\t      and should be ignored until that node gets with > \t\t      the times.",
+    "link": [
+        "#68",
+        "#67",
+        "#66"
+    ],
+    "ground_truth": "unknow"
+}

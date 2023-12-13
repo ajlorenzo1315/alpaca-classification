@@ -1,0 +1,10 @@
+{
+    "Title": "Elements of AI",
+    "Body": "Date: Mon, 02 Dec 1996 16:01:36 GMT Server: NCSA/1.4.2 Content-type: text/html Elements of AI The Elements of Artificial Intelligence Using Common Lisp, Second Edition: Lisp Programs Copyright Notice The Lisp program materials posted here are subject to copyright protection.",
+    "link": [
+        "ftp://ftp.cs.washington.edu/homes/tanimoto/ai/ROMAN1.CL",
+        "ftp://ftp.cs.washington.edu/homes/tanimoto/ai/ROMAN2.CL",
+        "ftp://ftp.cs.washington.edu/homes/tanimoto/ai/ROMAN3.CL"
+    ],
+    "ground_truth": "other"
+}

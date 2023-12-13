@@ -1,0 +1,10 @@
+{
+    "Title": "Departmental Research Scientists",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Sunday, 24-Nov-96 23:02:00 GMT Content-Type: text/html Content-Length: 1734 Last-Modified: Thursday, 10-Nov-94 21:00:56 GMT Departmental Research Scientists Departmental Research Scientists These are the Research Scientists in the Department.",
+    "link": [
+        "http://www.cs.cornell.edu/Info/Department/Annual94/Researchers/Chew.html",
+        "http://www.cs.cornell.edu/Info/Department/Annual94/Researchers/Krafft.html",
+        "http://www.cs.cornell.edu/Info/Department/Annual94/Researchers/Land.html"
+    ],
+    "ground_truth": "other"
+}

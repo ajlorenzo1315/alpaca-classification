@@ -1,0 +1,10 @@
+{
+    "Title": "\nRich Wolski's Home Page\n",
+    "Body": "My vita and some of my more recent publication efforts are here as are a bunch of related pointers to other Web locales.",
+    "link": [
+        "http://www-cse.ucsd.edu/index.html",
+        "http://www-cse.ucsd.edu/groups/hpcl/het.html",
+        "http://www-cse.ucsd.edu/groups/hpcl/hpcl.html"
+    ],
+    "ground_truth": "faculty"
+}

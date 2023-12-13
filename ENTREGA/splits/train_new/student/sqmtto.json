@@ -1,0 +1,9 @@
+{
+    "Title": "Saurabh Jang's Home Page",
+    "Body": "Date: Tue, 26 Nov 1996 03:01:29 GMT Server: NCSA/1.5.1 Last-modified: Mon, 08 Apr 1996 05:44:09 GMT Content-type: text/html Content-length: 1086 Saurabh Jang's Home Page Saurabh Jang's Home Page Some day this home page will go down in the WWW hall of fame as the the home page that really kicked ass , so keep checking!",
+    "link": [
+        "http://www.cs.mtu.edu/grads/Jang/bit.html",
+        "http://www.cs.mtu.edu/grads/Jang/academics.html"
+    ],
+    "ground_truth": "student"
+}

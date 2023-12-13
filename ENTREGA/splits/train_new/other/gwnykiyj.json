@@ -1,0 +1,10 @@
+{
+    "Title": "UW Computer Sciences Research Information",
+    "Body": "Date: Wed, 11 Dec 1996 23:14:30 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Mon, 06 May 1996 21:12:08 GMT Content-length: 1487 UW Computer Sciences Research Information UW Computer Sciences Research Information Research Projects Condor Coral - A Deductive Database System CPNET: Complementarity Problem Net EXODUS - An Extensible Object-Oriented Database System Toolkit Galileo - Long-Term Architectures NEXT!",
+    "link": [
+        "http://www.cs.wisc.edu/condor/",
+        "http://www.cs.wisc.edu/coral/",
+        "http://www.cs.wisc.edu/cpnet/"
+    ],
+    "ground_truth": "other"
+}

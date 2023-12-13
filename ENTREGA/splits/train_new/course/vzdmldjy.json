@@ -1,0 +1,10 @@
+{
+    "Title": "Computer Science 305 -- Fall 1996",
+    "Body": "Homework Assignments When writing up your homework, there are two goals you must keep in mind: first, to give evidence that you have put real thought into the problem, and second, to convince the reader that your solution is correct and that you know why .",
+    "link": [
+        "http://www.cs.bu.edu/students/grads/dm/cs305/f96/hw5/hw5.html",
+        "http://www.cs.bu.edu/students/grads/dm/cs305/f96/hw5.ps",
+        "http://www.cs.bu.edu/students/grads/dm/cs305/f96/hw4/hw4.html"
+    ],
+    "ground_truth": "course"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Assignments for CS 412",
+    "Body": "In addition, put the first letter of your last name boldly into the upper left corner of the first page of your homework, to make it easier for us to sort it and for you to find it again when it is handed back.",
+    "link": [
+        "http://www.cs.wisc.edu/~deboor/412/home1.ps",
+        "http://www.cs.wisc.edu/~deboor/412/home.1",
+        "http://www.cs.wisc.edu/~deboor/412/home2.ps"
+    ],
+    "ground_truth": "other"
+}

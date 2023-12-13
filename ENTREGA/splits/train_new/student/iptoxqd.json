@@ -1,0 +1,10 @@
+{
+    "Title": "Home Page for H. Chad Lane",
+    "Body": "The biggest news of my life right now is that I'm getting married on May 24, 1997 to Nichole .",
+    "link": [
+        "#academics",
+        "http://www.cs.wisc.edu/~hcl/cs302.html",
+        "#personal"
+    ],
+    "ground_truth": "student"
+}

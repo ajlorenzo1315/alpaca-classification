@@ -1,0 +1,10 @@
+{
+    "Title": "BU CAS CS 113 - Discussion Sections",
+    "Body": "If you cannot make the discussion that you are assigned to, feel free to come to the other one; however, the number of computers in the lab are limited.",
+    "link": [
+        "http://cs-www.bu.edu/courses/cs113/F96/",
+        "http://www.cs.bu.edu/courses/cs113/F96/sections/midterm_solutions.p8-10.html",
+        "http://www.cs.bu.edu/courses/cs113/F96/sections/ex1/"
+    ],
+    "ground_truth": "other"
+}

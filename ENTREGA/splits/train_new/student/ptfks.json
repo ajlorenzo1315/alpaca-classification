@@ -1,0 +1,10 @@
+{
+    "Title": "Warren Gardner Information Page",
+    "Body": "He has also recently worked on the ARPA Image Database and an on-line version of the 1994 ARPA Image Understanding Workshop .",
+    "link": [
+        "http://www.cc.gatech.edu/gvu/gvutop.html",
+        "http://www.cc.gatech.edu/gvu/image_understanding/gravity/gravity.html",
+        "http://oakmont.cc.gatech.edu:8080/browser.html"
+    ],
+    "ground_truth": "student"
+}

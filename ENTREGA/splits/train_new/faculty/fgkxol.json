@@ -1,0 +1,10 @@
+{
+    "Title": "Alex Aiken",
+    "Body": "Toward this end, I'm involved in developing two special purpose languages: Tioga , a database visualization system that makes it easy for people without visualization expertise to turn relational data into pictures, and TREE , a project to make conversion between data formats simple without the use of arcane sed, awk, and perl scripts.",
+    "link": [
+        "http://HTTP.CS.Berkeley.EDU/~aiken/pictures/alexboy.gif",
+        "http://HTTP.CS.Berkeley.EDU/~aiken/pictures/aiken.gif",
+        "mailto:aiken@cs.berkeley.edu"
+    ],
+    "ground_truth": "faculty"
+}

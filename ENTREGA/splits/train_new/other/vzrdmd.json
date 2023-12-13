@@ -1,0 +1,10 @@
+{
+    "Title": "The Transform Programmer",
+    "Body": "The differences are that multiple images can be handled at the same time, that the program contains the capability to transform images in complicated ways according to user-specified formulas, and that the image display and transformation functions can be commanded from the programming language as well as directly by the user.",
+    "link": [
+        "http://www.cs.washington.edu/",
+        "ftp://ftp.u.washington.edu/public/",
+        "http://www.cs.washington.edu/area/"
+    ],
+    "ground_truth": "other"
+}

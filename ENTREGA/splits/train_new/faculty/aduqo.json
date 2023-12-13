@@ -1,0 +1,10 @@
+{
+    "Title": "Yale N. Patt",
+    "Body": "Once I get things straightened out, there will be links to: EECS 100 , a serious Introduction to Computer Science and Computer Engineering for Undergraduate majors in Computer Science, Computer Engineering, and Electrical Engineering.",
+    "link": [
+        "http://www.eecs.umich.edu/~patt/cyprus.gif",
+        "http://www.engin.umich.edu/class/eecs100/",
+        "http://www.eecs.umich.edu/HPS/"
+    ],
+    "ground_truth": "faculty"
+}

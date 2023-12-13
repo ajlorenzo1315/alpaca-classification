@@ -1,0 +1,10 @@
+{
+    "Title": " Northwest Laboratory for Integrated Systems",
+    "Body": "Today, the Northwest Laboratory for Integrated Systems is the focus of a wide variety of VLSI architectures, embedded sytems, and CAD research.",
+    "link": [
+        "http://www.cs.washington.edu/",
+        "http://www.washington.edu/",
+        "http://www.cs.washington.edu/area/"
+    ],
+    "ground_truth": "project"
+}

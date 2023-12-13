@@ -1,0 +1,10 @@
+{
+    "Title": "SPIN",
+    "Body": "Date: Thu, 21 Nov 1996 20:32:10 GMT Server: NCSA/1.4.2 Content-type: text/html SPIN spin@cs.washington.edu The SPIN Operating System SPIN is an extensible operating system kernel that supports the dynamic adaptation of system interfaces and implementations through direct application control, while still maintaining system integrity and inter-application isolation.",
+    "link": [
+        "http://www.cs.washington.edu/research/projects/spin/www/external/members.html",
+        "mailto:spin@cs.washington.edu",
+        "http://www.cs.washington.edu/research/projects/spin/www/external/modula3/index.html"
+    ],
+    "ground_truth": "project"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Cis 410/510 Object Oriented Analysis/Design",
+    "Body": "Week 10 Topics important to ComponentWare and Agents are considered this final week.",
+    "link": [
+        "http://www.cs.uoregon.edu/classes/cis410ood/java/index.html",
+        "http://zenb.cs.uoregon.edu/bjorn/",
+        "mailto:bjorn@cs.uoregon.edu"
+    ],
+    "ground_truth": "course"
+}

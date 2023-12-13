@@ -1,0 +1,10 @@
+{
+    "Title": "Ashish Jhaveri",
+    "Body": "Tel : (607) 275-3481 Home Education Cornell University , College of Engineering, Ithaca, NY 14850 Master of Engineering in Computer Science, May 1997 Maharashtra Institute of Technology , Pune, India.",
+    "link": [
+        "mailto:ashish@cs.cornell.edu",
+        "resume.ps",
+        "#address"
+    ],
+    "ground_truth": "unknow"
+}

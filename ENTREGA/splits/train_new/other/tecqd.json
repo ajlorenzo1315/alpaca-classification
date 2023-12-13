@@ -1,0 +1,6 @@
+{
+    "Title": "\nCSE 415  Prog. Assignment 2\n",
+    "Body": "Then write a function,  simplify ( E ) which will operate on the output of the D function and simplify the result, using only the following simplifications (where U is any expression or subexpression in the output of D).",
+    "link": [],
+    "ground_truth": "other"
+}

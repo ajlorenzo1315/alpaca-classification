@@ -1,0 +1,10 @@
+{
+    "Title": "Shilpa's hotlist",
+    "Body": "Date: Tue, 05 Nov 1996 21:19:09 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Mon, 24 Jun 1996 21:50:30 GMT Content-length: 2140 Shilpa's hotlist Places to visit Books Music Hindi film music .",
+    "link": [
+        "http://www.cs.wisc.edu/~ssl/places.html",
+        "http://www.cs.wisc.edu/~ssl/books.html",
+        "http://www.cs.wisc.edu/~navin/india/songs"
+    ],
+    "ground_truth": "other"
+}

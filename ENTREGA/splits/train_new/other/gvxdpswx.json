@@ -1,0 +1,10 @@
+{
+    "Title": "CS 110 Section 2 - Announcements",
+    "Body": "When you send me E-mail make sure you send it from the account you will read your E-mail from because I will reply to the same account that you E-mailed me from.",
+    "link": [
+        "http://www.cs.wisc.edu/~bestor/cs110/cs110.html#menu",
+        "http://www.cs.wisc.edu/~bestor/cs110/Syllabus.html",
+        "http://www.cs.wisc.edu/~cs302/Consultants/schedule_s96.html"
+    ],
+    "ground_truth": "other"
+}

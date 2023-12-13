@@ -1,0 +1,10 @@
+{
+    "Title": "Michael Bogomolny",
+    "Body": "[78%] Which one of the two programs would you favor?",
+    "link": [
+        "http://net.cs.utexas.edu/users/risto/cs395t-cs/ads/husman",
+        "http://www.cs.utexas.edu/users/rdb/cs195T",
+        "http://www.cs.utexas.edu/users/risto/cs395t-cs"
+    ],
+    "ground_truth": "student"
+}

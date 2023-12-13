@@ -1,0 +1,10 @@
+{
+    "Title": "\nBU CLA CS 111: Intro CS I---Homework 2\n\t\t",
+    "Body": "printf(\"\\n\\nIIIIIII\\n\"); while (i < HEIGHT) { printf(\"  III\\n\"); i = i + 1; } printf(\"IIIIIII\\n\\n\\n\"); } Type, compile, and run this program Describe in a sentence or two of your own words what the program does.",
+    "link": [
+        "http://web.bu.edu/pagetwo.html",
+        "http://cs-pub.bu.edu/",
+        "http://www.cs.bu.edu/faculty/heddaya/CS111/home.html"
+    ],
+    "ground_truth": "other"
+}

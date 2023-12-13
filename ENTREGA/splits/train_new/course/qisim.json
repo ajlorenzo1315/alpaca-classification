@@ -1,0 +1,10 @@
+{
+    "Title": "Syllabus for 198:538",
+    "Body": "Alternating Turing Machines Basic relations to Dtime and Dspace Circuit Complexity, Parallel Computation The Polynomial Hierarchy Branching Programs; Barrington's Theorem Probabilistic Computation and Circuit Complexity Presentation of problems requiring large circuits NP has small circuits implies PH collapses; related results Probabilistic Complexity Classes; Basic Inclusions and Closure Properties Deterministic circuits simulate probabilistic computation.",
+    "link": [
+        "http://www.cs.rutgers.edu/~allender",
+        "http://www.cs.rutgers.edu/~allender/hours",
+        "http://www.cs.rutgers.edu/~allender/538/homework"
+    ],
+    "ground_truth": "course"
+}

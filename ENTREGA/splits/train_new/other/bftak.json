@@ -1,0 +1,10 @@
+{
+    "Title": " Lorenzo Alvisi's Publications ",
+    "Body": "Parallel Scientific Computing in Distributed Systems: The Paralex Approach.",
+    "link": [
+        "ftp://ftp.cs.utexas.edu/pub/lorenzo/paralex/design.ps",
+        "http://www.cs.unibo.it",
+        "ftp://ftp.cs.utexas.edu/pub/lorenzo/podc.ps"
+    ],
+    "ground_truth": "other"
+}

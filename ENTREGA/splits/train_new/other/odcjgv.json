@@ -1,0 +1,10 @@
+{
+    "Title": "CS302 Lecture Notes",
+    "Body": "To view the notes for a particular day, click on the note-taker's name.",
+    "link": [
+        "http://www.cs.wisc.edu/~weaver/cs302/lectures/sec16/notes960911",
+        "mailto:mrotek@cs.wisc.edu",
+        "http://www.cs.wisc.edu/~weaver/cs302/lectures/sec17/notes960911"
+    ],
+    "ground_truth": "other"
+}

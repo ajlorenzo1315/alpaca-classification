@@ -1,0 +1,10 @@
+{
+    "Title": "Ralph's Home Page",
+    "Body": "While at The University of Arizona, he continued his work on programming language design and implementation, which led to the programming languages SL5 and Icon .",
+    "link": [
+        "http://www.cs.arizona.edu/icon/index.html",
+        "http://www.cs.arizona.edu/icon/gb.html",
+        "http://www.cs.arizona.edu/icon/odds+ends/other.html"
+    ],
+    "ground_truth": "faculty"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Charles Elkan",
+    "Body": "Categorization-Based Diagnostic Problem Solving in the VLSI Design Domain In Proceedings of the Ninth IEEE Conference on Artificial Intelligence for Applications (CAIA'93), pp.",
+    "link": [
+        "http://www-cse.ucsd.edu/users/elkan/papers/fuzzy.ps",
+        "http://www-cse.ucsd.edu/users/elkan/papers/chatkb.ps",
+        "http://www.eecs.wsu.edu/~schlimme/ml95.html"
+    ],
+    "ground_truth": "faculty"
+}

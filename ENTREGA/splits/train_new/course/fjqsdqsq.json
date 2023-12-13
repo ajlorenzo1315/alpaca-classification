@@ -1,0 +1,10 @@
+{
+    "Title": "Advanced Artificial Intelligence Home Page",
+    "Body": "Problem set 4 Programming assignment 2 Problem set 5 Problem set 6 Handouts Ambiguity in natural language processing",
+    "link": [
+        "http://cs.nyu.edu/cs/faculty/davise",
+        "mailto:davise@cs.nyu.edu",
+        "http://www.cs.berkeley.edu/~russell/aima.html"
+    ],
+    "ground_truth": "course"
+}

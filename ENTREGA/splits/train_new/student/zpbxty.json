@@ -1,0 +1,10 @@
+{
+    "Title": "Sean D. Sandys",
+    "Body": "For those that are interested, here is a description of the Undergraduate Tutoring and Mentoring Program here at the University of Washington.",
+    "link": [
+        "http://www.cs.indiana.edu:800/finger/gateway?sds@cs.washington.edu",
+        "http://www.cs.washington.edu/",
+        "http://www.washington.edu/"
+    ],
+    "ground_truth": "student"
+}

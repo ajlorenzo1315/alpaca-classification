@@ -1,0 +1,10 @@
+{
+    "Title": " Trinkle's Available Publications",
+    "Body": "J.C. Trinkle and R.P.",
+    "link": [
+        "http://www.cs.tamu.edu/faculty/trink/Papers/jamPT_abs.html",
+        "http://www.cs.tamu.edu/faculty/trink/Papers/jamPT.ps.Z",
+        "http://www.isc.tamu.edu/~des/homepage.html"
+    ],
+    "ground_truth": "other"
+}

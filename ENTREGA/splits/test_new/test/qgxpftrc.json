@@ -1,0 +1,10 @@
+{
+    "Title": "\nBU CAS CS 113: Introduction to Computer Science II with Intensive C \n-- Home Page\n",
+    "Body": "Optional Reference Texts: Since neither of the required texts aims to be a comprehensive reference on the C programming language, you may wish to consider one of the following reference books.",
+    "link": [
+        "http://web.bu.edu/pagetwo.html",
+        "http://cs-pub.bu.edu/",
+        "http://www.cs.bu.edu/courses/cs113/F96/assignments/a0.html"
+    ],
+    "ground_truth": "unknow"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Computing Lab Information",
+    "Body": "You may choose to use this lab, but there will be no 142 consultants on duty, and in general the level of support from 142 staff will be low.",
+    "link": [
+        "http://www.cs.washington.edu/education/courses/142/CurrentQtr/messages.htm",
+        "http://www.cs.washington.edu/education/courses/401/schedule.html",
+        "http://www.cs.washington.edu/education/courses/142/CurrentQtr/142-96a-lab-sched.htm"
+    ],
+    "ground_truth": "other"
+}

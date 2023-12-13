@@ -1,0 +1,10 @@
+{
+    "Title": "Zhu, Qing's Resume",
+    "Body": "Database: Oracle(SQL, CASE), INFORMIX, Gupta, PowerBuilder, knowledgeable in Sybase.",
+    "link": [
+        "mailto:zhuqing@cs.utexas.eud",
+        "http://www.cs.utexas.edu/users/zhuqing/",
+        "mailto: zhuqing@cs.utexas.edu"
+    ],
+    "ground_truth": "unknow"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Eric Shim's Home Page",
+    "Body": "My friends in the world!",
+    "link": [
+        "http://www.cs.cornell.edu",
+        "http://www.cornell.edu",
+        "http://www.ithaca.ny.us/"
+    ],
+    "ground_truth": "student"
+}

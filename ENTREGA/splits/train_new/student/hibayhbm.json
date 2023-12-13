@@ -1,0 +1,10 @@
+{
+    "Title": "Information about Timothy Yeong-Jia Chen.",
+    "Body": "Ph.D. Student of University of Pittsburgh Publications: S.K.",
+    "link": [
+        "http://www.cs.pitt.edu/~yjchen/family.gif",
+        "http://www.cs.pitt.edu/",
+        "http://www.pitt.edu/"
+    ],
+    "ground_truth": "student"
+}

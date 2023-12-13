@@ -1,0 +1,9 @@
+{
+    "Title": "\nUCSD Applied Physics and Mathematics Building\n",
+    "Body": "The east wing of the building consists mainly of offices, while the west wing is used primarily for laboratory space.",
+    "link": [
+        "http://www-cse.ucsd.edu/CSE_Home_Page.html",
+        "http://www-cse.ucsd.edu/users/hutches"
+    ],
+    "ground_truth": "unknow"
+}

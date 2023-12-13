@@ -1,0 +1,10 @@
+{
+    "Title": "Research ( 2-Feb-1996)",
+    "Body": "Publications from the University of Massachusetts are linked to the University of Massachusetts Computer Science Department Technical Report server.",
+    "link": [
+        "http://eksl-www.cs.umass.edu/research/clip-clasp-details.html#clasp",
+        "http://eksl-www.cs.umass.edu/research/clip-clasp-overview.html",
+        "/research/projects/ai/www/bur.html"
+    ],
+    "ground_truth": "other"
+}

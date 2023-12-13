@@ -1,0 +1,10 @@
+{
+    "Title": "CSE/ENGR 142 Home Page (Autumn 1996)",
+    "Body": "Date: Thu, 21 Nov 1996 22:24:46 GMT Server: NCSA/1.4.2 Content-type: text/html CSE/ENGR 142 Home Page (Autumn 1996) CSE/ENGR 142: Computer Programming I Martin Dickey & Richard Ladner , Autumn 1996 Welcome to the 142 Home Page!",
+    "link": [
+        "http://www.cs.washington.edu/education/courses/142/CurrentQtr//",
+        "http://www.cs.washington.edu/homes/dickey/",
+        "http://www.cs.washington.edu/homes/ladner/"
+    ],
+    "ground_truth": "course"
+}

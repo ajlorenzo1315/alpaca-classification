@@ -1,0 +1,10 @@
+{
+    "Title": "MY Home",
+    "Body": "It's my home at Rutgers (:ALL YOU WANNA KNOW ABOUT ME:) My first friends in the US Interesting people I met in the US My favorite sports How I keep in touch with the rest of the world My favorite picture Send me your comments About me and what I do here Born in India in the post-indepedence era, I spent most of my younger days in Madurai, the temple city, in the state of Tamil Nadu .",
+    "link": [
+        "http://paul.rutgers.edu/~rajag/raj.html",
+        "http://info.rutgers.edu",
+        "http://paul.rutgers.edu/~rajag/index.html#About me>About me and what I do here</a><p>\n<a href = "
+    ],
+    "ground_truth": "student"
+}

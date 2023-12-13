@@ -1,0 +1,10 @@
+{
+    "Title": " Lloyd N. Trefethen ",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Wednesday, 20-Nov-96 18:56:50 GMT Content-Type: text/html Content-Length: 3258 Last-Modified: Sunday, 17-Nov-96 19:43:55 GMT Lloyd N. Trefethen Lloyd N. Trefethen Professor LNT@cs.cornell.edu My appointment at Cornell is in the Computer Science Department .",
+    "link": [
+        "http://www.cs.cornell.edu",
+        "http://cam.cornell.edu",
+        "http://math.cornell.edu"
+    ],
+    "ground_truth": "faculty"
+}

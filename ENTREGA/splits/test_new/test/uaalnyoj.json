@@ -1,0 +1,10 @@
+{
+    "Title": "CSE 505 Home Page",
+    "Body": "Send mail to the list at: cse505@cs.washington.edu .",
+    "link": [
+        "http://www.cs.washington.edu/homes/notkin",
+        "mailto:notkin@cs.washington.edu",
+        "http://www.cs.washington.edu/homes/kepart/"
+    ],
+    "ground_truth": "unknow"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "JCU - Computer Science - Australia : Home Page",
+    "Body": "Date: Tue, 26 Nov 1996 22:57:34 GMT Server: NCSA/1.5.1 Content-type: text/html JCU - Computer Science - Australia : Home Page Department of Computer Science James Cook University Due to a hardware failure, our web dæmon has been moved to another machine.",
+    "link": [
+        "http://www.cs.jcu.edu.au/ftp/web/staff/People.html",
+        "http://www.cs.jcu.edu.au/ftp/web/teaching/Subjects/",
+        "http://www.cs.jcu.edu.au/ftp/web/research/topics/"
+    ],
+    "ground_truth": "department"
+}

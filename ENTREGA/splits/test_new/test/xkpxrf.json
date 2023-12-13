@@ -1,0 +1,10 @@
+{
+    "Title": "Welcome to Philippe Ciaravola's Home Page",
+    "Body": "After having been introduced to CGI programning, I decided to update my game of Othello for the third time and to put it on the Internet.",
+    "link": [
+        "http://home.netscape.com",
+        "http://www.mcrcim.mcgill.ca/~ciaravola/",
+        "http://www.cs.mcgill.ca/~vola/rules.html"
+    ],
+    "ground_truth": "unknow"
+}

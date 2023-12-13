@@ -1,0 +1,10 @@
+{
+    "Title": "Carl de Boor's Home Page",
+    "Body": "Click here for information about Numerical Analysis here at CS .",
+    "link": [
+        "http://www.cs.wisc.edu/~deboor/deboor3x5.jpg",
+        "http://www.cs.wisc.edu/",
+        "http://www.cs.wisc.edu/~dyer/images/madspxs.gif"
+    ],
+    "ground_truth": "faculty"
+}

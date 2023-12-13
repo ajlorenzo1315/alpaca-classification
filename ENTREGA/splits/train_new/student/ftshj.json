@@ -1,0 +1,10 @@
+{
+    "Title": "Subuddh's Home Page",
+    "Body": "Check out their web page at www.crossaccess.com to see what they are all about.",
+    "link": [
+        "http://www.cs.ucr.edu/~sparekh/mebig.html",
+        "http://www.cs.ucr.edu/~sparekh/me_pic.html",
+        "http://www.cs.ucr.edu/~sparekh/about_me.html"
+    ],
+    "ground_truth": "student"
+}

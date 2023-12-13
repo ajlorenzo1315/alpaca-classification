@@ -1,0 +1,10 @@
+{
+    "Title": "\nUTCS Classes\n",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Monday, 06-Jan-97 20:06:42 GMT Content-Type: text/html Content-Length: 3408 Last-Modified: Tuesday, 17-Dec-96 16:25:53 GMT UTCS Classes UTCS Classes This page contains links to web pages maintained by faculty for courses they are, or will soon be, teaching.",
+    "link": [
+        "http://www.cs.utexas.edu/users/UTCS/courses/",
+        "http://www.cs.utexas.edu/users/UTCS/schedule/",
+        "http://www.cs.utexas.edu/users/novak/cs304p.html"
+    ],
+    "ground_truth": "other"
+}

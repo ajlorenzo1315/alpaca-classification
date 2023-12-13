@@ -1,0 +1,10 @@
+{
+    "Title": "Area II.3. Adaptive Voice Mimic",
+    "Body": "Below, are some coding examples from the voice mimic where the articulatory parameters from the input speech have been used to re-synthesize the speech.",
+    "link": [
+        "http://www.cs.rutgers.edu/hpcd/Area_II.3/Audio/oussou32_3.au",
+        "http://www.cs.rutgers.edu/hpcd/Area_II.3/Audio/oussou32syn_3.au",
+        "http://www.cs.rutgers.edu/hpcd/Area_II.3/Audio/oushou32_3.au"
+    ],
+    "ground_truth": "other"
+}

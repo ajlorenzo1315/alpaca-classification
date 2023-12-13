@@ -1,0 +1,10 @@
+{
+    "Title": "Yuri Leontiev's Home Page",
+    "Body": "My research is part of the TIGUKAT Objectbase Management System Project which is one of the research projects carried out at the Laboratory for Database Systems Research in our Department.",
+    "link": [
+        "#personal",
+        "#research",
+        "#interest"
+    ],
+    "ground_truth": "student"
+}

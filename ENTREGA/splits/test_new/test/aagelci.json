@@ -1,0 +1,10 @@
+{
+    "Title": " Document Information Server Design and Usage\n",
+    "Body": "Date: Tue, 14 Jan 1997 21:38:58 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Mon, 04 Mar 1996 18:22:11 GMT Content-length: 2700 Document Information Server Design and Usage The Server is provided as a repository for information, data, and public domain code relating to the field of document image understanding.",
+    "link": [
+        "http://documents.cfar.umd.edu/stats/analog.html",
+        "http://documents.cfar.umd.edu/stats/YearToDateWWWC.ps",
+        "http://documents.cfar.umd.edu/system/usage.graph.gif"
+    ],
+    "ground_truth": "unknow"
+}

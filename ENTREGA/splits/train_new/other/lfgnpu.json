@@ -1,0 +1,10 @@
+{
+    "Title": "\nElectronic Payment Systems\n",
+    "Body": "Listing of files in /u/ssinha/pub/elec_pay : AJSW96.ps.gz : \"Electronic Payment Systems\" BBCM1_94CafeEsorics.ps.gz : \"The ESPRIT Project CAFE - High Security Digital Payment Systems\" BuePf_89.ps.gz : \"Digital Payment Systems  Enabling Security and Unobservability\" HSW96.ps.gz : \"Micro-Payments based on i KP\" collude.ps.gz : \"Anonymous Credit Cards and its Collusion Analysis\" ikp.ps.gz : \" i KP - A Family of Secure Electronic Payment Protocols\" wcf.ps.gz : \"Why Cryptosystems Fail\" gokul.ps.gz : Gokul's transparencies for the talk ssinha.ps.gz : My transparencies for the talk The two papers I had to read in hard copy were : David Chaum : \"Security Without Identification: Transaction Systems To Make Big Brother Obsolete\" : Communications of the ACM Oct 1985 Vol 28 #10 Stefan Brands : \"Untraceable Off-line Cash in Wallet with Observers\" Lecture Notes in Computer Science 773 , Advances in Cryptology, CRYPTO '93 On-line payment systems, enabling payment control by payment system provider Credit cards/Cash First Virtual Cybercash Digicash iKP SET Micropayments Millicent NetBill NetCheque Micro-Payment Transfer Protocol Micro-iKP Globe ID(R) by GC Tech OpenMarket payment switch Electronic Cheques FSTC Electronic check project Off-line payment systems, enabling payment control by payment system provider Smartcards/Electronic purses Danmont ( Public Key) Proton ( Public Key) CLIP ( Shared Key) CEN Intersector Electronic Purse (Proposed Standard) EMV Electronic Purse (Proposed Standard) Mondex On-line untraceable payment systems NetCash Anonymous credit cards Off-line untraceable payment systems CAFE Other links of interest As is usual on the net, there is far too much information/junk around.",
+    "link": [
+        "http://www.cs.utexas.edu/users/gokul",
+        "http://www.cs.utexas.edu/users/ssinha/welcome.html",
+        "http://www.fv.com/"
+    ],
+    "ground_truth": "other"
+}

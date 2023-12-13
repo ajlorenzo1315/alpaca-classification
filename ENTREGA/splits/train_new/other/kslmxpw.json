@@ -1,0 +1,10 @@
+{
+    "Title": "research",
+    "Body": "I'm pursuing a PhD in computer science, specifically in artificial intelligence .",
+    "link": [
+        "http://www.cs.washington.edu/",
+        "http://www.cs.washington.edu/research/projects/ai/www/ai.html",
+        "http://www.cs.washington.edu/research/projects/softbots/www/softbots.html"
+    ],
+    "ground_truth": "other"
+}

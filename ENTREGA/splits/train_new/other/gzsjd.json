@@ -1,0 +1,10 @@
+{
+    "Title": "CS 302 Section 70 - Lecture Notes: Week 3,Part 1",
+    "Body": "Example: if x and y are both greater than min then ...",
+    "link": [
+        "http://www.cs.wisc.edu/~tick/cs302.html#text",
+        "http://www.cs.wisc.edu/~bestor/bestor.html",
+        "mailto:bestor@cs.wisc.edu"
+    ],
+    "ground_truth": "other"
+}

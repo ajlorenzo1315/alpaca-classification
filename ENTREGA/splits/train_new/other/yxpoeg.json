@@ -1,0 +1,6 @@
+{
+    "Title": "CS100B Program 5 Clarifications",
+    "Body": "So, the function should be: void make_array(elemptr a[256]) { int i;",
+    "link": [],
+    "ground_truth": "other"
+}

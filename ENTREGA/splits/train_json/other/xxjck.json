@@ -1,0 +1,5 @@
+{
+    "Título": "CS 302 Fall 1996 - Section 2 Exam Grades",
+    "Cuerpo": "Date: Mon, 11 Nov 1996 17:04:39 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Tue, 15 Oct 1996 20:28:50 GMT Content-length: 428 CS 302 Fall 1996 - Section 2 Exam Grades CS 302 Fall 1996 - Section 2 Exam Grades ID #\tExam #1 9926\t91 2358\t88 4366\t72 6591\t85 1111\t16 7326\t96 1315\t96 6934\t86 6741\t94 3412\t82 3420\t95 6297\t82 0927\t96 3546\t85 2315\t80 4742\t83 2947\t82 6636\t87 0639\t71 6916\t75 4293\t86 6344\t75 2313\t92 7647\t50 1959\t68 Max:   100 Mean: 80.3",
+    "ground_truth": "other"
+}

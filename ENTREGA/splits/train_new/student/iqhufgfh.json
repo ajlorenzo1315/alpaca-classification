@@ -1,0 +1,10 @@
+{
+    "Title": "Ambrose Kofi Laing's Personal Home Page",
+    "Body": "Date: Thu, 21 Nov 1996 22:25:39 GMT Server: NCSA/1.5.1 Last-modified: Sat, 29 Jun 1996 02:59:48 GMT Content-type: text/html Content-length: 1391 Ambrose Kofi Laing's Personal Home Page Ambrose Kofi Laing's Home Page My Address: 3003 N. Charles St., #5QA, Baltimore, MD 21218-3855 Here is my Contact information: Phone (Home): (410)323-0480 Phone (Work): (410)516-4650 Email: laing@cs.jhu.edu I'm now in the Ph.D. program of the Computer Science Department of The Johns Hopkins University .",
+    "link": [
+        "http://www.cs.jhu.edu/",
+        "http://www.jhu.edu/",
+        "http://www.cs.jhu.edu/~konstant/ConcLab.html"
+    ],
+    "ground_truth": "student"
+}

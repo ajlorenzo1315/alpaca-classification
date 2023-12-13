@@ -1,0 +1,10 @@
+{
+    "Title": "Joseph M. Hellerstein",
+    "Body": "Date: Thu, 21 Nov 1996 19:58:16 GMT Server: NCSA/1.5.2 Last-modified: Fri, 15 Nov 1996 03:59:43 GMT Content-type: text/html Content-length: 6903 Joseph M. Hellerstein Joseph M. Hellerstein Assistant Professor Office: 685 Soda Hall Phone: (510) 643-4011 Fax: (510) 642-5615 Email: jmh@cs.berkeley.edu Address: University of California, Berkeley EECS Computer Science Division 387 Soda Hall #1776 Berkeley CA 94720-1776 Research Interests: Database Systems Current Projects The GiST Indexing Project Generalized Search Trees (GiSTs) for Database Systems and general use Indexing for non-standard lookups and data domains Indexability Theory Online Aggregation Query processing techniques for online aggregation.",
+    "link": [
+        "mailto:jmh@cs.berkeley.edu",
+        "http://www.cs.berkeley.edu/",
+        "http://gist.cs.berkeley.edu/"
+    ],
+    "ground_truth": "faculty"
+}

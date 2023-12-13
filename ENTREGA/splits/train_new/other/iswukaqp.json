@@ -1,0 +1,10 @@
+{
+    "Title": "A306 - Retail Store\nProject",
+    "Body": "List all the files you have written for the project, including your Makefile .",
+    "link": [
+        "http://www.cs.indiana.edu/classes/a306/retail/Person.html",
+        "http://www.cs.indiana.edu/classes/a306/retail/Customer.html",
+        "http://www.cs.indiana.edu/classes/a306/retail/Employee.html"
+    ],
+    "ground_truth": "other"
+}

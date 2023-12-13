@@ -1,0 +1,8 @@
+{
+    "Title": "  Wisconsin COW  ",
+    "Body": "Date: Tue, 05 Nov 1996 21:01:53 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Fri, 03 Feb 1995 17:12:52 GMT Content-length: 654 Wisconsin COW Wisconsin COW Wisconsin Cluster of Workstations (COW) is a collection of 40 Sun SPARCstation-20s (soon to be) connected by a high-speed network (probably Myricom Myrinet).",
+    "link": [
+        "http://www.cs.wisc.edu/~markhill/markhill.html"
+    ],
+    "ground_truth": "other"
+}

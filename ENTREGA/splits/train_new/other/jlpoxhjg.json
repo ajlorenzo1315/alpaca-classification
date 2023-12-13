@@ -1,0 +1,10 @@
+{
+    "Title": "Hints for Mosaic",
+    "Body": "You can change the home page line in MOSAIC.INI to read \"Home Page=http//www.cs.wisc.edu/~cs302/cs302.html\".",
+    "link": [
+        "#getting.places.faster",
+        "#making.a.hotlist",
+        "#changing.first.page"
+    ],
+    "ground_truth": "other"
+}

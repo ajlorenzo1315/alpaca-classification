@@ -1,0 +1,10 @@
+{
+    "Title": "No title",
+    "Body": "A good search tool from Indiana.",
+    "link": [
+        "http://liinwww.ira.uka.de/bibliography/index.html",
+        "http://liinwww.ira.uka.de/bibliograp\\\nhy/index.html",
+        "http://www.cs.cmu.edu/Web/techreport.html"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": " Wendy Curry's Home Page ",
+    "Body": "Her thesis advisor Larry Latour is working with her on the Inquiry based Learning Project.",
+    "link": [
+        "http://www.vtw.org/speech/",
+        "http://kramer.ume.maine.edu/umorono.htm",
+        "http://www.umcs.maine.edu/"
+    ],
+    "ground_truth": "student"
+}

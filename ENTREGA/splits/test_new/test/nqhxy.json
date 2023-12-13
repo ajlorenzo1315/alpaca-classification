@@ -1,0 +1,10 @@
+{
+    "Title": "WARTS",
+    "Body": "The simulators report the behavior of one or more alternative cache designs in response to an input trace provided by the user (e.g., with QPT).",
+    "link": [
+        "http://www.cs.wisc.edu/~larus/qpt.html",
+        "#CPROF",
+        "#Tycho"
+    ],
+    "ground_truth": "unknow"
+}

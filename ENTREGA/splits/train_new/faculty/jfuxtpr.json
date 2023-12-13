@@ -1,0 +1,10 @@
+{
+    "Title": "Michael S. Waterman\n",
+    "Body": "Also he is a Fellow of the American Association for the Advancement of Science and Fellow of the Institute of Mathematical Statistics.",
+    "link": [
+        "http://www.usc.edu/dept/math/",
+        "http://www.usc.edu/dept/biosci",
+        "http://www.usc.edu/dept/cs/"
+    ],
+    "ground_truth": "faculty"
+}

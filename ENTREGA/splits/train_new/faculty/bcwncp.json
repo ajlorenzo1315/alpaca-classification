@@ -1,0 +1,10 @@
+{
+    "Title": "Manuel Blum",
+    "Body": "Notes for CS170:  Introduction to Theoretical CS.",
+    "link": [
+        "http://HTTP.CS.Berkeley.EDU/~blum/evalcsdepts.html",
+        "http://HTTP.CS.Berkeley.EDU/~blum/170notes",
+        "http://HTTP.CS.Berkeley.EDU/~blum/174notes.html"
+    ],
+    "ground_truth": "faculty"
+}

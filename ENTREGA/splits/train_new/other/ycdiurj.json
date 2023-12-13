@@ -1,0 +1,10 @@
+{
+    "Title": "CSE 590 ZP: Other Useful Links",
+    "Body": "Date: Mon, 02 Dec 1996 15:21:02 GMT Server: NCSA/1.4.2 Content-type: text/html CSE 590 ZP: Other Useful Links CSE 590 ZP: Other Useful Links Below is a list of potentially useful links.",
+    "link": [
+        "mailto:sungeun@cs.washington.edu",
+        "//www/research/projects/zpl",
+        "http://www.ccsf.caltech.edu/resources/other_sites.html"
+    ],
+    "ground_truth": "other"
+}

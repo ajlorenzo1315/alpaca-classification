@@ -1,0 +1,10 @@
+{
+    "Title": "University of Rochester CS Dept. Home Page",
+    "Body": "Information about the department is available in our Department brochure .",
+    "link": [
+        "http://www.cs.rochester.edu/brochure/",
+        "http://www.cs.rochester.edu/trs/",
+        "ftp://ftp.cs.rochester.edu/pub"
+    ],
+    "ground_truth": "department"
+}

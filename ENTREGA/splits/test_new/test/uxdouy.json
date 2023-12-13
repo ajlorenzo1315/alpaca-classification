@@ -1,0 +1,10 @@
+{
+    "Title": " CS 103 Homepage ",
+    "Body": "These are some basic skills that the student will have by the end of the course: Knowledge of Computer organization Knowledge of Information Systems Use of computers for problem solving Programming skills Internet Applications TOPICS FOR TEST#2 If you have any comments or questions, send an e-mail to : Dr. Christensen or Claudio (CS103 Supervisor) Interesting Sites to visit Topics for test#2 Visit other Campus.",
+    "link": [
+        "http://www.cs.byu.edu/info/lcchristensen.html",
+        "mailto:lchris@cs.byu.edu",
+        "mailto:goral@byu.edu"
+    ],
+    "ground_truth": "unknow"
+}

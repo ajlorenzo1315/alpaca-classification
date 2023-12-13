@@ -1,0 +1,10 @@
+{
+    "Title": "Prashant Shenoy's Recent Publications",
+    "Body": "Proceedings of the Third ACM Conference on Multimedia, San Francisco, CA, pages 131-140, 1995 .",
+    "link": [
+        "http://www.cs.utexas.edu/users/shenoy/papers/TR-96-35.ps",
+        "http://www.cs.utexas.edu/users/dmcl/Abstracts/DRAD.html",
+        "http://www.cs.utexas.edu/users/dmcl/Postscript/TR-96-06.ps"
+    ],
+    "ground_truth": "other"
+}

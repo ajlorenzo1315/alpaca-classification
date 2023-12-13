@@ -1,0 +1,10 @@
+{
+    "Title": "Rex M. Jakobovits' Home Page",
+    "Body": "A Newslet would be here if you had Java Family Links My dad, Leon James , a professor of Psychology at the University of Hawaii who is writing a book on traffic psychology and fostering a lively online polemic about Emanuel Swedenborg .",
+    "link": [
+        "mailto:rex@cs.washington.edu?subject=hello%20there",
+        "http://www.cs.washington.edu/",
+        "ftp://ftp.u.washington.edu/public/"
+    ],
+    "ground_truth": "unknow"
+}

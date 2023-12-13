@@ -1,0 +1,10 @@
+{
+    "Title": " Snowy's Homepage ",
+    "Body": "I am Snowy.",
+    "link": [
+        "http://www.cs.wisc.edu/~ssl/gifs/snowy.jpeg",
+        "http://www.cs.cmu.edu/afs/cs.cmu.edu/user/mmbt/www/percussion/owl-story.html",
+        "http://hawaii-shopping.com/~sammonet/pueomyth.html"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Index",
+    "Body": "406636 atp-116.ps 89738 atp-116.tex A Precondition Prover for Analogy W.W. Bledsoe Computer Science Department The University of Texas at Austin Austin, Texas 78712 We describe here a prover PC that normally acts as an ordinary theorem prover, but which returns a ``precondition'' when it is unable to prove the given formula.",
+    "link": [
+        "http://www.ma.utexas.edu/users/bshults",
+        "http://www.ma.utexas.edu/users/bshults/ATP",
+        "ftp://ftp.cs.utexas.edu/pub/bshults/ATP-tech-reports/atp-106.ascii"
+    ],
+    "ground_truth": "other"
+}

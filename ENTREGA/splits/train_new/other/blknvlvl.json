@@ -1,0 +1,10 @@
+{
+    "Title": "CODE Alumni",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Friday, 17-Jan-97 00:07:02 GMT Content-Type: text/html Content-Length: 1631 Last-Modified: Wednesday, 13-Mar-96 21:00:42 GMT CODE Alumni CODE Alumni The following are ex-students and programmers of the CODE group.",
+    "link": [
+        "http://www.cs.utexas.edu/users/kleyn",
+        "http://www.cs.utexas.edu/users/rajats",
+        "mailto:rjain@cs.utexas.edu"
+    ],
+    "ground_truth": "other"
+}

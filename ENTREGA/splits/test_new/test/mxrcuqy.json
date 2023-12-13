@@ -1,0 +1,10 @@
+{
+    "Title": " CS 51:  Introduction to Computer Science II ",
+    "Body": "LISP Faq Online COMMON LISP manual You can search this file for descriptions of the COMMON LISP functions and macros.",
+    "link": [
+        "http://fas-www.harvard.edu/~lib51/updates.txt",
+        "http://fas-www.harvard.edu/~lib51/mirror/help/rr.help",
+        "http://fas-www.harvard.edu/~lib51/mirror/help/asst3-debug.help"
+    ],
+    "ground_truth": "unknow"
+}

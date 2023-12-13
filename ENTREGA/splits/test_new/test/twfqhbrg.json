@@ -1,0 +1,10 @@
+{
+    "Title": "Fran Berman's Home Page",
+    "Body": "Date: Thu, 21 Nov 1996 20:11:47 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Fri, 11 Oct 1996 21:50:18 GMT Content-length: 2866 Fran Berman's Home Page Francine D. Berman Department of Computer Science and Engineering University of California, San Diego La Jolla, CA 92093-0114 Phone: (619) 534-6195 Fax: (619) 534-7029 Lab: (619) 534-5913 Email: berman@cs.ucsd.edu Education Ph.D., University of Washington, 1979.",
+    "link": [
+        "http://www-cse.ucsd.edu/groups/hpcl/apples/apples.html",
+        "http://www-cse.ucsd.edu/groups/hpcl/het.html",
+        "http://www-cse.ucsd.edu/users/berman/hcw.html"
+    ],
+    "ground_truth": "unknow"
+}

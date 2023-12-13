@@ -1,0 +1,10 @@
+{
+    "Title": "AP Group Home Page",
+    "Body": "See the Cognitive Robotics Home Page for more, including Neo-Modular Systems The Imagination Project Natural Communication with Robots Also see the Cog Shop Home Page for information on an interrelated project.",
+    "link": [
+        "http://www.ai.mit.edu/people/ap",
+        "http://web.mit.edu",
+        "http://www.ai.mit.edu"
+    ],
+    "ground_truth": "project"
+}

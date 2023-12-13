@@ -1,0 +1,10 @@
+{
+    "Title": "The SR Programming Language",
+    "Body": "It has been used in concurrent programming courses to reinforce concepts with small programming projects and with larger projects such as experiments with parallel algorithms,  replicated databases, distributed simulations, and parts of distributed operating systems such as file systems and command interpreters.",
+    "link": [
+        "http://www.cs.arizona.edu/sr/www/doc.html",
+        "http://www.cs.arizona.edu/sr/www/impl.html",
+        "http://www.cs.arizona.edu/sr/www/info-sr.html"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Elisabeth Freeman's home page",
+    "Body": "Date: Thu, 21 Nov 1996 23:47:57 GMT Server: NCSA/1.4.1 Content-type: text/html Last-modified: Fri, 01 Nov 1996 14:50:50 GMT Content-length: 1110 Elisabeth Freeman's home page <!--body bgcolor=black link=\"ffbbff\" text=\"ffffff\" vlink=\"fff1d4\" alink=\"ffffff\"> Elisabeth Freeman V ISUAL L ANGUAGES TAP: T HE A DA P ROJECT W EATHER V EGETARIAN C OOKING",
+    "link": [
+        "http://www.cs.yale.edu/HTML/YALE/CS/HyPlans/freeman/Beth/me.html",
+        "http://www.cs.yale.edu/HTML/YALE/CS/HyPlans/freeman/Beth/visual_languages.html",
+        "http://www.cs.yale.edu/homes/tap/tap.html"
+    ],
+    "ground_truth": "unknow"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": " David Cooper's Home Page ",
+    "Body": "Preserving privacy in a network of mobile computers.",
+    "link": [
+        "mailto:dcooper@cs.cornell.edu",
+        "http://simon.cs.cornell.edu/Info/Projects/HORUS/",
+        "ftp://athena-dist.mit.edu/ftp/pub/ATHENA/kerberos"
+    ],
+    "ground_truth": "unknow"
+}

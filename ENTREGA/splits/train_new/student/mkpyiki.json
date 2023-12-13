@@ -1,0 +1,10 @@
+{
+    "Title": " David Pearson ",
+    "Body": "I believe that this connection to the architecture has been a good thing for algorithm design, and to really exploit parallel machines we need a language for which the costs of operations are as easy to estimate as they are for C++ on a Von Neumann machine.",
+    "link": [
+        "mbs.ps",
+        "change.ps",
+        "rsa.ps"
+    ],
+    "ground_truth": "student"
+}

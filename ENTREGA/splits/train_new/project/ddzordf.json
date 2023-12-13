@@ -1,0 +1,10 @@
+{
+    "Title": "Cornell Active Messages",
+    "Body": "The first part of this paper describes an implementation of Active Messages (SP AM) which is layered directly on top of the SP's network adapter (TB2).",
+    "link": [
+        "http://www.cs.cornell.edu/Info/Projects/U-Net/",
+        "http://www.cs.cornell.edu/Info/Projects/CAM/gam-1.0.aix3.tar.Z",
+        "http://www.cs.cornell.edu/Info/Projects/CAM/README"
+    ],
+    "ground_truth": "project"
+}

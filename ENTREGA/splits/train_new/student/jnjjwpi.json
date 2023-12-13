@@ -1,0 +1,10 @@
+{
+    "Title": "James K. Han",
+    "Body": "Date: Thu, 21 Nov 1996 23:08:18 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Tue, 25 Jun 1996 20:14:11 GMT Content-length: 963 James K. Han James K. Han Email: jhan@cs.ucsd.edu Office: AP&M 6414 Phone: (619) 534-8604 Lab: Computer Systems Laboratory Address: Computer Science and Engineering University of California, San Diego .",
+    "link": [
+        "mailto:jhan@cs.ucsd.edu",
+        "http://www-csl.ucsd.edu",
+        "http://www-cse.ucsd.edu"
+    ],
+    "ground_truth": "student"
+}

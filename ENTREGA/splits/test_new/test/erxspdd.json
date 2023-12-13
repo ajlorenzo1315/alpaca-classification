@@ -1,0 +1,10 @@
+{
+    "Title": "Flapdragon: House of Squiddle",
+    "Body": "Click here for definitions of squiddle and flapdragon.",
+    "link": [
+        "http://www.cs.cornell.edu/Info/People/yminsky/flapdragon/lockingout.html",
+        "http://www.cs.cornell.edu/Info/People/yminsky/flapdragon/definitions.html",
+        "http://www.cs.cornell.edu/Info/People/yminsky/flapdragon/quotelist.html"
+    ],
+    "ground_truth": "unknow"
+}

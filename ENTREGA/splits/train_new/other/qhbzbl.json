@@ -1,0 +1,10 @@
+{
+    "Title": "The UW DC Prototype",
+    "Body": "A new version of the region is compiled at run-time for each set of values these variables have at the beginning of the dynamic region.",
+    "link": [
+        "http://www.cs.washington.edu/homes/eggers",
+        "http://www.cs.washington.edu/people/faculty/chambers.html",
+        "http://www.cs.washington.edu/research/projects/unisw/DynComp/www/Prototype/people.html"
+    ],
+    "ground_truth": "other"
+}

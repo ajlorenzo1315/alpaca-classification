@@ -1,0 +1,10 @@
+{
+    "Title": "B403 (Spring `97) home page",
+    "Body": "(Part IV: chapters 16-18, 24) We will then discuss graph algorithms.",
+    "link": [
+        "#info",
+        "#outline",
+        "#lectures"
+    ],
+    "ground_truth": "course"
+}

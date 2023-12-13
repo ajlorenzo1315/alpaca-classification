@@ -1,0 +1,10 @@
+{
+    "Title": "jim fix",
+    "Body": "You can check out my schedule to see what I'm up to.",
+    "link": [
+        "http://www.cs.washington.edu/homes/fix/home.html",
+        "http://www.cs.washington.edu/homes/fix//",
+        "http://www.cs.washington.edu/homes/sungeun/office/c109c.html"
+    ],
+    "ground_truth": "student"
+}

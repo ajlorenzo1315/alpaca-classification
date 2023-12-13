@@ -1,0 +1,10 @@
+{
+    "Title": "The Labyrinth of Mediocrity",
+    "Body": "Here are the papers with which I've been involved.",
+    "link": [
+        "http://www.suck.com",
+        "http://www.cs.washington.edu/homes/nick/research",
+        "http://www.cs.washington.edu/homes/nick/research/papers.html"
+    ],
+    "ground_truth": "unknow"
+}

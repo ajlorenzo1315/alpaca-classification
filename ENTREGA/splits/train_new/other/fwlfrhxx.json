@@ -1,0 +1,10 @@
+{
+    "Title": "tempelaar.lietz",
+    "Body": "t e m p e l a a r .",
+    "link": [
+        "http://www.cs.berkeley.edu/~sequin/PROJ/walkthru.html",
+        "http://www.cs.berkeley.edu/~sequin",
+        "http://www-inst.EECS.Berkeley.EDU/~lietz/vrml/hilboct.wrl"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "SSGRG Title Page",
+    "Body": "If you are looking for specific results (improvement in productivity, performance) that can be delivered by generators, or the relationship of our work to design patterns, check out (in order): Reengineering a Complex Application... P2: A Lightweight DBMS Generator Memory Simulators and Software Generators Automated Software Evolution via Design Patterns... For further information, please contact Don Batory (batory@cs.utexas.edu) .",
+    "link": [
+        "#overview",
+        "#people",
+        "#overview"
+    ],
+    "ground_truth": "project"
+}

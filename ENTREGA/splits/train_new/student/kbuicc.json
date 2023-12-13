@@ -1,0 +1,9 @@
+{
+    "Title": "Gail Murphy's (Former) Home Page",
+    "Body": "Date: Thu, 21 Nov 1996 22:55:40 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Thu, 15 Aug 1996 20:00:09 GMT Content-length: 721 Gail Murphy's (Former) Home Page Gail Murphy The carefree days of grad studies are over and I'm in the midst of moving to the University of British Columbia.",
+    "link": [
+        "http://www.cs.ubc.ca/spider/murphy/index.html",
+        "mailto:murphy@cs.ubc.ca"
+    ],
+    "ground_truth": "student"
+}

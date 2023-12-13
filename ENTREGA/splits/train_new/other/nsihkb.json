@@ -1,0 +1,10 @@
+{
+    "Title": "Undergraduate Guidebook - UW-Madison CS Dept",
+    "Body": "Date: Mon, 11 Nov 1996 21:12:13 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Tue, 09 Apr 1996 13:51:59 GMT Content-length: 2171 Undergraduate Guidebook - UW-Madison CS Dept GUIDEBOOK FOR UNDERGRADUATE STUDENTS COMPUTER SCIENCES DEPARTMENT UNIVERSITY OF WISCONSIN - MADISON February 1996 A postscript version of this guidebook is also available (the course-plan worksheet is in a separate file).",
+    "link": [
+        "http://www.cs.wisc.edu/~pubs/ugrad-guidebook/ugrad-guidebook.ps",
+        "http://www.cs.wisc.edu/~pubs/ugrad-guidebook/courseplanform.ps",
+        "advising.schedule"
+    ],
+    "ground_truth": "other"
+}

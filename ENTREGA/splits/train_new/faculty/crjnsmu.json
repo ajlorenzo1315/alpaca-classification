@@ -1,0 +1,10 @@
+{
+    "Title": "Billy's Home Page.",
+    "Body": "Billy's Home Page With special emphasis on developing, generating, solving and analyzing Markov chain models: Software (MARCA and MARCA_Models); Introductory text and Conferences on Numerical Solutions; Articles available by anonymous FTP.",
+    "link": [
+        "http://www.csc.ncsu.edu",
+        "http://www.ncsu.edu",
+        "http://www1.nando.net/nao/go/cities/raleigh/raleigh.html"
+    ],
+    "ground_truth": "faculty"
+}

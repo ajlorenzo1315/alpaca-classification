@@ -1,0 +1,10 @@
+{
+    "Title": "NCEE Home Page",
+    "Body": "Date: Tue, 10 Dec 1996 22:09:12 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Fri, 17 May 1996 04:13:27 GMT Content-length: 3956 NCEE Home Page NCEE Summer Camp Camp with the Whales, Eagles, Porpoises, Otters, Seals, Birds and Plants of the San Juan Islands Ken McCann is proud to announce the second year of the Northwest Center for Environmental Education , a nonprofit organization located at the beautiful Madrona Center on San Juan Island .",
+    "link": [
+        "http://www.cs.washington.edu/homes/rrogers/kenpg.htm",
+        "http://www.pacificrim.net/~bydesign/sjdir.html/",
+        "http://www.cs.washington.edu/homes/rrogers/whale.htm"
+    ],
+    "ground_truth": "other"
+}

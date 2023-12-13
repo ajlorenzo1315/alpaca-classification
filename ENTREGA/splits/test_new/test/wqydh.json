@@ -1,0 +1,8 @@
+{
+    "Title": "Comparison of Skeletonization Methods",
+    "Body": "Euclidean) 22.5 Some Observations on the Results Notice that the thinning method produces connected skeletons while the Medial Axis Transform (MAT) methods do not, even for the approximate Euclidean case.",
+    "link": [
+        "hw1-result/hw1-comments.txt"
+    ],
+    "ground_truth": "unknow"
+}

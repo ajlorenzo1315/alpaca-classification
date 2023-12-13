@@ -1,0 +1,10 @@
+{
+    "Title": "Running Allegro CL v4.3",
+    "Body": "Starting LISP Do the command: M-x fi:common-lisp Running Allegro Common LISP The ACL shell accepts a set of commands.",
+    "link": [
+        "http://www.cs.utexas.edu/users/qr/allegro-tables.html",
+        "http://www.cs.utexas.edu/users/qr/algernon.html",
+        "http://www.cs.utexas.edu/users/hewett"
+    ],
+    "ground_truth": "other"
+}

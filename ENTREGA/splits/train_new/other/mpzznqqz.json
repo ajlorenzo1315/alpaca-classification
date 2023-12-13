@@ -1,0 +1,10 @@
+{
+    "Title": "the more current, the more important.",
+    "Body": "details magazine, which is not.",
+    "link": [
+        "http://www.utne.com",
+        "http://web.mit.edu/techreview/www/tr.html",
+        "http://www.theonion.com"
+    ],
+    "ground_truth": "other"
+}

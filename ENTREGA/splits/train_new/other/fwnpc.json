@@ -1,0 +1,10 @@
+{
+    "Title": "CS212 S96 Index",
+    "Body": "It's written in Pascal, so you can look at the source code.",
+    "link": [
+        "ftp://ftp.cs.cornell.edu/pub/cs212/Marlais.sit.bin",
+        "ftp://ftp.cs.cornell.edu/pub/cs212/Emacs.sit.bin",
+        "ftp://ftp.cit.cornell.edu/pub/mac/util/stuffit-expander-351.bin"
+    ],
+    "ground_truth": "other"
+}

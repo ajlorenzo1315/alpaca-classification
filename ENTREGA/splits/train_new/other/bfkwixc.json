@@ -1,0 +1,10 @@
+{
+    "Title": "CS 537 - Processes, Part III (Implementation) ",
+    "Body": "Since we will only used critical sections to protect short operations (see the implementation of semaphores above ), it is reasonable to assume that a process that has done begin_cs will soon do end_CS , but the converse is not true:  There's no reason to assume that the other process will want to enter its critical section any time in the near future (or even at all!).",
+    "link": [
+        "#monitor_impl",
+        "#semaphore_impl",
+        "#cs_impl"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "CS302, Section 19",
+    "Body": "There is much information here of general interest including information about tutors , consultants , the windows operating system, email , netscape , and C++.",
+    "link": [
+        "http://www.cs.wisc.edu/~turnidge/turnidge.html",
+        "http://www.cs.wisc.edu/~turnidge/cs302/classes.html",
+        "http://www.cs.wisc.edu/~turnidge/cs302/struct-handout"
+    ],
+    "ground_truth": "course"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "SHORE Project Home Page",
+    "Body": "This interface is intended to ease the transition of applications from the Unix file system environment to Shore as existing Unix tools such as vi and cc will be able to store their data in Shore objects without modification (basically a Unix file becomes either a single Shore object or the text field of a more complex object).",
+    "link": [
+        "#Objective",
+        "#Overview",
+        "#Release"
+    ],
+    "ground_truth": "project"
+}

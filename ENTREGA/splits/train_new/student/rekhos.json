@@ -1,0 +1,10 @@
+{
+    "Title": "Wheeler Ruml's Home Page",
+    "Body": "If you think you know something that I should know, but that I might not, please tell it to me!",
+    "link": [
+        "mailto:ruml@eecs.harvard.edu",
+        "http://www.das.harvard.edu/users/students/Wheeler_Ruml/cog_models.html",
+        "http://das-www.harvard.edu/users/faculty/Stuart_Shieber/Stuart_Shieber.html"
+    ],
+    "ground_truth": "student"
+}

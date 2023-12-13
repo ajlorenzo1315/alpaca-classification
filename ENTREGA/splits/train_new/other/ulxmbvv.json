@@ -1,0 +1,6 @@
+{
+    "Title": "Questions about Program 6",
+    "Body": "To summarize, if the interaction with the user is built into a member function (as it is with read_app ), then, if the user enters an invalid value, she should be prompted again for a valid value.",
+    "link": [],
+    "ground_truth": "other"
+}

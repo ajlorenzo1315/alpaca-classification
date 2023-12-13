@@ -1,0 +1,10 @@
+{
+    "Title": "Personal Page - Jay F. Kusler, Department of Computer Science",
+    "Body": "Date: Tue, 26 Nov 1996 20:42:39 GMT Server: Apache/1.1.0 Content-type: text/html Content-length: 1620 Last-modified: Wed, 30 Oct 1996 00:20:28 GMT Personal Page - Jay F. Kusler, Department of Computer Science Jay F. Kusler Systems Operations Manager Computer Science Department Michigan State University I am in charge of the day-to-day operations involved in managing and servicing  the 150+ workstations, 15-odd servers, and 1800+ active user accounts in our department.",
+    "link": [
+        "http://web.cps.msu.edu",
+        "http://web.msu.edu",
+        "http://web.cps.msu.edu/~ni/"
+    ],
+    "ground_truth": "staff"
+}

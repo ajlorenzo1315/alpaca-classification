@@ -1,0 +1,10 @@
+{
+    "Title": "Our Important Stuff",
+    "Body": "Date: Tue, 05 Nov 1996 21:19:42 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Wed, 11 Sep 1996 23:47:56 GMT Content-length: 754 Our Important Stuff We're Married!",
+    "link": [
+        "http://www.cs.wisc.edu/~lloyd/lloyd.html",
+        "http://www.chem.utah.edu/atlas/students/murch.html",
+        "http://www.cs.wisc.edu/~lloyd/gallery.html"
+    ],
+    "ground_truth": "other"
+}

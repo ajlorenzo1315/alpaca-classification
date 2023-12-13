@@ -1,0 +1,10 @@
+{
+    "Title": " Kevin Hinshaw: Personal Info\n",
+    "Body": "I was born in Seattle in 1970, grew up in Olympia, and lived a couple other places before finally moving back to Seattle for graduate school at the University of Washington.",
+    "link": [
+        "http://www.cs.washington.edu/homes/hinshaw/music.html",
+        "http://www.cs.washington.edu/homes/segal/stp.html",
+        "http://www.cs.washington.edu/homes/rex/rb/rball.html"
+    ],
+    "ground_truth": "other"
+}

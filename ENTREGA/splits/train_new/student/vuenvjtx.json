@@ -1,0 +1,10 @@
+{
+    "Title": "Brendan's Home Page",
+    "Body": "At the moment I am looking at the problem of physical mapping; building a rough map of the location of landmarks in a genome.",
+    "link": [
+        "http://www.cs.washington.edu/homes/brendan/brendan.html",
+        "http://www.cs.washington.edu/",
+        "http://www.washington.edu/"
+    ],
+    "ground_truth": "student"
+}

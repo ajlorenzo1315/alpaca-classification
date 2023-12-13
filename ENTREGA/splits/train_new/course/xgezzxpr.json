@@ -1,0 +1,10 @@
+{
+    "Title": "The Network Programming Home Page",
+    "Body": "HAL answers your questions about HW4 Contents Teaching staff Class notes (syllabus, handouts, etc) Textbook errata, source code Net resources (rfc indicies, etc) Teaching staff Click here to send mail to netprog@cs.rpi.edu , which will get sent to both Dave and Roddy, thus increasing the probability of a quick reply.",
+    "link": [
+        "mailto:netprog@cs.rpi.edu",
+        "http://netlab.cs.rpi.edu/~hollingd/netprog/fls/tp.html",
+        "http://netlab.cs.rpi.edu/~hollingd/netprog/tpform.html"
+    ],
+    "ground_truth": "course"
+}

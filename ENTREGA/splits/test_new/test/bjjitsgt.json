@@ -1,0 +1,10 @@
+{
+    "Title": "Introduction to Artificial Intelligence -- Fall 1996",
+    "Body": "We will study the principles that underlie much of what is called the declarative view of AI.",
+    "link": [
+        "http://www.cs.tufts.edu/g/131/tahours.html",
+        "http://www.cs.tufts.edu/g/131/documents/index.html",
+        "http://www.cs.tufts.edu/g/131/lisp/index.html"
+    ],
+    "ground_truth": "unknow"
+}

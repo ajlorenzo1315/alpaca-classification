@@ -1,0 +1,10 @@
+{
+    "Title": " Papers",
+    "Body": "A. Greenbaum and L. N. Trefethen, \" Do the pseudospectra of a matrix determine its behavior?",
+    "link": [
+        "cv.ps",
+        "bibliography.ps",
+        "defn.ps"
+    ],
+    "ground_truth": "other"
+}

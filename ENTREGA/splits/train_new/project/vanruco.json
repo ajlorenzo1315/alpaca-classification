@@ -1,0 +1,10 @@
+{
+    "Title": " Laboratory for Advanced Parallel Systems in ND, LAPS  ",
+    "Body": "For example, one focus of LAPS is studying and designing new generations of scalable massive parallel architectures based on the expereince of a working massive parallel machine, EXECUBE, which was designed by Dr. Kogge.",
+    "link": [
+        "http://www.cse.nd.edu/faculty/kogge.html",
+        "http://www.nd.edu/~esha",
+        "http://www.nd.edu/~sdartt"
+    ],
+    "ground_truth": "project"
+}

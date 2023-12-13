@@ -1,0 +1,10 @@
+{
+    "Title": "Jianxiang Liu's Homepage",
+    "Body": "degree from the Department of Computer Science at Yale University .",
+    "link": [
+        "http://giskard.eng.yale.edu/vision/people/liuj/pic/liu.jpg",
+        "http://www.cs.yale.edu/",
+        "http://www.cs.yale.edu/default.html"
+    ],
+    "ground_truth": "student"
+}

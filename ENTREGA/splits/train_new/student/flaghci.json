@@ -1,0 +1,9 @@
+{
+    "Title": "Radu Florian's home page",
+    "Body": "Welcome to my home page.",
+    "link": [
+        "MAILTO:rflorian@cs.jhu.edu",
+        "http://www.cs.jhu.edu/~rflorian/oos.html#Object Oriented Systems"
+    ],
+    "ground_truth": "student"
+}

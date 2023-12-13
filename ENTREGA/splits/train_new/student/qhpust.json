@@ -1,0 +1,10 @@
+{
+    "Title": " Katya's Homepage",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Thursday, 21-Nov-96 22:38:33 GMT Content-Type: text/html Content-Length: 903 Last-Modified: Friday, 01-Dec-95 00:38:23 GMT Katya's Homepage Katya Klimukhina kate@ccs.neu.edu I am a Ph.D. student at the College of Computer Science at Northeastern University .",
+    "link": [
+        "http://www.ccs.neu.edu",
+        "http://www.neu.edu",
+        "http://www.ccs.neu.edu/home/kate/work.html"
+    ],
+    "ground_truth": "student"
+}

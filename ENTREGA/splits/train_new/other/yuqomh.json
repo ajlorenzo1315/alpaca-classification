@@ -1,0 +1,10 @@
+{
+    "Title": "Software Reference Manuals",
+    "Body": "LaTeX2e Reference Pages Reference guide to the 2e version of LaTeX.",
+    "link": [
+        "http://www.cs.wm.edu/~necaise/refs/latex2e/Contents.html",
+        "http://www.cs.wm.edu/~necaise/refs/unix/index.html",
+        "http://www.cs.wm.edu/~necaise/refs/iostream/Top.html.gz"
+    ],
+    "ground_truth": "other"
+}

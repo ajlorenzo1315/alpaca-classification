@@ -1,0 +1,10 @@
+{
+    "Title": "Frank Vahid's Home Page",
+    "Body": "Demonstration of the advantages of functional partitioning over the current structural partitioning approach for distributing a system among packages (with Yu-Chin Hsu and Thuy Le).",
+    "link": [
+        "http://www.cs.ucr.edu/publications",
+        "http://oneworld.wa.com/bahai",
+        "http://www.cs.ucr.edu/isss96/index.html"
+    ],
+    "ground_truth": "unknow"
+}

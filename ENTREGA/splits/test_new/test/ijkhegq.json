@@ -1,0 +1,10 @@
+{
+    "Title": "Ellis Horowitz' Home Page",
+    "Body": "Professional Interests Software Engineering Programming Languages WorldWideWeb Electronic Commerce Employment Chair and Professor, Department of Computer Science, School of Engineering , University of Southern California 1970-73\tAssistant Professor, Computer Science, Cornell University , 1973-Present\tProfessor, Computer Science, University of Southern California 1990-Present\tDepartment Head, Computer Science, University of Southern California 1993-95     Principal, Center for Software Engineering , Projects CS665 NewsGroups Digest Program, Click Here for References WinWin: Software for Acquiring and Analyzing System Requirements Memberships ACM IEEE Recent Publications Fundamentals of Data Structures in C W.H.",
+    "link": [
+        "http://sunset.usc.edu/~horowitz/Homework/hw2.html",
+        "http://sunset.usc.edu/~horowitz/webtalk/irus1.html",
+        "http://wings.buffalo.edu/geogw"
+    ],
+    "ground_truth": "unknow"
+}

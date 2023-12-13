@@ -1,0 +1,10 @@
+{
+    "Title": "CS 470/570 Artificial Intelligence",
+    "Body": "HTML.",
+    "link": [
+        "http://www.cs.uidaho.edu/courses.html#CS 213",
+        "http://www.cs.uidaho.edu/~frincke/",
+        "http://www.cs.uidaho.edu/~frincke/classes/cs470Info.html"
+    ],
+    "ground_truth": "course"
+}

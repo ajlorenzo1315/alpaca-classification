@@ -1,0 +1,9 @@
+{
+    "Title": "Extending HCLP Languages: Nonmonotonicity and Inter-Hierarchy \nComparison",
+    "Body": "The nonmonotonicity properties create novel implementation problems, which we discuss, while at the same time extending the usefulness of HCLP languages.",
+    "link": [
+        "ftp://cs.washington.edu/pub/constraints/papers/extending-hclp-naclp-89.ps.Z",
+        "http://www.cs.washington.edu/research/projects/weird/www/index.html"
+    ],
+    "ground_truth": "other"
+}

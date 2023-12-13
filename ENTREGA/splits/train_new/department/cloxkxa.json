@@ -1,0 +1,10 @@
+{
+    "Title": "BU CS Dept",
+    "Body": "Date: Tue, 26 Nov 1996 23:04:40 GMT Server: NCSA/1.5 Content-type: text/html BU CS Dept Welcome to the WWW Home Page of the Computer Science Department at the College of Arts And Sciences of Boston University , Boston , Massachusetts , USA.",
+    "link": [
+        "gopher://gopher.bu.edu:70/11/Resources%20At%20Your%20Fingertips/School%20and%20College%20Bulletins/Undergraduate%20Programs/College%20of%20Liberal%20Arts",
+        "http://web.bu.edu/pagetwo.html",
+        "http://www.city.net/countries/united_states/massachusetts/boston/"
+    ],
+    "ground_truth": "department"
+}

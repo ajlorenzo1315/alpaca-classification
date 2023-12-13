@@ -1,0 +1,10 @@
+{
+    "Title": "CS472 Fall 96 Course Materials",
+    "Body": "(completed for code review 2, 18 Nov) Finish the implementation of the AI part (inference engine, control strategies, learning algorithm) of your system.",
+    "link": [
+        "news:cornell.class.cs472",
+        "#1",
+        "#2"
+    ],
+    "ground_truth": "other"
+}

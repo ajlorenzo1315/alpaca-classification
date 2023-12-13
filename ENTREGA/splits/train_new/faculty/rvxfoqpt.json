@@ -1,0 +1,10 @@
+{
+    "Title": "Dave Stemple's home page",
+    "Body": "Internet: stemple@cs.umass.edu EDUCATION Ph.D.     Computer and Information Science, University of Massachusetts, 1977 A.B., M.S.",
+    "link": [
+        "http://www.cs.umass.edu/",
+        "http://www.cs.umass.edu/rcfdocs/newhome/index.html",
+        "mailto:stemple@cs.umass.edu"
+    ],
+    "ground_truth": "faculty"
+}

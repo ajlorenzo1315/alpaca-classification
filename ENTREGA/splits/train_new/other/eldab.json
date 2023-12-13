@@ -1,0 +1,10 @@
+{
+    "Title": "SimLab MADEFAST Home Page",
+    "Body": "The SimLab component of MADEFAST is to use the simulation and analysis tools developed under MADE to aid in the design by providing analysis of the physical behavior of the proposed artifact.",
+    "link": [
+        "http://www.madefast.org/",
+        "http://www.arpa.mil/",
+        "http://www.nist.gov/"
+    ],
+    "ground_truth": "other"
+}

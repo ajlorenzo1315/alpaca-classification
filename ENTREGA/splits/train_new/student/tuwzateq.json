@@ -1,0 +1,10 @@
+{
+    "Title": "\nKnife's Home Page\n",
+    "Body": "I've toiled in the computer industry, everywhere from the friendly company swallowed by the death star AT&T/McCaw to the makers of the fastest chip in the world with the worst marketing, Digital .",
+    "link": [
+        "http://www.eecs.tulane.edu:80/www/Morris.Ashley/taxi.wav",
+        "http://www.eecs.tulane.edu:80/www/Morris.Ashley/sam.au",
+        "http://sushi.st.usm.edu/~css/undergr.html"
+    ],
+    "ground_truth": "student"
+}

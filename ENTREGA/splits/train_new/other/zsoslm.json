@@ -1,0 +1,10 @@
+{
+    "Title": "EXODUS Papers",
+    "Body": "\"Object and File Management in the EXODUS Extensible Database System\", M. Carey, D. DeWitt, J. Richardson, and E. Shekita, Proc.",
+    "link": [
+        "file://ftp.cs.wisc.edu/tech-reports/reports/94/tr1241.ps.Z",
+        "file://ftp.cs.wisc.edu/tech-reports/reports/94/tr1242.ps.Z",
+        "http://www.cs.wisc.edu/~jiebing/dataengr.94.2.ps"
+    ],
+    "ground_truth": "other"
+}

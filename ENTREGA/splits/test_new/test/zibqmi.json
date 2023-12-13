@@ -1,0 +1,10 @@
+{
+    "Title": "CS 378 Lecture Notes Online",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Monday, 06-Jan-97 20:34:54 GMT Content-Type: text/html Content-Length: 4204 Last-Modified: Thursday, 05-Dec-96 22:29:58 GMT CS 378 Lecture Notes Online CS 378 Lecture Notes Online Lecture notes are provided in PostScript, or Portable Document Format (PDF), formatted to print 4 slides per page in landscape mode.",
+    "link": [
+        "http://www.adobe.com/acrobat/readstep.html",
+        "./lecture-01.ps",
+        "./lecture-01.pdf"
+    ],
+    "ground_truth": "unknow"
+}

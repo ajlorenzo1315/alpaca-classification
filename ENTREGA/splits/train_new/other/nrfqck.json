@@ -1,0 +1,10 @@
+{
+    "Title": "Course Header",
+    "Body": "Lab:  Upson B7 Section 1:  Tuesday and Thursday, 10:00 - 11:00 a.m.",
+    "link": [
+        "mailto:barber@cs.cornell.edu",
+        "http://www.cs.cornell.edu/Info/People/barber",
+        "mailto:dkoster@cs.cornell.edu"
+    ],
+    "ground_truth": "other"
+}

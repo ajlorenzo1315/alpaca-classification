@@ -1,0 +1,10 @@
+{
+    "Title": " WALKTHRU-PROJECT ",
+    "Body": "Bukowski's MS thesis (CSD-95-886): The WALKTHRU Editor: Towards Realistic and Effective Interaction with Virtual Building Environments; this goes into considerably more detail about the design and implementation of the WALKTHRU interactive editor.",
+    "link": [
+        "http://HTTP.CS.Berkeley.EDU/~sequin/PROJ/sodamodel.gif",
+        "http://http.cs.berkeley.edu/~sequin",
+        "http://http.cs.berkeley.edu/~markb"
+    ],
+    "ground_truth": "unknow"
+}

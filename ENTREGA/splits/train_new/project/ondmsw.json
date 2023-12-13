@@ -1,0 +1,10 @@
+{
+    "Title": "\nSpatial-Database Research Group\n",
+    "Body": "Date: Wed, 20 Nov 1996 20:01:50 GMT Server: Apache/1.1b3 Content-type: text/html Spatial-Database Research Group Welcome to the Spatial-Database Research Group Research Interests: Our work is focused on the storage, management and analysis of scientific and geographic data, information and knowledge.",
+    "link": [
+        "http://www.cs.umn.edu/Research/shashi-group/CACM-GIS/cacmgis.html",
+        "http://www.cs.umn.edu/Research/shashi-group/ACMGIS96/ACMGIS96.html",
+        "http://www.cs.umn.edu/Research/shashi-group/new.html"
+    ],
+    "ground_truth": "project"
+}

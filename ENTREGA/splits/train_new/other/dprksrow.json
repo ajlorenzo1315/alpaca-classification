@@ -1,0 +1,10 @@
+{
+    "Title": " Nuprl 4 Automated Reasoning System Browser",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Monday, 25-Nov-96 00:41:11 GMT Content-Type: text/html Content-Length: 989 Last-Modified: Thursday, 09-Nov-95 13:00:09 GMT Nuprl 4 Automated Reasoning System Browser Introduction to Nuprl Nuprl Project - Computer Science Department at Cornell University Brief Description of Nuprl Nuprl/WWW Browser Design Nuprl Project Staff System Requirements To use the Nuprl/WWW Browser, you should have a World Wide Web client (HTML browser) that can display inlined GIF and XBM format images and supports HTML Fill-Out Forms.",
+    "link": [
+        "http://www.cs.cornell.edu/Info/Projects/NuPrl/html/overview/overview.html",
+        "http://www.cs.cornell.edu/Info/Projects/NuPrl/html/design.html",
+        "http://www.cs.cornell.edu/Info/Projects/NuPrl/html/crew.html"
+    ],
+    "ground_truth": "other"
+}

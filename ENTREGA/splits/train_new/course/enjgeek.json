@@ -1,0 +1,9 @@
+{
+    "Title": " CS552 Page ",
+    "Body": "Date: Mon, 11 Nov 1996 01:59:41 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Wed, 19 Oct 1994 23:35:56 GMT Content-length: 700 CS552 Page CS/ECE 552 - Introduction to Computer Architecture 3 credits.",
+    "link": [
+        "http://www.cs.wisc.edu/~arch/uwarch/courses/cs352.html",
+        "http://www.cs.wisc.edu/~arch/uwarch/courses/cs354.html"
+    ],
+    "ground_truth": "course"
+}

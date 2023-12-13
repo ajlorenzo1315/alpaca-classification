@@ -1,0 +1,10 @@
+{
+    "Title": "EECS451 Home Page",
+    "Body": "If you want to do your experiments on a big-endian machine (such as a Sun or HP), you should use this file, gwbsw.raw , which is the same data but it has already been byte-swapped for you.",
+    "link": [
+        "#Announce",
+        "http://www.eecs.umich.edu/courses/eecs451/feedback.html",
+        "#Assign"
+    ],
+    "ground_truth": "course"
+}

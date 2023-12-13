@@ -1,0 +1,10 @@
+{
+    "Title": "Art's Home Page",
+    "Body": "I'm a Master of  Science student in the Department of Computer Science and Engineering at UCSD , specializing in Multimedia Systems and Digital Signal Processing.",
+    "link": [
+        "mailto:avillanu@cs.ucsd.edu",
+        "http://www-cse.ucsd.edu",
+        "http://www.ucsd.edu"
+    ],
+    "ground_truth": "student"
+}

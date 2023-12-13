@@ -1,0 +1,10 @@
+{
+    "Title": "CSE 322, Winter 1996",
+    "Body": "Homework 4 ( LaTeX , PS ) due 1/26/96 Solutions ( LaTeX , PS ) Homework 5 ( LaTeX , PS ) due 2/2/96 Solutions ( LaTeX , PS ) Homework 6 ( LaTeX , PS ) due 2/9/96 Solutions (text LaTeX , text PS , state diagram PS ) Homework 7 ( LaTeX , PS ) due 2/16/96 Solutions (text LaTeX , text PS , state diagram PS ) Homework 8 ( LaTeX , PS ) due 2/23/96 Solutions (text LaTeX , text PS , state diagram PS ) Homework 9 ( LaTeX , PS ) due 3/1/96 Solutions ( LaTeX , PS ) Homework 10 ( LaTeX , PS ) due 3/8/96 Solutions ( LaTeX , text PS , PDA PS , TM PS ) About file formats: Most of the course materials above are provided in three formats: HTML: HyperText Markup Language (HTML) is the document format handled by WWW browsers, in fact you are currently looking viewing an HTML document.",
+    "link": [
+        "http://www.cs.washington.edu/education/courses/322/96w//",
+        "http://www.cs.washington.edu/education/courses/322/96w/cse322-bboard.shtml",
+        "http://www.cs.washington.edu/education/courses/322/96w/syllabus.html"
+    ],
+    "ground_truth": "course"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "GRAIL: Graphics and Imaging Laboratory",
+    "Body": "Date: Thu, 21 Nov 1996 20:30:03 GMT Server: NCSA/1.4.2 Content-type: text/html GRAIL: Graphics and Imaging Laboratory Welcome to the home page of GRAIL, the Graphics and Imaging Laboratory of the University of Washington's Department of Computer Science and Engineering.",
+    "link": [
+        "http://www.cs.washington.edu/research/projects/grail2/www/people.html",
+        "http://www.cs.washington.edu/research/projects/grail2/www/courses.html",
+        "http://www.cs.washington.edu/research/projects/grail2/www/projects/"
+    ],
+    "ground_truth": "project"
+}

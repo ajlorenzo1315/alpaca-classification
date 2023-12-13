@@ -1,0 +1,8 @@
+{
+    "Title": " CodeWarrior for CS100 ",
+    "Body": "The folder structure in the CS100 Additions folder is meant to mirror the folder structure inside the Metrowerks CodeWarrior folder of your copy of CodeWarrior, to make it easy to follow these instructions.",
+    "link": [
+        "ftp://ftp.cs.cornell.edu/pub/courses/cs100-s96/CS100Additions.sea.hqx"
+    ],
+    "ground_truth": "other"
+}

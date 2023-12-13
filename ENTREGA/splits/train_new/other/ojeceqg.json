@@ -1,0 +1,10 @@
+{
+    "Title": " Cycling ",
+    "Body": "The Great Pacific Coast Bike Ride In August, I set out with some especially shady characters on a bicycle expedition down the Pacific Coast, from Seattle to San Francisco (I continued on to San Diego).",
+    "link": [
+        "http://www.cs.washington.edu/homes/kgolden/pedalando.html",
+        "http://www.cs.washington.edu/homes/kgolden/pics/bike/shady.gif",
+        "http://www.cs.washington.edu/homes/kgolden/pics/bike/marc.gif"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Doug's Home Page",
+    "Body": "If you're in the Boston area, you might want to come to one of several seminars that are held at Northeastern (in room 107 of Cullinane Hall ): Programming Language Semantics , Wednesdays 9:30am-11:30am Cryptography , Thursdays 10:00am-11:45am Demeter , Fridays 10:00am-12noon Distributed Systems , Fridays 1:00pm-2:30pm I used to work at Pure Software .",
+    "link": [
+        "http://www.neu.edu",
+        "http://www.ccs.neu.edu",
+        "http://www.ccs.neu.edu/home/dougo/mud/index.html"
+    ],
+    "ground_truth": "student"
+}

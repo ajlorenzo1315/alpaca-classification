@@ -1,0 +1,10 @@
+{
+    "Title": " Vladimir J. Lumelsky's Home Page ",
+    "Body": "In the area of fully automatic systems, our focus is on development of means for geometric reasoning and control necessary for automatic planning of motion in a complex environment.",
+    "link": [
+        "http://robios8.me.wisc.edu/~lumelsky/lumelsky.courses.html",
+        "http://robios8.me.wisc.edu/~lumelsky/lumelsky.pub.html",
+        "http://robios8.me.wisc.edu/~lumelsky/lumelsky.pub.html#Maze-searching"
+    ],
+    "ground_truth": "faculty"
+}

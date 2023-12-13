@@ -1,0 +1,10 @@
+{
+    "Title": "Richard Zippel",
+    "Body": "The introduction of these new objects into a programming language provides a number of new challenges to the language's type system and provides new opportunities for deductive reasoning, which we are pursuing.",
+    "link": [
+        "http://www.cs.cornell.edu/Info/People/rz/zippel.gif",
+        "http://www.cs.cornell.edu/Info/Department/Annual94/Beginning/researchers-list.html",
+        "http://www.cs.cornell.edu/Info/Department/Annual94/Beginning/annual-rpt94-home.html"
+    ],
+    "ground_truth": "staff"
+}

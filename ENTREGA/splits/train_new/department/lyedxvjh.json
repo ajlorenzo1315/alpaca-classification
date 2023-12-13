@@ -1,0 +1,10 @@
+{
+    "Title": "USB Computer Science Dept",
+    "Body": "General Information about The Computer Science Department at Stony Brook Technical Reports CS Department FTP Server CS Department Undergraduate Computing Lab.",
+    "link": [
+        "http://www.cs.sunysb.edu/sunsetFULL.jpg",
+        "http://www.cs.sunysb.edu/fallFULL.gif",
+        "http://www.cs.sunysb.edu/winterFULL.gif"
+    ],
+    "ground_truth": "department"
+}

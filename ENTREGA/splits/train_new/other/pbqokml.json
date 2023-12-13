@@ -1,0 +1,10 @@
+{
+    "Title": "CS 110 Section 1, Program #1",
+    "Body": "F and the wind speed is 17 mph then your program should display (hint: use this to check your results) The wind-chill factor is          -21 deg.",
+    "link": [
+        "http://www.cs.wisc.edu/~bestor/cs110/cs110.html#assignments",
+        "http://www.cs.wisc.edu/~bestor/bestor.html",
+        "mailto:bestor@cs.wisc.edu"
+    ],
+    "ground_truth": "other"
+}

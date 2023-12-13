@@ -1,0 +1,10 @@
+{
+    "Title": " Collaborative Software Engineering",
+    "Body": "These two efforts are related since the infrastructure is being used to build the tools and the tools are being used to evaluate the infrastructure.",
+    "link": [
+        "http://www.cise.nsf.gov/iris/DBEShome.html",
+        "http://www.cs.unc.edu/~dewan",
+        "http://www.cs.umn.edu/~riedl"
+    ],
+    "ground_truth": "project"
+}

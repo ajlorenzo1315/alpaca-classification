@@ -1,0 +1,10 @@
+{
+    "Title": " CS 101 C1 Home Page ",
+    "Body": "Date: Wed, 20 Nov 1996 21:45:41 GMT Server: NCSA/1.5 Content-type: text/html CS 101 C1 Home Page CS 101 C1 -- Fall 1996 Professor Wayne Snyder Welcome to the CS 101 C1 Home Page!",
+    "link": [
+        "http://www.cs.bu.edu/faculty/snyder/cs101/midstudyF96.html",
+        "http://www.cs.bu.edu/faculty/snyder/cs101/syllabus.html",
+        "http://www.cs.bu.edu/faculty/snyder/cs101/announcements.html"
+    ],
+    "ground_truth": "course"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "No title",
+    "Body": "Tsai and Y. Huang and P. K. McKinley, \"Performance Evaluation of Barrier Synchronization on ATM Networks,\" in the Proceedings of the 1996 IEEE International Conferenceon Computer Communications and Networks , October 1996.",
+    "link": [
+        "ftp://ftp.cps.msu.edu/pub/crg/PAPERS/ask_hardcopy.html",
+        "ftp://ftp.cps.msu.edu/pub/crg/PAPERS/ask_hardcopy.html",
+        "ftp://ftp.cps.msu.edu/pub/crg/PAPERS/ask_hardcopy.html"
+    ],
+    "ground_truth": "other"
+}

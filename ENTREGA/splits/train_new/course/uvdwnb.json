@@ -1,0 +1,10 @@
+{
+    "Title": "CS 1520: Programming Languages",
+    "Body": "Date: Wed, 15 Jan 1997 00:21:47 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Fri, 15 Dec 1995 10:26:46 GMT Content-length: 2535 CS 1520: Programming Languages CS 1520 Programming Languages 3 Credits General information Purpose: Several programming languages selected from: Ada, Smalltalk, PROLOG, Scheme, and ICON will be studied from a programming(rather than an implementation) point of view.",
+    "link": [
+        "http://www.cs.pitt.edu/UgEdu/courses/cs0445.htm",
+        "http://www.cs.pitt.edu/UgEdu/courses/info/cs1520/1520info.htm",
+        "http://www.cs.pitt.edu/Faculty/novacky.html"
+    ],
+    "ground_truth": "course"
+}

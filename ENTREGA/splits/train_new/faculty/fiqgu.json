@@ -1,0 +1,10 @@
+{
+    "Title": "Jim Schmolze",
+    "Body": "Further information available: Office hours Research Courses for Fall 1996: COMP 11: Introduction to Computer Science Register for a COMP 11 lab COMP 131: Introduction to Artificial Intelligence Other WWW Links: Dept of Electrical Eng.",
+    "link": [
+        "mailto:schmolze@cs.tufts.edu",
+        "http://www.cs.tufts.edu/~schmolze/plan",
+        "http://www.cs.tufts.edu/~schmolze/research"
+    ],
+    "ground_truth": "faculty"
+}

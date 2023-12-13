@@ -1,0 +1,10 @@
+{
+    "Title": "John E. Laird's Homepage",
+    "Body": "from the University of Michigan in 1975 and his Ph.D. in Computer Science from Carnegie Mellon University in 1983.",
+    "link": [
+        "http://www.eecs.umich.edu/DCO/EECS_home.html",
+        "http://www.umich.edu/",
+        "http://ai.eecs.umich.edu/"
+    ],
+    "ground_truth": "faculty"
+}

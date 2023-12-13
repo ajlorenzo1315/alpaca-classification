@@ -1,0 +1,10 @@
+{
+    "Title": "Universities Space Automation Robotics Consortium home page.",
+    "Body": "The Universities Space Automation/Robotics Consortium (USARC) is a unique infrastructure for distributed robotics, remote operations, and distributed simulation research.",
+    "link": [
+        "http://www.tamu.edu/default.html",
+        "http://www.utexas.edu",
+        "http://www.uta.edu"
+    ],
+    "ground_truth": "project"
+}

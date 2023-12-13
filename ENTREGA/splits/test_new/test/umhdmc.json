@@ -1,0 +1,10 @@
+{
+    "Title": " Kathi Fisler's Home Page ",
+    "Body": "One of my goals is to develop formal methods tools that support reasoning with both diagrammatic and sentential representations.",
+    "link": [
+        "http://www.rice.edu",
+        "http://www.cs.rice.edu",
+        "http://www.cs.rice.edu/~kfisler/comp408/"
+    ],
+    "ground_truth": "unknow"
+}

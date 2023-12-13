@@ -1,0 +1,10 @@
+{
+    "Title": "Avalanche Scalable Parallel Processor Project",
+    "Body": "Date: Wed, 20 Nov 1996 20:12:52 GMT Server: Apache/1.1.1+ Content-type: text/html Content-length: 5675 Last-modified: Thu, 03 Oct 1996 19:19:33 GMT Avalanche Scalable Parallel Processor Project University of Utah Department of Computer Science The goal of the Avalanche project is to enable the construction of usable and truly scalable parallel computing platforms that are not exorbitantly expensive, yet are still capable of achieving peta-op performance levels.",
+    "link": [
+        "http://www.cs.utah.edu/cgi-bin/imagemap/projects/avalanche/clickmap/Avalanche1.map",
+        "http://www.hp.com/",
+        "http://www.myri.com/"
+    ],
+    "ground_truth": "project"
+}

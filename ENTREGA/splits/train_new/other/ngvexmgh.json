@@ -1,0 +1,8 @@
+{
+    "Title": "CS 537 - Quiz #7",
+    "Body": "If you do not flush the TLB, then the current process may use the mappings from the previous one, causing it to access the wrong page frames.",
+    "link": [
+        "http://www.cs.wisc.edu/~bart"
+    ],
+    "ground_truth": "other"
+}

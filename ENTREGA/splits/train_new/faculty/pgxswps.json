@@ -1,0 +1,10 @@
+{
+    "Title": "Rajendra V. Boppana\n",
+    "Body": "Boppana, S. Chalasani, and C.S.",
+    "link": [
+        "mailto:Boppana@cs.utsa.edu",
+        "ftp://dragon.cs.utsa.edu:/pub/0rvb/Ics94.ps",
+        "ftp://dragon.cs.utsa.edu:/pub/0rvb/Sc94.ps"
+    ],
+    "ground_truth": "faculty"
+}

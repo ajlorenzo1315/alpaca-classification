@@ -1,0 +1,10 @@
+{
+    "Title": " Program 6 ",
+    "Body": "Your program should read the file (you can use the read_file function from Program 5), prompt the user for each of the words or phrases to substitute into the story, and then print out the story with the user's responses in place of the square-bracketed prompts.",
+    "link": [
+        "prog6/madlib1.txt",
+        "prog6/madlib2.txt",
+        "mailto:mbirk@cs.wisc.edu"
+    ],
+    "ground_truth": "unknow"
+}

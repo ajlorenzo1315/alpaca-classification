@@ -1,0 +1,10 @@
+{
+    "Title": " Kaz's Company  ",
+    "Body": "Mitsubishi Motors is not the same company as Mitsubishi Electric.",
+    "link": [
+        "http://www.cs.cornell.edu/Info/People/kota/kota.html",
+        "http://www.cs.cornell.edu/Info/People/kota/kota.html",
+        "http://www.cs.cornell.edu/Info/People/kota/music.html"
+    ],
+    "ground_truth": "other"
+}

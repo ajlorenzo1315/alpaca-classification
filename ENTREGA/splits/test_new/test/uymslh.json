@@ -1,0 +1,10 @@
+{
+    "Title": "Dave Moriarty's Papers",
+    "Body": "Hierarchical Evolution of Neural Networks.",
+    "link": [
+        "/users/nn/pages/publications/abstracts.html#moriarty.obstacle.ps.Z",
+        "/users/nn/pages/publications/abstracts.html#moriarty.hierarchical.ps.Z",
+        "ftp://ftp.cs.utexas.edu/pub/neural-nets/papers/moriarty.efficient-reinforcement.ps.Z"
+    ],
+    "ground_truth": "unknow"
+}

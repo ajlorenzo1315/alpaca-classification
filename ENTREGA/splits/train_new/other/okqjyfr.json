@@ -1,0 +1,10 @@
+{
+    "Title": "Cornell CS Course Home Pages Fall 1996 ",
+    "Body": "CS414 Systems Programming and Operating Systems An introduction to the logical design of systems programs, with emphasis on multiprogrammed operating systems.",
+    "link": [
+        "http://www.cs.cornell.edu/Info/Courses/Fall-96/CS100A/home.html",
+        "http://www.cs.cornell.edu/Info/Courses/Fall-96/CS100B/home.html",
+        "http://www.cs.cornell.edu/Info/Courses/Fall-96/CS211/home.html"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Douglas Blank's Homepage",
+    "Body": "P ROJECTS Starting a Cognitive Science Program at UArk.",
+    "link": [
+        "http://www.uark.edu",
+        "http://www.uark.edu/~csci/index.html",
+        "mailto:dblank@comp.uark.edu"
+    ],
+    "ground_truth": "faculty"
+}

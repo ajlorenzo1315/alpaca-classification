@@ -1,0 +1,10 @@
+{
+    "Title": " Politics as usual ",
+    "Body": "His own home page is http://commerce.anu.edu.au/comm/staff/RogerC/RogersHome and the dataveillance page is http://commerce.anu.edu.au/comm/staff/RogerC/Dataveillance/RogersDV.html The Clinton administration's controversial Green Paper on the law of copyright in cyberspace is available on the web at URL: http://www.uspto.gov/text/pto/nii/ipwg.html Past postings of Jim Warren's GovAccess mailing list are at ftp.cpsr.org: /cpsr/states/california/govaccess and by WWW at http://www.cpsr.org/cpsr/states/california/govaccess To subscribe to the list, send Jim a note at jwarren@well.com Those wild hackers at the MIT radio station WMBR have assembled an extensive web page of radio stations with web pages.",
+    "link": [
+        "http://garnet.berkeley.edu:3333/budget/budget.html",
+        "http:// www.house.gov/white/budget/budget.html",
+        "http://www.cato.org/main/home.html"
+    ],
+    "ground_truth": "unknow"
+}

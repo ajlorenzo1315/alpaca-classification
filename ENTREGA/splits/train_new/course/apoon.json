@@ -1,0 +1,10 @@
+{
+    "Title": "CS-101(A1): Introduction to Computers\n",
+    "Body": "Date: Wed, 15 Jan 1997 01:46:33 GMT Server: NCSA/1.5 Content-type: text/html CS-101(A1): Introduction to Computers Boston University / CAS Computer Science Dept CAS CS-101 (A1): Introduction to Computers CS 101 is a general introduction to computers and their applications that assumes no previous knowledge of the subject.",
+    "link": [
+        "http://web.bu.edu/",
+        "gopher://gopher.bu.edu",
+        "http://cs-www.bu.edu/Home.html"
+    ],
+    "ground_truth": "course"
+}

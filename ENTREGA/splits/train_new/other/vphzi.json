@@ -1,0 +1,10 @@
+{
+    "Title": "ECE: Department Overview",
+    "Body": "Date: Mon, 11 Nov 1996 21:12:39 GMT Server: NCSA/1.5 Content-type: text/html ECE: Department Overview College of Engineering University of Wisconsin - Madison Electrical and Computer Engineering Department Overview The Department of Electrical and Computer Engineering at the UW-Madison is recognized for excellence in research, instruction, and service to the profession.",
+    "link": [
+        "http://www.engr.wisc.edu/ece/",
+        "http://www.engr.wisc.edu/centers/ercpam/",
+        "http://www.xraylith.wisc.edu/"
+    ],
+    "ground_truth": "other"
+}

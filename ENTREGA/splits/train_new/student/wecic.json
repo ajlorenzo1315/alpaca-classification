@@ -1,0 +1,10 @@
+{
+    "Title": "Thu Duc Nguyen",
+    "Body": "Date: Thu, 21 Nov 1996 22:55:21 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Sun, 17 Nov 1996 05:51:23 GMT Content-length: 1886 Thu Duc Nguyen Thu Duc Nguyen Department of Computer Science & Engineering University of Washington Box 352350 Seattle, WA 98195-2350 thu@cs.washington.edu Work World My research interests include operating systems, distributed and parallel systems, networking, and security.",
+    "link": [
+        "http://www.cs.washington.edu/",
+        "http://www.washington.edu",
+        "http://www.cs.washington.edu/area/"
+    ],
+    "ground_truth": "student"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "EECS 498-2: Course Homepage",
+    "Body": "Check under Assignment #5 for DirectX sites Class Information Offered: Fall 1996 In this course we will study the technology, science, and art involved in the creation of computer games.",
+    "link": [
+        "http://ai.eecs.umich.edu/classes/498-2/dx3.exe",
+        "http://ai.eecs.umich.edu/people/laird",
+        "http://ai.eecs.umich.edu/people/vanlent/homepage.html"
+    ],
+    "ground_truth": "course"
+}

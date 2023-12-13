@@ -1,0 +1,10 @@
+{
+    "Title": "CSE/ENGR 142: Fun and Games",
+    "Body": "If you were looking for a nice place to have coffee on the UW campus, where would you go?",
+    "link": [
+        "http://nearnet.gnn.com/wic/index.html",
+        "http://www.cs.washington.edu/homes/lazowska/lazowska.pages.html",
+        "http://www.washington.edu"
+    ],
+    "ground_truth": "other"
+}

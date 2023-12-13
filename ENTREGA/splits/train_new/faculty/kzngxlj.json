@@ -1,0 +1,9 @@
+{
+    "Title": "\nJoseph Manning\n",
+    "Body": "He has been Assistant Professor of Computer Science at the University of Missouri-Rolla, and has published several articles in theoretical computer science, particularly in the areas of symmetry detection in graphs.",
+    "link": [
+        "http://www.cs.vassar.edu/faculty/proflist.html",
+        "http://www.cs.vassar.edu/"
+    ],
+    "ground_truth": "faculty"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Gene Cooperman's CCS Home Page",
+    "Body": "I am on the program committee for HPDC-6 (High Performance and Distributed Computing, Aug. 5 - 8, 1997; cf.",
+    "link": [
+        "ftp://ftp.ccs.neu.edu/pub/people/gene",
+        "http://www.ccs.neu.edu/home/gene/papers.html",
+        "http://www.ccs.neu.edu/home/gene/workshop_hpc.html"
+    ],
+    "ground_truth": "faculty"
+}

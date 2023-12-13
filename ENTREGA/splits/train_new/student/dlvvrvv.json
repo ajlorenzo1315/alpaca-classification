@@ -1,0 +1,10 @@
+{
+    "Title": "David Martin Jr.",
+    "Body": "In September 1993, the Daves moved to Brookline, MA, and Dave M. enrolled in an MA/PhD program in the small, theory-oriented department of Computer Science at Boston University .",
+    "link": [
+        "http://www.cs.bu.edu/students/grads/dm/sgodfrey.html",
+        "http://www.cs.bu.edu/students/grads/dm/md-100-color.gif",
+        "http://www.cs.bu.edu/students/grads/dm/hogan-100-bw.gif"
+    ],
+    "ground_truth": "student"
+}

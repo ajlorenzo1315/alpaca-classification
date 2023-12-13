@@ -1,0 +1,10 @@
+{
+    "Title": "\"Vipul Gupta\" Home Page",
+    "Body": "Research Projects: Registration, Segmentation, Matching and Display of 3-D Brain Images Dynamic Load Balancing using Time Warp Mechanism Georgia Tech Affiliations: Contact information: At GVU : Graphics, Visualization & Usability Center College of Computing Georgia Institute of Technology Atlanta, GA  30332-0280 E-mail : vgupta@cc.gatech.edu Other information available via finger .",
+    "link": [
+        "http://www.gatech.edu/TechHome.html",
+        "http://www.cc.gatech.edu/computing/Architecture/arch.html",
+        "http://www.cc.gatech.edu/Computing.html"
+    ],
+    "ground_truth": "student"
+}

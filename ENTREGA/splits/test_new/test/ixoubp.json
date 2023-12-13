@@ -1,0 +1,10 @@
+{
+    "Title": "Periodicals",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Monday, 06-Jan-97 21:47:30 GMT Content-Type: text/html Content-Length: 4924 Last-Modified: Friday, 03-Jan-97 05:58:51 GMT Periodicals Periodicals The American Reporter Amateur Computerist Newsletter Bucknell's Crayon Customized Newspaper Bryn Mawr Classical Review Computer Currents ClariNet Communications Corp.",
+    "link": [
+        "http://www.newshare.com/Reporter/today.html",
+        "http://www.cc.columbia.edu/~hauben/home.html",
+        "http://sun.bucknell.edu/~boulter/crayon/"
+    ],
+    "ground_truth": "unknow"
+}

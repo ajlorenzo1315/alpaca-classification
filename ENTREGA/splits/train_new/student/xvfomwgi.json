@@ -1,0 +1,10 @@
+{
+    "Title": " Chendong Zou's WWW Home Page",
+    "Body": "Chendong Zou College of Computer Science, Northeastern University 360 Huntington Avenue Boston, MA  02115 phone: (617)373-3822(NU) fax: (617)373-5121 office: 23 Cullinane",
+    "link": [
+        "http://www.ccs.neu.edu/",
+        "http://www.dac.neu.edu/",
+        "ftp://ftp.ccs.neu.edu/pub"
+    ],
+    "ground_truth": "student"
+}

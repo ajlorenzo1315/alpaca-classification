@@ -1,0 +1,10 @@
+{
+    "Title": "Abacus Project Home Page",
+    "Body": "Project Information Abacus: A High-Performance Architecture for Vision in the proceedings of the International Conference on Pattern Recognition 94 Abacus: A 1024 Processor 8ns SIMD Array to appear in the proceedings of Advanced Research in VLSI '95 Project Status The chips have been manufactured.",
+    "link": [
+        "http://www.ai.mit.edu/people/misha/misha.html",
+        "http://www.ai.mit.edu/projects/abacus/PE-m2.gif",
+        "http://www.ai.mit.edu/projects/abacus/PE-nm2.gif"
+    ],
+    "ground_truth": "project"
+}

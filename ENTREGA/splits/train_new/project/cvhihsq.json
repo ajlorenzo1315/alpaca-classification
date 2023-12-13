@@ -1,0 +1,10 @@
+{
+    "Title": " The DKBRG Home Page ",
+    "Body": "Ward , ( matt@cs.wpi.edu@cs.wpi.edu ) Gaea Project One of the significant activities of DKBRG is the Gaea Project.",
+    "link": [
+        "http://cs.wpi.edu/Research/dkbrg/dkbrg-sched.html",
+        "http://cs.wpi.edu/People/faculty/nih.html",
+        "mailto:hachem@cs.wpi.edu"
+    ],
+    "ground_truth": "project"
+}

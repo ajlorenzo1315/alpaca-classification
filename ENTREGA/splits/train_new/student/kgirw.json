@@ -1,0 +1,10 @@
+{
+    "Title": "Paul S. Kilroy",
+    "Body": "Date: Tue, 26 Nov 1996 17:06:49 GMT Server: Apache/0.8.8 Content-type: text/html Paul S. Kilroy Paul S. Kilroy kilroy@ms.uky.edu Graduate Student in Computer Science University of Kentucky Lexington, KY 40506 Click here for my resume.",
+    "link": [
+        "http://www.ms.uky.edu/~kilroy/xrayman.gif",
+        "http://www.ms.uky.edu/~kilroy/resume.html",
+        "http://www.ms.uky.edu/~kilroy/pilot/index.html"
+    ],
+    "ground_truth": "student"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Publications",
+    "Body": "(with X. Zhang and L. Sun).",
+    "link": [
+        "http://www.cs.wisc.edu/~zhichen/papers/jpdc.ps",
+        "http://www.cs.wisc.edu/~zhichen/papers/mascots96.ps.gz",
+        "http://www.cs.wisc.edu/~zhichen/papers/ics95.ps.gz"
+    ],
+    "ground_truth": "unknow"
+}

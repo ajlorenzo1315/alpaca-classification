@@ -1,0 +1,10 @@
+{
+    "Title": "No title",
+    "Body": "Date: Wed, 20 Nov 1996 23:17:49 GMT Server: NCSA/1.5 Content-type: text/html Computer Organization and Assembly Language Programming (22C:18/108) 3405 EB, 10:30 am MWF Instructor: Sriram Pemmaraju , Office: 201M MLH, Phone: 335-0741, Office Hours: 9:30 to 10:30 am, MWF.",
+    "link": [
+        "http://www.cs.uiowa.edu/~sriram",
+        "http://www.cs.uiowa.edu/~qli",
+        "http://www.cs.uiowa.edu/~sriram/18spring95/syllabus.html"
+    ],
+    "ground_truth": "course"
+}

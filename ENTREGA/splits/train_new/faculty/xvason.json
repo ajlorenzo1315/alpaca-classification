@@ -1,0 +1,10 @@
+{
+    "Title": "Lionel M. Ni's Home Page",
+    "Body": "Date: Thu, 21 Nov 1996 19:18:39 GMT Server: Apache/1.1.0 Content-type: text/html Content-length: 4536 Last-modified: Tue, 30 Apr 1996 00:55:52 GMT Lionel M. Ni's Home Page Lionel M. Ni, Department of Computer Science, MSU Lionel M. Ni Professor of Computer Science Areas of Interest: High Performance Computer Architecture, High Speed Networks, Operating Systems.",
+    "link": [
+        "http://ee.www.ecn.purdue.edu",
+        "http://www.purdue.edu",
+        "http://web.cps.msu.edu/~ni/schedule.html"
+    ],
+    "ground_truth": "faculty"
+}

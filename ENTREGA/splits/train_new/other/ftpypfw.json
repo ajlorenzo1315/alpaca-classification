@@ -1,0 +1,10 @@
+{
+    "Title": "\nUTCS Academic Information\n",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Wednesday, 08-Jan-97 16:47:09 GMT Content-Type: text/html Content-Length: 1204 Last-Modified: Tuesday, 14-Nov-95 21:00:58 GMT UTCS Academic Information UTCS Academic Information Academic materials (Undergraduate/Graduate Bulletins, Student Organizations) Course descriptions Course schedules UT Registrar ( gopher , web ) Catalogs General Information Catalog Graduate Catalog Undergraduate Catalog UT Admissions ( gopher , web ) gripe@cs.utexas.edu",
+    "link": [
+        "http://www.cs.utexas.edu/users/UTCS/academic-info/",
+        "http://www.cs.utexas.edu/users/UTCS/courses/",
+        "http://www.cs.utexas.edu/users/UTCS/schedule/"
+    ],
+    "ground_truth": "other"
+}

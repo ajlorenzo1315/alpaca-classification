@@ -1,0 +1,10 @@
+{
+    "Title": "Nathaniel G. Martin's Home Page",
+    "Body": "Nat Martin's primary reponsibilities in the Computer Science Department are teaching rather than research.",
+    "link": [
+        "http://www.cs.rochester.edu/u/martin/classes.html",
+        "http://www.cs.rochester.edu/u/martin/classes.html",
+        "http://www.cs.rochester.edu/u/martin/schedule.html"
+    ],
+    "ground_truth": "faculty"
+}

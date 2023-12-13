@@ -1,0 +1,10 @@
+{
+    "Title": "\n\"Median Years to Ph.D.\" is not what you think!\n",
+    "Body": "Our first step was to calculate the median time spent in our program for graduates in the specific years considered by the Conference Board study.",
+    "link": [
+        "http://www.cs.washington.edu/homes/lazowska/lazowska.html",
+        "http://www.cs.washington.edu/index.html",
+        "http://www.washington.edu/index.html"
+    ],
+    "ground_truth": "other"
+}

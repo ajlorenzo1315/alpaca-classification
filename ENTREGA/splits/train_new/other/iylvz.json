@@ -1,0 +1,10 @@
+{
+    "Title": "Libraries",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Monday, 06-Jan-97 21:52:43 GMT Content-Type: text/html Content-Length: 2432 Last-Modified: Sunday, 05-Jan-97 22:11:23 GMT Libraries Technical CS Library How to Design Netscape plug-ins How to design LiveWire UTCS facility FAQ's Netscape Guide GNU Manuals GNU-Plot Yahoo UNIX Manual What's USENET?",
+    "link": [
+        "http://home.netscape.com/eng/mozilla/3.0/handbook/plugins/index.html",
+        "http://www.cs.utexas.edu/users/hseuping/lwdocs/getstart.htm",
+        "http://www.cs.utexas.edu/users/UTCS/facfaqs"
+    ],
+    "ground_truth": "other"
+}

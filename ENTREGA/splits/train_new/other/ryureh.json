@@ -1,0 +1,9 @@
+{
+    "Title": "CS367 Materials",
+    "Body": "If you intend to become a CS major, I recommend you keep this text as a reference.",
+    "link": [
+        "http://www.cs.wisc.edu/csl/cs1000/",
+        "mailto:skrentny@cs.wisc.edu"
+    ],
+    "ground_truth": "other"
+}

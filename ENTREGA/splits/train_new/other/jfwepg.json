@@ -1,0 +1,10 @@
+{
+    "Title": "Marc's page",
+    "Body": "Date: Fri, 13 Dec 1996 16:26:41 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Tue, 23 Apr 1996 14:44:25 GMT Content-length: 624 Marc's page Welcome(eh!)",
+    "link": [
+        "http://www.cuslm.ca",
+        "http://www.umoncton.ca",
+        "http://www.uwaterloo.ca"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Guide to Multimedia Educational Materials",
+    "Body": "UC Berkeley: Multimedia Systems and Applications - A graduate level course covering the design and implementation of interactive multimedia applications including interactive television, hypermedia systems, and video conferencing and groupware.",
+    "link": [
+        "http://www.acm.org/sigmm",
+        "http://www.acm.org/sigmm/MM95/",
+        "add.htm"
+    ],
+    "ground_truth": "other"
+}

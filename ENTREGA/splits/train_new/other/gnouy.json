@@ -1,0 +1,10 @@
+{
+    "Title": "Blizzard & Paradyn WWW Status Report",
+    "Body": "Implemented a preliminary version of shared memory across COW workstation nodes that supports coarse-grain sharing as a precursor to our upcoming fine-grain shared memory system.",
+    "link": [
+        "http://www.cs.wisc.edu/~wwt",
+        "http://www.cs.wisc.edu/~paradyn",
+        "http://www.cs.wisc.edu/~bart/bart.html"
+    ],
+    "ground_truth": "other"
+}

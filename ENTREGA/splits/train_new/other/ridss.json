@@ -1,0 +1,10 @@
+{
+    "Title": " Research Interests ",
+    "Body": "Eggers, and H.M. Levy, Simultaneous Multithreading:   Maximizing On-Chip Parallelism , In 22nd Annual International Symposium on Computer Architecture, June, 1995",
+    "link": [
+        "ISCA96.ps",
+        "ISCA96abstract.html",
+        "ISCA95.ps"
+    ],
+    "ground_truth": "other"
+}

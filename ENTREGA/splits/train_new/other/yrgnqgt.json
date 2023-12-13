@@ -1,0 +1,10 @@
+{
+    "Title": "TICAM homepage",
+    "Body": "Date: Tue, 07 Jan 1997 14:43:19 GMT Server: NCSA/1.5.1 Last-modified: Wed, 18 Sep 1996 18:42:20 GMT Content-type: text/html Content-length: 2528 TICAM homepage Texas Institute for Computational and Applied Mathematics Visitor Information Institute Overview Related Departments UT Graduate Program in CAM The University of Texas Web Central Research Research Groups Institute Publications Upcoming Seminars Computing Facilities Symposium on Advances in Computational Mechanics in honor of J. T. Oden 's 60th Birthday Pages and People Faculty & Student Pages Weekly TICAM Forum University of Texas Directory Other CAM related sites What's New and Exciting Jan. 1996: Installation of 16 node IBM SP-2 for TICAM Scientific Visualization Laboratory.",
+    "link": [
+        "overview.html",
+        "related.html",
+        "cam/"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "CSE 500/490B -- Schedule",
+    "Body": "Jan 30: universal service Readings:  Miller, Chapter 8; John Browning article (see Jan 18) Feb 1: discussion of Bill Gates, The Road Ahead Feb 6 guest speaker -- Sheryl Burgstahler, \"DO-IT: developing an electronic community\" See the DO-IT home page Feb 8: project presentation -- Information Haves and Have Nots (Paul Bock, Richard Chinn, Darrin Curtis, Joe Heitzeberg) Relevant links: see the Libraries and Information Haves and Have-Nots sections of the class links page.",
+    "link": [
+        "http://blake.oit.unc.edu/nr/articles/wired.html",
+        "http://homepage.seas.upenn.edu/~gaj1/fiber.html",
+        "http://www.hotwired.com/wired/2.09/features/universal.access.html"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Senior Honors Project at UMass",
+    "Body": "The current research is in the design and implementation of a user interface whereby a computer can produce speech (audio) and a moving image of a human face synchronized to the speech (video).",
+    "link": [
+        "Honors.ps",
+        "Zero.avi",
+        "One.avi"
+    ],
+    "ground_truth": "unknow"
+}

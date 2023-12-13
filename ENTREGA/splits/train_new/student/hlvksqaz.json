@@ -1,0 +1,10 @@
+{
+    "Title": "Only the Facts",
+    "Body": "My very old and completely out of date undergraduate home page is available here .",
+    "link": [
+        "http://lenin.cc.rochester.edu/~holly/sounds/linux.au",
+        "http://www-cse.ucsd.edu/users/hohlfeld/mine/Matt_Photo2.jpg",
+        "http://www-cse.ucsd.edu"
+    ],
+    "ground_truth": "student"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "The Visualization Lab",
+    "Body": "Equipment List Services A growing number of researchers are taking advantage of the unique facilities existing in the laboratory and of the Pavane system which offers sophisticated visualizations without the burden of costly software development.",
+    "link": [
+        "http://swarm.cs.wustl.edu/~roman/",
+        "http://www.cs.wustl.edu/~eileen/research.html",
+        "http://www.cs.wustl.edu/~suri/research.html"
+    ],
+    "ground_truth": "project"
+}

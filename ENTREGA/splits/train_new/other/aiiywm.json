@@ -1,0 +1,10 @@
+{
+    "Title": "Mobile Computing at the University of Washington",
+    "Body": "The software includes an application suite and service infrastructure that allows the handheld devices to operate with stationary applications written in Modula-3.",
+    "link": [
+        "http://www.cs.washington.edu/homes/bershad",
+        "http://www.cs.washington.edu/people/faculty/zahorjan.html",
+        "http://www.cs.washington.edu/people/faculty/borriello.html"
+    ],
+    "ground_truth": "other"
+}

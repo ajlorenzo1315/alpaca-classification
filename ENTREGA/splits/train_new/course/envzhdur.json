@@ -1,0 +1,10 @@
+{
+    "Title": "CS302 Home Page",
+    "Body": "Date: Mon, 11 Nov 1996 16:03:05 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Thu, 31 Oct 1996 03:20:42 GMT Content-length: 2337 CS302 Home Page Computer Sciences 302 Algebraic Language Programming Sections and Instructors We would like your comments, suggestions, or complaints about CS302.",
+    "link": [
+        "http://www.cs.wisc.edu/directories/302sections.html",
+        "http://www.cs.wisc.edu/~cs302/Consultants/emailjim.html",
+        "http://www.cs.wisc.edu/~cs302/faq.html"
+    ],
+    "ground_truth": "course"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Wei-Tek Tsai",
+    "Body": "Date: Thu, 21 Nov 1996 20:55:07 GMT Server: Apache/1.1b3 Content-type: text/html Wei-Tek Tsai Wei-Tek Tsai Professor Software engineering, computer systems.",
+    "link": [
+        "http://www.cs.umn.edu/footer.map",
+        "mailto:www@cs.umn.edu",
+        "http://www.cs.umn.edu/help"
+    ],
+    "ground_truth": "faculty"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": " Induprakas Kodukula's Home Page",
+    "Body": "In summer '95, I presented a talk at IBM Watson regarding the use of loop transformations in a VLIW compiler.",
+    "link": [
+        "http://www.cornell.edu",
+        "mailto:prakas@cs.cornell.edu",
+        "http://www.cs.cornell.edu"
+    ],
+    "ground_truth": "student"
+}

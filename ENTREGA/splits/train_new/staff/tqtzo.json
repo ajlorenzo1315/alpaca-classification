@@ -1,0 +1,10 @@
+{
+    "Title": " Paul Chew ",
+    "Body": "Research Agenda My primary interest is in geometric algorithms with an emphasis on practical applications.",
+    "link": [
+        "mailto:chew@cs.cornell.edu",
+        "http://www.cs.cornell.edu/Info/People/chew/Delaunay.html",
+        "http://www.cs.cornell.edu/Info/People/chew/mesh.html"
+    ],
+    "ground_truth": "staff"
+}

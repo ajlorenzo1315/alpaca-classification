@@ -1,0 +1,10 @@
+{
+    "Title": "Admissions",
+    "Body": "Program Application to the M.S.",
+    "link": [
+        "#applyug",
+        "#applyms",
+        "#applyprof"
+    ],
+    "ground_truth": "other"
+}

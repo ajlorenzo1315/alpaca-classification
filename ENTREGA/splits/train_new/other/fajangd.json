@@ -1,0 +1,10 @@
+{
+    "Title": "Leana Golubchik's Education",
+    "Body": "Bachelor of Science , June 1989, Computer Science and Engineering, UCLA .",
+    "link": [
+        "http://www.cs.ucla.edu/",
+        "http://www.ucla.edu/",
+        "http://nugget.cs.ucla.edu:8001/people/directors.html#muntz"
+    ],
+    "ground_truth": "other"
+}

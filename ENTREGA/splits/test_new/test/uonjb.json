@@ -1,0 +1,10 @@
+{
+    "Title": "CIS644 Home Page",
+    "Body": "anderson - my response about your homework bounced back 2/28 13:02 Course Information A syllabus for the course is available in postscript format.",
+    "link": [
+        "http://www.cis.ksu.edu/~dag/644sp96/materials/syllabus.ps",
+        "http://www.cis.ksu.edu/~dag/644sp96/materials/schedule.ps",
+        "http://www.cis.ksu.edu/~dag/644sp96/slides.html"
+    ],
+    "ground_truth": "unknow"
+}

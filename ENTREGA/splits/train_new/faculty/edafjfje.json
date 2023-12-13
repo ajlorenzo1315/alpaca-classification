@@ -1,0 +1,10 @@
+{
+    "Title": "Dr. Roger Webster Resume ",
+    "Body": "Publications: Webster, Roger, Wayde, Steve, and Auvil, Nathan, \"A Laboratory for Teaching Undergraduate Engineering Students Software Development Skills for Building Virtual Reality Applications\", Proceedings of the ISCS '97 International Conference on Computer Simulation, sponsored by the Society for Computer Simulation International, Phoenix, Arizona, January 12-15, 1997.",
+    "link": [
+        "mailto://webster@cs.millersv.edu",
+        "http://cs.millersv.edu",
+        "http://zansiii.millersv.edu"
+    ],
+    "ground_truth": "faculty"
+}

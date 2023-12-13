@@ -1,0 +1,10 @@
+{
+    "Title": "PHOENIX ",
+    "Body": "The fault tolerance in Phoenix is provided at two levels: Totally user (application) tranparent: At this level the system provides fault tolerance for any (object oriented) application that is developed in Spring.",
+    "link": [
+        "http://www.tamu.edu/",
+        "http://www.cs.tamu.edu/research/phoenix//",
+        "http://www.cs.tamu.edu/Images/pics/bright_tall.jpg"
+    ],
+    "ground_truth": "project"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "\nJihai Qiu's Home Page\n",
+    "Body": "Currently, I am pursuing a Ph.D. in Computer Science at Courant Institute of Mathematical Sciences , New York University .",
+    "link": [
+        "http://fulton.seas.virginia.edu/~js2b/hz/hz.html",
+        "http://www.ihep.ac.cn/china.html",
+        "http://cs.nyu.edu/"
+    ],
+    "ground_truth": "student"
+}

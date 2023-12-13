@@ -1,0 +1,10 @@
+{
+    "Title": "CSE 451 Projects",
+    "Body": "Extra Credit Java Assignment This assignment is out Monday 11/25/96 and is due Friday 12/6/96 Project Solutions Project 1. queue.c (here's my version of queuetest.c ) timegetpid.c Notes : When using gettimeofday , you get back a value in seconds and microseconds.",
+    "link": [
+        "project1.html",
+        "#p1_solution",
+        "project2.html"
+    ],
+    "ground_truth": "other"
+}

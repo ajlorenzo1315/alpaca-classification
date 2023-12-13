@@ -1,0 +1,10 @@
+{
+    "Title": "Home Page for Bob Hoffman",
+    "Body": "Date: Tue, 26 Nov 1996 21:05:58 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Thu, 01 Aug 1996 13:35:18 GMT Content-length: 1272 Home Page for Bob Hoffman Bob Hoffman Systems Specialist II Address 306 Alumni Hall Department of Computer Science University of Pittsburgh Pittsburgh, PA 15260 USA E-mail: hoffman@cs.pitt.edu Phone: (412) 624-8404 FAX: (412) 624-8854 Callsign: N3CVL Random Stuff Images captured from a satellite feed of Star Trek Voyager.",
+    "link": [
+        "http://www.acs.ncsu.edu:80/HamRadio",
+        "http://www.cs.pitt.edu/~hoffman/images.html",
+        "http://www.cs.pitt.edu/~hoffman/cspix.html"
+    ],
+    "ground_truth": "staff"
+}

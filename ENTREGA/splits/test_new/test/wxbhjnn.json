@@ -1,0 +1,10 @@
+{
+    "Title": "CS110 Program 0",
+    "Body": "If you want to save yourself some typing, you can click here and then go to the \"File\" menu on Netscape and do a \"Save as...\".",
+    "link": [
+        "http://www.cs.wisc.edu/~cs302/C++/Introduction/MSwindows.html",
+        "http://www.cs.wisc.edu/~cs302/C++/Borland4.5/intro.html",
+        "http://www.cs.wisc.edu/~hummert/cs110/programs/program0.cpp"
+    ],
+    "ground_truth": "unknow"
+}

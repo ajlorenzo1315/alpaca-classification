@@ -1,0 +1,10 @@
+{
+    "Title": "TRON Home Page",
+    "Body": "Date: Tue, 10 Dec 1996 23:17:08 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Fri, 17 Feb 1995 01:50:25 GMT Content-length: 1495 TRON Home Page TRON Process-Specific Protection in UNIX Andrew Berman , aberman@cs.washington.edu Virgil Bourassa , virgil@cs.washington.edu Erik Selberg , selberg@cs.washington.edu Papers Berman, Andrew; Bourassa, Virgil; Selberg, Erik.",
+    "link": [
+        "http://www.cs.washington.edu/homes/aberman",
+        "http://www.cs.washington.edu/homes/virgil",
+        "http://www.cs.washington.edu/homes/selberg"
+    ],
+    "ground_truth": "other"
+}

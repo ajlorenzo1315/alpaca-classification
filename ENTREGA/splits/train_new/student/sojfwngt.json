@@ -1,0 +1,10 @@
+{
+    "Title": "Andrew S. Gordon's Homepage",
+    "Body": "(3.4 Megabyte Postscript file) Gordon, Andrew S. (1995) Automated Video Assessment of Human Performance In J. Greer (ed) Proceedings of AI-ED 95 - World Conference on Artificial Intelligence in Education, Washington, DC; August 16-19, 1995.",
+    "link": [
+        "http://www.ils.nwu.edu/",
+        "http://www.nwu.edu/",
+        "mailto:gordon@ils.nwu.edu"
+    ],
+    "ground_truth": "student"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Udi Manber -- Home Page",
+    "Body": "He received his Ph.D in Computer Science from the University of Washington in 1982.",
+    "link": [
+        "http://glimpse.cs.arizona.edu/webglimpse",
+        "http://www.cs.arizona.edu/netshell/",
+        "http://harvest.transarc.com/"
+    ],
+    "ground_truth": "faculty"
+}

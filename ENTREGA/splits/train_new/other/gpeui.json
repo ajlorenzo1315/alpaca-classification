@@ -1,0 +1,10 @@
+{
+    "Title": "XFORM Programming",
+    "Body": "Date: Tue, 10 Dec 1996 03:31:10 GMT Server: NCSA/1.4.2 Content-type: text/html XFORM Programming Exploring the Mathematics of Images with XFORM (Web Under Construction) Here is the current version of the XFORM documentation in a single page, created with Microsoft Word and the MS Internet Assistant.",
+    "link": [
+        "http://www.cs.washington.edu/research/metip/xform/xform-doc.html",
+        "http://www.cs.washington.edu/research/metip/xform/what-is-xform.html",
+        "http://www.cs.washington.edu/research/metip/xform/XFORM-and-Lisp.html"
+    ],
+    "ground_truth": "other"
+}

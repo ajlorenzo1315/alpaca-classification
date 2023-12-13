@@ -1,0 +1,10 @@
+{
+    "Title": "Alex Grinzayd's Homepage",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Wednesday, 20-Nov-96 19:42:20 GMT Content-Type: text/html Content-Length: 931 Last-Modified: Monday, 11-Sep-95 14:35:00 GMT Alex Grinzayd's Homepage Alex Grinzayd M.Eng.",
+    "link": [
+        "http://necxdirect.necx.com:8002/",
+        "http://www.internet.net/index.html",
+        "http://cexpress.com:2700/"
+    ],
+    "ground_truth": "student"
+}

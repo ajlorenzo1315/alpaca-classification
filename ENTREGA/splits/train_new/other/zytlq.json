@@ -1,0 +1,9 @@
+{
+    "Title": "The Indigo Algorithm",
+    "Body": "We present Indigo, an efficient local propagation algorithm for satisfying acyclic constraint hierarchies, including inequality constraints.",
+    "link": [
+        "ftp://cs.washington.edu/pub/constraints/papers/UW-CSE-96-05-01.PS.Z",
+        "http://www.cs.washington.edu/research/projects/weird/www/index.html"
+    ],
+    "ground_truth": "other"
+}

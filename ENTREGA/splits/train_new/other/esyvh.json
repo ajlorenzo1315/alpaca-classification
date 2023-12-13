@@ -1,0 +1,10 @@
+{
+    "Title": "will he ever shut up?",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Sunday, 01-Dec-96 20:36:53 GMT Content-Type: text/html Content-Length: 930 Last-Modified: Tuesday, 13-Aug-96 03:06:12 GMT will he ever shut up?",
+    "link": [
+        "classical.html",
+        "techno.html",
+        "other.html"
+    ],
+    "ground_truth": "other"
+}

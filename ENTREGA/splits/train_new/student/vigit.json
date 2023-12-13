@@ -1,0 +1,10 @@
+{
+    "Title": "Bryan Ellington's Home Page",
+    "Body": "Here are a Few Cool Links ... Computer Industry Commercial Sites If you want to find out if your favorite computer company is on the Web, this is the place to do it.",
+    "link": [
+        "mailto:ellingto@eecs.tulane.edu",
+        "mailto:BEllington@msn.com",
+        "http://www.microsoft.com/ie/ie.htm"
+    ],
+    "ground_truth": "student"
+}

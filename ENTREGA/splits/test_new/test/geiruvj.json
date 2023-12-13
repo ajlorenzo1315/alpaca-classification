@@ -1,0 +1,10 @@
+{
+    "Title": "Dave Ackley",
+    "Body": "Ackley, D.H., and Littman, M.L.",
+    "link": [
+        "http://www.yahoo.com/Regional_Information/States/New_Mexico",
+        "http://clunix.cl.msu.edu/weather/interactive.html?id=ABQ&Submit=Submit+Query#Report",
+        "http://www.unm.edu/"
+    ],
+    "ground_truth": "unknow"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Richard Anderson's Home Page",
+    "Body": "Work: Computer Science & Engineering Department, University of Washington, Box 352350, Seattle, WA 98195, USA +1 (206) 543-1695 FAX (206) 543-2969 Teaching Some papers and work in progress Research Projects Qualifying Evaluation Projects Travel :  notes from my year visiting the Indian Institute of Science.",
+    "link": [
+        "http://www.reed.edu/",
+        "http://www.msri.org",
+        "http://ece.iisc.ernet.in/iisc.html"
+    ],
+    "ground_truth": "faculty"
+}

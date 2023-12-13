@@ -1,0 +1,10 @@
+{
+    "Title": "NDR Group Home Page",
+    "Body": "T he NDR group at the University of Michigan is actively conducting research in diverse areas of VLSI design, testing and CAD.",
+    "link": [
+        "http://www.umich.edu",
+        "http://www.eecs.umich.edu",
+        "http://www.engin.umich.edu/college"
+    ],
+    "ground_truth": "project"
+}

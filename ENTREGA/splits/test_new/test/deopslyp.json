@@ -1,0 +1,10 @@
+{
+    "Title": "Cody Kwok's Home Page",
+    "Body": "Date: Thu, 21 Nov 1996 22:58:15 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Sun, 26 May 1996 09:24:08 GMT Content-length: 4628 Cody Kwok's Home Page Welcome!",
+    "link": [
+        "http://www.cs.washington.edu/homes/ctkwok/gunnm4s.jpg",
+        "http://www.cs.washington.edu/homes/ctkwok/me/konnichi.wav",
+        "http://www.cs.washington.edu/homes/ctkwok/me.html"
+    ],
+    "ground_truth": "unknow"
+}

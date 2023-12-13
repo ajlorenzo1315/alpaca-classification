@@ -1,0 +1,10 @@
+{
+    "Title": "Bill's utterly ridiculous home-page",
+    "Body": "..and now, some page with a bunch of links I like.",
+    "link": [
+        "http://www.cs.wm.edu/~wmmaci/70billion.au",
+        "http://cs.wm.edu",
+        "http://www.vims.edu"
+    ],
+    "ground_truth": "student"
+}

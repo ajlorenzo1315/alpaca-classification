@@ -1,0 +1,10 @@
+{
+    "Title": "Fun Stuff for Mark S. Johnstone",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Monday, 06-Jan-97 22:49:03 GMT Content-Type: text/html Content-Length: 1309 Last-Modified: Wednesday, 24-Jan-96 01:20:15 GMT Fun Stuff for Mark S. Johnstone Mark S. Johnstone Fun Stuff Here is a picture of my cat: (157K) His name is Maow.",
+    "link": [
+        "images/maow.jpg",
+        "images/maow-baby-1.jpg",
+        "images/maow-baby-2.jpg"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Praveen Seshadri: Home Page",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Wednesday, 20-Nov-96 18:57:12 GMT Content-Type: text/html Content-Length: 1849 Last-Modified: Monday, 28-Oct-96 16:25:35 GMT Praveen Seshadri: Home Page Praveen Seshadri Assistant Professor Computer Science Department Cornell University.",
+    "link": [
+        "http://www.cs.cornell.edu",
+        "http://www.cornell.edu",
+        "http://www.cs.cornell.edu/Info/Courses/Current/CS537/course.html"
+    ],
+    "ground_truth": "faculty"
+}

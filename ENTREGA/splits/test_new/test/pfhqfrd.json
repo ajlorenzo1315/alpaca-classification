@@ -1,0 +1,10 @@
+{
+    "Title": "EECS 574 Home Page",
+    "Body": "We will try to grade the gradable part within a week.",
+    "link": [
+        "http://www.eecs.umich.edu/~gurevich",
+        "mailto:gurevich@eecs.umich.edu",
+        "http://www.eecs.umich.edu/courses/eecs574/an.html"
+    ],
+    "ground_truth": "unknow"
+}

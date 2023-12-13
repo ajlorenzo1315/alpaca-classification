@@ -1,0 +1,10 @@
+{
+    "Title": "The TRAINS Project: \n  A Case Study in Building a Conversational Planning Agent",
+    "Body": "The commitment to building complete integrated systems is a significant overhead on the research, but we feel it is essential to guarantee that the results constitute real progress in the field.",
+    "link": [
+        "http://www.cs.rochester.edu/research/trains/tn94-3/intro.html",
+        "http://www.cs.rochester.edu/research/trains/tn94-3/task.html",
+        "http://www.cs.rochester.edu/research/trains/tn94-3/agent.html"
+    ],
+    "ground_truth": "other"
+}

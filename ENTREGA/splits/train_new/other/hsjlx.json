@@ -1,0 +1,10 @@
+{
+    "Title": "CSE 378 Class Slides",
+    "Body": "Date: Tue, 10 Dec 1996 16:48:06 GMT Server: NCSA/1.4.2 Content-type: text/html CSE 378 Class Slides CSE 378:  Machine Organization and Assembly Language Programming Autumn 1996 Class Slides Here are copies of the transparencies used in class General introduction MIPS -ISA Part 1 MIPS -ISA Part 2 MIPS -Instruction encoding Procedure call and return protocol Spim program for recursive factorial Performance of computer systems Evolution of ISA's Simple datapath implementation Simple control unit Multiple cycle implementation Intro.",
+    "link": [
+        "genins.ps",
+        "mips.ps",
+        "mip2.ps"
+    ],
+    "ground_truth": "other"
+}

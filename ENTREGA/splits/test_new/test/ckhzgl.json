@@ -1,0 +1,10 @@
+{
+    "Title": "PROGRAMMING METHODOLOGY GROUP",
+    "Body": "Clients interact with Thor by calling methods of objects; calls run inside Thor to ensure that the objects cannot be corrupted by misbehaving client programs, which might be implemented in languages with unsafe features (such as explicit pointer arithmetic).",
+    "link": [
+        "http://www.pmg.lcs.mit.edu/",
+        "http://www.pmg.lcs.mit.edu/~liskov/index.html",
+        "http://www.pmg.lcs.mit.edu/Thor.html"
+    ],
+    "ground_truth": "unknow"
+}

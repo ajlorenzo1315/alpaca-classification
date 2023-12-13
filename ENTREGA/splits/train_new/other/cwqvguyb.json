@@ -1,0 +1,8 @@
+{
+    "Title": "CS 537 - Quiz #3",
+    "Body": "You might consider having this procedure call procedures in a \"BridgeControl\" monitor; this is similar to how we did the readers/writers problem.",
+    "link": [
+        "http://www.cs.wisc.edu/~bart"
+    ],
+    "ground_truth": "other"
+}

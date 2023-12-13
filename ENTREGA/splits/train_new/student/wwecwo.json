@@ -1,0 +1,10 @@
+{
+    "Title": "Sunghee Choi",
+    "Body": "I am in Master's program in the Department of Computer Sciences at the University of Texas at Austin .",
+    "link": [
+        "http://www.cs.utexas.edu",
+        "http://www.utexas.edu",
+        "http://wwwcomp.snu.ac.kr/"
+    ],
+    "ground_truth": "student"
+}

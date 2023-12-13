@@ -1,0 +1,10 @@
+{
+    "Title": "Todd A. Anderson's Home Page",
+    "Body": "Hot Pepper Sauces Salsa Express Chile Heads Home Page Chile Today - Hot Tamale Vote for your favorite Hot Sauce View the results of the Hot Sauce vote Todd and Robert's Consumate Hot Sauce Ratings HTML Related Information NCSA's Beginner's Guide to HTML NCSA's Beginner's Guide to HTML Forms CGI Overview Todd A. Anderson / Btech3.1b author / anderson@mik.uky.edu",
+    "link": [
+        "http://al.cs.engr.uky.edu:80/~anderson/todd_personal.html",
+        "http://al.cs.engr.uky.edu:80/~anderson/resume/resume.html",
+        "http://al.cs.engr.uky.edu:80/~anderson/welcome.au"
+    ],
+    "ground_truth": "student"
+}

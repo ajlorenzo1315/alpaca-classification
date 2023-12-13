@@ -1,0 +1,10 @@
+{
+    "Title": "No title",
+    "Body": "Date: Tue, 14 Jan 1997 20:12:52 GMT Server: Apache/1.1.0 Content-type: text/html Content-length: 339 Last-modified: Thu, 26 Sep 1996 19:50:08 GMT CPS 422 Information (Sections 1 and 2, Fall 1996) Information Sheet and Syllabus Course Notes Writing Assignments Problem Sets Exam Information",
+    "link": [
+        "http://web.cps.msu.edu/~mckinley/422/422/info.ps",
+        "http://web.cps.msu.edu/~mckinley/422/notes.html",
+        "http://web.cps.msu.edu/~mckinley/422/writing.html"
+    ],
+    "ground_truth": "other"
+}

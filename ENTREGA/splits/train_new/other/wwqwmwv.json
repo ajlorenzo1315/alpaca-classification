@@ -1,0 +1,10 @@
+{
+    "Title": "Experimental Analysis of Treecodes",
+    "Body": "In this paper we examine the performance of a class of treecodes to compare the effectiveness of different tree structures for N -body simulation.",
+    "link": [
+        "http://www.cs.washington.edu/homes/sds/papers/quals.ps",
+        "http://www.cs.washington.edu/homes/anderson/research.html",
+        "http://www.cs.washington.edu/homes/anderson"
+    ],
+    "ground_truth": "other"
+}

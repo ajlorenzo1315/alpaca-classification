@@ -1,0 +1,10 @@
+{
+    "Title": "Bugs",
+    "Body": "During the next two summers, while working on my main project, a parallel climate model, I looked into MPI , even attending one of the MPI Forums in Dallas.",
+    "link": [
+        "http://server.berkeley.edu/~joepet/skuld_shrine.html",
+        "http://www.portal.com/~graham/k1/amg.html",
+        "http://www.cs.washington.edu/homes/skoga/"
+    ],
+    "ground_truth": "other"
+}

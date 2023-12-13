@@ -1,0 +1,10 @@
+{
+    "Title": "The Chains Programming Language",
+    "Body": "An algebraic-topological programming language [Pal94] [PS93] is a computer language that has algebraic-topological objects such as vertices , simplexes , complexes , and chains as it's basic data types.",
+    "link": [
+        "example.html",
+        "about-logo.html",
+        "lagrange-quote.html"
+    ],
+    "ground_truth": "other"
+}

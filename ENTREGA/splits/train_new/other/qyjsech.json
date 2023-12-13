@@ -1,0 +1,6 @@
+{
+    "Title": "CPS 100 - Assignment 4 - FALL 1996 ",
+    "Body": "For extra credit your program should be able to handle a first word even if the word is NOT in the list of words (all other words in the ladder, except perhaps for the last, must be in the list of words).",
+    "link": [],
+    "ground_truth": "other"
+}

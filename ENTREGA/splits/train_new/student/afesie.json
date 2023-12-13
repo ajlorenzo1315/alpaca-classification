@@ -1,0 +1,10 @@
+{
+    "Title": "\nGokul's Home Page\n",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Monday, 06-Jan-97 19:31:35 GMT Content-Type: text/html Content-Length: 1572 Last-Modified: Sunday, 01-Dec-96 02:14:58 GMT Gokul's Home Page Finally... After receiving countless flames and gripes about the excessive verbosity of my home page, I have decided to bow to the collective wish of the masses (it's a democratic world) and put only the barest minimum out here.",
+    "link": [
+        "http://www.cs.wisc.edu/~plakal",
+        "welcome2.html",
+        "guestbook.form.html"
+    ],
+    "ground_truth": "student"
+}

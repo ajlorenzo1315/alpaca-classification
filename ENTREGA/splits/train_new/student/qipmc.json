@@ -1,0 +1,10 @@
+{
+    "Title": "Zhichen Xu's Home Page",
+    "Body": "My research interest is in the area of programming languages and performance issues in parallel and distributed systems.",
+    "link": [
+        "http://www.cs.wisc.edu/~larus/larus.html",
+        "http://www.cs.wisc.edu/~bart/bart.html",
+        "http://www.cs.wisc.edu/~zhichen/lang.html"
+    ],
+    "ground_truth": "student"
+}

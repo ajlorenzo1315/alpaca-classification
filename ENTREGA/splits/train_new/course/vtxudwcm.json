@@ -1,0 +1,10 @@
+{
+    "Title": "CS 318 Home Page",
+    "Body": "Server: Netscape-Commerce/1.12 Date: Wednesday, 20-Nov-96 22:46:08 GMT Last-modified: Friday, 16-Feb-96 20:28:34 GMT Content-length: 963 Content-type: text/html CS 318 Home Page CS 318 ( Spring '96 ) : Operating Systems Welcome to the cs 318 home page.",
+    "link": [
+        "http://www.cs.princeton.edu/~rjl",
+        "http://www.cs.princeton.edu/~skumar",
+        "http://www.CS.Princeton.EDU/courses/archive/spr96/cs318/Handouts/index.html"
+    ],
+    "ground_truth": "course"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Natural Language Laboratory: Table of Contents",
+    "Body": "Date: Tue, 26 Nov 1996 00:39:44 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Fri, 15 Nov 1996 21:48:38 GMT Content-length: 7898 Natural Language Laboratory: Table of Contents Natural Language Laboratory at Simon Fraser University Next: What's New Up: Artificial Intelligence Research at SFU Previous: IRIS-2: Intelligent Interfaces for Information Access (coming soon) The natural language laboratory at Simon Fraser University is one of the larger North American labs working on natural language processing (NLP).",
+    "link": [
+        "#new",
+        "http://fas.sfu.ca/1/cs/research/groups",
+        "http://fas.sfu.ca/0h/cs/research/projects"
+    ],
+    "ground_truth": "project"
+}

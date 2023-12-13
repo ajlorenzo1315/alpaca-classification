@@ -1,0 +1,10 @@
+{
+    "Title": "\n22C:021 Algorithms and Data Structures Home Page",
+    "Body": "Syllabus: follow this link Examinations: First examination was 19 September, to see solutions follow this link ; second examination was 17 October, to see solutions follow this link ; third examination was 14 November, to see solutions follow this link Grading results: examinations (1, 2 and 3) ; homeworks Lecture Summaries: 31 Oct up to 12 Nov: Graphs and Paths 22 Oct, 24 Oct: Sorting 1 Oct, 3 Oct: Search Trees 24 Sep, 26 Sep: ADTs, Hashing 12 Sep, 17 Sep: Recursion 7 Sep, 10 Sep, 12 Sep: Analysis 5 Sep: Iteration 27 Aug, 29 Aug, 3 Sep: Induction Homework: follow this link Reading: follow this link Programming Assignment: The second assignment is due 5 December, for details follow this link Not-so-News [14 Nov] Third examination was held 14 November, exam and solutions have been posted.",
+    "link": [
+        "http://www.cs.uiowa.edu/~herman",
+        "http://www.cs.uiowa.edu/~haoyu",
+        "http://www.cs.uiowa.edu/~herman/22C021/syllabus.ps"
+    ],
+    "ground_truth": "course"
+}

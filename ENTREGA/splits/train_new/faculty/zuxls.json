@@ -1,0 +1,10 @@
+{
+    "Title": " Klaus E. Schauser",
+    "Body": "Date: Thu, 21 Nov 1996 20:15:40 GMT Server: Apache/1.0.2 Content-type: text/html Content-length: 3141 Last-modified: Mon, 30 Sep 1996 18:54:59 GMT Klaus E. Schauser Klaus E. Schauser, Assistant Professor Room 2123, Engineering I Department of Computer Science Santa Barbara, CA 93106-5110 internet: schauser@cs.ucsb.edu ; phone: (805) 893-3926 ; fax: (805) 893-8553 Ph.D., University of California, Berkeley Research Interests: parallel computing, functional programming languages, compilers, computer architecture Klaus E. Schauser received the Diplom in Computer Science from the Universität Karlsruhe in 1989 and the M.S.",
+    "link": [
+        "http://www.cs.ucsb.edu/Conferences/SPAA95/",
+        "http://www.cs.ucsb.edu/Conferences/PPOPP95/",
+        "http://www.cs.ucsb.edu/~schauser/papers/"
+    ],
+    "ground_truth": "faculty"
+}

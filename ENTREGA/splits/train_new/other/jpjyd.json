@@ -1,0 +1,10 @@
+{
+    "Title": "General Information on the Cornell Computer Science Department",
+    "Body": "Undergraduate Programs The Computer Science department is in both the College of Arts and Sciences and the College of Engineering at Cornell University.",
+    "link": [
+        "http://www.cs.cornell.edu/Info/Faculty/faculty-list.html",
+        "http://www.cs.cornell.edu/Info/People/students.html",
+        "#grad"
+    ],
+    "ground_truth": "other"
+}

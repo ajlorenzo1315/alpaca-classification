@@ -1,0 +1,5 @@
+{
+    "Título": "EXODUS Project Home Page",
+    "Cuerpo": "Date: Thu, 07 Nov 1996 19:22:24 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Mon, 18 Mar 1996 16:36:50 GMT Content-length: 1578 EXODUS Project Home Page EXODUS - An Extensible Object-Oriented Database System Toolkit NOTE: Document is under construction. The Exodus project has been succeded by the SHORE project but we still provide minimal support for users. Both the Exodus Storage Manager and a compiler for the E persistent programming language , are available via ftp on ftp.cs.wisc.edu. No licenses are required. If more information is needed contact exodus@cs.wisc.edu Principal Investigators Mike Carey David DeWitt See Also: Publications related to EXODUS SHORE: the successor to EXODUS Latest Exodus Storage Manager and E compiler Contributed software for the Storage Manager A mailing list for Exodus users: exodus_all@cs.wisc.edu OO7 Benchmark: a benchmark for OODBS Date Prepared: 19 April 1994 Michael Zwilling / zwilling@cs.wisc.edu.",
+    "ground_truth": "project"
+}

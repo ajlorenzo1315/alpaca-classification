@@ -1,0 +1,10 @@
+{
+    "Title": "Dave B. Sharp's Home Page",
+    "Body": "Sharp's Home Page Dave B.",
+    "link": [
+        "http://gulf.uvic.ca/~dsharp1/myself.html",
+        "http://www.uvic.ca/",
+        "http://gulf.uvic.ca/~dsharp1/files/Codesign.htm"
+    ],
+    "ground_truth": "faculty"
+}

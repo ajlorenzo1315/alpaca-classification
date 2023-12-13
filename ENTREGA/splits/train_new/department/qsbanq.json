@@ -1,0 +1,10 @@
+{
+    "Title": "University of Manitoba - Computer Science",
+    "Body": "Date: Tue, 26 Nov 1996 22:28:52 GMT Server: NCSA/1.5 Content-type: text/html University of Manitoba - Computer Science Department of Computer Science, 545 Machray Hall University of Manitoba, Winnipeg, Manitoba, R3T 2N2, Canada Phone: +1 (204) 474-8313; Fax: +1 (204) 269-9178 Welcome to the World Wide Web server operated by the Department of Computer Science at the University of Manitoba .",
+    "link": [
+        "http://www.w3.org/hypertext/WWW/TheProject",
+        "http://www.umanitoba.ca/about/history.html",
+        "http://www.cs.umanitoba.ca/maps/machray-hall/"
+    ],
+    "ground_truth": "department"
+}

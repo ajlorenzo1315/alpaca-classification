@@ -1,0 +1,10 @@
+{
+    "Title": "Reactive Robotics",
+    "Body": "Reactive Algorithms for 2 and 3 Finger Grasping, Marek Teichmann and Bud Mishra, Proceedings of the 1994 International Workshop on Intelligent Robots and Systems : IRS'94, Grenoble, (France), July 11--14, 1994.",
+    "link": [
+        "http://cs.nyu.edu/cs/faculty/mishra/TOPICS/RR/short.ps",
+        "http://cs.nyu.edu/cs/faculty/mishra/TOPICS/RR/ic.ps",
+        "http://cs.nyu.edu/cs/faculty/mishra/TOPICS/RR/ir.ps"
+    ],
+    "ground_truth": "project"
+}

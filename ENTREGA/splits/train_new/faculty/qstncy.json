@@ -1,0 +1,10 @@
+{
+    "Title": "Camillo J. Taylor Home Page",
+    "Body": "The Facade Project Selected Publications: Doctoral Dissertation : Computer Vision Algorithms for Mobile Robots Exploration Strategies for Mobile Robots Camillo J. Taylor and David J. Kriegman In Proceedings, IEEE International Conference on Robotics and Automation.",
+    "link": [
+        "http://robotics.eecs.berkeley.edu/",
+        "http://http.cs.berkeley.edu/~camillo/StereoDrive/StereoDrive.html",
+        "http://giskard.eng.yale.edu/vision/projects/navigation.html"
+    ],
+    "ground_truth": "faculty"
+}

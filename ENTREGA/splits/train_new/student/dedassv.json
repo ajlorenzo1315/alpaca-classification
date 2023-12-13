@@ -1,0 +1,10 @@
+{
+    "Title": "Jia Wang's Home Page",
+    "Body": "Some Interesting WWW Sites... 1996 America's Best Graduate Schools: U.S. News Ranking 1996 U.S. News Graduate Liberal Arts Rankings, Computer Science ACM Film Music IEEE Computer Society Money National Science Foundation Petersons Guide Postcard Service Rank PhD Programs in Computer Science The Senior's Homepage Virtual Tourist World Map Yahoo Cornell  Chinese Christian Fellowship (Mandarin) CSSA at Cornell University Weather Other Universities... Binghamton University Cornell University SUNY Stony Brook UCLA Universities in China",
+    "link": [
+        "http://www.cs.cornell.edu/",
+        "http://www.cornell.edu",
+        "http://www.cornell.edu/Ithaca.html"
+    ],
+    "ground_truth": "student"
+}

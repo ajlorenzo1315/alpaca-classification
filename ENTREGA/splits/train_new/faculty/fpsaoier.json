@@ -1,0 +1,10 @@
+{
+    "Title": "Joseph Goguen",
+    "Body": "Date: Thu, 21 Nov 1996 20:10:10 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Sun, 13 Oct 1996 00:35:16 GMT Content-length: 2466 Joseph Goguen What's New on my site and What's Cool on the web.",
+    "link": [
+        "http://www-cse.ucsd.edu/users/goguen/new.html",
+        "http://www-cse.ucsd.edu/users/goguen/cool.html",
+        "http://www.cs.ucsd.edu/index.html"
+    ],
+    "ground_truth": "faculty"
+}

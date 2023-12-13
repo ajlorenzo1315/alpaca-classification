@@ -1,0 +1,10 @@
+{
+    "Title": "CSE 240 Home Page",
+    "Body": "Server: Netscape-Communications/1.1 Date: Wednesday, 20-Nov-96 23:25:06 GMT Last-modified: Tuesday, 17-Sep-96 17:06:58 GMT Content-length: 2889 Content-type: text/html CSE 240 Home Page CSE 240 - Introduction to Computer Architecture - Fall 1996 General Information General Course Information Newsgroup: upenn.cis.cse240 Course Directory All course assignments, tests,  and solutions (after the due date) are available online.",
+    "link": [
+        "http://homepage.seas.upenn.edu/~lou/outline-f96.ps",
+        "news://netnews.upenn.edu/upenn.cis.cse240",
+        "http://homepage.seas.upenn.edu/~lou/assignments"
+    ],
+    "ground_truth": "unknow"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": " Smita Bakshi ",
+    "Body": "A Memory Selection Algorithm for High-Performance Pipelines, Proceedings of the European Design Automation Conference, (Brighton, UK) 1995.",
+    "link": [
+        "http://www.ics.uci.edu/CRR/gajski95.html",
+        "file://www.ics.uci.edu/~sbakshi//i1/eg/uc/sbakshi/reports/papers/e-dac96/final/paper.ps.gz",
+        "file://www.ics.uci.edu/~sbakshi//i1/eg/uc/sbakshi/reports/papers/edtc96/rpt.ps.gz"
+    ],
+    "ground_truth": "student"
+}

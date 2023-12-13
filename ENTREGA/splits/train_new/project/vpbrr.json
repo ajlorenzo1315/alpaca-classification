@@ -1,0 +1,10 @@
+{
+    "Title": "UTCS Natural Language Acquistion Group",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Monday, 06-Jan-97 19:47:23 GMT Content-Type: text/html Content-Length: 3087 Last-Modified: Thursday, 12-Dec-96 20:37:03 GMT UTCS Natural Language Acquistion Group Natural Language Acquisition Group at the Department of Computer Sciences of the University of Texas at Austin <!-- This is a comment> We explore and discuss papers in the area of natural language acquisition and learning.",
+    "link": [
+        "http://www.cs.utexas.edu/users/nl-acq/prop-papers.html",
+        "http://www.cs.utexas.edu/users/nl-acq/paper-history.html",
+        "http://www.cs.utexas.edu/users/nl-acq/paper-history.html#1992"
+    ],
+    "ground_truth": "project"
+}

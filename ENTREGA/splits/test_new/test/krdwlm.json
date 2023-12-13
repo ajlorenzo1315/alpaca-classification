@@ -1,0 +1,10 @@
+{
+    "Title": "Split-C",
+    "Body": "The language provides a small set of global access primitives and simple parallel storage layout declarations.",
+    "link": [
+        "http://now.cs.berkeley.edu/AM/active_messages.html",
+        "http://http.cs.berkeley.edu/projects/parallel/castle/split-c/split-c.tr.html",
+        "ftp://ftp.cs.berkeley.edu/ucb/CASTLE/Split-C/sc93.ps.Z"
+    ],
+    "ground_truth": "unknow"
+}

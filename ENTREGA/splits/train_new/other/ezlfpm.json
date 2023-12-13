@@ -1,0 +1,9 @@
+{
+    "Title": "Indigo: A Local Propagation Algorithm for Inequality Constraints",
+    "Body": "Date: Tue, 10 Dec 1996 03:25:32 GMT Server: NCSA/1.4.2 Content-type: text/html Indigo: A Local Propagation Algorithm for Inequality Constraints Indigo: A Local Propagation Algorithm for Inequality Constraints Authors: Alan Borning, Richard Anderson, and Bjorn Freeman-Benson In Proceedings of the 1996 ACM Symposium on User Interface Software and Technology , pages 129-136.",
+    "link": [
+        "ftp://cs.washington.edu/pub/constraints/papers/indigo-uist-96.ps.Z",
+        "http://www.cs.washington.edu/research/projects/weird/www/index.html"
+    ],
+    "ground_truth": "other"
+}

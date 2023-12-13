@@ -1,0 +1,10 @@
+{
+    "Title": "CS1000",
+    "Body": "This hypertext document provides an introduction to UNIX and the instructional computers at the University of Wisconsin.",
+    "link": [
+        "http://www.cs.wisc.edu/csl/cs1000/node1.html",
+        "http://www.cs.wisc.edu/csl/cs1000/node1.html",
+        "http://www.cs.wisc.edu/csl/cs1000/node61.html"
+    ],
+    "ground_truth": "other"
+}

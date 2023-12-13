@@ -1,0 +1,10 @@
+{
+    "Title": " Mark Brockington's Neighbourhood ",
+    "Body": "Date: Tue, 26 Nov 1996 16:59:28 GMT Server: Apache/1.1.1 Content-type: text/html Content-length: 1917 Last-modified: Tue, 15 Oct 1996 18:36:22 GMT Mark Brockington's Neighbourhood Mark G. Brockington Ph.D.",
+    "link": [
+        "http://web.cs.ualberta.ca/~games/index.html",
+        "http://web.cs.ualberta.ca/Academic/labs/parallel.html",
+        "http://web.cs.ualberta.ca/index.html"
+    ],
+    "ground_truth": "student"
+}

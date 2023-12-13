@@ -1,0 +1,10 @@
+{
+    "Title": "CPS 100 - FALL 1996 ",
+    "Body": "We will be covering these structures and their implementation in C++ later in the semester.",
+    "link": [
+        "http://www.cs.duke.edu/~rodger",
+        "#code",
+        "#assign"
+    ],
+    "ground_truth": "course"
+}

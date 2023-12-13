@@ -1,0 +1,10 @@
+{
+    "Title": "Viewing System",
+    "Body": "Since it was very hard to create the view frustum in the world coordinate system, I have created the view frustum in the viewing coordinate space and apply inverse T view matrix to the view frustum that has created in the viewing coordinate system.",
+    "link": [
+        "http://www.cs.cornell.edu/Info/People/shim/MENG/ViewingSystem.html",
+        "http://www.cs.cornell.edu/Info/Department/Meng/",
+        "http://www.cs.cornell.edu/Info/People/shim/shim.html"
+    ],
+    "ground_truth": "other"
+}

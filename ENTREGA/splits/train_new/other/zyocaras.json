@@ -1,0 +1,10 @@
+{
+    "Title": "Inductive Logic Programming",
+    "Body": "This paper presents results on using a new inductive logic programming method called FOIDL to learn the past tense of English verbs.",
+    "link": [
+        "file://ftp.cs.utexas.edu/pub/mooney/papers/chill-ilp-96.ps.Z",
+        "file://ftp.cs.utexas.edu/pub/mooney/papers/scope-proposal-96.ps.Z",
+        "file://ftp.cs.utexas.edu/pub/mooney/papers/scope-msl-96.ps.Z"
+    ],
+    "ground_truth": "other"
+}

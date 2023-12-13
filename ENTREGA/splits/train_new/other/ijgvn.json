@@ -1,0 +1,10 @@
+{
+    "Title": "CSE 142: Computing at Home",
+    "Body": "We have tried to organize the course so we will not stand in the way of this, but you will be largely on your own in leaping a number of hurdles.",
+    "link": [
+        "#connected",
+        "#compiler",
+        "#transfer"
+    ],
+    "ground_truth": "other"
+}

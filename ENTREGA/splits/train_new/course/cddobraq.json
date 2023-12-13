@@ -1,0 +1,10 @@
+{
+    "Title": "COS 496",
+    "Body": "14, 1996 Assignment No.",
+    "link": [
+        "http://www.cs.princeton.edu/~prc",
+        "http://www.cs.princeton.edu/~ken",
+        "http://www.cs.princeton.edu/~mj/"
+    ],
+    "ground_truth": "course"
+}

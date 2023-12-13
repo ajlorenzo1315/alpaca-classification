@@ -1,0 +1,8 @@
+{
+    "Title": "CSE567 Homework Assignment #3",
+    "Body": "(\"verilog.exe compare_TB.v\" will do the trick) Use the comparator Verilog module to construct a MIN/MAX circuit.",
+    "link": [
+        "../misc/gate-syn.html"
+    ],
+    "ground_truth": "other"
+}

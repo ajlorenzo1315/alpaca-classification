@@ -1,0 +1,10 @@
+{
+    "Title": "IIT KGP, CS '94 BATCH",
+    "Body": "madan@cadence.com Souvik Das MS '96, U. of Georgia, Athens Presently with ?",
+    "link": [
+        "mailto:datta@cs.unc.edu",
+        "http://galt.cs.nyu.edu/students/archi",
+        "mailto:archi@jethro.cs.nyu.edu"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "U.S. Universities & Community Colleges",
+    "Body": "Universities & Community Colleges This page of UT Austin Web Central contains links to Web servers at universities and community colleges in the U.S.  Only one server is listed for each campus: the primary central server.",
+    "link": [
+        "http://www.utexas.edu/world/lecture/",
+        "http://www.utexas.edu/world/univ/new/",
+        "http://www.utexas.edu/world/univ/alpha/"
+    ],
+    "ground_truth": "other"
+}

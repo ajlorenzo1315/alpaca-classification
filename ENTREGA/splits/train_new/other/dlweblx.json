@@ -1,0 +1,10 @@
+{
+    "Title": "Ph. D. Students",
+    "Body": "William D. Young, A verified code generator for a subset of Gypsy , 1987 (J Moore).",
+    "link": [
+        "young-diss.ps.Z",
+        "kit.ps.Z",
+        "./publications.html#nqthm"
+    ],
+    "ground_truth": "other"
+}

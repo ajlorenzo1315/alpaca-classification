@@ -1,0 +1,10 @@
+{
+    "Title": "Mitchell Wand",
+    "Body": "This document is also available in Bibtex form here .",
+    "link": [
+        "http://www.ccs.neu.edu/home/wand/big-mitch.gif",
+        "http://www.eff.org/blueribbon.html",
+        "#personal"
+    ],
+    "ground_truth": "faculty"
+}

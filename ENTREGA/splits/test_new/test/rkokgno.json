@@ -1,0 +1,9 @@
+{
+    "Title": "Personal Background Info",
+    "Body": "Plans I have graduated in the May of 1995 for my Bachelor degree in Computer Science.",
+    "link": [
+        "http://hsb.baylor.edu/html/students/tang.ypt/home.htm",
+        "http://www.utexas.edu/"
+    ],
+    "ground_truth": "unknow"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "CS512:  Handouts",
+    "Body": "Closure Conversion of LAMBDA (dvi file) Abstract Models of Memory Management , G. Morrisett, M. Felleisen, R. Harper Uniprocessor Garbage Collection Techniques , P. Wilson Assignment 3: Optimization, Closure Conversion, and GC (dvi file) A Simple Copying Collector (sml code) Introduction to Advanced Control Constructs (dvi file) Operational Semantics for Advanced Control Constructs (dvi file) Implementing Evaluation Contexts (dvi file) Assignment 4:  Closure Conversion (take 2) and Garbage Collection (dvi file) Adding Threads to Standard ML , E. Cooper and G. Morrisett (postscript) A Portable Multiprocessing Interface for Standard ML of New Jersey ,G. Morrisett and A. Tolmach (postscript) CML: A Higher-Order Concurrent Language ,J.H.",
+    "link": [
+        "http://www.cs.cornell.edu/Info/Courses/Spring-96/CS512/syl.dvi",
+        "http://foxnet.cs.cmu.edu/intro-notes.ps",
+        "http://www.cs.cornell.edu/Info/Courses/Spring-96/CS512/notes2.dvi"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Washington Yacht Club",
+    "Body": "<font size=3>If you are a member of the Washington Yacht Club and have not gotten on our informative lists, wyc@u.washington.edu or keelboat@u.washington.edu, please join us.",
+    "link": [
+        "http://www.washington.edu",
+        "http://www.seanet.com/Seattle/SeattleHome.html",
+        "http://weber.u.washington.edu/d64/rainer/wycBoats.html"
+    ],
+    "ground_truth": "other"
+}

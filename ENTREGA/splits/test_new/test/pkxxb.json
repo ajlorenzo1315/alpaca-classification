@@ -1,0 +1,10 @@
+{
+    "Title": "Greg Linden's Home Page",
+    "Body": "Java Applets: WebView allows you to see the links to and from a page or set of pages.",
+    "link": [
+        "http://weber.u.washington.edu/~herron",
+        "http://weber.u.washington.edu/~polisci/",
+        "http://www.washington.edu"
+    ],
+    "ground_truth": "unknow"
+}

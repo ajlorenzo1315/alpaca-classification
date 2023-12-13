@@ -1,0 +1,9 @@
+{
+    "Title": "The SkyBlue Constraint Solver and Its Applications",
+    "Body": "Date: Tue, 10 Dec 1996 03:25:53 GMT Server: NCSA/1.4.2 Content-type: text/html The SkyBlue Constraint Solver and Its Applications The SkyBlue Constraint Solver and Its Applications Author: Michael Sannella To appear in Vijay Saraswat and Pascal van Hentenryck (eds), Proceedings of the 1993 Workshop on Principles and Practice of Constraint Programming , MIT Press, 1994.",
+    "link": [
+        "ftp://cs.washington.edu/pub/constraints/papers/skyblue-ppcp-93.ps.Z",
+        "http://www.cs.washington.edu/research/projects/weird/www/index.html"
+    ],
+    "ground_truth": "other"
+}

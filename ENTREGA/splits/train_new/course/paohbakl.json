@@ -1,0 +1,10 @@
+{
+    "Title": "CS141: Computing Hardware",
+    "Body": "Date: Wed, 20 Nov 1996 22:24:46 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Fri, 15 Nov 1996 20:57:54 GMT Content-length: 4652 CS141: Computing Hardware CS141: Computing Hardware Computer Science 141 is an undergraduate course covering digital logic design, computer architecture, and machine organization.",
+    "link": [
+        "http://www.deas.harvard.edu/cs/academics/courses/cs141/CourseInfo.ps",
+        "http://www.eecs.harvard.edu/~smith/cs141-student-info.html",
+        "http://www.deas.harvard.edu/cs/academics/courses/cs141/lec1-1.ps"
+    ],
+    "ground_truth": "course"
+}

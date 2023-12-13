@@ -1,0 +1,10 @@
+{
+    "Title": "Quantifying the Effects of Communication Optimizations",
+    "Body": "Abstract In this paper, we quantify the effects of three well-known communication optimizations: redundant communication removal, communication combination, and communication pipelining.",
+    "link": [
+        "http://www.cs.washington.edu/research/projects/zpl/",
+        "http://www.cs.washington.edu/",
+        "http://www.cac.washington.edu:1183/"
+    ],
+    "ground_truth": "unknow"
+}

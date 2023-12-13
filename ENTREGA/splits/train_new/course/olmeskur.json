@@ -1,0 +1,10 @@
+{
+    "Title": "CSE 590D Home Page (Autumn 1995)",
+    "Body": "Reading for October 31 --  C. Laborde and J-M Laborde: \"Problem Solving in Geometry: From Microworlds to Intelligent Computer Environments\"  (presented by Tessa Lau) Reading for November 7 --  B. Bartels: \"Promoting mathematics connections with concept mapping\" (plus presentation by Gary Anderson) No meeting November 14 -- Reading for November 21 -- The readings for this meeting are all online (on the WWW).",
+    "link": [
+        "http://www.igd.fhg.de/www/www95/proceedings/papers/89/paper.html",
+        "http://www.ncsa.uiuc.edu/SDG/IT94/Proceedings/Educ/ward/ward.html",
+        "http://www.igd.fhg.de/www/www95/proceedings/papers/88/TR/WWW95.html"
+    ],
+    "ground_truth": "course"
+}

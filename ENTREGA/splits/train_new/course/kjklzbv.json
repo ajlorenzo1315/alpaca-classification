@@ -1,0 +1,10 @@
+{
+    "Title": "C646 Course Information",
+    "Body": "Readings for second part of the course: 10/18 : Stonebraker: Chapter 10 , Data Model Issues for OO systems.",
+    "link": [
+        "#general",
+        "#description",
+        "#list_of_topics"
+    ],
+    "ground_truth": "course"
+}

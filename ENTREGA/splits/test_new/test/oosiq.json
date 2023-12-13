@@ -1,0 +1,10 @@
+{
+    "Title": "Suprakash Datta's home page ",
+    "Body": "Address : Suprakash Datta Department of Computer Science University of Massachusetts Amherst, MA 01003-4610 Phone number:\t(413) 545 2502 Email : datta@cs.umass.edu (Click here to send me email and here for my last login etc).",
+    "link": [
+        "http://www.cs.umass.edu/~thtml/people/pictures/datta.gif",
+        "http://www.cs.umass.edu/pics-96/250x250/datta.jpg",
+        "http://www.cs.umass.edu/~thtml/index.html"
+    ],
+    "ground_truth": "unknow"
+}

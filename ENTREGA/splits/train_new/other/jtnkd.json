@@ -1,0 +1,10 @@
+{
+    "Title": "Selected Papers by Oren Etzioni",
+    "Body": "on Principles of Knowledge Representation and Reasoning , pages 178--189, 1994.",
+    "link": [
+        "http://www.cs.washington.edu/research/projects/softbots/www/metacrawler.ps",
+        "http://www.cs.washington.edu/research/projects/softbots/papers/metacrawler/www4/html/Overview.html",
+        "http://www.cs.washington.edu/research/projects/softbots/www/ijcai95.ps"
+    ],
+    "ground_truth": "other"
+}

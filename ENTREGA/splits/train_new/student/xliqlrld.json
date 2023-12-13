@@ -1,0 +1,10 @@
+{
+    "Title": "Wanning's Home Page",
+    "Body": "Date: Tue, 26 Nov 1996 16:23:58 GMT Server: NCSA/1.4.1 Content-type: text/html Last-modified: Wed, 16 Oct 1996 15:25:50 GMT Content-length: 1540 Wanning's Home Page Who am I?",
+    "link": [
+        "http://gulf.uvic.ca/~wtian/resume.html",
+        "http://gulf.uvic.ca/~wtian/myhome.html",
+        "http://gulf.uvic.ca/~wtian/courses.html"
+    ],
+    "ground_truth": "student"
+}

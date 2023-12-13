@@ -1,0 +1,10 @@
+{
+    "Title": "Millersville University Computer Science Department",
+    "Body": "Server: Netscape-Communications/1.1 Date: Tuesday, 26-Nov-96 18:43:06 GMT Content-type: text/html Millersville University Computer Science Department Academic Guide and Program Information 1996/97 http://cs.millersv.edu General Information Course Descriptions Department Faculty Degree Requirements Professions and Careers Graph of CS courses Computer Lab Equipment Bar Chart of CS enrollment Programming Demos Intelligent Machines Lab MU COOP program Advanced Elective Courses New Curriculum Description NSF Grants & Projects Post a Job or Coop to CS Java demos Send me Info via postal mail CS Student HomePages Favorite Links SSTP Summer Program SSTP Track III CS area in New Roddy Bldg Virtual Reality Demos CS Alumni on the Internet Core Courses in CS Pacise SUN lab schedule VRML of new Roddy Internet for Educators Student Course Voting Internet Tutorials GRE exam - ETS If U think U R a CS Major How to set up a Home Page For suggestions or comments about this www page contact: Laurie Knox , Unix/Network System Administrator or Dr. Roger Webster , Chairman CS Dept.",
+    "link": [
+        "http://cs.millersv.edu/general.html",
+        "http://cs.millersv.edu/descriptions.html",
+        "http://cs.millersv.edu/faculty.html"
+    ],
+    "ground_truth": "unknow"
+}

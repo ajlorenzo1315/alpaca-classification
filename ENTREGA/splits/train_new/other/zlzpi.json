@@ -1,0 +1,10 @@
+{
+    "Title": "David S. Koster's Bookmarks",
+    "Body": "If you want to put your own home page up, just ask me , or mail me your HTML page, and I'll post it.",
+    "link": [
+        "mailto:dkoster@cs.cornell.edu",
+        "http://www.webcom.com/html/",
+        "http://www.eit.com/web/www.guide/"
+    ],
+    "ground_truth": "other"
+}

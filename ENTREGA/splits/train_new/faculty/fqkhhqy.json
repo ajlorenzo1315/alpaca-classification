@@ -1,0 +1,10 @@
+{
+    "Title": " Deepak Kumar's Home Page ",
+    "Body": "Wade Roush, Hackers: Taking a Byte out of Computer Crime Technology Review , April 1995.",
+    "link": [
+        "http://blackcat.brynmawr.edu/~dkumar/me.html",
+        "http://www.cs.buffalo.edu/pub/sneps/WWW/",
+        "http://www.cs.buffalo.edu/pub/WWW/faculty/shapiro/shapiro.html"
+    ],
+    "ground_truth": "faculty"
+}

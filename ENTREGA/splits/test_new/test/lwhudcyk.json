@@ -1,0 +1,10 @@
+{
+    "Title": "Ted Herman Home Page",
+    "Body": "Date: Tue, 14 Jan 1997 23:19:00 GMT Server: NCSA/1.5 Content-type: text/html Ted Herman Home Page Ted Herman Position:        Faculty Email:           herman@cs.uiowa.edu Snail Mail:      Department of Computer Science University of Iowa Iowa City, Iowa 52242 Telephone:       (319) 335-2833 Fax:             (319) 335-3624 Office:          201C MacLean Hall Walk-in Hours:   Tuesday and Thursday, 10:45-12:00 The image to the left is a photograph of a goldfinch, the official state bird of Iowa, visiting a birdfeeder in my backyard.",
+    "link": [
+        "http://www.cs.uiowa.edu/~herman/22C021/index.html",
+        "http://www.cs.uiowa.edu/~herman/22C178.html",
+        "http://www.cs.uiowa.edu/~herman/22C294.html"
+    ],
+    "ground_truth": "unknow"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": " Multimedia Lab's Home Page ",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Monday, 06-Jan-97 19:47:40 GMT Content-Type: text/html Content-Length: 2510 Last-Modified: Tuesday, 03-Dec-96 01:46:43 GMT Multimedia Lab's Home Page Distributed Multimedia Computing Laboratory The University of Texas at Austin Welcome to the Distributed Multimedia Computing Laboratory !",
+    "link": [
+        "http://www.cs.utexas.edu",
+        "http://www.utexas.edu",
+        "http://www.cs.utexas.edu/users/dmcl/research.html"
+    ],
+    "ground_truth": "project"
+}

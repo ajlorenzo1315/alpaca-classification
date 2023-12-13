@@ -1,0 +1,10 @@
+{
+    "Title": "University of Bonn, CS Dept., Chair V: Homepage",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Tuesday, 26-Nov-96 22:38:34 GMT Content-Type: text/html Content-Length: 3252 Last-Modified: Thursday, 25-Apr-96 17:49:38 GMT University of Bonn, CS Dept., Chair V: Homepage [ University of Bonn | Department of Computer Science | Chair V | deutsche Version ] Welcome to the Homepage of Chair V .",
+    "link": [
+        "http://www.informatik.uni-bonn.de/unibo.html",
+        "http://www.informatik.uni-bonn.de/wel.html",
+        "http://cs.uni-bonn.de/info5/index-en.html"
+    ],
+    "ground_truth": "department"
+}

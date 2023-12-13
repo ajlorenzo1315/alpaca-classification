@@ -1,0 +1,10 @@
+{
+    "Title": "My Home Page - Sotiris Ioannidis",
+    "Body": "Well I don't blame you ... check my personal hotlist , some movies or my Escher archive if you are bored.",
+    "link": [
+        "http://www.eff.org/blueribbon.html",
+        "http://www.cs.rochester.edu/u/si/images/si2.jpg",
+        "http://www.cs.rochester.edu/u/si/images/si3.jpg"
+    ],
+    "ground_truth": "student"
+}

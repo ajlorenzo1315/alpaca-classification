@@ -1,0 +1,10 @@
+{
+    "Title": "An Introduction to CODE",
+    "Body": "A graph is a diagram that consists of nodes (represented by icons in CODE) and arcs that interconnect the nodes.",
+    "link": [
+        "http://www.cs.utexas.edu/users/code/Welcome.html",
+        "http://www.cs.utexas.edu/users/code/CodeSpecifications.html",
+        "mailto:emery@cs.utexas.edu"
+    ],
+    "ground_truth": "other"
+}

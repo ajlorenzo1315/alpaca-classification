@@ -1,0 +1,10 @@
+{
+    "Title": "Jon Damon Reese's Home Page",
+    "Body": "Date: Thu, 21 Nov 1996 20:19:19 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Sat, 27 Jul 1996 06:00:13 GMT Content-length: 5742 Jon Damon Reese's Home Page Jon Damon Reese Post-Doctoral Researcher Safety-Critical Software Group Department of Computer Science and Engineering University of Washington Box 352350 Seattle , WA 98195 Office: 106 Chateau (Guggenheim Annex) Phone: (206) 616-1844 FAX: (206) 543-2969 E-mail: jdreese@cs.washington.edu Research I am interested in the problem of safety-critical software .",
+    "link": [
+        "http://www.cs.washington.edu/research/projects/safety/www/",
+        "http://www.cs.washington.edu/",
+        "http://www.washington.edu"
+    ],
+    "ground_truth": "staff"
+}

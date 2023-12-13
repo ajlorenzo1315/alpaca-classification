@@ -1,0 +1,10 @@
+{
+    "Title": " Stefan Langerman's Homepage ",
+    "Body": "Check out the pages of the First ICEO (may 1996) and the rules for the Second ICEO (mirror in the US ), to be held at IEEE-ICEC 97 .",
+    "link": [
+        "http://info.rutgers.edu/",
+        "http://athos.rutgers.edu/",
+        "http://paul.rutgers.edu/~lfalse/fing.html"
+    ],
+    "ground_truth": "student"
+}

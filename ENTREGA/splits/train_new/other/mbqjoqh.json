@@ -1,0 +1,10 @@
+{
+    "Title": " CS211 Assignments ",
+    "Body": "IMPORTANT : Always check the the notes besides the assignments for corrections and hints.",
+    "link": [
+        "assignment1.ps",
+        "assignment1-notes.html",
+        "assignment1-soln.ps"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Database Management Systems",
+    "Body": "If you have further questions, contact Eric Munson at McGraw-Hill (emunson@mgh.com) or Raghu Ramakrishnan at Wisconsin.",
+    "link": [
+        "http://www.cs.wisc.edu/~raghu/raghu.html",
+        "http://www.cs.wisc.edu/coral/minibase/minibase.html",
+        "http://www.mhcollege.com"
+    ],
+    "ground_truth": "other"
+}

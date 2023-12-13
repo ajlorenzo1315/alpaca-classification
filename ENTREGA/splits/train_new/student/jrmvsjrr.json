@@ -1,0 +1,10 @@
+{
+    "Title": "Hello from Vassily",
+    "Body": "Also, I have collected a few links to resources related to the project.",
+    "link": [
+        "",
+        "http://www.cs.washington.edu/homes/vass/advice.html",
+        "http://www.cs.washington.edu/homes/vass/Links/exclusive.html"
+    ],
+    "ground_truth": "student"
+}

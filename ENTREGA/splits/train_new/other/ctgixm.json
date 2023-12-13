@@ -1,0 +1,10 @@
+{
+    "Title": "Old News",
+    "Body": "I thought my old pages consisted of simply too many links and not enough of my own thoughts.",
+    "link": [
+        "http://www.cs.wisc.edu/~moy/index.html",
+        "http://www.cs.wisc.edu/~moy/travel.html",
+        "http://www.cs.wisc.edu/~moy/larch01.html"
+    ],
+    "ground_truth": "other"
+}

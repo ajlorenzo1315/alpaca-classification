@@ -1,0 +1,10 @@
+{
+    "Title": "Home Page - Anil K. Jain ",
+    "Body": "Date: Thu, 21 Nov 1996 19:18:50 GMT Server: Apache/1.1.0 Content-type: text/html Content-length: 1865 Last-modified: Tue, 15 Oct 1996 03:58:01 GMT Home Page - Anil K. Jain Anil K. Jain I am the  Chairperson of the Department  of Computer Science at Michigan State University.",
+    "link": [
+        "http://www.msu.edu/",
+        "http://www.egr.msu.edu/",
+        "http://web.cps.msu.edu/groups/prip/jain/j_bio.html"
+    ],
+    "ground_truth": "faculty"
+}

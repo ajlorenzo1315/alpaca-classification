@@ -1,0 +1,10 @@
+{
+    "Title": "Personal Page - George Stockman, Department of Computer Science",
+    "Body": "Date: Thu, 21 Nov 1996 19:18:22 GMT Server: Apache/1.1.0 Content-type: text/html Last-modified: Thu, 07 Nov 1996 15:04:50 GMT Personal Page - George Stockman, Department of Computer Science George Stockman Professor of Computer Science.",
+    "link": [
+        "http://web.cps.msu.edu/~stockman/img/minivita.ps.Z",
+        "http://web.cps.msu.edu/~stockman/img/longvita.ps.Z",
+        "http://web.cps.msu.edu/~stockman/projects.html"
+    ],
+    "ground_truth": "faculty"
+}

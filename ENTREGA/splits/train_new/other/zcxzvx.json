@@ -1,0 +1,10 @@
+{
+    "Title": "Chris Weaver, This is Your Life",
+    "Body": "Date: Tue, 05 Nov 1996 00:00:47 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Tue, 27 Feb 1996 01:21:22 GMT Content-length: 1025 Chris Weaver, This is Your Life DOLPHINS!",
+    "link": [
+        "news:alt.animals.dolphins",
+        "http://www.phoenix.net/~mark/mmpa/mmpa.html",
+        "http://www.cs.wisc.edu/"
+    ],
+    "ground_truth": "other"
+}

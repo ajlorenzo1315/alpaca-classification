@@ -1,0 +1,10 @@
+{
+    "Title": "SPOKEN LANGUAGE SYSTEMS GROUP",
+    "Body": "Researchers of the Spoken Language Systems (SLS) group believe that a speech interface, in a user's own language, is ideal because it is the most natural, flexible, efficient, and economical form of human communication.",
+    "link": [
+        "http://www.sls.lcs.mit.edu",
+        "http://www.sls.lcs.mit.edu/~zue/zue.html",
+        "http://www.sls.lcs.mit.edu/~seneff/index.html"
+    ],
+    "ground_truth": "project"
+}

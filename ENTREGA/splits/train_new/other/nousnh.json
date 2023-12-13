@@ -1,0 +1,10 @@
+{
+    "Title": "The UCPOP planner",
+    "Body": "Common Lisp source code for the UCPOP partial order planner, version 4.0, is now available via anonymous FTP .",
+    "link": [
+        "file://june.cs.washington.edu/pub/ai/ucpop40.tar.gz",
+        "http://www.cs.washington.edu/research/projects/ai/www/pdb/pdb.html>\nPDB</a>) (requires CLIM 2.0)\n<li> Safety constraints (as explained <A HREF=",
+        "mailto:ctkwok@cs.washington.edu"
+    ],
+    "ground_truth": "other"
+}

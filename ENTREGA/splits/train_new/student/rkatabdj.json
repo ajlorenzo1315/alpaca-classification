@@ -1,0 +1,10 @@
+{
+    "Title": "Katherine Lee Morse",
+    "Body": "Information & Computer Science, University of California, Irvine , 1996 Ph.D. Information & Computer Science, University of California, Irvine , in progress (1997 or 1998; see the Number One Lie Told by Graduate Students ) Research My research is on improving the performance of Large Scale Distributed Simulations through Interest Management, aka data subscription, data distribution management, or relevance filtering.",
+    "link": [
+        "http://www.ics.uci.edu/~bic",
+        "mailto:kmorse@ics.uci.edu",
+        "http://www.arizona.edu"
+    ],
+    "ground_truth": "student"
+}

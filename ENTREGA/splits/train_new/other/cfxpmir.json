@@ -1,0 +1,10 @@
+{
+    "Title": "Class Notes",
+    "Body": "To print the file, choose \"Print to lpt1/laser queue\" To view the file, choose \"View Postscript file with Ghostview\" DO NOT print out both the word version and the postscript version.",
+    "link": [
+        "http://www.cs.wisc.edu/~greg/cs302/lectures/1_intro_2.ps",
+        "http://www.cs.wisc.edu/~greg/cs302/lectures/1_errata_2.ps",
+        "http://www.cs.wisc.edu/~greg/cs302/lectures/2_select_2.ps"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "\nSPACE\n",
+    "Body": "All that is left in what was the operating system kernel is a set of mechanisms to implement the protection domains.",
+    "link": [
+        "ftp://ftp.cs.ucsb.edu/pub/papers/space/iwooos91.ps.gz",
+        "ftp://ftp.cs.ucsb.edu/pub/papers/space/trcs96-06.ps.gz",
+        "ftp://ftp.cs.ucsb.edu/pub/papers/space/trcs95-06.ps.gz"
+    ],
+    "ground_truth": "unknow"
+}

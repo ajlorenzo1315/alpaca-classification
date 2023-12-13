@@ -1,0 +1,10 @@
+{
+    "Title": "SUNY Buffalo CS Department: Stuart C. Shapiro",
+    "Body": "Stuart C. Shapiro, Artificial Intelligence .",
+    "link": [
+        "http://www.cs.buffalo.edu/pub/WWW/faculty/shapiro/shapiro_color.gif",
+        "http://www.cs.buffalo.edu/",
+        "http://wings.buffalo.edu"
+    ],
+    "ground_truth": "faculty"
+}

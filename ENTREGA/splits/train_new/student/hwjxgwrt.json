@@ -1,0 +1,10 @@
+{
+    "Title": "\nEsra ERDEM's Homepage\n",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Monday, 06-Jan-97 19:40:18 GMT Content-Type: text/html Content-Length: 1871 Last-Modified: Friday, 15-Nov-96 10:13:11 GMT Esra ERDEM's Homepage Esra ERDEM M.S.",
+    "link": [
+        "http://www.cs.utexas.edu/users/esra/tweety.gif",
+        "http://www.cs.utexas.edu",
+        "http://www.utexas.edu"
+    ],
+    "ground_truth": "student"
+}

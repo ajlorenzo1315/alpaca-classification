@@ -1,0 +1,9 @@
+{
+    "Title": "Don Batory",
+    "Body": "My current research is building a programming language to support software generation.",
+    "link": [
+        "http://www.cs.utexas.edu/users/schwartz/",
+        "http://www.cs.utexas.edu/"
+    ],
+    "ground_truth": "unknow"
+}

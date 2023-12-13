@@ -1,0 +1,10 @@
+{
+    "Title": "CS 590 Theory of Computation (Spring 1996) Home Page",
+    "Body": "Objectives To be able to describe two mathematical models of computation: URM and TM To derive some properties of computation from these models (such as inherent limitations) To be able to characterize computational feasibility and infeasibility To understand some current research topics in theoretical CS Activities Lectures, two tests, several (up to 8) homework assignments, discussions.",
+    "link": [
+        "http://www.cs.uidaho.edu/index.html",
+        "http://www.uidaho.edu/uidaho-home.html",
+        "http://www.cs.uidaho.edu/faculty/foster.html"
+    ],
+    "ground_truth": "course"
+}

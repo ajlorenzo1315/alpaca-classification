@@ -1,0 +1,10 @@
+{
+    "Title": "CS 302: Tsao: Disk Organization (Using Subdirectories)",
+    "Body": "If you already have made a program but want to move it to a newly created subdirectory, use should use the File Manager to move the files: First, create a new subdirectory using the first 3 steps above.",
+    "link": [
+        "http://www.cs.wisc.edu/~cs302/newdir.gif",
+        "http://www.cs.wisc.edu/~cs302/cs302.html",
+        "http://www.cs.wisc.edu/~tsao/cs302.html"
+    ],
+    "ground_truth": "other"
+}

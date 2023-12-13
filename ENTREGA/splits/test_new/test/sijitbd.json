@@ -1,0 +1,10 @@
+{
+    "Title": " Steven Salzberg's home page ",
+    "Body": "(141K, Postscript) Learning Oblique Decision Trees by D. Heath, S. Kasif, and S. Salzberg.",
+    "link": [
+        "http://www.cs.jhu.edu/~salzberg/salzberg-small.gif",
+        "mailto:salzberg@cs.jhu.edu",
+        "http://www.cs.jhu.edu/~salzberg/veil.ps"
+    ],
+    "ground_truth": "unknow"
+}

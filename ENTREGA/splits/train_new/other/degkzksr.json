@@ -1,0 +1,10 @@
+{
+    "Title": "CSE 557 Old Exams",
+    "Body": "Date: Mon, 02 Dec 1996 15:41:36 GMT Server: NCSA/1.4.2 Content-type: text/html CSE 557 Old Exams CSE 557: Old Exams Autumn Quarter 1995 557 Final, Spring '91 557 Final, Winter '95 457 Midterm Key, Autumn '94 457 Midterm, Winter '93",
+    "link": [
+        "/education/courses/557/91s/557Sp91Final.ps",
+        "http://www.cs.washington.edu/education/courses/557/95w/Final95w.ps",
+        "/education/courses/457/94a/midterms/midtermA94Key.ps"
+    ],
+    "ground_truth": "other"
+}

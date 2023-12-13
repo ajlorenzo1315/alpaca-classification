@@ -1,0 +1,5 @@
+{
+    "Título": "Opal Papers",
+    "Cuerpo": "Conference and Journal Publications Lightweight Shared Objects in a 64-bit Operating System. In Proc. In Proc. of the 5th Int. Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), October 1992. In Proc. of the First Symposium on Operating Systems Design and Implementation, November 1994. Sharing and Protection in a Single-Address-Space Operating System. of the 15th ACM Symposium on Operating Systems Principles , December 1995. Chase, and H. Levy. Workshop Publications Opal: A Single Address Space System for 64-Bit Architectures. In Proc. In Proc. Workshop on Object Orientation in Operating Systems , September 1992. Supporting Distribution in Single-Address Space Operating Systems. Chase and H. Levy. M. Feeley, J. Chase, and E. Lazowska, Technical Report 93-02-03, Department of Computer Science and Engineering, University of Washington. (Emerald is a distributed object-oriented language and system supporting a single, logical, distributed, object address space. of the 12th ACM Symp.",
+    "ground_truth": "other"
+}

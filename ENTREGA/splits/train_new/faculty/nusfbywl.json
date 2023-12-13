@@ -1,0 +1,10 @@
+{
+    "Title": "David Patterson's homepage",
+    "Body": "Click here for my son Michael Patterson's home page.",
+    "link": [
+        "http://www.cs.berkeley.edu/",
+        "http://HTTP.CS.Berkeley.EDU/~pattrsn/y.gif",
+        "http://HTTP.CS.Berkeley.EDU/~pattrsn/bio"
+    ],
+    "ground_truth": "faculty"
+}

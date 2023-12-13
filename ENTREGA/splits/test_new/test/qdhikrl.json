@@ -1,0 +1,10 @@
+{
+    "Title": "David M. Young",
+    "Body": "in Mathematics (1947), Ph.D. in Mathematics (1950) Harvard University Honors, Awards, and Professional Service Fellow, American Association for the Advancement of Science ACM Award for Outstanding Contribution to Computer Science, 1990 Journal of Linear Algebra and Its Applications , Special Issue Dedication, 1992 Chair, Applied Mathematics Committee, American Mathematical Society, 1961-64 Board of Trustees, Argonne Universities Association, 1975-81 Associate Editor, SIAM Journal of Matrices and Matrix Applications , 1989-91 Areas of Interest Numerical analysis, partial differential equations, and numerical linear algebra Summary of Research My research activity focuses on the numerical solution of partial differential equations based on the use of finite difference methods and on the use of iterative methods to solve associated systems of linear algebraic equations involving matrices which are very large and sparse.",
+    "link": [
+        "wong.html",
+        "index.html",
+        "zuckerman.html"
+    ],
+    "ground_truth": "unknow"
+}

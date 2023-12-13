@@ -1,0 +1,10 @@
+{
+    "Title": " John P. Hayes ",
+    "Body": "He teaches and conducts research in the areas of computer-aided design and testing of digital systems, computer architecture, VLSI design, and fault-tolerant computing.",
+    "link": [
+        "mailto:jhayes@eecs.umich.edu",
+        "http://www.eecs.umich.edu/",
+        "http://www.umich.edu"
+    ],
+    "ground_truth": "unknow"
+}

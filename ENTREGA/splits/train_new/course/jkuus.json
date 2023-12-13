@@ -1,0 +1,10 @@
+{
+    "Title": "A348 - Top page",
+    "Body": "Topics to be covered include: web server administration advanced web design and authoring web protocols (HTTP, gopher, FTP, WAIS, news, mail) interfacing services into the web (HTML forms, CGI) searching and indexing technologies and strategies programming for the web (perl, Java) cutting-edge technologies (VRML, secure executables, encryption) As needed for understanding the Web, background will be provided on Internet",
+    "link": [
+        "http://www.cs.indiana.edu/l/www/home-page.html",
+        "http://www.indiana.edu/iub/",
+        "mailto:mcmullen@indiana.edu"
+    ],
+    "ground_truth": "course"
+}

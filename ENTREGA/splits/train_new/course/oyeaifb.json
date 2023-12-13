@@ -1,0 +1,10 @@
+{
+    "Title": "CS 250 Home Page",
+    "Body": "Exam 2: Friday, November 8, in class.",
+    "link": [
+        "http://www.cs.engr.uky.edu/~dclarke",
+        "mailto:dclarke@cs.engr.uky.edu",
+        "http://www.cs.engr.uky.edu/~dclarke/cs250/announcements.html#Announce_96_08_30"
+    ],
+    "ground_truth": "course"
+}

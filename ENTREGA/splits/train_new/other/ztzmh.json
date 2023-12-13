@@ -1,0 +1,10 @@
+{
+    "Title": "\nMark Foltz's Resume\n",
+    "Body": "Undergraduate research assistant at the Electronic Signals and Systems Research Laboratory at Washington University.",
+    "link": [
+        "http://web.mit.edu/mfoltz/www/home.html",
+        "mailto:mfoltz@mit.edu",
+        "http://www.cs.wustl.edu/"
+    ],
+    "ground_truth": "other"
+}

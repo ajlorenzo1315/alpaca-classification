@@ -1,0 +1,10 @@
+{
+    "Title": "Home Page for Ram Rajamony",
+    "Body": "I am also interested in looking at compiler strategies for improving the performance of shared-memory systems.",
+    "link": [
+        "http://www.cs.rice.edu/~rrk/monochrome.html",
+        "http://micmac.gso.uri.edu/rajamony",
+        "http://www.rice.edu"
+    ],
+    "ground_truth": "student"
+}

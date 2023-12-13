@@ -1,0 +1,10 @@
+{
+    "Title": "Admission to Graduate Program",
+    "Body": "Temporary status is appropriate for a student who wants to take one or more specific courses for which he/she has the necessary qualifications, has deficiencies (in background or low grades), or fails to meet the deadline for filing an official application for admission but has met all of the requirements for admission into a degree program with full graduate status.",
+    "link": [
+        "http://www.cs.pitt.edu/GrEdu/grad-program.html",
+        "http://www.cs.pitt.edu/GrEdu/grad-course-offerings.html",
+        "http://www.cs.pitt.edu/GrEdu/fin.aid.html"
+    ],
+    "ground_truth": "other"
+}

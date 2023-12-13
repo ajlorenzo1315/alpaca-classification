@@ -1,0 +1,10 @@
+{
+    "Title": "\nLeonard Kleinrock's Home Page\n",
+    "Body": "Date: Tuesday, 14-Jan-97 21:39:22 GMT Server: NCSA/1.3 MIME-version: 1.0 Content-type: text/html Last-modified: Friday, 13-Sep-96 18:36:47 GMT Content-length: 10136 Leonard Kleinrock's Home Page Leonard Kleinrock, Professor lk@cs.ucla.edu A Father of the Internet Kleinrock's Key Internet Accomplishments Personal History of the Internet Modeling and Performance Evaluation Kleinrock's Key Modeling and Performance Evaluation Accomplishments Queueing and All That Kleinrock's Major Queueing and Other Accomplishments Recent Presentations The Latency-Bandwidth Tradeoff Research Review 95 WWW Bookmarks Florida ARPA PI Meeting Presentation - July, 1995 Reports Realizing the Information Future -- The Internet and Beyond XIWT: Nomadicity in the NII FACTOIDS ON LEONARD KLEINROCK Born June 13, 1934 Manhattan Married Four children, five grandchildren Education Bronx High School of Science 1951 Bachelor of Electrical Engineering, CCNY 1957 Masters in Electrical Engineering, MIT 1959 Ph.D. in Electrical Engineering, MIT 1963 Position Professor University of California at Los Angeles, Computer Science Dept.",
+    "link": [
+        "#Factoids",
+        "mailto:lk@cs.ucla.edu",
+        "http://millennium.cs.ucla.edu/LK/Inet/keys.html"
+    ],
+    "ground_truth": "faculty"
+}

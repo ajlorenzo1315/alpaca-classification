@@ -1,0 +1,10 @@
+{
+    "Title": " Yu Lei's Homepage",
+    "Body": "Date: Tue, 26 Nov 1996 03:44:55 GMT Server: NCSA/1.5.2 Last-modified: Sun, 24 Nov 1996 17:30:41 GMT Content-type: text/html Content-length: 2601 Yu Lei's Homepage Welcome to Yu Lei's Homepage Personal Data Information Resource Hot Links Directory Personal Data Resume Schedule Information Resource Computer Science Dept.",
+    "link": [
+        "#PersonalData",
+        "#InfoRes",
+        "#HotLinks"
+    ],
+    "ground_truth": "student"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "\nPaul S. Rosenbloom\n",
+    "Body": "Abbreviated Research Biography Currently an Associate Professor in the Computer Science Department at the University of Southern California (USC) , the Deputy Director of the Intelligent Systems Division at the Information Sciences Institute (USC/ISI) and the Leader of the Soar Project at USC .",
+    "link": [
+        "http://www.isi.edu/soar/rosenbloom/me_large.gif",
+        "http://www.isi.edu/soar/soar.html",
+        "http://www.usc.edu/dept/cs"
+    ],
+    "ground_truth": "unknow"
+}

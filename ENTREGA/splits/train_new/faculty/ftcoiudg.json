@@ -1,0 +1,10 @@
+{
+    "Title": "Mihir Bellare's Home Page",
+    "Body": "Email: mihir@cs.ucsd.edu Phone: (619) 534-4544 FAX: (619) 534-7029 Office: AP&M 4230 Secretary: Lisa Bodecker (619) 532-0702 Recent research and publications I work in the following areas-- Cryptography: You can find papers and a research summary .",
+    "link": [
+        "mailto:mihir@cs.ucsd.edu",
+        "http://www-cse.ucsd.edu/users/mihir/papers/crypto-papers.html",
+        "http://www-cse.ucsd.edu/users/mihir/crypto-res.html"
+    ],
+    "ground_truth": "faculty"
+}

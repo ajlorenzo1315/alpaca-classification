@@ -1,0 +1,10 @@
+{
+    "Title": " Ben's 100% Hyper Home Page ",
+    "Body": "Date: Thu, 07 Nov 1996 19:15:13 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Sun, 29 Sep 1996 23:13:14 GMT Content-length: 4004 Ben's 100% Hyper Home Page Benjamin Teitelbaum Computer Sciences Department University of Wisconsin -- Madison 1210 West Dayton Street , Rm.",
+    "link": [
+        "http://www.cs.wisc.edu/~ben/bens-home.html",
+        "http://www.cs.wisc.edu/~ben/bens-name.html",
+        "http://www.cs.wisc.edu/"
+    ],
+    "ground_truth": "student"
+}

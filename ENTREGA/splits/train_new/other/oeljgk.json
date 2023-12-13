@@ -1,0 +1,10 @@
+{
+    "Title": "CS236 Calendar",
+    "Body": "Date: Tue, 14 Jan 1997 23:05:29 GMT Server: Apache/1.0.5 Content-type: text/html Content-length: 2052 Last-modified: Tue, 14 Jan 1997 17:28:23 GMT CS236 Calendar CS236 Foundations of Computer Science II Calendar Winter 1997 This page summarizes the topics and objectives for each week of the semester.",
+    "link": [
+        "http://www.cs.columbia.edu/info/research-guide/html/node3.html",
+        "http://db.stanford.edu/~ullman/index.html",
+        "http://www.cs.byu.edu/info/tanorman.html"
+    ],
+    "ground_truth": "other"
+}

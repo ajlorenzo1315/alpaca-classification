@@ -1,0 +1,10 @@
+{
+    "Title": "UAB-CIS Web Services",
+    "Body": "The Hyperdex This collection of pages is an evolving hyperindex of documents and other resources located on the UAB-CIS and selected other Web/Gopher servers.",
+    "link": [
+        "http://twinbrook.cis.uab.edu:70/HotLinks.80",
+        "http://twinbrook.cis.uab.edu:70/hyperdex.80",
+        "http://twinbrook.cis.uab.edu:70/os2soft.80"
+    ],
+    "ground_truth": "unknow"
+}

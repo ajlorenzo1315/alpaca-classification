@@ -1,0 +1,10 @@
+{
+    "Title": "Penn State Department of Computer Science and Engineering",
+    "Body": "The CSE Department is a synthesis of the old Computer Science department and the Computer Engineering program.",
+    "link": [
+        "http://www.mckinley.com/",
+        "http://www.cse.psu.edu/images/pond.jpg",
+        "http://www.psu.edu/psu/UniversityPark/UniversityPark.html"
+    ],
+    "ground_truth": "unknow"
+}

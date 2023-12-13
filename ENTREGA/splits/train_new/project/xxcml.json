@@ -1,0 +1,10 @@
+{
+    "Title": "SFU Graphics and Multimedia Research Lab",
+    "Body": "Date: Tue, 26 Nov 1996 00:38:36 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Thu, 07 Mar 1996 22:03:30 GMT Content-length: 1465 SFU Graphics and Multimedia Research Lab SFU Graphics and Multimedia Research Lab The Graphics Research Group is interested in developing computer graphics tools to assist humans in the synthesis (design or composition), control, and analysis of complex interactive systems.",
+    "link": [
+        "http://fas.sfu.ca/cs/research/groups/GMRL/GMRL.html",
+        "http://fas.sfu.ca/cs/people/Faculty/Calvert/",
+        "http://fas.sfu.ca/ensc/people/Faculty/dill/dill.html"
+    ],
+    "ground_truth": "project"
+}

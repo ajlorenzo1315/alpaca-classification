@@ -1,0 +1,10 @@
+{
+    "Title": "Emacspeak --A Speech Output Subsystem For Emacs",
+    "Body": "There is nothing that you cannot do inside Emacs:-) Publications And Talks CHI 96 Presentation You can also get a text version of the slides.",
+    "link": [
+        "http://www.cs.vassar.edu/mirror/emacspeak/talks/chi96-slides.pdf",
+        "http://www.cs.vassar.edu/mirror/emacspeak/talks/chi96-slides.txt",
+        "http://www.cs.vassar.edu/mirror/emacspeak/talks/pcd96-slides.pdf"
+    ],
+    "ground_truth": "other"
+}

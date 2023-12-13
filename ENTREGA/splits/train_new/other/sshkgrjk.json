@@ -1,0 +1,10 @@
+{
+    "Title": "\nLazowska's Favorite Pages\n",
+    "Body": "Date: Tue, 10 Dec 1996 22:12:47 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Wed, 19 Jun 1996 00:24:33 GMT Content-length: 15537 Lazowska's Favorite Pages Ed Lazowska 's Favorite Pages Computing Research:  Driving Information Technology and the Information Industry Forward Massy-Goldman report alleging 50% CSE Ph.D. over-production to be re-issued due to flawed data \"Median Years to Ph.D.\" in new Conference Board study of doctorate programs is not what you think!",
+    "link": [
+        "http://www.cs.washington.edu:80/homes/lazowska/index.html",
+        "http://www.cs.washington.edu:80/homes/lazowska/cra",
+        "http://www.cs.washington.edu:80/homes/lazowska/production.html"
+    ],
+    "ground_truth": "other"
+}

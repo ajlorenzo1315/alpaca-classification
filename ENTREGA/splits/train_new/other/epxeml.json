@@ -1,0 +1,9 @@
+{
+    "Title": " Tips for Assignment Three",
+    "Body": "You will need the point vector(including the z value), and the normal direction vector to make this calculation.",
+    "link": [
+        "http://www.cs.byu.edu/courses/cs455/images.html",
+        "mailto:mellor@cs.byu.edu"
+    ],
+    "ground_truth": "other"
+}

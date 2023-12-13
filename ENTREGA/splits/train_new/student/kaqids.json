@@ -1,0 +1,10 @@
+{
+    "Title": "Cristina Videira Lopes's WWW Home Page",
+    "Body": "If you really need to contact me, my physical persona is currently at Here are some links: My private collection of portuguese expressions , literally translated into english.",
+    "link": [
+        "mailto:crista@ccs.neu.edu",
+        "http://www.ccs.neu.edu/",
+        "http://www.neu.edu/"
+    ],
+    "ground_truth": "student"
+}

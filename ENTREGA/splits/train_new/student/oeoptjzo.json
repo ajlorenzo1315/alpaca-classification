@@ -1,0 +1,10 @@
+{
+    "Title": "Guillermo Alvarez - Home Page",
+    "Body": "At the present time, I am working towards my Ph.D. in Computer Science with Prof. Flaviu Cristian at UCSD.",
+    "link": [
+        "http://www-cse.ucsd.edu/cse/APM.html",
+        "mailto:galvarez@cs.ucsd.edu",
+        "http://www-cse.ucsd.edu/users/galvarez/eslai.html"
+    ],
+    "ground_truth": "student"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Gandia (La Safor)",
+    "Body": "Text extracted from Tourist Office of Spain.",
+    "link": [
+        "http://ccwf.cc.utexas.edu/~ignasi/personal.html",
+        "http://www.raleigh.ibm.com/WebExplorer/",
+        "http://ccwf.cc.utexas.edu/~ignasi/"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,6 @@
+{
+    "Title": " Lecture notes - Chapter 4 - Data Representation",
+    "Body": "to add 1 without really knowing how to add: start at LSB, for each bit (working right to left) while the bit is a 1, change it to a 0. when a 0 is encountered, change it to a 1 and stop.",
+    "link": [],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Amit Singhal's Home Page",
+    "Body": "Text structuring papers: Automatic Text Decomposition Using Text Segments and Text Themes.",
+    "link": [
+        "http://www.cs.cornell.edu/",
+        "http://www.cornell.edu/",
+        "mailto:singhal@cs.cornell.edu"
+    ],
+    "ground_truth": "unknow"
+}

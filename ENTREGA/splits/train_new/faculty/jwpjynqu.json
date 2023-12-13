@@ -1,0 +1,10 @@
+{
+    "Title": "Amarnath Mukherjee's  Information Page ",
+    "Body": "We are developing performance analysis tools and effective control strategies for congestion-control and resource-management protocols in computer networks.",
+    "link": [
+        "http://www.cc.gatech.edu/computing/Telecomm/net.html",
+        "http://www.cc.gatech.edu/Computing.html",
+        "http://www.gatech.edu/TechHome.html"
+    ],
+    "ground_truth": "faculty"
+}

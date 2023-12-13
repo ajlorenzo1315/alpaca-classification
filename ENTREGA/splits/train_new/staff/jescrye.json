@@ -1,0 +1,10 @@
+{
+    "Title": "John B. Chambers' Home Page",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Monday, 06-Jan-97 19:26:04 GMT Content-Type: text/html Content-Length: 1509 Last-Modified: Monday, 06-Jan-97 16:37:02 GMT John B.",
+    "link": [
+        "http://www.cs.utexas.edu/users/jbc/home/research.html",
+        "http://www.cs.utexas.edu/users/jbc/home/papers.html",
+        "http://www.cs.utexas.edu/users/jbc/home/vita.html"
+    ],
+    "ground_truth": "staff"
+}

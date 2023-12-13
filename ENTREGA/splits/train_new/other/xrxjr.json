@@ -1,0 +1,10 @@
+{
+    "Title": "Feature Selection via Mathematical Programming ",
+    "Body": "The step function that appears in the objective function can be approximated by a sigmoid or by a concave exponential on the nonnegative real line, or it can be treated exactly by considering the equivalent linear program with equilibrium constraints (LPEC).",
+    "link": [
+        "http://www.cs.wisc.edu/Dienst/Repository/2.0/Body/ncstrl.uwmadison%2fMP-TR-95-21/postscript",
+        "http://www.cs.wisc.edu/Dienst/UI/2.0/Print/ncstrl.uwmadison%2fMP-TR-95-21",
+        "http://www.cs.wisc.edu/Dienst/UI/2.0/Search"
+    ],
+    "ground_truth": "other"
+}

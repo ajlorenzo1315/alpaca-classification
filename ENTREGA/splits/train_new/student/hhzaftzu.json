@@ -1,0 +1,10 @@
+{
+    "Title": "Tim Gardner's Home Page",
+    "Body": "Date: Tue, 26 Nov 1996 03:47:09 GMT Server: NCSA/1.4.1 Content-type: text/html Last-modified: Mon, 03 Jun 1996 21:38:58 GMT Content-length: 519 Tim Gardner's Home Page Tim Gardner's Home Page Welcome.",
+    "link": [
+        "http://www.cs.nyu.edu/ms_students/m-tg3804/resume.html",
+        "http://www.cs.nyu.edu/ms_students/m-tg3804/dlposts.html",
+        "MAILTO:m-tg3804@cs.nyu.edu"
+    ],
+    "ground_truth": "student"
+}

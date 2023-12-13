@@ -1,0 +1,10 @@
+{
+    "Title": "Some Information About Me",
+    "Body": "After a summer internship with Intel Corporation in Hillsboro, Oregon, I'm back in Madison to finish my Master's in computer science.",
+    "link": [
+        "http://www.wisc.edu",
+        "http://www.cs.wisc.edu",
+        "http://www.econ.wisc.edu"
+    ],
+    "ground_truth": "other"
+}

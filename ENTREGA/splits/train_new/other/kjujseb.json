@@ -1,0 +1,10 @@
+{
+    "Title": "Faculty and Staff Listing",
+    "Body": "Date: Tue, 14 Jan 1997 22:34:22 GMT Server: NCSA/1.4.1 Content-type: text/html Last-modified: Fri, 20 Sep 1996 21:13:55 GMT Content-length: 2439 Faculty and Staff Listing Faculty and Staff in the Department of Computer Science University of Idaho Moscow, Idaho Computer Science Computer Engineering College of Engineering University of Idaho Welcome to the Department of Computer Science at the University of Idaho.",
+    "link": [
+        "http://www.cs.uidaho.edu/",
+        "http://www.cs.uidaho.edu/compe.html",
+        "http://www.uidaho.edu/~woodall/College.html"
+    ],
+    "ground_truth": "other"
+}

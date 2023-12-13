@@ -1,0 +1,10 @@
+{
+    "Title": "CS 415",
+    "Body": "On reserve in the reading room of the Science and Engineering Resource Center Type Checker DUE DATE: midnight, Friday April 5 Code Generation DUE DATE: midnight, Monday April 29 The SPIM simulator is described in the PostScript document /ug/s1/local/doc/spim/spim.ps There are Macintosh and PC versions of SPIM.",
+    "link": [
+        "http://www.cs.rutgers.edu/~uli",
+        "http://www.cs.rutgers.edu/~uli/cs415/syllabus.ps",
+        "http://www.cs.rutgers.edu/~uli/cs415/midterm-sol.ps"
+    ],
+    "ground_truth": "unknow"
+}

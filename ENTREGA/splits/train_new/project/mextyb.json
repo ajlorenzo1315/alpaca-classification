@@ -1,0 +1,10 @@
+{
+    "Title": " Autonomous Vision Sensors Systems for Manufacturing, DOD MURI Program  ",
+    "Body": "A description of the real-time shape-from-focus range sensor including a few video clips Information on Spherical Pointing Motor-based camera/laser housing , or an 100K mpeg movie of a SPM moving a laser.",
+    "link": [
+        "http://www.eecs.lehigh.edu/Research/vast/~tboult/WWW-data",
+        "http://www.cs.columbia.edu/robotics/people/allen.html",
+        "http://www.eecs.lehigh.edu/rblum"
+    ],
+    "ground_truth": "project"
+}

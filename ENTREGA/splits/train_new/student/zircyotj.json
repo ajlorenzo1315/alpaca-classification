@@ -1,0 +1,10 @@
+{
+    "Title": "Colleen M. Kehoe (19-Mar-1996)",
+    "Body": "Local Java Efforts I am (attempting to) maintain a page that points to some of the Java applets done by students here at Tech.",
+    "link": [
+        "http://www.cc.gatech.edu/gvu/",
+        "http://www.cc.gatech.edu/",
+        "http://www.gatech.edu/"
+    ],
+    "ground_truth": "student"
+}

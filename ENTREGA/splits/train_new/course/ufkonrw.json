@@ -1,0 +1,10 @@
+{
+    "Title": "\nUW CS Computer Networking Courses (Professor Landweber)\n",
+    "Body": "If these times are not convenient, feel free to email me at ben@cs.wisc.edu for an appointment.",
+    "link": [
+        "#640",
+        "#740",
+        "#Connectivity"
+    ],
+    "ground_truth": "course"
+}

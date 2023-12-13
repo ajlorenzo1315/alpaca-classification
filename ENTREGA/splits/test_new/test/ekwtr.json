@@ -1,0 +1,10 @@
+{
+    "Title": "Interprocessor Collective Communications Library (iCC)",
+    "Body": "The results are best summarized by the following performance tables Comparison of the various libraries The following tables give the ratios of times required for completion on a 16x32 mesh Paragon using OSF R1.3 Broadcast bytes   NX/iCC   BLACS/iCC   MPI/iCC ----------------------------------------- 16    1.4         1.0        1.6 1024    1.5         1.0        2.5 65536    5.5         2.9        2.8 1048576   11.3         6.1        7.5 Sum-to-All bytes    NX/iCC  BLACS/iCC    MPI/iCC ----------------------------------------- 16     1.0        1.2        2.1 1024     1.0        1.0        2.0 65536    21.1        4.1        6.9 1048576    34.6        5.9       11.8 Attaining the improvement in performance is as easy as linking in a library that automatically translates NX collective communication calls to iCC calls.",
+    "link": [
+        "http://www.cs.utexas.edu/users/rvdg/index.html",
+        "http://www.scp.caltech.edu/~jwatts/",
+        "http://www.cs.utexas.edu/users/rvdg/intercom/icc.html"
+    ],
+    "ground_truth": "unknow"
+}

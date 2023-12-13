@@ -1,0 +1,8 @@
+{
+    "Title": "CS 537 - Programming Assignment #3",
+    "Body": "Your assignment is to write a program that reads in the trace data and simulates the CPU scheduling.",
+    "link": [
+        "http://www.cs.wisc.edu/~bart"
+    ],
+    "ground_truth": "other"
+}

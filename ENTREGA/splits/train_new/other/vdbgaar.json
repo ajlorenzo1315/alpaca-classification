@@ -1,0 +1,10 @@
+{
+    "Title": "Ted Romer's Bibliography",
+    "Body": "ASPLOS VI, pp.",
+    "link": [
+        "http://www.cs.washington.edu/homes/romer/index.html",
+        "http://www.cs.washington.edu/homes/romer/rocky/InterpreterS+P.abstract.html",
+        "http://www.cs.washington.edu/homes/romer/rocky/InterpreterS+P.ps"
+    ],
+    "ground_truth": "other"
+}

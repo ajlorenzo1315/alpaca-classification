@@ -1,0 +1,10 @@
+{
+    "Title": "CS354 - Computer Graphics - Spring 1996",
+    "Body": "Students who don't show up for the second exam will be required to submit assignment 3.",
+    "link": [
+        "http://www.cs.utexas.edu/users/fussell/index.html",
+        "http://www.cs.utexas.edu/users/fussell/graintro354.html",
+        "http://www.cs.utexas.edu/users/fussell/grasyl354.html"
+    ],
+    "ground_truth": "course"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Human and Robot Hands",
+    "Body": "Recent Papers in Human and Robot Hands Segmentation and Interpretation of Temporal Contact Signals: Eberman, Salisbury, International Symposium on Experimental Robotics, October 1993, Kyoto Japan.",
+    "link": [
+        "http://www.ai.mit.edu/people/jks/jks.html",
+        "http://www.ai.mit.edu/projects/handarm-haptics/haptics.html",
+        "http://www.ai.mit.edu/projects/handarm-haptics/manipulation.html"
+    ],
+    "ground_truth": "unknow"
+}

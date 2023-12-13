@@ -1,0 +1,10 @@
+{
+    "Title": "Introduction to Computers & Programming Home Page",
+    "Body": "Homework #2, Homework #3, Page 204, problems 15a and 15b.",
+    "link": [
+        "http://cs.nyu.edu/cs/faculty/marateck/",
+        "mailto:marateck@cs.nyu.edu",
+        "http://cs.nyu.edu/cs/dept_info/course_home_pages/fall96/A22.0002/syllabus.txt"
+    ],
+    "ground_truth": "course"
+}

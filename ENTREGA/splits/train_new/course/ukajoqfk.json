@@ -1,0 +1,10 @@
+{
+    "Title": "\nCIS 841 (SE 750-KS)         Software Validation and Verification          Spring 1996\n",
+    "Body": "In this course we will examine different verification and validation approaches that are capable of providing us with evidence of software quality.",
+    "link": [
+        "http://www.cis.ksu.edu/~dwyer/courses/841/lectures/lectures.html",
+        "http://www.cis.ksu.edu/~dwyer/courses/841/homework/homework.html",
+        "http://www.cis.ksu.edu/~dwyer/courses/841/exams/exams.html"
+    ],
+    "ground_truth": "course"
+}

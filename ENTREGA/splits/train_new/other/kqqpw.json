@@ -1,0 +1,10 @@
+{
+    "Title": "CSE 321, Autumn '96",
+    "Body": "Grading: The course grade will be based on homework, a midterm, and a final exam.",
+    "link": [
+        "http://www.cs.washington.edu/homes/beame/beame.html",
+        "mailto:beame@cs.washington.edu",
+        "http://www.cs.washington.edu/homes/nowitz"
+    ],
+    "ground_truth": "other"
+}

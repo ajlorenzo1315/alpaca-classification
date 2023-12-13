@@ -1,0 +1,10 @@
+{
+    "Title": "Jim Alves-Foss Faculty Page",
+    "Body": "Dr. Alves-Foss received his Ph.D in Computer Science from the University of California, Davis (UCD) in 1991, his M.S.",
+    "link": [
+        "mailto:jimaf@cs.uidaho.edu",
+        "http://www.cs.uidaho.edu/index.html",
+        "http://www.uidaho.edu/"
+    ],
+    "ground_truth": "faculty"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "\nAllen Hanson's Home Page\n",
+    "Body": "Date: Thu, 21 Nov 1996 20:45:31 GMT Server: NCSA/1.5.1 Last-modified: Fri, 19 May 1995 04:29:19 GMT Content-type: text/html Content-length: 2765 Allen Hanson's Home Page Allen Hanson Professor Department of Computer Science University of Massachusetts Box 34610, Lederle Graduate Research Center Amherst, MA 01003-4610 Phone: 413-545-2746 FAX: 413-545-1249 hanson@cs.umass.edu Allen Hanson received a B.A.",
+    "link": [
+        "http://www.cs.umass.edu",
+        "http://www.cs.umass.edu/rcfdocs/newhome/index.html",
+        "http://fire.clarkson.edu/CUhomepage.html"
+    ],
+    "ground_truth": "faculty"
+}

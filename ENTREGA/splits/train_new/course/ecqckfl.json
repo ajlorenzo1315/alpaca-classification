@@ -1,0 +1,10 @@
+{
+    "Title": "22C:123 Programming language foundations - Fall 1995",
+    "Body": "Date: Wed, 20 Nov 1996 23:18:02 GMT Server: NCSA/1.5 Content-type: text/html 22C:123 Programming language foundations - Fall 1995 22C:123 Programming language foundations - Fall 1995 Instructor: Maria Paola Bonacina (bonacina@cs.uiowa.edu) Teaching Assistant: Yungui Huang Class Meetings: 2:30pm - 3:45pm TuTh in 113 MacLean Hall Contents of the course: Syntax: grammars, attribute grammars, logical grammars (or definite clause grammars) and their implementation in Prolog.",
+    "link": [
+        "http://www.cs.uiowa.edu/~bonacina/",
+        "http://dollar.biz.uiowa.edu/~yungui/",
+        "http://www.cs.uiowa.edu/~bonacina/teaching.html"
+    ],
+    "ground_truth": "course"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": " Peter van Beek",
+    "Body": "Date: Mon, 25 Nov 1996 22:54:20 GMT Server: Apache/1.1.1 Content-type: text/html Content-length: 2648 Last-modified: Thu, 29 Aug 1996 16:48:21 GMT Peter van Beek Peter van Beek Associate Professor Department of Computing Science University of Alberta Edmonton, Alberta Canada   T6G 2H1 Email: vanbeek@cs.ualberta.ca Office: (403) 492-7741 Fax:\t(403) 492-1071 Research interests Constraint-based reasoning, temporal reasoning, scheduling, plan recognition, and natural language question-answering systems Courses taught CMPUT 114: Introduction to Computing Science CMPUT 252: Elements of Scientific Computing CMPUT 325: Non-Procedural Programming Languages CMPUT 451: Introduction to Artificial Intelligence CMPUT 551: Artificial Intelligence: Representation and Reasoning CMPUT 665: Seminar in Constraint-Based Reasoning Biographical sketch I received my PhD in 1990 from the University of Waterloo and at that time joined the faculty at the University of Alberta where I am now an Associate Professor.",
+    "link": [
+        "http://web.cs.ualberta.ca/home.html",
+        "http://web.cs.ualberta.ca/UAlberta.html",
+        "http://web.cs.ualberta.ca/~ai/IC-6/IC-6.html"
+    ],
+    "ground_truth": "faculty"
+}

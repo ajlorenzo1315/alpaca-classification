@@ -1,0 +1,10 @@
+{
+    "Title": " Sieg 431 ",
+    "Body": "Date: Tue, 10 Dec 1996 17:44:34 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Sat, 05 Oct 1996 00:33:48 GMT Content-length: 697 Sieg 431 Welcome to Sieg 431!!!",
+    "link": [
+        "http://www.cs.washington.edu/homes/marla",
+        "http://www.cs.washington.edu/homes/molly",
+        "http://www.cs.washington.edu/homes/chou"
+    ],
+    "ground_truth": "other"
+}

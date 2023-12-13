@@ -1,0 +1,10 @@
+{
+    "Title": "Bryan S. Morse - Information",
+    "Body": "Dr. Morse and his students are part of Computer Vision and Understanding Laboratory and of the Center for Research in Interactive Visual and Imaging Technologies sponsored by the State of Utah's Center of Excellence program.",
+    "link": [
+        "mailto:morse@cs.byu.edu",
+        "http://www.unc.edu/",
+        "http://www.cs.unc.edu/"
+    ],
+    "ground_truth": "faculty"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": " CPS 440, Undergraduate Intro to AI, Fall 96 ",
+    "Body": "As described in the course book, cps440 is supposed to be about: Machine intelligence.",
+    "link": [
+        "http://web.cps.msu.edu/~cps440/syllabus.txt",
+        "http://web.cps.msu.edu/~cps440/java.ps",
+        "http://web.cps.msu.edu/~cps440/labs/lab0.5.txt"
+    ],
+    "ground_truth": "course"
+}

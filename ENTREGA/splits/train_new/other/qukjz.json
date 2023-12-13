@@ -1,0 +1,9 @@
+{
+    "Title": "DEVise Application Examples",
+    "Body": "Define the 'RTree Levels 1-2' window, consisting of two piled views, one of the level 1 data and one of the level 2 data.",
+    "link": [
+        "http://www.cs.wisc.edu/~devise/devise/model.html",
+        "http://www.cs.wisc.edu/Dienst/UI/2.0/Describe/ncstrl.uwmadison%2fCS-TR-96-1301"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "CS 453 HOMEPAGE",
+    "Body": "To cover transaction management involving concurrency control, recovery from failure, deadlock, and data consistency of database systems.",
+    "link": [
+        "http://lantern.cs.byu.edu",
+        "http://www.cs.byu.edu",
+        "http://www.cs.byu.edu/info/courses.html#cs453"
+    ],
+    "ground_truth": "course"
+}

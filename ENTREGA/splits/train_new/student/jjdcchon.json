@@ -1,0 +1,10 @@
+{
+    "Title": "HAOWEI HSIEH",
+    "Body": "Date: Thu, 21 Nov 1996 22:15:08 GMT Server: Apache/1.1.1 Content-type: text/html Content-length: 2191 Last-modified: Tue, 06 Jun 1995 14:27:55 GMT HAOWEI HSIEH Haowei Hsieh Haowei Hsieh is a Master student in the College of Computing at Georgia Tech .",
+    "link": [
+        "http://www.cc.gatech.edu/Computing.html",
+        "http://www.gatech.edu/TechHome.html",
+        "http://140.114.63.3/nthu/departments/nuclear/neep/index.html"
+    ],
+    "ground_truth": "student"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "\nNatural Science Placement Center\n",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Monday, 06-Jan-97 21:34:29 GMT Content-Type: text/html Content-Length: 1742 Last-Modified: Tuesday, 28-Nov-95 18:19:39 GMT Natural Science Placement Center General Information The natural science placement center is a service provided for students to find prospective employers.",
+    "link": [
+        "place.ps",
+        "http://www.cs.utexas.edu/users/hiep/dev/password.html",
+        "http://www.cs.utexas.edu/users/hiep/dev/select2.html"
+    ],
+    "ground_truth": "other"
+}

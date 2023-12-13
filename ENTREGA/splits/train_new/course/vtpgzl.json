@@ -1,0 +1,10 @@
+{
+    "Title": "CS495: Computational Biology",
+    "Body": "Server: Netscape-Commerce/1.12 Date: Wednesday, 20-Nov-96 22:46:25 GMT Last-modified: Tuesday, 08-Oct-96 00:36:53 GMT Content-length: 1740 Content-type: text/html CS495: Computational Biology CS495: Computational Biology Fall 1996 Last updated 10/7/96 Essentials When: T/TH, 3:00-4:20pm Where: Room 102, Computer Science Building Text: Introduction to Computational Biology: Maps, Sequences, and Genomes by Michael S. Waterman (Chapman and Hall, 1995) Instructor: Professor Richard Lipton -- rjl@cs.princeton.edu Teaching Assistant: Chris Dunworth -- ctd@cs.princeton.edu -- Office Hours TBA.",
+    "link": [
+        "http://www-hto.usc.edu/people/Waterman.html",
+        "http://www.CS.Princeton.EDU/~rjl",
+        "http://www.CS.Princeton.EDU/~ctd"
+    ],
+    "ground_truth": "course"
+}

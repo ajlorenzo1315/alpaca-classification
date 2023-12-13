@@ -1,0 +1,10 @@
+{
+    "Title": "ACM at UCSB",
+    "Body": "Date: Wed, 15 Jan 1997 00:34:36 GMT Server: Apache/1.0.2 Content-type: text/html Content-length: 1670 Last-modified: Tue, 30 Jul 1996 22:52:17 GMT ACM at UCSB The Association for Computing Machinery This Year's Events.",
+    "link": [
+        "http://www.cs.ucsb.edu/~acm/events.html",
+        "http://www.cs.ucsb.edu/~acm/join.html",
+        "http://info.acm.org/"
+    ],
+    "ground_truth": "other"
+}

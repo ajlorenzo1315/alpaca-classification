@@ -1,0 +1,10 @@
+{
+    "Title": "UW Cecil/Vortex Project",
+    "Body": "We conduct research on programming language design and implementation, with an emphasis on these issues for object-oriented languages.",
+    "link": [
+        "http://www.cs.washington.edu/",
+        "mailto:cecil-interest-request@cs.washington.edu",
+        "http://www.cs.washington.edu/research/projects/cecil/www/Papers/whole-program.html"
+    ],
+    "ground_truth": "project"
+}

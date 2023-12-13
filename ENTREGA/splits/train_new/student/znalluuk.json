@@ -1,0 +1,10 @@
+{
+    "Title": "Karthik's Web Page",
+    "Body": "Date: Thu, 07 Nov 1996 19:17:58 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Fri, 18 Oct 1996 07:33:58 GMT Content-length: 3566 Karthik's Web Page Karthikeyan Ramasamy About I am a Ph.D student at the Computer Sciences Department of University of Wisconsin.",
+    "link": [
+        "http://www.cs.wisc.edu/~naughton/naughton.html",
+        "http://www.cs.wisc.edu/~dewitt/dewitt.html",
+        "http://www.cs.wisc.edu/~naughton/naughton.html"
+    ],
+    "ground_truth": "student"
+}

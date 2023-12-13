@@ -1,0 +1,10 @@
+{
+    "Title": "Trace Cache: A Low Latency Approach to High Bandwidth Instruction Fetching ",
+    "Body": "We propose the trace cache, a special instruction cache that captures dynamic instruction sequences.",
+    "link": [
+        "http://www.cs.wisc.edu/Dienst/Repository/2.0/Body/ncstrl.uwmadison%2fCS-TR-96-1310/postscript",
+        "http://www.cs.wisc.edu/Dienst/UI/2.0/Print/ncstrl.uwmadison%2fCS-TR-96-1310",
+        "http://www.cs.wisc.edu/Dienst/UI/2.0/Search"
+    ],
+    "ground_truth": "other"
+}

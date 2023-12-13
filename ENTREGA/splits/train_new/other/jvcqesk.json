@@ -1,0 +1,10 @@
+{
+    "Title": "Coral Database Project - Papers",
+    "Body": "Controlling the Search in Bottom-Up Evaluation Raghu Ramakrishnan, Divesh Srivastava and S. Sudarshan, Proceedings of the Joint International Conference and Symposium on Logic Programming, 1992 Available here.",
+    "link": [
+        "#Language",
+        "#Optimization",
+        "#Survey"
+    ],
+    "ground_truth": "other"
+}

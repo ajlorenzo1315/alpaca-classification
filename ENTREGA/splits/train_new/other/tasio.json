@@ -1,0 +1,9 @@
+{
+    "Title": "The Structure and Performance of Interpreters",
+    "Body": "Date: Tue, 10 Dec 1996 03:28:01 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Wed, 24 Jul 1996 23:16:41 GMT Content-length: 1729 The Structure and Performance of Interpreters The Structure and Performance of Interpreters Romer, Lee, Voelker, Wolman, Wong, Baer, Bershad, and Levy, The Structure and Performance of Interpreters , ASPLOS VII, to appear.",
+    "link": [
+        "http://www.cs.washington.edu/homes/romer/rocky/InterpreterS+P.ps",
+        "http://www.cs.washington.edu/homes/romer/rocky/index.html"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": " Shore photo album ",
+    "Body": "of Wisconsin Computer Sciences Department Note: this page is under construction.",
+    "link": [
+        "http://www.cs.wisc.edu/shore/pics/img_uw01.gif",
+        "http://www.cs.wisc.edu/shore/pics/img_uw02.gif",
+        "http://www.cs.wisc.edu/shore/pics/img_cs03.gif"
+    ],
+    "ground_truth": "other"
+}

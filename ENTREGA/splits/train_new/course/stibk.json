@@ -1,0 +1,10 @@
+{
+    "Title": "CS 105 C++ Fall 1995",
+    "Body": "Available on-line A technical note on how to compile programs and turn in homeworks electronically.",
+    "link": [
+        "http://www.cs.utexas.edu/users/kornerup/index.html",
+        "http://www.cs.utexas.edu/users/kornerup/cs105/syllabus",
+        "http://www.cs.utexas.edu/users/kornerup/cs105/technote"
+    ],
+    "ground_truth": "course"
+}

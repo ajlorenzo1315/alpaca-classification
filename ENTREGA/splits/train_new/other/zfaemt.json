@@ -1,0 +1,10 @@
+{
+    "Title": "Suggested Robotlab M.Eng Projects ",
+    "Body": "Search-based compilation Modelling compilation as a search problem on a system with constraints : The system will consist of a set of processors a set of memories an interconnect network a set of constraints number of processors size of memory which processor can access which memories in a cycle ordering imposed by the operations to be performed.",
+    "link": [
+        "http://www.cs.cornell.edu/Info/Projects/csrvl/mobot.html",
+        "http://www.cs.cornell.edu/Info/Projects/csrvl/pics/rose.gif",
+        "http://www.cs.cornell.edu/Info/Projects/csrvl/mobot.html"
+    ],
+    "ground_truth": "other"
+}

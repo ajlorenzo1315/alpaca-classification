@@ -1,0 +1,8 @@
+{
+    "Title": "CSE370 Questions for Course Evaluation",
+    "Body": "(0-very slowly, 9-very quickly) What did you think of use of e-mail archives for messages to the class?",
+    "link": [
+        "mailto:cse370-webmaster@cs"
+    ],
+    "ground_truth": "other"
+}

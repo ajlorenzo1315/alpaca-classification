@@ -1,0 +1,9 @@
+{
+    "Title": " Mark Goresky's Home Page",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Thursday, 21-Nov-96 19:21:41 GMT Content-Type: text/html Content-Length: 624 Last-Modified: Sunday, 14-Jul-96 21:46:04 GMT Mark Goresky's Home Page Mark Goresky's home page Presence I am currently on leave at the IAS.",
+    "link": [
+        "http://www.math.ias.edu/~goresky/home.html",
+        "http://www.math.ias.edu/~goresky/preprints.html"
+    ],
+    "ground_truth": "faculty"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "P. K. Nettle",
+    "Body": "If you don't have one of those, send me mail.",
+    "link": [
+        "http://www.cs.utexas.edu/users/pkn/images/stupid.gif",
+        "http://www.cs.utexas.edu/users/pkn/tex.html",
+        "http://www.cs.utexas.edu/users/pkn/ibm.html"
+    ],
+    "ground_truth": "staff"
+}

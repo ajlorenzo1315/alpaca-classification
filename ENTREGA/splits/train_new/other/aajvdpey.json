@@ -1,0 +1,6 @@
+{
+    "Title": "Scanning the Future",
+    "Body": "E.g. put the files into a subdirectory, cd to that directory, then enter: turnin -submit fyyoung cs375 * (Use /p/bin/turnin if /p/bin/ is not in your PATH.)",
+    "link": [],
+    "ground_truth": "other"
+}

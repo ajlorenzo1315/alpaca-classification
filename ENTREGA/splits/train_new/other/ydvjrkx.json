@@ -1,0 +1,10 @@
+{
+    "Title": "\nQuestioner Project\n",
+    "Body": "Date: Tue, 10 Dec 1996 23:17:42 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Mon, 29 Jan 1996 06:05:31 GMT Content-length: 666 Questioner Project Questioner A system for interactive multimedia questionnaire design and administration.",
+    "link": [
+        "questioner/orig/paper.html",
+        "index.html",
+        "mailto:jbaer@cs.washington.edu"
+    ],
+    "ground_truth": "other"
+}

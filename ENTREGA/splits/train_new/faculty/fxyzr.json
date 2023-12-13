@@ -1,0 +1,10 @@
+{
+    "Title": "Rik Belew",
+    "Body": "Wisconsin - Madison belew@cs.wisc.edu April, 1996 I am an associate professor of Computer Science, with special research interests in machine learning and free-text information retrieval.",
+    "link": [
+        "http://www.cs.wisc.edu/~belew/section3_1.html",
+        "http://www.cs.wisc.edu/~belew/section3_1.html",
+        "http://www.cs.wisc.edu/~belew/ccsrg.html"
+    ],
+    "ground_truth": "faculty"
+}

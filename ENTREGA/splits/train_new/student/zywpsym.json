@@ -1,0 +1,10 @@
+{
+    "Title": "Eric's Home Page",
+    "Body": "Date: Tue, 26 Nov 1996 02:50:19 GMT Server: Apache/1.1.1 Content-type: text/html Content-length: 1323 Last-modified: Tue, 26 Mar 1996 23:22:28 GMT Eric's Home Page Eric's SUPER DUPER Home Page Eric Siegel Man's Best Friend I am a graduate student in the Computer Science Department at Columbia University in New York City .",
+    "link": [
+        "http://www.cs.columbia.edu/",
+        "http://www.cc.columbia.edu/",
+        "http://www.cs.columbia.edu/nyc/"
+    ],
+    "ground_truth": "student"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": " Ethernet -- Access to Ethernet (IEEE 802.3)\nInformation",
+    "Body": "Date: Mon, 06 Jan 1997 22:58:04 GMT Server: Apache/1.0.3 Content-type: text/html Content-length: 3514 Last-modified: Mon, 23 Dec 1996 20:26:46 GMT Ethernet -- Access to Ethernet (IEEE 802.3) Information Welcome to the Ethernet Page This web site provides an extensive collection of information about Ethernet (IEEE 802.3) local area network technology, including the original 10-Mbps system, the 100-Mbps Fast Ethernet system, and Gigabit Ethernet.",
+    "link": [
+        "metcalfe-drawing.html",
+        "descript-10quickref.html",
+        "descript-100quickref.html"
+    ],
+    "ground_truth": "other"
+}

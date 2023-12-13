@@ -1,0 +1,10 @@
+{
+    "Title": "Computer Science Department, University of Missouri",
+    "Body": "We are moving (See Notice Below) Department Address and Phone Number 201 Engineering Building West University of Missouri Columbia, MO 65211 (314) 882-3842 Degree Programs: B.S.",
+    "link": [
+        "http://www.cs.missouri.edu/deptinfo_docs/Degree.html#bs",
+        "http://www.cs.missouri.edu/deptinfo_docs/Degree.html#ab",
+        "http://www.cs.missouri.edu/deptinfo_docs/Degree.html#ms"
+    ],
+    "ground_truth": "department"
+}

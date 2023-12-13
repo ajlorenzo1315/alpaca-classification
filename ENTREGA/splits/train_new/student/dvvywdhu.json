@@ -1,0 +1,10 @@
+{
+    "Title": "Linda Wu Home Page at Cornell University",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Wednesday, 20-Nov-96 19:38:24 GMT Content-Type: text/html Content-Length: 1123 Last-Modified: Saturday, 19-Oct-96 21:55:55 GMT Linda Wu Home Page at Cornell University Linda Wu lxwu@cs.cornell.edu I am a Master of Engineering student in Computer Science Department at Cornell Univsersity.",
+    "link": [
+        "mailto:lxwu@cs.cornell.edu",
+        "http://www.cs.cornell.edu/Info/People/lxwu/resume.html",
+        "http://www.cs.cornell.edu/Info/Courses/Current/CS415/CS414.html"
+    ],
+    "ground_truth": "student"
+}

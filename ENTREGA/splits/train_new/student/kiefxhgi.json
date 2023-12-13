@@ -1,0 +1,10 @@
+{
+    "Title": "Vanathi's Home Page",
+    "Body": "Abstract in the Proceedings of the Fourth Keck Symposium on Computational Biology , Pittsburgh, Pennsylvania, 1993.",
+    "link": [
+        "http://www/cgi-bin/finger.exp?vanathi@cs.pitt.edu",
+        "http://www.cs.pitt.edu/~vanathi/veena-pose.gif",
+        "http://www.isc.tamu.edu/~msr/msr.html"
+    ],
+    "ground_truth": "student"
+}

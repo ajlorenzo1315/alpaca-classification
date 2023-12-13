@@ -1,0 +1,10 @@
+{
+    "Title": "CS 564 - Database Management Systems: Design and Implementation",
+    "Body": "Assignment 3 due day changed to Nov. 8, this Friday Assignment 3 FAQ ( Text )(last updated Nov 5) Assignment 3 handout ( Postscript ) Class Mailing List ( CS564-1 ) Solutions to  Chapters' Exercises Please DONT print them out Solutions to all Chapters' Exercises ( Postscript ) First Day Information Overview Prerequisites Office Hours Topics to be Covered Grading Important Dates Important Policy Issues The minibase home page (Check here for details on Assignment 0!).",
+    "link": [
+        "http://www.cs.wisc.edu/~cs564-1/info.ps",
+        "http://www.cs.wisc.edu/~cs564-1/a3-faq.txt",
+        "http://www.cs.wisc.edu/~cs564-1/BT.ps"
+    ],
+    "ground_truth": "course"
+}

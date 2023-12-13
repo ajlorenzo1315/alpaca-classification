@@ -1,0 +1,10 @@
+{
+    "Title": "The Condor-World Mailing List",
+    "Body": "To post a message to the list, send it to condor-world@cs.wisc.edu .",
+    "link": [
+        "http://www.cs.wisc.edu/condor/Condor.gif",
+        "mailto:condor-world-request@cs.wisc.edu",
+        "mailto:condor-world@cs.wisc.edu"
+    ],
+    "ground_truth": "other"
+}

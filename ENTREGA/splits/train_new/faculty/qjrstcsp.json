@@ -1,0 +1,8 @@
+{
+    "Title": "JOHN C. SIEG",
+    "Body": "Associate Professor john@cs.uml.edu Rule-based optimization, collaborations between query optimizers and query-plan evaluators RESEARCH Rule-Based Optimization I am developing a rule-based query optimization environment.",
+    "link": [
+        "http://www.cs.uml.edu/Faculty/john.gif"
+    ],
+    "ground_truth": "faculty"
+}

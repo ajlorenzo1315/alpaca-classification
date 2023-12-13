@@ -1,0 +1,10 @@
+{
+    "Title": "Glebov Home Page",
+    "Body": "He has published 5 technical papers in areas of radiative heat transfer and nuclear engineering; a list of publications Teaching In the Department, he teaches recetation sections on introduction to data structures and design of large programs.",
+    "link": [
+        "http://www.cs.unm.edu/~glebov/Hello.html",
+        "http://www.unm.edu",
+        "http://www.cs.unm.edu/~glebov/resume.html"
+    ],
+    "ground_truth": "student"
+}

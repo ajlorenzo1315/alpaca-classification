@@ -1,0 +1,10 @@
+{
+    "Title": "Chris Chu",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Monday, 06-Jan-97 19:40:39 GMT Content-Type: text/html Content-Length: 1629 Last-Modified: Friday, 05-Jul-96 21:30:15 GMT Chris Chu Welcome to Chris Chu's Home Page About Myself My photo: I am a PhD student in ....",
+    "link": [
+        "http://www.cs.utexas.edu/Welcome.html",
+        "http://www.utexas.edu/students/acccf/",
+        "http://www.cs.utexas.edu/users/yivan/acc.html"
+    ],
+    "ground_truth": "student"
+}

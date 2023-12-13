@@ -1,0 +1,10 @@
+{
+    "Title": " homepage.html ",
+    "Body": "Date: Wed, 20 Nov 1996 22:48:20 GMT Server: Apache/1.1.1 Content-type: text/html Content-length: 2230 Last-modified: Tue, 11 Jul 1995 19:05:23 GMT homepage.html Richard M. Fujimoto Parallel Simulation and Computer Architecture College of Computing Georgia Institute of Technology Richard M. Fujimoto is a professor at Georgia Tech working on parallel and distributed simulation.",
+    "link": [
+        "http://www.cc.gatech.edu/net/www/computing/Architecture/projects/pads.html",
+        "file://ftp.cc.gatech.edu/pub/people/panesar/pads-95.ps.gz",
+        "file://ftp.cc.gatech.edu/pub/people/panesar/wsc-94.ps.gz"
+    ],
+    "ground_truth": "unknow"
+}

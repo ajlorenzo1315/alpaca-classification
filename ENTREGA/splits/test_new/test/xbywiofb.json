@@ -1,0 +1,10 @@
+{
+    "Title": " The Agent Universe ",
+    "Body": ": Contains pointers to academic departments and institutes Conferences... (6 entries).",
+    "link": [
+        "http://www.cs.columbia.edu/~radev/cgi-bin/aguniverse.cgi?MAIN",
+        "http://www.cs.columbia.edu/~radev/cgi-bin/aguniverse.cgi?COMPREHENSIVE",
+        "http://www.cs.columbia.edu/~radev/cgi-bin/aguniverse.cgi?INDUSTRY"
+    ],
+    "ground_truth": "unknow"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "\nCS418 Lab 9\n",
+    "Body": "The animation must start with a title frame which includes title, author, and copyright notice.",
+    "link": [
+        "http://www.tc.cornell.edu/Visualization/Education/cs418/labs/titles1995.net",
+        "http://www.tc.cornell.edu/Visualization/Education/cs418/labs/titles1995.cfg",
+        "http://www.tc.cornell.edu/Visualization/Education/cs418/MPEG/mpeg.html"
+    ],
+    "ground_truth": "other"
+}

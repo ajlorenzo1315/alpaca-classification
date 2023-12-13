@@ -1,0 +1,10 @@
+{
+    "Title": " Collaboration Bus ",
+    "Body": "The set of generic services supported by the bus will include (a) a data model for defining shared workspaces consisting of structured objects; (b) a user interface model that allows shared objects to be manipulated using user interfaces that support text, graphics, audio, video, and virtual reality; (c) a coupling model that enables users in a joint session to share data and user-interface objects and controls their interactions to ensure security and consistency contraints are not violated; (d) migration and replication mechanisms that ensure that the bus does not become a bottleneck; and (e) real-time services, consisting of scheduling algorithms and network protocols, for ensuring real-time coupling among the collaborators.",
+    "link": [
+        "http://www.ito.arpa.mil/",
+        "http://www.cs.unc.edu/~dewan",
+        "http://www.cs.unc.edu/~wahab"
+    ],
+    "ground_truth": "project"
+}

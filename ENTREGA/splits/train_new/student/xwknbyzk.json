@@ -1,0 +1,10 @@
+{
+    "Title": "Marcia Beatriz Cavalcante",
+    "Body": "Have you ever visited such a nice country as Brazil?If not, you may want to know about lifestyle, people, business, economy and  beaches, click here!",
+    "link": [
+        "http://www.cs.mcgill.ca/~marciac/rosto.gif",
+        "http://darkwing.uoregon.edu/~sergiok/brasil.html",
+        "http://www.cityvu.com/english/cityvu.htm"
+    ],
+    "ground_truth": "student"
+}

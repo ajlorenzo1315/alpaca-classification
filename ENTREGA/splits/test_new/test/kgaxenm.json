@@ -1,0 +1,10 @@
+{
+    "Title": "Bin Fu's Homepage",
+    "Body": "I got my BS and MS degrees in Computer Science at Wuhan Uni versity , China in 1985 and 1988.",
+    "link": [
+        "http://www.cs.yale.edu/",
+        "http://www.cs.yale.edu/default.html",
+        "http://www.cs.wisc.edu/~lzheng/wuda/wuda.html"
+    ],
+    "ground_truth": "unknow"
+}

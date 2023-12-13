@@ -1,0 +1,10 @@
+{
+    "Title": "Maria Ignatova's Home Page",
+    "Body": "This is part of a broader research done by prof. Martin Levine at CIM, the Center for Intelligent Machines, Electrical Engineering Department , McGill.",
+    "link": [
+        "mailto:mimi@cs.mcgill.ca",
+        "mailto:mimi@cim.mcgill.ca",
+        "http://www.cs.mcgill.ca"
+    ],
+    "ground_truth": "unknow"
+}

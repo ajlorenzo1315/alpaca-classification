@@ -1,0 +1,10 @@
+{
+    "Title": "Lewis McCarthy",
+    "Body": "lmccarth@cs.umass.edu maintains Web pages in the www.cs.umass.edu/~lmccarth hierarchy.",
+    "link": [
+        "mailto:lmccarth@cs.umass.edu",
+        "http://www.cs.umass.edu/students.html",
+        "http://www.cs.umass.edu/~thtml"
+    ],
+    "ground_truth": "student"
+}

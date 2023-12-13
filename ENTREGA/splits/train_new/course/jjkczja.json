@@ -1,0 +1,10 @@
+{
+    "Title": "C690: Managing and Visualizing Multimedia Data",
+    "Body": "A data model for video databases is presented based on a study of the applilcations of video, the nature of video retrieval requests, and the features of video.",
+    "link": [
+        "#whatsnew",
+        "#general",
+        "#description"
+    ],
+    "ground_truth": "course"
+}

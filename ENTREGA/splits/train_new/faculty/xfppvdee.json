@@ -1,0 +1,10 @@
+{
+    "Title": " Maccabe Home Page ",
+    "Body": "Date: Mon, 25 Nov 1996 23:19:18 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Tue, 29 Oct 1996 05:11:44 GMT Content-length: 2429 Maccabe Home Page Arthur B.",
+    "link": [
+        "http://www.cs.sandia.gov/puma",
+        "http://www.cs.unm.edu/~maccabe/classes/341/",
+        "http://www.cs.unm.edu/Engr_Coll/CS_Dept/subpages/curriculum/course_desc/cs-341.html"
+    ],
+    "ground_truth": "faculty"
+}

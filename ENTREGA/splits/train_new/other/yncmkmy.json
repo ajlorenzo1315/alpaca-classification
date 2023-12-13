@@ -1,0 +1,10 @@
+{
+    "Title": "Carl de Boor's students",
+    "Body": "Date: Tue, 05 Nov 1996 20:37:27 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Tue, 09 Apr 1996 21:15:59 GMT Content-length: 1650 Carl de Boor's students Steven A. Pruess, Estimating the eigenvalues of Sturm-Liouville problems by approximating the differential equation, Purdue University, 1970 David S. Dodson, Optimal order approximation by polynomial spline functions, Purdue University, 1972 Rong-qing Jia , Spline interpolation and some related topics, University of Wisconsin-Madison, 1983 Daniel Tien-you Lee , Some problems in cardinal spline interpolation and approximation, University of Wisconsin-Madison, 1984 Thomas A. Grandine , Computing with multivariate simplex splines, University of Wisconsin, 1985.",
+    "link": [
+        "http://www.cs.wisc.edu/cgi-bin/finger/m?jia@xihu.math.ualberta.ca",
+        "http://www.cs.wisc.edu/cgi-bin/finger/m?adanlee@nchc.ntu.edu.tw",
+        "http://www.eskimo.com/~grandine"
+    ],
+    "ground_truth": "other"
+}

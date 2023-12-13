@@ -1,0 +1,10 @@
+{
+    "Title": "Ashwin Moranganti's WWW Page",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Thursday, 21-Nov-96 22:35:04 GMT Content-Type: text/html Content-Length: 2036 Last-Modified: Tuesday, 03-Oct-95 14:24:03 GMT Ashwin Moranganti's WWW Page Welcome to Ashwin's Home Page WWW Version Click here to see what browser are you using?",
+    "link": [
+        "http://www.city.net/checkup.cgi",
+        "http://spiderman.bu.edu/misc/india/",
+        "http://www.ccs.neu.edu/"
+    ],
+    "ground_truth": "unknow"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": " Richard S. Palmer",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Sunday, 24-Nov-96 23:08:05 GMT Content-Type: text/html Content-Length: 1307 Last-Modified: Tuesday, 24-Oct-95 14:08:55 GMT Richard S. Palmer Rick Palmer Senior Scientist / BEAM Technologies, Inc. / Ithaca, NY 14850 Visiting Scientist / Computer Science Dept.",
+    "link": [
+        "http://www.cs.cornell.edu/Info/Projects/SimLab/slides/chains/slide1.html",
+        "http://www.cs.cornell.edu/Info/People/rick/Info/Projects/SimLab/slides/made-11-94/node1.html",
+        "http://www.cs.cornell.edu/Info/People/rick/chains/chains.html"
+    ],
+    "ground_truth": "staff"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": " Richard J. Fateman",
+    "Body": "You might also visit Berkeley OCR/math papers .",
+    "link": [
+        "http://HTTP.CS.Berkeley.EDU/~fateman/algebra.html",
+        "http://symbolicnet.mcs.kent.edu/",
+        "http://HTTP.CS.Berkeley.EDU/~fateman/ocrpapers.html"
+    ],
+    "ground_truth": "faculty"
+}

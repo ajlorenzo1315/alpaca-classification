@@ -1,0 +1,10 @@
+{
+    "Title": " J's Place ",
+    "Body": "Name: Jason Corless Office: ELW A250 Phone: (604)721-6022 E-mail: jcorless@csr.uvic.ca About Me I am a graduate student at the University of Victoria in Victoria, British Columbia ( which, btw is a really cool place to live -- did I mention that we have the best weather in Canada?",
+    "link": [
+        "http://www.uvic.ca/",
+        "http://www.csc.uvic.ca/",
+        "http://www.csc.uvic.ca/personnel/profiles/nigelh.html"
+    ],
+    "ground_truth": "student"
+}

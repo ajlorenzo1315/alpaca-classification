@@ -1,0 +1,10 @@
+{
+    "Title": " Su-Hui CHiang's Home Page ",
+    "Body": "I'm TAing CS132 this fall Publications Use of Application Characteristics and Limited Preemption for Run-To-Completion Parallel Processor Scheduling Policies , with Rajesh Mansharamani and Mary Vernon.",
+    "link": [
+        "http://www.cs.wisc.edu/",
+        "http://www.wisc.edu/wiscinfo/",
+        "http://www.cs.wisc.edu/cgi-bin/finger?suhui"
+    ],
+    "ground_truth": "student"
+}

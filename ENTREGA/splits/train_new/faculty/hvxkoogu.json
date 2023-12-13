@@ -1,0 +1,10 @@
+{
+    "Title": "Joe Pfeiffer's Home Page",
+    "Body": "Email: pfeiffer@cs.nmsu.edu Biography Research Interests Personal Interests Classwork Stuff Linux Compaq Concerto Pen Driver Links to Other Pages MML Stuff Biography I earned my BSc.",
+    "link": [
+        "mailto:pfeiffer@cs.nmsu.edu",
+        "#biography",
+        "#research"
+    ],
+    "ground_truth": "faculty"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Computer Science at Dartmouth College",
+    "Body": "History of computer science at Dartmouth Sudikoff Laboratory for Computer Science Computing Facilities Curricula Computer Science PhD Program Computer Science Undergraduate Major Courses Information for CS Majors Research Technical Reports Projects Activities Colloquium Series Dartmouth Institute for Advanced Graduate Studies (DAGS) People Faculty Staff Graduate Students Undergraduate CS Majors, Minors and Modified Majors Alumni Search!",
+    "link": [
+        "http://www.dartmouth.edu/",
+        "http://www.valley.net/~hanover/",
+        "http://www.nh.com/"
+    ],
+    "ground_truth": "department"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Ann DeVito",
+    "Body": "Linking concepts in hypermedia DeVito Web Development www.devito-web.com Department of Computer Science Home Page Department of Classics Home Page University of Saskatchewan Home Page Page designed and maintained by Ann DeVito.",
+    "link": [
+        "http://www.cs.usask.ca/",
+        "http://www.usask.ca/",
+        "mailto:devito@cs.usask.ca"
+    ],
+    "ground_truth": "faculty"
+}

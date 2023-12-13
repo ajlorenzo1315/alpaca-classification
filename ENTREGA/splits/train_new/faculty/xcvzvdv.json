@@ -1,0 +1,10 @@
+{
+    "Title": "Thorsten von Eicken",
+    "Body": "Analysis of Multithreaded Architectures for Parallel Computing , R. Saavedra-Barrera, D. Culler, and T. von Eicken, Proceedings of the 2nd Annual Symp.",
+    "link": [
+        "mailto:tve@cs.cornell.edu",
+        "http://www.cs.cornell.edu/Info/Projects/U-Net/",
+        "http://www.cs.cornell.edu/Info/Projects/CAM/"
+    ],
+    "ground_truth": "faculty"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "A Re-Ordering Network Interface",
+    "Body": "\"CRANIUM: An Interface for Message Passing on Adaptive Packet Routing Networks\", Proceedings of the 1994 Parallel Computer Routing and Communication Workshop , May 1994.",
+    "link": [
+        "ftp://shrimp.cs.washington.edu/pub/chaos/docs/cranium-pcrcw.ps",
+        "http://www.cs.washington.edu/research/projects/lis/chaos/www/abstracts/copyright.html",
+        "http://www.cs.washington.edu/research/projects/lis/chaos/www/chaos.html"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,8 @@
+{
+    "Title": " Cheating and Academic Misconduct ",
+    "Body": "If you turn in a hard copy of a program that does not match the code on your disk, or if you turn in output that has been altered in any way or which was not created by running the program you have written, then you have committed academic misconduct.",
+    "link": [
+        "mailto:mbirk@cs.wisc.edu"
+    ],
+    "ground_truth": "other"
+}

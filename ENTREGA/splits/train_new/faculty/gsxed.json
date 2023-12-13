@@ -1,0 +1,10 @@
+{
+    "Title": " Larry Peterson ",
+    "Body": "He also now serves as the Department Head.",
+    "link": [
+        "mailto:llp@cs.arizona.edu",
+        "http://www.cs.arizona.edu/classes/cs525/",
+        "http://www.mkp.com/pages/3689"
+    ],
+    "ground_truth": "faculty"
+}

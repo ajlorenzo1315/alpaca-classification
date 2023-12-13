@@ -1,0 +1,10 @@
+{
+    "Title": "Qualitative Modeling & Diagnosis",
+    "Body": "In this paper, we present an approach to learning the models for such systems.",
+    "link": [
+        "file://ftp.cs.utexas.edu/pub/mooney/papers/qdocs-aaai96sub.ps.Z",
+        "file://ftp.cs.utexas.edu/pub/mooney/papers/qdocs-dissertation-95.ps.Z",
+        "file://ftp.cs.utexas.edu/pub/mooney/papers/qdocs-ijcai95sub.ps.Z"
+    ],
+    "ground_truth": "other"
+}

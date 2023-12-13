@@ -1,0 +1,10 @@
+{
+    "Title": "Germán Goldszmidt's Home Page",
+    "Body": "I was a PhD student at Columbia, and I completed my dissertation, Distributed Management by Delegation , on December 1995.",
+    "link": [
+        "http://www.cs.columbia.edu/~german/gif/german1.gif",
+        "http://www.eff.org/blueribbon.html",
+        "http://www.ibm.com"
+    ],
+    "ground_truth": "staff"
+}

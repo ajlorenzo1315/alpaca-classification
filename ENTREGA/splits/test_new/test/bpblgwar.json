@@ -1,0 +1,10 @@
+{
+    "Title": " \nMind and Computation Main Page\n",
+    "Body": "Fall Schedule Sept. 22: Pei Wang (IU Computer Science) Sept. 29: John Rehling (IU Computer Science) Oct. 6: David Leake (IU Computer Science) Nov. 3: Andy Kinley and Dave Wilson (IU Computer Science) Nov. 17: Jonathan Mills (IU Computer Science) Dec. 8: Kyle Wagner (IU Computer Science) Spring Schedule Jan. 26: Bob Port (IU Linguistics and Computer Science) Feb. 16: Georg Dorffner (University of Vienna) Mar.",
+    "link": [
+        "http://www.cs.indiana.edu/classes/c690mac/wang.html",
+        "http://www.cs.indiana.edu/classes/c690mac/rehling.html",
+        "http://www.cs.indiana.edu/classes/c690mac/leake_w95.html"
+    ],
+    "ground_truth": "unknow"
+}

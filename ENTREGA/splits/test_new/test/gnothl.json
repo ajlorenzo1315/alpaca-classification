@@ -1,0 +1,6 @@
+{
+    "Title": "No title",
+    "Body": "For this type of query we will need to first create a set of tuples for comparison and compare the set to another table; we then perform other selections and projections after grouping as explained in the following example.",
+    "link": [],
+    "ground_truth": "unknow"
+}

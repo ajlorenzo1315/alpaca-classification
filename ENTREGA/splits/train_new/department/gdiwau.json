@@ -1,0 +1,10 @@
+{
+    "Title": "Wellesley College Computer Science Department",
+    "Body": "For more information, read on, or click on one of the following categories: Curriculum Faculty and Research Facilities Work Experience and Internships Post-Graduate Opportunities Curriculum Computer Science students at Wellesley can choose from a large selection of courses , ranging from  general introductory classes to advanced topics such as graphics, computer vision, parallel computing, compiler design and construction, and artificial intelligence.",
+    "link": [
+        "http://www.wellesley.edu",
+        "#Curriculum",
+        "#Faculty and Research"
+    ],
+    "ground_truth": "department"
+}

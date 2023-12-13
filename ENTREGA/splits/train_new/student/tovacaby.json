@@ -1,0 +1,10 @@
+{
+    "Title": " Alexander Huber's Personal Web Page",
+    "Body": "Lounge This site is a tribute to all my friends back in Austria and to some I got acquainted with here at BGSU .",
+    "link": [
+        "http://www.godiscs.co.uk/godiscs/porthead.html",
+        "http://www.netcetera.nl/guru.html",
+        "http://www.mtv.se/tvp/sms/3ls.html"
+    ],
+    "ground_truth": "student"
+}

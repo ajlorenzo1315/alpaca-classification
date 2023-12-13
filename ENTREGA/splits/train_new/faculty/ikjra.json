@@ -1,0 +1,10 @@
+{
+    "Title": "Robert L. Constable",
+    "Body": "The second joint venture involves building a model of the Polya programming language and a program refinement mechanism for it, both designed by David Gries, which will enable him to write his handbook of algorithms in the manner that he devised through years of study of the programming process.",
+    "link": [
+        "/Info/Projects/Nuprl/nuprl.html",
+        "/Info/Faculty/gries/gries.html",
+        "/Info/People/rz/rz.html"
+    ],
+    "ground_truth": "faculty"
+}

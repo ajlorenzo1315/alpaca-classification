@@ -1,0 +1,10 @@
+{
+    "Title": "Kent Wenger's Home Page",
+    "Body": "Date: Fri, 13 Dec 1996 14:49:01 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Fri, 15 Nov 1996 15:54:21 GMT Content-length: 1973 Kent Wenger's Home Page Welcome to Kent Wenger's home page!",
+    "link": [
+        "mailto:wenger@cs.wisc.edu",
+        "http://www.cs.wisc.edu/cgi-bin/finger?wenger",
+        "file://www.cs.wisc.edu/~wenger//p/cod/doc/cod.html"
+    ],
+    "ground_truth": "staff"
+}

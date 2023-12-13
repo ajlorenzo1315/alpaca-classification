@@ -1,0 +1,10 @@
+{
+    "Title": "Stefan Savage",
+    "Body": "SPIN - An Extensible Microkernel for Application-specific Operating System Services in \"Proceedings of the Sixth SIGOPS European Workshop on Matching Operating Systems to Application Needs\" .",
+    "link": [
+        "http://www.cs.washington.edu/homes/savage/pictures/medome_big.gif",
+        "http://www.cs.washington.edu/homes/savage/pictures/work.gif",
+        "http://www.cs.washington.edu/"
+    ],
+    "ground_truth": "student"
+}

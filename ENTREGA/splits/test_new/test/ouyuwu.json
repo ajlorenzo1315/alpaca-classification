@@ -1,0 +1,10 @@
+{
+    "Title": "Computer Vision G22.2270 Fall 96",
+    "Body": "Use the instructions in x_instructions.txt to do that.",
+    "link": [
+        "http://cs.nyu.edu/cs/faculty/hummel/",
+        "http://simulation.modsim.nyu.edu/cvcourse/outline.txt",
+        "http://simulation.modsim.nyu.edu/cvcourse/email_list.txt"
+    ],
+    "ground_truth": "unknow"
+}

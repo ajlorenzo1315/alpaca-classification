@@ -1,0 +1,10 @@
+{
+    "Title": "Cmpt 100 Homepage",
+    "Body": "Goal of CMPT 100 Concepts & Material FAQ Tidbits (Look for answers to your Web Comments and questions here!)",
+    "link": [
+        "http://www.cs.usask.ca/classes/100/comments-form.html",
+        "http://www.cs.usask.ca/classes/100/outline-winter-96.html",
+        "http://www.cs.usask.ca/classes/100/outline-winter-96.html#timetable"
+    ],
+    "ground_truth": "course"
+}

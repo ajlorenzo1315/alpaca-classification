@@ -1,0 +1,10 @@
+{
+    "Title": "DEVise Home Page",
+    "Body": "In Depth For a detailed description of DEVise: Model of Visualization Visual Query Interface Performance Issues Publications Miron Livny, Raghu Ramakrishnan, and Jussi Myllymaki.",
+    "link": [
+        "#Features",
+        "#example",
+        "#doc"
+    ],
+    "ground_truth": "project"
+}

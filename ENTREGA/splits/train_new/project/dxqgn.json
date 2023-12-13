@@ -1,0 +1,10 @@
+{
+    "Title": "Machine Learning for Cancer Diagnosis and Prognosis",
+    "Body": "This work is the result of a collaboration at the University of Wisconsin-Madison between Prof. Olvi L. Mangasarian of the Computer Sciences Department and Dr. William H. Wolberg of the departments of Surgery and Human Oncology.",
+    "link": [
+        "http://www.cs.wisc.edu/~olvi/olvi.html",
+        "http://www.biostat.wisc.edu/people/profiles/people/WOLBERG,_WILLIAM_H.html",
+        "http://www.cs.wisc.edu/~street/press_rel.html"
+    ],
+    "ground_truth": "project"
+}

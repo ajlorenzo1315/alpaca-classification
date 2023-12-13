@@ -1,0 +1,10 @@
+{
+    "Title": "Filippo Menczer",
+    "Body": "Department of Computer Science and Engineering University of California, San Diego La Jolla, CA 92093-0114 U.S.A.",
+    "link": [
+        "http://www-cse.ucsd.edu/users/fil/no-beard.gif",
+        "http://www.proximus.com/cgi-bin/webmap?Template=geocities&Icon=SmallCross%2C%2C0%2C0&Address2=8328+Regents+Rd.+%233B&Address3=San+Diego%2C+CA+92122",
+        "http://www.krl.caltech.edu/~brown/alife/"
+    ],
+    "ground_truth": "student"
+}

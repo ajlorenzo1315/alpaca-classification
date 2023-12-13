@@ -1,0 +1,10 @@
+{
+    "Title": "NYU Center for Advanced Technology",
+    "Body": "Date: Wed, 15 Jan 1997 01:22:18 GMT Server: NCSA/1.5.1 Last-modified: Fri, 10 Jan 1997 18:53:14 GMT Content-type: text/html Content-length: 2798 NYU Center for Advanced Technology Ken Perlin won an Academy Award!",
+    "link": [
+        "http://found.cs.nyu.edu/about/",
+        "http://found.cs.nyu.edu/projects",
+        "http://found.cs.nyu.edu/staff"
+    ],
+    "ground_truth": "other"
+}

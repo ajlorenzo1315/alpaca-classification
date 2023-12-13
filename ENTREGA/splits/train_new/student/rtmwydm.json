@@ -1,0 +1,10 @@
+{
+    "Title": "Michael Oren",
+    "Body": "M. Oren and S. Nayar, Generalization of the Lambertian Model and Implications for Machine Vision, (1.3Mb), The Int.",
+    "link": [
+        "http://cam.cornell.edu/cgi-bin/finger?oren@cs.columbia.edu",
+        "mailto:oren@ai.mit.edu",
+        "ftp://ftp.cs.columbia.edu/pub/oren/ijcv_specular.ps.Z"
+    ],
+    "ground_truth": "student"
+}

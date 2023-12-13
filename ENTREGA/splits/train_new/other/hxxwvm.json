@@ -1,0 +1,10 @@
+{
+    "Title": "Content-Based Browsing of CS Technical Reports",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Sunday, 24-Nov-96 22:25:38 GMT Content-Type: text/html Content-Length: 3907 Last-Modified: Thursday, 01-Aug-96 19:06:39 GMT Content-Based Browsing of CS Technical Reports Content-Based Browsing of CS Technical Reports Below are OCR versions of a couple of existing Cornell CS Technical Reports.",
+    "link": [
+        "http://www.cs.cornell.edu/Info/People/cardie/cstr/91-1249.html",
+        "http://www.cs.cornell.edu/Info/People/cardie/cstr/90-1079.html",
+        "http://www.cs.cornell.edu/Info/People/cardie/cstr/94-1436.html"
+    ],
+    "ground_truth": "other"
+}

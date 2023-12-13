@@ -1,0 +1,10 @@
+{
+    "Title": "CS223B - Computer Vision",
+    "Body": "If you would like to give me extra feedback, please fill out the electronic version which will be sent to me anonymously.",
+    "link": [
+        "http://www-leland.stanford.edu/class/cs223b/outline/outline.html",
+        "http://www-leland.stanford.edu/class/cs223b/outline.ps",
+        "http://www-leland.stanford.edu/class/cs223b/mechanics.html"
+    ],
+    "ground_truth": "course"
+}

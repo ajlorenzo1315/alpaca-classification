@@ -1,0 +1,10 @@
+{
+    "Title": "CTC - Visualization Tools - DX",
+    "Body": "Data Explorer (DX) is a block diagram, point and click programming language designed for producing high quality images based on 3-D data.",
+    "link": [
+        "http://www.tc.cornell.edu/DX/",
+        "http://www.tc.cornell.edu/Visualization/animations/animations.html",
+        "http://www.tc.cornell.edu/Visualization/"
+    ],
+    "ground_truth": "other"
+}

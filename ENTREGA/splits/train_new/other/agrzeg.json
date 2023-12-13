@@ -1,0 +1,10 @@
+{
+    "Title": " CS 410 Course Staff ",
+    "Body": "Instructor: Eva Tardos, 5144 Upson Hall, 255 0984, email: eva@cs.cornell.edu .",
+    "link": [
+        "mailto:eva@cs.cornell.edu",
+        "mailto:heng@cs.cornell.edu",
+        "mailto:fms@cs.cornell.edu"
+    ],
+    "ground_truth": "other"
+}

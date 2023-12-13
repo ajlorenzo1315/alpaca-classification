@@ -1,0 +1,10 @@
+{
+    "Title": "Project Report: U-Net Kernel Endpoint",
+    "Body": "Issue 2 : To make one of the U-Net endpoints behave as the 'Kernel-Endpoint', this requires changes to be made in the U-Net code to force the 'Kernel-Endpoint' to the kernel space.This issue requires a thorough understanding of the U-Net architecture and driver code.",
+    "link": [
+        "http://www.cs.cornell.edu/Info/Courses/Spring-96/CS516/Projects/unet-kendpt/page2.516.gif",
+        "http://www.cs.cornell.edu/Info/Courses/Spring-96/CS516/Projects/unet-kendpt/page4.516.gif",
+        "http://www.cs.cornell.edu/Info/Courses/Spring-96/CS516/Projects/unet-kendpt/page6.516.gif"
+    ],
+    "ground_truth": "unknow"
+}

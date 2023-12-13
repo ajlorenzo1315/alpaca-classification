@@ -1,0 +1,10 @@
+{
+    "Title": "Demo Pages for Amherst, Massachusetts",
+    "Body": "The Amherst Area Amateur Astronomers Association Information about the Hitchcock Center for the Environment A Map of the Amherst area Area Businesses on the WWWeb.",
+    "link": [
+        "http://www-astro.phast.umass.edu/guest/seal.html",
+        "http://www.bbtech.com/BBTech-weathercam.html",
+        "http://www-astro.phast.umass.edu/guest/schools/index.html"
+    ],
+    "ground_truth": "other"
+}

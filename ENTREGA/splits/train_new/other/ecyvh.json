@@ -1,0 +1,10 @@
+{
+    "Title": "GRAIL: Images",
+    "Body": "Date: Tue, 10 Dec 1996 03:30:23 GMT Server: NCSA/1.4.2 Content-type: text/html GRAIL: Images People | Courses | Projects | Publications | Theses | Software/Data | Images | Home Page Comments to mtwong@cs.washington.edu 18 November 1996",
+    "link": [
+        "http://www.cs.washington.edu/research/projects/grail2/www/",
+        "http://www.cs.washington.edu/homes/adam/",
+        "http://www.cs.washington.edu/homes/adam/"
+    ],
+    "ground_truth": "other"
+}

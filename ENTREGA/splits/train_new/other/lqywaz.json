@@ -1,0 +1,9 @@
+{
+    "Title": "\nCS 302 Program 6\n",
+    "Body": "write_app (public) this function will write out the appointment information it should ask if the user wants the time printed in military or standard format and do appropriate error checking (you will probably want a function to do this) it should then print out the day of week , the month , the day of month the entire name of the month should be written, not just the number it should then print the time in the format the user requests (by calling one of the two private time print functions) Main should not be able to harm any of the class's data, so all variables int the class must be made private.",
+    "link": [
+        "http://www.cs.wisc.edu/~msteele/cs302/prog6-handin.html",
+        "http://www.cs.wisc.edu/~msteele/cs302/programs.html"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,5 @@
+{
+    "Título": "University of Birmingham School of Computer Science",
+    "Cuerpo": "Date: Tue, 26 Nov 1996 22:38:48 GMT Server: NCSA/1.5.1 Last-modified: Wed, 04 Sep 1996 11:44:33 GMT Content-type: text/html Content-length: 3478 University of Birmingham School of Computer Science Home Page of the School of Computer Science at The University of Birmingham R esearch Research within the School, Seminar Notice Board , Technical Report archive, How to apply to be a Research Student here. C ourses Masters and Undergraduate courses offered by the School, On-line Course Material . G eneral Travel Directions to get here, Staff and Research Student directory & personal pages, Access the School's Anonymous FTP archive, Looking for someone in the School? Try our Telephone directory or searchable X.500 directory , Network & System information and local on-line documentation . L inks to External Information Campus and Regional information, Search the Web using the CUSI search interface. Mail webmaster @ cs.bham.ac.uk with comments or problems related to this server",
+    "ground_truth": "department"
+}

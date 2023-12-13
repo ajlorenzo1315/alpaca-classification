@@ -1,0 +1,10 @@
+{
+    "Title": "\nAjita John\n",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Monday, 06-Jan-97 19:37:37 GMT Content-Type: text/html Content-Length: 2484 Last-Modified: Thursday, 07-Nov-96 18:13:04 GMT Ajita John Ajita John PhD Candidate , Parallel Programming Group , Department of Computer Sciences , University of Texas at Austin , Hello !",
+    "link": [
+        "http://www.cs.utexas.edu/cgi/rwho/ajohn",
+        "http://www.cs.utexas.edu/users/code",
+        "http://www.cs.utexas.edu"
+    ],
+    "ground_truth": "student"
+}

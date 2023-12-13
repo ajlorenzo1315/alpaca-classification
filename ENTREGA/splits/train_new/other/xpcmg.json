@@ -1,0 +1,10 @@
+{
+    "Title": "People",
+    "Body": "He is one of my housemates.",
+    "link": [
+        "http://scorpio.kent.edu/~phil/",
+        "http://scorpio.kent.edu/~phil/page1/Amy.html",
+        "http://scorpio.kent.edu/~phil/page1/Tonk.html"
+    ],
+    "ground_truth": "other"
+}

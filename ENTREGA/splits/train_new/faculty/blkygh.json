@@ -1,0 +1,10 @@
+{
+    "Title": "Victor Vianu's Home Page",
+    "Body": "on Logic in Computer Science , Paris, 1994.",
+    "link": [
+        "http://www-cse.ucsd.edu/users/vianu/victor2.gif",
+        "http://www-cse.ucsd.edu/",
+        "mailto:vianu@cs.ucsd.edu"
+    ],
+    "ground_truth": "faculty"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "No title",
+    "Body": "Office Hours: 11:30 to 12:30, MWF.",
+    "link": [
+        "http://www.cs.uiowa.edu/~sriram",
+        "http://www.cs.uiowa.edu/~sriram/17fall95/syllabus.html",
+        "http://www.cs.uiowa.edu/~sriram/17fall95/syllabus.ps"
+    ],
+    "ground_truth": "course"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "P523 Project Five",
+    "Body": "p5test.ss provides a Scheme procedure that will run your code generator on all the test cases in p5good and create the file tests.out that can be compared against p5good using diff .",
+    "link": [
+        "http://www.cs.indiana.edu/classes/p523/p4/proj4.html#weasel",
+        "http://www.cs.indiana.edu/classes/p523/p5/alpha.ps.gz",
+        "http://www.cs.indiana.edu/classes/p523/p5/beta.ss"
+    ],
+    "ground_truth": "unknow"
+}

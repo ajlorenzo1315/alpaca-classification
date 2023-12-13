@@ -1,0 +1,10 @@
+{
+    "Title": "Nathaniel McIntosh's Home Page",
+    "Body": "Date: Tue, 26 Nov 1996 00:14:13 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Fri, 22 Nov 1996 18:32:56 GMT Content-length: 1760 Nathaniel McIntosh's Home Page Nathaniel McIntosh Ph.D. student Department of Computer Science, Rice University Mailing address: Department of Computer Science Mail Stop 132 Rice University 6100 Main St. Houston, TX 77005-1892 Office: Duncan Hall 2069 Phone: (713) 527-8101 x2731 Biography In 1986 I graduated with an Sc.B.",
+    "link": [
+        "http://www.cs.rice.edu/",
+        "http://www.crpc.rice.edu/CRPC/",
+        "http://www.cs.rice.edu/fortran-tools/dgroup/DGroup.html"
+    ],
+    "ground_truth": "student"
+}

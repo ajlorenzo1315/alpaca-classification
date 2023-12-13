@@ -1,0 +1,10 @@
+{
+    "Title": "CSE 590 O",
+    "Body": "This quarter we will be reading selected papers from recent IPPS , PPoPP , ICS , Supercomputing , ICPP , and LCPC .",
+    "link": [
+        "mailto:snyder@cs.washington.edu",
+        "http://cuiwww.unige.ch/~ipps97",
+        "http://www.tc.cornell.edu/PPoPP/"
+    ],
+    "ground_truth": "course"
+}

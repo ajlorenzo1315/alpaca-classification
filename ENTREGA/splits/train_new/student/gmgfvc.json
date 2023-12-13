@@ -1,0 +1,10 @@
+{
+    "Title": "\nQian Zhou's Home Page\n",
+    "Body": "I graduated from Tsinghua University, Beijing, P. R. China in 1993 and received a Bachelor of Engineering degree in Computer Science.",
+    "link": [
+        "http://paul.rutgers.edu/~qianzhou/pubfiles/604essay.ps.gz",
+        "http://paul.rutgers.edu/~qianzhou/pubfiles/simulation.ps.gz",
+        "http://www.edu.cn/tsinghua"
+    ],
+    "ground_truth": "student"
+}

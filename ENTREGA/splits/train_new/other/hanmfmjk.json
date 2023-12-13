@@ -1,0 +1,9 @@
+{
+    "Title": "CS 302 Style Guide",
+    "Body": "// Program 0:    The Bean Counter int main () { int number_of_beans;                // Number of beans (from user) const double bean_weight = 2.051;   // Average bean weight in grams cout << \"Please enter the number of beans\" << endl; cin >> number_of_beans; if (number_of_beans >= 0) { cout << \"Number of Beans: \" << number_of_beans << endl; cout << \"Average Weight: \" << bean_weight << endl; cout << \"Total Weight: \" << number_of_beans * bean_weight << endl; }   | }   |   | |   |   | |   |   | |   |   +---- Level 2 (indented eight spaces) |   | |   +-------- Level 1 (indented four spaces) | +------------ Level 0 (not indented) I don't care how much you indent, but you must be consistant in your indenting.",
+    "link": [
+        "mailto:greg@cs.wisc.edu",
+        "http://www.cs.wisc.edu/~greg/greg.html"
+    ],
+    "ground_truth": "other"
+}

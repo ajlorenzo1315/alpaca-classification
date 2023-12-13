@@ -1,0 +1,10 @@
+{
+    "Title": "Interests",
+    "Body": "Date: Tue, 05 Nov 1996 21:21:21 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Fri, 18 Oct 1996 04:02:38 GMT Content-length: 1340 Interests Personal Interests If it's geeky, I probably enjoy it!",
+    "link": [
+        "http://www.cs.wisc.edu/~moy/comp.html",
+        "http://www.cs.wisc.edu/~moy/econ.html",
+        "http://www.cs.wisc.edu/~moy/books.html"
+    ],
+    "ground_truth": "other"
+}

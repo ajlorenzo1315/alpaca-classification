@@ -1,0 +1,10 @@
+{
+    "Title": "\nJeremy Baer\n",
+    "Body": "Date: Thu, 21 Nov 1996 23:05:25 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Thu, 06 Jun 1996 22:10:26 GMT Content-length: 2320 Jeremy Baer Jeremy Baer \"I never let my schooling interfere with my education\" -Mark Twain \"We are such stuff as dreams are made on\" -William Shakespeare I'm currently a graduate student in Computer Science at the University of Washington.",
+    "link": [
+        "http://www.cs.washington.edu/",
+        "http://www.washington.edu",
+        "http://www.cs.washington.edu/homes/jbaer/personal.html"
+    ],
+    "ground_truth": "student"
+}

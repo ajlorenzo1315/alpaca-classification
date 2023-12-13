@@ -1,0 +1,10 @@
+{
+    "Title": "Pavel Naumov",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Wednesday, 20-Nov-96 19:47:56 GMT Content-Type: text/html Content-Length: 872 Last-Modified: Monday, 01-Jul-96 21:32:32 GMT Pavel Naumov Welcome to my  Home Page I invite you to learn more about me and my location in the cyberspace and the real world.",
+    "link": [
+        "http://www.cs.cornell.edu/Info/People/pavel/pavel70.i.gif",
+        "http://www.cs.cornell.edu/Info/People/pavel/WhoIAm.html",
+        "http://www.cs.cornell.edu/Info/People/pavel/Addresses.html"
+    ],
+    "ground_truth": "student"
+}

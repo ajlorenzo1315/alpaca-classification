@@ -1,0 +1,10 @@
+{
+    "Title": "David R. McIntyre",
+    "Body": "Computer Science , University of Toronto Ph.D. Computer Science , University of Waterloo Courses Fall 96: CIS 650 Compiler Design For information, click here: Courses Sum 96: CIS 335 Language Processors For information, click here: CIS 500 Introduction to Programming in C For information, click here: Past Courses: CIS 335 Language Processors CIS 390 Foundations of Computing CIS 500 Introduction to Programming in C The Cleveland State University home page .",
+    "link": [
+        "http://www.utoronto.ca/math/",
+        "http://www.physics.utoronto.ca/",
+        "http://www.utoronto.ca/uoft.html"
+    ],
+    "ground_truth": "faculty"
+}

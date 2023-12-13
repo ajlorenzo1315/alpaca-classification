@@ -1,0 +1,10 @@
+{
+    "Title": "Mike's Friends",
+    "Body": "Date: Tue, 10 Dec 1996 21:33:47 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Fri, 03 May 1996 21:38:37 GMT Content-length: 460 Mike's Friends Mike's Friends These are some of my friends.",
+    "link": [
+        "http://www.cs.washington.edu/homes/lamarca",
+        "http://www.cs.washington.edu/homes/adam",
+        "http://www.cs.washington.edu/homes/jpower"
+    ],
+    "ground_truth": "other"
+}

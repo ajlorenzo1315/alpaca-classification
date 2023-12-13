@@ -1,0 +1,8 @@
+{
+    "Title": "No title",
+    "Body": "Date: Mon, 25 Nov 1996 23:10:42 GMT Server: Apache/1.1-dev Content-type: text/html Set-Cookie: Apache=gs355845848963442943; path=/ Chinya V. Ravishankar Contact Information Electrical Engineering & Computer Science Department University of Michigan - Ann Arbor 1301 Beal Avenue, Ann Arbor, MI 48109-2122 (313) 747-1806 ravi@eecs.umich.edu Research Interests Distributed systems, databases, heterogeneity, parallel computing, networking.",
+    "link": [
+        "mailto:ravi@eecs.umich.edu"
+    ],
+    "ground_truth": "faculty"
+}

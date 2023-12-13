@@ -1,0 +1,10 @@
+{
+    "Title": "Jin Hong",
+    "Body": "Date: Tue, 26 Nov 1996 03:56:30 GMT Server: Apache/1.1.1 Content-type: text/html Content-length: 1869 Last-modified: Tue, 05 Nov 1996 06:27:18 GMT Jin Hong Jin Hong 103 Hill Center Department of Computer Science Rutgers University Piscataway, NJ 08854 Office: (908) 445-0050 Home: (609) 683-5729 Email: jinhong@paul.rutgers.edu Am I logged on?",
+    "link": [
+        "mailto: jinhong@paul.rutgers.edu",
+        "gopher://paul.rutgers.edu:79/0jinhong",
+        "http://www.rutgers.edu:80/"
+    ],
+    "ground_truth": "student"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Tessa Lau",
+    "Body": "See also Java for Linux .",
+    "link": [
+        "http://www.cs.washington.edu/homes/tlau/resume.html",
+        "http://www.cs.washington.edu/homes/tlau/gambit/index.html",
+        "http://lal.cs.byu.edu/cats/cats.html"
+    ],
+    "ground_truth": "student"
+}

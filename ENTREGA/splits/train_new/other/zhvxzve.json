@@ -1,0 +1,10 @@
+{
+    "Title": "CS 537 - Programming Assignment II",
+    "Body": "Specifying the Graph The specification of the philosopher graph (that is, the number of philosophers and forks and an indication of which which forks are shared by which pairs of philosophers) is given in a file.",
+    "link": [
+        "#intro",
+        "#generalized",
+        "#algorithmI"
+    ],
+    "ground_truth": "other"
+}

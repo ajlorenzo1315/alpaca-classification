@@ -1,0 +1,10 @@
+{
+    "Title": "Adam's Ultimate Pictures",
+    "Body": "Date: Tue, 10 Dec 1996 17:59:20 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Thu, 24 Oct 1996 20:54:50 GMT Content-length: 1444 Adam's Ultimate Pictures Some Ultimate Pictures To see pictures of our March 96 trip to Bellingham, click here .",
+    "link": [
+        "http:umabell/index.html",
+        "http://pages.prodigy.com/jond/pope_it_up.html",
+        "../index.html"
+    ],
+    "ground_truth": "other"
+}

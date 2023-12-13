@@ -1,0 +1,10 @@
+{
+    "Title": "Vision Research, ECE, UCSB",
+    "Body": "Server: Netscape-Communications/1.1 Date: Tuesday, 14-Jan-97 22:50:36 GMT Last-modified: Wednesday, 30-Oct-96 18:10:34 GMT Content-length: 3926 Content-type: text/html Vision Research, ECE, UCSB Image Processing and Computer Vision Research W elcome to the www eb­site of the Image Processing and Vision Research Group of the Electrical and Computer Engineering Department at UCSB .",
+    "link": [
+        "http://www.ece.ucsb.edu/",
+        "http://www.ucsb.edu/",
+        "http://vivaldi.ece.ucsb.edu/faculty.html"
+    ],
+    "ground_truth": "project"
+}

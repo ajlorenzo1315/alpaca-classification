@@ -1,0 +1,10 @@
+{
+    "Title": "Canvas3d",
+    "Body": "Microsoft DirectX Software Development Kit provides a set of APIs that provides the developers with the resources needed to design high-performance, real-time applications, such as the next generation of computer games and multimedia applications.",
+    "link": [
+        "http://www.cs.cornell.edu/Info/Projects/multimedia/zeno.html",
+        "http://www.cs.cornell.edu",
+        "http://www.sunlabs.com/research/tcl/"
+    ],
+    "ground_truth": "unknow"
+}

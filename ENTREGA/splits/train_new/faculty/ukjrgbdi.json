@@ -1,0 +1,10 @@
+{
+    "Title": " UofA, CS, Toniann Pitassi ",
+    "Body": "Lower bounds for Hilbert's Nullstellensatz and propositional proofs , with Paul Beame, Russell Impagliazzo, Jan Krajicek and Pavel Pudlak.",
+    "link": [
+        "mailto:toni@cs.arizona.edu",
+        "http://www.cs.arizona.edu/people/toni/papers/bceip-stoc95.ps",
+        "http://www.cs.arizona.edu/people/toni/papers/bonet-pitassi-raz.ps"
+    ],
+    "ground_truth": "faculty"
+}

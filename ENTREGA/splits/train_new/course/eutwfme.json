@@ -1,0 +1,10 @@
+{
+    "Title": "CSE 531 Fall '96",
+    "Body": "A free viewer is available on some of the department's unix systems (\"acroread\"), or  is perhaps aavailable from Adobe's Acrobat and the Web Page.",
+    "link": [
+        "http://www.cs.washington.edu/education/courses/531/CurrentQtr//",
+        "http://www.cs.washington.edu/homes/ruzzo",
+        "http://www.cs.washington.edu/education/courses/531/CurrentQtr/bboard.shtml"
+    ],
+    "ground_truth": "course"
+}

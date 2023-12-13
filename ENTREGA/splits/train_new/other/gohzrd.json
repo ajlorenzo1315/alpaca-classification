@@ -1,0 +1,10 @@
+{
+    "Title": "UW Theory Page",
+    "Body": "Recent Publications \"DNA Models and Algorithms for NP-Complete Problems\" , E. Bach, A. Condon, E. Glaser & C. Tanguay, to appear in the 1996 IEEE Conference on Computational Complexity .",
+    "link": [
+        "mailto:glaserea@cs.wisc.edu",
+        "http://www.cs.wisc.edu/~pubs/faculty-info/bach.html",
+        "http://www.cs.wisc.edu/~pubs/faculty-info/condon.html"
+    ],
+    "ground_truth": "other"
+}

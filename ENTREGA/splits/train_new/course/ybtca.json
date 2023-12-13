@@ -1,0 +1,9 @@
+{
+    "Title": "CSE 590k, Compiler Seminar",
+    "Body": "(Mock and Tullsen) To subscribe to the CSE 590k mailing list, send email to \"majordomo@cs\"; the mail's contents should include the line \"subscribe cse590k\".",
+    "link": [
+        "http://www.cs.washington.edu/homes/eggers",
+        "http://www.cs.washington.edu/people/faculty/chambers.html"
+    ],
+    "ground_truth": "course"
+}

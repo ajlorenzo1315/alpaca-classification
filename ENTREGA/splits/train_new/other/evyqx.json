@@ -1,0 +1,10 @@
+{
+    "Title": "Some Papers With A Geometric Flavor",
+    "Body": "CORNELLCS:TR88-895 A Geometric Approach to Error Detection and Recovery for Robot  Motion Planning With Uncertainty .",
+    "link": [
+        "/Document/CORNELLCS:TR87-879?abstract=",
+        "/TR/Search/?AUTHOR=Canny,%20John",
+        "/TR/Search/?AUTHOR=Donald,%20Bruce"
+    ],
+    "ground_truth": "other"
+}

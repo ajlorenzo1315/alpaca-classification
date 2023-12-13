@@ -1,0 +1,10 @@
+{
+    "Title": "\nSandra's Home Page\n",
+    "Body": "This is my homepage.",
+    "link": [
+        "mailto:snad@cs.mcgill.ca",
+        "http://abraham.ugrad.physics.mcgill.ca/",
+        "http://www.cs.mcgill.ca"
+    ],
+    "ground_truth": "student"
+}

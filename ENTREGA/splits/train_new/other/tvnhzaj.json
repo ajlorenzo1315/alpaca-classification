@@ -1,0 +1,10 @@
+{
+    "Title": "Slide Show Index",
+    "Body": "Date: Tue, 14 Jan 1997 22:14:37 GMT Server: Apache/1.1b3 Content-type: text/html Content-length: 1196 Last-modified: Thu, 30 Nov 1995 23:08:38 GMT Slide Show Index Slide Show Index Accessed: Project Slide Set #1 Slide Set #2 ATIS Route Finding Software Traffic Visualization Software CCAM CCAM HPGIS Real-Time Battlefield Design and Maintain by Julian Chow Questions and Comments?",
+    "link": [
+        "http://www.cs.umn.edu/Research/shashi-group/cgi-bin/slide-ply.cgi?slide/andy+0+9+30+0+rfs",
+        "http://www.cs.umn.edu/Research/shashi-group/cgi-bin/slide-ply.cgi?slide/andy+0+15+30+0+tdv",
+        "http://www.cs.umn.edu/Research/shashi-group/cgi-bin/slide-ply.cgi?slide/rajat+0+14+30+0"
+    ],
+    "ground_truth": "other"
+}

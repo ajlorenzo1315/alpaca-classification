@@ -1,0 +1,10 @@
+{
+    "Title": " Bill Pugh ",
+    "Body": "Most recently, my research has focused on the use of integer programming algorithms in array data dependence analysis.",
+    "link": [
+        "mailto:pugh@cs.umd.edu",
+        "http://www.ee.umd.edu/Map/Avw/avw4100.html",
+        "http://www.cs.umd.edu/"
+    ],
+    "ground_truth": "faculty"
+}

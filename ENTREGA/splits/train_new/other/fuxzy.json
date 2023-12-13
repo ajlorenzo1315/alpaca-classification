@@ -1,0 +1,9 @@
+{
+    "Title": "CSE 143 Turn-in Policy",
+    "Body": "Think of this as a roadmap that your TA can use to decipher this stack of paper you're turning in -- something that can be quickly scanned to get an understanding of what's to come (note that if you're well-organized, this can double as your README file, as explained below) code -- your code should be fully commented so that it's clear what each function does: what its preconditions, postconditions, and invariants are.",
+    "link": [
+        "README.sample",
+        "mailto:cse143-webmaster@cs.washington.edu"
+    ],
+    "ground_truth": "other"
+}

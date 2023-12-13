@@ -1,0 +1,10 @@
+{
+    "Title": "Mark Gray's Home Page",
+    "Body": "Date: Thu, 21 Nov 1996 22:15:31 GMT Server: Apache/1.1.1 Content-type: text/html Content-length: 2258 Last-modified: Thu, 24 Oct 1996 17:20:52 GMT Mark Gray's Home Page Mark Gray's Home Page Research Interests: I have been the head programmer on I-Observe , a collection of tools for discovering usability problems by analyzing and visualizing detailed usage logs.",
+    "link": [
+        "http://www.cc.gatech.edu/gvu/usability/i-observe/",
+        "http://www.cc.gatech.edu/gvu/usability/i-observe/visualizations.html",
+        "http://www.cc.gatech.edu/gvu/usability/program/"
+    ],
+    "ground_truth": "student"
+}

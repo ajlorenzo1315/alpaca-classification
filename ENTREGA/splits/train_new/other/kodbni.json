@@ -1,0 +1,6 @@
+{
+    "Title": "Bit count of a byte - version one",
+    "Body": "Date: Tue, 14 Jan 1997 20:09:36 GMT Server: NCSA/1.4.1 Content-type: text/html Last-modified: Mon, 30 Sep 1996 23:02:56 GMT Content-length: 692 Bit count of a byte - version one ;This program counts the number of one bits found in byte 01FFH, and ;put the count (a number between 0 and 8) into location 0200H.",
+    "link": [],
+    "ground_truth": "other"
+}

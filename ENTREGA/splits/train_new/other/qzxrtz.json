@@ -1,0 +1,10 @@
+{
+    "Title": " Omnicam Page ",
+    "Body": "All technical inquiries related to the OMNICAM sensor and OMNIVIDEO software may be directed to Prof. Shree K. Nayar.",
+    "link": [
+        "http://www.cs.columbia.edu/CAVE",
+        "http://www.cs.columbia.edu/",
+        "http://www.columbia.edu/"
+    ],
+    "ground_truth": "other"
+}

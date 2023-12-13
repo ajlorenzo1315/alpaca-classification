@@ -1,0 +1,10 @@
+{
+    "Title": "CS 442/542 Homepage",
+    "Body": "of Idaho Home Page Welcome to CS 4/542, Computer Security Concepts This page contains information related to the class such as the syllabus, newsgroups, and the assignments.",
+    "link": [
+        "http://www.cs.uidaho.edu/index.html",
+        "http://www.uidaho.edu/",
+        "http://www.cs.uidaho.edu/~jimaf"
+    ],
+    "ground_truth": "course"
+}

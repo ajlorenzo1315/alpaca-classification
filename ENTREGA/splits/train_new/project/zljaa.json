@@ -1,0 +1,9 @@
+{
+    "Title": "eNVy",
+    "Body": "In the eNVy storage system data is stored permanently in solid-state (Flash) memory, as opposed to traditional systems where data is stored on disk and reads are sped up by a volatile DRAM cache.",
+    "link": [
+        "http://www.cs.rice.edu/CS/Systems/papers/envy-asplos94.ps.gz",
+        "http://www.cs.rice.edu/CS/Systems/papers/envy-techrpt.ps.gz"
+    ],
+    "ground_truth": "project"
+}

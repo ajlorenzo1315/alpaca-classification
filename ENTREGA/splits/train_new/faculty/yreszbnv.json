@@ -1,0 +1,10 @@
+{
+    "Title": "Bonnie Dorr",
+    "Body": "Dorr, Journal of Machine Translation, 7:3, pp.",
+    "link": [
+        "http://www.cs.umd.edu/",
+        "http://www.umiacs.umd.edu/",
+        "http://www.umiacs.umd.edu/research/CLIP/"
+    ],
+    "ground_truth": "faculty"
+}

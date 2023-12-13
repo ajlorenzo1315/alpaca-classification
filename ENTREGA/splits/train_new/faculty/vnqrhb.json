@@ -1,0 +1,10 @@
+{
+    "Title": "\nPeter M. Chen's Home Page\n",
+    "Body": "Peter M. Chen, David A. Patterson, \"A New Approach to I/O Performance Evaluation--Self-Scaling I/O Benchmarks, Predicted I/O Performance\" , Proceedings of the 1993 ACM SIGMETRICS Conference on Measurement and Modeling of Computer Systems , May 1993, pp.",
+    "link": [
+        "http://www.eecs.umich.edu/~pmchen/rioFileCache.ps",
+        "http://www.eecs.umich.edu/~pmchen/delayedWrites.ps",
+        "http://www.eecs.umich.edu/~pmchen/rioFileCacheTech.ps"
+    ],
+    "ground_truth": "faculty"
+}

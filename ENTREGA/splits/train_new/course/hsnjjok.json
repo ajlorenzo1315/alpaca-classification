@@ -1,0 +1,10 @@
+{
+    "Title": "CS 143 Homepage Fall 1996 ",
+    "Body": "B A K* 3pm .",
+    "link": [
+        "mailto:judda@cs.byu.edu",
+        "mailto:alton@cs.byu.edu",
+        "mailto:schurig@cs.byu.edu"
+    ],
+    "ground_truth": "course"
+}

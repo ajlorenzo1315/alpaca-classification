@@ -1,0 +1,10 @@
+{
+    "Title": "TRAINS Project Home Page",
+    "Body": "We (still) hope to have a version of the TRAINS system running over the WWW in the near future.",
+    "link": [
+        "http://www.cs.rochester.edu/research/trains/tn94-3/",
+        "http://www.cs.rochester.edu/research/trains/trains95/",
+        "http://www.cs.rochester.edu/research/trains/aips96/"
+    ],
+    "ground_truth": "project"
+}

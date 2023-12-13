@@ -1,0 +1,10 @@
+{
+    "Title": "\nHomepage of Markus Jakobsson\n",
+    "Body": "on Computer and Communications Security, '96) Ripping Coins for a Fair Exchange (Eurocrypt '95) Blackmailing using Undeniable Signatures (Eurocrypt '94) Reducing costs in identification protocols (Rump session, Crypto '92) Links of interest My Department (We're all here cause we're not all there.)",
+    "link": [
+        "mailto:markus@cs.ucsd.edu",
+        "http://www.lth.se/",
+        "http://www-cse.ucsd.edu/users/markus/sverige.jpg"
+    ],
+    "ground_truth": "student"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": " Ken Kunen's Home Page ",
+    "Body": "Kunen, K., Non-Constructive Computational Mathematics , Technical Report TR-95-1287, University of Wisconsin, 1995, to appear, J.",
+    "link": [
+        "http://www.cs.wisc.edu/~kunen/exp4.ps",
+        "http://www.cs.wisc.edu/~kunen/odd.ps",
+        "http://www.cs.wisc.edu/~kunen/ramsey.ps"
+    ],
+    "ground_truth": "faculty"
+}

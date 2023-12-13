@@ -1,0 +1,10 @@
+{
+    "Title": "Carl Lagoze's Personal Home Page",
+    "Body": "As part of this work, I am also a member of the Dlib working group on repository interfaces and co-author of the yet-to-be-released final report of the Metadata Workshop II in Warwick, U.K.",
+    "link": [
+        "mailto:lagoze@cs.cornell.edu",
+        "http://cs-tr.cs.cornell.edu/Dienst/htdocs/Info/group.html",
+        "http://www.cs.cornell.edu"
+    ],
+    "ground_truth": "unknow"
+}

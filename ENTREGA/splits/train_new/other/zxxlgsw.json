@@ -1,0 +1,10 @@
+{
+    "Title": "WyrmWeather",
+    "Body": "Date: Mon, 04 Nov 1996 23:43:57 GMT Server: NCSA/1.5.2 Content-type: text/html WyrmWeather Visitors: 4930 since 10/04/96 Latest Surface map Latest Composite IR map Long-range Forecasts and Other Weather Info .",
+    "link": [
+        "http://wyrm.adp.wisc.edu/popweth.html",
+        "http://clunix.cl.msu.edu:80/weather/640sa.gif",
+        "http://clunix.cl.msu.edu:80/weather/uscmp.gif"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Computer System Introduction",
+    "Body": "As a student in the CS department, you will be given an account so that you can have access to the computer network in the department.",
+    "link": [
+        "http://www.cs.uidaho.edu/",
+        "http://www.uidaho.edu/",
+        "http://www.cs.uidaho.edu/~johnd/policy.plan.html"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "George Forman: Publications",
+    "Body": "Event-based behavioral abstraction provides a mechanism for managing the volume of data by allowing users to specify models of intended program behavior that are automatically compared to actual program behavior.",
+    "link": [
+        "ftp://ftp.cs.washington.edu/tr/1993/11/UW-CSE-93-11-03.PS.Z",
+        "ftp://ftp.cs.washington.edu/pub/orca/hpf.ps",
+        "http://www.cs.washington.edu/homes/forman/"
+    ],
+    "ground_truth": "other"
+}

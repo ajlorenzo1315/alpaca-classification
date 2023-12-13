@@ -1,0 +1,10 @@
+{
+    "Title": "Leonidas Kontothanassis's URCS Home Page",
+    "Body": "L. I. Kontothanassis.",
+    "link": [
+        "http://www.research.digital.com/CRL/people/kthanasi/bio.html",
+        "http://www.cs.rochester.edu/users/grads/kthanasi/cashmere.html",
+        "http://www.cs.rochester.edu/users/grads/kthanasi/csc252/csc252.html"
+    ],
+    "ground_truth": "other"
+}

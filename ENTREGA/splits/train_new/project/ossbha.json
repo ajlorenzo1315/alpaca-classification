@@ -1,0 +1,10 @@
+{
+    "Title": "GWU CG & Animation Lab Home Page",
+    "Body": "Courses in this area focus on the technical, pedagogical, and design skills necessary to prepare students to work or do advanced research in a field for which there is a high demand.",
+    "link": [
+        "http://www.seas.gwu.edu/seas/eecs/Research/Multimedia/whoswho.html",
+        "http://www.seas.gwu.edu/seas/eecs/Research/Multimedia/courses.html",
+        "http://www.seas.gwu.edu/faculty/sheller/index.html"
+    ],
+    "ground_truth": "project"
+}

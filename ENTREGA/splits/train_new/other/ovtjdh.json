@@ -1,0 +1,10 @@
+{
+    "Title": "CIS 625 Lectures",
+    "Body": "Date: Tue, 14 Jan 1997 20:21:59 GMT Server: NCSA/1.5.2 Last-modified: Fri, 10 May 1996 19:54:34 GMT Content-type: text/html Content-length: 4232 CIS 625 Lectures CIS 625 Lecture Notes The transparencies from most lecture will appear here shortly after the lecture is given.",
+    "link": [
+        "http://www.cis.ksu.edu/~dwyer/courses/625/lectures/lecture1.ps.gz",
+        "http://www.cis.ksu.edu/~dwyer/courses/625/lectures/lecture11.ps.gz",
+        "http://www.cis.ksu.edu/~dwyer/courses/625/lectures/lecture12.ps.gz"
+    ],
+    "ground_truth": "other"
+}

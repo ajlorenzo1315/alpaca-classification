@@ -1,0 +1,10 @@
+{
+    "Title": "James R. Slagle",
+    "Body": "Also, we are researching and designing the Information Processing System for the Minnesota Department of Transportation Road Research Project.",
+    "link": [
+        "mailto:slagle@cs.umn.edu",
+        "http://www.cs.umn.edu/footer.map",
+        "mailto:www@cs.umn.edu"
+    ],
+    "ground_truth": "faculty"
+}

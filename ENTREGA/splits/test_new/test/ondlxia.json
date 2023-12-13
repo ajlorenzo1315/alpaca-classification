@@ -1,0 +1,10 @@
+{
+    "Title": "\nUniversity of Calgary - Department of Computer Science\n",
+    "Body": "I nformation about the courses that we offer, as well as any pertinent web pages maintained by the professors.",
+    "link": [
+        "http://www.cpsc.ucalgary.ca/About",
+        "http://www.cpsc.ucalgary.ca/People",
+        "http://www.cpsc.ucalgary.ca/Services"
+    ],
+    "ground_truth": "unknow"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "GVU Center - Martin Frank",
+    "Body": "Frank, M. and Foley, J. Model-Based User Interface Design by Example and by Interview.",
+    "link": [
+        "http://www.cc.gatech.edu/gvu/gvutop.html",
+        "http://www.isi.edu/isd/frank/",
+        "file://ftp.cc.gatech.edu/pub/coc/tech_reports/1994/GIT-CC-94-02.ps.Z"
+    ],
+    "ground_truth": "student"
+}

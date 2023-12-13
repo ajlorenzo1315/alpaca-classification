@@ -1,0 +1,5 @@
+{
+    "Título": "CSE 457 Calendar",
+    "Cuerpo": "The final date and assignment deadlines are firm, but the lecture dates are a little more rough: Week 1: Mon, Sep 30: Introduction. Homework #0 due! Wed, Oct 9: Image morphing, cont. Project #0 due! Wed, Oct 16: Image compositing, cont. Homework #1 due! Fri, Oct 25: Curves. Week 5: Mon, Oct 28: Curves, cont. Wed, Oct 30: Curves, cont. Project #1 due! Week 6: Mon, Nov 4: Surfaces, cont. Wed, Nov 6: Surfaces, cont. Homework #2 due! Week 7: Wed, Nov 13: Hidden surface, cont. Fri, Nov 15: Local illumination. Project #2 due! Wed, Nov 27: Global illumination. Homework #3 due! Week 10: Mon, Dec 2: Global illumination, cont. Project #3 due!",
+    "ground_truth": "other"
+}

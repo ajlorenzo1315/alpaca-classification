@@ -1,0 +1,10 @@
+{
+    "Title": "Danny Padwa's Page",
+    "Body": "Date: Tue, 26 Nov 1996 03:46:59 GMT Server: NCSA/1.4.1 Content-type: text/html Last-modified: Wed, 18 Sep 1996 14:41:38 GMT Content-length: 1118 Danny Padwa's Page Danny Padwa's Page This is a relatively skimpy \"home page\" - I hope to be enhancing it shortly.",
+    "link": [
+        "http://cs.nyu.edu/",
+        "http://www.cs.nyu.edu/ms_students/padw7068/bio.html",
+        "http://www.cs.nyu.edu/ms_students/padw7068/wedding/"
+    ],
+    "ground_truth": "student"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "MSU HIGH SPEED NETWORKING AND PERFORMANCE LAB Welcome Page",
+    "Body": "Date: Wed, 20 Nov 1996 19:17:24 GMT Server: Apache/1.1.1 Content-type: text/html Content-length: 2550 Last-modified: Mon, 04 Nov 1996 19:41:23 GMT MSU HIGH SPEED NETWORKING AND PERFORMANCE LAB Welcome Page Welcome to High Speed Networking & Performance Lab HSNP Lab is located in Engineering Building 320, Michigan State University .",
+    "link": [
+        "http://www.msu.edu/",
+        "http://web.cps.msu.edu/fac/fac/hughes.html",
+        "http://element.cps.msu.edu/faculty.html"
+    ],
+    "ground_truth": "project"
+}

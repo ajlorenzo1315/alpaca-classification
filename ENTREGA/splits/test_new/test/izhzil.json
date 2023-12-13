@@ -1,0 +1,10 @@
+{
+    "Title": "Tekin Ozsoyoglu's Home Page",
+    "Body": "Content-type: text/html Last-modified: Thursday, 05-Sep-96 21:30:23 GMT Content-length: 2461 Tekin Ozsoyoglu's Home Page G&uumlltekin &Oumlzsoyoglu Professor 506 Olin Bldg Case Western Reserve University Cleveland, Ohio 44106 Tel: (216) 368-5029 Fax: (216)-368-2801 E-mail: tekin@ces.cwru.edu Education PhD, CS , University of Alberta, Edmonton, Alberta, 1980.",
+    "link": [
+        "http://www.cs.ualberta.ca/",
+        "http://www.ualberta.ca/",
+        "http://www.ceng.metu.edu.tr"
+    ],
+    "ground_truth": "unknow"
+}

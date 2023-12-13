@@ -1,0 +1,10 @@
+{
+    "Title": "PDB REFERENCE MANUAL",
+    "Body": "Once the user has seleted a session in the Plan System Overview Window, they can create a VCR Window for that session either by selecting New VCR Window from the Debug menu, or by pressing the VCR button in the window itself.",
+    "link": [
+        "#Intro",
+        "#Runni",
+        "#Layou"
+    ],
+    "ground_truth": "other"
+}

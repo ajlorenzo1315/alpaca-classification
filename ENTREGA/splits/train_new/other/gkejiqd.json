@@ -1,0 +1,10 @@
+{
+    "Title": "CS 381K: Programming Assignments",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Monday, 06-Jan-97 20:24:10 GMT Content-Type: text/html Content-Length: 1015 Last-Modified: Friday, 21-Jul-95 20:29:04 GMT CS 381K: Programming Assignments CS 381K: Programming Assignments Programming assignments are to be done in Lisp; see Using Lisp on Local Machines.",
+    "link": [
+        "compuse.ps",
+        "lispeff.ps",
+        "emacs.ps"
+    ],
+    "ground_truth": "other"
+}

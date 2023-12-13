@@ -1,0 +1,10 @@
+{
+    "Title": "J.N. Wilson: Who is He, Really?",
+    "Body": "Gerhard Ritter and I have written the Handbook of Computer Vision Algorithms in Image Algebra .",
+    "link": [
+        "http://www.cis.ufl.edu/~jnw/my_picture.gif",
+        "mailto:jnw@cise.ufl.edu",
+        "http://www.cise.ufl.edu"
+    ],
+    "ground_truth": "faculty"
+}

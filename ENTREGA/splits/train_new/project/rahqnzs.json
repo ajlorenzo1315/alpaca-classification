@@ -1,0 +1,10 @@
+{
+    "Title": "College of Computing - Systems Research Group Home Page ",
+    "Body": "The architectural environment for facilitating the construction and use of interactive distributed and parallel applications is multigranular -- consisting of fine-grain SIMD machines, medium-grain MIMD machines, and coarse-grain mulitcomputers comprised of a farm of high-peformance workstations, all of which are interconnected via high speed networks.",
+    "link": [
+        "http://www.cc.gatech.edu/systems/cds/index.html",
+        "http://www.cc.gatech.edu/systems/newlab/index.html",
+        "http://www.cc.gatech.edu/systems/projects/DISTLABS/"
+    ],
+    "ground_truth": "project"
+}

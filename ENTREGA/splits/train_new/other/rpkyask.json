@@ -1,0 +1,9 @@
+{
+    "Title": "EECS 498-2 Assignment 3",
+    "Body": "If bugs are found in the Arcade Package we will announce them in class and on the class webpage.",
+    "link": [
+        "http://ai.eecs.umich.edu/classes/498-2/AP/",
+        "http://ai.eecs.umich.edu/classes/498-2/AP/"
+    ],
+    "ground_truth": "other"
+}

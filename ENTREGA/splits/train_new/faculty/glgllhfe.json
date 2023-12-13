@@ -1,0 +1,10 @@
+{
+    "Title": " Larry E. Travis' Home Page ",
+    "Body": "Date: Wed, 06 Nov 1996 16:41:49 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Sat, 12 Nov 1994 20:39:53 GMT Content-length: 3092 Larry E. Travis' Home Page Larry E. Travis Professor Computer Sciences Department University of Wisconsin 1210 W. Dayton St. Madison, WI  53706-1685 E-mail: travis@cs.wisc.edu Telephone: (608) 262-6587 Fax: (608) 262-9777 Ph.D., University of Californa, Los Angeles, 1966 Interests: Expert systems, non-procedural control of automatic deduction, computer support for understanding complex data, philosophical foundations of artificial intelligence, computing management, social implications of computing.",
+    "link": [
+        "http://www.cs.wisc.edu/cgi-bin/finger?travis",
+        "http://www.cs.wisc.edu/~so//~ohare/ohare.html",
+        "http://www.cs.wisc.edu/~so//~so/so.html"
+    ],
+    "ground_truth": "faculty"
+}

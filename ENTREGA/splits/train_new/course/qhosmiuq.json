@@ -1,0 +1,10 @@
+{
+    "Title": "User Interfaces Home Page",
+    "Body": "Date: Tue, 26 Nov 1996 18:47:50 GMT Server: NCSA/1.4.1 Content-type: text/html Last-modified: Wed, 17 Apr 1996 22:54:46 GMT Content-length: 3929 User Interfaces Home Page User Interfaces G22.2280 Wednesday 7:00 - 9:00 PM Room 109, Warren Weaver Hall Professor Jonathan Amsterdam Email amsterdam@cs.nyu.edu Phone: (212) 998-3084 Office: 426 Warren Weaver Hall Office hours: 4 PM - 6 PM Wednesday, or by appointment Teaching Assistants Xiangui Duan Email: xianghui@cs.nyu.edu Office: 1002, 715 Broadway Phone: 998-3295 Office Hours: Thursday 3-5 Ji-Ae Shin Email: jiae@cs.nyu.edu Office: 511 WWH Phone: 998-3379 Office hours: Thursday 6:30-8 Po-Yu Chen Email: chenpo@cs.nyu.edu Office: 511 WWH Phone: 998-3379 Office hours: Friday 2-4 Assignments #1 (due Feb. 14) #2 (due Feb. 14) #3 (due Feb. 28) #4 (due Mar.",
+    "link": [
+        "mailto:amsterdam@cs.nyu.edu",
+        "mailto:xianghui@cs.nyu.edu",
+        "mailto:jiae@cs.nyu.edu"
+    ],
+    "ground_truth": "course"
+}

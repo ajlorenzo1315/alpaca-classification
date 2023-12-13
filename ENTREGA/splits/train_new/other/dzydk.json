@@ -1,0 +1,9 @@
+{
+    "Title": "Homework #1 Solutions",
+    "Body": "Cost effectiveness can be measured in the numbers of executions per second per dollar of machine cost: executions per second per dollar = executions per second per dollar for S1  = executions per second per dollar for S2 dollars = So System 2 is more cost effective.",
+    "link": [
+        "match.ps",
+        "sim.ps"
+    ],
+    "ground_truth": "other"
+}

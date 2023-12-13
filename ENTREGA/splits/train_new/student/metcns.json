@@ -1,0 +1,10 @@
+{
+    "Title": "Welcome to my homepage.",
+    "Body": "Date: Tue, 26 Nov 1996 17:54:14 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Sun, 18 Feb 1996 21:31:23 GMT Content-length: 658 Welcome to my homepage.",
+    "link": [
+        "http://www.cs.pitt.edu/",
+        "http://www.pitt.edu/",
+        "http://www.cs.pitt.edu/~dong/M10.html"
+    ],
+    "ground_truth": "student"
+}

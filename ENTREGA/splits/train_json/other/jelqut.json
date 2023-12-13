@@ -1,0 +1,5 @@
+{
+    "Título": "CS 302 Fall 1996 - Section 2 Program Grades",
+    "Cuerpo": "Date: Mon, 11 Nov 1996 17:04:43 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Wed, 06 Nov 1996 04:43:25 GMT Content-length: 877 CS 302 Fall 1996 - Section 2 Program Grades CS 302 Fall 1996 - Section 2 Program Grades ID #\tProg1\tProg2\tProg3\tProg4\tProg5 9926\t100\t 88\t 98\t  0 2358\t100\t 93\t 86\t 68\t 77 4366\t100\t 95\t 20\t 55\t 52 6591\t100\t 97\t 95\t 88\t 95 7326\t100\t 99\t100\t100\t 97 1315\t100\t 95\t 91\t100\t 91 6934\t100\t 89\t 77\t 96\t 93 6741\t100\t100\t 92\t 95\t 90 3412\t 55\t 87\t 76\t 80\t 95 3420\t100\t 96\t 97\t100\t 93 6297\t100\t 87\t 75\t 45\t 58 0927\t100\t100\t 94\t100\t 93 3546\t100\t 92\t 95\t 90\t100 2315\t100\t 99\t 86\t100\t 98 4742\t100\t 85\t 75\t 98\t 95 2947\t100\t 85\t 89\t 98\t 85 6636\t100\t  0\t 36\t 60\t 55 0639\t100\t 99\t 65\t  0\t  0 6916\t 55\t 87\t 67\t 88\t 87 4293\t 70\t 90\t 89\t 98\t 92 6344\t100\t 90\t 58\t 95\t 95 2313\t100\t 96\t100\t100\t100 7647\t100\t 85\t  0\t  0\t  0 1959\t 60\t 20\t 94\t  0\t 69 Max:\t100\t100 \t100\t100\t100 Mean: \t 94\t 88\t 75\t 85",
+    "ground_truth": "other"
+}

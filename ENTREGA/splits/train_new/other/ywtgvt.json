@@ -1,0 +1,10 @@
+{
+    "Title": " Doug Burger's Research Page ",
+    "Body": "I am also involved with a beginning effort to evaluate the performance of the Scalable Coherent Interface by directly comparing it with an implementation of the Typhoon protocol processor, through simulation on the Wisconsin Wind Tunnel.",
+    "link": [
+        "http://www.cs.wisc.edu/~arch/uwarch",
+        "http://www.cs.washington.edu/homes/lazowska/cra",
+        "http://www.cs.wisc.edu/~galileo/"
+    ],
+    "ground_truth": "other"
+}

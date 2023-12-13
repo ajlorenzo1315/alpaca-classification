@@ -1,0 +1,10 @@
+{
+    "Title": "Courant Mathematics and Computing Laboratory ",
+    "Body": "The third component of the CMCL involves the mathematical analysis of the phenomenology of nonlinear conservation laws and incompressible flow.",
+    "link": [
+        "http://www.doe.gov/html/home.html",
+        "http://www.math.nyu.edu/faculty/lax/index.html",
+        "http://cs.nyu.edu/cs/faculty/berger/index.html"
+    ],
+    "ground_truth": "project"
+}

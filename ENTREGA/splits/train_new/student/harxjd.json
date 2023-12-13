@@ -1,0 +1,10 @@
+{
+    "Title": "Xin Bao's Home Page",
+    "Body": "Currently, I am a graduate student in the Department of Computer Science at University of California, Riverside .",
+    "link": [
+        "http://www.cs.ucr.edu/~bao/Special/poem1.jpg",
+        "http://www.cs.ucr.edu/~bao/Special/poem2.jpg",
+        "http://www.cs.ucr.edu/~bao/Special/poem3.jpg"
+    ],
+    "ground_truth": "student"
+}

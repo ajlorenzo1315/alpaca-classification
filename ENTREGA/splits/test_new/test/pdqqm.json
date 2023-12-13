@@ -1,0 +1,10 @@
+{
+    "Title": " Online Tech Reports",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Sunday, 24-Nov-96 23:07:58 GMT Content-Type: text/html Content-Length: 1711 Last-Modified: Tuesday, 24-Oct-95 13:56:23 GMT Online Tech Reports Online Papers (Richard S. Palmer) IMACS-94 -- Physical Elements: Using chains and cell complexes to solve multiple domain PDE problems A brief description of how has been used to encode a Lax-Wendroff approximation to the 1D Euler Equations of fluid flow.",
+    "link": [
+        "home.html",
+        "tech-reports/imacs94.ps",
+        "tech-reports/TR94-1406.ps"
+    ],
+    "ground_truth": "unknow"
+}

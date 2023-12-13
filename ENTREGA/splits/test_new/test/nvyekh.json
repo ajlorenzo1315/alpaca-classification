@@ -1,0 +1,10 @@
+{
+    "Title": "\n\tNUS Dept. of Information Systems and Computer Science\n",
+    "Body": "Date: Tue, 26 Nov 1996 22:52:45 GMT Server: NCSA/1.5.2 Content-type: text/html NUS Dept.",
+    "link": [
+        "http://www.iscs.nus.sg/building.html",
+        "http://www.iscs.nus.sg/discs.html",
+        "http://www.iscs.nus.sg/tribute.html"
+    ],
+    "ground_truth": "unknow"
+}

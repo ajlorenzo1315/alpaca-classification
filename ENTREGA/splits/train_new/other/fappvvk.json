@@ -1,0 +1,8 @@
+{
+    "Title": "Submit Man Page",
+    "Body": "The submit program will submit the current due assignment if the -a is not specified.",
+    "link": [
+        "mailto:min@columbia.edu"
+    ],
+    "ground_truth": "other"
+}

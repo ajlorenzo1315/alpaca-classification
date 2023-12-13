@@ -1,0 +1,10 @@
+{
+    "Title": "Chaotic People",
+    "Body": "In 1993, a design team led by Kevin Bolding built the first Chaos Router chip with the help of lots of people, including Sen-Ching Cheung, Sung-Eun Choi , Carl Ebeling , Soha Hassoun , Ton Ngo, and Robert Wille.",
+    "link": [
+        "http://www.cs.indiana.edu/finger/gateway?chaos@cs.washington.edu",
+        "http://www.cs.washington.edu/",
+        "http://www.washington.edu/"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "CIIR Information Extraction Publications",
+    "Body": "Additional IE publications can be found in the full CIIR Bibliography.",
+    "link": [
+        "http://ciir.cs.umass.edu/info/ciirbiblo.html",
+        "http://ciir.cs.umass.edu/info/psfiles/tepubs/NLP_overview.ps",
+        "http://ciir.cs.umass.edu/info/psfiles/tepubs/symbolic_sub.ps"
+    ],
+    "ground_truth": "other"
+}

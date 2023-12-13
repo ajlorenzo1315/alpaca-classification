@@ -1,0 +1,10 @@
+{
+    "Title": "OCEANS: BibTex Database",
+    "Body": "@article{satyanarayanan:90a, author = \"M. Satyanarayanan and J. Kistler and P. Kumar and M. Okasaki and E. Siegel and D. Streere\", title = \"Coda: A Highly Available File System for Distributed Workstation Environments\", journal = \"IEEE Transactions on Computers\", year = \"1990\", volume = \"39\", number = \"4\", month = \"April\" }",
+    "link": [
+        "#publications",
+        "#techreports",
+        "#references"
+    ],
+    "ground_truth": "unknow"
+}

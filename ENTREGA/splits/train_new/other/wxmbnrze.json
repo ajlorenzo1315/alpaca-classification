@@ -1,0 +1,9 @@
+{
+    "Title": "\nIntroduction to News (using Netscape)\n",
+    "Body": "Keeping up with News When reading news in netscape, you will need to re-load a newsgroup's page from time to time to get new articles which have come in.",
+    "link": [
+        "news:uw-cs.courses.cse341",
+        "news:news.test"
+    ],
+    "ground_truth": "other"
+}

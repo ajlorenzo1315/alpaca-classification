@@ -1,0 +1,10 @@
+{
+    "Title": "No title",
+    "Body": "B. Jayaraman and D.A.",
+    "link": [
+        "http://www.cs.buffalo.edu/pub/WWW/LRG/Papers/plg2.ps",
+        "http://www.cs.buffalo.edu/pub/WWW/LRG/Papers/iclp95.ps",
+        "http://www.cs.buffalo.edu/pub/WWW/LRG/Papers/popl-bj.ps"
+    ],
+    "ground_truth": "other"
+}

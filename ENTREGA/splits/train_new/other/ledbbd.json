@@ -1,0 +1,10 @@
+{
+    "Title": "CSE 143 General Information",
+    "Body": "There will be 5 programming assignments .",
+    "link": [
+        "http://www.cs.washington.edu/people/faculty/chambers.html",
+        "mailto:cse143-instructor@cs.washington.edu",
+        "http://www.cs.washington.edu/homes/brad"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Some CAML Applets for your enjoyment",
+    "Body": "The applets below will only work if you're using the MMM browser.",
+    "link": [
+        "http://pauillac.inria.fr:80/csl",
+        "http://pauillac.inria.fr:80/~rouaix/mmm",
+        "../applets/wb.ml"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "David A. Karr",
+    "Body": "My dissertation work has concentrated on the formal specification and verification of the properties of Horus protocol layers.",
+    "link": [
+        "mailto:karr@cs.cornell.edu",
+        "http://www.cs.cornell.edu/",
+        "http://www.cornell.edu/"
+    ],
+    "ground_truth": "unknow"
+}

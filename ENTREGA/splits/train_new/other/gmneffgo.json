@@ -1,0 +1,8 @@
+{
+    "Title": " JPEG Encoding Using Perceptual Quality ",
+    "Body": "At this point, the DCT coefficients are input to the perceptual model which generates the data dependent quantization table for that block.",
+    "link": [
+        "paper.ps"
+    ],
+    "ground_truth": "other"
+}

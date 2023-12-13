@@ -1,0 +1,10 @@
+{
+    "Title": " Steve Reinhardt's Home Page ",
+    "Body": "Date: Thu, 07 Nov 1996 19:14:16 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Fri, 07 Jun 1996 18:25:15 GMT Content-length: 1337 Steve Reinhardt's Home Page Steven K. Reinhardt I'm a graduate student in computer architecture , working in the Wisconsin Wind Tunnel group .",
+    "link": [
+        "http://www.cs.wisc.edu/~arch/uwarch",
+        "http://www.cs.wisc.edu/~wwt",
+        "http://www.cs.wisc.edu/~david/david.html"
+    ],
+    "ground_truth": "student"
+}

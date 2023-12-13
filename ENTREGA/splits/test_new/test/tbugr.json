@@ -1,0 +1,10 @@
+{
+    "Title": "Mike's Page",
+    "Body": "This guy's got a dog that has my last name.",
+    "link": [
+        "http://www.cs.cornell.edu/Info/Poeple/mkorby/guest.html",
+        "http://www.ausys.se/weather/weather.exe?medium+eng",
+        "http://www.cs.cornell.edu/Info/Poeple/mkorby/vote.html"
+    ],
+    "ground_truth": "unknow"
+}

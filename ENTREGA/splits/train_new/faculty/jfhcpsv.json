@@ -1,0 +1,10 @@
+{
+    "Title": "Michael Wellman's Homepage",
+    "Body": "The Journal of Artificial Intelligence Research is an electronic academic journal covering all areas of Artificial Intelligence.",
+    "link": [
+        "http://www.umich.edu/",
+        "http://www.eecs.umich.edu/",
+        "http://www.engin.umich.edu/college/"
+    ],
+    "ground_truth": "faculty"
+}

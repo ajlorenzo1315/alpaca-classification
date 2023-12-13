@@ -1,0 +1,10 @@
+{
+    "Title": "CSE 557 Home Page",
+    "Body": "This is the World Wide Web hypermedia document for CSE 557, which contains a wealth of information about the class.",
+    "link": [
+        "#help",
+        "http://www.cs.washington.edu/education/courses/557/95a/personnel.html",
+        "http://www.cs.washington.edu/education/courses/557/95a/syllabus.html"
+    ],
+    "ground_truth": "course"
+}

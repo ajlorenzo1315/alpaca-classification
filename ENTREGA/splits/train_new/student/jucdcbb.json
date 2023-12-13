@@ -1,0 +1,10 @@
+{
+    "Title": "Jay Spray's Home Page",
+    "Body": "Date: Tuesday, 26-Nov-96 03:05:36 GMT Server: NCSA/1.1 MIME-version: 1.0 Content-type: text/html Last-modified: Monday, 11-Nov-96 20:15:05 GMT Jay Spray's Home Page Welcome to Jay Spray's Home Page This page is a collection of some of my favorite links.",
+    "link": [
+        "http://www.cs.nmsu.edu/~jaspray/cars.html",
+        "http://www.cs.nmsu.edu/~jaspray/movies.html",
+        "http://www.cs.nmsu.edu/~jaspray/movies.html"
+    ],
+    "ground_truth": "student"
+}

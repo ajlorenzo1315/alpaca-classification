@@ -1,0 +1,10 @@
+{
+    "Title": "Information about Dr. Shi-Kuo Chang.",
+    "Body": "Date: Mon, 25 Nov 1996 23:22:35 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Wed, 23 Oct 1996 13:35:00 GMT Content-length: 1523 Information about Dr. Shi-Kuo Chang.",
+    "link": [
+        "http://www.cs.pitt.edu/~chang/images/chang2.tif",
+        "http://www.cs.pitt.edu/",
+        "http://www.pitt.edu/"
+    ],
+    "ground_truth": "faculty"
+}

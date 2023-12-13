@@ -1,0 +1,10 @@
+{
+    "Title": "Computer Science 161:  Operating Systems ",
+    "Body": "15 May 1996 There will be a review section for the Final Exam on Monday, 20 May, at 7pm, in Pierce 209.",
+    "link": [
+        "http://www.das.harvard.edu/users/faculty/Brad_Chen/Brad_Chen.html",
+        "http://www.deas.harvard.edu/cs/academics/courses/cs161/grade-distribution-1996.ps",
+        "http://www.deas.harvard.edu/cs/academics/courses/cs161/section.html"
+    ],
+    "ground_truth": "course"
+}

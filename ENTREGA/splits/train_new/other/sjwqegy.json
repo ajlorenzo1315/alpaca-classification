@@ -1,0 +1,10 @@
+{
+    "Title": "CS 302 Section 70 Lecture Notes - Week 9",
+    "Body": "READ(1, 100, END=150) SCORES(3) Store values in an array using the assignment statement , just like simple variables arrayname(subscript) = value",
+    "link": [
+        "http://www.cs.wisc.edu/~tick/cs302.html#text",
+        "http://www.cs.wisc.edu/~bestor/bestor.html",
+        "mailto:bestor@cs.wisc.edu"
+    ],
+    "ground_truth": "other"
+}

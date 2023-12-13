@@ -1,0 +1,10 @@
+{
+    "Title": " Travel ",
+    "Body": "Travel !",
+    "link": [
+        "http://www.itn.net/cgi/get?itn/index",
+        "http://wings.buffalo.edu/world/vt2",
+        "http://www.mapquest.com/"
+    ],
+    "ground_truth": "other"
+}

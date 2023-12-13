@@ -1,0 +1,10 @@
+{
+    "Title": "Resume",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Sunday, 01-Dec-96 20:09:13 GMT Content-Type: text/html Content-Length: 4565 Last-Modified: Monday, 21-Oct-96 18:27:20 GMT Resume Vineet M. Ahuja ahuja@cs.cornell.edu Current Address 2506 Hasbrouck Apartments Ithaca, NY 14850 (607)253-5497 Permanent Address A3/5th floor Botanic Terrace 3 Conduit Road Hong Kong (852) 25247839 Objective To obtain a permanent position as a software engineer.",
+    "link": [
+        "mailto:ahuja@cs.cornell.edu",
+        "http://www.cs.cornell.edu/Info/Courses/Current/CS481/CS481.html",
+        "http://www.cs.cornell.edu/Info/Courses/Spring-96/CS612/Materials/main.html"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Rebecca Passonneau's Home Page",
+    "Body": "Rainer Maria Rilke Rebecca Passonneau (Ph.D. in Linguistics, University of Chicago, 1985) works concurrently as a Research Scientist in the Department of Computer Science at Columbia University and as a Visiting Research Scientist in Bellcore's Applied Research Group .",
+    "link": [
+        "http://www.cs.columbia.edu/",
+        "http://www.cc.columbia.edu/",
+        "http://www.bellcore.com/tech_int.html"
+    ],
+    "ground_truth": "staff"
+}

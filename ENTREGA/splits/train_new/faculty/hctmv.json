@@ -1,0 +1,10 @@
+{
+    "Title": " Bruce E. Rosen",
+    "Body": "Computer Science (1986) Ph.D. Computer Science (1991) University of California, Los Angeles Areas of Interest Neural networks, stochastic function optimization, parallel pattern recognition systems, scientific and biomedical computing, time series analysis, numerical and combinatorial optimization problems, and human computer interaction.",
+    "link": [
+        "http://www.cs.utsa.edu/research/biomedcomp.html",
+        "http://www.cs.utsa.edu/faculty/decorrelate.ps",
+        "http://www.cs.utsa.edu/faculty/vfsr-net3.ps"
+    ],
+    "ground_truth": "faculty"
+}

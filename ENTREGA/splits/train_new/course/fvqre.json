@@ -1,0 +1,9 @@
+{
+    "Title": "Numerical Analysis",
+    "Body": "The main emphasis will be on developing effective numerical methods to solve problems in ordinary and partial differential equations.",
+    "link": [
+        "http://www.cs.dartmouth.edu/courseguide/undergrad/cs_5.html",
+        "http://www.cs.dartmouth.edu/courseguide/undergrad//"
+    ],
+    "ground_truth": "course"
+}

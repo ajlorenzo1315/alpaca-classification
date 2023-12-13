@@ -1,0 +1,10 @@
+{
+    "Title": "CSE 370 Home Page (Autumn 96)",
+    "Body": "This is the home page for the CSE 370 web which contains a whole bunch of useful information about the class.",
+    "link": [
+        "http://www.cs.washington.edu/education/courses/370/CurrentQtr//",
+        "mailto:cse370-webmaster@cs",
+        "http://www.cs.washington.edu/education/courses/370/CurrentQtr/messages/cse370-announce/"
+    ],
+    "ground_truth": "course"
+}

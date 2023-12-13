@@ -1,0 +1,10 @@
+{
+    "Title": "No title",
+    "Body": "These machines are available on an unscheduled basis, however, students should plan their time so that the labs can be completed in advance of the due date in order to avoid heavy use times.",
+    "link": [
+        "http://nebo.cs.byu.edu/~clement/clement.html",
+        "http://spock.et.byu.edu/~rob/cs143/cid.html",
+        "http://nebo.cs.byu.edu/~clement/cs143/help.html"
+    ],
+    "ground_truth": "course"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Chris Johnson's Home Page",
+    "Body": "Date: Thursday, 21-Nov-96 22:44:07 GMT Server: NCSA/1.3 MIME-version: 1.0 Content-type: text/html Last-modified: Tuesday, 10-Sep-96 21:32:30 GMT Content-length: 3880 Chris Johnson's Home Page Christopher Johnson's Somewhat, But Not Quite Original Home Page Work Institute for the Learning Sciences The place where I work as a graduate student as an advisee of Larry Birnbaum .",
+    "link": [
+        "http://www.ils.nwu.edu",
+        "http://www.ils.nwu.edu/~e_for_e/people/birnbaum.html",
+        "http://www.ils.nwu.edu/~johnson/mbhci.html"
+    ],
+    "ground_truth": "student"
+}

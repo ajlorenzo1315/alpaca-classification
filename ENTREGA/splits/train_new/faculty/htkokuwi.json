@@ -1,0 +1,10 @@
+{
+    "Title": " Susan Eggers ",
+    "Body": "Date: Thu, 21 Nov 1996 20:24:57 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Fri, 28 Jun 1996 22:07:49 GMT Content-length: 2653 Susan Eggers Susan Eggers http://www.cs.washington.edu/homes/eggers/ Department of Computer Science and Engineering University of Washington , Box 352350 Seattle, WA 98195-2350 USA Voice:  (206) 543-2118 Fax:    (206) 543-2969 email:   eggers@cs.washington.edu Office:   308 Sieg Hall Research Interests: Computer architecture and back-end compilation, with an emphasis on experimental performance analysis.",
+    "link": [
+        "http://www.cs.washington.edu/",
+        "http://www.cac.washington.edu/",
+        "http://www.cs.washington.edu/area/"
+    ],
+    "ground_truth": "faculty"
+}

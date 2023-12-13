@@ -1,0 +1,10 @@
+{
+    "Title": " Angelika's Homepage ",
+    "Body": "Also here are the homepages of the people I had the pleasure of working with.",
+    "link": [
+        "http://www.cs.nmsu.edu/~aerb/vaih.html",
+        "http://isun04.inf.uni-jena.de",
+        "http://www.cs.nmsu.edu/~aerb/cats.html"
+    ],
+    "ground_truth": "student"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "HCI Courses at Stanford",
+    "Body": "3-4 units (Winograd) Th 1:15-4:15 See Also... CS104.",
+    "link": [
+        "http://www.stanford.edu",
+        "http://www-pcd.stanford.edu/hci/index.html",
+        "http://www-pcd.stanford.edu/hci/degrees.html"
+    ],
+    "ground_truth": "unknow"
+}

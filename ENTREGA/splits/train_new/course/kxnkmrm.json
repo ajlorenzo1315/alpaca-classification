@@ -1,0 +1,10 @@
+{
+    "Title": "Foundations of Scientific Computing",
+    "Body": "C/Fortran and MATLAB programming for scientific computing.",
+    "link": [
+        "http://www.cs.ucsb.edu/~tyang",
+        "http://www.cs.ucsb.edu",
+        "http://www.ucsb.edu"
+    ],
+    "ground_truth": "course"
+}

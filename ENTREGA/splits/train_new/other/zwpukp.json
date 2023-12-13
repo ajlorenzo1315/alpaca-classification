@@ -1,0 +1,9 @@
+{
+    "Title": "A Programming Methodology for Disconnected Operation",
+    "Body": "Date: Tue, 10 Dec 1996 03:36:23 GMT Server: NCSA/1.4.2 Content-type: text/html A Programming Methodology for Disconnected Operation A Programming Methodology for Disconnected Operation This paper describes a programming methodology for disconnected operation that decreases the complexity of the programming process.",
+    "link": [
+        "./postscript/grovemef.ps",
+        "http://www.cs.washington.edu/homes/mef"
+    ],
+    "ground_truth": "other"
+}

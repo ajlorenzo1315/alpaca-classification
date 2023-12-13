@@ -1,0 +1,10 @@
+{
+    "Title": "Computer Science 635 Home Page",
+    "Body": "Date: Tuesday, 26-Nov-96 19:07:35 GMT Server: NCSA/1.3 MIME-version: 1.0 Content-type: text/html Computer Science 635 Home Page Introduction to Image Processing CS635 Here is the class histogram from exam 1 scores Course Information Course handouts Course calendar Homework assignments Lecture notes Class quizzes Interesting UK Links The Sunlab home page for information about the lab and its equipment Interesting External Links The Khoros home page for the data exploration and software development environment.",
+    "link": [
+        "http://www.dcs.uky.edu/~seales/cs635/fall96/general/exam1.hist.gif",
+        "http://www.dcs.uky.edu/~seales/cs635/fall96/info.html",
+        "http://www.dcs.uky.edu/~seales/cs635/fall96/cal.html"
+    ],
+    "ground_truth": "course"
+}

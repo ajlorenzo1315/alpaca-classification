@@ -1,0 +1,10 @@
+{
+    "Title": "Yale University Computer Science Department Overview",
+    "Body": "Special Web Pages CSCF - Computer Science Department Computing Facility SPAM - Systems Personal Activity Meeting TAP - The Ada Project ZOO - Undergraduate CS/EAS Computing Lab Internet Computer Science Resources Technical Report Indexes and Servers DIENST ( ARPA/CNRI Computer Science Technical Reports Server ) at Cornell.",
+    "link": [
+        "http://www.cs.yale.edu/HTML/YALE/CS/HyPlans/hupfer/watson-story.html",
+        "http://www.cs.yale.edu/HTML/YALE/CS/Brochure/brochure.html",
+        "mailto:Root@CS.Yale.EDU"
+    ],
+    "ground_truth": "unknow"
+}

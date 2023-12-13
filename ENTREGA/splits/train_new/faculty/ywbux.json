@@ -1,0 +1,10 @@
+{
+    "Title": "Home Page for Paul R. Wilson ",
+    "Body": "Research Information I lead the OOPS Research Group in the Department of Computer Sciences at The University of Texas at Austin .",
+    "link": [
+        "mailto:wilson@cs.utexas.edu",
+        "http://www.cs.utexas.edu/users/oops/",
+        "http://www.cs.utexas.edu/users/wilson//"
+    ],
+    "ground_truth": "faculty"
+}

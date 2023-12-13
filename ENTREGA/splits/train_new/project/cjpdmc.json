@@ -1,0 +1,10 @@
+{
+    "Title": "DEMO",
+    "Body": "Massively Parallel Neural Networks The MP2 is used for collective action by small neural networks, and for evolution across network architectures.",
+    "link": [
+        "http://www.cs.brandeis.edu/~agents",
+        "http://www.demo.cs.brandeis.edu/demofolk.gif",
+        "http://www.cs.brandeis.edu/~pollack"
+    ],
+    "ground_truth": "project"
+}

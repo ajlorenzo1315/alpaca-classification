@@ -1,0 +1,8 @@
+{
+    "Title": "CSE370 Syllabus",
+    "Body": "Course Syllabus Introduction to modern digital logic design Combinational logic Switch logic and basic gates Boolean algebra Two-level logic Regular logic structures Multi-level networks and transformations Programmable logic devices Time response Case studies Sequential logic Networks with feedback Basic latches and flip-flops Timing methodologies Registers and counters Programmable logic devices Case studies Finite state machine design Concepts of FSMs Basic design approach Specification methods State minimization State encoding FSM partitioning Implementation of FSMs Programmable logic devices Case studies Elements of computers Arithmetic circuits Arithmetic and logic units Register and bus structures Controllers/Sequencers Microprogramming Computer-aided design tools for logic design Schematic entry State diagram entry Hardware description language entry Compilation to logic networks Simulation Mapping to programmable logic devices Practical topics Non-gate logic Asynchronous inputs and metastability Memories: RAM and ROM Implementation technologies Comments to: cse370-webmaster@cs.washington.edu (Last Update: 10/28/96 )",
+    "link": [
+        "mailto:cse370-webmaster@cs"
+    ],
+    "ground_truth": "other"
+}

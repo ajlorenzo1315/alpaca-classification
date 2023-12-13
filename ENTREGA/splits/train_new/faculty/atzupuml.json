@@ -1,0 +1,10 @@
+{
+    "Title": "Boumediene Belkhouche's Home Page",
+    "Body": "Some Publications CS 362/673: Theory: Solutions to test 1 Object-Oriented Analysis: Object-oriented Analysis of Informal Software Requirements Object-Oriented Analysis: Knowledge-base Object-oriented Analysis Semantics of Concurrency: Branching Time Semantics of the Ada Rendezvous Semantics of Concurrency: Denotational and Operational Semantics the Ada Rendezvous Prototyping: Formal Prototyping of Concurrent Systems Prototyping: Prototyping of Abstract Data Types Language Evaluation: Comparison of Ada and Modula-2 Operational Semantics: Contour Model Semantics of Pascal Algorithm Analysis: Minimal Height Trees bb@cs.tulane.edu NEW ORLEANS Islamic Sources .",
+    "link": [
+        "ftp://juno.cs.tulane.edu/pub/bb",
+        "ftp://juno.cs.tulane.edu/pub/bb/t1sol.ps",
+        "ftp://juno.cs.tulane.edu/pub/bb/oora.ps"
+    ],
+    "ground_truth": "faculty"
+}

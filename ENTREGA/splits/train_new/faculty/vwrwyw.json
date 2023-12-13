@@ -1,0 +1,10 @@
+{
+    "Title": "Scott E. Hudson Information Page",
+    "Body": "He earned his Ph.D. in computer science at the University of Colorado in 1986.",
+    "link": [
+        "http://www.cc.gatech.edu/gvu/gvutop.html",
+        "http://www.cc.gatech.edu/Computing.html",
+        "http://www.gatech.edu/TechHome.html"
+    ],
+    "ground_truth": "faculty"
+}

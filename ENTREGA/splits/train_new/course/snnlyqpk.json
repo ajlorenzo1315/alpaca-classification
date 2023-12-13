@@ -1,0 +1,10 @@
+{
+    "Title": "CS182",
+    "Body": "Partial-Order Planning: The Basics A Sampling of AI on the WWW Course Tools Common Lisp HyperSpec The UCPOP planner Otter: An Automated Deduction System Some Interesting Sites CMU Artificial Intelligence Repository The Association of Lisp Users Journal of Artificial Intelligence Research MIT Artificial Intelligence Laboratory Home Page General Information AI Related Information Artificial Intelligence Resources If you have questions about the content of this page, please contact Bree Horwitz .",
+    "link": [
+        "http://www.deas.harvard.edu/users/faculty/Grosz/grosz.html",
+        "http://www.math.Harvard.edu/~luke/homepage.html",
+        "http://www.deas.harvard.edu/users/students/Wheeler_Ruml/Wheeler_Ruml.html"
+    ],
+    "ground_truth": "course"
+}

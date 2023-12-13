@@ -1,0 +1,10 @@
+{
+    "Title": "CSE 373 TA Information",
+    "Body": "Date: Tue, 10 Dec 1996 16:48:28 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Fri, 11 Oct 1996 06:46:58 GMT Content-length: 605 CSE 373 TA Information CSE 373 TA Information Oct 2, 1996: TA Handout #1 , which includes information about TA office hours, location, contacts, etc.",
+    "link": [
+        "CSE373-handout1.html",
+        "CSE373-office-hours-change.html",
+        "CSE373-handout2.html"
+    ],
+    "ground_truth": "other"
+}

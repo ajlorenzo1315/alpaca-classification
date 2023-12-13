@@ -1,0 +1,6 @@
+{
+    "Title": " CS 736 Tentative Schedule (Spring 96)",
+    "Body": "Date: Mon, 11 Nov 1996 17:32:52 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Sat, 16 Mar 1996 00:52:31 GMT Content-length: 3041 CS 736 Tentative Schedule (Spring 96) CS 736 Tentative Schedule (Spring 96) 1/23 : Introduction; ``The Nucleus of a Multiprogramming System''; 1/25 : ``Fundamental Concepts in MS-DOS''; 1/30 : ``Communicating Sequential Processes''; ''Monitors :  An Operating System Structuring Concept''; ``On the Duality of Operating System Structures''; 2/1 : ``Experiences with Processes and Monitors in Mesa''; ``An Introduction to Programming with Threads''; 2/6 : ``The UNIX Timesharing System''; 2/8 : ``Pilot: An Operating System for a Personal Computer''; 2/13 : '`Virtual Memory Management in VAX/VMS''; ``Converting a Swap-Based System to do Paging in an Architecture Lacking Page-Reference Bits''; 2/15 : ``Condor: Utilizing Idle Workstation Resources'';  Guest lecture by Professor Miron Livny.",
+    "link": [],
+    "ground_truth": "other"
+}

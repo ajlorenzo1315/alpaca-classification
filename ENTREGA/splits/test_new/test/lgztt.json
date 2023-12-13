@@ -1,0 +1,10 @@
+{
+    "Title": "Jeff Dean",
+    "Body": "Part of the work on Vortex has been to develop ways of structuring optimization passes to permit this kind of composition while still allowing the passes to be developed largely independently of each other.",
+    "link": [
+        "http://www.eff.org/blueribbon.html",
+        "http://www.cs.washington.edu/",
+        "ftp://ftp.u.washington.edu/public/"
+    ],
+    "ground_truth": "unknow"
+}

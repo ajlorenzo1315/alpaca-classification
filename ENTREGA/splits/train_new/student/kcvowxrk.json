@@ -1,0 +1,10 @@
+{
+    "Title": "Bo Wilson's Web",
+    "Body": "My BS was in Physics and I am now in the masters program in Computer Science.",
+    "link": [
+        "http://wugrav.wustl.edu/Num_Rel/num_rel.html",
+        "http://jean-luc.ncsa.uiuc.edu/",
+        "http://www.sas.upenn.edu/~smfriedm/einstein.html"
+    ],
+    "ground_truth": "student"
+}

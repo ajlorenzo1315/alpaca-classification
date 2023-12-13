@@ -1,0 +1,10 @@
+{
+    "Title": "The Proteus Project",
+    "Body": "Date: Tue, 26 Nov 1996 00:11:18 GMT Server: NCSA/1.4.1 Content-type: text/html Last-modified: Thu, 07 Nov 1996 02:07:51 GMT Content-length: 6158 The Proteus Project The Proteus Project Department of Computer Science New York University Office: 715 Broadway, 7th floor, New York, NY 10003 USA Phone: (212) 998-3497 Fax No: (212) 995-4123 Research Goals The Proteus Project is a project of research and development in natural language processing, conducted in the Department of Computer Science, New York University, under the direction of Prof. Ralph Grishman .",
+    "link": [
+        "http://cs.nyu.edu/",
+        "http://www.nyu.edu/",
+        "http://cs.nyu.edu/cs/faculty/grishman"
+    ],
+    "ground_truth": "unknow"
+}

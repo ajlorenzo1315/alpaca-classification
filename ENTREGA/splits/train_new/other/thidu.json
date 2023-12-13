@@ -1,0 +1,10 @@
+{
+    "Title": "CS631 Course Information",
+    "Body": "Remember: it is just as hard to do uninteresting research as it is to do interesting research.",
+    "link": [
+        "#2",
+        "#3",
+        "#4"
+    ],
+    "ground_truth": "other"
+}

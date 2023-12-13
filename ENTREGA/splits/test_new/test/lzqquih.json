@@ -1,0 +1,10 @@
+{
+    "Title": "The DIMSUM Project",
+    "Body": "Date: Wed, 20 Nov 1996 19:41:40 GMT Server: Apache-SSL/0.4.3b Content-type: text/html Content-length: 3864 Last-modified: Mon, 16 Sep 1996 11:30:26 GMT The DIMSUM Project - D I M S U M - D istributed I nformation M anagement S ystems at the U niversity of M aryland he DIMSUM project is developing a flexible distributed database architecture that can adjust to a wide range of application, system, and network properties.",
+    "link": [
+        "http://www.cs.umd.edu/projects/dimsum/overview/",
+        "http://www.cs.umd.edu/projects/dimsum/overview/",
+        "http://www.cs.umd.edu/projects/dimsum/members/"
+    ],
+    "ground_truth": "unknow"
+}

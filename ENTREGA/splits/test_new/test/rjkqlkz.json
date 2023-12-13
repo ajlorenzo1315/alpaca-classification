@@ -1,0 +1,10 @@
+{
+    "Title": "CS 304P: Foundations of Computer Science",
+    "Body": "This section of CS 304P is intended for CS majors who have had at least a semester of programming in high school; the course number will be changed to CS 306 next year.",
+    "link": [
+        "http://www.cs.utexas.edu/users/novak/cs304psyllabus.html",
+        "file://ftp.cs.utexas.edu/pub/novak/cs304p/",
+        "http://www.cs.utexas.edu/users/novak/schemepc.gif"
+    ],
+    "ground_truth": "unknow"
+}

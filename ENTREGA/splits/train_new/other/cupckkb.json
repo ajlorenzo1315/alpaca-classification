@@ -1,0 +1,10 @@
+{
+    "Title": " Prerequisites",
+    "Body": "If you are not familiar with even C, you should not be in this course.",
+    "link": [
+        "http://www.cs.wisc.edu/~cs564-1/info/node3.html",
+        "http://www.cs.wisc.edu/~cs564-1/cs564.html",
+        "http://www.cs.wisc.edu/~cs564-1/info/node1.html"
+    ],
+    "ground_truth": "other"
+}

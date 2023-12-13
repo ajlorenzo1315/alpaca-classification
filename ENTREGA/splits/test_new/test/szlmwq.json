@@ -1,0 +1,9 @@
+{
+    "Title": "Etch Overview",
+    "Body": "For example, Etch may rewrite the original binary to change the layout of data or code in order to improve cache or virtual memory performance.",
+    "link": [
+        "http://etch.eecs.harvard.edu/traces/index.html",
+        "mailto:etch-info@cs.washington.edu"
+    ],
+    "ground_truth": "unknow"
+}

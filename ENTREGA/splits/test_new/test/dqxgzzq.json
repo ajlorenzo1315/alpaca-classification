@@ -1,0 +1,10 @@
+{
+    "Title": "Lionel Woog's Home Page",
+    "Body": "Date: Thu, 21 Nov 1996 23:47:28 GMT Server: NCSA/1.4.1 Content-type: text/html Last-modified: Wed, 29 May 1996 20:06:47 GMT Content-length: 1647 Lionel Woog's Home Page Welcome to Lionel Woog's Home Page Lionel Woog Yale University Department of Computer Science 51 Prospect st. New Haven, CT 06520 USA woog-lionel@cs.yale.edu Here are some examples of work done with my advisor Dr. R.R.",
+    "link": [
+        "http://www.cs.yale.edu/HTML/YALE/CS/HyPlans/woog/Welcome.aiff",
+        "mailto:woog-lionel@cs.yale.edu",
+        "ftp://skadi.cs.yale.edu/pub/movies/dirty%20heart.mov"
+    ],
+    "ground_truth": "unknow"
+}

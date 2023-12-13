@@ -1,0 +1,10 @@
+{
+    "Title": "Implementation of Dynamic Superpage Management",
+    "Body": "We explored several policies that adapt the page size dynamically to different regions of an application's address space, constructing superpages by copying the component pages to a contiguous region of memory.",
+    "link": [
+        "mailto:romer@cs.washington.edu",
+        "http://www/homes/ohlrich",
+        "http://www/homes/karlin"
+    ],
+    "ground_truth": "other"
+}

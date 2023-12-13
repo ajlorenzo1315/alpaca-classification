@@ -1,0 +1,10 @@
+{
+    "Title": "Protocol Service Decomposition for Scalable Multiprocessors",
+    "Body": "The key observation behind our strategy is that an application's interface to the network is distinct and separable from its interface to the operating system.",
+    "link": [
+        "ftp://cs.cmu.edu/afs/cs/project/mach/public/doc/published/user.level.protocols.ps",
+        "http://www.ccsf.caltech.edu/~jpool/SIO/SIO.html",
+        "ftp://cs.cmu.edu/afs/cs/project/mach/public/doc/published/user.level.protocols.ps"
+    ],
+    "ground_truth": "other"
+}

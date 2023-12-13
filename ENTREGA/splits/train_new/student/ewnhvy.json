@@ -1,0 +1,10 @@
+{
+    "Title": "Sougata Mukherjea Information Page",
+    "Body": "His dissertation was concerned with developing strategies for efficient visualization of the information space of hypermedia systems.",
+    "link": [
+        "http://www.cc.gatech.edu/gvu/gvutop.html",
+        "http://www.cc.gatech.edu/Computing.html",
+        "http://www.gatech.edu/TechHome.html"
+    ],
+    "ground_truth": "student"
+}

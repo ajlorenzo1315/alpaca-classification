@@ -1,0 +1,10 @@
+{
+    "Title": "Ed Gunsch's Slice of the Net",
+    "Body": "Date: Tue, 26 Nov 1996 17:49:16 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Mon, 08 Jul 1996 19:18:22 GMT Content-length: 4566 Ed Gunsch's Slice of the Net Ed Gunsch egunsch@cs.unm.edu Welcome to my humble abode.",
+    "link": [
+        "http://www.cs.unm.edu/~egunsch/text/my_key.txt",
+        "http://www.cs.unm.edu/~egunsch/contact.html",
+        "http://www.cs.unm.edu/~egunsch/finger_info.txt"
+    ],
+    "ground_truth": "unknow"
+}

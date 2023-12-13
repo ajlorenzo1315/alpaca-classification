@@ -1,0 +1,10 @@
+{
+    "Title": " Sriram Rao - Home Page ",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Monday, 06-Jan-97 19:31:12 GMT Content-Type: text/html Content-Length: 2933 Last-Modified: Monday, 09-Sep-96 16:26:56 GMT Sriram Rao - Home Page Sriram Rao Current Research: Involved in the design/implementation of a Multimedia File System Operating Systems support for Multimedia I am working in the Multimedia Group at the Computer Sciences Department , The University of Texas at Austin.",
+    "link": [
+        "http://www.cs.utexas.edu/users/dmcl",
+        "http://www.cs.utexas.edu/",
+        "http://wwwhost.cc.utexas.edu/"
+    ],
+    "ground_truth": "student"
+}

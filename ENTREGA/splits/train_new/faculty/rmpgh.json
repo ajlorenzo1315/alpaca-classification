@@ -1,0 +1,10 @@
+{
+    "Title": " Jean Herbst Home Page ",
+    "Body": "Background: Prior to coming to Wellesley College, I worked in industry for a number of years, in a variety of engineering capacities, but primarily as a Software Engineer working with embedded systems.",
+    "link": [
+        "http://www.wellesley.edu/CS/cshome.html",
+        "http://www.wellesley.edu/CS/classes.html#CS110",
+        "http://www.wellesley.edu/CS/classes.html#CS240"
+    ],
+    "ground_truth": "faculty"
+}

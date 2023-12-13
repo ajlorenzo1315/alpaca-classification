@@ -1,0 +1,10 @@
+{
+    "Title": "Fiction Page",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Monday, 06-Jan-97 22:00:35 GMT Content-Type: text/html Content-Length: 1323 Last-Modified: Wednesday, 30-Aug-95 18:50:44 GMT Fiction Page Fiction This page contains random comments on various things I have read, generally fiction, although there may be some non-fiction thrown in at some point, or at least references to it.",
+    "link": [
+        "\nhttp://www.cs.utexas.edu/users/dastuart/gmdir\n",
+        "http://www.cs.utexas.edu/users/dastuart/fictiondir/read.html",
+        "http://www.cs.utexas.edu/users/dastuart/fictiondir/\nseadir/\n"
+    ],
+    "ground_truth": "unknow"
+}

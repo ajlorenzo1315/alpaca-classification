@@ -1,0 +1,10 @@
+{
+    "Title": " Course Description -- Topics in Geometric Modeling ",
+    "Body": "In the latter part of the course Students will be required to summarize and present one recent research paper related to geometric modeling, and to devise and complete a programming project that builds upon any of the techniques covered in class.",
+    "link": [
+        "http://www.cs.caltech.edu/~arvo/",
+        "http://www.cs.caltech.edu/~ps/",
+        "http://www.cs.caltech.edu/~ps/TGM/projects/projects.html"
+    ],
+    "ground_truth": "unknow"
+}

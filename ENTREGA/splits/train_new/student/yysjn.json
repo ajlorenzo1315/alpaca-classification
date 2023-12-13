@@ -1,0 +1,10 @@
+{
+    "Title": "Jason's homepage",
+    "Body": "The Web Site of Love (MST3K) This is a canonical TV server .",
+    "link": [
+        "http://www.cs.umass.edu/~yanowitz/emacs/jmy-emacs-v0.95.tar.gz",
+        "http://www.cs.umass.edu/~yanowitz/emacs/",
+        "http://www.cs.umass.edu/~yanowitz/emacs/.emacs"
+    ],
+    "ground_truth": "student"
+}

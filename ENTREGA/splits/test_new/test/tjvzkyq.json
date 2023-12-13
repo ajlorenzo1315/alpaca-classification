@@ -1,0 +1,10 @@
+{
+    "Title": "Chuck Koelbel's Home Page",
+    "Body": "Since coming to Rice he has worked closely with K. Kennedy and others to apply his methods to the FORTRAN D compiler project.",
+    "link": [
+        "http://www.cs.rice.edu/~chk/contact.html",
+        "http://www.cs.rice.edu/~chk/pubs.html",
+        "http://www.cs.rice.edu/~chk/cv.html"
+    ],
+    "ground_truth": "unknow"
+}

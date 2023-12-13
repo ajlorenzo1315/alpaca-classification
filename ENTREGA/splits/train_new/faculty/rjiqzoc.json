@@ -1,0 +1,10 @@
+{
+    "Title": "Jerry Spinrad",
+    "Body": "Date: Mon, 25 Nov 1996 23:27:55 GMT Server: Apache/1.1.1 Content-type: text/html Content-length: 1264 Last-modified: Fri, 13 Oct 1995 15:13:49 GMT Jerry Spinrad Jerry Spinrad Associate Professor of Computer Science Vanderbilt University Nashville, TN 37235, USA My research interests are in the area of graph algorithms.",
+    "link": [
+        "http://www.vuse.vanderbilt.edu/~csinfo/cs.html",
+        "http://www.vanderbilt.edu",
+        "http://www.vuse.vanderbilt.edu/~spin/research.html"
+    ],
+    "ground_truth": "faculty"
+}

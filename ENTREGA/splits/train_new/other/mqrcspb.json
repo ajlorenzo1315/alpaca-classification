@@ -1,0 +1,10 @@
+{
+    "Title": " pPCx ",
+    "Body": "The basic framework for pPCx is Mehrotra 's predictor corrector interior point method for linear programming.",
+    "link": [
+        "http://www.mcs.anl.gov/home/otc/",
+        "http://www.mcs.anl.gov/",
+        "http://www.cs.cornell.edu/Info/People/coleman/coleman.html"
+    ],
+    "ground_truth": "other"
+}

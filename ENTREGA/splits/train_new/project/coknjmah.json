@@ -1,0 +1,10 @@
+{
+    "Title": "The AGASSIZ project",
+    "Body": "Date: Wed, 20 Nov 1996 20:02:29 GMT Server: Apache/1.1b3 Content-type: text/html The AGASSIZ project The primary goals of the Agassiz project are to study the architectural, compiler and machine organizational issues for high-performance computer systems, including both uniprocessors and multiprocessors, that exploit medium-grained and fine-grained parallelism.",
+    "link": [
+        "http://www.cs.umn.edu/Research/Agassiz/agassiz_name.html",
+        "http://www.nsf.gov",
+        "http://www.arpa.mil"
+    ],
+    "ground_truth": "project"
+}

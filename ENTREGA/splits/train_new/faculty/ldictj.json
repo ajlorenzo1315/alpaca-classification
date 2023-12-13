@@ -1,0 +1,10 @@
+{
+    "Title": "Carl Ebeling's home page",
+    "Body": "in Computer Science, Southern Illinois University, 1976; and a Ph.D. in Computer Science, Carnegie-Mellon University in 1986.",
+    "link": [
+        "http://www.cs.washington.edu/people/faculty//",
+        "http://www.cac.washington.edu:1183/",
+        "http://www.uwtc.washington.edu/Seagopher.html"
+    ],
+    "ground_truth": "faculty"
+}

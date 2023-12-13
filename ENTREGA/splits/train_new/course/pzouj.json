@@ -1,0 +1,10 @@
+{
+    "Title": "No title",
+    "Body": "We will also show how these theories can be applied in various branches of computer science.",
+    "link": [
+        "mailto:chung@cps.msu.edu",
+        "mailto:zhnagshu@cps.msu.edu",
+        "http://web.cps.msu.edu/~cps360/announce.html"
+    ],
+    "ground_truth": "course"
+}

@@ -1,0 +1,9 @@
+{
+    "Title": " BU CAS CS 525: Compiler Design---Syllabus ",
+    "Body": "There will also be a programming project which you will start by yourself, and finish in groups of 2--3; the project is to implement a small compiler for a subset of Pascal, using the compiler construction tools available in Unix (Lex and Yacc).",
+    "link": [
+        "http://www.cs.bu.edu/faculty/snyder/home.html",
+        "mailto:snyder@cs\""
+    ],
+    "ground_truth": "other"
+}

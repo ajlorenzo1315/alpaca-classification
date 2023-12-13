@@ -1,0 +1,10 @@
+{
+    "Title": "David Becker",
+    "Body": "Date: Thu, 21 Nov 1996 20:06:20 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Wed, 10 Jul 1996 20:43:42 GMT Content-length: 2070 David Becker David Becker Contact info | X marks my spot .",
+    "link": [
+        "http://www.cs.washington.edu/homes/becker/raft.jpeg",
+        "http://www.cs.washington.edu/homes/becker/contact.html",
+        "http://www.cs.washington.edu/homes/becker/map.gif"
+    ],
+    "ground_truth": "unknow"
+}

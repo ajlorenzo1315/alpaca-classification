@@ -1,0 +1,10 @@
+{
+    "Title": "Home Page: Greg Priest-Dorman",
+    "Body": "From the abstract \"The CES has been designed to be optimally suited for use in language engineering research and applications, in order to serve as a widely accepted set of encoding standards for European corpus work...The CES specifies a minimal encoding level that corpora must achieve to be considered standardized in terms of descriptive representation (marking of structural and typographic information) as well as general architecture (so as to be maximally suited for use in a text database).",
+    "link": [
+        "http://www.eff.org/blueribbon.html",
+        "http://www.trace.wisc.edu/world/world.html",
+        "http://www.cs.vassar.edu/~priestdo/OurChild.html"
+    ],
+    "ground_truth": "unknow"
+}

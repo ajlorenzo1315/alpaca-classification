@@ -1,0 +1,10 @@
+{
+    "Title": "Marvin L. Stein",
+    "Body": "Date: Thu, 21 Nov 1996 20:55:09 GMT Server: Apache/1.1b3 Content-type: text/html Marvin L. Stein Marvin L. Stein Professor Associate Department Head and Director of Graduate Studies Machine arithmetic, organization of programming systems.",
+    "link": [
+        "http://www.cs.umn.edu/footer.map",
+        "mailto:www@cs.umn.edu",
+        "http://www.cs.umn.edu/help"
+    ],
+    "ground_truth": "faculty"
+}

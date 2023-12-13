@@ -1,0 +1,10 @@
+{
+    "Title": " George Varghese's Home Page ",
+    "Body": "To look at a course outline for CS 564, please click here .",
+    "link": [
+        "http://www.wustl.edu",
+        "mailto:varghese@askew.wustl.edu",
+        "http://dworkin.wustl.edu/~varghese/vita.ps"
+    ],
+    "ground_truth": "faculty"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Homepage for Paul N. Hilfinger",
+    "Body": "Learning, Aotearoa, NZ Tech Corps General Berkeley links The Berkeley Computer Science Division Home Page Directions to campus and Soda Hall Paul N. Hilfinger Hilfinger@CS.Berkeley.EDU",
+    "link": [
+        "http://HTTP.CS.Berkeley.EDU/~hilfingr/undergrad-notes/undergrad-notes.html",
+        "http://HTTP.CS.Berkeley.EDU/~hilfingr/programming-contest/contest.html",
+        "http://HTTP.CS.Berkeley.EDU/~hilfingr/dist/index.html"
+    ],
+    "ground_truth": "faculty"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": " \nAtul Prakash's Home Page \n",
+    "Body": "Date: Mon, 25 Nov 1996 23:10:45 GMT Server: Apache/1.1-dev Content-type: text/html Set-Cookie: Apache=gs355832848963445901; path=/ Atul Prakash's Home Page Atul Prakash Associate Professor Research Interests: groupware systems, computer-supported cooperative work including group editors and distributed collaboratories, software engineering, workflow systems Project Associations: Use a Java-based Chat Room to leave me messages or Chat with me (or others!)",
+    "link": [
+        "http://lhasa.eecs.umich.edu/~aprakash/Chat_test.html",
+        "http://www.sils.umich.edu/UARC/HomePage.html",
+        "http://www.sils.umich.edu/~weymouth/Medical-Collab/index.html"
+    ],
+    "ground_truth": "faculty"
+}

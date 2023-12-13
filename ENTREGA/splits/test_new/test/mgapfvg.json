@@ -1,0 +1,10 @@
+{
+    "Title": "X Interface for Gnu Common Lisp",
+    "Body": "On-line Demonstration of Interactive X Graphics from Lisp.",
+    "link": [
+        "http://www.cs.utexas.edu/users/novak/cgi/xgcldemo",
+        "http://www.cs.utexas.edu/users/novak/cgi/drawdemo",
+        "http://www.cs.utexas.edu/users/novak/ice-cream.ps"
+    ],
+    "ground_truth": "unknow"
+}

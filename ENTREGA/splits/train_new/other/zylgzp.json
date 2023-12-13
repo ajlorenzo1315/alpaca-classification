@@ -1,0 +1,10 @@
+{
+    "Title": "Test and Experiment Whatever Curious",
+    "Body": "Date: Wed, 15 Jan 1997 01:46:07 GMT Server: NCSA/1.5 Content-type: text/html Test and Experiment Whatever Curious Image and Video Computing Java CGI Imagemaps CGI Fill-out forms Frames",
+    "link": [
+        "http://www.cs.bu.edu/students/grads/goodluck/test/IVC/Home.html",
+        "http://www.cs.bu.edu/students/grads/goodluck/test/java/Home.html",
+        "http://www.cs.bu.edu/students/grads/goodluck/test/imgmap/Home.html"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Interest",
+    "Body": "Here are something I want to try in the furture: Traveling to Europe I wanted to do this for a long time.",
+    "link": [
+        "http://www.cwi.nl:80/~jansteen/go/go.html",
+        "http://www.yahoo.com/Entertainment/Games/Card_Games/Bridge",
+        "http://www.yahoo.com/Recreation/Sports/Soccer/"
+    ],
+    "ground_truth": "other"
+}

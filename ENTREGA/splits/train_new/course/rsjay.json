@@ -1,0 +1,10 @@
+{
+    "Title": " CS401/501 Home Page ",
+    "Body": "Here are two suggested ways of doing this: enscript -2r -G -pfile.ps file.txt enscript -G -pfile.ps file.txt The first prints the files 2-up (good for source code).",
+    "link": [
+        "handouts",
+        "handouts/home.html#officeHours",
+        "lectures"
+    ],
+    "ground_truth": "course"
+}

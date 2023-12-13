@@ -1,0 +1,10 @@
+{
+    "Title": "Research Page",
+    "Body": "Date: Sun, 24 Nov 1996 23:06:09 GMT Server: NCSA/1.5 Content-type: text/html Research Page RESEARCH HOME PAGE My current research is involved with the modeling and simulation of multiphase flows.",
+    "link": [
+        "http://gear.mae.cornell.edu/jamal/res.pgim.html",
+        "http://gear.mae.cornell.edu/jamal/res.dns.html",
+        "http://gear.mae.cornell.edu/jamal/res.ibt.html"
+    ],
+    "ground_truth": "other"
+}

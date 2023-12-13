@@ -1,0 +1,10 @@
+{
+    "Title": "A Resolution Independent Video Language",
+    "Body": "They are: Graph restructuring: Combining or reordering nodes in the graph for speed Result-region calculation: Computing only the parts of an image that affect the output Direct transfer detection: Copying compressed data directly to the output when possible Image subgraph reuse: Sharing common subexpressions in the image graph Image caching: Caching images if they are needed later in the graph evaluation Image subdivision: Dividing large images into manageable pieces <-- The Rivl Interpreter <-- Table of Contents 4.",
+    "link": [
+        "http://www.cs.cornell.edu/Info/People/swartz/swartz.html",
+        "http://www.cs.cornell.edu/Info/Faculty/Brian_Smith.html",
+        "http://www.cs.cornell.edu/Info/Projects/zeno/rivl/rivl.html"
+    ],
+    "ground_truth": "other"
+}

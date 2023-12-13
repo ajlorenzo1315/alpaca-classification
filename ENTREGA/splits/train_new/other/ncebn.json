@@ -1,0 +1,10 @@
+{
+    "Title": " Interesting AI Demos and Projects ",
+    "Body": "JULIA (CMU) Netsumm - A text summarizer for Web pages (British Telecom) START Natural Language Question Answering (MIT) Ask English questions about the M.I.T.",
+    "link": [
+        "mailto:dyer@cs.wisc.edu",
+        "http://www-white.media.mit.edu/vismod/demos/ive/ive.html",
+        "http://www.ffly.com/"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Chateau 110",
+    "Body": "Date: Tue, 10 Dec 1996 21:34:29 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Fri, 04 Oct 1996 18:13:13 GMT Content-length: 1577 Chateau 110 Chateau 110 Occupants Adam Finkelstein Dave Grove Neal Lesh Ted Romer Mike Salisbury Sean Sandys Jonathan Shade Here's where we sit: Alumni Jeff Dean Anthony LaMarca Wayne Ohlrich Wildlife There's a squirrel or two living in the roof of the Chateau.",
+    "link": [
+        "http://www.cs.washington.edu/homes/map/chateau.html",
+        "http://www.cs.washington.edu/homes/adam",
+        "http://www.cs.washington.edu/homes/grove"
+    ],
+    "ground_truth": "unknow"
+}

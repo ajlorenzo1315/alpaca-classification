@@ -1,0 +1,10 @@
+{
+    "Title": " Miklos Csuros's Home Page ",
+    "Body": "Welcome to Miklós Csürös 's Home Page I am ... a Ph.D student at the Department of Computer Science , Yale University .",
+    "link": [
+        "http://www.cs.yale.edu/homes/csuros-miklos/HTML2.0/csuros-miklos.html",
+        "http://www.cs.yale.edu/homes/csuros-miklos/pic/myname.gif",
+        "http://www.cs.yale.edu/"
+    ],
+    "ground_truth": "unknow"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Declarative Logic Programming Research Project",
+    "Body": "You can download and try a preliminary version of the LOGOS programming language which is being implemented as a part of this project.",
+    "link": [
+        "http://www.cise.nsf.gov/cise/IRIS/DBEShome.html",
+        "http://www.cs.miami.edu:80/~stephen",
+        "http://www.cs.miami.edu:80/~janplaza"
+    ],
+    "ground_truth": "project"
+}

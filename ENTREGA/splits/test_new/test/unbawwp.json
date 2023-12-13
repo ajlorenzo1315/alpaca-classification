@@ -1,0 +1,10 @@
+{
+    "Title": "Timothy J. Harvey",
+    "Body": "His implementation of dominator calculation based on the algorithm by Cytron et al. is available by ftp.",
+    "link": [
+        "ftp://cs.rice.edu/public/preston/optimizer/shared.ps.gz",
+        "ftp://cs.rice.edu/public/preston/optimizer",
+        "ftp://cs.rice.edu/public/preston/optimizer"
+    ],
+    "ground_truth": "unknow"
+}

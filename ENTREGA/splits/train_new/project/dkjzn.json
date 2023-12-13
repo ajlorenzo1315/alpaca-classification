@@ -1,0 +1,10 @@
+{
+    "Title": "The Massively Scalar Compiler Group at Rice University",
+    "Body": "Mission The goals of the Massively Scalar Compiler Project are to develop new techniques in code optimization and code generation that represent real improvements over existing methods, to transfer this knowledge to industrial compiler groups in a way that enables them to quickly evaluate and deploy new methods, and to implement and distribute a laboratory compiler that can serve as a testbed for evaluating new techniques in code optimization and code generation.",
+    "link": [
+        "http://riceinfo.rice.edu",
+        "http://softlib.rice.edu/MSCP/problems.html",
+        "http://softlib.rice.edu/MSCP/nuweb.html"
+    ],
+    "ground_truth": "project"
+}

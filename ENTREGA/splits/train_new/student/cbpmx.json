@@ -1,0 +1,10 @@
+{
+    "Title": "Mark Anderson's Home Page",
+    "Body": "Date: Tue, 26 Nov 1996 00:14:29 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Fri, 10 May 1996 17:20:08 GMT Content-length: 2204 Mark Anderson's Home Page Mark Anderson Biographical Information Mark Anderson is a graduate student in the Department of Computer Science at Rice University Mr. Anderson received his B.S.",
+    "link": [
+        "http://www.cs.rice.edu/",
+        "http://www.rice.edu/",
+        "http://www.hmc.edu/"
+    ],
+    "ground_truth": "student"
+}

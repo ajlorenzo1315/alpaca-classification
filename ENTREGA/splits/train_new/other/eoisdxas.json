@@ -1,0 +1,10 @@
+{
+    "Title": " Program 0 ",
+    "Body": "For instance, the top few lines of your program might look something like this: // John Q. Doe   CS110 Section 7 // Program 0: Sample C++ Program After you have entered the source code, give you program a name by choosing \"File\" and then \"Save as\" from the menu.",
+    "link": [
+        "http://www.cs.wisc.edu/~cs302/C++/Introduction/MSwindows.html",
+        "http://www.cs.wisc.edu/~mbirk/cs110/assignments/prog0.cpp",
+        "mailto:mbirk@cs.wisc.edu"
+    ],
+    "ground_truth": "other"
+}

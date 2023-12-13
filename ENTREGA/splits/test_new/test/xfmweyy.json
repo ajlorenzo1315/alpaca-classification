@@ -1,0 +1,10 @@
+{
+    "Title": "Running a DOS Window (Changing Your Password)",
+    "Body": "Starting a DOS Window In order to run a DOS window, you must find the MS-DOS Prompt icon in the CS Apps program group, and double click on the icon: You will then have a window appear which looks like: If you are familiar with MS DOS, then you will know how to use the command prompt.",
+    "link": [
+        "http://www.cs.wisc.edu/~cs302/C++/Introduction/MSwindows.html",
+        "http://www.cs.wisc.edu/~cs302/C++/Introduction/foreground.html",
+        "http://www.cs.wisc.edu/~cs302/C++/Introduction/filemanager1.html"
+    ],
+    "ground_truth": "unknow"
+}

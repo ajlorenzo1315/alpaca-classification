@@ -1,0 +1,10 @@
+{
+    "Title": "The Netizen's Cyberstop at CS",
+    "Body": "The Gopher Site The FTP Site The Wonderful World of Usenet News School Links Columbia University Main Web Server The Computer Science Department Web Server Information about New York City You can reach me at hauben@columbia.edu or hauben@cs.columbia.edu",
+    "link": [
+        "http://www.columbia.edu/~hauben/index.html",
+        "http://www.cs.columbia.edu/~hauben/research.html",
+        "http://www.columbia.edu/~hauben/music/index.html"
+    ],
+    "ground_truth": "student"
+}

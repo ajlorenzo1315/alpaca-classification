@@ -1,0 +1,10 @@
+{
+    "Title": "USC Database Lab",
+    "Body": "Date: Wed, 20 Nov 1996 20:07:42 GMT Server: Apache/1.1.1 Content-type: text/html Content-length: 735 Last-modified: Sun, 20 Oct 1996 20:40:31 GMT USC Database Lab USC Database Lab Introduction Research People Questions and comments",
+    "link": [
+        "http://perspolis.usc.edu/Introduction.html",
+        "http://perspolis.usc.edu/Research/Welcome.html",
+        "http://perspolis.usc.edu/Users/Welcome.html"
+    ],
+    "ground_truth": "project"
+}

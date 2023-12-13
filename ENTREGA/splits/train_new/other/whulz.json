@@ -1,0 +1,10 @@
+{
+    "Title": " CS212 S96 CourseStaff",
+    "Body": "Jake Levirne , Consultant.",
+    "link": [
+        "http://www.cs.cornell.edu/Info/People/kozen/kozen.html",
+        "mailto:kozen@cs.cornell.edu",
+        "http://www.cs.cornell.edu/Info/People/janosi/janosi.html"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "SPRAK!  Homepage of Luis Cruz",
+    "Body": "Currently the author of this page is haunting the hallowed halls of Northeastern University I am working towards a Masters of Science degree in computer science .",
+    "link": [
+        "http://www.eff.org/blueribbon.html",
+        "http://www.eff.org/goldkey.html",
+        "http://www.neu.edu"
+    ],
+    "ground_truth": "student"
+}

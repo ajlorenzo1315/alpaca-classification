@@ -1,0 +1,10 @@
+{
+    "Title": " Guru's Home Page ",
+    "Body": "NOAHNET: A High Speed Reliable Local Area Network RESEARCH PAPERS SAMPLE WRITINGS My Editorial for IEEE Network Special Issue on ATM Local Area Networks, March 1993 DOCTORAL STUDENTS Hari Adiseshu: High Performance IP Router with support for Resource Reservation and QoS Milind Buddhikot: High Performance Multimedia Storage Server Charles Cranor: Universal Continuous Media I/O Zubin Dittia: Design and Implementation of A Gigabit ATM Desk Area Network for Multimedia Workstations and Severs Aravind Gopalan: Still Exploring the Space Christos Papadopoulos: Transport Protocol Control Mechanisms for Multipoint Multimedia Applications R. Gopalakrishnan: Efficient Quality of Service Support for Multimedia Applications in Operating System PAST STUDENTS James P. G. Sterbenz.",
+    "link": [
+        "http://arl.wustl.edu/arl/",
+        "#research",
+        "#projects"
+    ],
+    "ground_truth": "faculty"
+}

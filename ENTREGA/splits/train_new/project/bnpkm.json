@@ -1,0 +1,10 @@
+{
+    "Title": "Software Engineering Lab",
+    "Body": "Date: Wed, 20 Nov 1996 20:01:44 GMT Server: Apache/1.1b3 Content-type: text/html Software Engineering Lab Software Engineering Lab In Software Engineering Lab at Computer Science Department of University of Minnesota , we do research in software engineering, including software requirement analysis, software maintenance, software safety and testing.",
+    "link": [
+        "http://www.cs.umn.edu",
+        "http://www.umn.edu",
+        "http://www.cs.umn.edu/Research/softeng/sm/index.html"
+    ],
+    "ground_truth": "project"
+}

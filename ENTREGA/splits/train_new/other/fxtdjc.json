@@ -1,0 +1,6 @@
+{
+    "Title": " MENUS-PGG ",
+    "Body": "The major contribution of MENUS-PGG should be the reduction of the pre-processing overhead required by the data parallel PDE solvers and the efficient maintenance of the distributed data  structures that support h, p, and hp-refinements.",
+    "link": [],
+    "ground_truth": "other"
+}

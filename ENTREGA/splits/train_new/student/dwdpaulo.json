@@ -1,0 +1,10 @@
+{
+    "Title": "Scott Hauck",
+    "Body": "I am currently working on Multi-FPGA Systems and Rapid-Prototyping of Board-Level Designs, though I am also interested in Asynchronous Circuits, FPGA Architectures, and Parallelism.",
+    "link": [
+        "http://cs.indiana.edu/finger/gateway?hauck@cs.washington.edu",
+        "http://www.cs.washington.edu/",
+        "ftp://ftp.u.washington.edu/public/"
+    ],
+    "ground_truth": "student"
+}

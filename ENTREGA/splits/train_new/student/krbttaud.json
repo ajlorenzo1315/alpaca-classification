@@ -1,0 +1,10 @@
+{
+    "Title": "Dane Marshall",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Monday, 06-Jan-97 19:34:16 GMT Content-Type: text/html Content-Length: 1412 Last-Modified: Monday, 01-Apr-96 20:59:07 GMT Dane Marshall Dane Marshall M.A.",
+    "link": [
+        "mailto:dane@cs.utexas.edu",
+        "http://www.lysator.liu.se/pinball/",
+        "http://www.jpl.nasa.gov:80/galileo/"
+    ],
+    "ground_truth": "student"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Vishal Jain's home page",
+    "Body": "Date: Tue, 26 Nov 1996 17:53:33 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Mon, 30 Sep 1996 22:20:43 GMT Content-length: 1649 Vishal Jain's home page Vishal Jain Hi!",
+    "link": [
+        "http://www.cs.pitt.edu/~vjain/me.html",
+        "http://www.cs.pitt.edu/~vjain/rsrch.html",
+        "http://www.cs.pitt.edu/~vjain/ta.html"
+    ],
+    "ground_truth": "student"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": " Professor Henry D. Shapiro's Home Page ",
+    "Body": "Professor Shapiro's Schedule List of Recent Publications Course Links C++ For Experienced Programmers Professional Links Department of Computer Science Home Page J.UCS (The Journal of Universal Computer Science -- I'm an editor) Links to Cultural Events Calendar of Classical Music Events in Albuquerque Major Art Exhibitions Touring the United States Splendors of Imperial China : Treasures from the National Palace Museum, Taipei at the Asian Art Museum of San Franciso, October 14-December 8, 1996 and the National Gallery of Art in Washington, DC, January 27-April 6, 1997.",
+    "link": [
+        "http://www.cs.unm.edu/~shapiro/schedule.html",
+        "http://www.cs.unm.edu/~shapiro/publications.html",
+        "http://www.cs.unm.edu/~shapiro/cs290.html"
+    ],
+    "ground_truth": "faculty"
+}

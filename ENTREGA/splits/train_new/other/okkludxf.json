@@ -1,0 +1,9 @@
+{
+    "Title": " Test Applet ",
+    "Body": "Date: Tue, 10 Dec 1996 23:17:52 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Fri, 16 Feb 1996 10:09:16 GMT Content-length: 957 Test Applet Sorry, you are not using a Java compatible browser This is the start of an experiment in applets based on a virtual travel interaction model and interface.",
+    "link": [
+        "http://www.cs.washington.edu/homes/jbaer/index.html",
+        "mailto:jbaer@cs.washington.edu"
+    ],
+    "ground_truth": "other"
+}

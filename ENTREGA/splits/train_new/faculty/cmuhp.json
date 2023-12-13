@@ -1,0 +1,10 @@
+{
+    "Title": "NCSU/CSC: William G. Scott Jr.",
+    "Body": "Mr. Scott also is Program Advisor to the Information Systems Education (ISE) Program series of short courses,  presented by the Office of Continuing Education and Professional Development in association with the Computer Science Department.",
+    "link": [
+        "http://www2.ncsu.edu/eos/info/acm_dpma/www/acm_home.html",
+        "http://www.rdatas.com/rds/dpma",
+        "http://www2.ncsu.edu/cpe/iselist.htm"
+    ],
+    "ground_truth": "faculty"
+}

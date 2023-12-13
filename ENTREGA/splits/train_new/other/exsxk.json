@@ -1,0 +1,8 @@
+{
+    "Title": "Academic Integrity",
+    "Body": "Violations of the Cornell University Code of Academic Integrity occurring in Computer Science courses are taken very seriously.",
+    "link": [
+        "http://www.cs.cornell.edu/Info/Courses/Current/CS472/cs472.html"
+    ],
+    "ground_truth": "other"
+}

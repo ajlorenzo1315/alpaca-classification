@@ -1,0 +1,10 @@
+{
+    "Title": "Dissertation Abstracts",
+    "Body": "In order to clarify the structure of the knowledge required for reasoning about the behavior of physical systems, we distinguish between the model building task which builds a model to describe the system, and the simulation task which uses the model to generate a description of the possible behaviors of the system.",
+    "link": [
+        "#Berleant",
+        "#Byun",
+        "#Crawford"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Welcome to Dr. Wei Zhao's Home Page",
+    "Body": "Wei Zhao is the general chair of The Second IEEE Real-Time Technology and Applications Symposium to be held in Boston in June 1996. .",
+    "link": [
+        "http://www.cs.tamu.edu/",
+        "http://www.tamu.edu/",
+        "http://www.ipt.com/"
+    ],
+    "ground_truth": "faculty"
+}

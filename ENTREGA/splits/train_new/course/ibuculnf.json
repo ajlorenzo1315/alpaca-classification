@@ -1,0 +1,10 @@
+{
+    "Title": "CS 66.436 Fall 1996 Data Structures Home Page",
+    "Body": "Previous announcements Latest Lecture Notes Section 1, Mehta Section 2, Dugan Previous lecture notes Course information Overview Textbook Course Sections Access to Course Information Syllabus Grading Policy Collaboration Policy Late Work Policy Example source code Source code for the data structures and examples in the Weiss textbook are available as a tar file or you can get the files individually .",
+    "link": [
+        "http://www.cs.rpi.edu/~dugan/data_structures/project4.html",
+        "http://www.cs.rpi.edu/~fryp/data_structures/submission_instructions.html",
+        "http://www.cs.rpi.edu/~fryp/data_structures/hw3_grading.html"
+    ],
+    "ground_truth": "course"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "CS281r",
+    "Body": "Date: Wed, 20 Nov 1996 22:23:38 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Wed, 23 Oct 1996 18:43:31 GMT Content-length: 3697 CS281r DIVISION OF APPLIED SCIENCES HARVARD UNIVERSITY CS281r Course Page Artificial Intelligence: Reasoning and Planning Systems Spring '96: Tuesdays and Thursdays, 11.30a - 1.00p Aiken Computation Laboratory, Room G23 Instructor: Prof. Barbara J. Grosz Teaching Fellow: Dena Weinstein Prerequisites: Computer Science 51 and 121 or 124, or permission of instructor.",
+    "link": [
+        "http://www.deas.harvard.edu/users/faculty/Grosz/grosz.html",
+        "http://fas-www.harvard.edu/~dweinst",
+        "http://www.deas.harvard.edu/cs/academics/courses/cs281r/syllabus.ps"
+    ],
+    "ground_truth": "course"
+}

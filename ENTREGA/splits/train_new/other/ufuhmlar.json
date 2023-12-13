@@ -1,0 +1,9 @@
+{
+    "Title": "\nGlew on High-Level Editting\n",
+    "Body": "Therefore, the high level editting operation is in this calling tree, take all instances of the explicitly named operation or value X, and make them refer to a parameter that is passed along all paths the calling tree.",
+    "link": [
+        "#Dgetnumber>Dgetnumber</A>\n\t    to handle the subcomponents of the expression, after \n\t    the operator has been recognized.\n\t</DL>\n    </DL>\n</DL>\n\n<p>\nWhen I tried to create a variant of Dgetnumber - not a replacement, just a variant - \nI realized that I needed another level of indirection.\nInstead of the expression nodes calling Dgetnumber, they needed to call a variable\nTopLevelRecognizer for their recursion.\nTo make this MP safe, this variable TopLevelRecognizer should not be a global variable,\nbut should be a parameter passed to every function in the calling tree:\n<DL>\n<DT><A NAME=",
+        "#TopLevelRecognizer1>Dgetnumber_Address</A>\n\t    either <A HREF="
+    ],
+    "ground_truth": "other"
+}

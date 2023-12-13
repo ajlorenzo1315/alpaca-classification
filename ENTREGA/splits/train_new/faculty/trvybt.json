@@ -1,0 +1,10 @@
+{
+    "Title": "  Stephen R. Schach Home Page",
+    "Body": "Professor Schach's research interests are in the field of software engineering, and particularly in object-oriented software engineering.",
+    "link": [
+        "http://wissgi.weizmann.ac.il",
+        "http://www.uct.ac.za",
+        "http://cswww.vuse.vanderbilt.edu/"
+    ],
+    "ground_truth": "faculty"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Bolo's House",
+    "Body": "It was easier to do this from the roof than with a ladder.",
+    "link": [
+        "http://www.ge.com",
+        "http://www.ge.com/",
+        "http://www.directv.com/"
+    ],
+    "ground_truth": "other"
+}

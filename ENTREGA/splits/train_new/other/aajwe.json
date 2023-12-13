@@ -1,0 +1,10 @@
+{
+    "Title": "CS 395T: Web Operating Systems",
+    "Body": "of the 1997 USENIX Conference, Jan. 1997.",
+    "link": [
+        "http://oac3.hsc.uth.tmc.edu/staff/snewton/tcp-tutorial/index.html",
+        "ftp://ftp.ee.lbl.gov/papers/routing.SIGCOMM.ps.Z",
+        "http://ds.internic.net/rfc/rfc793.txt"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Mike's favorite WEB pages",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Monday, 06-Jan-97 21:25:16 GMT Content-Type: text/html Content-Length: 10327 Last-Modified: Tuesday, 26-Nov-96 19:13:10 GMT Mike's favorite WEB pages Interesting Network Sites Web Indexes and Info MetaCrawler: Searching the WEB in parallel Alta Vista Advanced Search LYCOS: Searching the WEB Yahoo FAQ list WHOIS Internet Bargain Finder (Anderson Consulting) HTML Quick Reference Beginner's Guide to HTML Network Starting Points InterNIC - Internet headquarters The following pages may seem to be mainly of prurient interest, but actually they contain quite a few good links related to current events.",
+    "link": [
+        "http://metacrawler.cs.washington.edu:8080",
+        "http://altavista.digital.com/cgi-bin/query?pg=aq&what=web",
+        "http://lycos.cs.cmu.edu/"
+    ],
+    "ground_truth": "unknow"
+}

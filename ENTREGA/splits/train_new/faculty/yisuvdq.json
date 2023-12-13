@@ -1,0 +1,10 @@
+{
+    "Title": "Ashok Agrawala",
+    "Body": "One context of this study is the design and implementation of the advanced hard real-time which we are undertaking in the MARUTI project.",
+    "link": [
+        "http://www.cs.umd.edu/",
+        "http://www.inform.umd.edu/",
+        "http://www.harvard.edu/"
+    ],
+    "ground_truth": "faculty"
+}

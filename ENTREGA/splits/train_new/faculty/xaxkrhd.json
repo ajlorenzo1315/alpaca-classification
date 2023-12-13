@@ -1,0 +1,8 @@
+{
+    "Title": "Lynn Conway's HomePage",
+    "Body": "Date: Mon, 25 Nov 1996 23:13:49 GMT Server: NCSA/1.5.1 Last-modified: Mon, 11 Jul 1994 17:09:48 GMT Content-type: text/html Content-length: 908 Lynn Conway's HomePage Lynn Conway Lynn Conway is Professor of Electrical Engineering and Computer Science, and Director of the UMTV Demonstration Project at the University of Michigan.",
+    "link": [
+        "http://ott22.engin.umich.edu/umtv/umtvpage.html"
+    ],
+    "ground_truth": "faculty"
+}

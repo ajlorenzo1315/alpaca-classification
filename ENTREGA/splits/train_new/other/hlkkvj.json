@@ -1,0 +1,9 @@
+{
+    "Title": "MPEG Browser",
+    "Body": "What is the advantage of MPEG Browse over other video players?",
+    "link": [
+        "mpeg_browse.tar.gz",
+        "mailto:szewczyk@cs.cornell.edu"
+    ],
+    "ground_truth": "other"
+}

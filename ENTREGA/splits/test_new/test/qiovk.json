@@ -1,0 +1,10 @@
+{
+    "Title": "View Morphing (by Steve Seitz)",
+    "Body": ", View morphing between two images of an object taken from two different viewpoints produces the illusion of physically moving a virtual camera.",
+    "link": [
+        "http://www.cs.wisc.edu/~seitz/seitz.html",
+        "http://www.cs.wisc.edu/~dyer/dyer.html",
+        "ftp://ftp.cs.wisc.edu/computer-vision/abstracts.html#sigg96-seitz"
+    ],
+    "ground_truth": "unknow"
+}

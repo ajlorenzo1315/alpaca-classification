@@ -1,0 +1,10 @@
+{
+    "Title": "Princeton COS 341: Discrete Mathematics",
+    "Body": "Server: Netscape-Commerce/1.12 Date: Wednesday, 20-Nov-96 22:46:38 GMT Last-modified: Monday, 11-Nov-96 14:58:22 GMT Content-length: 1752 Content-type: text/html Princeton COS 341: Discrete Mathematics Computer Science 341 Discrete Mathematics Fall 1996, Princeton University Professor Robert E. Tarjan TTh 1:30--2:50, CS Bldg.",
+    "link": [
+        "http://www.cs.princeton.edu/courses/archive/fall96/cs341/books.ps",
+        "http://www.cs.princeton.edu/courses/archive/fall96/cs341/assignments.html",
+        "http://www.cs.princeton.edu/courses/archive/fall96/cs341/handouts.html"
+    ],
+    "ground_truth": "course"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": " alvin.html ",
+    "Body": "Date: Mon, 25 Nov 1996 23:24:21 GMT Server: NCSA/1.5.1 Last-modified: Tue, 15 Oct 1996 17:49:01 GMT Content-type: text/html Content-length: 1811 alvin.html Alvin Austin Systems Programmer Department of Computer Science University of Saskatchewan Saskatoon , SK CANADA Current Weather Conditions This page is a little bleak at the moment...",
+    "link": [
+        "http://www.usask.ca",
+        "http://www.cs.usask.ca",
+        "http://www.usask.ca"
+    ],
+    "ground_truth": "staff"
+}

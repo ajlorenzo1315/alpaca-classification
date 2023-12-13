@@ -1,0 +1,6 @@
+{
+    "Title": " How to debug in GCL ",
+    "Body": "So we look for SYMBOL in the COND statement inside SEPARATE function and find that we should use SYMBOLP instead of SYMBOL to do the type checking.",
+    "link": [],
+    "ground_truth": "other"
+}

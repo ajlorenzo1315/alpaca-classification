@@ -1,0 +1,10 @@
+{
+    "Title": "Hank Levy's Home Page",
+    "Body": "Hank's current research projects focus on operating systems, on parallel and distributed computing , on computer architecture (particularly \" Simultaneous Multithreading \" architectures) and on object-based languages and environments.",
+    "link": [
+        "http://www.cs.washington.edu/homes/levy/distributed.html",
+        "http://www.cs.washington.edu/research/smt",
+        "http://www.cs.washington.edu/homes/levy/opal/opal.html"
+    ],
+    "ground_truth": "faculty"
+}

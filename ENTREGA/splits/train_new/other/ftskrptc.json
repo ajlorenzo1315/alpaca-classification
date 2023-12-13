@@ -1,0 +1,10 @@
+{
+    "Title": "Microcomputer Laboratories",
+    "Body": "Date: Tue, 05 Nov 1996 00:33:21 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Sun, 10 Sep 1995 02:38:38 GMT Content-length: 943 Microcomputer Laboratories Microcomputer Laboratories Room 1350 Computer Science and Statistics Laboratory for all CS302 students CAE Laboratories Laboratories with Borland C++ 4.0 for engineering students only.",
+    "link": [
+        "http://www.cs.wisc.edu/~cs302/Labs/1350.html",
+        "http://www.cs.wisc.edu/~cs302/Labs/CAE.html",
+        "http://www.cs.wisc.edu/~cs302/Labs/DoIT.html"
+    ],
+    "ground_truth": "other"
+}

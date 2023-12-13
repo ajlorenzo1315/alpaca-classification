@@ -1,0 +1,10 @@
+{
+    "Title": "Homepage for Prof. C.H. Sequin",
+    "Body": "Date: Thu, 21 Nov 1996 19:54:15 GMT Server: NCSA/1.4 Content-type: text/html Last-modified: Mon, 18 Nov 1996 13:44:21 GMT Content-length: 5120 Homepage for Prof. C.H.",
+    "link": [
+        "http://HTTP.CS.Berkeley.EDU/~sequin/SCULPTS/scherk.html",
+        "http://HTTP.CS.Berkeley.EDU/~sequin/soda/soda.html",
+        "http://HTTP.CS.Berkeley.EDU/~sequin/PROJ/arcade.html"
+    ],
+    "ground_truth": "faculty"
+}

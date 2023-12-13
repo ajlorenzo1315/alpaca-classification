@@ -1,0 +1,10 @@
+{
+    "Title": "Brendan Mumey's Bookmarks",
+    "Body": "Date: Tue, 10 Dec 1996 21:21:13 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Thu, 14 Nov 1996 00:32:07 GMT Content-length: 15947 Brendan Mumey's Bookmarks Brendan Mumey's Bookmarks Searching excite Netsearch Alta Vista: Main Page MetaCrawler Searching Yahoo Deja News - The Source for Internet Newsgroups!",
+    "link": [
+        "http://www.excite.com/",
+        "http://altavista.digital.com/",
+        "http://www/research/projects/ai/metacrawler/www/index.html"
+    ],
+    "ground_truth": "other"
+}

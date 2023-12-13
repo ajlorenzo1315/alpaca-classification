@@ -1,0 +1,10 @@
+{
+    "Title": "ACSL Web Server",
+    "Body": "Date: Wednesday, 20-Nov-96 19:37:04 GMT Server: NCSA/1.3 MIME-version: 1.0 Content-type: text/html Last-modified: Friday, 17-Feb-95 18:55:02 GMT Content-length: 1221 ACSL Web Server Welcome to the Advanced Collaborative Systems Lab.",
+    "link": [
+        "http://acsl.cs.uiuc.edu/acsl.html",
+        "http://acsl.cs.uiuc.edu/kbse/",
+        "http://acsl.cs.uiuc.edu/kaplan/"
+    ],
+    "ground_truth": "project"
+}

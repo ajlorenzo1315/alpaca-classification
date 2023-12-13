@@ -1,0 +1,10 @@
+{
+    "Title": "Research Interests",
+    "Body": "A Dilbert for the times: (click here to see United Media's larger version) Papers and Publications: Siff, M. and Reps, T., Program generalization for software reuse: From C to C++, TR-1315, Computer Sciences Department, University of Wisconsin, Madison, WI, May 1996.",
+    "link": [
+        "http://www.cs.wisc.edu/~mds/uwpl.html",
+        "http://www.cs.wisc.edu",
+        "http://www.wisc.edu"
+    ],
+    "ground_truth": "other"
+}

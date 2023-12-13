@@ -1,0 +1,10 @@
+{
+    "Title": "CIS 511 Handout 1",
+    "Body": "Server: Netscape-Communications/1.1 Date: Wednesday, 20-Nov-96 23:24:19 GMT Last-modified: Friday, 30-Aug-96 20:11:20 GMT Content-length: 5025 Content-type: text/html CIS 511 Handout 1 CIS 511, Summer 1, 96 Introduction to the Theory of Computation Course Information May 17 Coordinates: Moore 223, 2:00-5:00 Instructor: Jean H. Gallier , MRE 176, 8-4405, jean@saul Office Hours: 11:00-noon Monday, Wednesday, 11:00-noon, Tuesday Teaching Assistant: Shiann-Liang Chern, slchern@saul.cis.upenn.edu Office Hours: Tuesday-Thursday, 2:00-4:00 Newsgroup: upenn.cis.cis511 Textbook (required): Introduction to Automata Theory, Languages and Computation , J.E.",
+    "link": [
+        "mailto:jean@saul.cis.upenn.edu",
+        "news:upenn.cis.cis511",
+        "http://www.cis.upenn.edu/~jean/cis51196shm1.ps.Z"
+    ],
+    "ground_truth": "course"
+}

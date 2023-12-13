@@ -1,0 +1,10 @@
+{
+    "Title": "Avinash Gupta Home Page",
+    "Body": "Master of Engineering in Computer Science May 89 / May 93: University of Bombay - Bombay (INDIA).",
+    "link": [
+        "http://www.cs.cornell.edu/Info/People/avinash/resume.fm.ps",
+        "#PData",
+        "#Education"
+    ],
+    "ground_truth": "other"
+}

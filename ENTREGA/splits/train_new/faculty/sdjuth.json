@@ -1,0 +1,10 @@
+{
+    "Title": " Ellie LonskeHome Page ",
+    "Body": "Date: Mon, 25 Nov 1996 23:29:36 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Wed, 31 Jan 1996 16:13:46 GMT Content-length: 1124 Ellie LonskeHome Page Name: Ellie Lonske Title: Director of Information Technology Services  and Lecturer in Computer Science Office: E102 Science Center Extension: X3085 Responsibilities: Director of Information Technology Services, which provides computing services to the Wellesley campus.",
+    "link": [
+        "http://www.wellesley.edu/CS/cshome.html",
+        "http://www.wellesley.edu/CS/classes.html#CS110",
+        "http://www.wellesley.edu/CS/classes.html#CS111"
+    ],
+    "ground_truth": "faculty"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": " CS378 ",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Tuesday, 07-Jan-97 15:23:09 GMT Content-Type: text/html Content-Length: 1577 Last-Modified: Sunday, 08-Sep-96 22:54:46 GMT CS378 CS378: Cryptography Professor: David Zuckerman Office hours: Taylor 3.126, TTH 5-6:00 pm Email: diz@cs.utexas.edu TA: Huiqun Liu Office hours: MW 12:00-1:00pm, Station #2 (Taylor Hall basement) Email: hqliu@cs.utexas.edu Syllabus Mathematical Background Homeworks Homework 1 - If you don't have the textbook yet, here is the ciphertext for problem 10 .",
+    "link": [
+        "http://www.cs.utexas.edu/users/diz",
+        "http://www.cs.utexas.edu/users/hqliu",
+        "http://www.cs.utexas.edu/users/hqliu/cs378/syllabus.ps"
+    ],
+    "ground_truth": "course"
+}

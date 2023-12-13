@@ -1,0 +1,10 @@
+{
+    "Title": "\nProfessor Abdelsalam Heddaya -- Home Page\n\t\t",
+    "Body": "Date: Tue, 14 Jan 1997 23:00:25 GMT Server: NCSA/1.5 Content-type: text/html Professor Abdelsalam Heddaya -- Home Page ~1986 1993 1993, 93, ... Alma mater Abdelsalam Heddaya [ Last updated: 1996.12.03 ] Assistant Professor , Computer Science Department , Boston University [Was on Sabbatical leave from BU 1995/96, at Harvard University as:] Visiting Scholar , Aiken Computation Lab , and, Consultant , Biological Chemistry and Molecular Pharmacology (BCMP) Dept.",
+    "link": [
+        "http://cs-www.bu.edu/faculty/heddaya/Images/MyPhotos/portrait-grey.gif",
+        "http://cs-www.bu.edu/faculty/heddaya/Images/MyPhotos/portrait-regalia.jpg",
+        "http://cs-www.bu.edu/faculty/heddaya/Images/MyPhotos/portrait-recursive-9409.gif"
+    ],
+    "ground_truth": "faculty"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "No title",
+    "Body": ", as promised, an electronic version of my recent doctoral dissertation, titled: An Empirical Comparison of Copresent and Technologically-Mediated Interaction based on Communicative Breakdown (And for all of you that have contacted me for a copy, thanks for your patience...) FIRST , click here to read just the abstract.",
+    "link": [
+        "http://www.cs.uoregon.edu/~eck/papers/diss_abstract.html",
+        "http://zfishstix.cs.uoregon.edu/calvin/webpages/dissertation.hqx",
+        "http://zfishstix.cs.uoregon.edu/calvin/webpages/dissertation.ps"
+    ],
+    "ground_truth": "other"
+}

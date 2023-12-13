@@ -1,0 +1,10 @@
+{
+    "Title": "Bülent's Home Page",
+    "Body": "Date: Mon, 25 Nov 1996 20:16:48 GMT Server: Apache/1.1.1 Content-type: text/html Content-length: 936 Last-modified: Fri, 03 Nov 1995 18:47:00 GMT Bülent's Home Page Bülent Yener, PhD'94 I am a visitor and a recent graduate of the Computer Science Department at Columbia University in New York City .",
+    "link": [
+        "http://www.cs.columbia.edu/~yener/yener.gif",
+        "http://www.cs.columbia.edu/",
+        "http://www.cc.columbia.edu/"
+    ],
+    "ground_truth": "faculty"
+}

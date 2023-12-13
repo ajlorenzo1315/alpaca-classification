@@ -1,0 +1,10 @@
+{
+    "Title": " Daren's Home Page ",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Thursday, 21-Nov-96 22:32:47 GMT Content-Type: text/html Content-Length: 758 Last-Modified: Thursday, 10-Oct-96 18:37:05 GMT Daren's Home Page Welcome to my Home Page!",
+    "link": [
+        "http://www.ccs.neu.edu/home/daren/hobby.html",
+        "http://www.ccs.neu.edu/home/daren/resume.html",
+        "http://www.ultranet.com/~lefebvre/Windsurfing/CapeCod/"
+    ],
+    "ground_truth": "unknow"
+}

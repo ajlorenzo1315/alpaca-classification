@@ -1,0 +1,10 @@
+{
+    "Title": " David Yarowsky ",
+    "Body": "In Proceedings of the 4th DARPA Speech and Natural Language Workshop , pp.",
+    "link": [
+        "http://www.cs.jhu.edu",
+        "http://www.jhu.edu",
+        "http://www.ece.jhu.edu/~clsp/"
+    ],
+    "ground_truth": "faculty"
+}

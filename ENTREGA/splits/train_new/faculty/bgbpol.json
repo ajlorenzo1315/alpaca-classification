@@ -1,0 +1,10 @@
+{
+    "Title": "CSC FACULTY:  REEVES",
+    "Body": "I'm a member of the program committee for the Third International Conference on Computer Science and Informatics , to be held in the Research Triangle on March 2--5, 1997.",
+    "link": [
+        "mailto:reeves@eos.ncsu.edu",
+        "http://www2.ncsu.edu/eos/info/csc591m_info/class.html",
+        "http://www2.ncsu.edu/eos/info/csc495m_info/class.html"
+    ],
+    "ground_truth": "faculty"
+}

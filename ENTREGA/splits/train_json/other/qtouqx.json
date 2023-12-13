@@ -1,0 +1,5 @@
+{
+    "Título": "CSE 373 Midterm topics",
+    "Cuerpo": "Encapsulation. Permutations, factorial, Stirling's formula. Boolean variables, floor and ceiling, modulus operator. Chapter 3 Running time formulations in terms of input size n and constants: e.g., T(n) = cn. Constant, linear, quadratic, cubic and exponential running times. Big-Oh, big-Omega, and big-Theta definitions, notations. Simplifying big-Oh expressions. Ordering functions by their growth rates. Chapter 4 Lists and the ADT on p81. Comparison of array and pointer implementations of lists. Binary tree node ADT (e.g., see p126). Preorder, inorder, and postorder traversal. of binary trees. Array implementation for complete binary trees. Prefix property of codes, efficiency of a Huffman code. Binary search tree property. Searching for an element in a BST (the find and findhelp methods). Heap data structure and its use in implementing the priority queue. Implementation of FIND and UNION operations. Chapter 7 Terminology for graphs.",
+    "ground_truth": "other"
+}

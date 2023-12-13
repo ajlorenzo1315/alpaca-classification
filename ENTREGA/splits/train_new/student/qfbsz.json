@@ -1,0 +1,10 @@
+{
+    "Title": " David Cassel's home page ",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Thursday, 21-Nov-96 22:40:51 GMT Content-Type: text/html Content-Length: 835 Last-Modified: Sunday, 09-Jun-96 22:53:51 GMT David Cassel's home page Welcome to David Cassel's home page!",
+    "link": [
+        "http://www.phillynews.com",
+        "http://www.lockheed.com",
+        "http://www.ccs.neu.edu/home/cassel/stuff.html"
+    ],
+    "ground_truth": "student"
+}

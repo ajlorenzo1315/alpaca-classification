@@ -1,0 +1,10 @@
+{
+    "Title": " CS/ECE 552 Lecture 2 - Home Page - Fall 1996 ",
+    "Body": "Exams The Midterm Exam will be on Wednesday, Oct 30, 1996 at 7:15 pm, room 1221 CSS.",
+    "link": [
+        "#instructor",
+        "#TA",
+        "#handouts"
+    ],
+    "ground_truth": "course"
+}

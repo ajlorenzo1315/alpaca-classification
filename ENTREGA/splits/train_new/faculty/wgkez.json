@@ -1,0 +1,10 @@
+{
+    "Title": "Steven K. Feiner",
+    "Body": "Department of Computer Science Columbia University 500 W. 120th St., 450 CS Building New York, NY 10027 +1 212 939-7083 +1 212 666-0140 (fax) feiner@cs.columbia.edu http://www.cs.columbia.edu/~feiner/ Fall '96 computer graphics and user interfaces courses: User Interface Design (CS W4170x) is being taught in Fall '96 by Prof. Steven Feiner, MW 4:10pm-5:25pm, SW Mudd 535.",
+    "link": [
+        "http://www.cs.columbia.edu/graphics/courses/userInterfaceDesign.html",
+        "http://www.cs.columbia.edu/graphics/projects/6901.html",
+        "http://www.cs.columbia.edu/graphics/"
+    ],
+    "ground_truth": "faculty"
+}

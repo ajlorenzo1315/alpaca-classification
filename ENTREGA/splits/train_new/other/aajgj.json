@@ -1,0 +1,9 @@
+{
+    "Title": "CS516 Term Project",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Sunday, 01-Dec-96 19:46:28 GMT Content-Type: text/html Content-Length: 1043 Last-Modified: Saturday, 10-Aug-96 00:52:08 GMT CS516 Term Project Parallel Ray Tracing in CC++ Vineet Ahuja Amith Yamasani We propose to parallelize an existing implementation of a ray tracer called Raylab, which is a public domain software.",
+    "link": [
+        "mailto:ahuja@cs.cornell.edu",
+        "mailto:amith@cs.cornell.edu"
+    ],
+    "ground_truth": "other"
+}

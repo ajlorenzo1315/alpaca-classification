@@ -1,0 +1,10 @@
+{
+    "Title": "Global Pointers in C++ using Active Messages",
+    "Body": "In this paper we describe the design and implementation of Global Pointers over C++ and Active Messages.",
+    "link": [
+        "http://www.cs.cornell.edu/Info/People/beli/beli.html",
+        "http://www.cs.cornell.edu/Info/People/julian/julian.html",
+        "http://www.cs.cornell.edu/Info/People/mauri/mauri.html"
+    ],
+    "ground_truth": "other"
+}

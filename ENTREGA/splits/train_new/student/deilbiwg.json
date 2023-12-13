@@ -1,0 +1,10 @@
+{
+    "Title": "Home Page of Adam Edlavitch",
+    "Body": "Date: Thu, 21 Nov 1996 23:02:16 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Wed, 29 May 1996 16:51:02 GMT Content-length: 7757 Home Page of Adam Edlavitch Adam's Home Page Under construction... please excuse the mess My Resume!",
+    "link": [
+        "./resume.html",
+        "http://www-cse.ucsd.edu/users/adamhe/roommates.html",
+        "http://www-cse.ucsd.edu/users/adamhe/family.html"
+    ],
+    "ground_truth": "student"
+}

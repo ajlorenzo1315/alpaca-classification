@@ -1,0 +1,10 @@
+{
+    "Title": " Min Kim's Home Page ",
+    "Body": "Date: Tue, 26 Nov 1996 02:58:05 GMT Server: Apache/1.0.0 Content-type: text/html Content-length: 1487 Last-modified: Wed, 09 Oct 1996 14:02:10 GMT Min Kim's Home Page Welcome Min Kim's Home Page This Web Page is modified and developed gradually.",
+    "link": [
+        "mailto:mkim@cs.mcgill.ca",
+        "http://www.korealink.co.kr/",
+        "http://www.excite.com/"
+    ],
+    "ground_truth": "student"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "CS205 - Mathematical Methods for Robotics and Vision",
+    "Body": "The Kalman filter: derivation (Postscript) Results of the mortar shell experiment (Postscript) and Matlab code Deriving Lagrange's equation (Postscript) by Arancha Casal Homework Homework 1 (Postscript) , and solution (Postscript) , code .",
+    "link": [
+        "http://www-leland.stanford.edu/class/cs205/outline/outline.html",
+        "http://www-leland.stanford.edu/class/cs205/outline/outline.ps",
+        "news:su.class.cs205"
+    ],
+    "ground_truth": "course"
+}

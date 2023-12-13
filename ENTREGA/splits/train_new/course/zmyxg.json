@@ -1,0 +1,10 @@
+{
+    "Title": "Adversary Search - CMPSCI 591E/691E",
+    "Body": "Change Less Often An overview of the course is available.",
+    "link": [
+        "http://edlab-www.cs.umass.edu/cs691e/hearts-ladders.html",
+        "http://edlab-www.cs.umass.edu/cs691e/overview.html",
+        "http://edlab-www.cs.umass.edu/cs691e/syllabus.html"
+    ],
+    "ground_truth": "course"
+}

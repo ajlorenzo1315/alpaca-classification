@@ -1,0 +1,10 @@
+{
+    "Title": "Jerzy W. Jaromczyk -- Compilers",
+    "Body": "procedure stacklevels; procedure stack2; procedure stack3; procedure stack4; procedure stack5; procedure stack6; procedure stack7; procedure stack8; procedure stack9; procedure stack10; procedure stack11; begin x := 3 * x; end; begin x := 3 * x; end; begin x := 3 * x; end; begin x := 3 * x; end; begin x := 3 * x; end; begin x := 3 * x; end; begin x := 3 * x; end; begin x := 3 * x; end; begin x := 3 * x; end; begin x := 3 * x; end; begin x := 3 * x; end; begin x := 3 * x; end;",
+    "link": [
+        "http://www.cs.engr.uky.edu/~jurek/Compilers/pcp.doc",
+        "http://www.cs.engr.uky.edu/~jurek/Compilers/pcp.manual",
+        "http://www.cs.engr.uky.edu/~jurek/Compilers/grammar.rd"
+    ],
+    "ground_truth": "other"
+}

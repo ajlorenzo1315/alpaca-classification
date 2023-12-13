@@ -1,0 +1,10 @@
+{
+    "Title": " Wan Chen",
+    "Body": "in Computer Science, UT Austin, December 1996 M.A.",
+    "link": [
+        "http://www.eecs.nwu.edu/unix.html",
+        "http://www.sco.com/Technology/tcl/Tcl.html",
+        "ftp://ftp.cme.nist.gov/pub/expect/"
+    ],
+    "ground_truth": "student"
+}

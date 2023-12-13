@@ -1,0 +1,10 @@
+{
+    "Title": "\nChen Huaiyuan's Home Page\n",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Thursday, 21-Nov-96 22:40:32 GMT Content-Type: text/html Content-Length: 1033 Last-Modified: Thursday, 27-Jun-96 06:49:48 GMT Chen Huaiyuan's Home Page Welcome to Chen Huaiyuan's Home Page Page under construction ... Who am I?",
+    "link": [
+        "http://www.ccs.neu.edu",
+        "http://www.neu.edu",
+        "http://www.ccs.neu.edu/home/chys/mycv.html"
+    ],
+    "ground_truth": "student"
+}

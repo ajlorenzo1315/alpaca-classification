@@ -1,0 +1,10 @@
+{
+    "Title": "CIS 510 Handout 1",
+    "Body": "The conditions for joining polynomial curves will be derived using polar forms, and this will lead to a treatment of B-splines in terms of polar forms.",
+    "link": [
+        "mailto:jean@saul.cis.upenn.edu",
+        "http://www.cis.upenn.edu/~jean/geom96hm1.dvi.Z",
+        "http://www.cis.upenn.edu/~jean/geom96hm2.dvi.Z"
+    ],
+    "ground_truth": "course"
+}

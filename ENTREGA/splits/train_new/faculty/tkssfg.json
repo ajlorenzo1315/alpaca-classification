@@ -1,0 +1,10 @@
+{
+    "Title": "David Mount",
+    "Body": "Recent Publications Address: David Mount Department of Computer Science University of Maryland College Park, MD 20742 (301) 405-2704",
+    "link": [
+        "http://inform.umd.edu/",
+        "http://www.cs.umd.edu/",
+        "http://www.umiacs.umd.edu/"
+    ],
+    "ground_truth": "faculty"
+}

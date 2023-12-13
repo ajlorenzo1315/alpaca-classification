@@ -1,0 +1,10 @@
+{
+    "Title": "Robert Skeel",
+    "Body": "Return to the Beckman Institute Home Page.",
+    "link": [
+        "http://www.beckman.uiuc.edu/groups/TB/TBDescrip.html",
+        "http://www.beckman.uiuc.edu/groups/TB/people/Schulten.html",
+        "http://www.ks.uiuc.edu:1250/Research/namd/namd.html"
+    ],
+    "ground_truth": "faculty"
+}

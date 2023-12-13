@@ -1,0 +1,9 @@
+{
+    "Title": "About Jimm Fix",
+    "Body": "\"As far as I know, the restaurant used to be a trucker stop, and the truckers couldn't hold it all so they slapped it together,\" said cook Don Valentine.",
+    "link": [
+        "http://keaggy.cc.cmu.edu/pgh/index.html",
+        "mailto:fix@cs.washington.edu"
+    ],
+    "ground_truth": "other"
+}

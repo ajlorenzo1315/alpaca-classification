@@ -1,0 +1,8 @@
+{
+    "Title": "Abstract of Algebra / Type Theory CADE94 Paper",
+    "Body": "I describe my implementation of computational abstract algebra in the Nuprl system.",
+    "link": [
+        "mailto:jackson@cs.cornell.edu"
+    ],
+    "ground_truth": "other"
+}

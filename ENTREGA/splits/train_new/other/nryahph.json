@@ -1,0 +1,10 @@
+{
+    "Title": " Compilers at the UW ",
+    "Body": "Click here to find out about other CS&E research, and here to find out how to add bibliographic entries to this Web page.",
+    "link": [
+        "http://www.cs.washington.edu/research/",
+        "http://www.cs.washington.edu/research/arch/submit.html",
+        "http://www.cs.washington.edu/research/compiler/bench.html"
+    ],
+    "ground_truth": "other"
+}

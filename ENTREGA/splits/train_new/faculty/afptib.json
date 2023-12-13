@@ -1,0 +1,10 @@
+{
+    "Title": "About Dr. Judy Hankins",
+    "Body": "Non-instructional assignment received for Spring, 1991.The study involved the production of a model for a graphical user-interface to aid the test engineer of large complex software systems.",
+    "link": [
+        "http://www.mtsu.edu/academic/compsci/help.html",
+        "http://www.mtsu.edu/academic/compsci/comment.html",
+        "http://www.mtsu.edu/academic/compsci/faculty//"
+    ],
+    "ground_truth": "faculty"
+}

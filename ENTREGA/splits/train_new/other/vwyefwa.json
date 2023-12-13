@@ -1,0 +1,6 @@
+{
+    "Title": "ARIANE 5 Failure - Full Report",
+    "Body": "n) During design of the software of the inertial reference system used for Ariane 4 and Ariane 5, a decision was taken that it was not necessary to protect the inertial system computer from being made inoperative by an excessive value of the variable related to the horizontal velocity, a protection which was provided for several other variables of the alignment software.",
+    "link": [],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": " Betty Salzberg's home page",
+    "Body": "College of Computer Science Colloquium I am the Colloquium chair.",
+    "link": [
+        "mailto:salzberg@ccs.neu.edu",
+        "ftp://ftp.ccs.neu.edu/pub/people/georgio",
+        "ftp://ftp.ccs.neu.edu/pub/people/salzberg"
+    ],
+    "ground_truth": "faculty"
+}

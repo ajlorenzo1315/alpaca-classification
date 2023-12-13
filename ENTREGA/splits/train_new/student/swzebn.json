@@ -1,0 +1,10 @@
+{
+    "Title": "Brad's Home Page",
+    "Body": "Some links... A link to the UW Computer Sciences Home Page .",
+    "link": [
+        "mailto:brad@cs.wisc.edu",
+        "http://www.cs.wisc.edu",
+        "http://www.cs.wisc.edu/~cs640-1/cs640.html"
+    ],
+    "ground_truth": "student"
+}

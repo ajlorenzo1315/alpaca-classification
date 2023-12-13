@@ -1,0 +1,10 @@
+{
+    "Title": "The Chaos Router Chip",
+    "Body": "The 0.8 micron version was designed in 1994 as a revision of the first chip, but was not fabricated.",
+    "link": [
+        "http://www.cs.washington.edu/research/projects/lis/chaos/www/chip.gif",
+        "http://www.cs.washington.edu/research/projects/lis/chaos/www/chip.gif",
+        "http://www.cs.washington.edu/research/projects/lis/chaos/www/chipphoto.gif"
+    ],
+    "ground_truth": "other"
+}

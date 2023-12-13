@@ -1,0 +1,10 @@
+{
+    "Title": "Author",
+    "Body": "Phone: (608) 263-1938 FAX: (608) 262-9777 Home 201 N.Charter Street, #3 Madison, WI 53715, USA.",
+    "link": [
+        "http://www.cs.wisc.edu/cgi-bin/finger/m?krisna",
+        "mailto:krishna@cs.wisc.edu",
+        "http://www.cs.wisc.edu/~krisna/"
+    ],
+    "ground_truth": "other"
+}

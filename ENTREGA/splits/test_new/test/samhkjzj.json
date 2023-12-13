@@ -1,0 +1,10 @@
+{
+    "Title": "WELCOME TO GRID GENERATION PROJECT AT CORNELL",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Sunday, 24-Nov-96 22:57:28 GMT Content-Type: text/html Content-Length: 1109 Last-Modified: Friday, 15-Dec-95 20:20:23 GMT WELCOME TO GRID GENERATION PROJECT AT CORNELL GRID GENERATION PROJECT AT CORNELL Paul Chew , Nikos Chrisochoides and Steve Vavasis Research Objectives Mathematically Guaranted Quality Quadree and Octree based approach Delaunay Triangulation based approach Robust Minimize human interaction Parallel Grid Generation Applications For more information contact <a href=\"http://www.cs.cornell.edu/Info/People/nikosc/nikosc.html> Nikos Chrisochoides (607) 254 8839, Email: nikosc@cs.cornell.edu",
+    "link": [
+        "http://www.cs.cornell.edu/Info/People/chew/chew.html",
+        "http://www.cs.cornell.edu/Info/People/nikosc/nikosc.html",
+        "http://www.cs.cornell.edu/Info/People/vavasis/vavasis.html"
+    ],
+    "ground_truth": "unknow"
+}

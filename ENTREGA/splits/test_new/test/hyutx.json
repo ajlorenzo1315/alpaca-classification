@@ -1,0 +1,10 @@
+{
+    "Title": "Kent Tse's Home Page",
+    "Body": "Networking The installation, trouble-shooting, and maintenance of the Computer Science network.",
+    "link": [
+        "http://www-cnoc.cs.mcgill.ca/~kent/Audio/kent.aiff",
+        "http://www-cnoc.cs.mcgill.ca/info/reference.html",
+        "mailto:kent@cs.mcgill.ca"
+    ],
+    "ground_truth": "unknow"
+}

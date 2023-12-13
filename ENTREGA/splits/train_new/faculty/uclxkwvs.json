@@ -1,0 +1,10 @@
+{
+    "Title": "Henning Schulzrinne",
+    "Body": "of Computer Science & Dept.",
+    "link": [
+        "http://www.cs.columbia.edu/~hgs/sounds/hgs.au",
+        "http://www.cs.columbia.edu/home/general/directions.html#csdept",
+        "http://www.cs.columbia.edu"
+    ],
+    "ground_truth": "faculty"
+}

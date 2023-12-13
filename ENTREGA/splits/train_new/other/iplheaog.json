@@ -1,0 +1,10 @@
+{
+    "Title": "The Computer Science Curriculum",
+    "Body": "Applied Computer Science: CSCI 343 - Systems Analysis 3 s.h.",
+    "link": [
+        "http://cs.millersv.edu/descriptions.html",
+        "http://cs.millersv.edu/csgraph.html",
+        "http://cs.millersv.edu/"
+    ],
+    "ground_truth": "other"
+}

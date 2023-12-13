@@ -1,0 +1,10 @@
+{
+    "Title": "KOLLAs Home Ground",
+    "Body": "Your browser does not know java.",
+    "link": [
+        "http://www.cs.cornell.edu/Info/People/vivek/contact.html",
+        "http://www.cs.cornell.edu/Info/People/vivek/friends.html",
+        "http://www.cs.cornell.edu/Info/People/vivek/foes.html"
+    ],
+    "ground_truth": "student"
+}

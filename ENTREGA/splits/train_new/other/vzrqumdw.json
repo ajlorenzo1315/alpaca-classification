@@ -1,0 +1,6 @@
+{
+    "Title": " FPGA Placement and Routing ",
+    "Body": "In particular, the routing congestion information of a switch block essentially is still measured by the numbers of available rows and columns in the switch block.",
+    "link": [],
+    "ground_truth": "other"
+}

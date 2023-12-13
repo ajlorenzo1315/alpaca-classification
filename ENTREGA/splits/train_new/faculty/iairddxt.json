@@ -1,0 +1,10 @@
+{
+    "Title": "G&eacuterard Medioni - Home Page",
+    "Body": "Generic Shape Learning and Recognition , in Proceedings of the International Workshop on Object Representation in Computer Vision , Cambridge, England, April 1996.",
+    "link": [
+        "http://www.usc.edu/dept/cs/personal/medioni/picture.gif",
+        "http://iris.usc.edu",
+        "http://www.usc.edu"
+    ],
+    "ground_truth": "faculty"
+}

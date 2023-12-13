@@ -1,0 +1,10 @@
+{
+    "Title": "CSE/EE 461, Autumn 1996",
+    "Body": "If you have a letter from Disabled Student Services indicating you have a disability that requires academic accommodations, please present the letter to me so we can discuss the accommodations you might need for class.",
+    "link": [
+        "http://www.cs.washington.edu/education/courses/461//",
+        "http://www.cs.washington.edu/homes/somani/",
+        "mailto:somani@cs.washington.edu"
+    ],
+    "ground_truth": "course"
+}

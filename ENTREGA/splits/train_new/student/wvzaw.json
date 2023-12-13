@@ -1,0 +1,10 @@
+{
+    "Title": "No title",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Thursday, 21-Nov-96 22:32:43 GMT Content-Type: text/html Content-Length: 949 Last-Modified: Friday, 02-Feb-96 00:32:52 GMT Namaste.",
+    "link": [
+        "http://www.oir.ucf.edu/louvre/paint/auth/vinci/joconde/joconde.jpg",
+        "http://www.ccs.neu.edu/finger?mahi",
+        "http://www.ccs.neu.edu/home/mahi/indflag"
+    ],
+    "ground_truth": "student"
+}

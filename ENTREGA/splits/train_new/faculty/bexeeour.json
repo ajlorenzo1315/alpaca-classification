@@ -1,0 +1,10 @@
+{
+    "Title": " Tao Yang ",
+    "Body": "His main research interests are algorithms and programming environments for parallel and distributed processing, program scheduling and compilation,  and parallel scientific computing.",
+    "link": [
+        "http://www.ippsxx.org/",
+        "http://www.cs.ucsb.edu/Conferences/IRREGULAR96/",
+        "http://www.ens-lyon.fr/LIP/europar96"
+    ],
+    "ground_truth": "faculty"
+}

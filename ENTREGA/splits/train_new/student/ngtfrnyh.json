@@ -1,0 +1,10 @@
+{
+    "Title": " LIPTON COMPUTER CONSULTING",
+    "Body": "You are the visitor of my home page since June 1, 1995.",
+    "link": [
+        "http://www.cs.ualberta.ca/~zhong/gifs/zhongbright2.gif",
+        "http://www.cs.ualberta.ca/people/grad/aiff/zhong.aiff",
+        "http://www.cs.ualberta.ca"
+    ],
+    "ground_truth": "student"
+}

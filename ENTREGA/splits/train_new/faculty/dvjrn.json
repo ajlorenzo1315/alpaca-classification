@@ -1,0 +1,10 @@
+{
+    "Title": "Bill Birmingham's Homepage",
+    "Body": "Thus, the study of design is central to the study of artificial intelligence.",
+    "link": [
+        "http://www.eecs.umich.edu/DCO/EECS_home.html",
+        "http://www.umich.edu/",
+        "http://www.sils.umich.edu/"
+    ],
+    "ground_truth": "faculty"
+}

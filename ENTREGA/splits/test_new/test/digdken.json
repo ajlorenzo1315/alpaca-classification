@@ -1,0 +1,10 @@
+{
+    "Title": "Course project",
+    "Body": "Gut reaction would be that for any sort of financial transactions, data encryption and user authetication are the first and foremost concerns.",
+    "link": [
+        "http://www.digpath.com/library.html",
+        "http://greenland.trantech.com/pacnet/wcube/radius.html",
+        "http://www.securid.com/ID134.9992/Resources/WhitePapers/index.html"
+    ],
+    "ground_truth": "unknow"
+}

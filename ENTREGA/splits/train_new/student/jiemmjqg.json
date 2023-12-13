@@ -1,0 +1,10 @@
+{
+    "Title": "\nHome Page for Steve Dropsho\n",
+    "Body": "Date: Thursday, 21-Nov-96 23:17:23 GMT Server: NCSA/1.3 MIME-version: 1.0 Content-type: text/html Home Page for Steve Dropsho Steve Dropsho (dropsho@cs.umass.edu) Grad student in the Specialized Parallel Architecture Research Group For general links , bookmarks , or computer links , click.",
+    "link": [
+        "http://spa-www.cs.umass.edu/",
+        "http://spa-www.cs.umass.edu/~dropsho/links.html",
+        "http://spa-www.cs.umass.edu/~dropsho/bookmarks.html"
+    ],
+    "ground_truth": "student"
+}

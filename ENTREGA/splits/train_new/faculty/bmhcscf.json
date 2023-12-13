@@ -1,0 +1,10 @@
+{
+    "Title": "Stephen Taylor",
+    "Body": "Education Ph.D. in Computer Science, Weizmann Institute of Science, Israel.",
+    "link": [
+        "http://www.scp.caltech.edu/pictures/largeplane.jpg",
+        "http://www.scp.caltech.edu/steveresume.ps",
+        "http://www.scp.caltech.edu/PUBS.html"
+    ],
+    "ground_truth": "faculty"
+}

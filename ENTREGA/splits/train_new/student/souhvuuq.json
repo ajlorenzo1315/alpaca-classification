@@ -1,0 +1,10 @@
+{
+    "Title": "Andrew Certain's Home Page ",
+    "Body": "I am currently building a viewer which you can download here (requires SGI graphics workstation).",
+    "link": [
+        "http://www.cs.indiana.edu/finger/gateway?certain@cs.washington.edu",
+        "http://www.cs.washington.edu/homes/derose/",
+        "http://www.cs.washington.edu/homes/salesin/"
+    ],
+    "ground_truth": "student"
+}

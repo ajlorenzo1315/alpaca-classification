@@ -1,0 +1,10 @@
+{
+    "Title": "Charles Crowley Home Page",
+    "Body": "Date: Mon, 25 Nov 1996 23:19:29 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Wed, 30 Oct 1996 19:36:27 GMT Content-length: 2043 Charles Crowley Home Page Charles Crowley -- Home Page Class descriptions -- and exams and systems group.",
+    "link": [
+        "http://www.cs.unm.edu/~crowley/classes.html",
+        "http://www.cs.unm.edu/~crowley/osbook/begin.html",
+        "http://www.cs.unm.edu/~crowley/software.html"
+    ],
+    "ground_truth": "faculty"
+}

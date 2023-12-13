@@ -1,0 +1,8 @@
+{
+    "Title": "DATAMAN Lab Configuration",
+    "Body": "These use Wavelan-AT cards to communicate with other mobile hosts and base station that are within the hearing distance.",
+    "link": [
+        "mailto:navas@cs.rutgers.edu"
+    ],
+    "ground_truth": "unknow"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Introduction to Computer Science II Home Page",
+    "Body": "Date: Tue, 26 Nov 1996 18:49:36 GMT Server: NCSA/1.4.1 Content-type: text/html Last-modified: Sun, 24 Nov 1996 16:14:12 GMT Content-length: 1983 Introduction to Computer Science II Home Page Introduction to Computer Science II V22.0102 Professor: Samuel Marateck Reaching Samuel Marateck e-mail marateck@cs.nyu.edu phone: (212) 998-3146 office: 620 Warren Weaver Hall office hours: 4:30 - 6:00 Monday and Wednesday Help with homeworks and course A graduate adviser will be available to help students at 14 Washington Place at these provisional times: Tuesdays from 5:00 to 8:00pm Fridays from 2:00 to 5:00 pm Syllabus Rules for writing programs Instructions for course email list Sending homeworks by email Where to submit your programs How to ftp your programs to a Unix machine How to attach files to a pine email Homeworks Homework #1 , Connect 4.",
+    "link": [
+        "http://cs.nyu.edu/cs/faculty/marateck/",
+        "mailto:marateck@cs.nyu.edu",
+        "http://cs.nyu.edu/cs/dept_info/course_home_pages/spr97/V22.0102/syllabus.html"
+    ],
+    "ground_truth": "course"
+}

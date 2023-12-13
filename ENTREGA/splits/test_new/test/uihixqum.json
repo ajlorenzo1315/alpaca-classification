@@ -1,0 +1,10 @@
+{
+    "Title": "Mathematics For Computer Generated Spoken Documents",
+    "Body": "audio LaTeX Postscript audio LaTeX Postscript Here is Faa De Bruno's formula in all its glory:- Audio (66 seconds) LaTeX Postscript AsTeR can process complex expressions like the above, and upon request, replace complex sub-expressions with meaningful identifiers.",
+    "link": [
+        "http://www.cs.cornell.edu/Info/People/raman/aster/math-examples/title.au",
+        "http://www.cs.cornell.edu/Info/People/raman/aster/math-examples/dedication.au",
+        "http://www.cs.cornell.edu/Info/People/raman/aster/raman.html"
+    ],
+    "ground_truth": "unknow"
+}

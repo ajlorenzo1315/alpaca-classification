@@ -1,0 +1,9 @@
+{
+    "Title": "Quotes screaming for Formal Methods",
+    "Body": "Posted to RISK Digest 18.56 by Kofi Crentsil (crentsil.k@atomcon.gc.ca) *Electronic Engineering Times*, 28 Oct 1996 \"Software explosion rattles car makers\" Automakers [are facing] runaway growth in the lines of code their engineers must write and manage as microprocessors take over automotive functions... ``Software is where the problem is today,'' said William Powers, VP of research at Ford.",
+    "link": [
+        "http://www.cs.utexas.edu/users/kornerup/ariane5rep.html",
+        "mailto:kornerup@tweety.cs.utexas.edu"
+    ],
+    "ground_truth": "other"
+}

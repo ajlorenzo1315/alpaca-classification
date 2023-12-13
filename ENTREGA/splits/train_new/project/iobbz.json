@@ -1,0 +1,10 @@
+{
+    "Title": "Welcome to BISC",
+    "Body": "Institution for Fuzzy Systems and Intelligent Control The Department of Computer Science and Artificial Intelligence, Granada Spain Fuzzy Logic at the University of Missouri-Columbia Genetic Algorithms List Employment Job postings by BISC members BISC Members in search of positions How to join BISC To join the BISC group, all you need to do is send your contact information to the BISC Administrator .",
+    "link": [
+        "http://HTTP.CS.Berkeley.EDU/Research/Projects/Bisc/bisc.memo.html",
+        "http://HTTP.CS.Berkeley.EDU/Research/Projects/Bisc/bisc.memo.html#a_bit_of_history",
+        "http://HTTP.CS.Berkeley.EDU/Research/Projects/Bisc/bisc.memo.html#what_is_sc"
+    ],
+    "ground_truth": "project"
+}

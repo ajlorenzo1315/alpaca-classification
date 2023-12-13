@@ -1,0 +1,10 @@
+{
+    "Title": "Visualization Lab Home Page",
+    "Body": "Date: Tue, 26 Nov 1996 00:40:51 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Tue, 03 Sep 1996 19:21:31 GMT Content-length: 2430 Visualization Lab Home Page Visualization lab Welcome to the Visualization Laboratory of the Department of Computer Sciencei at the State University of New York at Stony Brook .",
+    "link": [
+        "http://www.cs.sunysb.edu/",
+        "http://www.cs.sunysb.edu",
+        "http://www.cs.sunysb.edu/~ari"
+    ],
+    "ground_truth": "project"
+}

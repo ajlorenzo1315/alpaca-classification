@@ -1,0 +1,10 @@
+{
+    "Title": "Jonathan Swartz's Home Page",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Wednesday, 20-Nov-96 19:46:40 GMT Content-Type: text/html Content-Length: 1031 Last-Modified: Monday, 07-Oct-96 21:37:40 GMT Jonathan Swartz's Home Page Jonathan Swartz swartz@cs.cornell.edu I'm a Ph.D. student in the Department of Computer Science at Cornell University.",
+    "link": [
+        "mailto:swartz@cs.cornell.edu",
+        "http://www.cs.cornell.edu/",
+        "http://www.cs.cornell.edu/Info/Projects/zeno/rivl/rivl.html"
+    ],
+    "ground_truth": "student"
+}

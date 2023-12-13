@@ -1,0 +1,10 @@
+{
+    "Title": "CS 312 Homepage ",
+    "Body": "Newsgroup The newsgroup for this class is byu.class.cs312.",
+    "link": [
+        "http://www.cs.byu.edu/courses/cs312/syllabus.html",
+        "http://www.cs.byu.edu/courses/cs312/schedule.html",
+        "http://www.cs.byu.edu/courses/cs312/312lab.html"
+    ],
+    "ground_truth": "course"
+}

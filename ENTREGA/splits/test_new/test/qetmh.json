@@ -1,0 +1,10 @@
+{
+    "Title": "Henry E. Kyburg, Jr.'s Home Page",
+    "Body": "Not only do we want to represent uncertainty in a fixed body of knowledge, but we want to use new evidence to update those probabilities.",
+    "link": [
+        "http://www.cs.rochester.edu/research/plausible.html",
+        "http://www.cs.rochester.edu/u/mucit/grouppubs/hekuai96.html",
+        "http://www.cs.rochester.edu/users/grads/mucit/grouppubs/hekpubs.html"
+    ],
+    "ground_truth": "unknow"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "\nBasic Operating Systems projects.\n",
+    "Body": "Examples of projects are a distributed CD-rom file server for plan9, a process server for VSTA, various device drivers for VSTA, a kernel packet filter for either of the architectures, etc.",
+    "link": [
+        "http://plan9.att.com/plan9",
+        "http://www.cen.uiuc.edu/~jeske/VSTa/",
+        "mailto:vogels@cs.cornell.edu"
+    ],
+    "ground_truth": "other"
+}

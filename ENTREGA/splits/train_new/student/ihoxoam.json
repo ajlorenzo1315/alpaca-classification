@@ -1,0 +1,10 @@
+{
+    "Title": "Eric Schrager's Home Page",
+    "Body": "I was featured in an article in the June 1996 ComputerWorld Client/Server Journal.",
+    "link": [
+        "http://www.cs.nyu.edu/msis_students/schr9047/courses.html",
+        "http://www.cs.nyu.edu/msis_students/schr9047/snake.html",
+        "http://www.computerworld.com/search/AT-html/9606/960601CSJSL9606csjj.html"
+    ],
+    "ground_truth": "student"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "\nPublications\n",
+    "Body": "In Proceedings of the IEEE Symposium on Research in Security and Privacy , Oakland, CA, May 1991.",
+    "link": [
+        "workload-charac.ipps.ps",
+        "pps.abstract.html#workload-charac",
+        "self-tuning.ipps.ps"
+    ],
+    "ground_truth": "other"
+}

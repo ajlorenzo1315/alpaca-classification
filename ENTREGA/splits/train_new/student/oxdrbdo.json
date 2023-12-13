@@ -1,0 +1,10 @@
+{
+    "Title": "Jeremy Sussman's Home Page",
+    "Body": "I'm brand new to this whole internet thang, so I expect my home page will get more interesting as time goes on.",
+    "link": [
+        "http://www-cse.ucsd.edu/CSE_Home_Page.html",
+        "http://www.sandiego.org",
+        "http://www-cse.ucsd.edu/users/jsussman//users/marzullo"
+    ],
+    "ground_truth": "student"
+}

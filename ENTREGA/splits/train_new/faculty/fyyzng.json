@@ -1,0 +1,10 @@
+{
+    "Title": "Gianfranco Ciardo's Home Page",
+    "Body": "Date: Mon, 25 Nov 1996 23:32:13 GMT Server: NCSA/1.4.1 Content-type: text/html Last-modified: Tue, 29 Oct 1996 21:46:05 GMT Content-length: 1930 Gianfranco Ciardo's Home Page Assistant Professor Department of Computer Science College of William & Mary Mailing address Department of Computer Science College of William and Mary P.O.",
+    "link": [
+        "http://www.cs.wm.edu/",
+        "http://www.wm.edu/",
+        "http://www.icase.edu/"
+    ],
+    "ground_truth": "faculty"
+}

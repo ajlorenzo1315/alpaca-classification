@@ -1,0 +1,10 @@
+{
+    "Title": " Wayne Ohlrich ",
+    "Body": "The Seattle information home page.",
+    "link": [
+        "http://www.cs.indiana.edu/finger/gateway?ohlrich@cs.washington.edu",
+        "http://www.cs.washington.edu/",
+        "ftp://ftp.u.washington.edu/public/"
+    ],
+    "ground_truth": "unknow"
+}

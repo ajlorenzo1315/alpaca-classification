@@ -1,0 +1,10 @@
+{
+    "Title": "\nResearch in Multicast Networking\n",
+    "Body": "We are currently pursuing several related efforts in the area of reliable multicast protocols: A critical issue for multicast applications and the higher layer protocols that support them is the manner in which packet losses occur within the multicast network.",
+    "link": [
+        "ftp://gaia.cs.umass.edu/pub/Yajn96:Loss.ps.Z",
+        "ftp://gaia.cs.umass.edu/pub/Yajn96:Loss.ps.Z",
+        "ftp://gaia.cs.umass.edu/pub/Tows96:Comparison.ps"
+    ],
+    "ground_truth": "other"
+}

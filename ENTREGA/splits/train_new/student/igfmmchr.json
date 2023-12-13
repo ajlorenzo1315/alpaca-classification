@@ -1,0 +1,10 @@
+{
+    "Title": "Brett Vickers' Home Page",
+    "Body": "Brett Vickers (bvickers@ics.uci.edu) Department of Information and Computer Science, University of California, Irvine CA 92697-3425",
+    "link": [
+        "http://www.ics.uci.edu/dir/grad/CSD/bvickers",
+        "http://www.ics.uci.edu/~atm/",
+        "http://www.ics.uci.edu/~bvickers/papers/papers.html"
+    ],
+    "ground_truth": "student"
+}

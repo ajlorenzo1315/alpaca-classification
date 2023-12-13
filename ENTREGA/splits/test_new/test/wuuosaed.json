@@ -1,0 +1,10 @@
+{
+    "Title": "ben blake's Home Page",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Monday, 25-Nov-96 20:12:30 GMT Content-Type: text/html Content-Length: 641 Last-Modified: Thursday, 01-Feb-96 18:48:23 GMT ben blake's Home Page my weekly schedule is in ~bab/.plan To see my research interests click here.",
+    "link": [
+        "http://cis.csuohio.edu/~bab//~bab/.plan",
+        "http://cis.csuohio.edu/~bab//~bab/research.html",
+        "http://cis.csuohio.edu/~bab//~bab/kidpic.html"
+    ],
+    "ground_truth": "unknow"
+}

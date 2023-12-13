@@ -1,0 +1,10 @@
+{
+    "Title": "Logic And Functional Programming Group -- SFU",
+    "Body": "Objectives The group's objectives are: To further the state of the art on the theoretical and practical aspects of developing declarative programming tools (in particular, logic programming, functional programming, constraint logic programming and logic grammars); To investigate the uses of these tools for concrete Fifth Generation Computing applications, and to facilitate result transfers and collaborations with other academic units and with industry.",
+    "link": [
+        "http://fas.sfu.ca/cs/people/Faculty/Dahl/",
+        "http://fas.sfu.ca/cs/people/Faculty/Popowich/",
+        "http://fas.sfu.ca/cs/people/Faculty/Ait-Kaci/"
+    ],
+    "ground_truth": "project"
+}

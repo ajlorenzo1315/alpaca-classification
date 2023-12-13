@@ -1,0 +1,10 @@
+{
+    "Title": "Janeen's homepage",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Wednesday, 20-Nov-96 19:38:50 GMT Content-Type: text/html Content-Length: 860 Last-Modified: Thursday, 18-Jul-96 00:38:55 GMT Janeen's homepage Janeen W. Reich Welcome to my home page.",
+    "link": [
+        "http://www.cornell.edu ",
+        "http://www.ti.com",
+        "mailto:jreich@cs.cornell.edu"
+    ],
+    "ground_truth": "student"
+}

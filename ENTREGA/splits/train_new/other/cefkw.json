@@ -1,0 +1,10 @@
+{
+    "Title": "\nCS 718 Project Report\n",
+    "Body": "Since those DX nets were built to provide a prototype for visualizing the GIS work, they can be used to generate various displays and animations in accordance with different purposes.",
+    "link": [
+        "#Intro",
+        "#Data",
+        "#Visualization"
+    ],
+    "ground_truth": "other"
+}

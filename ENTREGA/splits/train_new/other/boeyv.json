@@ -1,0 +1,10 @@
+{
+    "Title": "Mathematics For Computer Generated Spoken Documents",
+    "Body": "To convey subscripts, superscripts, and other visual attributes, AsTeR varies audio state along a dimension that is orthogonal to (independent of ) the dimension used to convey sub-expressions.",
+    "link": [
+        "http://www.cs.cornell.edu/Info/People/raman/aster/math-examples/title.au",
+        "http://www.cs.cornell.edu/Info/People/raman/aster/dedication.au",
+        "http://www.cs.cornell.edu/Info/People/raman/aster/raman.html"
+    ],
+    "ground_truth": "other"
+}

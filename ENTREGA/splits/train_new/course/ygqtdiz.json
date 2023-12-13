@@ -1,0 +1,10 @@
+{
+    "Title": "CS 490/Ma 485: Theory of Computation ",
+    "Body": "The textbook is: John C. Martin, Introduction to Languages and the Theory of Computation , McGraw-Hill, 1991 Office hours are MWF 2:30-3:20, Th 9:30-10:20.",
+    "link": [
+        "http://www.cs.uidaho.edu/~foster",
+        "mailto:foster@cs.uidaho.edu",
+        "mailto:tsoule@cs.uidaho.edu"
+    ],
+    "ground_truth": "course"
+}

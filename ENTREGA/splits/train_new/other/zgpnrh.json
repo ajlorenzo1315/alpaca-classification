@@ -1,0 +1,10 @@
+{
+    "Title": "CSE467 Sample Abel State Machines",
+    "Body": "Date: Wed, 08 Jan 1997 21:44:15 GMT Server: NCSA/1.4.2 Content-type: text/html CSE467 Sample Abel State Machines CSE467: Advanced Logic Design Carl Ebeling, Spring 1996 Sample State Machine Implementation in ABEL Hopefully this will give you an idea how to construct a simple state machine in ABEL.",
+    "link": [
+        "moore1.abl",
+        "moore2.abl",
+        "mealy1.abl"
+    ],
+    "ground_truth": "other"
+}

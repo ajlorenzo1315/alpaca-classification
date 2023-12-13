@@ -1,0 +1,10 @@
+{
+    "Title": "Object-Oriented Programming (Graduate) Home Page",
+    "Body": "Principles of Object-Oriented Software Developement, by Anton Eliens, Addison-Wesley.",
+    "link": [
+        "http://cs.nyu.edu/cs/faculty/schonberg",
+        "mailto:schonber@cs.nyu.edu",
+        "mailto: binli@slinky.cs.nyu.edu"
+    ],
+    "ground_truth": "course"
+}

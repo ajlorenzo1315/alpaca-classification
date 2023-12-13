@@ -1,0 +1,10 @@
+{
+    "Title": "CS451 Course Intro",
+    "Body": "My attitude about teaching and learning My job is to come prepared to lecture every day, present and clarify material that I feel is important, and guide you all through a series of \"stories\" that are intended to convey the basic points of the course.",
+    "link": [
+        "http://www.cs.washington.edu/homes/bershad/index.html",
+        "http://www.cs.washington.edu/homes/sungeun/",
+        "http://www.cs.washington.edu/education/courses/451/CurrentQuarter/feedback.html"
+    ],
+    "ground_truth": "other"
+}

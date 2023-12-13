@@ -1,0 +1,10 @@
+{
+    "Title": "Zeno Mission",
+    "Body": "The value in such research is in the study of the interaction between components, the occasional creation of component technologies, and the spin-off technologies that result.",
+    "link": [
+        "http://www.cs.cornell.edu/Info/Projects/zeno/Projects/Tcl-DP.html",
+        "http://bmrc.berkeley.edu/projects/cmt/",
+        "http://www.cs.cornell.edu/Info/Projects/zeno/Projects/DVFS.html"
+    ],
+    "ground_truth": "other"
+}

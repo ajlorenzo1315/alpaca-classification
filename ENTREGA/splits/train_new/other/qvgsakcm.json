@@ -1,0 +1,10 @@
+{
+    "Title": "Mossy Bits",
+    "Body": "Date: Tue, 10 Dec 1996 21:20:30 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Mon, 25 Nov 1996 19:07:57 GMT Content-length: 2037 Mossy Bits Welcome to Mossy Bits Mossy Bits is the Computer Science and Engineering department's nearly annual graduate student online creative arts journal.",
+    "link": [
+        "mailto:mossy-bits@cs.washington.edu",
+        "http://www.cs.washington.edu/publications/mossybits/autumn95/index.html",
+        "http://www.cs.washington.edu/publications/mossybits/winter97/call_submit.html"
+    ],
+    "ground_truth": "other"
+}

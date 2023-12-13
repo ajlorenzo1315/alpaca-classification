@@ -1,0 +1,10 @@
+{
+    "Title": "Keith Price",
+    "Body": "Date: Thu, 21 Nov 1996 21:05:51 GMT Server: Apache/1.1.1 Content-type: text/html Content-length: 1647 Last-modified: Mon, 26 Aug 1996 23:03:55 GMT Keith Price Keith Price Office PHE 230, MC-0273 Institute for Robotics and Intelligent Systems University of Southern California Los Angeles, CA 90089-0273 Email price@usc.edu which is forwarded to price@iris.usc.edu Phone Office: 213-740-6439 FAX: 213-740-7877 Home (answering machine): 310-204-0546 Schedule Classes will start.",
+    "link": [
+        "http://www.usc.edu/dept/cs/personal/price/picture.gif",
+        "mailto:price@usc.edu",
+        "http://iris.usc.edu/Vision-Notes/bibliography/contents.html"
+    ],
+    "ground_truth": "unknow"
+}

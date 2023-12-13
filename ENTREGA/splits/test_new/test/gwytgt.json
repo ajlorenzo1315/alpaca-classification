@@ -1,0 +1,10 @@
+{
+    "Title": " IDA Home Page ",
+    "Body": "IDA is the Department of Computer and Information Science at Linköping University in Sweden .",
+    "link": [
+        "http://www.liu.se/",
+        "http://www.sunet.se/map/sweden.html",
+        "http://www.ida.liu.se/department/people/"
+    ],
+    "ground_truth": "unknow"
+}

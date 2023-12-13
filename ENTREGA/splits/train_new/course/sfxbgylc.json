@@ -1,0 +1,10 @@
+{
+    "Title": "CS 525 Home Page",
+    "Body": "Much of the information for the class will not be given on paper but instead through the Web Page.",
+    "link": [
+        "http://www.cs.byu.edu/info/snwoodfield.html",
+        "http://osm7.cs.byu.edu/cs525/schedule.html",
+        "http://osm7.cs.byu.edu/cs525/lectures.html"
+    ],
+    "ground_truth": "course"
+}

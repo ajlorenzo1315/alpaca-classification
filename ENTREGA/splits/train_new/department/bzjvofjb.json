@@ -1,0 +1,10 @@
+{
+    "Title": "University of Newcastle Dept of Computing Science",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Tuesday, 26-Nov-96 23:12:32 GMT Content-Type: text/html Content-Length: 2789 Last-Modified: Monday, 10-Jun-96 12:34:08 GMT University of Newcastle Dept of Computing Science General Information People Research Teaching Vacancies and Scholarships Study Opportunities (BSc, MSc, PhD) Publications etc.",
+    "link": [
+        "http://www.ncl.ac.uk/",
+        "http://dcs.www.ncl.ac.uk/general.info/",
+        "http://dcs.www.ncl.ac.uk/general.info/"
+    ],
+    "ground_truth": "department"
+}

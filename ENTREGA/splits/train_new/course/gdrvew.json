@@ -1,0 +1,10 @@
+{
+    "Title": " PLT Information ",
+    "Body": "Date: Tue, 26 Nov 1996 18:37:47 GMT Server: Apache/1.1.1 Content-type: text/html Content-length: 5574 Last-modified: Fri, 22 Nov 1996 23:29:08 GMT PLT Information CS W4115: Programming Languages and Translators (Fall 1996) Course Benefits: Understand  different paradigms of programming languages Understand important issues in implementing programming languages Learn to design new programming languages tailored for specific applications Instructor: Professor Mukesh Dalal Office hours: Tuesdays and Thursdays 1:30-2:30 pm Office phone:         (212) 939-7114 Email address:        dalal@cs.columbia.edu Teaching Assistants: Li Yang (Head) Office hours: Monday and Wednesday 4:00-5:00 pm Email address: lyang@cs.columbia.edu Maggie Lee Office hours: Tuesday 4:00-6:00pm Location: Student Research Lab (CS Department) Email address: maggie@cs.columbia.edu Lecture Days and time: Tuesdays and Thursdays 2:40-3:55 pm 627 MUD Credits for course: 3 Description: Covers programming language design issues; syntax; the translation process; names, locations and values; control structures; data types; input and output; procedures and parameters; nesting and scope; object- oriented programming, encapsulation, and inheritance; logic programming; functional programming; and concurrent programming.",
+    "link": [
+        "http://www.cs.columbia.edu/~dalal/ftp/4115/general.ps",
+        "http://www.cs.columbia.edu/~dalal/ftp/4115/schedule.ps",
+        "http://www.cs.columbia.edu/~dalal/ftp/4115/submit.ps"
+    ],
+    "ground_truth": "course"
+}

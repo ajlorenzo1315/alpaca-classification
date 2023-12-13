@@ -1,0 +1,10 @@
+{
+    "Title": "Walter Savitch",
+    "Body": "Date: Thu, 21 Nov 1996 20:08:18 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Fri, 06 Sep 1996 20:59:59 GMT Content-length: 1329 Walter Savitch Walter Savitch Professor Department of Computer Science and Engineering Director Interdisciplinary Ph.D.",
+    "link": [
+        "http://www-cse.ucsd.edu/groups/beautify/2ndhome.html",
+        "http://www-cse.ucsd.edu/users/savitch/cogsci.prog",
+        "http://www-cse.ucsd.edu/users/savitch/cogsci.html"
+    ],
+    "ground_truth": "faculty"
+}

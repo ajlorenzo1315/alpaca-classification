@@ -1,0 +1,5 @@
+{
+    "Título": "Linguistic String Project",
+    "Cuerpo": "Academic Press, NY. [#11] Sager, N. (1975). Sublanguage Grammars in Science Information Processing. Journal of the American Society for Information Science 26, 10-16. [#12] Sager, N., and Grishman, R. (1975). The Restriction Language for Computer Grammars of Natural Language. [#13] Hirschman, L., Grishman, R., and Sager, N. (1975). Information Processing and Management 11, 39-57. [#33] Hirschman, L., and Sager, N. (1982). Automatic Information Formatting of a Medical Sublanguage. Walter de Gruyter, Berlin, pp. [#34] Sager, N. (1981). Natural Language Information Processing: A Computer Grammar of English and Its Applications . Addison-Wesley, Reading, Mass. [#65] Sager, N., Friedman, C., Lyman, M.S., MD, and members of the Linguistic String Project (1987). Medical Language Processing: Computer Management of Narrative Data . Addison-Wesley, Reading, MA. [#82] Sager, N., Lyman, M.S., Bucknall, C., Nhan, N.T., Tick, L.J., (1994)  Natural Language Processing and the Representation of Clinical Data, Journal of American Medical Informatics Society , vol. 1, no. 2, pp.",
+    "ground_truth": "other"
+}

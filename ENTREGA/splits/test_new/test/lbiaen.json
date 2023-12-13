@@ -1,0 +1,10 @@
+{
+    "Title": " Frameworks and Algorithms for the Analysis and Transformation of Scientific Programs",
+    "Body": "Array Data Dependence Analysis Value-based Dependence Analysis Static Analysis of Upper and Lower Bounds on Dependences and Parallelism The Omega Test Eliminate Existentially Quantified Variables Verify the Existence of Solutions Remove Redundant Constraints Verify Implications Simplify Formulas Involving Negation Related Work A Framework for Unifying Reordering Transformations Code generation Related work Implementation and Users Future Directions References About this document ... Next: Array Data Dependence Where to get Omega project software Omega project software is available for anonymous FTP: Version 1.00 of Petit, the Omega Calculator and Library (binaries and sources).",
+    "link": [
+        "http://www.cs.umd.edu/projects/hpssl",
+        "http://www.cs.umd.edu",
+        "http://www.umcp.umd.edu"
+    ],
+    "ground_truth": "unknow"
+}

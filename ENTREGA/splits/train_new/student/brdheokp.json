@@ -1,0 +1,10 @@
+{
+    "Title": "Home Page for Rob Conticello",
+    "Body": "Date: Tue, 26 Nov 1996 17:54:36 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Mon, 29 Jul 1996 20:56:57 GMT Content-length: 1446 Home Page for Rob Conticello Rob Conticello Fourth year Computer Science graduate student.",
+    "link": [
+        "http://www.cs.pitt.edu/~robc/rob.jpg",
+        "http://www.cs.pitt.edu/~panos",
+        "http://www.cs.pitt.edu/~robc/oldindex.html"
+    ],
+    "ground_truth": "student"
+}

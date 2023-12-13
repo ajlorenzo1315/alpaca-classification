@@ -1,0 +1,10 @@
+{
+    "Title": "Paradise front-end",
+    "Body": "Date: Tue, 05 Nov 1996 21:03:03 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Wed, 19 Oct 1994 23:43:30 GMT Content-length: 902 Paradise front-end Samples of the Paradise front-end.",
+    "link": [
+        "http://www.cs.wisc.edu/paradise/snapshots/africa.gif",
+        "http://www.cs.wisc.edu/paradise/snapshots/antarctica.gif",
+        "http://www.cs.wisc.edu/paradise/snapshots/asia.gif"
+    ],
+    "ground_truth": "other"
+}

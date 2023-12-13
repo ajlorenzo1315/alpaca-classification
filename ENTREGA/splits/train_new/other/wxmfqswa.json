@@ -1,0 +1,9 @@
+{
+    "Title": " Demo Applet ",
+    "Body": "Date: Tue, 10 Dec 1996 23:17:46 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Fri, 29 Mar 1996 18:17:07 GMT Content-length: 800 Demo Applet Sorry, you are not using a Java compatible browser This applet demonstrates some offscreen copying effects.",
+    "link": [
+        "http://www.cs.washington.edu/homes/jbaer/index.html",
+        "mailto:jbaer@cs.washington.edu"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,8 @@
+{
+    "Title": "Dan and My Roomies and Some Other Random People",
+    "Body": "This is Dan and Vince.",
+    "link": [
+        "http://www.cs.wisc.edu/~jherro"
+    ],
+    "ground_truth": "other"
+}

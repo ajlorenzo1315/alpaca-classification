@@ -1,0 +1,10 @@
+{
+    "Title": "Operating Systems Laboratory\nOrganization and Tools",
+    "Body": "For example, to compile a C source file named main.c, an assembly listing named lowlevel.s, and the object io.o into an executable named prog1 use xcc in the following way: xcc -o prog1 main.c lowlevel.s io.o For more information about the above options, consult the man pages on the Sun C compiler (cc command).",
+    "link": [
+        "http://www.csc.ncsu.edu/cgi-bin/imagemap/header-all",
+        "#intro",
+        "#tools"
+    ],
+    "ground_truth": "project"
+}

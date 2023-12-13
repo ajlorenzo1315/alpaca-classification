@@ -1,0 +1,9 @@
+{
+    "Title": "Theory",
+    "Body": "A constraint satisfaction problem is one in which a series of constraints is imposed on a set of discrete variables.",
+    "link": [
+        "http://www.cs.indiana.edu/research/pwp/www.cs.indiana.edu/hypan/pwp.html",
+        "http://www.cs.indiana.edu/l/www/research/index.html"
+    ],
+    "ground_truth": "project"
+}

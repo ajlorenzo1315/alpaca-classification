@@ -1,0 +1,10 @@
+{
+    "Title": "Sean C. Landis",
+    "Body": "Masters of Engineering Project, CS 790 - A Windows-based 3D graphics rendering system.",
+    "link": [
+        "http://www.cornell.edu",
+        "http://www.cs.cornell.edu/Info/People/scl/resume.html",
+        "http://cs.wpi.edu/cgi-bin/finger?scl10@cornell.edu"
+    ],
+    "ground_truth": "student"
+}

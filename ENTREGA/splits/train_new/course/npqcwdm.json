@@ -1,0 +1,10 @@
+{
+    "Title": "COS 461: Distributed Computing  (Fall 1995)",
+    "Body": "Server: Netscape-Commerce/1.12 Date: Wednesday, 20-Nov-96 22:45:32 GMT Last-modified: Sunday, 13-Oct-96 13:42:34 GMT Content-length: 1059 Content-type: text/html COS 461: Distributed Computing  (Fall 1995) COS 461: Distributed Computing   (Fall 1995) The online Gallery of Course Projects is now available.",
+    "link": [
+        "http://flagstaff.princeton.edu:8080/cs461projects.html",
+        "http://www.CS.Princeton.EDU/courses/archive/fall95/cs461/info.html",
+        "http://www.CS.Princeton.EDU/courses/archive/fall95/cs461/lectureNotes"
+    ],
+    "ground_truth": "course"
+}

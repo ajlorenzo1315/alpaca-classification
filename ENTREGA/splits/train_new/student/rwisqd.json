@@ -1,0 +1,10 @@
+{
+    "Title": "Home Page of Qinghui Zhou",
+    "Body": "My Family Here is my wedding album My favorite Sites: Chinese Stuff Movie Information From 1994 to 1995, I worked in the Management Information Systems of Civil Aviation Administration of China(CAAC) as a system analyst.",
+    "link": [
+        "http://www.cs.cmu.edu/afs/cs/user/qzhou/www/gary1.jpg",
+        "http://www.cs.pitt.edu",
+        "http://www.pitt.edu"
+    ],
+    "ground_truth": "student"
+}

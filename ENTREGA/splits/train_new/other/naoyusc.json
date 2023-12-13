@@ -1,0 +1,10 @@
+{
+    "Title": "A Road Map Through Nachos",
+    "Body": "Nachos provides a skeletal operating system that supports threads, user-level processes, virtual memory and interrupt-driven input output devices.",
+    "link": [
+        "http://www.cs.duke.edu/~narten/110/nachos/main/node1.html",
+        "http://www.cs.duke.edu/~narten/110/nachos/main/node1.html",
+        "http://www.cs.duke.edu/~narten/110/nachos/main/node1.html"
+    ],
+    "ground_truth": "other"
+}

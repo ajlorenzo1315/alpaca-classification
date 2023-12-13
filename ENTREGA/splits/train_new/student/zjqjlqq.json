@@ -1,0 +1,10 @@
+{
+    "Title": "Justin Miller - Home Page ",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Wednesday, 20-Nov-96 19:39:25 GMT Content-Type: text/html Content-Length: 1052 Last-Modified: Thursday, 28-Mar-96 20:27:56 GMT Justin Miller - Home Page Justin Miller -Home Page That's me, in my Navy uniform.",
+    "link": [
+        "http://www.cs.cornell.edu/",
+        "http://www.cs.cornell.edu/Info/Courses/Current/CS664/CS664.html",
+        "http://www.cs.cornell.edu/Info/Projects/csrvl/csrvl.html"
+    ],
+    "ground_truth": "student"
+}

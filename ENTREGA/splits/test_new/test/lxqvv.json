@@ -1,0 +1,10 @@
+{
+    "Title": "Bob Doorenbos' Home Page",
+    "Body": "Date: Thu, 21 Nov 1996 20:20:12 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Mon, 04 Nov 1996 23:43:52 GMT Content-length: 9177 Bob Doorenbos' Home Page Bob Doorenbos' Home Page Department of Computer Science and Engineering University of Washington Box 352350 Seattle , WA 98195 Office: 423 Sieg Hall; (206) 543-3368; bobd@cs.washington.edu; FAX (206) 543-2969 Currently working at: Netbot Inc. 4530 Union Bay Place NE, Suite 208 Seattle , WA 98105 Voice (206) 522-7800 ext.",
+    "link": [
+        "http://www.cs.washington.edu/",
+        "http://www.washington.edu",
+        "http://www.seanet.com/Seattle/SeattleHome.html"
+    ],
+    "ground_truth": "unknow"
+}

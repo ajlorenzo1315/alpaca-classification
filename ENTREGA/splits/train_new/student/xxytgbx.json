@@ -1,0 +1,10 @@
+{
+    "Title": "Joel Auslander",
+    "Body": "The last sequence shows my work: how the computer can piece together some cartwheels, a jump, and shuffle into an animation without having the figure fall down and collapse.",
+    "link": [
+        "http://www.eff.org/blueribbon.html",
+        "http://www.cs.washington.edu/",
+        "http://www.cs.washington.edu/homes/ausland/animarts/animarts.tiff"
+    ],
+    "ground_truth": "student"
+}

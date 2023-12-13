@@ -1,0 +1,10 @@
+{
+    "Title": "Matthai Philipose's home page",
+    "Body": "In the short term, I'm interested in figuring out how to produce good code dynamically (i.e. at runtime) for modern processor architectures.",
+    "link": [
+        "http://www.cs.washington.edu/research/projects/unisw/DynComp/www",
+        "http://www.cs.washington.edu/homes/eggers",
+        "http://www.cs.washington.edu/people/faculty/chambers.html"
+    ],
+    "ground_truth": "student"
+}

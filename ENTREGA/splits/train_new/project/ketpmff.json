@@ -1,0 +1,9 @@
+{
+    "Title": "Temporal Reasoning",
+    "Body": "Server: Netscape-Enterprise/2.0a Date: Mon, 25 Nov 1996 23:53:31 GMT Accept-ranges: bytes Last-modified: Fri, 01 Dec 1995 19:05:32 GMT Content-length: 1349 Content-type: text/html Temporal Reasoning Temporal Reasoning This work has been going since 1988 and led by Dr. Robert Morris and Dr. Lina Khatib.",
+    "link": [
+        "http://cs.fit.edu/~morris/subsection3_2_1.html#SECTION0002100000000000000> A Constraint-based Framework for Reasoning With Non-\nconvex Intervals</A>\n<LI> <A NAME=tex2html39 HREF=",
+        "http://cs.fit.edu/~morris/subsection3_2_3.html#SECTION0002300000000000000> Using Time to Reason in Dynamic Environments</A>\n<LI> <A NAME=tex2html41 HREF="
+    ],
+    "ground_truth": "project"
+}

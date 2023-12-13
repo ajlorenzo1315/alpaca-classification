@@ -1,0 +1,9 @@
+{
+    "Title": "CS 182 Syllabus",
+    "Body": "For an article in a journal, include the author, article title, journal name, volume and number of the issue, date, and pages.",
+    "link": [
+        "http://www.cs.pomona.edu/182bib.html",
+        "mailto:rbull@pomona.edu"
+    ],
+    "ground_truth": "course"
+}

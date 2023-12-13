@@ -1,0 +1,9 @@
+{
+    "Title": "Constraint Hierarchies",
+    "Body": "We then outline algorithms for satisfying constraint hierarchies, and ways in which we have used constraint hierarchies in a number of programming languages and systems.",
+    "link": [
+        "ftp://cs.washington.edu/pub/constraints/papers/constraint-hierarchies-lisp-symb-comp.ps.Z",
+        "http://www.cs.washington.edu/research/projects/weird/www/index.html"
+    ],
+    "ground_truth": "other"
+}

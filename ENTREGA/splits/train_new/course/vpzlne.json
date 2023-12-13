@@ -1,0 +1,10 @@
+{
+    "Title": "CSE 401",
+    "Body": "Date: Thu, 21 Nov 1996 22:22:58 GMT Server: NCSA/1.4.2 Content-type: text/html CSE 401 CSE 401 Compilers Class Home This is the World Wide Web hypermedia document for CSE 401 and contains information about the class.",
+    "link": [
+        "http://www.cs.washington.edu/education/courses/401/CurrentQuarter/",
+        "http://www.cs.washington.edu/education/courses/401/CurrentQuarter/admin/",
+        "http://www.cs.washington.edu/education/courses/401/CurrentQuarter/details/"
+    ],
+    "ground_truth": "course"
+}

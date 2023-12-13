@@ -1,0 +1,10 @@
+{
+    "Title": " Cmpt330 (T1, 1996/97) Home Page ",
+    "Body": "Date: Tue, 26 Nov 1996 19:22:42 GMT Server: NCSA/1.5.1 Content-type: text/html Cmpt330 (T1, 1996/97) Home Page Cmpt330 Home Page Term 1 (Fall), 1996/97 Welcome to the 1996/97 offering of Cmpt330!",
+    "link": [
+        "http://www.cs.usask.ca/classes/330/BulletinBoard.html",
+        "http://www.cs.usask.ca/classes/330/Assignments.shtml",
+        "http://www.cs.usask.ca/classes/330/tutorials/index.html"
+    ],
+    "ground_truth": "course"
+}

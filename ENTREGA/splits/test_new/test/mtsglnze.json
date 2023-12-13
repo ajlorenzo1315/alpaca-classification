@@ -1,0 +1,10 @@
+{
+    "Title": "Steven Levitt's Home Page",
+    "Body": "111 ( Livingston Campus ) Lab in Tillet Lab ( Livingston Campus ) Grades for this section 23 Tuesday Period 5* (3:05-4:00) Beck, Rm 121 ( Livingston Campus ) Lab in Hill Center 009 ( Busch Campus ) Grades for this section 24 Thursday Period 5* (3:05-4:00) Beck, Rm.",
+    "link": [
+        "mailto:stlevitt@paul.rutgers.edu",
+        "http://www.rutgers.edu/",
+        "http://www.cs.rutgers.edu/"
+    ],
+    "ground_truth": "unknow"
+}

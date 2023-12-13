@@ -1,0 +1,10 @@
+{
+    "Title": " Documents ",
+    "Body": "Date: Wed, 15 Jan 1997 02:13:04 GMT Server: NCSA/1.4.1 Content-type: text/html Last-modified: Thu, 31 Oct 1996 22:36:12 GMT Content-length: 828 Documents A Few PostScript Documents Martins Krikis and Rusins Freivalds.",
+    "link": [
+        "ftp://ftp.cs.yale.edu/pub/TR/tr936.ps.gz",
+        "ftp://ftp.cs.yale.edu/pub/TR/tr1019.ps.gz",
+        "http://www.cs.yale.edu/homes/krikis/resume96.ps"
+    ],
+    "ground_truth": "other"
+}

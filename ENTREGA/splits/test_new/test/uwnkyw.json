@@ -1,0 +1,10 @@
+{
+    "Title": " CSE Dept at IITK Home Page ",
+    "Body": "Faculty and Research Projects Faculty  List Research Areas Research Projects IIT Kanpur Library Automation Project ( IITKLAS ) Recent Ph.D. Theses NEW !",
+    "link": [
+        "http://www.cs.umd.edu/~gagan/IITK/General/dept.html",
+        "http://www.cs.umd.edu/~gagan/IITK/General/dept.html#ABOUT_DEPT",
+        "http://www.cs.umd.edu/~gagan/IITK/General/dept.html#FACILITIES"
+    ],
+    "ground_truth": "unknow"
+}

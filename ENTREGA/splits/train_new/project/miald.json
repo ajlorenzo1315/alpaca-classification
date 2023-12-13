@@ -1,0 +1,10 @@
+{
+    "Title": "MIT CVA Home Page",
+    "Body": "Date: Mon, 25 Nov 1996 23:59:13 GMT Server: Apache/1.2-dev Connection: close Content-Type: text/html Last-Modified: Wed, 28 Aug 1996 23:20:24 GMT ETag: \"a8582-522-3224d438\" Content-Length: 1314 Accept-Ranges: bytes MIT CVA Home Page CVA Group Home Page Welcome to the Concurrent VLSI Architecture (CVA) Group's World Wide Web Home Page.",
+    "link": [
+        "http://www.mit.edu:8001/",
+        "http://www.lcs.mit.edu",
+        "http://www.ai.mit.edu/"
+    ],
+    "ground_truth": "project"
+}

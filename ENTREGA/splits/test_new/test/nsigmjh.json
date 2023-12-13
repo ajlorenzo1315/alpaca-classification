@@ -1,0 +1,10 @@
+{
+    "Title": "CODE Visual Parallel Programming System",
+    "Body": "-- Alfred Lord Tennyson CODE is a visual parallel programming system, allowing users to compose sequential programs into a parallel one.",
+    "link": [
+        "http://www.cs.utexas.edu/users/code/code2.1b1-screenshot.gif",
+        "http://www.epm.ornl.gov/pvm/pvm_home.html",
+        "http://www.sequent.com/"
+    ],
+    "ground_truth": "unknow"
+}

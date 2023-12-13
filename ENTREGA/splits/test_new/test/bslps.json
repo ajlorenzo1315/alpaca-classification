@@ -1,0 +1,10 @@
+{
+    "Title": "The Cornell University School of Operations Research and Industrial\nEngineering",
+    "Body": "Visit CUINFO for more information on Cornell and Ithaca.",
+    "link": [
+        "http://www.orie.cornell.edu/manufacturing.html",
+        "http://www.orie.cornell.edu/optimization.html",
+        "http://www.orie.cornell.edu/probability.html"
+    ],
+    "ground_truth": "unknow"
+}

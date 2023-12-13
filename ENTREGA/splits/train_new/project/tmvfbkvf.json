@@ -1,0 +1,10 @@
+{
+    "Title": "Computer Vision Group Home Page",
+    "Body": "Date: Tue, 26 Nov 1996 00:02:53 GMT Server: Apache/1.2-dev Connection: close Content-Type: text/html Last-Modified: Sat, 19 Oct 1996 00:18:21 GMT ETag: \"de662-a57-32681e4d\" Content-Length: 2647 Accept-Ranges: bytes Computer Vision Group Home Page MIT AI Lab Computer Vision Group The Computer Vision Group of the MIT Artificial Intelligence Lab conducts research in a wide variety of topics.",
+    "link": [
+        "http://www.ai.mit.edu/",
+        "http://www.ai.mit.edu/projects/vision-surgery/surgery_home_page.html",
+        "http://www.ai.mit.edu/projects/vision-machine/vm.html"
+    ],
+    "ground_truth": "project"
+}

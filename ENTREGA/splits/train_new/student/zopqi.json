@@ -1,0 +1,10 @@
+{
+    "Title": "Phil Seaver's Home Page",
+    "Body": "He also spent 6 months in Anchorage, AK and went to high school in Madison, GA.",
+    "link": [
+        "http://www.gatech.edu/TechHome.html",
+        "http://www.cc.gatech.edu/gvu/multimedia/MCG/MCG.html",
+        "http://www.cc.gatech.edu/gvu/gvutop.html"
+    ],
+    "ground_truth": "student"
+}

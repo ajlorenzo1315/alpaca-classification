@@ -1,0 +1,10 @@
+{
+    "Title": "CSE Open House 1996",
+    "Body": "Date: Tue, 10 Dec 1996 17:30:31 GMT Server: NCSA/1.4.2 Content-type: text/html CSE Open House 1996 Engineering Open House 1996 Computer Science and Engineering Every other year, the College of Engineering at the University of Washington holds an Open House to encourage folks from the \"Outside World\" to take a peek at what's going on Inside.",
+    "link": [
+        "graphic_lab.html",
+        "PC_lab.html",
+        "HDL_lab.html"
+    ],
+    "ground_truth": "unknow"
+}

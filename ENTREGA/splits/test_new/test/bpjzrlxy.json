@@ -1,0 +1,10 @@
+{
+    "Title": "Adam Seligman's home page",
+    "Body": "Page me with email at 1815205@pagemart.net .",
+    "link": [
+        "http://www.cs.utexas.edu/cgi/rwho/?name=adams",
+        "http://www.cs.utexas.edu/users/adams/hh-page.html",
+        "http://www.cs.utexas.edu/users/adams/c++thesis.dvi.gz"
+    ],
+    "ground_truth": "unknow"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Episodic Logic",
+    "Body": "C. H. Hwang and L. K. Schubert, \"A Representation That Lets You Say It All,\" Proceedings of the International Workshop on Formal Ontology in Conceptual Analysis and Knowledge Representation, ed.",
+    "link": [
+        "ftp://ftp.cs.rochester.edu/pub/papers/ai/92.hwang.ACL92.ps.Z",
+        "ftp://ftp.cs.rochester.edu/pub/papers/ai/93.hwang.AAAI.93.ps.Z",
+        "ftp://ftp.cs.rochester.edu/pub/papers/ai/93.hwang.IJCAI.93.ps.Z"
+    ],
+    "ground_truth": "project"
+}

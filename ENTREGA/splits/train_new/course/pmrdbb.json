@@ -1,0 +1,10 @@
+{
+    "Title": "CS 456 - Interactive Software",
+    "Body": "Students will write programs in Visual C++ under MS Windows.",
+    "link": [
+        "http://issl.cs.byu.edu/docs/home.html",
+        "http://genie.cs.byu.edu/~stoutjas/stoutjas.html",
+        "news:byu.class.cs456"
+    ],
+    "ground_truth": "course"
+}

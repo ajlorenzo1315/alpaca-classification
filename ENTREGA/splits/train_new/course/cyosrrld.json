@@ -1,0 +1,10 @@
+{
+    "Title": "CS304P - Pascal Programming",
+    "Body": "You will have nine programming assignments that are written, debugged and graded in the Programming Laboratory .",
+    "link": [
+        "http://www.cs.utexas.edu/users/suzy/index.html",
+        "http://www.cs.utexas.edu/users/suzy/cs304p/pascal.html",
+        "http://www.cs.utexas.edu/users/suzy/cs304p/intro.html"
+    ],
+    "ground_truth": "course"
+}

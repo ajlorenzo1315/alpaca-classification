@@ -1,0 +1,10 @@
+{
+    "Title": "SYSTEMATIC PROGRAM DEVELOPMENT GROUP",
+    "Body": "Since LP is used early in the design process to find design flaws, it treats proving as an activity similar to programming.",
+    "link": [
+        "http://www.larch.lcs.mit.edu:8001/",
+        "http://larch-www.lcs.mit.edu:8001/~guttag",
+        "http://larch-www.lcs.mit.edu:8001/~garland"
+    ],
+    "ground_truth": "project"
+}

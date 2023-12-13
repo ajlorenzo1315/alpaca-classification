@@ -1,0 +1,10 @@
+{
+    "Title": "Craig Chambers",
+    "Body": "Chambers also is a member of the SPIN Project .",
+    "link": [
+        "http://www.cs.washington.edu/research/projects/cecil/www",
+        "http://self.smli.com",
+        "http://www.cs.washington.edu/research/projects/spin/www"
+    ],
+    "ground_truth": "faculty"
+}

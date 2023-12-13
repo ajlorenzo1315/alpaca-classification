@@ -1,0 +1,10 @@
+{
+    "Title": "\nOperating System Research\n",
+    "Body": "Date: Tue, 10 Dec 1996 22:06:20 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Tue, 02 Jul 1996 04:46:08 GMT Content-length: 1448 Operating System Research Here's a list of \"hot\" research operating systems.",
+    "link": [
+        "http://cs.arizona.edu/xkernel/www/index.html",
+        "http://www.pdos.lcs.mit.edu/exo.html",
+        "http://www.sun.com/tech/projects/spring/index.html"
+    ],
+    "ground_truth": "other"
+}

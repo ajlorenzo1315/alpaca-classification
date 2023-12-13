@@ -1,0 +1,10 @@
+{
+    "Title": "John B. Chambers: Interesting Places",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Monday, 06-Jan-97 21:05:30 GMT Content-Type: text/html Content-Length: 7139 Last-Modified: Wednesday, 04-Dec-96 19:15:44 GMT John B.",
+    "link": [
+        "ftp://ftp.cs.columbia.edu/archives/bibliographies/index.html",
+        "http://liinwww.ira.uka.de/bibliography/index.html",
+        "http://www.lpac.ac.uk/SEL-HPC/Articles/GeneratedHtml/math.opt.html"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Torsten's Home Page",
+    "Body": "I am a Ph.D. Student in the Computer Science Department at the University of California, Riverside .",
+    "link": [
+        "http://www.cs.ucr.edu/",
+        "http://www.ucr.edu/",
+        "http://www.cs.ucr.edu/~torsten/resume.html"
+    ],
+    "ground_truth": "student"
+}

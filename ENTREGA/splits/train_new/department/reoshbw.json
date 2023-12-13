@@ -1,0 +1,10 @@
+{
+    "Title": "BGSU Computer Science Department",
+    "Body": "Graduate Student Directory Trying to contact one of our graduate students?",
+    "link": [
+        "http://www.bgsu.edu/cgi-bin/imagemap/welcome/imaps/header.map",
+        "http://www.bgsu.edu/welcome.html",
+        "http://www.bgsu.edu/welcome/overview.html"
+    ],
+    "ground_truth": "department"
+}

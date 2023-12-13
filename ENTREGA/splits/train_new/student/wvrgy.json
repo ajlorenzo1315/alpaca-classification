@@ -1,0 +1,10 @@
+{
+    "Title": "Mark Core's URCS Home Page",
+    "Body": "Conference Papers Mark Core \"Using Parsed Corpora for Structural Disambiguation in the TRAINS Domain\" in Proceedings of the 34th Annual Meeting of the Association for Computational Linguistics (ACL-96) Technical Reports Mark Core and Lenhart Schubert \"Using Parsed Corpora for Structural Disambiguation in the TRAINS Domain\" This is a longer version of the ACL-96 paper Mark Core and Lenhart Schubert \"Dialog Parsing in the TRAINS System\" Bachelor's Work: I received my bachelors degree from RPI where I worked with Michael Skolnick.",
+    "link": [
+        "mailto:mcore@cs.rochester.edu",
+        "http://www.cs.rochester.edu/research/trains/",
+        "http://www.cs.rochester.edu/research/trains/annotation.html"
+    ],
+    "ground_truth": "student"
+}

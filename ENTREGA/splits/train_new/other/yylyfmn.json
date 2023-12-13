@@ -1,0 +1,10 @@
+{
+    "Title": "Debugging Using GDB",
+    "Body": "quit             Terminate gdb where            Show the call stack where execution has been halted p                Print the value of a variable or expression up               Refocus gdb up one function in the call stack down             Refocus gdb down one function in the call stack help             Get help for a command run              Start execution of a program b                Set a breakpoint at a line or function clear            Clear a breakpoint from a line or function commands         Set commands to be executed when a breakpoint is hit s                Execute one more line (possibly in a subroutine) n                Execute to next line of current function continue         Continue execution to next breakpoint watch            Watch for a change in an expression (this can be slow) list             List source lines of a function Here are some other commands that we did not discuss but which are very useful: Command          Effect",
+    "link": [
+        "http://www.cs.wisc.edu/~cs367-3/gdb",
+        "#introduction",
+        "#whatis"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "George Forman: Dissertation Research",
+    "Body": "Try zooming in on two fractal windows in rapid succession so that they are simultaneously refining their images, then move the mouse over one of them.",
+    "link": [
+        "http://www.cs.washington.edu/homes/forman/dissertation.abstract.html",
+        "http://www.cs.washington.edu/homes/forman/",
+        "mailto:gforman@hpl.hp.com"
+    ],
+    "ground_truth": "other"
+}

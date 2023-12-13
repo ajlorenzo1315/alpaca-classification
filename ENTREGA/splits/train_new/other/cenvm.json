@@ -1,0 +1,10 @@
+{
+    "Title": "CS100A Home",
+    "Body": "CS 100 students have priority in this lab, and this is where you will find CS 100 consultants, extra copies of handouts, unclaimed work, and posted announcements and grades.",
+    "link": [
+        "mailto:achew@cs.cornell.edu",
+        "mailto:white@cs.cornell.edu",
+        "mailto:dwu@cs.cornell.edu"
+    ],
+    "ground_truth": "other"
+}

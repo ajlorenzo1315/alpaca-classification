@@ -1,0 +1,10 @@
+{
+    "Title": "Jim Basney",
+    "Body": "Date: Thu, 07 Nov 1996 19:10:28 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Mon, 16 Sep 1996 15:51:22 GMT Content-length: 1251 Jim Basney Jim Basney Graduate Student/Research Assistant Computer Sciences Department University of Wisconsin-Madison 1210 W. Dayton St. Madison, WI 53706-1685 Email: jbasney@cs.wisc.edu Office: 3387 Computer Science and Statistics Office Phone: (608) 262-3924 FAX: (608) 262-9777 My research interests lie in the area of Operating Systems and Networks.",
+    "link": [
+        "http://www.cs.wisc.edu/~jbasney//",
+        "http://www.wisc.edu/grad/",
+        "mailto:jbasney@cs.wisc.edu"
+    ],
+    "ground_truth": "student"
+}

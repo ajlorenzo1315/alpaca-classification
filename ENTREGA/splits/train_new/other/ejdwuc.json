@@ -1,0 +1,9 @@
+{
+    "Title": "Quiz 4 - CS 302 Fall 1996 - Section 4",
+    "Body": "(5 points) Write a function called display that takes two parameters: an array of characters and an integer for size of the array.",
+    "link": [
+        "http://www.cs.wisc.edu/~cs302",
+        "http://www.cs.wisc.edu/~milo/cs302.html"
+    ],
+    "ground_truth": "other"
+}

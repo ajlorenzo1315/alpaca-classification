@@ -1,0 +1,10 @@
+{
+    "Title": "College Consortia",
+    "Body": "Date: Mon, 11 Nov 1996 02:08:41 GMT Server: NCSA/1.5 Content-type: text/html College Consortia College of Engineering University of Wisconsin - Madison College Consortia The college shares expertise and data with government and industry through its research consortia.",
+    "link": [
+        "http://www.engr.wisc.edu/consortia//",
+        "http://www.engr.wisc.edu/consortia/chess/",
+        "http://www.engr.wisc.edu/consortia/circ/"
+    ],
+    "ground_truth": "unknow"
+}

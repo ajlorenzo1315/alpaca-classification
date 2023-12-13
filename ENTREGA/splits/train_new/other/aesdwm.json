@@ -1,0 +1,10 @@
+{
+    "Title": "David A. Karr:  home page",
+    "Body": "Here's my view of the World-Wide Web from the bottom up: David A. Karr (my personal data and research interests).",
+    "link": [
+        "mailto:karr@cs.cornell.edu",
+        "http://www.cs.cornell.edu/home/karr/",
+        "http://www.cs.cornell.edu/Info/People/students.html"
+    ],
+    "ground_truth": "other"
+}

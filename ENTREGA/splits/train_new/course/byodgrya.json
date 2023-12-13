@@ -1,0 +1,10 @@
+{
+    "Title": "CS 455 Syllabus",
+    "Body": "This is the material to be covered in the help section Monday, Nov 4, at 10am.",
+    "link": [
+        "http://www.cs.byu.edu/courses/cs455/3Help.html",
+        "http://www.cs.byu.edu/courses/cs455/polyclip.txt",
+        "http://www.cs.byu.edu/courses/cs455/testf95.txt"
+    ],
+    "ground_truth": "course"
+}

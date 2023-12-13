@@ -1,0 +1,10 @@
+{
+    "Title": "Untitled",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Thursday, 21-Nov-96 22:39:55 GMT Content-Type: text/html Content-Length: 1058 Last-Modified: Wednesday, 20-Nov-96 11:47:16 GMT Untitled Some choices: Tanks for Windows 95: A multi-player network game using the new Game SDK for Windows 95.",
+    "link": [
+        "http://www.ccs.neu.edu/home/rgagne/murky.htm",
+        "http://www.ccs.neu.edu/home/rgagne/walker.zip",
+        "http://www.ccs.neu.edu/home/rgagne/resume.html"
+    ],
+    "ground_truth": "student"
+}

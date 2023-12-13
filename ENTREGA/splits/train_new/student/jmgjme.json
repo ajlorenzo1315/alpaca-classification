@@ -1,0 +1,10 @@
+{
+    "Title": "Lucian Galescu's URCS Home Page",
+    "Body": "Date: Thursday, 21-Nov-96 23:40:16 GMT Server: NCSA/1.3 MIME-version: 1.0 Content-type: text/html Last-modified: Wednesday, 06-Nov-96 05:57:21 GMT Content-length: 1810 Lucian Galescu's URCS Home Page Lucian Galescu Status: first year PhD student Advisor: Prof. James Allen Intended area: AI/NL That's what I am.",
+    "link": [
+        "http://www.cs.rochester.edu/u/james",
+        "http://www.infoiasi.ro/~galescu>here</A>.\n<HR SIZE=4><P>\n<H4>Some interesting things around here:</H4>\n<UL>\n<LI><A HREF=",
+        "http://www.cs.rochester.edu/research/speech"
+    ],
+    "ground_truth": "student"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Lauren Bricker's Oh So Fascinating Hotlist",
+    "Body": "Date: Tue, 10 Dec 1996 23:13:36 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Fri, 22 Nov 1996 18:36:10 GMT Content-length: 6272 Lauren Bricker's Oh So Fascinating Hotlist Lauren Bricker's Oh So Fascinating Hotlist Information about the surroundings Movie Listings for Seattle Traffic The Seattle Bus System Current Weather Maps/Movies Lived here about 10 years ago.",
+    "link": [
+        "http://www.uspan.com/events/movie-listings.html",
+        "http://www.wsdot.wa.gov/regions/northwest/NWFLOW/",
+        "http://transit.metrokc.gov/bus/bus.html"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Herve A. Jamrozik",
+    "Body": "Currently, I am working on Global Memoy Management in a workstation cluster with Hank Levy Mary Vernon Anna Karlin Mike Feeley Geoff Voelker New high-speed networks greatly encourage the use of network memory as a cache for virtual memory and file pages, thereby reducing the need for disk access.",
+    "link": [
+        "http://www.cs.washington.edu/homes/jamrozik/ski.html",
+        "http://www.cs.washington.edu/",
+        "http://www.washington.edu"
+    ],
+    "ground_truth": "staff"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "\nWritten homework assignments\n",
+    "Body": "Date: Mon, 02 Dec 1996 15:42:10 GMT Server: NCSA/1.4.2 Content-type: text/html Written homework assignments CSE 557: Computer Graphics Winter Quarter 1995 Written homework assignments Homework #1 Homework #1 Solution Homework #2 Homework #2 Solution",
+    "link": [
+        "hw1.html",
+        "hw1soln.ps",
+        "HW2.ps"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "ZPL Overview",
+    "Body": "[Lin90] C. Lin and L. Snyder, \"A comparison of programming models for shared memory multiprocessors,\" Proceedings of the International Conference on Parallel Processing, pp.",
+    "link": [
+        "http://www.cs.washington.edu/research/projects/zpl/walk-through/",
+        "http://www.cs.washington.edu/research/projects/zpl/web-compiler",
+        "http://www.cs.washington.edu:80/research/projects/zpl/papers/abstracts/hpf.html"
+    ],
+    "ground_truth": "other"
+}

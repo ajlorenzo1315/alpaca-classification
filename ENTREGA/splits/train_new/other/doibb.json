@@ -1,0 +1,10 @@
+{
+    "Title": "Scheme 48 home page",
+    "Body": "The interpreter for the virtual instruction set is itself written in Pre-Scheme, a systems programming dialect of Scheme.",
+    "link": [
+        "http://www-swiss.ai.mit.edu/~jar//scheme-home.html",
+        "ftp://cs.indiana.edu/pub/scheme-repository/imp/scheme48-0.36.tar.Z",
+        "http://www-swiss.ai.mit.edu/~jar//ftpdir/s48/scheme48-0.36.tar.gz"
+    ],
+    "ground_truth": "other"
+}

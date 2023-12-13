@@ -1,0 +1,10 @@
+{
+    "Title": "if i publish it, it is true.",
+    "Body": "as a conscientious objector to all armed conflict, my first published letter was published in the grand rapids press a few years back during the gulf war.",
+    "link": [
+        "Letters/byron.txt",
+        "Letters/unabomber.txt",
+        "Letters/utne.txt"
+    ],
+    "ground_truth": "unknow"
+}

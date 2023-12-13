@@ -1,0 +1,10 @@
+{
+    "Title": "The Helmet Sermon Page",
+    "Body": "A useful application of the helmet theory is that, if you are curious to know if a cyclist is a graduate or an undergraduate, see whether they've got a plastic-and-styrofoam brain-protector.",
+    "link": [
+        "http://www.cs.wisc.edu/~mreames/mreames.html",
+        "http://www.cs.wisc.edu/",
+        "http://www.wisc.edu"
+    ],
+    "ground_truth": "other"
+}

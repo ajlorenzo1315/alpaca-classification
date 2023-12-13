@@ -1,0 +1,10 @@
+{
+    "Title": "UCLA Virtual World Data Server Home Page ",
+    "Body": "The project is to expand 3D interactive simulations and virtual world models to disk based storage.",
+    "link": [
+        "http://nugget.cs.ucla.edu:8001/vwds/images/Figure_1.gif",
+        "http://nugget.cs.ucla.edu:8001/vwds/images/Figure_2.gif",
+        "http://nugget.cs.ucla.edu:8001/vwds/images/Figure_3.gif"
+    ],
+    "ground_truth": "unknow"
+}

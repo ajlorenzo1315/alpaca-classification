@@ -1,0 +1,10 @@
+{
+    "Title": " Guri Sohi's Home Page ",
+    "Body": "The Anatomy of the Register File in a Multiscalar Processor, S. Breach, T. N. Vijaykumar, and G. S. Sohi, 27th Annual International Symposium on Microarchitecture (MICRO-27), 1994.",
+    "link": [
+        "http://www.cs.wisc.edu/cgi-bin/finger?sohi",
+        "http://www.cs.wisc.edu/",
+        "gopher://sunserv0.cae.wisc.edu/11/ece"
+    ],
+    "ground_truth": "unknow"
+}

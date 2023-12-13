@@ -1,0 +1,10 @@
+{
+    "Title": "CSE 413 (Winter 1996) Tentative Schedule",
+    "Body": "Programming Techniques with Lisp (Jan. 16).",
+    "link": [
+        "http://www.cs.washington.edu/education/courses/413/lecture-slides/Intro-Prog-Langs-413.ps",
+        "http://www.cs.washington.edu/education/courses/413/lecture-slides/Lisp1-413.ps",
+        "http://www.cs.washington.edu/education/courses/413/lecture-slides/Lisp2-413.ps"
+    ],
+    "ground_truth": "unknow"
+}

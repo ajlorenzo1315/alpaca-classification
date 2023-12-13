@@ -1,0 +1,10 @@
+{
+    "Title": "Allyn Dimock's Home Page",
+    "Body": "Date: Thu, 21 Nov 1996 22:23:35 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Wed, 08 May 1996 21:55:52 GMT Content-length: 1709 Allyn Dimock's Home Page Allyn Dimock Finger me to see if I am currently logged in.",
+    "link": [
+        "http://das-www.harvard.edu/cgi-bin/finger?dimock",
+        "ftp://das-ftp.harvard.edu/pub/dimock/OOPSLA93.ps.Z",
+        "ftp://das-ftp.harvard.edu/pub/dimock/VLDB92.ps.Z"
+    ],
+    "ground_truth": "student"
+}

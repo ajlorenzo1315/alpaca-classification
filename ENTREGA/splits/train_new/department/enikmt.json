@@ -1,0 +1,10 @@
+{
+    "Title": "University of Warwick - Computer Science",
+    "Body": "Disclaimer The information accessible from this server is provided in good faith, but neither the Department nor the University of Warwick takes any legal responsibility whatsoever for the accuracy (or otherwise) of that data.",
+    "link": [
+        "http://www.warwick.ac.uk/",
+        "http://www.dcs.warwick.ac.uk/pub/about-dept.html",
+        "http://www.dcs.warwick.ac.uk/pub/people/admin-contacts.html"
+    ],
+    "ground_truth": "department"
+}

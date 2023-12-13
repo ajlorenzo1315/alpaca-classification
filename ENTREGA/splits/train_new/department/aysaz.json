@@ -1,0 +1,10 @@
+{
+    "Title": "Basser Department of Computer Science",
+    "Body": "Date: Tue, 26 Nov 1996 22:20:19 GMT Server: Apache/1.1.1 Content-type: text/html Content-length: 3609 Last-modified: Fri, 08 Nov 1996 05:31:59 GMT Basser Department of Computer Science Basser Department of Computer Science Madsen Building F09, University of Sydney, NSW 2006, Australia Phone: +61 2 9351 3423  - Fax: +61 2 9351 3838 Basser is located in the Madsen Building on the Camperdown campus of the University of Sydney , 3km from the central business district of Sydney, 1km from the emerging Australian Technology Park at Redfern.",
+    "link": [
+        "http://www.cs.su.oz.au/Madsen/",
+        "http://www.usyd.edu.au/",
+        "http://www.dfat.gov.au/dfat/ipb/features/new_tech_park.html"
+    ],
+    "ground_truth": "department"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Ling Liu Home Page",
+    "Body": "Date: Mon, 25 Nov 1996 22:55:41 GMT Server: Apache/1.1.1 Content-type: text/html Content-length: 5847 Last-modified: Sun, 10 Nov 1996 22:25:16 GMT Ling Liu Home Page Ling Liu Assistant Professor Department of Computing Science Phone: (403) 492-9643 University of Alberta lingliu@cs.ualberta.ca Hi!",
+    "link": [
+        "http://www.cs.ualberta.ca/~lingliu/lingliu.gif",
+        "http://www.cs.ualberta.ca/~lingliu/pictures/lingliu-gold.gif",
+        "http://www.cs.ualberta.ca/people/faculty/aifc/lingliu.aifc"
+    ],
+    "ground_truth": "unknow"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "CS 766 Supplementary Reading Sources",
+    "Body": "R. Kasturi and R. C. Jain, eds., Computer Vision: Principles , and Computer Vision: Advances and Applications , IEEE Computer Society Press, Los Alamitos, Ca., 1991.",
+    "link": [
+        "http://robotics.stanford.edu/groups/vision/irs/postscript/iuw94.ps",
+        "http://www.merl.com/pub/freeman/gesture.ps.Z",
+        "http://www.merl.com/pub/freeman/tv.ps.Z"
+    ],
+    "ground_truth": "other"
+}

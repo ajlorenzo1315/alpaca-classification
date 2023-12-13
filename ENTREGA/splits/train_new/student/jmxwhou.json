@@ -1,0 +1,10 @@
+{
+    "Title": " Rodrigo Carceroni's Home Page ",
+    "Body": "Finger info (updated whenever I log in) A Short History of My Research Interests: My first scientific experience dates back to 1991, when I studied the dynamics of Elliptic Billiards, under the supervision of Prof. Sònia de Carvalho, in the Math Department of UFMG .",
+    "link": [
+        "http://www.cs.rochester.edu/",
+        "http://dcc.ufmg.br/",
+        "http://www.cs.rochester.edu/u/carceron/fingerinfo"
+    ],
+    "ground_truth": "student"
+}

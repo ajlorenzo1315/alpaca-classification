@@ -1,0 +1,10 @@
+{
+    "Title": " H. James Hoover ",
+    "Body": "Current Work Teaching freshman logic with Mizar-MSE, by H. James Hoover and Piotr Rudnicki.",
+    "link": [
+        "http://web.cs.ualberta.ca/home.html",
+        "http://web.cs.ualberta.ca/UAlberta.html",
+        "http://www.cs.ualberta.ca/~hoover/res-blurb.dvi"
+    ],
+    "ground_truth": "faculty"
+}

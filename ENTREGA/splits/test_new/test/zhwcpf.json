@@ -1,0 +1,10 @@
+{
+    "Title": "U of Mn AIRVL Home Page",
+    "Body": "Date: Wed, 20 Nov 1996 20:02:24 GMT Server: Apache/1.1b3 Content-type: text/html U of Mn AIRVL Home Page AIRVL AI, Robotics, and Vision Laboratory The University of Minnesota Artificial Intelligence, Robotics and Vision Laboratory (AIRVL) develops new techniques and explores new applications in the fields of Artificial Intelligence, Robotics and Machine Vision.",
+    "link": [
+        "http://www.umn.edu/",
+        "http://www.cs.umn.edu/Research/airvl/mrvt.html",
+        "http://www.cs.umn.edu/Research/airvl/mrvt.html"
+    ],
+    "ground_truth": "unknow"
+}

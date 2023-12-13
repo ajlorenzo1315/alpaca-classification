@@ -1,0 +1,10 @@
+{
+    "Title": "Overview of Seuss",
+    "Body": "The research proposed in Seuss is based on two observations: (1) the applications that will be implemented on networks of processors in the future will be significantly more ambitious than the current applications (which are mostly involved with transmissions of digital data and images), and (2) many of the programming concepts developed for databases, object-oriented programming and designs of reactive systems can be unified into a concise model of distributed programs that can serve as the foundation for designing these future applications.",
+    "link": [
+        "#ewd",
+        "#csp",
+        "#ccs"
+    ],
+    "ground_truth": "other"
+}

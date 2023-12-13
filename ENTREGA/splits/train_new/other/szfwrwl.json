@@ -1,0 +1,10 @@
+{
+    "Title": "CSE 531 Bboard/Mail Log\n",
+    "Body": "-nitin From: nitin@june (Nitin Sharma) Subject: Re: Subset construction's optimality To: gjb@sturgeon.cs.washington.edu (Greg Badros) Date: Wed, 16 Oct 1996 17:00:49 -0700 (PDT) Cc: cse531@june > > To paraphrase the other question about the question posed on the HW, I, > too, must be missing something obvious, because I'd think the family of > NFA-s the question mentions (nth character from end is a \"1\") is a n+1 > state NFA which can't be reduced to a DFA w/ fewer than 2^(n+1) states, > so f(n) can be as big as is possibly could be; that is, f(n) = n^2.",
+    "link": [
+        "#845932739001",
+        "#845932739002",
+        "#845932739003"
+    ],
+    "ground_truth": "other"
+}

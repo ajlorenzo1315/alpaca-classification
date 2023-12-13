@@ -1,0 +1,10 @@
+{
+    "Title": "NCSU/CSC: Wushow Chou",
+    "Body": "Among his current works are integrating voice and data in a fast packet network, applying expert system to protocol parameter specifications and modelling communications networks, traffic control and estimation in high speed networks.",
+    "link": [
+        "http://www.csc.ncsu.edu/maps/rb-header.map",
+        "http://www.csc.ncsu.edu/index.html",
+        "http://www.csc.ncsu.edu/search/index.html"
+    ],
+    "ground_truth": "faculty"
+}

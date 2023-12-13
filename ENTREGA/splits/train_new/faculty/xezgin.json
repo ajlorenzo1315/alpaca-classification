@@ -1,0 +1,10 @@
+{
+    "Title": "Martin Davis",
+    "Body": "Date: Mon, 25 Nov 1996 22:03:15 GMT Server: NCSA/1.4.1 Content-type: text/html Last-modified: Fri, 08 Nov 1996 22:00:16 GMT Content-length: 1327 Martin Davis Martin Davis Professor Emeritus martind@cs.berkeley.edu Department of Computer Science Courant Institute of Mathematical Sciences New York University Current Address 3360 Dwight Way Berkeley, CA 94704-1523, U.S.A.",
+    "link": [
+        "mailto:martind@cs.berkeley.edu (Martin Davis)",
+        "http://cs.nyu.edu/",
+        "http://cs.nyu.edu/cs/courantnyu.html"
+    ],
+    "ground_truth": "faculty"
+}

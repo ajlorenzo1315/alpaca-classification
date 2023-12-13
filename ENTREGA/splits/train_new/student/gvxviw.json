@@ -1,0 +1,10 @@
+{
+    "Title": " Ross Ortega",
+    "Body": "Date: Thu, 21 Nov 1996 22:55:06 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Wed, 20 Nov 1996 21:18:58 GMT Content-length: 2713 Ross Ortega Ross Ortega (the one wearing jeans) ortega@cs.washington.edu Department of Computer Science & Engineering, University of Washington, Box 352350, Seattle, WA 98195 USA \"If we knew what it was we were doing, it would not be called research, would it?\"",
+    "link": [
+        "mailto:ortega@cs.washington.edu",
+        "http://www.cs.washington.edu/",
+        "http://www.washington.edu"
+    ],
+    "ground_truth": "student"
+}

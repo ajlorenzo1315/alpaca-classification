@@ -1,0 +1,10 @@
+{
+    "Title": "MIT Dept. of Electrical Engineering and Computer Science",
+    "Body": "The MIT Department of Electrical Engineering and Computer Science (EECS) offers bachelor's, master's, engineer's, and doctor's degree programs with many possible areas of focus.",
+    "link": [
+        "http://www-eecs.mit.edu/current/events/index.html",
+        "http://www-eecs.mit.edu/current/announcements/index.html",
+        "http://www-eecs.mit.edu/admit.html"
+    ],
+    "ground_truth": "department"
+}

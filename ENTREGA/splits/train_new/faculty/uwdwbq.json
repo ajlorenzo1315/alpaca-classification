@@ -1,0 +1,10 @@
+{
+    "Title": "Brent Seales: Home Page",
+    "Body": "Date: Monday, 25-Nov-96 23:07:30 GMT Server: NCSA/1.3 MIME-version: 1.0 Content-type: text/html Brent Seales: Home Page MPEG movie (250k): \"Itchy Face\" MPEG movie (200k): \"You Bet!\"",
+    "link": [
+        "http://clarinet.dcs.uky.edu:80/~seales/mpg/brent.mpg",
+        "http://clarinet.dcs.uky.edu:80/~seales/mpg/brent1.mpg",
+        "mailto:seales@dcs.uky.edu"
+    ],
+    "ground_truth": "faculty"
+}

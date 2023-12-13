@@ -1,0 +1,10 @@
+{
+    "Title": "The UW Running Club",
+    "Body": "UW Running Club Organized Races: Fall 15-K and 2-mile Fun Run - Saturday, September 14 Valentine's 5-K Check out our bi-monthly newsletter, The Running Reader For related running information, take a look at: Wisconsin Track Club Lifestyle Sports Cool Running Runner's World Online!",
+    "link": [
+        "http://www.cs.wisc.edu/~siff/UWRC/rr.ps",
+        "http://www.ssec.wisc.edu/~adc/wtc.html",
+        "http://www.lifestylesports.com/"
+    ],
+    "ground_truth": "other"
+}

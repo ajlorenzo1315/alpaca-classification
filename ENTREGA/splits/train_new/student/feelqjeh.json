@@ -1,0 +1,10 @@
+{
+    "Title": "Karl Crary's home page",
+    "Body": "-- Mark 12:29-31 Cornell University home page Department of Computer Science home page",
+    "link": [
+        "mailto:crary@cs.cornell.edu",
+        "http://www.cs.cornell.edu/Info/Projects/NuPrl/nuprl.html",
+        "http://www.cs.cornell.edu/Info/Faculty/rc/rc.html"
+    ],
+    "ground_truth": "student"
+}

@@ -1,0 +1,8 @@
+{
+    "Title": " \nPaul's Web Page \n",
+    "Body": "Our testbed for this project is the Regional Psychiatric Centre (RPC) in Saskatoon.",
+    "link": [
+        "mailto:meagher@cs.usask.ca"
+    ],
+    "ground_truth": "staff"
+}

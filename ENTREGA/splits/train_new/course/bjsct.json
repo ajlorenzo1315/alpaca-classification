@@ -1,0 +1,10 @@
+{
+    "Title": "CS564 Lecture 2 Home Page",
+    "Body": "This page is (obviously) under construction; as the semester progresses we will be adding information that you need to know to this page.",
+    "link": [
+        "http://www.cs.wisc.edu/~naughton/naughton.html",
+        "mailto:naughton@cs.wisc.edu",
+        "http://www.cs.wisc.edu/~tjung/"
+    ],
+    "ground_truth": "course"
+}

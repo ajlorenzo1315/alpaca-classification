@@ -1,0 +1,10 @@
+{
+    "Title": " Kaz is from Japan  ",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Sunday, 01-Dec-96 19:53:17 GMT Content-Type: text/html Content-Length: 2196 Last-Modified: Wednesday, 30-Nov-94 18:42:04 GMT Kaz is from Japan Kaz's Intro of Japan Japan's area is about the size of California, but her population is about 4 times that of California, 120 million.",
+    "link": [
+        "http://www.cs.cornell.edu/Info/People/kota/kota.html",
+        "http://www.cs.cornell.edu/Info/People/kota/atm.html",
+        "http://www.cs.cornell.edu/Info/People/kota/kota.html"
+    ],
+    "ground_truth": "other"
+}

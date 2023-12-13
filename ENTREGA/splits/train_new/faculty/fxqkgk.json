@@ -1,0 +1,10 @@
+{
+    "Title": "Michael L. Scott's Home Page",
+    "Body": "Date: Thursday, 21-Nov-96 21:01:18 GMT Server: NCSA/1.3 MIME-version: 1.0 Content-type: text/html Last-modified: Friday, 20-Sep-96 11:46:22 GMT Content-length: 2741 Michael L. Scott's Home Page Michael L. Scott Associate Professor Computer Science Department University of Rochester Rochester, NY  14627-0226 scott@cs.rochester.edu phone (716) 275-7745, 5478; fax 461-2018 Research Projects High-Performance Synchronization for Shared-Memory Parallel Programs CASHMERe: Coherent Shared Memory for Next-Generation Networks and Multiprocessors CSC 2/454: Programming Systems Course home page .",
+    "link": [
+        "http://www.cs.rochester.edu/u/scott/synchronization.html",
+        "http://www.cs.rochester.edu/u/scott/cashmere/home.html",
+        "http://www.cs.rochester.edu/u/scott/254/home.html"
+    ],
+    "ground_truth": "faculty"
+}

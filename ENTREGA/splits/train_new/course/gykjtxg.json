@@ -1,0 +1,10 @@
+{
+    "Title": "CSCI C623 Data Communications and Networks  ",
+    "Body": "If you are using sources other than the textbook, hand out a list of sources at least one week in advance of your lecture, so that others may have a chance to prepare for your lectures.",
+    "link": [
+        "http://www.cs.indiana.edu",
+        "http://www.indiana.edu",
+        "http://www.cs.indiana.edu/hyplan/prosser.html"
+    ],
+    "ground_truth": "course"
+}

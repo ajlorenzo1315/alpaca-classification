@@ -1,0 +1,10 @@
+{
+    "Title": "Tanya Grigorishin",
+    "Body": "Her research interests are in Computer Vision and Image Prosessing.",
+    "link": [
+        "#R1",
+        "#R2",
+        "http://www.cs.usask.ca/grads/tpg134/resume.html"
+    ],
+    "ground_truth": "student"
+}

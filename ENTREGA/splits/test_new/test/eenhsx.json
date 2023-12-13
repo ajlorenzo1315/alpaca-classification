@@ -1,0 +1,6 @@
+{
+    "Title": " Partitioning ",
+    "Body": "In this paper, we present a circuit clustering algorithm that minimizes circuit delay subject to area and pin constraints on each chip, under the general delay model.",
+    "link": [],
+    "ground_truth": "unknow"
+}

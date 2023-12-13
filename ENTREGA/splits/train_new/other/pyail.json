@@ -1,0 +1,10 @@
+{
+    "Title": "Clark Dept Math&CSci: Personnel",
+    "Body": "Email: fgreen@clarku.edu David Joyce Associate Professor Knot theory, computer science, combinatorics, history of mathematics Office: CH 125.",
+    "link": [
+        "mailto:lbernhofen@clarku.edu",
+        "http://aleph0.clarku.edu/~kbasye/home.html",
+        "mailto:kbasye@black.clarku.edu"
+    ],
+    "ground_truth": "other"
+}

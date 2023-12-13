@@ -1,0 +1,10 @@
+{
+    "Title": "UT Austin New/Good",
+    "Body": "Universities (9 Dec) Additions to university list.",
+    "link": [
+        "http://wwwhost.cc.utexas.edu/cgi-bin/imagemap/new/graphics/newgood.map",
+        "http://wwwhost.cc.utexas.edu/new.html",
+        "http://wwwhost.cc.utexas.edu/forms/add/new.html"
+    ],
+    "ground_truth": "other"
+}

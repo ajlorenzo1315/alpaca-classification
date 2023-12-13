@@ -1,0 +1,10 @@
+{
+    "Title": "utexas mac archive",
+    "Body": "This archive and its FTP counterpart are maintained by Chris Johnson of the Office of Telecommunication Services (OTS) .",
+    "link": [
+        "ftp://ftp.utexas.edu/pub/mac",
+        "http://gargravarr.cc.utexas.edu/",
+        "http://www.ots.utexas.edu/ots/"
+    ],
+    "ground_truth": "other"
+}

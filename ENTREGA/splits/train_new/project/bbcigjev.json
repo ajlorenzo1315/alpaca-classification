@@ -1,0 +1,10 @@
+{
+    "Title": "Mathematics Experiences Through Image Processing (METIP)",
+    "Body": "The METIP Project currently has a number of programs that allow students to explore mathematics with image processing: The Pixel Calculator (Click here to order your free copy today!)",
+    "link": [
+        "http://www.cs.washington.edu/people/faculty/tanimoto.html",
+        "http://www.cs.washington.edu/",
+        "ftp://ftp.u.washington.edu/public/"
+    ],
+    "ground_truth": "project"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "The Alexandria Project",
+    "Body": "Distributed means the library's components may be spread across the Internet, as well as coexisting on a single desktop.",
+    "link": [
+        "http://www.library.ucsb.edu",
+        "http://www.ucsb.edu",
+        "http://alexandria.sdc.ucsb.edu/web/"
+    ],
+    "ground_truth": "project"
+}

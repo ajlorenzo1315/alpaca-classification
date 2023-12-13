@@ -1,0 +1,10 @@
+{
+    "Title": "High Throughput Computing Research",
+    "Body": "We refer to such  environments as High Throughput Computing (HTC) environments.",
+    "link": [
+        "http://www.cs.wisc.edu/condor/Condor.gif",
+        "http://www.cs.wisc.edu/condor/people.html",
+        "http://www.cs.wisc.edu/condor/publications.html"
+    ],
+    "ground_truth": "other"
+}

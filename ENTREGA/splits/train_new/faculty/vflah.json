@@ -1,0 +1,10 @@
+{
+    "Title": " Ömer Egecioglu",
+    "Body": "Date: Thu, 21 Nov 1996 20:16:08 GMT Server: Apache/1.0.2 Content-type: text/html Ömer Egecioglu Ömer Egecioglu Associate Professor Department of Computer Science Santa Barbara , CA 93106-5110 internet: omer@cs.ucsb.edu phone: (805) 893-3529; fax:      (805) 893-8553 Ph.D., University of California, San Diego Research Interests : Parallel algorithms, approximation algorithms, bijective and enumerative combinatorics.",
+    "link": [
+        "http://www.cs.ucsb.edu/",
+        "http://www.internet-cafe.com/sb/sb.html",
+        "mailto:omer@cs.ucsb.edu"
+    ],
+    "ground_truth": "faculty"
+}

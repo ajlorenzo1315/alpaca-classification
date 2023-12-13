@@ -1,0 +1,10 @@
+{
+    "Title": "DTM: Capabilities and Facilities",
+    "Body": "The laboratory facilities for DTM include the SSEL clean room, the new Electronics Manufacturing Laboratory(EML) clean room, and numerous laboratories located in the College of Engineering.",
+    "link": [
+        "http://www.eecs.umich.edu/ssel/",
+        "http://www.erim.org",
+        "http://dtm.eecs.umich.edu/index.html"
+    ],
+    "ground_truth": "unknow"
+}

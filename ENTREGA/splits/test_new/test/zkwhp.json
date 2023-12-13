@@ -1,0 +1,10 @@
+{
+    "Title": " Jim's home page ",
+    "Body": "Date: Thu, 21 Nov 1996 22:24:57 GMT Server: NCSA/1.5.1 Last-modified: Wed, 12 Jun 1996 18:59:35 GMT Content-type: text/html Content-length: 1507 Jim's home page Jim's home page You are visitor since Feb 8, 1996 Jim Williams Department of Computer Science New Engineering Building 217 The Johns Hopkins University Baltimore, Maryland 21218-2694",
+    "link": [
+        "http://www.cs.jhu.edu/",
+        "http://www.jhu.edu/",
+        "http://www.cs.jhu.edu/wolff/home.html"
+    ],
+    "ground_truth": "unknow"
+}

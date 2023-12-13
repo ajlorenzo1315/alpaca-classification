@@ -1,0 +1,10 @@
+{
+    "Title": "UW CS Internet Starting Points",
+    "Body": "Date: Mon, 04 Nov 1996 23:41:12 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Thu, 24 Oct 1996 22:46:47 GMT Content-length: 1923 UW CS Internet Starting Points Starting Points for Internet Exploration Internet and Web Resources NCSA Starting Points for Internet Exploration Internet Resources Meta-Index World-Wide Web Servers by Location World-Wide Web Servers at Universities in the U.S.",
+    "link": [
+        "http://www.ncsa.uiuc.edu/SDG/Software/Mosaic/StartingPoints/NetworkStartingPoints.html",
+        "http://www.ncsa.uiuc.edu/SDG/Software/Mosaic/MetaIndex.html",
+        "http://www.w3.org/hypertext/DataSources/WWW/Geographical.html"
+    ],
+    "ground_truth": "other"
+}

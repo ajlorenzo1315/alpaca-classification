@@ -1,0 +1,10 @@
+{
+    "Title": "\nPatty Hough\n",
+    "Body": "My research interests fall in the areas of numerical linear algebra scientific computing optimization I am currently working as a postdoc with Juan Meza in the Scientific Computing Department at Sandia National Laboratories in Livermore, CA.",
+    "link": [
+        "http://www.ca.sandia.gov",
+        "mailto:phough@popo.ca.sandia.gov",
+        "http://cam.cornell.edu"
+    ],
+    "ground_truth": "student"
+}

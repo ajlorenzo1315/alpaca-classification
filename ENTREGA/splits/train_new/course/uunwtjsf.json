@@ -1,0 +1,10 @@
+{
+    "Title": "cs611",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Sunday, 24-Nov-96 21:25:43 GMT Content-Type: text/html Content-Length: 7646 Last-Modified: Tuesday, 19-Dec-95 03:09:19 GMT cs611 CS 611: Advanced Programming Languages Fall 1995 MWF 10:10-11:00, Upson 211.",
+    "link": [
+        "http://www.cs.cornell.edu/Info/People/tah/tah.html",
+        "ftp://ftp.cs.cornell.edu/pub/tah/611/handout0.ps",
+        "ftp://ftp.cs.cornell.edu/pub/tah/611/handout1.ps"
+    ],
+    "ground_truth": "course"
+}

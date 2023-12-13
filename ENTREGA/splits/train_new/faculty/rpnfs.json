@@ -1,0 +1,10 @@
+{
+    "Title": " Jim Arvo's Home Page ",
+    "Body": "Other Links Caltech home page Caltech Computer Science home page Caltech Computer Graphics Group My cats Emily and Gretel Miscellaneous links James Arvo ( arvo@cs.caltech.edu )",
+    "link": [
+        "mailto:arvo@cs.caltech.edu",
+        "mailto:yvonne@cs.caltech.edu",
+        "http://www.caltech.edu/"
+    ],
+    "ground_truth": "faculty"
+}

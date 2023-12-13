@@ -1,0 +1,10 @@
+{
+    "Title": "CIS 625          Parallel Programming            Spring 1996",
+    "Body": "The goal of this course is to build on the knowledge of data structures and algorithms from CIS 500 to expose the student to fundamental concepts in concurrent and distributed programming.",
+    "link": [
+        "http://www.cis.ksu.edu/~dwyer/courses/625/lectures/lectures.html",
+        "http://www.cis.ksu.edu/~dwyer/courses/625/projects/projects.html",
+        "http://www.cis.ksu.edu/~dwyer/courses/625/ada/ada.html"
+    ],
+    "ground_truth": "course"
+}

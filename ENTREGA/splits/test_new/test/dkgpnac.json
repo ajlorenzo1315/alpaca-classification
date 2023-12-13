@@ -1,0 +1,10 @@
+{
+    "Title": "Further UNITY references",
+    "Body": "A list of BIBTeX references to the UNITY literature as collected by W.G.Day in 1991.",
+    "link": [
+        "http://www.cs.utexas.edu/users/psp/notesunity.html",
+        "http://www.cs.utexas.edu/users/psp/newunity.html",
+        "ftp://ftp.cs.utexas.edu/pub/psp/unity/unityimp.txt"
+    ],
+    "ground_truth": "unknow"
+}

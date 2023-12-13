@@ -1,0 +1,10 @@
+{
+    "Title": "CSE 326, Spring 1995, Lectures",
+    "Body": "Date: Wed, 08 Jan 1997 20:54:23 GMT Server: NCSA/1.4.2 Content-type: text/html CSE 326, Spring 1995, Lectures CSE 326, Spring 1995: Lecture Overheads To view the lecture overheads your mosaic application must support a postscript previewer.",
+    "link": [
+        "lecture28.ps",
+        "lecture27.ps",
+        "lecture26.ps"
+    ],
+    "ground_truth": "unknow"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Physics Problem Solving",
+    "Body": "On an IBM RS/6000, it can read, understand, solve, and draw a diagram for a textbook physics problem in about 1/10 second.",
+    "link": [
+        "http://www.cs.utexas.edu/users/novak/papers.html",
+        "http://www.cs.utexas.edu/users/novak/cgi/isaacdemo",
+        "http://www.cs.utexas.edu/users/novak/cgi/vipdemo"
+    ],
+    "ground_truth": "other"
+}

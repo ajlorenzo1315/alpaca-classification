@@ -1,0 +1,10 @@
+{
+    "Title": " Pai Chou ",
+    "Body": "I am a grad student in computer science at the U of Washington .",
+    "link": [
+        "http://www.cs.washington.edu",
+        "http://www.washington.edu",
+        "http://www.cs.washington.edu/research/projects/lis/chinook"
+    ],
+    "ground_truth": "student"
+}

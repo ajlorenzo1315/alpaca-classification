@@ -1,0 +1,10 @@
+{
+    "Title": "Lazy Receiver Processing (LRP)",
+    "Body": "This enables the system to provide stable overload behaviour, fair resource allocation, and increased throughput under heavy network load.",
+    "link": [
+        "http://www.cs.rice.edu/CS/Systems/LRP/final.html",
+        "http://www.cs.rice.edu/CS/Systems/LRP/osdi96.ps",
+        "mailto:gaurav@cs.rice.edu"
+    ],
+    "ground_truth": "project"
+}

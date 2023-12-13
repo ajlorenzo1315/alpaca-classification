@@ -1,0 +1,10 @@
+{
+    "Title": "Cliff Young: Boring Stuff ",
+    "Body": "Parafrase Polaris SUIF Josep Torrellas' Official Home Page David Whalley's home page Conference home pages ASPLOS (International Conference on Architectural Support for Programming Languages and Operating Systems) 7, Cambridge, Massachusetts, USA, October, 1996.",
+    "link": [
+        "http://www.eecs.harvard.edu/~hube/papers/halt.ps",
+        "http://www.eecs.harvard.edu/~hube/papers/halt-talk.ps",
+        "ftp://ftp.eecs.harvard.edu/pub/hube/haltsuif-1.0.tar.gz"
+    ],
+    "ground_truth": "student"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Haim Levkowitz",
+    "Body": "The Guitar: Former member of the Philadelphia Classical Guitar Society (1983-1989).",
+    "link": [
+        "http://www.cs.uml.edu/~haim/haim.gif",
+        "http://www.cs.uml.edu/~haim/ivpr.shtml",
+        "mailto:haim@cs.uml.edu"
+    ],
+    "ground_truth": "faculty"
+}

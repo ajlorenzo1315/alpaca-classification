@@ -1,0 +1,10 @@
+{
+    "Title": "\nCherilyn Michaels\n",
+    "Body": "VizWiz: A java applet for interactive scientific visualization on the web Interests Here's a link to the homepage to a major interest of mine, Doug Ridgway , who'll soon be finishing up his PhD in physics here at UCSD.",
+    "link": [
+        "http://www-cse.ucsd.edu/users/michaels/edmonton.html",
+        "http://www.hmc.edu/",
+        "http://www.sdsc.edu/"
+    ],
+    "ground_truth": "unknow"
+}

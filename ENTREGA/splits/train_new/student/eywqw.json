@@ -1,0 +1,10 @@
+{
+    "Title": "Gnan's home page",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Monday, 06-Jan-97 19:33:27 GMT Content-Type: text/html Content-Length: 919 Last-Modified: Monday, 20-May-96 20:49:18 GMT Gnan's home page Gnana Kumar Natarajan's Home Page Department of Computer Sciences University of Texas - Austin I am a graduate student in the Computer Science department here at The University of Texas-Austin More about me .. mail me ngk@cs.utexas.edu Find out if i am logged in",
+    "link": [
+        "http://www.cs.utexas.edu",
+        "http://www.utexas.edu",
+        "http://www.cs.utexas.edu/users/ngk/interests.html"
+    ],
+    "ground_truth": "student"
+}

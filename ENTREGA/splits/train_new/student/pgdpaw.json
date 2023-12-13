@@ -1,0 +1,10 @@
+{
+    "Title": "No title",
+    "Body": "Date: Tue, 26 Nov 1996 03:52:02 GMT Server: Apache/1.1.1 Content-type: text/html Content-length: 1928 Last-modified: Wed, 16 Oct 1996 09:22:22 GMT Sarmad Abbasi General Info Sarmad Abbasi Department of Computer Science Rutgers University Piscataway NJ 08855 908-249-5739 Email: sabbasi@paul.rutgers.edu CS 513 Solution to homework Homework 2 discussed in class Solution to homework 3 Theory Group The theory group is a group of students in the department of computer science and mathematics at Rutgers who meet on a semi-regular basis.",
+    "link": [
+        "mailto:sabbasi@paul.rutgers.edu",
+        "http://paul.rutgers.edu/~sabbasi/hw1.ps",
+        "http://paul.rutgers.edu/~sabbasi/hw3.ps"
+    ],
+    "ground_truth": "student"
+}

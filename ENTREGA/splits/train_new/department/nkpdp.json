@@ -1,0 +1,10 @@
+{
+    "Title": " Rice University Computer Science Department ",
+    "Body": "Date: Tue, 26 Nov 1996 20:57:13 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Wed, 13 Nov 1996 03:11:56 GMT Content-length: 3203 Rice University Computer Science Department Welcome to the Web server for the Computer Science Department of Rice University , Houston, Texas, USA.",
+    "link": [
+        "http://riceinfo.rice.edu/",
+        "http://www.cs.rice.edu/~alugg/texaco/",
+        "http://www.cs.rice.edu/CS/CS_brochure.html"
+    ],
+    "ground_truth": "department"
+}

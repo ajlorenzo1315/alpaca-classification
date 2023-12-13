@@ -1,0 +1,10 @@
+{
+    "Title": "Networked Computer Science Technical Reports Library",
+    "Body": "Search the NCSTRL collection The Fielded Search Form allows you to perform a search on several fields of the bibliographic data, and/or to limit the search to specific institutions, Or enter one or several words into the box below to list all documents in our collection whose author, title, or abstract contain any search word: Or browse reports at any of the participating institutions .",
+    "link": [
+        "http://www.ncstrl.org/Dienst/htdocs/Info/about-ncstrl.html",
+        "http://cs-tr.cs.cornell.edu/Dienst/UI/2.0/ListPublishers",
+        "http://www.ncstrl.org/Dienst/htdocs/Info/press-package.html"
+    ],
+    "ground_truth": "project"
+}

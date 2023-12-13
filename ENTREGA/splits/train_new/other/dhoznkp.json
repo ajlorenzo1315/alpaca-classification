@@ -1,0 +1,10 @@
+{
+    "Title": "Rutgers University Online Services",
+    "Body": "Date: Wed, 15 Jan 1997 01:27:56 GMT Server: NCSA/1.5.2 Last-modified: Thu, 20 Apr 1995 21:09:06 GMT Content-type: text/html Content-length: 1642 Rutgers University Online Services Rutgers University Online Network Services The following links provide interactive information services for Rutgers University and the Internet.",
+    "link": [
+        "http://whitepages.rutgers.edu:8888/",
+        "http://www-ns.rutgers.edu/htbin/archie",
+        "http://www-ns.rutgers.edu/services/gateways/ftp.html"
+    ],
+    "ground_truth": "other"
+}

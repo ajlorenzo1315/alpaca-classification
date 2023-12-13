@@ -1,0 +1,10 @@
+{
+    "Title": "About Cody",
+    "Body": "Sanctuary Sanctuary is a story about two young men who attempt to change the workings of the modern Japan by becoming a light and a shadow of the society.",
+    "link": [
+        "sanctuary/sanctuary.html",
+        "gunnm",
+        "nausicaa.html"
+    ],
+    "ground_truth": "other"
+}

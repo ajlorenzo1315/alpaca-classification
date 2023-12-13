@@ -1,0 +1,10 @@
+{
+    "Title": "My Homepage (Edward M Son)",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Monday, 06-Jan-97 19:29:59 GMT Content-Type: text/html Content-Length: 1982 Last-Modified: Wednesday, 28-Aug-96 01:45:53 GMT My Homepage (Edward M Son) Danger!",
+    "link": [
+        "http://www.cs.utexas.edu/users/son/Files/resume.html",
+        "mailto:son@cs.utexas.edu",
+        "http://www.cs.utexas.edu/users/son/Files/pictures.html"
+    ],
+    "ground_truth": "student"
+}

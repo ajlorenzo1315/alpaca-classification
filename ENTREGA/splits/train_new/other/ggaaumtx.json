@@ -1,0 +1,9 @@
+{
+    "Title": "CoNotes - Getting Started",
+    "Body": "The documents you will see have annotation points which are marked by a link \"You may add an Annotation\".",
+    "link": [
+        "http://www.cs.cornell.edu/Annotation/Get/cs314_f95_index",
+        "mailto:tve@cs.cornell.edu"
+    ],
+    "ground_truth": "other"
+}

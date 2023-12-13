@@ -1,0 +1,10 @@
+{
+    "Title": " Welcome to Yaolei Hong's homepage",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Thursday, 21-Nov-96 22:39:20 GMT Content-Type: text/html Content-Length: 685 Last-Modified: Thursday, 11-Apr-96 01:53:20 GMT Welcome to Yaolei Hong's homepage Homepage of Yaolei Hong Welcome to the Yaolei's homepage.",
+    "link": [
+        "http://www.ccs.neu.edu/home/yhong/hawaii1.gif",
+        "http://www.ccs.neu.edu/home/yhong/hawaii2.gif",
+        "http://www.ccs.neu.edu"
+    ],
+    "ground_truth": "student"
+}

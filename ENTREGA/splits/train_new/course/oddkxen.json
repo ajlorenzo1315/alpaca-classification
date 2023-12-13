@@ -1,0 +1,10 @@
+{
+    "Title": "CS558: Internetworking and Distributed Systems Laboratory",
+    "Body": "Server: Netscape-Commerce/1.1 Date: Wednesday, 20-Nov-96 23:30:47 GMT Last-modified: Wednesday, 02-Oct-96 18:46:33 GMT Content-length: 1449 Content-type: text/html CS558: Internetworking and Distributed Systems Laboratory CS558: Internetworking and Distributed Systems Laboratory, Fall 1996 Students in this class will complete 14 laboratory exercises that emphasize computer system and network configuration and administration skills.",
+    "link": [
+        "http://www.isi.edu/~govindan/cs558/general.html",
+        "http://www.isi.edu/~govindan/cs558/labs.html",
+        "http://www.isi.edu/~govindan/cs558/lectures.html"
+    ],
+    "ground_truth": "course"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "A Framework for Protocol Composition in Horus",
+    "Body": "Next, we present the Horus object model that we designed for this technology, and the interface between the layers that makes it all work.",
+    "link": [
+        "node1.html",
+        "node1.html",
+        "footnode.html#20"
+    ],
+    "ground_truth": "other"
+}

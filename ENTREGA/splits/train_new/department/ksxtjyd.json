@@ -1,0 +1,10 @@
+{
+    "Title": "COMPUTER SCIENCE DEPARTMENT at OKLAHOMA STATE UNIVERSITY",
+    "Body": "There are 16 enrolled in the Computer Science area.",
+    "link": [
+        "http://www.okstate.edu/registrar/artsci.html",
+        "http://a.cs.okstate.edu/programs/bs.html",
+        "http://a.cs.okstate.edu/programs/ms.html"
+    ],
+    "ground_truth": "department"
+}

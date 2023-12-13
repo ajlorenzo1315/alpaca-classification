@@ -1,0 +1,9 @@
+{
+    "Title": "\nGarbler info\n",
+    "Body": "Garb_init() installs a handler for the signal SIGINT, and attempts to set the garbler's parameter values by reading the initialization file atm-garb.init in the process's current directory.",
+    "link": [
+        "http://www.cs.wisc.edu/~lhl/cs740/garb/",
+        "http://www.cs.wisc.edu/cgi-bin/finger?poon"
+    ],
+    "ground_truth": "other"
+}

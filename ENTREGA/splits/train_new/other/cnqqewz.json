@@ -1,0 +1,10 @@
+{
+    "Title": " Teaching Binary Tree Algorithms by Programming, Proof, and Animation ",
+    "Body": "Documentation Here is a description of Opsis written for my VL '96 demonstration: (contains snapshots of splay and AVL tree algorithms) Amir Michail.",
+    "link": [
+        "snapshots.html",
+        "http://www.marimba.com/tunein",
+        "http://home.netscape.com/comprod/mirror/client_download.html"
+    ],
+    "ground_truth": "other"
+}

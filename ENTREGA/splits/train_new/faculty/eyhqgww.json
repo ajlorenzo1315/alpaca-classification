@@ -1,0 +1,10 @@
+{
+    "Title": "Craig A. Knoblock",
+    "Body": "and Ph.D. in Computer Science from Carnegie Mellon University in 1988 and 1991, and I received my B.S.",
+    "link": [
+        "http://www.isi.edu/",
+        "http://cwis.usc.edu/dept/cs/",
+        "http://www.isi.edu/sims/sims-homepage.html"
+    ],
+    "ground_truth": "faculty"
+}

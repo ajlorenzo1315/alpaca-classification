@@ -1,0 +1,10 @@
+{
+    "Title": "CS 302 Section 70 Lecture Notes - Weeks 5",
+    "Body": "READ 15, NAME 15   FORMAT(A) User enters Kilroy1994junior\t(NAME='Kilroy1994') ^^^^^^^^^^ Note: The string is not enclosed by apostrophes!",
+    "link": [
+        "http://www.cs.wisc.edu/~tick/cs302.html#text",
+        "http://www.cs.wisc.edu/~bestor/bestor.html",
+        "mailto:bestor@cs.wisc.edu"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": " Kaz's Homepage  ",
+    "Body": "This homepage will get more interesting as I try to get some PICTURES and MUSIC in it.",
+    "link": [
+        "http://www.cs.cornell.edu/",
+        "http://www.cs.cornell.edu/Info/People/kota/mitsubishi.html",
+        "http://www.cs.cornell.edu/Info/People/kota/japan.html"
+    ],
+    "ground_truth": "student"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": " CSE 590I Reviews of Sites",
+    "Body": "Seems like a good example of the Web actually being used for something... [review by mikew] Aaron describes a few good WWW techniques .",
+    "link": [
+        "http://www.cs.washington.edu/homes/nick/",
+        "http://cadc.dao.nrc.ca/CADC-homepage.html",
+        "http://www.cs.washington.edu/homes/pulkka/good-links.html"
+    ],
+    "ground_truth": "other"
+}

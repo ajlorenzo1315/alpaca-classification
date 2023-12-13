@@ -1,0 +1,10 @@
+{
+    "Title": "James F. Allen's Home Page",
+    "Body": "Much of our work in this area has focused on the representation of time and action, and we have reformulated the planning problem as a problem in temporal reasoning.",
+    "link": [
+        "http://heg-school.aw.com/cseng/authors/allen/NatLang2e/NatLang2e.html",
+        "http://www.cs.rochester.edu/research/trains/home.html",
+        "ftp://ftp.cs.rochester.edu/pub/papers/ai/95.tn1.TRAINS_95_pars\ning_system_users_manual.ps.gz"
+    ],
+    "ground_truth": "faculty"
+}

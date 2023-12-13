@@ -1,0 +1,10 @@
+{
+    "Title": "Bob Carter -- Home Page",
+    "Body": "Here are our related papers: On the effectiveness of genetic search in combinatorial optimization (BU-CS-TR 94-010) (868k) \tPresented at 10th ACM Symposium on Applied Computing, Genetic \tAlgorithms and Optimization Track, February 1995.",
+    "link": [
+        "http://cs.bu.edu/",
+        "gopher://software.bu.edu/11/Resources%20At%20Your%20Fingertips/Undergraduate%20Course%20Catalog/School%20and%20College%20Catalog/College%20of%20Liberal%20Arts",
+        "http://web.bu.edu/"
+    ],
+    "ground_truth": "student"
+}

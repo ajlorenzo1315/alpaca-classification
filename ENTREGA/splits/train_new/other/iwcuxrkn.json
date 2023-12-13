@@ -1,0 +1,10 @@
+{
+    "Title": "HANNAH'S  TOTALLY COOL WEB PAGE\n",
+    "Body": "Okay, so maybe this page isn't so totally cool, but, HEY!",
+    "link": [
+        "http://www.mtv.com",
+        "http://www.romeoandjuliet.com/",
+        "http://www.disney.com"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Mach Shared Objects",
+    "Body": "This provides the services commonly attributed to a persistent object data manager.",
+    "link": [
+        "http://www.cs.utah.edu/~gary/home.html",
+        "http://www.cs.utah.edu/~kessler",
+        "http://www.cs.utah.edu/~retrac/home.html"
+    ],
+    "ground_truth": "project"
+}

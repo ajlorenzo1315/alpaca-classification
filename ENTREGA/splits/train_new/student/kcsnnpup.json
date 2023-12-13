@@ -1,0 +1,10 @@
+{
+    "Title": "Home Page of Tarun Nakra",
+    "Body": "Date: Tue, 26 Nov 1996 17:51:50 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Thu, 31 Oct 1996 02:03:55 GMT Content-length: 1112 Home Page of Tarun Nakra Welcome to the Home Page of Tarun Nakra Number of Hits since April 04, 1996: This page is incomplete.",
+    "link": [
+        "http://www.cs.pitt.edu",
+        "http://www.pitt.edu",
+        "http://chico.rice.edu/~rakesh/delhi/"
+    ],
+    "ground_truth": "student"
+}

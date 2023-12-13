@@ -1,0 +1,10 @@
+{
+    "Title": "Mitsunori Ogihara's Research Home Page",
+    "Body": "Date: Wednesday, 15-Jan-97 00:23:40 GMT Server: NCSA/1.3 MIME-version: 1.0 Content-type: text/html Last-modified: Friday, 06-Dec-96 19:56:46 GMT Content-length: 1695 Mitsunori Ogihara's Research Home Page I have conducted research in the area of computational complexity, a subfield of theoretical computer science.",
+    "link": [
+        "http://www.cs.rochester.edu/users/faculty/ogihara/research/pubs.html",
+        "http://www.cs.rochester.edu/users/faculty/ogihara/home.html",
+        "http://www.cs.rochester.edu/users/faculty.html"
+    ],
+    "ground_truth": "other"
+}

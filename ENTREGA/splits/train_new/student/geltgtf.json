@@ -1,0 +1,10 @@
+{
+    "Title": "Siegfried Luft",
+    "Body": "Date: Tue, 26 Nov 1996 16:25:12 GMT Server: NCSA/1.4.1 Content-type: text/html Last-modified: Tue, 03 Sep 1996 00:53:24 GMT Content-length: 1795 Siegfried Luft Welcome to my home page.",
+    "link": [
+        "http://gulf.uvic.ca/~sluft/Personal/index.html",
+        "http://gulf.uvic.ca/~sluft/Courses/index.html",
+        "http://gulf.uvic.ca/~sluft/Research/index.html"
+    ],
+    "ground_truth": "student"
+}

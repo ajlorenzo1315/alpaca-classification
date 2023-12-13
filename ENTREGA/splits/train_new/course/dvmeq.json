@@ -1,0 +1,9 @@
+{
+    "Title": "EECS 661:  Discrete Event Systems",
+    "Body": "It is intended for EECS graduate students who  want to learn about the modeling, analysis and control of ``discrete event dynamical systems'' (DES).",
+    "link": [
+        "http://www.eecs.umich.edu/courses/eecs661/info.html",
+        "http://www.eecs.umich.edu/courses/eecs661/umdes_lib.html"
+    ],
+    "ground_truth": "course"
+}

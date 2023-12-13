@@ -1,0 +1,10 @@
+{
+    "Title": " Some Mailing Addresses ",
+    "Body": "of ECE U. Alabama in Huntsville USA Ph: 205-890-6905 Yogesh Pandey 694/28, Noida UP-201303 INDIA Ph: +91-11-8-525553 email: yogi@cadence.com Home Page: http://www.geocities.com/CapeCanaveral/4205/index.html Pics of Some Indian Film Stars For suggestions send to me.",
+    "link": [
+        "mailto:saeed@cs.wisc.edu",
+        "http://www.cs.wisc.edu/~saeed",
+        "mailto:kaistha@engr.utk.edu"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Ed Durfee's Homepage",
+    "Body": "He is currently an Associate Professor in the Department of Electrical Engineering and Computer Science at the University of Michigan, where his interests are in distributed artificial intelligence, planning, blackboard systems, and real-time problem solving.",
+    "link": [
+        "http://ai.eecs.umich.edu/",
+        "http://ai.eecs.umich.edu/people/durfee/edpic.html",
+        "http://ai.eecs.umich.edu/diag/homepage.html"
+    ],
+    "ground_truth": "faculty"
+}

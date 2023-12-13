@@ -1,0 +1,10 @@
+{
+    "Title": "Blobby Modeler",
+    "Body": "An almost equivalent but more efficient version of the function is: [3] C(r) = ar^6/R^6 + br^4/R^4 + cr²/R² + 1 where the values of a , b , and c are found by solving with the following constraints: C(0.0) = 1.0 C(R) = 0.0 C'(0.0) = 0.0 C'(R) = 0.0 C(R/2) = 0.5 yielding: a = -0.444444 b = 1.888889 c = -2.444444 In 1991, Shigeru Muraki took it one step further, and applied blobby models on range data to visualize very interesting objects such as human faces.",
+    "link": [
+        "#intro",
+        "#goals",
+        "#design"
+    ],
+    "ground_truth": "unknow"
+}

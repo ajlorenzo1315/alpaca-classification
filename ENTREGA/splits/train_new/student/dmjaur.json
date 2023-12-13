@@ -1,0 +1,10 @@
+{
+    "Title": " Elli Angelopoulou's home page ",
+    "Body": "My personal research evolves around the exploitation of photometric invariants in stereo, \"3-D Stereo Using Photometric Ratios,\" Tech-Report 1993.10 and in object recognition \"A Curvature Based Invariant for Object Recognition Derived from Covariance of Photometric Values,\" Tech-Report 1995.12.",
+    "link": [
+        "http://www.eff.org/blueribbon.html><img src = ",
+        "mailto:angelop@cs.jhu.edu",
+        "http://www.cs.jhu.edu/"
+    ],
+    "ground_truth": "student"
+}

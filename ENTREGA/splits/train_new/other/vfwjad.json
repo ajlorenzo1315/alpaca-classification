@@ -1,0 +1,10 @@
+{
+    "Title": "CS 664:  Problem Set 2",
+    "Body": "Solaris available on the cs dept machines as ~robotlab/new/lib/libadt-svr4.a, with the appropriate header files in ~robotlab/new/include/adt/ , be sure to include -DSVR4 on your command line .",
+    "link": [
+        "ps2/ps2.ps",
+        "ps2/test2.tgz",
+        "ps2/test.tar.gz"
+    ],
+    "ground_truth": "other"
+}

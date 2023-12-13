@@ -1,0 +1,10 @@
+{
+    "Title": "Multi-FPGA Systems & Rapid-Prototyping",
+    "Body": "In \"Pin Assignment for Multi-FPGA Systems\" we examined the problems of global routing in multi-FPGA systems, and proposed an algorithm for pin assignment for arbitrary FPGA topologies.",
+    "link": [
+        "ftp://shrimp.cs.washington.edu/pub/olympia/ICCDMesh.ps.Z",
+        "ftp://shrimp.cs.washington.edu/pub/olympia/ICCADpinassign.ps.Z",
+        "ftp://shrimp.cs.washington.edu/pub/olympia/Bipartition.ps.Z"
+    ],
+    "ground_truth": "other"
+}

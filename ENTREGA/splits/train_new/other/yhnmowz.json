@@ -1,0 +1,10 @@
+{
+    "Title": "C",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Monday, 06-Jan-97 22:56:34 GMT Content-Type: text/html Content-Length: 672 Last-Modified: Tuesday, 19-Nov-96 07:23:32 GMT C C programming C standard library C++/C Tutorials & Literature Yahoo:C/C++ Coding Style",
+    "link": [
+        "http://www.eskimo.com/~scs/cclass/cclass.html",
+        "http://jschem.korea.ac.kr/c/CStdLib.html",
+        "http://infoweb.magi.com/~steve/c_book.html"
+    ],
+    "ground_truth": "other"
+}

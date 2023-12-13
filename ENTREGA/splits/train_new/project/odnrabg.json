@@ -1,0 +1,10 @@
+{
+    "Title": "SFU Intelligent Systems Lab Home",
+    "Body": "We apply these techniques to applications in planning and scheduling, configuration, and user-interfaces.",
+    "link": [
+        "http://fas.sfu.ca/isl/",
+        "#overview",
+        "#address"
+    ],
+    "ground_truth": "project"
+}

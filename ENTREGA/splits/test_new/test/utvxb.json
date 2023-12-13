@@ -1,0 +1,10 @@
+{
+    "Title": " Jignesh's Home Page ",
+    "Body": "Publications Related to Paradise Client-Server Paradise : Paper published in VLDB 1994.",
+    "link": [
+        "mailto:jignesh@cs.wisc.edu",
+        "http://www.cs.wisc.edu/~jignesh/me.gif",
+        "http://www.cs.wisc.edu/"
+    ],
+    "ground_truth": "unknow"
+}

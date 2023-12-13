@@ -1,0 +1,8 @@
+{
+    "Title": "Data Mining",
+    "Body": "A summary of the algorithm in pseudocode form is as follows: Tree Building MakeTree (Training Data) { Partition (Training Data); } Partition (Data) { If all (s in S) in same class - tree done.",
+    "link": [
+        "http://www.cs.cornell.edu/Info/People/vitrano/vitrano.html"
+    ],
+    "ground_truth": "other"
+}

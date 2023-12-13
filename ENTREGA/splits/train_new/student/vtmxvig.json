@@ -1,0 +1,8 @@
+{
+    "Title": "\nHome Page for Ashis Tarafdar\n",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Monday, 06-Jan-97 19:29:11 GMT Content-Type: text/html Content-Length: 1594 Last-Modified: Friday, 27-Dec-96 20:45:30 GMT Home Page for Ashis Tarafdar Ashis Tarafdar About Me I'm just about getting round to letting my existence be known.",
+    "link": [
+        "/cgi/rwho/ashis"
+    ],
+    "ground_truth": "student"
+}

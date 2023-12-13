@@ -1,0 +1,10 @@
+{
+    "Title": "CSE 341 Overview",
+    "Body": "There will be written assignments on the lectures and textbook and small programming assignments on the languages taught in the quiz sections.",
+    "link": [
+        "http://www.cs.washington.edu/homes/leveson",
+        "http://www.cs.washington.edu/homes/echris",
+        "http://www.cs.washington.edu/education/courses/341/autumn96/oh1.ps"
+    ],
+    "ground_truth": "other"
+}

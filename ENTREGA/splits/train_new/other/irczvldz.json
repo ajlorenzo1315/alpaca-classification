@@ -1,0 +1,10 @@
+{
+    "Title": "cs520 assignments",
+    "Body": "If you will be absent from lecture, assignments may be placed in my mailbox before lecture starts on the day they are due.",
+    "link": [
+        "http://www.cs.wisc.edu/~cs520-1/assignments/misconduct.html",
+        "http://www.cs.wisc.edu/~cs520-1/assignments/hw.1996sep20.html",
+        "http://www.cs.wisc.edu/~cs520-1/assignments/hw.1996oct04.html"
+    ],
+    "ground_truth": "other"
+}

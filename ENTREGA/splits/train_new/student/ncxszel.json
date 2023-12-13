@@ -1,0 +1,10 @@
+{
+    "Title": "Welcome to Xichun(Jennifer) Guo's home page",
+    "Body": "I received my Bachelor and Master Degree from Department of Computer Science, Zhejiang University , Hangzhou , Zhejiang , China .",
+    "link": [
+        "http://www.cs.cornell.edu/",
+        "http://www.cornell.edu/",
+        "http://www.cornell.edu/Ithaca.html"
+    ],
+    "ground_truth": "student"
+}

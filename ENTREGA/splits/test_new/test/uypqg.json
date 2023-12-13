@@ -1,0 +1,10 @@
+{
+    "Title": "Oren Etzioni's Home Page",
+    "Body": "Master's thesis:  A Planner for a UNIX Softbot, 1993.",
+    "link": [
+        "http://www.cs.washington.edu/homes/etzioni//",
+        "http://www.washington.edu",
+        "http://www.uwtc.washington.edu/Seagopher.html"
+    ],
+    "ground_truth": "unknow"
+}

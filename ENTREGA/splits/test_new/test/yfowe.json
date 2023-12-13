@@ -1,0 +1,10 @@
+{
+    "Title": "Designing the User Interface, Second Edition",
+    "Body": "Coverage includes the human factors of interactive software (with added discussion of internationalization and users with disabilities), interaction styles (menu selection systems, command languages, direct manipulation), design considerations (including response time, system messages, screen design, and color), and methods to develop and assess the user interface.",
+    "link": [
+        "http://www.cs.umd.edu/users/ben/index.html",
+        "http://www.cs.umd.edu/projects/hcil/index.html",
+        "http://www.cs.umd.edu/projects/hcil/Research/books.html"
+    ],
+    "ground_truth": "unknow"
+}

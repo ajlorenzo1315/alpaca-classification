@@ -1,0 +1,10 @@
+{
+    "Title": "TIBBIT Home Page",
+    "Body": "The TIBBIT project is primarily concerned with the automated migration of embedded real-time applications.",
+    "link": [
+        "http://www.cs.uoregon.edu/~cogswell/tibbit/need_for.html",
+        "http://www.cmu.edu/",
+        "http://www.uoregon.edu/home.html"
+    ],
+    "ground_truth": "project"
+}

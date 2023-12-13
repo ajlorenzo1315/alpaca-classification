@@ -1,0 +1,10 @@
+{
+    "Title": "RTSL Publications",
+    "Body": "In Proceedings of the 14th IEEE International Conference on Distributed Computing Systems , June 1994.",
+    "link": [
+        "http://pertsserver.cs.uiuc.edu/papers//",
+        "ftp://ftp.cs.uiuc.edu/pub/dept/tech_reports",
+        "http://pertsserver.cs.uiuc.edu/papers/obtaining.html"
+    ],
+    "ground_truth": "other"
+}

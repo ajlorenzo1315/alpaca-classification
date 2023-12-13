@@ -1,0 +1,10 @@
+{
+    "Title": "Louis Steinberg - signature page",
+    "Body": "I am Associate Director of the Hypercomputing and Design Project (HPCD).",
+    "link": [
+        "http://www.cs.rutgers.edu/~lou/signature-mono.html",
+        "http://www.cs.rutgers.edu/hpcd/hpcd.html",
+        "http://remus.rutgers.edu/~lou/111.html"
+    ],
+    "ground_truth": "faculty"
+}

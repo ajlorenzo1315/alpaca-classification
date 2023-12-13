@@ -1,0 +1,10 @@
+{
+    "Title": "Publications",
+    "Body": "Cloud University, St.",
+    "link": [
+        "http://www.cs.ndsu.nodak.edu/research/ATM/index.html",
+        "http://www.cs.ndsu.nodak.edu/research/ATM/html/research.html",
+        "http://www.cs.ndsu.nodak.edu/research/ATM/html/links.html"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Caffe Lardo",
+    "Body": "Date: Tue, 10 Dec 1996 17:59:06 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Wed, 27 Mar 1996 20:18:35 GMT Content-length: 1008 Caffe Lardo Here is Caffe Lardo's menu.",
+    "link": [
+        "menu1.html",
+        "menu2.html",
+        "menu3.html"
+    ],
+    "ground_truth": "other"
+}

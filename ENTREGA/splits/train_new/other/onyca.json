@@ -1,0 +1,9 @@
+{
+    "Title": "The Design and Implementation of Kaleidoscope'90, A Constraint\nImperative Programming Language",
+    "Body": "Date: Tue, 10 Dec 1996 03:26:59 GMT Server: NCSA/1.4.2 Content-type: text/html The Design and Implementation of Kaleidoscope'90, A Constraint Imperative Programming Language The Design and Implementation of Kaleidoscope'90, A Constraint Imperative Programming Language Authors: Bjorn Freeman-Benson and Alan Borning Published in Proceedings of the IEEE Computer Society 1992 International Conference on Computer Languages , April 1992, pages 174-180.",
+    "link": [
+        "ftp://cs.washington.edu/pub/constraints/papers/kaleidoscope-iccl-92.ps.Z",
+        "http://www.cs.washington.edu/research/projects/weird/www/index.html"
+    ],
+    "ground_truth": "other"
+}

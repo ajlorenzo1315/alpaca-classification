@@ -1,0 +1,10 @@
+{
+    "Title": "Nick's Home Page",
+    "Body": "January 1993-May 1994: Under Richard Fateman at UC Berkeley.",
+    "link": [
+        "mailto:mitchell@cs.ucsd.edu",
+        "http://www-cse.ucsd.edu/users/mitchell/cs-undergrad.html",
+        "http://www-cse.ucsd.edu/users/mitchell/physics-undergrad.html"
+    ],
+    "ground_truth": "student"
+}

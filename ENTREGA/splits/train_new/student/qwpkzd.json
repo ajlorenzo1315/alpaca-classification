@@ -1,0 +1,10 @@
+{
+    "Title": "j ward shade",
+    "Body": "If it is your thing too, then follow the Projects link to the Walkthru project.",
+    "link": [
+        "http://www.cs.washington.edu",
+        "http://www.cs.washington.edu/homes/shade/projects.html",
+        "http://www.cs.washington.edu/research/projects/grail2/www/projects/walkthru/"
+    ],
+    "ground_truth": "student"
+}

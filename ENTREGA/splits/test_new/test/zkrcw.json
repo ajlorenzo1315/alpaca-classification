@@ -1,0 +1,10 @@
+{
+    "Title": "Karsten Schwan Home Page ",
+    "Body": "Specific examples of configurable abstractions constructed with the CThreads basis include (1) adaptable multiprocessor locks able to improve program performance by adapting lock characteristics to program behavior during program execution and (2) adaptable communication protocols The DSA (Distributed Shared Abstractions) library for construction of distributed objects is available on shared and (in a prototype version) on distributed memory machines, including networks of workstations.",
+    "link": [
+        "http://www.cc.gatech.edu/net/www/systems/projects/HPPCEL/",
+        "http://www.cc.gatech.edu/grads/e/Greg.Eisenhauer/papers/particle_paper.ps.Z>\nmolecular dynamics, \n</A>\n<A HREF=",
+        "http://www.cc.gatech.edu/systems/projects/DISTLABS/"
+    ],
+    "ground_truth": "unknow"
+}

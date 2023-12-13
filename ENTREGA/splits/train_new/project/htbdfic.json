@@ -1,0 +1,10 @@
+{
+    "Title": "The Hypercomputing and Design Project",
+    "Body": "Core Research in Hypercomputing and Design Area III.1.",
+    "link": [
+        "http://www.ito.arpa.mil/",
+        "http://www.rutgers.edu",
+        "http://www.usc.edu"
+    ],
+    "ground_truth": "project"
+}

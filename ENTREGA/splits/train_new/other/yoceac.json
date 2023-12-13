@@ -1,0 +1,10 @@
+{
+    "Title": "CS 110 Section 2 Lecture Notes - Week 3",
+    "Body": "Example: if x and y are both greater than min then ...",
+    "link": [
+        "http://www.cs.wisc.edu/~bestor/cs110/cs110.html#text",
+        "http://www.cs.wisc.edu/~bestor/bestor.html",
+        "mailto:bestor@cs.wisc.edu"
+    ],
+    "ground_truth": "other"
+}

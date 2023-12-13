@@ -1,0 +1,10 @@
+{
+    "Title": "Ken Nygard NDSU Faculty",
+    "Body": "Date: Monday, 25-Nov-96 22:10:11 GMT Server: NCSA/1.3 MIME-version: 1.0 Content-type: text/html Last-modified: Thursday, 10-Oct-96 14:47:40 GMT Content-length: 1582 Ken Nygard NDSU Faculty Ken Nygard 258 A9 IACC (701) 231-8203 My Guestbook Earned his PhD in 1978 from VPI and has been at NDSU since 1977.",
+    "link": [
+        "http://ndsun.cs.ndsu.NoDak.edu/www/nygard/guest.html",
+        "http://ndsun.cs.ndsu.nodak.edu",
+        "http://ndsun.cs.ndsu.nodak.edu:80/www/SMAPS/"
+    ],
+    "ground_truth": "faculty"
+}

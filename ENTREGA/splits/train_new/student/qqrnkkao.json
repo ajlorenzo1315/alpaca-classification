@@ -1,0 +1,10 @@
+{
+    "Title": "Welcome to Bob's Home Page",
+    "Body": "Date: Thu, 21 Nov 1996 22:49:53 GMT Server: Apache/1.1.1 Content-type: text/html Content-length: 2074 Last-modified: Tue, 05 Nov 1996 22:17:52 GMT Welcome to Bob's Home Page Welcome to Bob Dugan's Home Page.",
+    "link": [
+        "http://www.cs.rpi.edu/~dugan/education.html",
+        "http://www.cs.rpi.edu/~dugan/publications.html",
+        "http://www.cs.rpi.edu/~dugan/inventions.html"
+    ],
+    "ground_truth": "student"
+}

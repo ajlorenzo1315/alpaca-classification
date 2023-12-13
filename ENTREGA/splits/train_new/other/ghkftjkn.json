@@ -1,0 +1,10 @@
+{
+    "Title": "\n\tGnats for Paradise\n",
+    "Body": "In order to edit problems, you'll need to be running WebGnats from a workstation with AFS access, and you'll need to have the following in your .mailcap file.",
+    "link": [
+        "http://www.cs.wisc.edu/~curt/wgnats/gnats-man.html",
+        "http://www.cs.wisc.edu/~curt/wgnats/send-pr.html",
+        "http://www.cs.wisc.edu/~curt/wgnats/query-pr.html"
+    ],
+    "ground_truth": "other"
+}

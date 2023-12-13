@@ -1,0 +1,10 @@
+{
+    "Title": "Home page of Ehab Elmallah",
+    "Body": "Date: Mon, 25 Nov 1996 22:56:49 GMT Server: Apache/1.1.1 Content-type: text/html Content-length: 1716 Last-modified: Thu, 29 Aug 1996 17:34:42 GMT Home page of Ehab Elmallah Ehab Elmallah's home page Associate Professor at the Department of Computing Science .",
+    "link": [
+        "http://www.cs.ualberta.ca/",
+        "http://www.cs.ualberta.ca/~ehab/src/papers.html",
+        "http://www.cs.ualberta.ca/~ehab/src/researchOutline.html"
+    ],
+    "ground_truth": "faculty"
+}

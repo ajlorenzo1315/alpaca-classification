@@ -1,0 +1,10 @@
+{
+    "Title": "Beijing",
+    "Body": "You can look around the scenery of Beijing and you will love Beijing too .",
+    "link": [
+        "http://www.cnc.ac.cn/china/beijing.html",
+        "http://www.singnet.com.sg/~chengkk/beijing/chan.htm",
+        "http://metrotel.co.uk/jvt/china1.htm"
+    ],
+    "ground_truth": "other"
+}

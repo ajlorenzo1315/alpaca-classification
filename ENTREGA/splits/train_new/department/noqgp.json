@@ -1,0 +1,10 @@
+{
+    "Title": "Wesleyan University Computer Science Group Home Page ",
+    "Body": "Date: Tuesday, 26-Nov-96 22:13:29 GMT Server: NCSA/1.1 MIME-version: 1.0 Content-type: text/html Last-modified: Monday, 15-Apr-96 13:24:18 GMT Wesleyan University Computer Science Group Home Page Computer Science Group Wesleyan University Welcome to the home page of the Computer Science Group at Wesleyan University.",
+    "link": [
+        "http://www.cs.wesleyan.edu/Math/Math.html",
+        "http://www.cs.wesleyan.edu/HTML/People.html",
+        "http://www.cs.wesleyan.edu/courses"
+    ],
+    "ground_truth": "department"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Ken Harker - PGP Public Key",
+    "Body": "PGP can also be used to apply a digital signature to a message without encrypting it.",
+    "link": [
+        "http://thegate.gamers.org/~tony/pgp.html",
+        "ftp://ftp.netcom.com/pub/gbe/",
+        "ftp://soda.berkeley.edu/pub/cypherpunks/pgp/"
+    ],
+    "ground_truth": "other"
+}

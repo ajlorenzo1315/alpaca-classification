@@ -1,0 +1,10 @@
+{
+    "Title": "Art Bernstein",
+    "Body": "We are currently investigating the extent to which the semantics of transactions (expressed as proofs in a formal system) can be exploited to improve performance.",
+    "link": [
+        "http://www.cs.sunysb.edu",
+        "http://www.cs.sunysb.edu/~gerstl/group/hptp.html",
+        "http://www.cs.sunysb.edu/~pml"
+    ],
+    "ground_truth": "unknow"
+}

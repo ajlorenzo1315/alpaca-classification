@@ -1,0 +1,10 @@
+{
+    "Title": "academia",
+    "Body": "Date: Tue, 10 Dec 1996 21:27:33 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Wed, 06 Mar 1996 18:12:28 GMT Content-length: 1446 academia academia I've been the teaching assistant for the graduate AI course in my department.",
+    "link": [
+        "http://www.cs.washington.edu/education/courses/573/",
+        "http://www.cs.washington.edu/education/courses/590h/",
+        "http://www.cs.washington.edu/homes/map/espresso/"
+    ],
+    "ground_truth": "other"
+}

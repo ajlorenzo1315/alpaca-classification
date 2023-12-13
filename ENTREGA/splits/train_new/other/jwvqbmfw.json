@@ -1,0 +1,10 @@
+{
+    "Title": " Legal and Ethical Oddities ",
+    "Body": "Politics The home page of the Canter and Segal operation.",
+    "link": [
+        "http://www.cs.washington.edu/homes/pardo/legeth.d/assault.txt",
+        "http://www.courttv.com/",
+        "http://www.eskimo.com/~quawk/prison.html"
+    ],
+    "ground_truth": "other"
+}

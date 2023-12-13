@@ -1,0 +1,10 @@
+{
+    "Title": " Andreas Moshovos's Home Page ",
+    "Body": "Then click here My brother writes poetry, click here for a sample of his work.",
+    "link": [
+        "http://www.eff.org/blueribbon.html",
+        "http://www.cs.wisc.edu/",
+        "http://www.wisc.edu/"
+    ],
+    "ground_truth": "student"
+}

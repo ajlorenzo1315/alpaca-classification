@@ -1,0 +1,10 @@
+{
+    "Title": " Asha Keddy's Home Page   ",
+    "Body": "Date: Thu, 21 Nov 1996 22:11:15 GMT Server: Apache/1.1.1 Content-type: text/html Content-length: 1460 Last-modified: Sat, 07 Oct 1995 15:53:04 GMT Asha Keddy's Home Page Welcome to Asha's Page of Wonders Here's where you click for more information about me and my interests .",
+    "link": [
+        "http://www.cs.clemson.edu/~asha/myself.html",
+        "mailto:ashaa@cs.clemson.edu",
+        "http://www.cs.clemson.edu/"
+    ],
+    "ground_truth": "student"
+}

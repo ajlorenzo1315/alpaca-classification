@@ -1,0 +1,10 @@
+{
+    "Title": "CSE 373 Projects",
+    "Body": "Project reports turned in after 12:35 on Dec. 11 but by 12:00 on Dec 12 will be docked 10% of the project grade, and there will be another 10% off for each business day the report is late.",
+    "link": [
+        "http://www.cs.washington.edu/education/courses/373/96a/image-proj.html",
+        "http://www.cs.washington.edu/homes/amir/Opsis.html",
+        "http://www.cs.washington.edu/education/courses/373/96a/lisp-proj.html"
+    ],
+    "ground_truth": "other"
+}

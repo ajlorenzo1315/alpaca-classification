@@ -1,0 +1,10 @@
+{
+    "Title": "Jonathan Stanton's Home",
+    "Body": "Johns Hopkins University 410-516-4650 Finger: jonathan@hawaii.cs.jhu.edu OR: jonathan@condor.cs.jhu.edu A local copy of the PERL 5 Man pages done up in HTML are available.",
+    "link": [
+        "http://www.cs.jhu.edu/~jonathan/perl/manual/index.html",
+        "http://www.hensa.ac.uk/parallel/index-3.html",
+        "http://www.perl.com/"
+    ],
+    "ground_truth": "student"
+}

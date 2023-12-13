@@ -1,0 +1,10 @@
+{
+    "Title": "Pete DeVries's Home Page",
+    "Body": "I also developed the Molecular Biology Web site.",
+    "link": [
+        "mailto://pdevries@cs.wisc.edu",
+        "http://www.cs.wisc.edu/~ejhazen/ejhazen.html",
+        "http://www.cs.wisc.edu/csl/"
+    ],
+    "ground_truth": "staff"
+}

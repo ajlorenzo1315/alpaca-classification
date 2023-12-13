@@ -1,0 +1,10 @@
+{
+    "Title": "CSE 401 / Help",
+    "Body": "Date: Mon, 02 Dec 1996 14:40:01 GMT Server: NCSA/1.4.2 Content-type: text/html CSE 401 / Help CSE 401 Compilers Class Help Sample PL/0 Program Building PL/0 Turnin Instructions Double Sided Printing Introduction to C++ The uw-cs.courses.cse401 news group is an excellent way to share ideas and concerns with your friends.",
+    "link": [
+        "http://www.cs.washington.edu/education/courses/401/CurrentQuarter/",
+        "http://www.cs.washington.edu/education/courses/401/CurrentQuarter/admin/",
+        "http://www.cs.washington.edu/education/courses/401/CurrentQuarter/details/"
+    ],
+    "ground_truth": "other"
+}

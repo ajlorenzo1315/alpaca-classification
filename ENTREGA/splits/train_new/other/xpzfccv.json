@@ -1,0 +1,10 @@
+{
+    "Title": "Paul Stockmeyer's CV",
+    "Body": "Assistant Professor of Mathematics, 1971-1977.",
+    "link": [
+        "http://www.cs.wm.edu/~pkstoc/papers.html",
+        "http://www.cs.wm.edu/~pkstoc/index.html",
+        "http://ugweb.cs.ualberta.ca/~gerald/validate/"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Some Indian Stuff",
+    "Body": "Sergio Paoli maintains an India Page that among other things has information about the States of India and some of the Cities in India including Bombay and Pune .",
+    "link": [
+        "http://spiderman.bu.edu/misc/india",
+        "http://www.cs.wisc.edu/~navin/india/hindifilm.html",
+        "http://www.cs.wisc.edu/~navin/india/songs/index.html"
+    ],
+    "ground_truth": "other"
+}

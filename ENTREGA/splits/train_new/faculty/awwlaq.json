@@ -1,0 +1,10 @@
+{
+    "Title": "Yuan-Fang Wang",
+    "Body": "From 1981 to 1982, he was a teaching assistant in the Department of Electrical and Computer Engineering, and from 1982 to 1987, a research assistant in the Computer and Vision Research Center, both at the University of Texas at Austin.",
+    "link": [
+        "http://www.cs.ucsb.edu/",
+        "http://www.cs.ucsb.edu/~yfwang/personal/J_articles.html",
+        "http://www.cs.ucsb.edu/~yfwang/personal/Books.html"
+    ],
+    "ground_truth": "faculty"
+}

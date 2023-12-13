@@ -1,0 +1,10 @@
+{
+    "Title": "D. E. Stevenson",
+    "Body": "Implementation of a programming language to support constructive computational science and engineering.",
+    "link": [
+        "#ThisGuy",
+        "#CSE",
+        "http://hubcap.clemson.edu/~oheim/nasa_hp.html"
+    ],
+    "ground_truth": "faculty"
+}

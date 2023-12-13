@@ -1,0 +1,10 @@
+{
+    "Title": "Faculty Research Interests",
+    "Body": "Dexter Kozen: (Annual Report) and/or (Personal) Theory of computation, computational complexity, analysis of algorithms, program logics and semantics.",
+    "link": [
+        "http://www.cs.cornell.edu/Info/Department/Annual94/Faculty/Birman.html",
+        "http://www.cs.cornell.edu/Info/Department/Annual94/Faculty/Bloom.html",
+        "http://www.cs.cornell.edu/Info/Department/Annual94/Faculty/Cardie.html"
+    ],
+    "ground_truth": "other"
+}

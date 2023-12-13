@@ -1,0 +1,10 @@
+{
+    "Title": "CONCURRENT VLSI ARCHITECTURE GROUP",
+    "Body": "The M-Machine is a multicomputer that will test new concepts for controlling multiple function units on a single chip, efficient and flexible communication primitives, fine-grain protection, and global memory systems.",
+    "link": [
+        "http://www.ai.mit.edu/projects/cva/cva_home_page.html",
+        "http://www.ai.mit.edu/people/billd/billd.html",
+        "http://www.ai.mit.edu/projects/cva/cva_m_machine.html"
+    ],
+    "ground_truth": "project"
+}

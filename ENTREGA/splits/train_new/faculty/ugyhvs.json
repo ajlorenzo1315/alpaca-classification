@@ -1,0 +1,10 @@
+{
+    "Title": " Ron Unrau ",
+    "Body": "Some progress has been made through Distributed Shared Memory systems that present a shared memory programming abstraction, and which minimize communication using weak coherence.",
+    "link": [
+        "http://www.cs.ualberta.ca/people/faculty/aifc/unrau.aifc",
+        "mailto:unrau@cs.ualberta.ca",
+        "http://web.cs.ualberta.ca/labs/parallel.html"
+    ],
+    "ground_truth": "faculty"
+}

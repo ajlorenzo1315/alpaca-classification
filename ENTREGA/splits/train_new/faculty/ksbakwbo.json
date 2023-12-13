@@ -1,0 +1,10 @@
+{
+    "Title": "Dr. Takayuki Dan Kimura's Home Page",
+    "Body": "1968    University of  Pennsylvania\t\tComputer and Information Science B.S.",
+    "link": [
+        "http://www.cs.wustl.edu/cs/",
+        "http://www.wustl.edu/",
+        "http://aix.cait.wustl.edu/"
+    ],
+    "ground_truth": "faculty"
+}

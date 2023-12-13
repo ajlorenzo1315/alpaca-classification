@@ -1,0 +1,10 @@
+{
+    "Title": "WPI Artificial Intelligence in Design Group (AIDG)",
+    "Body": "The group meets every week to discuss the research of group members, to review papers, and to discuss research issues.",
+    "link": [
+        "http://cs.wpi.edu/~dcb/NSF/NSF-defns.html",
+        "http://cs.wpi.edu/Research/aidg/DSPL.html",
+        "http://cs.wpi.edu/Research/aidg/AIinD-hotlist.html"
+    ],
+    "ground_truth": "project"
+}

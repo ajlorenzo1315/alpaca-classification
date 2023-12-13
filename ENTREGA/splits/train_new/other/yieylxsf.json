@@ -1,0 +1,10 @@
+{
+    "Title": "\nRiceInfo: Rice University WWW server\n",
+    "Body": "Date: Wed, 15 Jan 1997 02:00:37 GMT Server: NCSA/1.5.1 Last-modified: Tue, 14 Jan 1997 14:42:28 GMT Content-type: text/html Content-length: 6743 RiceInfo: Rice University WWW server Electronic Book Co-Op Fifth Annual Rice Environmental Conference , Saturday, Feb. 1, 1997 Internet Resource Guide for Biodiversity, Ecology, and the Environment Wetland Center for Biogeochemical Research Welcome Rice Facts - Showcase - Arts - Houston - Campus Tour - and more .",
+    "link": [
+        "http://riceinfo.rice.edu/cgi-bin/imagemap/images/top.map",
+        "http://www.rice.edu/about/new.html",
+        "http://riceinfo.rice.edu/projects/SA/ecoop/"
+    ],
+    "ground_truth": "other"
+}

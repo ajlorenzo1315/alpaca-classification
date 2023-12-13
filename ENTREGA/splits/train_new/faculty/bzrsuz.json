@@ -1,0 +1,9 @@
+{
+    "Title": "Barbara J. Grosz",
+    "Body": "Her current work encompasses: computational theories of discourse and discourse processing, computational models of collaborative planning, investigations of the interactions between intonation and discourse, and the development of collaborative, multimedia systems for human-computer communication.",
+    "link": [
+        "mailto:grosz@eecs.harvard.edu",
+        "mailto:bree@das.harvard.edu"
+    ],
+    "ground_truth": "faculty"
+}

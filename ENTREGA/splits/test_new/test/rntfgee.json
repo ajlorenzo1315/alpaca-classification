@@ -1,0 +1,9 @@
+{
+    "Title": "Doing 302 Asssignments at Home",
+    "Body": "If you have a printer at home, you can make your printouts from your computer.",
+    "link": [
+        "http://www.cs.wisc.edu/~msteele/cs302.html",
+        "http://www.cs.wisc.edu/~msteele/"
+    ],
+    "ground_truth": "unknow"
+}

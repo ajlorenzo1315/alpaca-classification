@@ -1,0 +1,10 @@
+{
+    "Title": " Vijay's  Home ",
+    "Body": "CS Las Cruces, NM, 88003 Snail Mail to my Residence: Vijay Arun Venkataraman 625, E. University Ave. , #16, Las Cruces, NM, 88001 Vijay Arun : The South Indian Classical Musician Links to some interesting places HCI Index at the WWW virtual library Check out your address in this Geocities WebMap My place on the Map for you (look for the cross mark!)",
+    "link": [
+        "http://www.cs.nmsu.edu/~vvenkata/spicmacay.html",
+        "mailto:vvenkata@cs.nmsu.edu",
+        "http://www.cs.nmsu.edu/~vvenkata/gui.html"
+    ],
+    "ground_truth": "student"
+}

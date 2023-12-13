@@ -1,0 +1,10 @@
+{
+    "Title": "Software and documentation from the Horus Project.",
+    "Body": "We are currently working hard on getting Horus documentation of the ground.",
+    "link": [
+        "http://simon.cs.cornell.edu/Info/Projects/HORUS/index.html",
+        "http://simon.cs.cornell.edu/Info/Projects/HORUS/Overview.html",
+        "http://simon.cs.cornell.edu/Info/Projects/HORUS/People.html"
+    ],
+    "ground_truth": "other"
+}

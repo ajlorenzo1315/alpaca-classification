@@ -1,0 +1,10 @@
+{
+    "Title": "CS 552: Object-Oriented Database Systems",
+    "Body": "Reference Material Harmony Lex Scanner Source Harmony Yacc Grammar Source Object-Oriented Database System Manifesto Composer Tutorial OSA Tutorial OSM-QL Interface Tutorial -- under construction OSS-L Reference Manual Unix Tutorial -- embedded in the ECEN Computer Handbook vi Tutorial -- vi is a text editor available for your use O2 Information : especially for cs552 students OODBMS Books Books and Book Chapters WWW Sites of Interest ODMG News Groups of Interest CS 353 News Group -- the news group for our class Database Theory News Group General Database News Group Object-Oriented Database Group Oracle Database Group Paradox Database Group",
+    "link": [
+        "http://www.cs.byu.edu/info/dwembley.html",
+        "http://osm7.cs.byu.edu/harmony/harmony.lex",
+        "http://osm7.cs.byu.edu/harmony/harmony.yacc"
+    ],
+    "ground_truth": "course"
+}

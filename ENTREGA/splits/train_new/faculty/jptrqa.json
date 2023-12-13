@@ -1,0 +1,10 @@
+{
+    "Title": " Gregory Dudek ",
+    "Body": "Gregory Dudek Professor G. Dudek Electronic mail: dudek@cim.mcgill.edu School of Computer Science and Centre for Intelligent Machines (CIM) Research areas: navigation, shape, mobile robotics, vision, visualization, recognition.",
+    "link": [
+        "http://www.cs.mcgill.ca/",
+        "http://www.cim.mcgill.ca/~dudek/mobile.html",
+        "http://www.cim.mcgill.ca/"
+    ],
+    "ground_truth": "faculty"
+}

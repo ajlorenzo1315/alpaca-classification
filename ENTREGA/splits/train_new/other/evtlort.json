@@ -1,0 +1,8 @@
+{
+    "Title": " Mail Stop for UWCSE ",
+    "Body": "It's the mail stop for the Department of Computer Science & Engineering .",
+    "link": [
+        "http://www.cs.washington.edu/"
+    ],
+    "ground_truth": "other"
+}

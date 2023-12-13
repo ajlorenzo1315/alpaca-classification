@@ -1,0 +1,10 @@
+{
+    "Title": "Noel Rappin's Home Page",
+    "Body": "Noel Rappin (noel@cc.gatech.edu) Noel Rappin Graphics, Visualization and Usability Center College of Computing Georgia Institute of Technology Atlanta, GA 30332 noel@cc.gatech.edu",
+    "link": [
+        "http://www.gatech.edu/",
+        "http://www.cc.gatech.edu/gvu",
+        "http://www.cc.gatech.edu/gvu/research"
+    ],
+    "ground_truth": "unknow"
+}

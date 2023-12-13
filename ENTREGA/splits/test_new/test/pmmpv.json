@@ -1,0 +1,10 @@
+{
+    "Title": "CPS 330 Department of Computer Science",
+    "Body": "Telephone: (517) 355-2387 Email: weinberg@cps.msu.edu George Stockman Dept.",
+    "link": [
+        "http://web.cps.msu.edu/~cps330/docs/syllabus.text",
+        "http://web.cps.msu.edu/~cps330/docs/calendar.text",
+        "http://web.cps.msu.edu/~cps330/docs/labschedule.text"
+    ],
+    "ground_truth": "unknow"
+}

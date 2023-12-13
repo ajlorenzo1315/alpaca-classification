@@ -1,0 +1,10 @@
+{
+    "Title": "WWW home page of Paul A. Farrell",
+    "Body": "Date: Thursday, 21-Nov-96 19:10:38 GMT Server: NCSA/1.2 MIME-version: 1.0 Content-type: text/html Last-modified: Monday, 23-Sep-96 23:13:40 GMT Content-length: 5799 WWW home page of Paul A. Farrell WWW home page of Paul A. Farrell Paul A. Farrell farrell@mcs.kent.edu Assoc.",
+    "link": [
+        "mailto:farrell@mcs.kent.edu",
+        "http://www.vtw.org/speech/",
+        "http://dune.mcs.kent.edu/~farrell/shortvita.html"
+    ],
+    "ground_truth": "faculty"
+}

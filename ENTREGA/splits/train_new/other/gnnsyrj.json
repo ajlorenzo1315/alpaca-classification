@@ -1,0 +1,10 @@
+{
+    "Title": " The Cub's Den ",
+    "Body": "I just don't care for).",
+    "link": [
+        "http://www.cs.utexas.edu/users/markng/cgi/cubsden.cgi?colors=660099ffff0000ffffffffff#VISUAL",
+        "http://www.cs.utexas.edu/users/markng/cgi/cubsden.cgi?colors=00008f00ff00ff0000ffffff#VISUAL",
+        "http://www.cs.utexas.edu/users/markng/cgi/cubsden.cgi?colors=66009900ff0000ffffffffff#VISUAL"
+    ],
+    "ground_truth": "other"
+}

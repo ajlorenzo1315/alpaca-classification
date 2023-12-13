@@ -1,0 +1,10 @@
+{
+    "Title": "\nCS418 Lab Main Page\n",
+    "Body": "Related Topics: Final Project CS 418 Animations Visualization at the Cornell Theory Center Comments about Theory Center online documents are welcome and may be sent to doc-comments@tc.cornell.edu .",
+    "link": [
+        "http://www.tc.cornell.edu/Visualization/Education/cs417/",
+        "http://www.tc.cornell.edu/~bruce/",
+        "http://www.tc.cornell.edu/Visualization/Education/cs418/lab0.html"
+    ],
+    "ground_truth": "course"
+}

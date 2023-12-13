@@ -1,0 +1,10 @@
+{
+    "Title": "Alva Couch's Photography Gallery",
+    "Body": "Elizabeth, my spouse of 16 years, standing on a suprising, natural tidepool formation.",
+    "link": [
+        "http://www.cs.tufts.edu/~couch/art/mm-fall-96",
+        "http://www.cs.tufts.edu/~couch/art/fall-95/wg-1.jpeg",
+        "http://www.cs.tufts.edu/~couch/art/fall-95/wg-2.jpeg"
+    ],
+    "ground_truth": "other"
+}

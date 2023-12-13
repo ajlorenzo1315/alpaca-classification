@@ -1,0 +1,10 @@
+{
+    "Title": "Search Engines",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Monday, 06-Jan-97 21:47:17 GMT Content-Type: text/html Content-Length: 758 Last-Modified: Friday, 03-Jan-97 19:33:28 GMT Search Engines Search Engines and Internet Alta Vista Infoseek Yahoo Harvest WWWW WebCrawler NEXOR Robots MOMspider Galaxy The Java Tutorial",
+    "link": [
+        "http://www.altavista.digital.com/",
+        "http://guide.infoseek.com/",
+        "http://www.yahoo.com/"
+    ],
+    "ground_truth": "other"
+}

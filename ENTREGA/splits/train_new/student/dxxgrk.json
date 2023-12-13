@@ -1,0 +1,10 @@
+{
+    "Title": "Zachary H. Burns - Personal Web Page",
+    "Body": "Date: Thu, 21 Nov 1996 21:56:39 GMT Server: NCSA/1.4.1 Content-type: text/html Last-modified: Sat, 15 Jun 1996 01:54:22 GMT Content-length: 1905 Zachary H. Burns - Personal Web Page Welcome to Zack's Personal Web Page Zachary Burns Hoser Baby Pictures INTEL machines Baby Pictures MACINTOSH format ** Macintosh users, see bottom of page ** As you can see, here I am at the computer lab doing some HTML coding.",
+    "link": [
+        "http://www.microsoft.com/ie/msie.htm",
+        "http://home.netscape.com/comprod/mirror/index.html",
+        "http://ernie.bgsu.edu/~zburns/test/shelley/"
+    ],
+    "ground_truth": "student"
+}

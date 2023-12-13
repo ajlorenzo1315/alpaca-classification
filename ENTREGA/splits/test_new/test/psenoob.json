@@ -1,0 +1,10 @@
+{
+    "Title": "Haptics",
+    "Body": "At the end of this linkage is a passive, 3 degree of freedom gimbal attached to a thimble.",
+    "link": [
+        "http://www.ai.mit.edu/",
+        "http://www.ai.mit.edu/people/jks/jks.html",
+        "http://www.ai.mit.edu/projects/handarm-haptics/manipulation.html"
+    ],
+    "ground_truth": "unknow"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "CS 485/585 Software Process Management ",
+    "Body": "After successfully completing this course participants will: be familiar with terminology used in this topical area have read and analyzed important historical and current literature addressing software life cycle models and software process issues understand the basic concepts embodied in the most prevalent software life cycle models, including knowledge of their advantages and disadvantages, and when it may be appropriate to use each life cycle approach be able to construct and represent a software life cycle for an organization or project be able to construct a project software life cycle that is consistent with a specific software life cycle model understand the factors that are important in building the capability or maturity of a software development organization be able to assess the maturity level of a software development organization understand factors that contribute to successful process change implementation be able to plan and implement a software process improvement activity Texts Mark Paulk, et al., The Capability Maturity Model:  Guidelines for Improving the Software Process , Addison Wesley, 1995.",
+    "link": [
+        "http://www.cs.uidaho.edu/index.html",
+        "http://www.uidaho.edu/",
+        "http://www.cs.uidaho.edu/~billjunk/courses/cs485/schedule.html"
+    ],
+    "ground_truth": "course"
+}

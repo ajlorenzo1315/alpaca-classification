@@ -1,0 +1,10 @@
+{
+    "Title": "Andrew A. Chien's Home Page",
+    "Body": "Andrew Chien leads the Concurrent Systems Architecture Group .",
+    "link": [
+        "http://www.cs.uiuc.edu/",
+        "http://www.uiuc.edu/",
+        "http://www.ece.uiuc.edu/"
+    ],
+    "ground_truth": "faculty"
+}

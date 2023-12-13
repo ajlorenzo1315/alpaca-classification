@@ -1,0 +1,8 @@
+{
+    "Title": "Program 2 Assignment  Page ",
+    "Body": "It will interpret the first two ( as did CMPXMP) parameters as the real and imaginary components of a complex number z1, and the next two as z2 and the last two as z3.",
+    "link": [
+        "http://sac.uky.edu/~risumn0/cs222/mandel.txt"
+    ],
+    "ground_truth": "unknow"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Bill Rounds'  Research Statement ",
+    "Body": "This leads to a natural ordering of these structures according to how much information they contain.",
+    "link": [
+        "ftp://theory.doc.ic.ac.uk/papers/Jung/handbook.ps.gz",
+        "http://ai.eecs.umich.edu/people/rounds/feature.html",
+        "http://ai.eecs.umich.edu/people/rounds/nonmon.html"
+    ],
+    "ground_truth": "other"
+}

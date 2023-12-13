@@ -1,0 +1,10 @@
+{
+    "Title": "Dalhousie MSCS Home Page",
+    "Body": "Date: Tue, 26 Nov 1996 23:03:55 GMT Server: NCSA/1.5.1 Content-type: text/html Last-modified: Wed, 28 Jul 1993 16:12:25 GMT Content-length: 1029 Dalhousie MSCS Home Page Dalhousie MSCS Home Page Welcome to the home page of the World Wide Web for Dalhousie University 's Department of Mathematics, Statistics and Computing Science.",
+    "link": [
+        "http://info.cern.ch/hypertext/WWW/TheProject.html",
+        "http://WWW.CS.DAL.CA/Dalhousie.html",
+        "http://WWW.CS.DAL.CA/MSCS.html"
+    ],
+    "ground_truth": "department"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Robert L. (Scot) Drysdale, III",
+    "Body": "Much of his work has dealt with computing a structure called the Voronoi diagram and its geometric dual the Delaunay Triangulation.",
+    "link": [
+        "http://www-cs.stanford.edu/",
+        "http://www.cs.dartmouth.edu/reports/authors/Drysdale,Robert.L..Scot.html",
+        "http://www.cs.dartmouth.edu/~scot//"
+    ],
+    "ground_truth": "faculty"
+}

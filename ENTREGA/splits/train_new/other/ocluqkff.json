@@ -1,0 +1,8 @@
+{
+    "Title": "CS 537 - Fix for Project 2",
+    "Body": "For example, if t B is allowed to run next, it may become hungry, and seeing that it no longer has the fork, it may call A.requestFork(), which will find that A doesn't have the fork that is being requested.",
+    "link": [
+        "http://www.cs.wisc.edu/~cs537-1/project2.html#details"
+    ],
+    "ground_truth": "other"
+}

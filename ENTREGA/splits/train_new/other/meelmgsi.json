@@ -1,0 +1,10 @@
+{
+    "Title": "Short bio - Marc Langheinrich",
+    "Body": "After this year as a visiting graduate student in the department of computer science at the University of Washington, I am about to finish my master degree (Diplom) back in Bielefeld, Germany.",
+    "link": [
+        "http://www.cs.washington.edu/homes/marclang/marckoko.jpg",
+        "http://www.cs.washington.edu/homes/marclang/koko300.jpg",
+        "http://www.uni-bielefeld.de/"
+    ],
+    "ground_truth": "other"
+}

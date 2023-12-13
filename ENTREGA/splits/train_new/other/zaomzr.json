@@ -1,0 +1,10 @@
+{
+    "Title": " Have Fun and Enjoy !",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Monday, 06-Jan-97 21:30:37 GMT Content-Type: text/html Content-Length: 1555 Last-Modified: Sunday, 13-Aug-95 19:36:19 GMT Have Fun and Enjoy !",
+    "link": [
+        "http://www.cs.utexas.edu/users/hqliu/periodicals.html",
+        "http://wings.buffalo.edu/world",
+        "http://www.art.net/"
+    ],
+    "ground_truth": "other"
+}

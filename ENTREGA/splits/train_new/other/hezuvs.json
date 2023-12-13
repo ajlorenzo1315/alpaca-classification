@@ -1,0 +1,10 @@
+{
+    "Title": "Natalya Lagunova's LISP lab page",
+    "Body": "Homework 5: Text of HW5 Input data for HW5 Sample outputs for HW5 Alternative output for HW5, #2 (got it from one of my students :) Homework 6 Exams: Here is the statistics for the Final Exam: The average grade is 95.",
+    "link": [
+        "http://www.ccs.neu.edu/home/nata/LISP/hw1.txt",
+        "http://www.ccs.neu.edu/home/nata/LISP/hw2.txt",
+        "http://www.ccs.neu.edu/home/nata/LISP/hw3.txt"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "CS367 Computers",
+    "Body": "If you are developing your programs on another computer than those provided in the labs you must follow these requirements: You must compile and run your program in your computer science UNIX account before handing in each program.",
+    "link": [
+        "#telnet",
+        "#other",
+        "mailto:skrentny@cs.wisc.edu"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "\nBU CLA CS 112: Intro CS II---Home Page\n\t\t",
+    "Body": "heddaya@cs.bu.edu , MCS-271, x3-8922.",
+    "link": [
+        "http://web.bu.edu/pagetwo.html",
+        "http://cs-www.bu.edu/",
+        "http://www.cs.bu.edu/faculty/heddaya/CS112/"
+    ],
+    "ground_truth": "course"
+}

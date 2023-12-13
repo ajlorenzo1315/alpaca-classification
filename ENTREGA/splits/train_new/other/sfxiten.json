@@ -1,0 +1,10 @@
+{
+    "Title": "CSE 403 General Info",
+    "Body": "Lectures Most of the lectures will cover topics such as the software lifecycle, characteristics of large systems, software specification, software design techniques, development tools, testing, verification, and validation, maintenance, etc.",
+    "link": [
+        "http://www.cs.washington.edu/homes/kingsum/",
+        "http://www.cs.washington.edu/education/courses/403/95w/sched.html",
+        "http://www.cs.washington.edu/education/courses/403/95w/project.html"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "CS718 Cornell Fall 1995",
+    "Body": "Date: Sun, 24 Nov 1996 23:09:50 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Thu, 06 Jun 1996 19:46:16 GMT Content-length: 1737 CS718 Cornell Fall 1995 CS 718, Topics in Computer Graphics Fall 95 semester Each group of students chose a current research topic in computer graphics, read appropriate papers, and implemented some code.",
+    "link": [
+        "http://www.cs.cornell.edu/Info/Courses/Spring-96/CS516/Projects/\nMetaball/index.html",
+        "http://www.tc.cornell.edu/Visualization/Education/cs718/fall1995/ddhung/index.html",
+        "http://www.tc.cornell.edu/Visualization/Education/cs718/fall1995/landis/index.html"
+    ],
+    "ground_truth": "course"
+}

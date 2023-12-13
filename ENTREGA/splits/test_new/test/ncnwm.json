@@ -1,0 +1,10 @@
+{
+    "Title": "\ndynamics\n",
+    "Body": "First note that the partial with respect to time is the acceleration of a small surface element of water, so that if the right side of the equation can be put in a discrete form we can apply the Verlet method to a 2D grid of \"bodies\", each representing a small chunk of water.",
+    "link": [
+        "http://www.tc.cornell.edu/Visualization/Education/cs417/SECTIONS/dynamics.3body.mpg",
+        "http://www.tc.cornell.edu/Visualization/Education/cs417/SECTIONS/dynamics.WaterWave.mpg",
+        "http://www.tc.cornell.edu/Visualization/Education/cs417/SECTIONS/dynamics.billards.mpg"
+    ],
+    "ground_truth": "unknow"
+}

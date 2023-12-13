@@ -1,0 +1,10 @@
+{
+    "Title": "Susan Hert's Home Page ",
+    "Body": "Susan Hert, Vladimir Lumelsky, \"The Ties that Bind: Motion Planning for Multiple Tethered Robots\" , Robotics and Autonomous Systems 17 (1996) 187-215.",
+    "link": [
+        "mailto:hert@cs.wisc.edu",
+        "http://www.cs.wisc.edu/",
+        "http://wiscinfo.wisc.edu/"
+    ],
+    "ground_truth": "student"
+}

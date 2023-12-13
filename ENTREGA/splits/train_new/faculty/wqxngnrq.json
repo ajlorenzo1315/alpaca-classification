@@ -1,0 +1,9 @@
+{
+    "Title": " Home Page of Deborah A. Joseph ",
+    "Body": "My research investigates the structural properties of sets in these classes and explores in a formal way the types of proof techniques necessary to resolve problems concerning complexity classes.",
+    "link": [
+        "mailto:joseph@cs.wisc.edu",
+        "mailto:pubs@cs.wisc.edu"
+    ],
+    "ground_truth": "faculty"
+}

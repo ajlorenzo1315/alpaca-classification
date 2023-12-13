@@ -1,0 +1,10 @@
+{
+    "Title": "CS50",
+    "Body": "MIME-Version: 1.0 Server: WebSTAR/1.3.1 ID/1975 Message-ID: Date: Wednesday, 20-Nov-96 22:49:55 GMT Last-Modified: Tuesday, 09-Apr-96 15:29:22 GMT Content-type: text/html Content-length: 1307 CS50 CS50 Problem Solving With Mathematica Description For engineers, physicists, mathematicians, and others who frequently need to solve mathematical or quantitative problems.",
+    "link": [
+        "http://www-leland.stanford.edu/~nrb/",
+        "http://www-leland.stanford.edu/class/cs050/",
+        "http://www-leland.stanford.edu/~nrb/"
+    ],
+    "ground_truth": "unknow"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "\nPaul Beame\n",
+    "Body": "In 1988 he received an NSF Presidential Young Investigator Award.",
+    "link": [
+        "http://www.cs.washington.edu/homes/beame/blueribbon.html",
+        "http://www.cs.washington.edu/homes/beame/beame.large.gif",
+        "http://www.cs.washington.edu/index.html"
+    ],
+    "ground_truth": "faculty"
+}

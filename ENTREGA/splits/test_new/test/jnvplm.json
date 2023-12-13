@@ -1,0 +1,10 @@
+{
+    "Title": " Guhan Viswanathan's Home Page ",
+    "Body": "Date: Thu, 07 Nov 1996 19:15:30 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Fri, 10 May 1996 14:17:54 GMT Content-length: 1277 Guhan Viswanathan's Home Page Guhan Viswanathan ( gviswana@cs.wisc.edu) Graduate Student Department of Computer Sciences University of Wisconsin - Madison 1210 West Dayton Street Madison, WI 53706  USA Advisor: Jim Larus Thesis Research My thesis focuses on the design and implementation of data-parallel languages.",
+    "link": [
+        "http://www.cs.wisc.edu/cgi-bin/finger?gviswana",
+        "http://www.cs.wisc.edu/",
+        "http://www.cs.wisc.edu/~larus/larus.html"
+    ],
+    "ground_truth": "unknow"
+}

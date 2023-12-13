@@ -1,0 +1,10 @@
+{
+    "Title": "Dinkar's Home Page",
+    "Body": "Also available as a Technical Report Dinkar N. Bhat and Shree K. Nayar, Stereo in the Presence of Specular Reflection , Int.",
+    "link": [
+        "http://cam.cornell.edu/cgi-bin/finger?bhat@cs.columbia.edu",
+        "mailto:bhat@cs.columbia.edu",
+        "#personal"
+    ],
+    "ground_truth": "student"
+}

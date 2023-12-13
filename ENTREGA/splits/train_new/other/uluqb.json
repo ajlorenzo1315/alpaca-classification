@@ -1,0 +1,10 @@
+{
+    "Title": "the Center for Innovative Computer Applications at Indiana University",
+    "Body": "Date: Tue, 14 Jan 1997 22:31:22 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Tue, 07 Jan 1997 19:51:34 GMT Content-length: 5776 the Center for Innovative Computer Applications at Indiana University CICA Home About CICA Facilities &Services Projects News & New Tech Graphics & Viz High-Perf Computing Misc Info Search (Our old home page is still available as is a text-only version of this page.)",
+    "link": [
+        "http://www.cica.indiana.edu/cica.new/index.html",
+        "http://www.cica.indiana.edu/cica.new/about/index.html",
+        "http://www.cica.indiana.edu/cica.new/facil/index.html"
+    ],
+    "ground_truth": "other"
+}

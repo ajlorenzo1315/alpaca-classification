@@ -1,0 +1,10 @@
+{
+    "Title": "CS 5513 -- Computer Architecture ",
+    "Body": "If you need the source codes, they are available in /usr/local/courses/cs5513 on CS LAN.",
+    "link": [
+        "http://www.cs.utsa.edu/faculty/das.html",
+        "http://www.cs.utsa.edu/courses/cs5513/infosheet.ps",
+        "http://www.cs.utsa.edu/courses/cs5513/lecture.html"
+    ],
+    "ground_truth": "course"
+}

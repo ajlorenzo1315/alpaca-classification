@@ -1,0 +1,10 @@
+{
+    "Title": " Arthur C. Fleck home page",
+    "Body": "Date: Tue, 14 Jan 1997 23:18:52 GMT Server: NCSA/1.5 Content-type: text/html Arthur C. Fleck home page Art Fleck voice greeting(aiff, 58k) Arthur C. Fleck Professor Department of Computer Science 201D MacLean Hall University of Iowa Iowa City, Iowa 52242 phone : 319/335-0718 e-mail: fleck@cs.uiowa.edu fax: 319/335-3624 Technical Interests I first encountered computers in 1957 as a student, programming on the IBM 650 (the computer to which Don Knuth dedicates his series The Art of Computer Programming).",
+    "link": [
+        "http://www.cs.uiowa.edu/~fleck/greeting.aiff",
+        "http://www.cs.uiowa.edu/~fleck/biodata.html",
+        "http://www.cs.uiowa.edu/~fleck/publist.html"
+    ],
+    "ground_truth": "student"
+}

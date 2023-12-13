@@ -1,0 +1,10 @@
+{
+    "Title": "Adaptive Networks Lab Home Page",
+    "Body": "Laboratory researchers contributed to the re-emergence of this approach in artificial intelligence, with an emphasis on methods for network learning through realistic interaction with dynamic environments and without the help of knowledgeable teachers.",
+    "link": [
+        "http://envy.cs.umass.edu/People/barto/barto.html",
+        "http://envy.cs.umass.edu/People/sutton/sutton.html",
+        "http://envy.cs.umass.edu/anw-home-page.html#Lab Introduction"
+    ],
+    "ground_truth": "project"
+}

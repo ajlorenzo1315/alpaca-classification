@@ -1,0 +1,10 @@
+{
+    "Title": "Real-Time Database Systems Lab",
+    "Body": "Our current research and current results focus on integrating active, real-time, temporal and multimedia databases for crisis management in Massive Digital Data Systems (MDDS).",
+    "link": [
+        "http://www.cs.umass.edu/",
+        "http://www.cs.umass.edu/rcfdocs/newhome/index.html",
+        "http://www-ccs.cs.umass.edu/rtdb/formitre.ps"
+    ],
+    "ground_truth": "unknow"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Guang R. Gao's Home Page",
+    "Body": "Date: Mon, 25 Nov 1996 20:34:29 GMT Server: Apache/1.1.1 Content-type: text/html Content-length: 5342 Last-modified: Fri, 10 Nov 1995 21:45:57 GMT Guang R. Gao's Home Page Guang R. Gao E-mail: gao@acaps.cs.mcgill.ca Office: McENG 328 Office Phone: (514) 398-4446 Office FAX: (514)398-3883 Welcome to my home page I joined McGill University in 1987, and  established the Advanced Computer Architecture and Program Structures Group (ACAPS) along with few of my graduate students.",
+    "link": [
+        "mailto:gao@acaps.cs.mcgill.ca",
+        "http://www-acaps.cs.mcgill.ca/",
+        "http://www-acaps.cs.mcgill.ca/"
+    ],
+    "ground_truth": "faculty"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "\nVipin's Home Page \n",
+    "Body": "Academic Interests Course Work (the list is more or less incomplete, I haven't passed this semester, so I am not taking any risks by putting them here!)",
+    "link": [
+        "http://www.cs.utexas.edu/users/vipin/htmls/courses.html",
+        "http://www.cs.utexas.edu/users/vipin/htmls/interests.html",
+        "http://www.cs.utexas.edu/users/vipin/htmls/accom.html"
+    ],
+    "ground_truth": "unknow"
+}

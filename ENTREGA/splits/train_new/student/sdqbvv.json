@@ -1,0 +1,10 @@
+{
+    "Title": "\nRich Galiano's HomePage\n",
+    "Body": "Date: Tue, 26 Nov 1996 03:57:39 GMT Server: Apache/1.1.1 Content-type: text/html Content-length: 2556 Last-modified: Thu, 17 Oct 1996 14:32:48 GMT Rich Galiano's HomePage RICH GALIANO e-mail: galiano@paul.rutgers.edu Resume: (select format) HTML MS Word 6.0 PostScript Here is a description of my experiences installing Windows NT with Windows 95 on some rather balky hardware.",
+    "link": [
+        "mailto:galiano@paul.rutgers.edu",
+        "http://paul.rutgers.edu/~galiano/resume.html",
+        "http://paul.rutgers.edu/~galiano/Resume.doc"
+    ],
+    "ground_truth": "student"
+}

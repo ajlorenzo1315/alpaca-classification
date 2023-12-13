@@ -1,0 +1,10 @@
+{
+    "Title": "Northwestern University: NUInfo",
+    "Body": "Date: Tue, 14 Jan 1997 19:59:42 GMT Server: Apache/1.1.1 Content-type: text/html Content-length: 3692 Last-modified: Mon, 13 Jan 1997 19:51:31 GMT Northwestern University: NUInfo [ Help ] [ Index ] [ Search ] [ Directory ] [ NUInfo ] About Northwestern Includes an introduction to the University, a welcome from President Henry S. Bienen, phone & email directories, NU news, and information on Web resources.",
+    "link": [
+        "http://www.nwu.edu/cgi-bin/imagemap/univ-relations/break/break.map",
+        "http://www.nwu.edu/help/",
+        "http://www.nwu.edu/webindex/"
+    ],
+    "ground_truth": "other"
+}

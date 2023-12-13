@@ -1,0 +1,10 @@
+{
+    "Title": "Paul Tucker",
+    "Body": "Date: Thu, 21 Nov 1996 23:04:03 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Sat, 09 Nov 1996 02:40:38 GMT Content-length: 2955 Paul Tucker Paul Tucker Department of Computer Science and Engineering Mail Code 0114 University of California San Diego La Jolla, CA  92093  USA Last modification: 12 September 1996 Ephemeral quote The Economist, summing up the results of voting on 1996 ballot propositions: Money's usefulness apart, the moral of 1996 is clear: if you are a white male who wants to work for the minimum wage, bilk small investors and smoke joints when you're ill, California is the place to be.",
+    "link": [
+        "http://www-cse.ucsd.edu/users/ptucker/reallyme.html",
+        "http://www-cse.ucsd.edu/users/ptucker/ptucker.html",
+        "http://elc.eff.org/blueribbon.html"
+    ],
+    "ground_truth": "student"
+}

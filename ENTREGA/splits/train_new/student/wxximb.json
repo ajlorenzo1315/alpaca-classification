@@ -1,0 +1,10 @@
+{
+    "Title": "Rolf Riesen's Home Page",
+    "Body": "(Seen somewhere on the net) My personality is split between being an employee of Sandia National Laboratories and being a Ph.D. student at UNM .",
+    "link": [
+        "http://www.sandia.gov/",
+        "http://www.cs.unm.edu/",
+        "http://www.cs.sandia.gov/~rolf/puma/puma.html"
+    ],
+    "ground_truth": "student"
+}

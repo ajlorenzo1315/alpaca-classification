@@ -1,0 +1,10 @@
+{
+    "Title": "The Information Super-Hypeway",
+    "Body": "They all act as if they've stumbled into the Secret of the Universe.",
+    "link": [
+        "http://www.cs.washington.edu/homes/dougz/index.html",
+        "mailto:dougz@cs.washington.edu",
+        ""
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": " Sachin Lodha",
+    "Body": "Sachin Lodha Sachin Lodha I am a graduate student in the Department of Computer Science at Rutgers University .",
+    "link": [
+        "http://paul.rutgers.edu",
+        "http://www.rutgers.edu",
+        "http://www.cse.iitb.ernet.in"
+    ],
+    "ground_truth": "student"
+}

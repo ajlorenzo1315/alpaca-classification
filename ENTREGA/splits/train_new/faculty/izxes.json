@@ -1,0 +1,8 @@
+{
+    "Title": "  Ephraim P. Glinert",
+    "Body": "Specific areas of investigation include: visual programming , in which graphics plays a central role alongside text in the human-computer interface; multimodal environments, in which the interface is further augmented (e.g., through the use of gestures for input and sound for output); and multiparadigm environments, in which users are free to code routines in a single program using a variety of styles which would traditionally require different languages.",
+    "link": [
+        "http://www.cs.rpi.edu/brochure/Faculty/index.html"
+    ],
+    "ground_truth": "faculty"
+}

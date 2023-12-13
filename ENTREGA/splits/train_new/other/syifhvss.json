@@ -1,0 +1,10 @@
+{
+    "Title": "UW-Madison Astronomy Electronic Prints",
+    "Body": "Compressed PostScript text (77k) Compressed PostScript figures (269k) April 1996 D. S. Shepherd & E. Churchwell Bipolar Molecular Outflows in Massive Star Formation Regions To appear in The Astrophysical Journal.",
+    "link": [
+        "ftp://blackhole.aas.org/pubs/aastex40.tar.Z",
+        "#reprints",
+        "http://www.astro.wisc.edu/prints/afflerbach/kao-abstract.txt"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Constraint Hierarchies and Logic Programming",
+    "Body": "In many applications, such as interactive graphics, page layout, and decision support, one needs to express preferences as well as strict requirements.",
+    "link": [
+        "ftp://cs.washington.edu/pub/constraints/papers/hclp-iclp-89.ps.Z",
+        "ftp://cs.washington.edu/pub/constraints/papers/hclp-tr-nov-88.ps.Z",
+        "http://www.cs.washington.edu/research/projects/weird/www/index.html"
+    ],
+    "ground_truth": "other"
+}

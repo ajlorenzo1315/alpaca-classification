@@ -1,0 +1,8 @@
+{
+    "Title": "Younger of the Twins",
+    "Body": "I am younger than my brother.",
+    "link": [
+        "http://www.cs.utexas.edu/users/zhuqing/bro1.html"
+    ],
+    "ground_truth": "other"
+}

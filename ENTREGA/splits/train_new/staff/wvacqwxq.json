@@ -1,0 +1,10 @@
+{
+    "Title": "Vikram Adve's Home Page",
+    "Body": "Programming tools for data-parallel languages We are developing techniques and tools that enable programers to understand and tune the performance of data-parallel applications without having to understand the extensive, machine-dependent transformations performed by a sophisticated, parallelizing compiler.",
+    "link": [
+        "http://www.cs.wisc.edu/",
+        "http://www.wisc.edu/",
+        "gopher://kailash.cse.iitb.ernet.in/1"
+    ],
+    "ground_truth": "staff"
+}

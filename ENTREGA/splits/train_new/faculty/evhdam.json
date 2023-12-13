@@ -1,0 +1,10 @@
+{
+    "Title": "Papadimitriou's home page",
+    "Body": "I studied in Athens Polytechnic (BS in EE 1972) and Princeton (PhD in CS 1976).",
+    "link": [
+        "http://www.cs.berkeley.edu",
+        "http://www.berkeley.edu",
+        "http://www.eecs.berkeley.edu"
+    ],
+    "ground_truth": "faculty"
+}

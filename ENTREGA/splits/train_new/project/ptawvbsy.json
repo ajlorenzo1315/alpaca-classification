@@ -1,0 +1,10 @@
+{
+    "Title": "The Chinook Project ",
+    "Body": "The first version of the Chinook co-synthesis tool was operational in November 1993.",
+    "link": [
+        "http://www.idyllmtn.com/chinooks",
+        "http://www.cs.washington.edu/research/projects/lis/www/chinook/hscd.html",
+        "http://www.cs.washington.edu/research/projects/lis/www/chinook/roe.html"
+    ],
+    "ground_truth": "project"
+}

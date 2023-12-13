@@ -1,0 +1,10 @@
+{
+    "Title": "Michael D. Smith's Home Page",
+    "Body": "Professor Smith's research focuses on the experimental realization of these innovative compilers and computer architectures.",
+    "link": [
+        "http://www.das.harvard.edu/es.grafx.html",
+        "http://www.das.harvard.edu/cs.grafx.html",
+        "latest-talk.ps"
+    ],
+    "ground_truth": "faculty"
+}

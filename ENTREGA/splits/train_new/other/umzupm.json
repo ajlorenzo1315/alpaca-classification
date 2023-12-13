@@ -1,0 +1,10 @@
+{
+    "Title": "CS Department News Summary",
+    "Body": "School districts are in a constant state of flux.",
+    "link": [
+        "http://www.cs.ndsu.nodak.edu/faculty/index.html",
+        "http://www.cs.ndsu.nodak.edu/students/index.html",
+        "http://www.cs.ndsu.nodak.edu/alumni/index.html"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Kevin C. Almeroth",
+    "Body": "Personal Information Academic Career Here at Georgia Tech , I am a PhD student in the College of Computing's Networking and Telecommunications Group !",
+    "link": [
+        "http://www.cc.gatech.edu/computing/Telecomm/people/Phd/kevin/other/kevin.jpg",
+        "#Personal",
+        "#Pubs"
+    ],
+    "ground_truth": "student"
+}

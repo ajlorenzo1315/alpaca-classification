@@ -1,0 +1,10 @@
+{
+    "Title": " Neal R. Wagner",
+    "Body": "Wagner, N.R., ``The logistic equation in random number generation,'' Proceedings of the Thirtieth Annual Allerton Conference on Communications, Control, and Computing , University of Illinois at Urbana-Champaign, 1993, 922-931.",
+    "link": [
+        "http://www.cs.utsa.edu/faculty/wagnertest/nealtest.html",
+        "http://www.cs.utsa.edu/faculty/wagnertest/nealtest2.html",
+        "http://www.uiuc.edu"
+    ],
+    "ground_truth": "faculty"
+}

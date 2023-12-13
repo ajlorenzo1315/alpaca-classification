@@ -1,0 +1,10 @@
+{
+    "Title": "Yasushi SAITO",
+    "Body": "Date: Thu, 21 Nov 1996 22:52:22 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Wed, 20 Nov 1996 22:02:58 GMT Content-length: 2520 Yasushi SAITO Yasushi Saito(ºØÆ£Ì÷/¤µ¤¤¤È¤¦¤ä¤¹¤·) I am a second year graduate student at Department of Computer Science and Engineering at University of Washington Seattle, WA 98105.",
+    "link": [
+        "http://www.cs.washington.edu",
+        "http://www.washington.edu",
+        "http://www.cs.washington.edu/area/"
+    ],
+    "ground_truth": "student"
+}

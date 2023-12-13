@@ -1,0 +1,10 @@
+{
+    "Title": " CSE341: Operating Systems Principles ",
+    "Body": "(REPONSIBLE FOR ORDINARY ASSIGNMENTS) The directory /usr/local/courses/cse341 stores the files used in the course.",
+    "link": [
+        "http://www.cse.nd.edu/~esha",
+        "http://www.cse.nd.edu/~hyan",
+        "http://www.cse.nd.edu/~odaescu"
+    ],
+    "ground_truth": "unknow"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": " Work and interests ",
+    "Body": "This was an attempt at executing Coral queries on a cluster of workstations, in this case the Condor pool at the University of Wisconsin-Madison .",
+    "link": [
+        "http://www.cs.wisc.edu/~miron",
+        "http://www.cs.wisc.edu/~raghu",
+        "http://www.cs.wisc.edu/~devise/"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,8 @@
+{
+    "Title": "On the Click Clique",
+    "Body": "On the Click Clique Some people have complained that \"click here\" is annoying and redundant.",
+    "link": [
+        "ftp://ftp.cs.cornell.edu/pub/brd/brd.html"
+    ],
+    "ground_truth": "other"
+}

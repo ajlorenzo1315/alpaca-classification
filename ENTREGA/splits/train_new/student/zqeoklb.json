@@ -1,0 +1,10 @@
+{
+    "Title": "Hartoyo's HomePage",
+    "Body": "A member of IEEE (Institute of Electrical and Electronics Engineers).",
+    "link": [
+        "http://www.cs.pitt.edu/~mosse",
+        "http://www.pitt.edu/~engwww/ee/ee.html",
+        "http://www.acm.org>ACM</A> \n(Association for Computing Machinery).\n</H5>\n<H5>\n<IMG ALT="
+    ],
+    "ground_truth": "student"
+}

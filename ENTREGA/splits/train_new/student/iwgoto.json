@@ -1,0 +1,10 @@
+{
+    "Title": "A Simple Homepage",
+    "Body": "I'm a forth-year Ph.D. student in Computer Science at Cornell , working on code synthesis for massively parallel processors.",
+    "link": [
+        "http://regin:8001/public/bau/jump.html",
+        "http://www.cs.cornell.edu/",
+        "http://www.sun.com/"
+    ],
+    "ground_truth": "student"
+}

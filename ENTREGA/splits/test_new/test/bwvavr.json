@@ -1,0 +1,10 @@
+{
+    "Title": "Neil Immerman",
+    "Body": "Professor Immerman is an editor of Information and Computation, the Chicago Journal of Theoretical Computer Science, and the Journal of Symbolic Logic.",
+    "link": [
+        "http://www.cs.umass.edu/~immerman/descriptive_complexity.html",
+        "http://www.cs.umass.edu/~thtml/people/fac/CCT.html",
+        "http://www.cs.umass.edu/~immerman/pub_immerman.html"
+    ],
+    "ground_truth": "unknow"
+}

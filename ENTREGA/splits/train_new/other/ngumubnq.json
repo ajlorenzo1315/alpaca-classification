@@ -1,0 +1,10 @@
+{
+    "Title": "Applications",
+    "Body": "Thus it is imperative that the current detailed flame code be ported to a parallel machine.",
+    "link": [
+        "http://www.cs.umd.edu/projects/hpsl/appl/chem1.html",
+        "http://www.cs.umd.edu/projects/hpsl/appl/dsmc1.html",
+        "http://www.cs.umd.edu/projects/hpsl/demos/app-demo.html"
+    ],
+    "ground_truth": "other"
+}

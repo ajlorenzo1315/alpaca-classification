@@ -1,0 +1,10 @@
+{
+    "Title": "CS 537 - Projects and Surveys",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Sunday, 24-Nov-96 22:43:49 GMT Content-Type: text/html Content-Length: 8799 Last-Modified: Monday, 04-Nov-96 21:40:43 GMT CS 537 - Projects and Surveys CS 537 Projects and Surveys NAME SURVEY PROJECT CONTACT ANDERSON, SUSAN M Replication vs Partitioning .",
+    "link": [
+        "survey/anderson/anderson.dvi",
+        "http://www.cs.cornell.edu/Info/People/anderson/cs537/537_prop.html",
+        "survey/gbd/gbd.ps"
+    ],
+    "ground_truth": "other"
+}

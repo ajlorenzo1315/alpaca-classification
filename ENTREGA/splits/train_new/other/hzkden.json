@@ -1,0 +1,10 @@
+{
+    "Title": "PCD Seminar 11/15/96 Goldberg",
+    "Body": "The purpose of this talk is to discuss the user interface design for LearningWorks, specifically how the simple metaphor of learning books can be used both to teach software system building concepts and to support teams in building systems.",
+    "link": [
+        "http://www-pcd.stanford.edu",
+        "http://www-\npcd.stanford.edu/hci/courses/cs547.html",
+        "http://heg-school.aw.com/cseng/authors/goldberg.a/about-goldberg.a.html"
+    ],
+    "ground_truth": "other"
+}

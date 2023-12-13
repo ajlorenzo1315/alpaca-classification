@@ -1,0 +1,10 @@
+{
+    "Title": "Andy Therber's Home Page",
+    "Body": "Date: Thu, 07 Nov 1996 19:15:16 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Mon, 21 Oct 1996 16:31:06 GMT Content-length: 355 Andy Therber's Home Page Andy Therber Office:\t7351 CS&S Phone:\t265-2311 email:\tandyt@cs.wisc.edu Zoo Resume Bookmarks Applets",
+    "link": [
+        "http://www.cs.wisc.edu/ZOO/",
+        "http://www.cs.wisc.edu/~andyt/resume.html",
+        "http://www.cs.wisc.edu/~andyt/bookmarks.html"
+    ],
+    "ground_truth": "student"
+}

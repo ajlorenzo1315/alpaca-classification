@@ -1,0 +1,10 @@
+{
+    "Title": "CS674 Home Page",
+    "Body": "Presentation Schedule What to Turn in for the Project Other CS course home pages CS Department home page",
+    "link": [
+        "http://www.cs.cornell.edu/Info/Courses/Spring-96/CS674/info.html",
+        "http://www.cs.cornell.edu/Info/Courses/Spring-96/CS674/course-materials.html",
+        "http://www.cs.cornell.edu/Info/Courses/Spring-96/CS674/acad_integ.html"
+    ],
+    "ground_truth": "unknow"
+}

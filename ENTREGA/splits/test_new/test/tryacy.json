@@ -1,0 +1,10 @@
+{
+    "Title": "PODC 95 home page",
+    "Body": "Further information The call for papers How to register and get to the conference .",
+    "link": [
+        "http://www.pmg.lcs.mit.edu/~umesh/pubs/distance.ps",
+        "http://www.pmg.lcs.mit.edu/~umesh",
+        "http://www.cs.cornell.edu/Info/People/chandra/podc95/cfp.html"
+    ],
+    "ground_truth": "unknow"
+}

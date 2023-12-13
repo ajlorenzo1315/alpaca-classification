@@ -1,0 +1,10 @@
+{
+    "Title": "No title",
+    "Body": "We will use the Scheme, a dialect of the LISP programming language to solve problems and accomplish tasks.",
+    "link": [
+        "#general",
+        "#notes",
+        "#homeworks"
+    ],
+    "ground_truth": "course"
+}

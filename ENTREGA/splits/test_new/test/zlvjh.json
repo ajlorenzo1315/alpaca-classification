@@ -1,0 +1,10 @@
+{
+    "Title": "CUinfo Weather Page",
+    "Body": "Rain tapering off to showers early.",
+    "link": [
+        "http://www.info.cornell.edu/CUHomePage/Status/Status.html",
+        "http://snow.cit.cornell.edu/climate/ithaca/",
+        "CityWeath.html"
+    ],
+    "ground_truth": "unknow"
+}

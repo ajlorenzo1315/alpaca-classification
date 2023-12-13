@@ -1,0 +1,10 @@
+{
+    "Title": "Benjamin Kuipers",
+    "Body": "Research Interests The representation of commonsense and expert knowledge, with particular emphasis on the effective use of incomplete knowledge.",
+    "link": [
+        "http://www.cs.utexas.edu/users/qr/",
+        "http://www.cs.utexas.edu/users/qr/QR-book.html",
+        "http://www.cs.utexas.edu/users/kuipers/agents.html"
+    ],
+    "ground_truth": "faculty"
+}

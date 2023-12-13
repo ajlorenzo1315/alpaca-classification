@@ -1,0 +1,10 @@
+{
+    "Title": "Recent Papers of Joe Mitchell",
+    "Body": "Mitchell (1996): ``On Some Applications of Computational Geometry in Manufacturing and Virtual Environments'' Abstract of talk ( transparencies ) at the Workshop on Applied Computational Geometry Part of FCRC'96, Philadelphia, May 27-28, 1996.",
+    "link": [
+        "ftp://ams.sunysb.edu/pub/geometry/survey-sp.ps.gz",
+        "ftp://ams.sunysb.edu/pub/geometry/tsp.ps.gz",
+        "ftp://ams.sunysb.edu/pub/geometry/tsp-talk.ps.gz"
+    ],
+    "ground_truth": "other"
+}

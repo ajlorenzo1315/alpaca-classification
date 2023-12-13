@@ -1,0 +1,10 @@
+{
+    "Title": "CS617 Projects",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Monday, 16-Dec-96 23:15:09 GMT Content-Type: text/html Content-Length: 1735 Last-Modified: Friday, 27-Jan-95 12:56:02 GMT CS617 Projects CS 617 Projects Thorsten von Eicken Fall, 1994 Projects Benchmarking the ATM Network , Bruce Walter and Asif Uddin Ghias.",
+    "link": [
+        "http://www.cs.cornell.edu/Info/Courses/Fall-94/CS617/Bench_ATM/page1.html",
+        "http://www.cs.cornell.edu/Info/Courses/Fall-94/CS617/ATM_Daemon/project.html",
+        "http://www.cs.cornell.edu/Info/Courses/Fall-94/CS617/ATM_Horus/project.html"
+    ],
+    "ground_truth": "other"
+}

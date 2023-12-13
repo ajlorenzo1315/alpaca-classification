@@ -1,0 +1,10 @@
+{
+    "Title": " Eight Puzzle Applet ",
+    "Body": "Much more is coming, including a randomize button an a couple of AI search algorithms to automatically solve the puzzle.",
+    "link": [
+        "src/EightPuzzle.java",
+        "http://www.cs.washington.edu/homes/jbaer/index.html",
+        "mailto:jbaer@cs.washington.edu"
+    ],
+    "ground_truth": "other"
+}

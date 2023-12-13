@@ -1,0 +1,10 @@
+{
+    "Title": "Smu's Home Page of Relief and Happiness",
+    "Body": "Here, this is a picture me and my girlfriend of 4 and a half years.",
+    "link": [
+        "mailto:jherro@cs.wisc.edu",
+        "http://www.cs.wisc.edu/~jherro/grades.html",
+        "http://www.cs.wisc.edu/~jherro/rbik.html"
+    ],
+    "ground_truth": "student"
+}

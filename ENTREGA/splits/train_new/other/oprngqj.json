@@ -1,0 +1,9 @@
+{
+    "Title": "310 TA page",
+    "Body": "Date: Tue, 05 Nov 1996 00:23:33 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Thu, 05 Sep 1996 18:57:10 GMT Content-length: 1192 310 TA page Sara Bauman's TA page CS 310 Problem Solving Using Computers My Office Hours: Thurs 1:30 - 3:00 Fri 2:30 - 3:00 or send me email at dailey@cs.wisc.edu to make an appointment at a different time.",
+    "link": [
+        "http://www.cs.wisc.edu/~strik/cs310.html",
+        "http://www.cs.wisc.edu/~dailey/dailey.html"
+    ],
+    "ground_truth": "other"
+}

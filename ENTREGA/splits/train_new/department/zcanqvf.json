@@ -1,0 +1,10 @@
+{
+    "Title": "SUNY Buffalo CS Department Home Page",
+    "Body": "People: Faculty and Staff , Graduate Students , Undergraduate Students Events: Colloquium Series , Short Courses Other: Computing Facilities , Our Address , Project Due Dates See Also: Faculty of Natural Science & Mathematics , Science & Engineering Library Now Recruiting for Faculty Position Computer Science Research Publications Other University at Buffalo Web servers Information and services available around the network Learning about the Internet and WWW Interesting local web projects If you have any questions, suggestions or would like to make some information available on the Web, please send feedback to cs-consult@cs.buffalo.edu .",
+    "link": [
+        "http://www.cs.buffalo.edu/pub/WWW/buffalo.html",
+        "http://www.cs.buffalo.edu/pub/WWW/ub.html",
+        "http://www.cs.buffalo.edu/pub/WWW/res_groups.html"
+    ],
+    "ground_truth": "department"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "GVU: PVaniM -- Visualization/Animation in Cluster Environments",
+    "Body": "When a process receives a message, the message moves from its position in the center of the ring to the process.",
+    "link": [
+        "http://www.gatech.edu/",
+        "http://www.cc.gatech.edu/gvu",
+        "http://www.cc.gatech.edu/gvu/research"
+    ],
+    "ground_truth": "other"
+}

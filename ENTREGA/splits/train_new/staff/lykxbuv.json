@@ -1,0 +1,10 @@
+{
+    "Title": "Steven Huss-Lederman's Home Page",
+    "Body": "Information you would get if you did a finger on me: Steven Huss-Lederman Computer Science Dept.",
+    "link": [
+        "http://www.cs.wisc.edu/~wwt",
+        "http://www.mcs.anl.gov/Projects/PRISM/index.html",
+        "http://www.mcs.anl.gov/Projects/mpi/mpi2/mpi2.html"
+    ],
+    "ground_truth": "staff"
+}

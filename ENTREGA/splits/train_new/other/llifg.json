@@ -1,0 +1,10 @@
+{
+    "Title": "Journal of Artificial Intelligence Research",
+    "Body": "Each volume of the journal is also published by Morgan Kaufmann.",
+    "link": [
+        "overview.html",
+        "table-of-contents-vol1.html",
+        "table-of-contents-vol2.html"
+    ],
+    "ground_truth": "other"
+}

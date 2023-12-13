@@ -1,0 +1,10 @@
+{
+    "Title": "Jayadev Misra",
+    "Body": "J. Misra, \"Equational reasoning about nondeterministic processes,\" Formal Aspects of Computing , vol.",
+    "link": [
+        "http://www.cs.utexas.edu/users/psp",
+        "http://www.cs.utexas.edu/users/psp/seuss-overview.html",
+        "ftp://ftp.cs.utexas.edu/pub/psp/seuss/discipline.ps.Z"
+    ],
+    "ground_truth": "faculty"
+}

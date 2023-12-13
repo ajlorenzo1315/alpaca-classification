@@ -1,0 +1,10 @@
+{
+    "Title": "Kenji Imasaki's Home Page",
+    "Body": "Acutally, I am a Ph.D. student in Computer Scienceat Kyushu University , Japan.",
+    "link": [
+        "mailto:imasaki@cs.mcgill.ca",
+        "http://www.kyushu-u.ac.jp",
+        "http://www.db.is.kyushu-u.ac.jp/~imasaki/"
+    ],
+    "ground_truth": "student"
+}

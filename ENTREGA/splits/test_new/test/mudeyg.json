@@ -1,0 +1,10 @@
+{
+    "Title": "Vortex: Semi-custom hardware for a Typhoon prototype ",
+    "Body": "The COW + Vortex is referred to as Typhoon-Zero, and is intended as a prototype/feasibilty study for Typhoon, a more sophisticated hardware platform for Tempest codes.",
+    "link": [
+        "http://www.cs.wisc.edu/~wwt/cow.html",
+        "http://www.cs.wisc.edu/~wwt/cow.html",
+        "http://www.cs.wisc.edu/~pfile/vortex/vortex_report.ps"
+    ],
+    "ground_truth": "unknow"
+}

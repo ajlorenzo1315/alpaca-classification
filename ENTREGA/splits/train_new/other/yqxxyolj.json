@@ -1,0 +1,10 @@
+{
+    "Title": "\"Exploiting Choice: Instruction Fetch and Issue on an Implementable Simultaneous Multithreading Processor\"\n",
+    "Body": "This speedup is enabled by an advantage of multithreading previously unexploited in other architectures:  the ability to favor for fetch and issue those threads most efficiently using the processor each cycle, thereby providing the \"best\" instructions to the processor.",
+    "link": [
+        "http://www.cs.washington.edu/homes/tullsen",
+        "http://www.cs.washington.edu/homes/eggers",
+        "http://www.cs.washington.edu/homes/levy"
+    ],
+    "ground_truth": "other"
+}

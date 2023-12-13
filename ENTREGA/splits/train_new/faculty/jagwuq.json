@@ -1,0 +1,10 @@
+{
+    "Title": "Victor Lesser (lesser@cs.umass.edu)",
+    "Body": "Professor Lesser is a fellow of the American Association of Artificial Intelligence (AAAI), and is considered a leading researcher in the areas of blackboard systems for interpretation, distributed AI, and real-time AI.",
+    "link": [
+        "http://www.cs.umass.edu/",
+        "http://www.cs.umass.edu/",
+        "http://www.cs.umass.edu/rcfdocs/newhome/index.html"
+    ],
+    "ground_truth": "faculty"
+}

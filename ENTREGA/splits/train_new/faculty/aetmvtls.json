@@ -1,0 +1,10 @@
+{
+    "Title": "Manuel Enrique Bermudez Home Page",
+    "Body": "The Hispanic Web Site .",
+    "link": [
+        "http://www.cis.ufl.edu/~manuel/manuel.gif",
+        "http://www.cis.ufl.edu/",
+        "http://www.ucr.ac.cr/"
+    ],
+    "ground_truth": "faculty"
+}

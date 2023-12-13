@@ -1,0 +1,10 @@
+{
+    "Title": "Y'Know",
+    "Body": "Date: Tue, 05 Nov 1996 00:24:57 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Fri, 01 Nov 1996 17:18:08 GMT Content-length: 2626 Y'Know Y'Know* is a new publication produced by K-12 students as a resource to other K-12 students.",
+    "link": [
+        "http://www.cs.wisc.edu/scout/yknow/current/index.html",
+        "http://www.cs.wisc.edu/scout/yknow/archive",
+        "http://www.cs.wisc.edu/scout/report/index.html"
+    ],
+    "ground_truth": "other"
+}

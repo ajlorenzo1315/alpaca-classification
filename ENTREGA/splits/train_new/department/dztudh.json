@@ -1,0 +1,10 @@
+{
+    "Title": "Department of Computer Science, University of Exeter",
+    "Body": "Date: Tue, 26 Nov 1996 22:34:09 GMT Server: NCSA/1.5.2 Last-modified: Fri, 04 Oct 1996 08:10:20 GMT Content-type: text/html Content-length: 2535 Department of Computer Science, University of Exeter Department of Computer Science Welcome to Computer Science at Exeter, England, rated \"Excellent\" for teaching by the Higher Education Funding Council.",
+    "link": [
+        "http://www.ex.ac.uk/",
+        "http://www.niss.ac.uk/education/hefce/qar/computer_science.html",
+        "http://www.dcs.exeter.ac.uk/web/whats-new.html"
+    ],
+    "ground_truth": "department"
+}

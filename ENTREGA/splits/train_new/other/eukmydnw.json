@@ -1,0 +1,10 @@
+{
+    "Title": "Researchers in Programming Languages and Compilers",
+    "Body": "Programming and specification language design and semantics, formal methods (program specification and verification), programming methodology, object-oriented programming, functional programming, distributed computer systems.",
+    "link": [
+        "http://www.cs.cmu.edu/afs/cs.cmu.edu/user/mleone/web/new-language-people.html",
+        "http://www.cs.cmu.edu/afs/cs.cmu.edu/user/mleone/web/language-research.html",
+        "http://www.lpac.ac.uk/SEL-HPC/Articles/GeneratedHtml/UserHome.functional.html"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,9 @@
+{
+    "Title": "Day 1 Handout",
+    "Body": "You will have to view this using the Netscape browser program.",
+    "link": [
+        "http://www.cs.wisc.edu/~cs302/C++/Introduction/MSwindows.html",
+        "http://www.cs.wisc.edu/~cs302/C++/Borland4.5/intro.html"
+    ],
+    "ground_truth": "other"
+}

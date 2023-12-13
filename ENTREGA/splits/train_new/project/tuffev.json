@@ -1,0 +1,10 @@
+{
+    "Title": "Measurement",
+    "Body": "\"Developing Measures of Class Cohesion for Object-Oriented Software,\" 7th Annual Oregon Workshop on Software Metrics, June 1995.",
+    "link": [
+        "http://www.cs.mtu.edu/~linda",
+        "http://www.csl.mtu.edu/~jrwinter/",
+        "ftp://cs.mtu.edu/pub/ott/reports/aowsm95.ps.Z"
+    ],
+    "ground_truth": "project"
+}

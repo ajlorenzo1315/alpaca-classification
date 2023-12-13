@@ -1,0 +1,10 @@
+{
+    "Title": "CSE 567 Home Page (A 96)",
+    "Body": "Homework 2: Handed out in class, due Oct. 18, beginning of class.",
+    "link": [
+        "http://www.cs.washington.edu/education/courses/567/announcements.html",
+        "http://www.cs.washington.edu/education/courses/567/misc/summary.html",
+        "http://www.cs.washington.edu/education/courses/567/misc/syllabus.html"
+    ],
+    "ground_truth": "course"
+}

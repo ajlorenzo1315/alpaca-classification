@@ -1,0 +1,10 @@
+{
+    "Title": "University of Utah Computer Science Department",
+    "Body": "History of the Computer Science Department A history of distinguished Utah Computer Science faculty and alumni.",
+    "link": [
+        "mailto:info@cs.utah.edu",
+        "http://www.cs.utah.edu/projects/index.html",
+        "http://www.cs.utah.edu/csinfo/new_grad_info.html"
+    ],
+    "ground_truth": "department"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Gareth Bestor's Home Page",
+    "Body": "For a given transformation and dimension the algorithm identifies when the inverse projection problem is under-constrained and specifies the minimum number of points and images required to solve it.",
+    "link": [
+        "http://www.cs.wisc.edu/",
+        "http://wiscinfo.wisc.edu/",
+        "mailto:bestor@cs.wisc.edu"
+    ],
+    "ground_truth": "student"
+}

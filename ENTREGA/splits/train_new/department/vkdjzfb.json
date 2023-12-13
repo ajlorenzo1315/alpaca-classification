@@ -1,0 +1,10 @@
+{
+    "Title": "Texas A&M University Department of Computer Science",
+    "Body": "Interested in Texas A&M for undergraduate or graduate school?",
+    "link": [
+        "http://www.cs.tamu.edu/htdig/",
+        "http://www.cs.tamu.edu/subindex.html",
+        "http://www.cs.tamu.edu/deptinfo/"
+    ],
+    "ground_truth": "department"
+}

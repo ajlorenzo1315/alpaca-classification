@@ -1,0 +1,10 @@
+{
+    "Title": "UW Dynamic Compilation Project Papers",
+    "Body": "Date: Tue, 10 Dec 1996 03:35:15 GMT Server: NCSA/1.4.2 Content-type: text/html UW Dynamic Compilation Project Papers UW Dynamic Compilation Project Papers Conference Papers: J. Auslander, M. Philipose, C. Chambers, S.J.",
+    "link": [
+        "pldi96.ps.Z",
+        "wcsss96.ps.Z",
+        "../"
+    ],
+    "ground_truth": "other"
+}

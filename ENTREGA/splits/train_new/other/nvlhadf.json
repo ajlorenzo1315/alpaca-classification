@@ -1,0 +1,10 @@
+{
+    "Title": "Michael Ernst's compilation page",
+    "Body": "Exclusive focus on parallelization of serial programs is misguided; we should work to serialize parallel programs, because that is easier, more natural, and produces better results for a certain class of programs.",
+    "link": [
+        "http://www.cs.washington.edu/homes/mernst/other-technical.html",
+        "http://www.research.microsoft.com/research/analysts/",
+        "http://www.research.microsoft.com/research/analysts/vdg.html"
+    ],
+    "ground_truth": "other"
+}

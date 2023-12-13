@@ -1,0 +1,10 @@
+{
+    "Title": " Millersville University CS Faculty Page",
+    "Body": "Dr. Webster's resume Contact Dr. Roger W. Webster (Chairman) Computer Science Department Millersville University of PA Millersville, PA 17551 Office: Wick 206 Phone: (717) 872-3539 webster@cs.millersv.edu Dr. Muhammad H. Chaudhary Background Joining the faculty in 1984, Dr. Chaudhary has a Masters degree and a Doctorate in Computer Science from Lehigh University.",
+    "link": [
+        "http://cs.millersv.edu/gif.dir/webster2.jpg",
+        "http://zansiii.millersv.edu",
+        "http://cs.millersv.edu/nsfgrants.html"
+    ],
+    "ground_truth": "other"
+}

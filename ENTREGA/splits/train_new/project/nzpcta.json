@@ -1,0 +1,10 @@
+{
+    "Title": "Disjunctive Logic Programming",
+    "Body": "DisLoP: a research project on Disjunctive Logic Programming Funding * Persons * Activities * Publications * Related Projects * Related Links T he long term goal of this project is to develop a logic programming system in which disjunction in the head of a clause and non-monotonic negation in the body of the clause are allowed.",
+    "link": [
+        "http://www.uni-koblenz.de/~arvind/",
+        "http://www.uni-koblenz.de/ag-ki/welcome-e.html",
+        "http://www.uni-koblenz.de/universitaet/fb4/index.en.html"
+    ],
+    "ground_truth": "project"
+}

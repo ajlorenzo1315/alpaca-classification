@@ -1,0 +1,10 @@
+{
+    "Title": "Eric Anderson's Home Page",
+    "Body": "Prof. Anna Karlin is the musician who got me interested in this project.",
+    "link": [
+        "http://www.cs.washington.edu/",
+        "http://www.washington.edu/",
+        "http://www.cs.washington.edu/area/"
+    ],
+    "ground_truth": "student"
+}

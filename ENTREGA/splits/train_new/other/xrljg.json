@@ -1,0 +1,10 @@
+{
+    "Title": "\nCSE 590H Course Project: \n",
+    "Body": "In class we mentioned several metaphors for Web access that differ greatly from the desktop metaphor:  The Web as an ocean, the Web as a highway, for example.",
+    "link": [
+        "index.html",
+        "http://www.cc.gatech.edu/gvu/nsf-ws/report/Visualization.html#HDR3",
+        "590h3.html"
+    ],
+    "ground_truth": "other"
+}

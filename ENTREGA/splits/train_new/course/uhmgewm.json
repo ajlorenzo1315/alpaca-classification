@@ -1,0 +1,10 @@
+{
+    "Title": " CIS 313, Introduction to Data Structures ",
+    "Body": "A home page is available for the text.",
+    "link": [
+        "http://www.cs.uoregon.edu/classes/cis313/assignments.html",
+        "http://www.cs.uoregon.edu",
+        "http://www.uoregon.edu/"
+    ],
+    "ground_truth": "course"
+}

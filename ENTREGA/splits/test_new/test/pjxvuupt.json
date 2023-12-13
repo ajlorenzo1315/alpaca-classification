@@ -1,0 +1,10 @@
+{
+    "Title": "UM-EECS: EECS 482",
+    "Body": "Grading Grades will be based on two exams, four programming assignments, and several homeworks according to the following tentative weightage: Homeworks: 15% Midterm: 20% Final:\t 25% Four programming projects: 40% From my experience in teaching software courses in the past, most people do very well on programming projects.",
+    "link": [
+        "mailto:aprakash@umich.edu",
+        "mailto:zou@eecs.umich.edu",
+        "mailto:weijiang@engin.umich.edu"
+    ],
+    "ground_truth": "unknow"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "UT Knowledge-Based Systems Group",
+    "Body": "Finally, we are testing the generality of our research results by building a knowledge base in another domain - distributed computing environments (focussing on OSF's DCE) - to construct a help-desk assistant for automatically answering a proportion of customer's questions which would otherwise be phoned in to a normal help-desk.",
+    "link": [
+        "http://www.cs.utexas.edu/",
+        "http://www.cs.utexas.edu/users/mfkb/km.html",
+        "http://www.cs.utexas.edu/users/mfkb/km.html"
+    ],
+    "ground_truth": "unknow"
+}

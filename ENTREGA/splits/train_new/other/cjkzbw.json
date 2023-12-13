@@ -1,0 +1,10 @@
+{
+    "Title": "\nTestbeds and Evaluation\n",
+    "Body": "Date: Tue, 10 Dec 1996 15:17:36 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Mon, 26 Sep 1994 21:34:38 GMT Content-length: 2151 Testbeds and Evaluation Planning testbeds and empirical evaluation of agents The Truckworld testbed is a challenging software environment to exercise your planning agent.",
+    "link": [
+        "ftp://ftp.cs.washington.edu/pub/ai/tr93-06-09.ps.Z",
+        "ftp://ftp.cs.washington.edu/pub/ai/truckworld.tar.Z",
+        "ftp://ftp.cs.washington.edu/tr/1993/06/UW-CSE-93-06-05.PS.Z"
+    ],
+    "ground_truth": "other"
+}

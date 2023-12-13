@@ -1,0 +1,10 @@
+{
+    "Title": "Systems Programming Home Page",
+    "Body": "All code must be written by you and you alone, except that you can use and modify any sample code from the text or from class as long as you provide credit to the source.",
+    "link": [
+        "http://www.cs.rpi.edu/courses/sysprog/proj6/about.html",
+        "#Course Information",
+        "#Grading"
+    ],
+    "ground_truth": "course"
+}

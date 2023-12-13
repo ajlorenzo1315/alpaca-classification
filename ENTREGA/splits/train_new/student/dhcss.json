@@ -1,0 +1,10 @@
+{
+    "Title": "Cristiana Amza",
+    "Body": "Date: Tue, 26 Nov 1996 00:20:57 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Sun, 28 Apr 1996 20:51:24 GMT Content-length: 565 Cristiana Amza Cristiana's WWW page I am a graduate student in the Computer Science department at Rice University located in Houston, Texas.",
+    "link": [
+        "http://www.cs.rice.edu/",
+        "http://riceinfo.rice.edu",
+        "http://www.cs.rice.edu/~willy"
+    ],
+    "ground_truth": "student"
+}

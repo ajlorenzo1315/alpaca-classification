@@ -1,0 +1,10 @@
+{
+    "Title": "Dean Mah's Home Page",
+    "Body": "Hi, My name is Dean Mah.",
+    "link": [
+        "http://www.europa.com/~yyz/netbin/netscape_hos.html",
+        "http://www.cs.ualberta.ca/~mah/Pics/dean.jpg",
+        "http://web.cs.ualberta.ca/UAlberta.html"
+    ],
+    "ground_truth": "unknow"
+}

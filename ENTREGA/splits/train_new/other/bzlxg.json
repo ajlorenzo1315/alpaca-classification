@@ -1,0 +1,10 @@
+{
+    "Title": "OUT OF THEIR MINDS",
+    "Body": "What to Specify in the Order OUT OF THEIR MINDS: the lives and discoveries of 15 great computer scientists by Dennis Shasha and Cathy Lazere.",
+    "link": [
+        "http://cs.nyu.edu/cs/faculty/shasha/outofmind/authors.html",
+        "http://cs.nyu.edu/cs/faculty/shasha/outofmind/intro.html",
+        "http://cs.nyu.edu/cs/faculty/shasha/outofmind/backus.html"
+    ],
+    "ground_truth": "other"
+}

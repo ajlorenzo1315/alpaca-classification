@@ -1,0 +1,10 @@
+{
+    "Title": "Chiu Ming KONG's Home Page",
+    "Body": "A very good friend: Mugino , who has a fabulous page.",
+    "link": [
+        "mailto:min@cs.mcgill.ca",
+        "http://www.cs.mcgill.ca/~min/myself.html",
+        "http://www.cs.mcgill.ca/~min/hk.html"
+    ],
+    "ground_truth": "student"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Greek Fonts on WWW",
+    "Body": "Font Distributions: Hellenic Resources Network: Original (www.hri.org) , or a local copy (cs.wisc.edu) .",
+    "link": [
+        "mailto:pnevmati@cs.wisc.edu",
+        "http://www.cs.wisc.edu/~pnevmati/greek/InstallX11fonts.html",
+        "http://www.cs.wisc.edu/~pnevmati/greek/Gterm.rsrc"
+    ],
+    "ground_truth": "other"
+}

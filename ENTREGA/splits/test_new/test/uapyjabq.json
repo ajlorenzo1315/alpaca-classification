@@ -1,0 +1,10 @@
+{
+    "Title": "Michael Ernst's home page",
+    "Body": "Date: Thu, 21 Nov 1996 23:02:04 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Sun, 10 Nov 1996 21:45:22 GMT Content-length: 2128 Michael Ernst's home page Michael Ernst I am a graduate student in the University of Washington computer science department .",
+    "link": [
+        "http://www.cs.washington.edu/homes/mernst/mernst-reduced.gif",
+        "http://www.washington.edu/",
+        "http://www.cs.washington.edu"
+    ],
+    "ground_truth": "unknow"
+}

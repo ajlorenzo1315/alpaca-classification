@@ -1,0 +1,10 @@
+{
+    "Title": "CS121: Introduction to Formal Systems and Computation",
+    "Body": "Wed Sep 18 12:45:18 1996: Problem section this Friday There will be an optional problem section this Friday in Aiken G-23 from 2pm to 4pm.",
+    "link": [
+        "#general",
+        "#announcements",
+        "#problemsets"
+    ],
+    "ground_truth": "course"
+}

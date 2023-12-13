@@ -1,0 +1,10 @@
+{
+    "Title": " James Larus' Home Page ",
+    "Body": "Graduates Brad Richards, Ph.D. August 1996, Memory Systems for Parallel Programming, First employment: Vassar College.",
+    "link": [
+        "http://www.cs.wisc.edu/cgi-bin/finger?larus",
+        "http://www.cs.wisc.edu/",
+        "gopher://gopher.wisc.edu/"
+    ],
+    "ground_truth": "faculty"
+}

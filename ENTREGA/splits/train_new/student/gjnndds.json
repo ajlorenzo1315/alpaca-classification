@@ -1,0 +1,10 @@
+{
+    "Title": "Pierre Ouellet's Home Page",
+    "Body": "Since then, I have been living in Châteauguay, in the South-west of Montréal, a town of about 40000.",
+    "link": [
+        "http://www.cs.mcgill.ca/~albert/francais.html",
+        "mailto:albert@cs.mcgill.ca",
+        "http://www.javasoft.com/"
+    ],
+    "ground_truth": "student"
+}

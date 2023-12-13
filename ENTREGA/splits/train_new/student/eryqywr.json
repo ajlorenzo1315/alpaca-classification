@@ -1,0 +1,10 @@
+{
+    "Title": "Marc Langheinrich's Homepage",
+    "Body": "Date: Thu, 21 Nov 1996 22:58:03 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Sun, 01 Sep 1996 22:39:24 GMT Content-length: 2384 Marc Langheinrich's Homepage Marc Langheinrich's Homepage Marc Langheinrich Universität Bielefeld                  University of Washington Technische Fakultät                    Department of Computer Science Email: imlanghe@techfak.uni-bielefeld.de    Email: marclang@cs.washington.edu About myself I spent my last year at the Department of Computer Science here at the University of Washington as a Visiting Graduate Student under the Fulbright Program.",
+    "link": [
+        "http://www.cs.washington.edu/homes/marclang/vordipl1.jpg",
+        "http://www.cs.washington.edu/homes/marclang/resume.html",
+        "http://www.cs.washington.edu/homes/marclang/projects.html"
+    ],
+    "ground_truth": "student"
+}

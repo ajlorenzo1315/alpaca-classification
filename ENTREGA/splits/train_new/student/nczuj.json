@@ -1,0 +1,10 @@
+{
+    "Title": " Steve Novack",
+    "Body": "Lecture Notes in Computer Science, Springer, 1996, by S. Novack and A. Nicolau A Hierarchical Approach to Instruction Level Parallelization (full text in postscript) International Journal of Parallel Programming , 23(1), pp.",
+    "link": [
+        "http://www.israel.org/israel-info/rabin/",
+        "http://www.ics.uci.edu/~snovack//~snovack/shir_lshalom.html",
+        "http://www.ics.uci.edu/~snovack//~snovack/picture_description.html"
+    ],
+    "ground_truth": "student"
+}

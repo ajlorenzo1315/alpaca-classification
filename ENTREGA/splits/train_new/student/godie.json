@@ -1,0 +1,10 @@
+{
+    "Title": "Alexey Home Page",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Wednesday, 20-Nov-96 19:46:34 GMT Content-Type: text/html Content-Length: 3381 Last-Modified: Sunday, 05-May-96 22:31:02 GMT Alexey Home Page Alexey I. Vaysburd alexey@cs.cornell.edu I am in the Ph.D.",
+    "link": [
+        "mailto:alexey@cs.cornell.edu",
+        "http://www.cs.cornell.edu/Info/People/alexey/alexey.gif",
+        "http://www.cs.cornell.edu/Info/Department/DeptInfo.html"
+    ],
+    "ground_truth": "student"
+}

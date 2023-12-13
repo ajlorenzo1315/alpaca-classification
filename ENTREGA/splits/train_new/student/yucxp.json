@@ -1,0 +1,10 @@
+{
+    "Title": "Piew Datta",
+    "Body": "Applying Machine Learning to an Alzheimer's Database , with William Rodman Shankle and Michael Pazzani, in the technical notes for AAAI-96 Spring Symposium AI in Medicine: Applications of Current Technologies.",
+    "link": [
+        "mailto:pdatta@ics.uci.edu",
+        "http://www.ics.uci.edu/~pdatta/alz-res.ps.gz",
+        "http://www.ics.uci.edu/~pdatta/aim.ps.gz"
+    ],
+    "ground_truth": "student"
+}

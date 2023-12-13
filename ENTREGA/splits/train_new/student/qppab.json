@@ -1,0 +1,10 @@
+{
+    "Title": "Jerry Roth's Home Page",
+    "Body": "Proceedings of the 4th ACM Symposium on the Principles and Practices of Parallel Programming (PPoPP'93), May 1993.",
+    "link": [
+        "mailto:roth@cs.rice.edu",
+        "http://www.cs.indiana.edu/finger/noel.cs.rice.edu/roth",
+        "http://www.cs.rice.edu/~roth/bio.html"
+    ],
+    "ground_truth": "student"
+}

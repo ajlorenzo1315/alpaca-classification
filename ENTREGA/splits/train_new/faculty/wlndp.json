@@ -1,0 +1,10 @@
+{
+    "Title": "Peter J. Downey's Home Page",
+    "Body": "In order to understand the origins and effects of overheads in parallel computation, such as synchronization delays, methods focus on probabilistic models of workloads and task processing times.",
+    "link": [
+        "http://www.cs.arizona.edu",
+        "http://www.arizona.edu",
+        "mailto:pete@cs.arizona.edu"
+    ],
+    "ground_truth": "faculty"
+}

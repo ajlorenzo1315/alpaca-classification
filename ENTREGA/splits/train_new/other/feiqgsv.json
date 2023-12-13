@@ -1,0 +1,10 @@
+{
+    "Title": "Common C++ Programming Errors",
+    "Body": "if ( 's' == \"s\" ) Control Structures if only == where = but they are not equal Probably the most common error is using = (assignment op) rather than == (equality op).",
+    "link": [
+        "mailto:skrentny@cs.wisc.edu",
+        "#basic",
+        "#control"
+    ],
+    "ground_truth": "other"
+}

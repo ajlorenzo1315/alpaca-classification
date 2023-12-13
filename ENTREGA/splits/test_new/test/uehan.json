@@ -1,0 +1,10 @@
+{
+    "Title": "Cachet Related Project: Efficient Incremental Computation",
+    "Body": "People Y. Annie Liu Tim Teitelbaum Keywords incremental computation, incremental programs, efficiency improvement, optimization, program analysis, program transformation, Cachet Y. Annie Liu yanhong@cs.cornell.edu Last updated 7/14/96",
+    "link": [
+        "http://www.cs.cornell.edu/Info/People/yanhong/incrementalization.html",
+        "ftp://ftp.cs.cornell.edu/pub/yanhong/Inc-SCP95.ps.Z",
+        "ftp://ftp.cs.cornell.edu/pub/yanhong/Cir-PEPM95.ps.Z"
+    ],
+    "ground_truth": "unknow"
+}

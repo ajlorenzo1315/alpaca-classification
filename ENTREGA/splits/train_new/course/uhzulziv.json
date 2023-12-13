@@ -1,0 +1,10 @@
+{
+    "Title": "CSE322 Computer Architecture ",
+    "Body": "Date: Tue, 26 Nov 1996 18:51:32 GMT Server: NCSA/1.5 MIME-version: 1.0 Content-type: text/html Last-modified: Tue, 07 May 1996 01:16:57 GMT Content-length: 4410 CSE322 Computer Architecture CSE 322: Computer Architecture Professor: Dr. Jay Brockman 384 Fitzpatrick Hall phone: 1-8810 email: jbb@cse.nd.edu office hours: Tu, Th 2:30-3:30, or by appointment Teaching Assistants: Lilia Suslov email: lsuslov@bach.helios.nd.edu Dave Greene email: dgreene1@bach.helios.nd.edu Holly Campbell email: hcampbel@bach.helios.nd.edu Text: David A. Patterson and John L. Hennessy.",
+    "link": [
+        "http://www.cse.nd.edu/~jbb/index.html",
+        "mailto:%20jbb@cse.nd.edu",
+        "mailto:lsuslov@bach.helios.nd.edu"
+    ],
+    "ground_truth": "course"
+}

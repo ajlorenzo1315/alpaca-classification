@@ -1,0 +1,10 @@
+{
+    "Title": "j ward shade pages -- Walkthru",
+    "Body": "Date: Thu, 16 Jan 1997 03:31:56 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Thu, 11 Jul 1996 20:41:46 GMT Content-length: 2024 j ward shade pages -- Walkthru Hierarchical Image Caching for Accelerated Walkthroughs of Complex Environments We present a new method that utilizes path coherence to accelerate walkthroughs of geometrically complex static scenes.",
+    "link": [
+        "paper.pdf",
+        "paper_hires.ps.gz",
+        "paper_lores.ps.gz"
+    ],
+    "ground_truth": "other"
+}

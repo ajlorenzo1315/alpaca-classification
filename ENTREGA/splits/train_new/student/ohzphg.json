@@ -1,0 +1,10 @@
+{
+    "Title": "Erik Ostrom's home page",
+    "Body": "Some Colleges in Boston Just what it sounds like.",
+    "link": [
+        "http://www.ccs.neu.edu/home/eostrom/muds/",
+        "http://www.ccs.neu.edu/home/eostrom/hypertext/www.html",
+        "http://www.ccs.neu.edu/home/eostrom/boston.html"
+    ],
+    "ground_truth": "student"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Philip Greenspun's home page",
+    "Body": "I have my favorite links on the Web , of course.",
+    "link": [
+        "http://www-swiss.ai.mit.edu/~philg/school",
+        "http://www.ai.mit.edu/",
+        "http://www.lcs.mit.edu/"
+    ],
+    "ground_truth": "student"
+}

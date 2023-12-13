@@ -1,0 +1,10 @@
+{
+    "Title": "\nCPS 100E, Fall 1996, Second Assignment\n",
+    "Body": "Given a list of titles and a list of words to ignore, you are to write a program that generates a KWIC (Key Word In Context) index of the titles.",
+    "link": [
+        "#intro",
+        "#input",
+        "#code"
+    ],
+    "ground_truth": "other"
+}

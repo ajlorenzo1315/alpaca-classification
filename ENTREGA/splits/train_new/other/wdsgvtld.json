@@ -1,0 +1,10 @@
+{
+    "Title": "Faculty Profiles",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Monday, 06-Jan-97 19:46:34 GMT Content-Type: text/html Content-Length: 2851 Last-Modified: Tuesday, 20-Feb-96 23:43:57 GMT Faculty Profiles Faculty Profiles This page contains the faculty profile of each CS professor as it was printed in the Department of Computer Sciences 1994-95 Annual Report.",
+    "link": [
+        "http://www.cs.utexas.edu/docs/prof.html",
+        "http://www.cs.utexas.edu/users/UTCS/report/1995/profiles/alvisi.html",
+        "http://www.cs.utexas.edu/users/UTCS/report/1995/profiles/blumofe.html"
+    ],
+    "ground_truth": "other"
+}

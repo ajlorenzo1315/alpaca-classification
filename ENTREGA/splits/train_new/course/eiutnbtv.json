@@ -1,0 +1,10 @@
+{
+    "Title": "CSE 590S (Summer 95)",
+    "Body": "(Presenters: Sriram, Fiuczynski) Dec. 1 : The Impact of Architectural Trends on Operating System Performance.",
+    "link": [
+        "http://www.cs.washington.edu/homes/levy/sosp.ps",
+        "cheriton.ps",
+        "ftp://ftp.hpl.hp.com/wilkes/INDEX.html#SOSP95"
+    ],
+    "ground_truth": "course"
+}

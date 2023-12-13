@@ -1,0 +1,6 @@
+{
+    "Title": " CS414: Required Readings ",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Monday, 16-Dec-96 23:54:14 GMT Content-Type: text/html Content-Length: 856 Last-Modified: Tuesday, 28-Nov-95 14:49:10 GMT CS414: Required Readings Readings from Silberschatz and Galvin Date                 \tRead ------------------------------------------------ 8/31\t\t\tChapters 1 to 3 9/5\t\t\tChapter 6, except 6.9 9/19\t\t\tChapter 4, through page 108 9/26\t\t\tChapter 7, skip 7.2.2 7.5.2 Readings emphasized on Prelim I (Oct. 5): \tChapters 4.1 - 4.4; 6.1 - 6.5; 7.1 - 7.5 10/12\t\t\tChapters 8, 9 Readings emphasized on Prelim II (Nov. 14): Chapters 8, 9",
+    "link": [],
+    "ground_truth": "other"
+}

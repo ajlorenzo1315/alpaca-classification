@@ -1,0 +1,6 @@
+{
+    "Title": " CS415 Questions and Answers ",
+    "Body": "In mine, the reason why the caller may be different from the running process is easy to see if we consider the SYS trap handler, and we concentrate on SYS4, As a result of the P operation, the calling process may be blocked, and a new process elected to be the next to run.",
+    "link": [],
+    "ground_truth": "unknow"
+}

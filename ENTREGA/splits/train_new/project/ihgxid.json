@@ -1,0 +1,9 @@
+{
+    "Title": " Logical Reasoning with Diagrams ",
+    "Body": "Flow charts and other forms of diagrams are well known aides in programming.",
+    "link": [
+        "http://www-vil.cs.indiana.edu/HomePage.html",
+        "http://www.cs.indiana.edu/research/index.html"
+    ],
+    "ground_truth": "project"
+}

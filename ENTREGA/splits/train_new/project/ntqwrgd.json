@@ -1,0 +1,10 @@
+{
+    "Title": "The Distributed Systems Laboratory",
+    "Body": "Several staff offices are also located inside.",
+    "link": [
+        "http://www.seas.upenn.edu",
+        "http://www.upenn.edu",
+        "http://libertynet.org/"
+    ],
+    "ground_truth": "project"
+}

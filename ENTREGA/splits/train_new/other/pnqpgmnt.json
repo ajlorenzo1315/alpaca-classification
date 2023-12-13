@@ -1,0 +1,10 @@
+{
+    "Title": "Index to WWW Guides",
+    "Body": "How to interface WWW and applications - a nice tutorial HTML Quick Reference Fill-out Forms and Input fields Fill-out Form Support A Beginner's Guide to HTML A Beginner's Guide to URLs The Common Gateway Interface (it is about what the http server receives) Guidelines For Writing HTTP Server Scripts HTML+ What is HyperText Administrating the Server Web Communications's Comprehensive Guide to Publishing on the Web http://www.cs.washington.edu/homes/vass/Guides/ Please don't read the stuff below.",
+    "link": [
+        "http://www.dsi.unimi.it/Users/aprile/Help/MosApp/Tutorial.html",
+        "http://www.cs.washington.edu/homes/vass/Guides/html-qref.html",
+        "http://www.cs.washington.edu/homes/vass/Guides/forms0.html"
+    ],
+    "ground_truth": "other"
+}

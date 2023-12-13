@@ -1,0 +1,10 @@
+{
+    "Title": "No Title",
+    "Body": "Date: Wed, 20 Nov 1996 22:33:18 GMT Server: Apache/1.0.3 Content-type: text/html Content-length: 2539 Last-modified: Fri, 06 Sep 1996 16:37:40 GMT No Title Next: Motivation: B481: Interactive Graphics Fall 1996 --- Section 1161 Instructor: Andrew Hanson (hanson@cs.indiana.edu) Lecture: Monday and Wednesday, 5:45pm--7:00pm in LH102 Office hours:  Monday and Wednesday 1:30pm--3:00pm, or by appointment, in Lindley 301F Discussion Section 1162 : Friday 8:00am-8:50am in Student Building 230 SGI cluster.",
+    "link": [
+        "node1.html",
+        "node1.html",
+        "node1.html#SECTION00000010000000000000"
+    ],
+    "ground_truth": "course"
+}

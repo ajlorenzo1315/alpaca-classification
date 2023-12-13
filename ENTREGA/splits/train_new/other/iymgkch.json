@@ -1,0 +1,10 @@
+{
+    "Title": " Imperative Languages",
+    "Body": "Date: Wed, 08 Jan 1997 21:00:46 GMT Server: NCSA/1.4.2 Content-type: text/html Imperative Languages Imperative Languages FORTRAN Notes: Lecture notes for FORTRAN.",
+    "link": [
+        "./fortran.html",
+        "./algol.html",
+        "./parameters.html"
+    ],
+    "ground_truth": "other"
+}

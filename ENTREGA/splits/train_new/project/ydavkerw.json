@@ -1,0 +1,10 @@
+{
+    "Title": "Syntactic Abstraction",
+    "Body": "Date: Wed, 20 Nov 1996 19:14:57 GMT Server: Apache/1.0.3 Content-type: text/html Content-length: 1463 Last-modified: Mon, 04 Dec 1995 18:59:05 GMT Syntactic Abstraction Syntactic Abstraction Description: Traditional macros used to extend programming languages suffer from semantic difficulties due to unintended variable bindings that occur as the result of the code transformations specified by macro transformers.",
+    "link": [
+        "http://www.cs.indiana.edu/hyplan/dyb.html",
+        "http://www.cs.indiana.edu/hyplan/dfried.html",
+        "http://www.cs.indiana.edu/hyplan/bruggema.html"
+    ],
+    "ground_truth": "project"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "CS 302 Homepage",
+    "Body": "Useful References Here is a Glossary of Internet Terms with which you will be expected to be familiar.",
+    "link": [
+        "#Readings",
+        "#assignments",
+        "news:byu.class.cs302"
+    ],
+    "ground_truth": "course"
+}

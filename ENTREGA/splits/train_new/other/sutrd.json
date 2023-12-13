@@ -1,0 +1,10 @@
+{
+    "Title": "CS 537 - Sample Questions",
+    "Body": "Can you suggest an extension to the System-R optimizer join enumeration strategy that will also consider the appropriate placement of expensive selections and projections?",
+    "link": [
+        "new_q123.ps",
+        "new_q123.ps",
+        "new_q123.ps"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": " Ping Xuan's Home Page ",
+    "Body": "Right now I am doing research on real-time systems at the CCS lab of UMass.",
+    "link": [
+        "http://www.cs.umass.edu/",
+        "http://www.umass.edu/",
+        "http://www-astro.phast.umass.edu/guest/amherst.html"
+    ],
+    "ground_truth": "student"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "C212 Intro to Software Systems",
+    "Body": "C++ and Java.",
+    "link": [
+        "#general",
+        "#description",
+        "#materials"
+    ],
+    "ground_truth": "course"
+}

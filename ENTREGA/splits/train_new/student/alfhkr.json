@@ -1,0 +1,10 @@
+{
+    "Title": "Dan Clancy",
+    "Body": "In particular, I am interested in abstraction techniques which can be automatically applied during a simulation.",
+    "link": [
+        "http://www.cs.utexas.edu/users/clancy/resume.ps",
+        "http://www.cs.utexas.edu/users/clancy/my-papers.html",
+        "http://www.cs.utexas.edu/users/clancy/TMP2.exe"
+    ],
+    "ground_truth": "student"
+}

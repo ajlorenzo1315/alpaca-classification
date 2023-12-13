@@ -1,0 +1,10 @@
+{
+    "Title": " Ellen Hildreth Home Page ",
+    "Body": "Date: Mon, 25 Nov 1996 23:29:51 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Wed, 31 Jan 1996 16:13:33 GMT Content-length: 1251 Ellen Hildreth Home Page Name: Ellen Hildreth Department: Computer Science Title: Associate Professor Office: E112 Science Center Extension: X3025 Responsibilities: Department Chair.",
+    "link": [
+        "http://www.wellesley.edu/CS/cshome.html",
+        "http://www.wellesley.edu/CS/classes.html#CS111",
+        "http://www.wellesley.edu/CS/classes.html#CS230"
+    ],
+    "ground_truth": "faculty"
+}

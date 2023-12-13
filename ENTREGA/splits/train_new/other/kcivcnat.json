@@ -1,0 +1,10 @@
+{
+    "Title": "Links to More Sites",
+    "Body": "Date: Mon, 04 Nov 1996 23:49:49 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Thu, 04 Jan 1996 15:45:51 GMT Content-length: 2699 Links to More Sites Research Sites UW DBMS Home Page Berkeley Sequoia 2000 IBM Almaden Research Center DEC Home Page ETH Zurich Helsinki Univ.",
+    "link": [
+        "http://www.cs.wisc.edu/~kristint/dbmshome.html",
+        "http://s2k-ftp.cs.berkeley.edu:8000/",
+        "http://www.almaden.ibm.com/"
+    ],
+    "ground_truth": "other"
+}

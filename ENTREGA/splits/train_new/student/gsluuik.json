@@ -1,0 +1,10 @@
+{
+    "Title": "Homepage of Mark Land",
+    "Body": "Date: Thu, 21 Nov 1996 23:07:07 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Mon, 13 May 1996 18:38:51 GMT Content-length: 2119 Homepage of Mark Land Mark Land On-Campus: \tAP&M 5402 / UCSD CSE 0114 / La Jolla, CA 92093-0114 mland@ucsd.edu Interests discrete optimization, artificial intelligence, genetic algorithms, cellular automata, artificial life, evolution, neural networks, cognitive science, complex systems, backgammon, games Current Research Enhancement of the Genetic Algorithm with Local Search techniques, specifically applied to discrete, combinatorial optimization problems.",
+    "link": [
+        "mailto:mland@ucsd.edu",
+        "http://www-cse.ucsd.edu/users/mland/proposal.ps",
+        "http://www-cse.ucsd.edu/users/mland/ca_tech.ps"
+    ],
+    "ground_truth": "student"
+}

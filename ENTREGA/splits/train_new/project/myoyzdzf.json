@@ -1,0 +1,10 @@
+{
+    "Title": "Pattern Separation via Mathematical Programming",
+    "Body": "MSM separates 2 disjoint finite point sets in n -dimensional Euclidean space as follows: Choose 2 parallel planes in n -dimensional Euclidean space as close together so that only the region between the two planes contains points from both sets (i.e. the regions NOT between the 2 parallel planes contain only points of 1 set or no points).",
+    "link": [
+        "http://www.cs.wisc.edu/",
+        "http://www.cs.wisc.edu/~street/street.html",
+        "http://rpinfo.its.rpi.edu:80/~bennek/"
+    ],
+    "ground_truth": "project"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Constantine Phaedon Papageorgiou's Home Page",
+    "Body": "Before joining CBCL in September of 1995, I spent almost three years working in R&D in the Speech and Language Processing Department at BBN .",
+    "link": [
+        "http://www.ai.mit.edu/",
+        "http://www.ai.mit.edu/projects/cbcl/web-homepage/web-homepage.html",
+        "http://www.ai.mit.edu/projects/cbcl/web-pis/poggio/homepage.html"
+    ],
+    "ground_truth": "unknow"
+}

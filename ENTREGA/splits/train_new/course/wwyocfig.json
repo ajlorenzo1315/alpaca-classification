@@ -1,0 +1,10 @@
+{
+    "Title": "CS-505 Home Page",
+    "Body": "I have a seminar in the afternoon and will not be able to make it to class.",
+    "link": [
+        "http://al.cs.engr.uky.edu:80/~tony/cs505/General/crs_info.html",
+        "http://al.cs.engr.uky.edu:80/~tony/cs505/General/syllabus.html",
+        "http://al.cs.engr.uky.edu:80/~tony/cs505/General/roll.html"
+    ],
+    "ground_truth": "course"
+}

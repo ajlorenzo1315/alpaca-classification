@@ -1,0 +1,10 @@
+{
+    "Title": "CSE 434 - Java Programming",
+    "Body": "Email: agy@cse Office Hours: 10:30 -- 12:00 MW Teaching Assistants: Jinhui Xu (pronounced \"shoe\") Room: 355E Fitzpatrick Phone: ?",
+    "link": [
+        "http://www.cse.nd.edu/~ayoder",
+        "mailto:agy@cse",
+        "http://www.nd.edu/~jxu"
+    ],
+    "ground_truth": "course"
+}

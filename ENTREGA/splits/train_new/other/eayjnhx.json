@@ -1,0 +1,10 @@
+{
+    "Title": "\n  General Gofer and LAL Information\n",
+    "Body": "The rest of this page will cover running Gofer on the LAL machines; if you run Gofer elsewhere, check this out first.",
+    "link": [
+        "mailto:jones@cs.byu.edu",
+        "ftp://coral.cs.jcu.edu.au/web/FP/hcs/gofer.html",
+        "mailto:cs532@lal.cs.byu.edu"
+    ],
+    "ground_truth": "other"
+}

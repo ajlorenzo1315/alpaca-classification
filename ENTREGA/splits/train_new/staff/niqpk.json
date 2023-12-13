@@ -1,0 +1,10 @@
+{
+    "Title": "Sandhya Dwarkadas",
+    "Body": "She used this tool to design and evaluate synchronization support, adaptive caching techniques, and the use of relaxed consistency models for a hierarchical bus-based shared-memory architecture.",
+    "link": [
+        "http://www.cs.rice.edu/",
+        "http://www.rice.edu/",
+        "http://www.cs.rice.edu/CS/Systems/software/treadmarks.html"
+    ],
+    "ground_truth": "staff"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Robert Cypher - Publications",
+    "Body": "J. Bruck, R. Cypher, D. Soroker, Proceedings 1990 ACM Symposium on Parallel Algorithms and Architectures, pp.",
+    "link": [
+        "http://www.cs.jhu.edu/~cypher/pubs/protocol.html",
+        "http://www.cs.jhu.edu/~cypher/pubs/protocol.ps",
+        "http://www.cs.jhu.edu/~cypher/pubs/meshsub.html"
+    ],
+    "ground_truth": "other"
+}

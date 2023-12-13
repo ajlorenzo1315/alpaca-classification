@@ -1,0 +1,10 @@
+{
+    "Title": "Mike Steele's WWW Homepage",
+    "Body": "528 Madison, WI  53711 (608) 286-8130 E-Mail: (in order of how to get the fastest response...) msteele@cs.wisc.edu mike@cs.umd.edu mesteele@students.wisc.edu msteele@wam.umd.edu msteele@glue.umd.edu Click here to mail .",
+    "link": [
+        "mailto:msteele@cs.wisc.edu",
+        "http://www.eff.org/blueribbon.html",
+        "http://www.upa.org/~upa/"
+    ],
+    "ground_truth": "other"
+}

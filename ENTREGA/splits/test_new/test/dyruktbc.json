@@ -1,0 +1,10 @@
+{
+    "Title": "Using the Web at UW CS",
+    "Body": "Date: Mon, 04 Nov 1996 23:45:43 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Thu, 24 Oct 1996 22:37:32 GMT Content-length: 2068 Using the Web at UW CS Using the Web at UW CS They pushed all the buttons and things On tomorrow's pages - The Psychedelic Furs, Highwire Days We are developing a number of documents to help you better use the resources available on the Web and to allow you make your own information available.",
+    "link": [
+        "http://www.boutell.com/faq/www_faq.html",
+        "http://www.cs.wisc.edu/docs/homepage.html",
+        "http://www.cs.wisc.edu/docs/htmltutorial.html"
+    ],
+    "ground_truth": "unknow"
+}

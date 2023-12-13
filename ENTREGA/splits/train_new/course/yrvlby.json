@@ -1,0 +1,10 @@
+{
+    "Title": "CS617 Home Page",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Sunday, 24-Nov-96 22:04:08 GMT Content-Type: text/html Content-Length: 2989 Last-Modified: Sunday, 13-Nov-94 17:06:01 GMT CS617 Home Page Frontiers of Parallel Systems Thorsten von Eicken Fall, 1994 Location: 111 Upson, MWF 11:05am-12:00pm Office hours: Mon 12:15pm-1:15pm, Thu 2pm-3pm Course Description Parallel machines are here to stay.",
+    "link": [
+        "http://www.cs.cornell.edu/Info/Courses/Fall-94/CS617/CS617-format.html",
+        "http://www.cs.cornell.edu/Info/Courses/Fall-94/CS617/CS617-notes.html",
+        "http://www.cs.cornell.edu/Info/Courses/Fall-94/CS617/CS617-problm.html"
+    ],
+    "ground_truth": "course"
+}

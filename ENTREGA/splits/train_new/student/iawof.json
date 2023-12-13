@@ -1,0 +1,10 @@
+{
+    "Title": "Ivan Strnad's Home Page",
+    "Body": "Date: Tuesday, 26-Nov-96 03:04:55 GMT Server: NCSA/1.1 MIME-version: 1.0 Content-type: text/html Last-modified: Friday, 02-Feb-96 18:29:26 GMT Ivan Strnad's Home Page Ivan Strnad MSc student New Mexico State University Department of Computer Science istrnad@cs.nmsu.edu Under Construction - sorry My Resume Links Personal Back to Student Index",
+    "link": [
+        "http://www.cs.nmsu.edu/~istrnad/IMAGES/IS.gif",
+        "http://www.nmsu.edu",
+        "http://www.cs.nmsu.edu"
+    ],
+    "ground_truth": "student"
+}

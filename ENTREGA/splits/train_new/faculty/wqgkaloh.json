@@ -1,0 +1,8 @@
+{
+    "Title": "\nHome Page for John Casey\n",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Thursday, 21-Nov-96 19:22:25 GMT Content-Type: text/html Content-Length: 926 Last-Modified: Friday, 21-Jun-96 19:27:06 GMT Home Page for John Casey <!--<hr> John Casey Associate Professor College of Computer Science Northeastern University Fall Courses: COM 1130  -- Computer Organization COM 3336  -- Operating Systems To reach me: Look for me at my office: 209 Cullinane, or somewhere in the building.",
+    "link": [
+        "http://www.ccs.neu.edu/finger?jcasey"
+    ],
+    "ground_truth": "faculty"
+}

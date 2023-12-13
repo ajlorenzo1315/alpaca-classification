@@ -1,0 +1,10 @@
+{
+    "Title": "UCLA Data Mining Laboratory Home Page v1",
+    "Body": "Date: Wed, 20 Nov 1996 19:27:18 GMT Server: NCSA/1.5.1 Last-modified: Thu, 06 Jun 1996 21:44:40 GMT Content-type: text/html Content-length: 1104 UCLA Data Mining Laboratory Home Page v1 Click here or image to skip this animation page Express to DML publications page Welcome to UCLA Data Mining Laboratory Home Page.",
+    "link": [
+        "http://nugget.cs.ucla.edu:8001/main.html",
+        "http://nugget.cs.ucla.edu:8001/publications/index.html",
+        "http://nugget.cs.ucla.edu:8001/main.html"
+    ],
+    "ground_truth": "project"
+}

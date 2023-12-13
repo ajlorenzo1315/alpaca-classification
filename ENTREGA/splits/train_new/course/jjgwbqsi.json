@@ -1,0 +1,10 @@
+{
+    "Title": " COMP 11 -- Fall 1996",
+    "Body": "Date: Tue, 26 Nov 1996 19:00:06 GMT Server: Apache/1.0.5 Content-type: text/html Content-length: 2022 Last-modified: Fri, 11 Oct 1996 15:34:39 GMT COMP 11 -- Fall 1996 COMP 11 -- Fall 1996 Introduction to Computer Science This is a first course in computer science, which includes an introduction to the C programming language and the UNIX operating system.",
+    "link": [
+        "http://www.cs.tufts.edu/g/11/admin/tahours.html",
+        "http://www.cs.tufts.edu/g/11/admin/labhours.html",
+        "http://www.cs.tufts.edu/g/11/admin/exams.html"
+    ],
+    "ground_truth": "course"
+}

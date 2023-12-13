@@ -1,0 +1,10 @@
+{
+    "Title": "CSE/ENGR 142 Reference List",
+    "Body": "What's more, when you buy the book you get a diskette with the full text of the book in HTML.",
+    "link": [
+        "cbooks.txt",
+        "cbooks.txt",
+        "http://vinny.csd.mu.edu"
+    ],
+    "ground_truth": "other"
+}

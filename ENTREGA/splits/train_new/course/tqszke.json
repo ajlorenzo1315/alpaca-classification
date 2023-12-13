@@ -1,0 +1,10 @@
+{
+    "Title": " database course blurb",
+    "Body": "The study of internals will touch on the intersection of database system, operating system, and distributed computing research and development.",
+    "link": [
+        "http://www.informatik.uni-trier.de/~ley/db/index.html",
+        "http://cs.nyu.edu/cs/faculty/shasha/index.html",
+        "http://cs.nyu.edu/cs/faculty/shasha/outofmind.html"
+    ],
+    "ground_truth": "course"
+}

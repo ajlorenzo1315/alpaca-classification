@@ -1,0 +1,10 @@
+{
+    "Title": "Software Engineering Research Group",
+    "Body": "Server: Netscape-Commerce/1.1 Date: Tuesday, 26-Nov-96 01:00:41 GMT Last-modified: Thursday, 03-Oct-96 19:15:25 GMT Content-length: 2849 Content-type: text/html Software Engineering Research Group Software Engineering Research Group The group works with Dr. Stephen R. Schach in the field of software engineering, and especially in object-oriented software engineering.",
+    "link": [
+        "http://www.vuse.vanderbilt.edu/~srs/homepage.html",
+        "http://cswww.vuse.vanderbilt.edu/~jgray/sdg.html",
+        "http://www.vuse.vanderbilt.edu/~srs/se-group-pubs.html"
+    ],
+    "ground_truth": "project"
+}

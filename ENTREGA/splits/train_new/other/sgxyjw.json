@@ -1,0 +1,10 @@
+{
+    "Title": "ZPL Blurbs: ZPL Compiler Partial Installation Installation Instructions",
+    "Body": "Date: Mon, 02 Dec 1996 15:21:13 GMT Server: NCSA/1.4.2 Content-type: text/html ZPL Blurbs: ZPL Compiler Partial Installation Installation Instructions ZPL Compiler Partial Installation Instructions (A ZPL Blurb) This document describes the requirements and process for setting up a ZPL compiler partial installation on a single processor UNIX syste,.",
+    "link": [
+        "http://www.cs.washington.edu/research/projects/zpl/using/xxx.html",
+        "http://www.cs.washington.edu/research/projects/zpl/using/using-zcr.html",
+        "http://www.cs.washington.edu/research/projects/zpl/web-compiler"
+    ],
+    "ground_truth": "other"
+}

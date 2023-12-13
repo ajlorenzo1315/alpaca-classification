@@ -1,0 +1,10 @@
+{
+    "Title": " John Brayer ",
+    "Body": "in Applied Mathematics from University of Rochester in 1970, an M.S.",
+    "link": [
+        "http://www.cs.unm.edu",
+        "http://www.unm.edu",
+        "http://www.unm.edu/servers_pages.html"
+    ],
+    "ground_truth": "faculty"
+}

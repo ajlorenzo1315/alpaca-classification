@@ -1,0 +1,9 @@
+{
+    "Title": "Kristen Summers -- Non-Textual Cues",
+    "Body": "Abstract We present and analyze effficient algorithms for the automated recognition and interpretation of layout structures in electronic documents.",
+    "link": [
+        "http://cs-tr.cs.cornell.edu:80/TR/CORNELLCS:TR94-1452?abstract",
+        "http://www.cs.cornell.edu/Info/People/summers/summers.html"
+    ],
+    "ground_truth": "other"
+}

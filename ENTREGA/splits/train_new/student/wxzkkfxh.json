@@ -1,0 +1,10 @@
+{
+    "Title": "Fang Wang's Home Page",
+    "Body": "Research work I am a PhD student in the Programming Languages and Systems group at the Computer Science Dept of Yale University .",
+    "link": [
+        "http://www.cs.yale.edu/HTML/YALE/CS/FrontDoor.html",
+        "http://www.cs.yale.edu/welcome.html",
+        "http://www.cs.yale.edu/homes/wangf/papers.html"
+    ],
+    "ground_truth": "student"
+}

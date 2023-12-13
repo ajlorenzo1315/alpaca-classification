@@ -1,0 +1,10 @@
+{
+    "Title": "CPS 296 - SPRING 1997 ",
+    "Body": "Date: Wed, 20 Nov 1996 22:16:08 GMT Server: NCSA/1.5.1 Last-modified: Tue, 19 Nov 1996 23:48:40 GMT Content-type: text/html Content-length: 3282 CPS 296 - SPRING 1997 CPS296 Spring 1997 Advanced Topics in Artificial Intelligence [ Background | Grading | Outline ] Background We will review some advanced topics in artificial intelligence: planning, reasoning under uncertainty, decision making, vision, robotics, reinforcement learning.",
+    "link": [
+        "#background",
+        "#grading",
+        "#outline"
+    ],
+    "ground_truth": "course"
+}

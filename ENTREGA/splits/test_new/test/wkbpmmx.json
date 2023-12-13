@@ -1,0 +1,10 @@
+{
+    "Title": "Roy Friedman",
+    "Body": "R. Friedman and K. Birman.",
+    "link": [
+        "http://www.cs.cornell.edu/Info/People/roy/roy.gif",
+        "http://www.cs.cornell.edu/",
+        "gopher://gopher1.cit.cornell.edu"
+    ],
+    "ground_truth": "unknow"
+}

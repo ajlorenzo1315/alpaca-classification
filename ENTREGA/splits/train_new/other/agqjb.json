@@ -1,0 +1,10 @@
+{
+    "Title": " Mobile Object Layer for Dynamic and Irregular  Computations ",
+    "Body": "This sends a small message to the processor that holds the object specified by a mobile pointer.",
+    "link": [
+        "../description/index.html",
+        "main.c",
+        "amr0.c"
+    ],
+    "ground_truth": "other"
+}

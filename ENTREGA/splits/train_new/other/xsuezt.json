@@ -1,0 +1,10 @@
+{
+    "Title": "8 Easy steps to having your own WWW Page",
+    "Body": "Here is a list of the elements in the document and what they do in Mosaic: <B> is a container that emboldens its contents.",
+    "link": [
+        "http://www.cs.wisc.edu/docs/public_afs.html",
+        "http://www.cs.wisc.edu/docs/url.html",
+        "http://www.cs.wisc.edu/docs/htmltutorial.html"
+    ],
+    "ground_truth": "other"
+}

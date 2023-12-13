@@ -1,0 +1,10 @@
+{
+    "Title": "CS 310 -- Computing Languages",
+    "Body": "Course Goals To explore the notion of what a programming language really is To investigate programming paradigms: imperative, object oriented, functional programming The class is not an overview of a variety of languages, but a deep view of programming paradigms List of Topics covered Tools for Symbolic Programming Induction, Recursion, and Scope Syntactic Abstraction and Data Abstraction Reduction Rules and Imperative Programming Interpreters Parameter Passing Object-Oriented Languages Type Checking and Inference Text Daniel Friedman, Mitchell Wand, and Christopher Haynes, Essentials of Programming Languages , The MIT Press and McGraw-Hill Book Company, Sixth printing, 1995.",
+    "link": [
+        "http://www.cs.uidaho.edu/cs310/exam1.html",
+        "http://www.cs.uidaho.edu/~johnd/",
+        "http://www.cs.uidaho.edu/cs310/sylf.html"
+    ],
+    "ground_truth": "course"
+}

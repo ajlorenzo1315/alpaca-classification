@@ -1,0 +1,10 @@
+{
+    "Title": "Jay Sachs",
+    "Body": "This fellowship is intended to encourage late-year slackers like myself to finish my dissertation.",
+    "link": [
+        "mailto:sachs@cs.nyu.edu",
+        "http://cs.nyu.edu/phd_students/sachs//",
+        "http://cs.nyu.edu/cs/courantnyu.html"
+    ],
+    "ground_truth": "student"
+}

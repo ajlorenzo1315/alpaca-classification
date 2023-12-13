@@ -1,0 +1,10 @@
+{
+    "Title": "175",
+    "Body": "Date: Tue, 26 Nov 1996 18:59:17 GMT Server: Apache/1.0.5 Content-type: text/html Content-length: 2150 Last-modified: Tue, 05 Nov 1996 17:21:53 GMT 175 175 Computer Graphics Fall, 1996 Course description Syllabus T.A.",
+    "link": [
+        "http://www.cs.tufts.edu/~jacob/175/blurb.html",
+        "http://www.cs.tufts.edu/~jacob/175/syllabus.html",
+        "http://www.cs.tufts.edu/~ereuss/"
+    ],
+    "ground_truth": "course"
+}

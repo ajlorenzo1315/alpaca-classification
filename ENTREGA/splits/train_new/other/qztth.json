@@ -1,0 +1,9 @@
+{
+    "Title": "CSE370 Computing Information",
+    "Body": "This is a suite of tools that includes word processing and figure drawing programs that you will be expected to use for writing up your assignments (you may of course use equivalent software you may have on your home machine).",
+    "link": [
+        "http://www.data-io.com",
+        "mailto:cse370-webmaster@cs"
+    ],
+    "ground_truth": "other"
+}

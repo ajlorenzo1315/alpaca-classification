@@ -1,0 +1,10 @@
+{
+    "Title": "Cognitive Robotics:  Home Page",
+    "Body": "The Cognitive Robotics project is supported by The National Science Foundation through a Young Investigator Award to Professor Stein.",
+    "link": [
+        "http://www.ai.mit.edu/people/las",
+        "http://www.ai.mit.edu/people/ap",
+        "http://www.ai.mit.edu/"
+    ],
+    "ground_truth": "project"
+}

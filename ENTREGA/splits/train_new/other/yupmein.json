@@ -1,0 +1,10 @@
+{
+    "Title": "Automatic Programming",
+    "Body": "Automatic Programming Server: (*) Create Programs in Lisp or C. VIP Demo: Write Programs and Do Physics by Connecting Diagrams.",
+    "link": [
+        "http://www.cs.utexas.edu/users/novak/views.html",
+        "http://www.cs.utexas.edu/users/novak/papers.html",
+        "http://www.cs.utexas.edu/users/novak/cs395t.html"
+    ],
+    "ground_truth": "other"
+}

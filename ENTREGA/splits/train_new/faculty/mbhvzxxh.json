@@ -1,0 +1,10 @@
+{
+    "Title": "Art K's New Electronic Home",
+    "Body": "Go to top of page Some Recent Publications Karshmer, A.I., Adapting Graphical User Interfaces for Use by the Visually Impaired , Computers and The Handicapped, Springer-Verlag Lecture Notes in Computer Science, 1994.",
+    "link": [
+        "http://www.cs.umass.edu",
+        "mailto:arthur@cs.nmsu.edu",
+        "http://www.cs.nmsu.edu/~arthur/WhitePaper/WhitePaper.html"
+    ],
+    "ground_truth": "faculty"
+}

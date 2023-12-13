@@ -1,0 +1,10 @@
+{
+    "Title": " CS384G Course Description",
+    "Body": "This lab will be used only by students in this course and the multimedia systems course, and so will be more accessible than public workstations for project use.",
+    "link": [
+        "http://www.ssec.wisc.edu/~brianp/Mesa.html",
+        "http://www.portable.com",
+        "http://www.tgs.com"
+    ],
+    "ground_truth": "other"
+}

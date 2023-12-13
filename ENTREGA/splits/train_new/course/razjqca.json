@@ -1,0 +1,10 @@
+{
+    "Title": "CS1003: An Introduction to Computer Science Using C",
+    "Body": "Postscript version Assignment 2: Your first program.",
+    "link": [
+        "#introduction",
+        "#reference",
+        "#lectures"
+    ],
+    "ground_truth": "course"
+}

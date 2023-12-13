@@ -1,0 +1,10 @@
+{
+    "Title": "CSE 322  \nRemarks on Problem 5 from the Midterm\nWinter Quarter, 1996",
+    "Body": "Since you're given that x is derivable in i steps, it is perfectly legal to do an induction on i , the length of the derivation, to prove that x has an equal number of a 's and b 's.",
+    "link": [
+        "node1.html",
+        "node1.html",
+        "node1.html#SECTION00010000000000000000"
+    ],
+    "ground_truth": "other"
+}

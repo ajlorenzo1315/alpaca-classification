@@ -1,0 +1,10 @@
+{
+    "Title": "No title",
+    "Body": "Experience (Sept. 94 -- present) Computing Research Laboratory, New Mexico State University (1/95 - present) Portable, object-oriented Document Management system, using Java, C++ and HTTP (5/96 - present): Developed an object-oriented design for the system using OMG IDL.",
+    "link": [
+        "http://www.cs.nmsu.edu/~vmahesh/graphics/vani.gif",
+        "http://crl.nmsu.edu/users/mahesh/glossaryeditor/",
+        "http://crl.nmsu.edu/~rzajac"
+    ],
+    "ground_truth": "unknow"
+}

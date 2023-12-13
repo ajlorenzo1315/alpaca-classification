@@ -1,0 +1,10 @@
+{
+    "Title": " Tobias' Home Page ",
+    "Body": "Date: Tue, 26 Nov 1996 02:52:05 GMT Server: Apache/1.1.1 Content-type: text/html Content-length: 1897 Last-modified: Sun, 18 Aug 1996 21:17:59 GMT Tobias' Home Page ... to go flashing from one end of the world to the other both in mind and body; to try the manners of different nations; to hear the chimes at midnight; to see sunrise in town and country; to be converted at a revival and to circumnavigate the metaphysics!",
+    "link": [
+        "http://www.cs.columbia.edu",
+        "http://www.columbia.edu",
+        "http://www.cs.columbia.edu/graphics"
+    ],
+    "ground_truth": "student"
+}

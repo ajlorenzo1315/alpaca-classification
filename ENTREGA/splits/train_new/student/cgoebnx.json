@@ -1,0 +1,10 @@
+{
+    "Title": " Gediminas Adomavicius WWW Home Page ",
+    "Body": "Date: Tue, 26 Nov 1996 03:46:24 GMT Server: NCSA/1.4.1 Content-type: text/html Last-modified: Tue, 15 Oct 1996 21:51:34 GMT Content-length: 1881 Gediminas Adomavicius WWW Home Page Gediminas Adomavicius Ph.D. student Computer Science Department Courant Institute of Mathematical Sciences New York University My resume My research interests (coming soon) Courses I am taking.",
+    "link": [
+        "http://www.cs.nyu.edu",
+        "http://cims.nyu.edu",
+        "http://www.nyu.edu"
+    ],
+    "ground_truth": "student"
+}

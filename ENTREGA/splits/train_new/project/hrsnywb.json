@@ -1,0 +1,10 @@
+{
+    "Title": "Real-Time A.I.",
+    "Body": "The requirement for hard real-time response is clearly incompatible with the fundamentally time-bound, high-variance techniques of classical AI, and the inability to precisely characterize the performance and resource requirements of current reactive systems makes them equally unsuitable for use in hard real-time systems.",
+    "link": [
+        "http://www.cs.umd.edu/projects/plus/plus.html",
+        "http://www.cs.umd.edu/projects/amrl/amrl.html",
+        "http://www.cs.umd.edu/users/musliner/papers/tsmc.ps.Z"
+    ],
+    "ground_truth": "project"
+}

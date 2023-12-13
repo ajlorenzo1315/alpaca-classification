@@ -1,0 +1,10 @@
+{
+    "Title": "Fahad Hoymany",
+    "Body": "Date: Tue, 26 Nov 1996 17:53:38 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Thu, 21 Nov 1996 21:51:03 GMT Content-length: 2174 Fahad Hoymany Fahad A. Hoymany Computer Science Department, University of Pittsburgh Email\t     : fahad@cs.pitt.edu Home Address : 217 London Towne Dr. Pittsburgh, PA 15226 Phone\t     : 412 488 0404 (home) Items to Choose From Papers and information on multimedia/networking.",
+    "link": [
+        "http://www.cs.pitt.edu",
+        "http://www.pitt.edu",
+        "http://www.cs.pitt.edu/~fahad/multi.html"
+    ],
+    "ground_truth": "student"
+}

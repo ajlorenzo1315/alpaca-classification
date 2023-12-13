@@ -1,0 +1,10 @@
+{
+    "Title": "MetaCrawler Configuration",
+    "Body": "MetaCrawler will remember the options you choose, and next time you visit our site the configuration will be the same.",
+    "link": [
+        "http://www.fiesta.com",
+        "http://www.javasoft.com",
+        "http://www.netscape.com"
+    ],
+    "ground_truth": "other"
+}

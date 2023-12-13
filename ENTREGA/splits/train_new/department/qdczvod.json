@@ -1,0 +1,10 @@
+{
+    "Title": "UMR Computer Science Home Page",
+    "Body": "Date: Tue, 26 Nov 1996 23:15:09 GMT Server: NCSA/1.4.2 Content-type: text/html UMR Computer Science Home Page 325 Math-Computer Science Building 1870 Miner Circle Rolla  MO  65409-0350 Phone:  (573) 341-4491 Fax:  (573) 341-4501 E-mail: compsci@cs.umr.edu The local date is Tuesday, 26-Nov-96 17:15:09 CST MS Comprehensive Exam Questions ( New Item date: 9-27-96 ) Graduate Research Assistantship - GRA Position in Computer Science for PhD students.",
+    "link": [
+        "http://www.cs.umr.edu/campus.html",
+        "mailto:compsci@cs.umr.edu",
+        "http://www.cs.umr.edu/mscomp.html"
+    ],
+    "ground_truth": "department"
+}

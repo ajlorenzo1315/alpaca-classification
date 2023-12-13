@@ -1,0 +1,10 @@
+{
+    "Title": "The Center for Applied Mathematics-Cornell University",
+    "Body": "Rhodes Hall,Cornell University, Ithaca, NY 14853 (607) 255-4335 E-mail: applmath@cam.cornell.edu Welcome to the Center For Applied Math web site.",
+    "link": [
+        "http://cam.cornell.edu/drums.html",
+        "http://cam.cornell.edu/centinfo.html",
+        "http://cam.cornell.edu/cam.dir.html"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,9 @@
+{
+    "Title": "not ExTremE People area",
+    "Body": "This is NOT the way to go to the ExTremE People ® area !",
+    "link": [
+        "http://www.cs.washington.edu/homes/jamrozik/index.html",
+        "mailto:jamrozik@cs.washington.edu"
+    ],
+    "ground_truth": "unknow"
+}

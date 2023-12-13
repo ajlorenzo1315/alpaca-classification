@@ -1,0 +1,10 @@
+{
+    "Title": "Visualiztion for Instruction Homepage",
+    "Body": "Date: Tue, 14 Jan 1997 21:47:17 GMT Server: NCSA/1.5.1 Last-modified: Mon, 06 Jan 1997 16:49:53 GMT Content-type: text/html Content-length: 1047 Visualiztion for Instruction Homepage Visualization for Instruction Project Descriptions The Mic-1 Simulator Movies from XTANGO Auralization of XTANGO JOTSA Project Demos The Mic-1 Simulator Movies from XTANGO Auralization of XTANGO JOTSA Publications",
+    "link": [
+        "http://vip.cs.utsa.edu/mic1paper/mic1paper.ps",
+        "http://vip.cs.utsa.edu/flames/images/webmages/con1.gif",
+        "http://vip.cs.utsa.edu/personnel/papers/tangosound.ps"
+    ],
+    "ground_truth": "other"
+}

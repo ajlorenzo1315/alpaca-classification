@@ -1,0 +1,10 @@
+{
+    "Title": "A Prototyping System for Parallel and Distributed Applications",
+    "Body": "The Proteus system for the development of parallel applications.",
+    "link": [
+        "#1",
+        "#2",
+        "#3"
+    ],
+    "ground_truth": "other"
+}

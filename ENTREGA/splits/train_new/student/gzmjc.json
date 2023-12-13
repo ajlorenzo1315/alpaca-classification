@@ -1,0 +1,10 @@
+{
+    "Title": " Michael Boshra's Home Page ",
+    "Body": "The U of A is located in Edmonton , the capital of the Province of Alberta , Canada.",
+    "link": [
+        "http://www.cs.ualberta.ca/people/grad/gifs/michael.gif",
+        "http://www.cs.ualberta.ca/people/grad/aifc/michael.aifc",
+        "http://www.cs.ualberta.ca/"
+    ],
+    "ground_truth": "student"
+}

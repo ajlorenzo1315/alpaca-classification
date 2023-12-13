@@ -1,0 +1,9 @@
+{
+    "Title": "second coming",
+    "Body": "i'm 19, a sophomore at the university of wisconsin in madison, and i'm majoring in computer science.",
+    "link": [
+        "http://cgi.cs.wisc.edu/scripts/jmelski/button",
+        "mailto:jemelski@students.wisc.edu"
+    ],
+    "ground_truth": "other"
+}

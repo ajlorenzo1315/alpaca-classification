@@ -1,0 +1,10 @@
+{
+    "Title": "Dissertation Research Overview",
+    "Body": "While imprecision is inherent in any modeling task, it is also true that a model's precision can be improved with experience with the underlying physical process.",
+    "link": [
+        "http://www.cs.utexas.edu/users/bert/sqsim.html",
+        "http://www.cs.utexas.edu/users/bert/squid.html",
+        "http://www.cs.utexas.edu/users/bert/index.html"
+    ],
+    "ground_truth": "other"
+}

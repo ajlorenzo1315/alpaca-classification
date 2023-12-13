@@ -1,0 +1,10 @@
+{
+    "Title": "Al Carruth",
+    "Body": "Introduction I am a Ph.D. candidate at UT-Austin in the Department of Computer Sciences.",
+    "link": [
+        "mailto:carruth@cs.utexas.edu",
+        "http://wwwhost.cc.utexas.edu/",
+        "http://www.cs.utexas.edu/"
+    ],
+    "ground_truth": "unknow"
+}

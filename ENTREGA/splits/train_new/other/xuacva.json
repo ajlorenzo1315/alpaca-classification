@@ -1,0 +1,8 @@
+{
+    "Title": "CS 537 - Quiz #5",
+    "Body": "Probably true: SCTF scheduling requires knowledge of how much time a process is going to take.",
+    "link": [
+        "http://www.cs.wisc.edu/~bart"
+    ],
+    "ground_truth": "other"
+}

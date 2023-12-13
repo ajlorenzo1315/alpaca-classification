@@ -1,0 +1,10 @@
+{
+    "Title": "Cryptology Bibliography for CS182",
+    "Body": "RB: The key result in the downfall of knapsack cryptosystems.",
+    "link": [
+        "mailto:rbull@pomona.edu",
+        "mailto:Jonathan_Herzog@hmc.edu",
+        "mailto:Jeffrey_Margileth@hmc.edu"
+    ],
+    "ground_truth": "other"
+}

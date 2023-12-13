@@ -1,0 +1,8 @@
+{
+    "Title": "\nUsing the GNU Emacs/Common Lisp Interface",
+    "Body": "For example, typing emacs foo.cl will open the file foo.cl for editing in a special Common Lisp mode buffer that allows you to do things like skip forward and backward by S-expressions, look up the definition of a symbol in the online Common Lisp manual, get a list of what functions call a particular function, and so on.",
+    "link": [
+        "http://www.cs.washington.edu/htbin/info2www?(lab/tn162.info)"
+    ],
+    "ground_truth": "other"
+}

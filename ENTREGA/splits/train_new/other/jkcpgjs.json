@@ -1,0 +1,10 @@
+{
+    "Title": "What's New",
+    "Body": "Date: Tue, 14 Jan 1997 20:49:42 GMT Server: Apache/1.0.5 Content-type: text/html Content-length: 1428 Last-modified: Fri, 04 Oct 1996 19:48:37 GMT What's New CS A10: Introduction to Computer Programming This is a brief summary of changes to made to the A10 Web pages and FTP files.",
+    "link": [
+        "http://www.cs.nwu.edu/academics/courses/a10/fall-96/lectures/circular-reasoning.html",
+        "http://www.cs.nwu.edu/academics/courses/a10/fall-96/lectures/index.html",
+        "http://www.cs.nwu.edu/academics/courses/a10/compile-notes/Borland-Turbo/tc-checklist.html"
+    ],
+    "ground_truth": "other"
+}

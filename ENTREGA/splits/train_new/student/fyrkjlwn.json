@@ -1,0 +1,10 @@
+{
+    "Title": "Taxiao Wang's Home Page",
+    "Body": "Date: Thu, 07 Nov 1996 19:15:33 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Wed, 26 Jun 1996 16:54:30 GMT Content-length: 1778 Taxiao Wang's Home Page Welcome to Taxiao Wang's Home Page This page is under heavy construction.",
+    "link": [
+        "http://www.cs.wisc.edu/cgi-bin/finger?twang@cs.wisc.edu",
+        "http://www.cs.wisc.edu/",
+        "http://www.wisc.edu"
+    ],
+    "ground_truth": "student"
+}

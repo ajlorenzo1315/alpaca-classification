@@ -1,0 +1,10 @@
+{
+    "Title": " Neural Networks Resources Home Page ",
+    "Body": "Date: Tue, 14 Jan 1997 23:23:46 GMT Server: Apache/1.1.1 Content-type: text/html Content-length: 11645 Last-modified: Mon, 01 Apr 1996 01:44:26 GMT Neural Networks Resources Home Page Neural Networks Resources Page Neural Networks IEEE Neural Networks Homepage NIPS 95 Workshop Benchmarking of NN learning algorithms NIPS 95 Workshop on Time-Series Analysis NIPS 95 Workshop Learning to Learn: Knowledge Consolidation and Transfer in Inductive Systems NIPS 95 Workshop on Learning in Bayesian Networks and Other Graphical Models (conference), (workshop) International Conference on Network Networks (ICNN) 96 home page International Neural Network Society (INNS) home page Univ Of Texas Autin Neural Nets page Neural Nets course Neural Networks Neuroprose Archive UTCS Neural Nets Research Group University of Amsterdam Robotics and Neurocomputing Navlab Home Page Combining Neural Networks NIPS Neural Network Benchmark Home Page UCL-DICE Neural Net Group NN ESANN96:European Symposium On ANNs Neural Processing Letters WWW Neural Network Home Pages and Bibliographic Searches DSI Neural Networks group DSI ANN group.",
+    "link": [
+        "http://www.ieee.org/nnc",
+        "http://wwwipd.ira.uka.de/~prechelt/NIPS_bench.html",
+        "http://www.cs.colorado.edu/~andreas/Time-Series/NIPS95_ToC.html"
+    ],
+    "ground_truth": "other"
+}

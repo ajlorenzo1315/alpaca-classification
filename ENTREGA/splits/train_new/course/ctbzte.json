@@ -1,0 +1,10 @@
+{
+    "Title": "EECS 427 Home Page",
+    "Body": "Server: Netscape-Commerce/1.12 Date: Tuesday, 26-Nov-96 19:12:07 GMT Last-modified: Tuesday, 26-Nov-96 16:47:14 GMT Content-length: 4949 Content-type: text/html EECS 427 Home Page EECS 427 Home Page Fall Term 1996 Ronald J. Lomax Treadmill Controller with a 16 bit RISC core - Designed by Mike McCurdy, Marius Evers, Ed Veeser, Mike Anderson and Demetrios Papageorgiou - Winter '96 Class Project and WINNER of the 1996 VLSI Contest!",
+    "link": [
+        "http://www.eecs.umich.edu/under-couns/EECSHOMEPAGE/html/courses.html#427",
+        "http://www-personal.engin.umich.edu/~rjl/eecs427/information.html",
+        "http://www-personal.engin.umich.edu/~rjl/eecs427/intro.html"
+    ],
+    "ground_truth": "course"
+}

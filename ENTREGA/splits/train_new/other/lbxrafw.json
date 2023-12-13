@@ -1,0 +1,10 @@
+{
+    "Title": "Search CS Resumé Bank",
+    "Body": "Date: Tue, 14 Jan 1997 19:54:46 GMT Server: Apache/1.1.1 Content-type: text/html Search CS Resumé Bank Search The Resumé Bank Any Computer Science student with a listing on the Personal Pages is eligible to be listed in the Computer Science Resumé Bank.",
+    "link": [
+        "http://www.cs.tamu.edu/Resumes/access/",
+        "http://www.cs.tamu.edu/Resumes//",
+        "http://www.cs.tamu.edu/ips/"
+    ],
+    "ground_truth": "other"
+}

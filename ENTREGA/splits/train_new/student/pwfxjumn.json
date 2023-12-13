@@ -1,0 +1,10 @@
+{
+    "Title": "Steven Hofmeyr's Home Page",
+    "Body": "Date: Tue, 26 Nov 1996 03:05:17 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Tue, 05 Nov 1996 02:17:56 GMT Content-length: 1945 Steven Hofmeyr's Home Page Steven Andrew Hofmeyr Current Status Since 1994 Steven Hofmeyr has been a graduate student in the Phd program in the Computer Science Department at the University of New Mexico .",
+    "link": [
+        "http://www.cs.unm.edu/~steveah/steve2.jpg",
+        "http://www.cs.unm.edu/Engr_Schl/CS_Dept/subpages/curriculum/gradhndbk/phd/Phd_front.html",
+        "http://www.cs.unm.edu/"
+    ],
+    "ground_truth": "student"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": " Marci's Home Away From Home Page ",
+    "Body": "Date: Tue, 05 Nov 1996 21:49:46 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Mon, 29 Apr 1996 04:21:30 GMT Content-length: 2325 Marci's Home Away From Home Page This page was brought to you by the letter A and the number 7.",
+    "link": [
+        "mailto:mkmccoy@students.wisc.edu",
+        "http://www.lafollette.wisc.edu/",
+        "http://www.cs.wisc.edu/~amir/"
+    ],
+    "ground_truth": "other"
+}

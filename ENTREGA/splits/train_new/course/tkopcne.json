@@ -1,0 +1,10 @@
+{
+    "Title": "CIS607 Quantum Computing",
+    "Body": "It takes FOREVER to download it from Israel, but it's quite fast to get from www.ph.unimelb.edu.au/~schmuel If you come across other pages that should be mentioned here, send me mail at cwilson@cs.uoregon.edu .",
+    "link": [
+        "http://netlib.bell-labs.com/netlib/att/math/people/shor/links.html",
+        "http://xxx.lanl.gov/find/quant-ph",
+        "http://vesta.physics.ucla.edu/~smolin/"
+    ],
+    "ground_truth": "course"
+}

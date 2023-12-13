@@ -1,0 +1,10 @@
+{
+    "Title": "CS302, Sections 16 and 17",
+    "Body": "Instructor: Chris Weaver Email: weaver@cs.wisc.edu (and my email policy ) Office: Computer Science and Statistics 1302 Office Phone: (608)262-6600 Office Hours: MW 400-500, R 400-600, and by appointment (Office hours in the lab, 1350 CS, for the first two weeks.)",
+    "link": [
+        "http://www.cs.wisc.edu/~weaver/cs302/policies/announcements.html",
+        "http://www.cs.wisc.edu/~weaver/weaver.html",
+        "mailto:weaver@cs.wisc.edu"
+    ],
+    "ground_truth": "course"
+}

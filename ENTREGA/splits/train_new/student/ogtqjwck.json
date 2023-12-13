@@ -1,0 +1,10 @@
+{
+    "Title": "Personal page",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Thursday, 21-Nov-96 22:29:55 GMT Content-Type: text/html Content-Length: 1229 Last-Modified: Friday, 08-Mar-96 06:02:42 GMT Personal page Welcome to My Favorite Links Northeastern University College of Computer Science Korean Internet Korean Newspaper(Chosun) Playboy My name is Jung-Kyu, Yang.",
+    "link": [
+        "http://www.neu.edu/",
+        "http://www.ccs.neu.edu/",
+        "http://www.kimsoft.com/"
+    ],
+    "ground_truth": "student"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Image and Video Transition FX for Rivl",
+    "Body": "The purpose of this project is to extend the set of primitives and use them for creating complex transitional effects between two images or video sequences.",
+    "link": [
+        "http://www.cs.cornell.edu/Info/People/joseluis/joseluis.html",
+        "http://orac.ee.cornell.edu/unit1/valerie/index.html",
+        "http://www.cs.cornell.edu/Info/People/amith/yam.html"
+    ],
+    "ground_truth": "other"
+}

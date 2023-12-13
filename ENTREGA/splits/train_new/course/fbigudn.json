@@ -1,0 +1,10 @@
+{
+    "Title": "590MV",
+    "Body": "In Proc.",
+    "link": [
+        "papers/eff-sched.ps",
+        "papers/markatos.s92.ps",
+        "papers/zima.ps"
+    ],
+    "ground_truth": "course"
+}

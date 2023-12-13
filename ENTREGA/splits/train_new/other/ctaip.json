@@ -1,0 +1,10 @@
+{
+    "Title": "CSE 451 Notes Page",
+    "Body": "Date: Mon, 02 Dec 1996 14:46:22 GMT Server: NCSA/1.4.2 Content-type: text/html CSE 451 Notes Page CSE 451 Operating Systems Lecture Notes Autumn 1996 Lecture 1:  Operating Systems September 30, 1996 Slides, 1/page or Slides, 4/page Lecture 2:  Architectural Support for OS October 2, 1996 Slides, 1/page or Slides, 4/page Lecture 3:  OS Components and Structure October 4, 1996 Slides, 1/page or Slides, 4/page Lecture 4:  Processes and Process Management Slides, 1/page or Slides, 4/page Lecture 5:  Threads Slides, 1/page or Slides, 4/page Lecture 6:  Synchronization Slides, 1/page or Slides, 4/page Lecture 7: More Synchronization  [NEW FORMAT!!!]",
+    "link": [
+        "http://www.cs.washington.edu/education/courses/451/Au96/Notes/lec1-1.ps",
+        "http://www.cs.washington.edu/education/courses/451/Au96/Notes/lec1-4.ps",
+        "http://www.cs.washington.edu/education/courses/cse451/Au96/Notes/lec2-1.ps"
+    ],
+    "ground_truth": "other"
+}

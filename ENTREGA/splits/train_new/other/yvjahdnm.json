@@ -1,0 +1,10 @@
+{
+    "Title": "Andrew Glew's Bookmarks",
+    "Body": "Date: Tue, 05 Nov 1996 21:14:57 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Thu, 31 Oct 1996 00:27:33 GMT Content-length: 36250 Andrew Glew's Bookmarks Andrew Glew's Bookmarks URouLette CS739 Fall 1996 CS 739 Project Suggestions (Spring 96) Fun Wisconsin Hoofers Home Page UWisconsin WiscINFO Web Server University of Wisconsin-Madison Electronic Library Wisconsin Hoofers Home Page Information Technology Architecture at UW-Madison Architecture Home Page UW-Madison Graduate School Catalog: Engineering College of Engineering -- University of Wisconsin-Madison Electrical and Computer Engineering UW-Madison Graduate School Catalog UW CS Home Page Office of the Registrar UWi/Business UW-Madison School of Business, Joyce Erdman Center UW-Madison School of Business, Home Managing Technological Change -- Prof. Urban Wemmerlov Computer Sciences Department Suggestion Box Condor Homepage UWi/CS/CSLab Sysadmin group for UWisc CS Gnuplot CSL page Computer Systems Lab Facilities Chargeback Schedule CSL Policy on Privately Owned Workstations CSL Texi Files -- Extended Listing CSL Texi Files -- Extended Listing Electronic Mail FAQ Topics AFS distributed filesystem FAQ AFS distributed filesystem FAQ - 3.18 What is the Andrew Benchmark?",
+    "link": [
+        "http://www.uroulette.com:8000/",
+        "http://www.cs.wisc.edu/~cao/cs739/cs739.html",
+        "http://www.cs.wisc.edu/~cao/cs739/project-list.html"
+    ],
+    "ground_truth": "other"
+}

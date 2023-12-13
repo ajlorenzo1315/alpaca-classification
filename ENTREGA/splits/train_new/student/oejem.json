@@ -1,0 +1,10 @@
+{
+    "Title": "Laxmi Parida's Home Page",
+    "Body": "I am working in the area of Computer Vision with Davi Geiger and Robert Hummel .",
+    "link": [
+        "http://cs.nyu.edu/cs/courantnyu.html",
+        "http://nyu.edu/docs/wsq-campus.html",
+        "http://nyweb.com/mainmenu.html"
+    ],
+    "ground_truth": "student"
+}

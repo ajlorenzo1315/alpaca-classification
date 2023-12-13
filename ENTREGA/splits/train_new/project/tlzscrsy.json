@@ -1,0 +1,10 @@
+{
+    "Title": "Microrobots",
+    "Body": "Date: Tue, 26 Nov 1996 00:02:21 GMT Server: Apache/1.2-dev Connection: close Content-Type: text/html Expires: Tue, 26 Nov 1996 00:02:21 GMT Last-Modified: Fri, 15 Mar 1996 05:41:10 GMT ETag: \"8d554-721-314902f6\" Content-Length: 1825 Accept-Ranges: bytes Microrobots Microrobots One of the goals of the Microrobotics group of the MIT Artificial Intelligence Laboratory is to develop new techniques for the construction of miniature mobile robots .",
+    "link": [
+        "http://www.ai.mit.edu/projects/microrobots//",
+        "http://www.ai.mit.edu/projects/mobile-robots",
+        "http://www.ai.mit.edu/projects/ants"
+    ],
+    "ground_truth": "project"
+}

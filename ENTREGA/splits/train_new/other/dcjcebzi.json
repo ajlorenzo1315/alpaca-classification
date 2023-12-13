@@ -1,0 +1,10 @@
+{
+    "Title": "Ariel -> Rule Optimization Project",
+    "Body": "Work with Yi to develop new cost functions for Gator networks with virtual alpha memories and indexed memory nodes.",
+    "link": [
+        "http://www.cis.ufl.edu/~hanson",
+        "http://www.cis.ufl.edu/~sre",
+        "http://www.cis.ufl.edu/~yg0"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "CSE 143 Quizzes",
+    "Body": "Date: Mon, 02 Dec 1996 14:25:15 GMT Server: NCSA/1.4.2 Content-type: text/html CSE 143 Quizzes CSE 143 Quizzes We administer weekly quizzes in section, typically on Thursdays where there is no other exam.",
+    "link": [
+        "q1/quiz1.html",
+        "q1/quiz1.sol.html",
+        "q2/quiz2.html"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": " Merging ",
+    "Body": "This research is investigating several issues that must be resolved to establish this hypothesis including simultaneous merging of an arbitrary number of objects, merging of user-defined objects, real-time merging of user-interface objects, merging in a mobile environment, abstractions for specifying merge procedures, and the relationship between merging and other collaboration functions such as concurrency control.",
+    "link": [
+        "http://www.cise.nsf.gov/iris/ITOhome.html",
+        "http://www.cs.unc.edu/~dewan",
+        "http://www.cs.unc.edu/~munson"
+    ],
+    "ground_truth": "unknow"
+}

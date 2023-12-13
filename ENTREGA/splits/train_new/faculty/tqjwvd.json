@@ -1,0 +1,10 @@
+{
+    "Title": "Willy Zwaenepoel",
+    "Body": "and Ph.D. from Stanford University in 1980 and 1984, respectively.",
+    "link": [
+        "http://www.rug.ac.be/",
+        "http://www.stanford.edu/",
+        "http://www.rice.edu/"
+    ],
+    "ground_truth": "faculty"
+}

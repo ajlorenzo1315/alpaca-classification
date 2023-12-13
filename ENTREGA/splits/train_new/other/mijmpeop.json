@@ -1,0 +1,6 @@
+{
+    "Title": " Program 3 - Ray Tracing ",
+    "Body": "You should use the Phong lighting model to evaluate the local illumination for each point, so you will also need a routine to evaluate this model.",
+    "link": [],
+    "ground_truth": "other"
+}

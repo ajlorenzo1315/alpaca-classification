@@ -1,0 +1,10 @@
+{
+    "Title": " Cornell Department of Computer Science ",
+    "Body": "Faculty Find a list of the Faculty and check out their \"official\" Annual Report home pages or their personal home pages.",
+    "link": [
+        "http://www.cs.cornell.edu/Info/General.html",
+        "http://www.cs.cornell.edu/Info/Academic.html",
+        "http://www.cs.cornell.edu/Info/Faculty/faculty-list.html"
+    ],
+    "ground_truth": "unknow"
+}

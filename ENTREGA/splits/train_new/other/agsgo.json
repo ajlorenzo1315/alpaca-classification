@@ -1,0 +1,10 @@
+{
+    "Title": " Program 3 ",
+    "Body": "These functions are the following: string random_secret_phrase (); Returns a string that is a\"random\" secret phrase to use in the hangman game.",
+    "link": [
+        "#functions",
+        "#vectra",
+        "#borland"
+    ],
+    "ground_truth": "other"
+}

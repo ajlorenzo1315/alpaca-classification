@@ -1,0 +1,10 @@
+{
+    "Title": "Roy Friedman",
+    "Body": "R. Friedman, M. Goldin, A. Itzkovitz, and A. Schuster, Millipede: Easy Parallel Programming in Available Distributed Environments.",
+    "link": [
+        "http://cs-tr.cs.cornell.edu:80/Dienst/UI/2.0/Describe/ncstrl.cornell%2fTR95-1537?abstract=",
+        "http://cs-tr.cs.cornell.edu:80/Dienst/UI/2.0/Describe/ncstrl.cornell%2f\nTR96-1605?abstract=",
+        "http://cs-tr.cs.cornell.edu:80/Dienst/UI/2.0/Describe/ncstrl.cornell%2fTR96-1610?abstract="
+    ],
+    "ground_truth": "other"
+}

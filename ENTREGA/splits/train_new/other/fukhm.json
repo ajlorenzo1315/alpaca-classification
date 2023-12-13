@@ -1,0 +1,10 @@
+{
+    "Title": "Islensk heimasida",
+    "Body": "í stærðfræði frá Háskóla Íslands 1992 og M.S.",
+    "link": [
+        "http://cam.cornell.edu/~jonsson/index.html",
+        "http://cam.cornell.edu/",
+        "http://www.cornell.edu/"
+    ],
+    "ground_truth": "other"
+}

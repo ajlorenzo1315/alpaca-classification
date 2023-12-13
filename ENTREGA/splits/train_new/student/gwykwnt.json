@@ -1,0 +1,10 @@
+{
+    "Title": " sri.html ",
+    "Body": "Office: 225D College of Computing, Georgia Tech.",
+    "link": [
+        "http://www.cc.gatech.edu/",
+        "http://www.gatech.edu/TechHome.html",
+        "http://www.cc.gatech.edu/grads/d/Srinivas.Doddapaneni/abstract.html"
+    ],
+    "ground_truth": "student"
+}

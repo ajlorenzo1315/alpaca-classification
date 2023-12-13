@@ -1,0 +1,10 @@
+{
+    "Title": "Welcome to The Programmers' Playground!",
+    "Body": "Washington University Department of Computer Science The Programmers' Playground Playground is a programming model and a set of software tools to support end-user construction of distributed multimedia applications from modular software building blocks.",
+    "link": [
+        "http://www.cs.wustl.edu/cs/playground/model.html",
+        "http://www.cs.wustl.edu/cs/playground/tools.html",
+        "http://www.cs.wustl.edu/cs/playground/demos.html"
+    ],
+    "ground_truth": "other"
+}

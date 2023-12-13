@@ -1,0 +1,10 @@
+{
+    "Title": "Mike Jones' Home Page",
+    "Body": "Here is a list of my publications: Michael J. Jones and Tomaso Poggio, \" Model-Based Matching by Linear Combinations of Prototypes ,\" MIT AI Memo, Sept 1996.",
+    "link": [
+        "http://www.ai.mit.edu/projects/cbcl/web-homepage/web-homepage.html",
+        "http://www.ai.mit.edu/projects/cbcl/res-area/current-html/mjones/project.html",
+        "http://www.ai.mit.edu/~mjones/real-models.ps"
+    ],
+    "ground_truth": "student"
+}

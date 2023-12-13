@@ -1,0 +1,10 @@
+{
+    "Title": "Francesmary Modugno's Home Page",
+    "Body": "Formal models of real-time, concurrent and distributed systems Parallel Algorthims Professional Activities: CHI 96 Basic Research Symposium Co-chair UIST 96 Demonstrations Co-Chair Education: Ph.D., Computer Science.",
+    "link": [
+        "http://www.cs.washington.edu/",
+        "http://www.washington.edu",
+        "http://www.seanet.com/Seattle/SeattleHome.html"
+    ],
+    "ground_truth": "staff"
+}

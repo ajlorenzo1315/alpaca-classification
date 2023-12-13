@@ -1,0 +1,10 @@
+{
+    "Title": " MIT Leg Lab Home Page \n",
+    "Body": "We are specialists in the exploring the roles of balance and dynamic control --- in other words, our robots really run, walk and hop, like mammals and birds.",
+    "link": [
+        "http://web.mit.edu/",
+        "http://www.ai.mit.edu/",
+        "http://www.ai.mit.edu/projects/leglab/background/background.html"
+    ],
+    "ground_truth": "unknow"
+}

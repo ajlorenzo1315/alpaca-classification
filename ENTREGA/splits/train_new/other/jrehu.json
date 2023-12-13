@@ -1,0 +1,8 @@
+{
+    "Title": "\nMinor Netscape Hacks\n",
+    "Body": "Use a binary editor to change the strings in the executable program.",
+    "link": [
+        "http://www.netscape.com/people/jwz"
+    ],
+    "ground_truth": "other"
+}

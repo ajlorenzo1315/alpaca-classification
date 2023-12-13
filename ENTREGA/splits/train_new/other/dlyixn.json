@@ -1,0 +1,10 @@
+{
+    "Title": " QPT ",
+    "Body": "However, QPT uses abstract execution to reduces the overhead of tracing to 2--6 times a program's untraced execution cost.",
+    "link": [
+        "http://www.cs.wisc.edu/~larus/eel.html",
+        "http://www.cs.wisc.edu/~larus/warts.html",
+        "http://www.cs.wisc.edu/~larus/warts.html"
+    ],
+    "ground_truth": "other"
+}

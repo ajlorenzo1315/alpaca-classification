@@ -1,0 +1,10 @@
+{
+    "Title": "\nCS195T: Introduction to Graduate Computer Science\n",
+    "Body": "In this talk we will explore a new way to design and engineer fault-tolerant solutions, which we call lightweight fault-tolerance.",
+    "link": [
+        "http://www.cs.utexas.edu/users/rdb",
+        "mailto:rdb@cs.utexas.edu",
+        "http://www.cs.utexas.edu/users/miranker"
+    ],
+    "ground_truth": "course"
+}

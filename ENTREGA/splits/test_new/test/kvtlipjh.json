@@ -1,0 +1,10 @@
+{
+    "Title": "CS 426 Home Page",
+    "Body": "Server: Netscape-Commerce/1.12 Date: Wednesday, 20-Nov-96 22:45:37 GMT Last-modified: Monday, 02-Oct-95 02:06:34 GMT Content-length: 2937 Content-type: text/html CS 426 Home Page CS 426: Computer Graphics 1995 Fall Semester Welcome to the CS 426 Home Page!",
+    "link": [
+        "mailto:cs426@cs.princeton.edu",
+        "news:pu.cs.426",
+        "http://www.CS.Princeton.EDU/courses/archive/fall95/cs426/personnel.html"
+    ],
+    "ground_truth": "unknow"
+}

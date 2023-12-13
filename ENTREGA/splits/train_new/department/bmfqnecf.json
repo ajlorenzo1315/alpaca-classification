@@ -1,0 +1,10 @@
+{
+    "Title": "Department of Computer Science Home Page",
+    "Body": "Date: Tue, 26 Nov 1996 22:30:46 GMT Server: NCSA/1.4.1 Content-type: text/html Last-modified: Mon, 25 Nov 1996 22:27:23 GMT Content-length: 4858 Department of Computer Science Home Page Department of Computer Science University of Idaho Moscow, Idaho 83844-1010 (208) 885-6589 Welcome to the Department of Computer Science Computer Science Computer Engineering College of Engineering University of Idaho Information about the Department of Computer Science.",
+    "link": [
+        "http://www.cs.uidaho.edu/",
+        "http://www.cs.uidaho.edu/compe.html",
+        "http://www.uidaho.edu/engr/"
+    ],
+    "ground_truth": "department"
+}

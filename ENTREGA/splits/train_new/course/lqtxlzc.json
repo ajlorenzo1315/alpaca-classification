@@ -1,0 +1,10 @@
+{
+    "Title": "CS A11 home page",
+    "Body": "Date: Wed, 20 Nov 1996 22:44:32 GMT Server: Apache/1.0.5 Content-type: text/html Content-length: 2886 Last-modified: Fri, 08 Nov 1996 03:37:51 GMT CS A11 home page Computer Science A11 Fundamentals of Computer Programming Fall, 1996 Course Info: ( Course Catalog Entry ) Location: Tech, Room L313 (Note: This is changed from schedule) Time: Monday, Tuesday, Wednesday, and Friday at 9:00-9:50 AM Instructor: Ken Forbus Institute for the Learning Sciences 1890 Maple Avenue, Room 300 forbus@ils.nwu.edu (847) 491-7699 TAs: Andy Bachmann , Katia Obradovic Institute for the Learning Sciences 1890 Maple Avenue, Room 308 a11@cs.nwu.edu (847) 467-1869 Office hours: Monday, 1:00-4:00 PM Introduction to A11 Download the latest version of Scheme48 with sockets from here .",
+    "link": [
+        "http://www.cs.nwu.edu/academics/courses/a11/csa11cat.htm",
+        "http://www.ils.nwu.edu/~e_for_e/people/forbus.html",
+        "mailto:forbus@ils.nwu.edu"
+    ],
+    "ground_truth": "course"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Judith Klavans",
+    "Body": "The kinds of systems that have used the results of my research have been: natural language parsers, machine translation systems, and text critiquing systems.",
+    "link": [
+        "http://www.cs.columbia.edu/~klavans/cria.html",
+        "http://www.cs.columbia.edu/~klavans/bio-klavans.html",
+        "http://www.cs.columbia.edu/~klavans/articles.html"
+    ],
+    "ground_truth": "unknow"
+}

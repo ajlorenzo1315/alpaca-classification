@@ -1,0 +1,10 @@
+{
+    "Title": "Smoothing Methods for Convex Inequalities and Linear Complementarity Problsms ",
+    "Body": "By means of this approximation, linear and convex inequalities are converted into smooth, convex unconstrained minimization problems, the solution of which approximates the solution of the original problem to a high degree of accuracy for \\bold{\\alpha} sufficien tly large.",
+    "link": [
+        "http://www.cs.wisc.edu/Dienst/Repository/2.0/Body/ncstrl.uwmadison%2fCS-TR-93-1191/postscript",
+        "http://www.cs.wisc.edu/Dienst/UI/2.0/Print/ncstrl.uwmadison%2fCS-TR-93-1191",
+        "http://www.cs.wisc.edu/Dienst/UI/2.0/Search"
+    ],
+    "ground_truth": "unknow"
+}

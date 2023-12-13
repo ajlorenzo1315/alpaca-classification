@@ -1,0 +1,10 @@
+{
+    "Title": "ECMP 280 Home Page",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Tuesday, 26-Nov-96 20:22:36 GMT Content-Type: text/html Content-Length: 1267 Last-Modified: Tuesday, 29-Oct-96 20:58:50 GMT ECMP 280 Home Page ECMP 280: Logic Design of Digital Systems Home Page Course Syllabus Course Contents Course Policy Recitation Schedule Homework Announcements and Solutions Exam Announcements and Solutions Design Project Announcements Supplementary Notes on Digital Electronics Feedback Form Office Hours HARDWARE DESIGN LAB NUMBER 1!!!",
+    "link": [
+        "http://bear.ces.cwru.edu/ecmp_280/syllabus.html",
+        "http://bear.ces.cwru.edu/ecmp_280/contents.html",
+        "http://bear.ces.cwru.edu/ecmp_280/policy.html"
+    ],
+    "ground_truth": "course"
+}

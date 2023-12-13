@@ -1,0 +1,10 @@
+{
+    "Title": " CS395T, Mining and Monitoring Databases ",
+    "Body": "Students may develop their own projects or may pick one from a list that will include a revised version of the World-Wide Herbarium (.ps) project successfully executed by students last year in CS386 Database Management.",
+    "link": [
+        "http:/users/miranker/alamo/index.html",
+        "http:/users/miranker/395t/projects.html",
+        "http:/users/miranker/395t/old/wwh-project.ps"
+    ],
+    "ground_truth": "unknow"
+}

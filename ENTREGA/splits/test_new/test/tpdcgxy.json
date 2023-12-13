@@ -1,0 +1,10 @@
+{
+    "Title": "\nUTCS Publications\n",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Wednesday, 08-Jan-97 16:46:52 GMT Content-Type: text/html Content-Length: 1406 Last-Modified: Thursday, 30-May-96 15:13:34 GMT UTCS Publications UTCS Publications 1994-5 Annual Report 1996 Newsletter Technical reports Department reports and index AI Laboratory reports and abstracts Networked Computer Science Technical Reports Library NCSTRL (pronounced \"ancestral\") is an international collection of computer science technical reports from CS departments and industrial and government research laboratories.",
+    "link": [
+        "http://www.cs.utexas.edu/users/UTCS/report/1995/",
+        "http://www.cs.utexas.edu/users/UTCS/newsletter/1996/",
+        "ftp://ftp.cs.utexas.edu/pub/techreports/"
+    ],
+    "ground_truth": "unknow"
+}

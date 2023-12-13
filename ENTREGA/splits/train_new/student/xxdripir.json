@@ -1,0 +1,10 @@
+{
+    "Title": "\nDon Padgett\n",
+    "Body": "We have devised a prototype domain-specific language for specifying device control softare called VDL (Virtual Device Language).",
+    "link": [
+        "manual.ps",
+        "c8253.pcn",
+        "c8253.vcm"
+    ],
+    "ground_truth": "student"
+}

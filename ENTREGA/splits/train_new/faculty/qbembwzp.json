@@ -1,0 +1,10 @@
+{
+    "Title": "Ahmed Sameh",
+    "Body": "Current interests include(i) the development of preconditioned iterative parallel algorithms for solving those linear systems that arise from the finite element discretization of the 3-D Navier-Stokes equations in fluid dynamics, and (ii) the design and implementation of Problem Solving Environments (PSE's) on parallel platforms.",
+    "link": [
+        "mailto:sameh@cs.umn.edu",
+        "http://www.cs.umn.edu/~sameh",
+        "http://www.cs.umn.edu/footer.map"
+    ],
+    "ground_truth": "faculty"
+}

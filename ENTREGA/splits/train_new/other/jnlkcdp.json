@@ -1,0 +1,9 @@
+{
+    "Title": "Lisp / X Drawing Demo",
+    "Body": "Enter your X display name here if needed; you may need to change what is shown in the box to your X display name.",
+    "link": [
+        "http://www.cs.utexas.edu/users/novak/dwindow.html",
+        "http://www.cs.utexas.edu/users/novak/index.html"
+    ],
+    "ground_truth": "other"
+}

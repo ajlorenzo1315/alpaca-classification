@@ -1,0 +1,10 @@
+{
+    "Title": "Rich Sutton's Home Page",
+    "Body": "In some sense it is the only thing that is real, and from it all our sense of the world is created.",
+    "link": [
+        "http://www.cs.umass.edu/",
+        "http://www.cs.umass.edu/rcfdocs/newhome/",
+        "http://www-astro.phast.umass.edu/guest/amherst.html"
+    ],
+    "ground_truth": "faculty"
+}

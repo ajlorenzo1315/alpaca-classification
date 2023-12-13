@@ -1,0 +1,10 @@
+{
+    "Title": "\nProbabilistic Temporal Reasoning\n",
+    "Body": "Date: Tue, 10 Dec 1996 15:17:46 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Wed, 28 Feb 1996 00:57:32 GMT Content-length: 2189 Probabilistic Temporal Reasoning Probabilistic Temporal Reasoning Developing models of temporal reasoning (essentially, reasoning about dynamical systems) is just about as old as AI itself, and has been tackled using monotonic and non-monotonic logical frameworks, and more recently using probabilistic models.",
+    "link": [
+        "http://www.stat.washington.edu:80/aumann/",
+        "http://www.stat.washington.edu/",
+        "http://www.washington.edu/"
+    ],
+    "ground_truth": "other"
+}

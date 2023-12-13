@@ -1,0 +1,10 @@
+{
+    "Title": " Cache Performance of the SPEC92 Benchmark Suite",
+    "Body": "Date: Tue, 05 Nov 1996 00:36:59 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Tue, 06 Aug 1996 19:39:22 GMT Content-length: 1908 Cache Performance of the SPEC92 Benchmark Suite Cache Performance of the SPEC92 Benchmark Suite By Jeffrey D. Gee, Mark D. Hill, Dionisios N. Pnevmatikatos, and Alan Jay Smith.",
+    "link": [
+        "ftp://ftp.cs.wisc.edu/markhill/SPEC92/micro_specmiss.ps",
+        "ftp://ftp.cs.wisc.edu/markhill/SPEC92/fullmissratios.ps",
+        "ftp://ftp.cs.wisc.edu/markhill/SPEC92/fullmissratios.ascii"
+    ],
+    "ground_truth": "other"
+}

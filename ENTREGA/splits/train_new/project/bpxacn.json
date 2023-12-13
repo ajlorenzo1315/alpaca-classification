@@ -1,0 +1,10 @@
+{
+    "Title": "Indiana University Cyclotron Controller",
+    "Body": "Date: Wed, 20 Nov 1996 19:16:07 GMT Server: Apache/1.0.3 Content-type: text/html Content-length: 1866 Last-modified: Wed, 29 Nov 1995 21:49:57 GMT Indiana University Cyclotron Controller Indiana University Cyclotron Controller Description: This joint project with the Indiana University Cyclotron Facility applies analog field computers as real-time controllers for the dipole and quadrupole electromagnets in the IUCF beam line.",
+    "link": [
+        "http://www.cs.indiana.edu/hyplan/jwmills/PROJECTS/afc.proj.html",
+        "http://www.cs.indiana.edu/hyplan/jwmills.html",
+        "mailto:jwmills@cs.indiana.edu"
+    ],
+    "ground_truth": "project"
+}

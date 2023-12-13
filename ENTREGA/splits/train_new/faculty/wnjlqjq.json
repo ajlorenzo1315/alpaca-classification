@@ -1,0 +1,10 @@
+{
+    "Title": " Rahul Simha's Home Page ",
+    "Body": "Date: Mon, 25 Nov 1996 23:31:41 GMT Server: NCSA/1.4.1 Content-type: text/html Last-modified: Tue, 22 Oct 1996 00:22:55 GMT Content-length: 3451 Rahul Simha's Home Page Rahul Simha Associate Professor of Computer Science Graduate Program Director Department of Computer Science Where to go from here: [ Contact info ] [ Teaching ] [ Research ] [ CS 710 projects ] [ Some useful web links ] [ College homepage ] [ Computer Science Dept ] Personal Postal address Department of Computer Science College of William and Mary P.O.",
+    "link": [
+        "http://www.cs.wm.edu/~simha/index.html#personal",
+        "http://www.cs.wm.edu/~simha/index.html#teaching",
+        "http://www.cs.wm.edu/~simha/index.html#research"
+    ],
+    "ground_truth": "faculty"
+}

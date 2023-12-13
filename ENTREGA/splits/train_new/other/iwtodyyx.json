@@ -1,0 +1,10 @@
+{
+    "Title": "Computer Science - New Undergradate Student Information",
+    "Body": "Date: Tue, 14 Jan 1997 19:58:15 GMT Server: Apache/1.1.1+ Content-type: text/html Content-length: 1244 Last-modified: Fri, 05 Jan 1996 23:29:43 GMT Computer Science - New Undergradate Student Information Information for New Undergraduate Students Welcome to the undergraduate Computer Science program at the University of Utah!",
+    "link": [
+        "http://www.cs.utah.edu/csinfo/handbook/departmental.html",
+        "http://www.cs.utah.edu/csinfo/undergraduate.ps",
+        "http://www.cs.utah.edu/csinfo//"
+    ],
+    "ground_truth": "other"
+}

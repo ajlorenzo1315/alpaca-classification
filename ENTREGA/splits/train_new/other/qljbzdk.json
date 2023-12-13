@@ -1,0 +1,10 @@
+{
+    "Title": "Dan's Autobio",
+    "Body": "My name is Dan Hung.",
+    "link": [
+        "http://www.cs.cornell.edu/Info/People/ddhung/autobio/walker.jpg",
+        "http://www.cs.cornell.edu/Info/People/ddhung/autobio/cool.gif",
+        "http://www.cs.cornell.edu/Info/People/ddhung/autobio/falchion.gif"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": " CSE643: Principles of Parallel Computing ",
+    "Body": "Topics include parallel algorithms, new computing paradigm of shared-memory, distributed-memory, data-parallel and data-flow models, techniques to improve parallelism, scheduling theory, and interconnection networks.",
+    "link": [
+        "http://wizard.cse.nd.edu/~esha",
+        "http://wizard.cse.nd.edu/~esha/cse643/abs.ps> course outline </a>.\nSome software used in the course may be found in\n/usr/local/courses/cse643.\n\n<h2> <A href=",
+        "http://wizard.cse.nd.edu/~esha/cse643/hw1/hw1.html"
+    ],
+    "ground_truth": "unknow"
+}

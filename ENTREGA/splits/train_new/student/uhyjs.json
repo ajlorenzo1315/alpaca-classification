@@ -1,0 +1,10 @@
+{
+    "Title": "Dave Grove",
+    "Body": "Play The day just wouldn't be complete without a Dilbert fix.",
+    "link": [
+        "http://www.cs.washington.edu/",
+        "http://www.washington.edu",
+        "http://www.cs.washington.edu/area/"
+    ],
+    "ground_truth": "student"
+}

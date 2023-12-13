@@ -1,0 +1,10 @@
+{
+    "Title": "Khalil's Home Page",
+    "Body": "Visit my advisor 's home page.",
+    "link": [
+        "mailto:kkhatib@cs.mcgill.ca",
+        "http://www.cs.mcgill.ca/~kkhatib/research1.html",
+        "http://www.cs.mcgill.ca/~kkhatib/carl/welcome.html"
+    ],
+    "ground_truth": "student"
+}

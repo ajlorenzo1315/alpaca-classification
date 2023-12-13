@@ -1,0 +1,10 @@
+{
+    "Title": "Student Modeling",
+    "Body": "This approach has been implemented as a computer program, ASSERT, using a machine learning technique called theory refinement , which is a method for automatically revising a knowledge base to be consistent with a set of examples.",
+    "link": [
+        "file://ftp.cs.utexas.edu/pub/mooney/papers/assert-aaai-96.ps.Z",
+        "file://ftp.cs.utexas.edu/pub/mooney/papers/assert-jaied-95.ps.Z",
+        "file://ftp.cs.utexas.edu/pub/mooney/papers/assert-dissertation-94.tar.Z"
+    ],
+    "ground_truth": "other"
+}

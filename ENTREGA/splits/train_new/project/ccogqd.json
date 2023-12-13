@@ -1,0 +1,10 @@
+{
+    "Title": " Digital Design Derivation ",
+    "Body": "This work links a large body of research in program refinement---to which this department has been a significant contributor---with other formal methods as applied to digital design.",
+    "link": [
+        "http://www.cs.indiana.edu/people/s/sjohnson.html",
+        "http://www.cs.indiana.edu/hyplan/bose.html",
+        "http://www.cs.indiana.edu/hyplan/kfisler.html"
+    ],
+    "ground_truth": "project"
+}

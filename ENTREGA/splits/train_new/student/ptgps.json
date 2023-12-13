@@ -1,0 +1,8 @@
+{
+    "Title": "Thomas O'Donnell",
+    "Body": "Date: Tue, 26 Nov 1996 02:50:54 GMT Server: Apache/1.1.1 Content-type: text/html Content-length: 876 Last-modified: Thu, 21 Sep 1995 22:18:53 GMT Thomas O'Donnell PhD student in Computer Vision working with Terry Boult.",
+    "link": [
+        "ftp://ftp.cs.columbia.edu/pub/odonnell/HVV.ps.Z"
+    ],
+    "ground_truth": "student"
+}

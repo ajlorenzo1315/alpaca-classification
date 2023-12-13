@@ -1,0 +1,10 @@
+{
+    "Title": "Homepage for James Demmel",
+    "Body": "This is an overview of work related to the symmetric eigenvalue problem in the LAPACK and ScaLAPACK projects.",
+    "link": [
+        "http://www.cs.berkeley.edu/",
+        "http://www.berkeley.edu/",
+        "http://www.netlib.org/lapack/index.html"
+    ],
+    "ground_truth": "faculty"
+}

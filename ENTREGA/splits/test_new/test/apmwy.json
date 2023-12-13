@@ -1,0 +1,10 @@
+{
+    "Title": "Kolla's so called friends",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Sunday, 01-Dec-96 19:55:58 GMT Content-Type: text/html Content-Length: 2861 Last-Modified: Sunday, 18-Aug-96 04:04:40 GMT Kolla's so called friends If your name is not here and you think you are my friend, please feel free to inform me.",
+    "link": [
+        "mailto:kolla@cs.cornell.edu",
+        "http://www.cs.fsu.edu/~krothapa",
+        "http://www.tisl.ukans.edu/~doppalap"
+    ],
+    "ground_truth": "unknow"
+}

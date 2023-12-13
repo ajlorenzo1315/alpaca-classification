@@ -1,0 +1,10 @@
+{
+    "Title": "The ACCEL Abductive Reasoning System",
+    "Body": "A more detailed description of this system can be found in the following publications: Hwee Tou Ng and Raymond Mooney, \"Abductive Plan Recognition and Diagnosis: A Comprehensive Empirical Evaluation,\" Proceedings of the Third International Conference on Principles of Knowledge Representation and Reasoning (KR-92), pp.",
+    "link": [
+        "ftp://ftp.cs.utexas.edu/pub/mooney/accel",
+        "http://www.cs.utexas.edu/users/ml/abduction.html",
+        "http://www.cs.utexas.edu/users/estlin/"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Alberto Medina's Home Page",
+    "Body": "Here you will find different kinds of information: about me, my family, my country (Venezuela), research interests, etc.",
+    "link": [
+        "mailto:amedina@ccs.neu.edu",
+        "http://www.ccs.neu.edu/finger?amedina",
+        "http://www.ccs.neu.edu/home/amedina/personal.html"
+    ],
+    "ground_truth": "student"
+}

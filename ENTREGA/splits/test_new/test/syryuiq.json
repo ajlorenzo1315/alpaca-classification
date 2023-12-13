@@ -1,0 +1,10 @@
+{
+    "Title": "Introduction to Computer Science",
+    "Body": "Due Wednesday, 25 September 1996, 1:10 PM.",
+    "link": [
+        "http://www.columbia.edu/~cs1007-2/handouts/",
+        "http://www.columbia.edu/~cs1007-2/roberts/",
+        "http://www.columbia.edu/~cs1007-2/notes/"
+    ],
+    "ground_truth": "unknow"
+}

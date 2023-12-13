@@ -1,0 +1,10 @@
+{
+    "Title": "\nDeview Main Page\n",
+    "Body": "Date: Tue, 26 Nov 1996 00:57:54 GMT Server: NCSA/1.5.1 Last-modified: Fri, 13 Sep 1996 16:55:08 GMT Content-type: text/html Content-length: 1824 Deview Main Page Deview is a project at the Computer Science departments of the University of Saskatchewan and the University of Alberta .",
+    "link": [
+        "http://www.cs.usask.ca/",
+        "http://web.cs.ualberta.ca/",
+        "http://www.cs.usask.ca/projects/metaview/people.html"
+    ],
+    "ground_truth": "project"
+}

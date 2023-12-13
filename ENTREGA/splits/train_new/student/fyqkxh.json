@@ -1,0 +1,10 @@
+{
+    "Title": " Mary Anne Egan Homepage ",
+    "Body": "Currently, I am a Ph.D. student in the Department of Computer Science at the Rensselaer Polytechnic Institute in Troy, N.Y.",
+    "link": [
+        "http://www.cs.rpi.edu/",
+        "http://www.rpi.edu/",
+        "http://www.siena.edu/"
+    ],
+    "ground_truth": "student"
+}

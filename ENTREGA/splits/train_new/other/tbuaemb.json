@@ -1,0 +1,10 @@
+{
+    "Title": "UT Austin Campus Kaleidoscope",
+    "Body": "Date: Mon, 06 Jan 1997 21:53:51 GMT Server: NCSA/1.5.2 Last-modified: Fri, 20 Dec 1996 23:14:00 GMT Content-type: text/html Content-length: 4209 UT Austin Campus Kaleidoscope E-mail/Phone directory.",
+    "link": [
+        "http://x500.utexas.edu/",
+        "http://www.utexas.edu/news/",
+        "http://stumedia.tsp.utexas.edu/webtexan/"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "CSC/ECE 505 title page",
+    "Body": "2, Sec.",
+    "link": [
+        "http://www.csc.ncsu.edu/departmental/courses/CSC505.html",
+        "http://www.csc.ncsu.edu/eos/info/csc505_info/www/soln1.ps",
+        "http://www.csc.ncsu.edu/eos/info/csc505_info/www/soln2.ps"
+    ],
+    "ground_truth": "course"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Design Automation Laboratory",
+    "Body": "Date: Tue, 26 Nov 1996 00:09:53 GMT Server: NCSA/1.5 MIME-version: 1.0 Content-type: text/html Last-modified: Thu, 14 Mar 1996 21:00:15 GMT Content-length: 1304 Design Automation Laboratory Design Automation Laboratory The Design Automation Laboratory consists of faculty members, graduate as well as undergraduate students pursuing research in the area of tools and methodologies for (mostly) VLSI design applications.",
+    "link": [
+        "http://www.cse.nd.edu/~cseda/faculty.html",
+        "http://www.cse.nd.edu/~cseda/students.html",
+        "http://www.cse.nd.edu/~cseda/research.html"
+    ],
+    "ground_truth": "project"
+}

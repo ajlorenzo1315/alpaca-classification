@@ -1,0 +1,10 @@
+{
+    "Title": "\nCS418 Lab 0\n",
+    "Body": "Issue a cd command to /afs/theory/tc/courses/cs418/tmp Make a directory for your materials Your First DX session.",
+    "link": [
+        "http://www.tc.cornell.edu/Visualization/tools/dx.html",
+        "http://www.cs.cornell.edu/",
+        "http://www.tc.cornell.edu/ctcIntro.html"
+    ],
+    "ground_truth": "other"
+}

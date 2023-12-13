@@ -1,0 +1,10 @@
+{
+    "Title": " Tian Zhang's Home Page ",
+    "Body": "Selected Publications Data Clustering System BIRCH and Its Applications (Tian Zhang, Raghu Ramakrishnan, Miron Livny), submitted to Data Mining and Knowledge Discovery Journal, June, 1996, U.S.A. BIRCH: An Efficient Data Clustering Method for Very Large Databases (Tian Zhang, Raghu Ramakrishnan, Miron Livny), in Proc.",
+    "link": [
+        "http://www.cs.wisc.edu/~raghu/raghu.html",
+        "http://www.cs.wisc.edu/~miron/miron.html",
+        "http://www.cs.wisc.edu/"
+    ],
+    "ground_truth": "unknow"
+}

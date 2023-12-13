@@ -1,0 +1,10 @@
+{
+    "Title": "Department of English",
+    "Body": "Undergraduate Program Highlights.",
+    "link": [
+        "http://www.dla.utexas.edu/cgi-bin/imagemap/depts/engl/moon.map",
+        "http://www.dla.utexas.edu/",
+        "news.html"
+    ],
+    "ground_truth": "other"
+}

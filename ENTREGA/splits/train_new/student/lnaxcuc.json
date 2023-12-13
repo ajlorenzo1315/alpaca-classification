@@ -1,0 +1,10 @@
+{
+    "Title": "Home Page: Ping Yuan",
+    "Body": "If you have any questions or comments about the page, please let me know.",
+    "link": [
+        "mailto: ping@cs.ualberta.ca",
+        "http://www.cs.ualberta.ca/cgi-bin/finger?ping@cs.ualberta.ca",
+        "http://web.cs.ualberta.ca/~ping/"
+    ],
+    "ground_truth": "student"
+}

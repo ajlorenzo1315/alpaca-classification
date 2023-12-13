@@ -1,0 +1,10 @@
+{
+    "Title": " Martin Arlitt ",
+    "Body": "I have co-authored a number of papers: ``Web Server Workload Characterization: The Search for Invariants'' , Proceedings of the 1996 ACM SIGMETRICS Conference on the Measurement and Modeling of Computer Systems , Philadelphia, PA, pp.",
+    "link": [
+        "http://www.cs.usask.ca/projects/discus/discus.html",
+        "http://www.cs.usask.ca/",
+        "http://www.usask.ca"
+    ],
+    "ground_truth": "unknow"
+}

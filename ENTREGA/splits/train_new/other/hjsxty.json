@@ -1,0 +1,10 @@
+{
+    "Title": "MEF's Mobile Computing Page",
+    "Body": "At the University of Washington I am part of a group working in the area.",
+    "link": [
+        "http://www.cs.washington.edu/research/mobicomp/mef/mobile/apr30_13.gif",
+        "http://www.cs.washington.edu/research/mobicomp/mef/mobile/apr30_12.gif",
+        "http://www.cs.washington.edu/research/mobicomp/mef/mobile/system.ps"
+    ],
+    "ground_truth": "other"
+}

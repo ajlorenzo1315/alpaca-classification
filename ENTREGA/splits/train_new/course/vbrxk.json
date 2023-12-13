@@ -1,0 +1,10 @@
+{
+    "Title": " CS 540 - Introduction to Artificial Intelligence ",
+    "Body": "Date: Mon, 11 Nov 1996 16:02:51 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Tue, 20 Aug 1996 21:51:43 GMT Content-length: 3090 CS 540 - Introduction to Artificial Intelligence CS 540 - Introduction to Artificial Intelligence General Course Information This course is offered each Fall and Spring semester.",
+    "link": [
+        "http:/~dyer/cs540.html",
+        "http:/~kunen/cs540.html",
+        "http:/~shavlik/cs540.html"
+    ],
+    "ground_truth": "course"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Ph.D. Program Home Page",
+    "Body": "Ph.D. Pre-Application If you are interested in applying to the Ph.D. program please fill out this pre-application and email it to phd@cs.cornell.edu.",
+    "link": [
+        "http://www.cs.cornell.edu/",
+        "http://www.cs.cornell.edu/Info/Department/Grad/PhDPre-application.htm",
+        "http://www.cs.cornell.edu/Info/Department/Grad/PhDApplicationGuide96-97.htm"
+    ],
+    "ground_truth": "other"
+}

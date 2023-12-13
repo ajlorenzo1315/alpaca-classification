@@ -1,0 +1,10 @@
+{
+    "Title": "Coral Database Project",
+    "Body": "Overview: Coral is a deductive system which supports a rich declarative language, and an interface to C++ which allows for a combination of declaritive and imperative programming.",
+    "link": [
+        "#Objective",
+        "#Overview",
+        "#Release_Info"
+    ],
+    "ground_truth": "project"
+}

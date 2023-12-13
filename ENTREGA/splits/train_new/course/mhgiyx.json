@@ -1,0 +1,10 @@
+{
+    "Title": "CIS 629: Computer Architecture, Fall 1996",
+    "Body": "Selected Readings -- Multiprocessor Architectures Each part of the course will be accompanied by a set of papers from the computer architecture literature.",
+    "link": [
+        "http://www.cs.uoregon.edu/~malony/",
+        "#new",
+        "#instructor"
+    ],
+    "ground_truth": "course"
+}

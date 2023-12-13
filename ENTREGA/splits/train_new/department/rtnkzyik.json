@@ -1,0 +1,10 @@
+{
+    "Title": "Kent State, Computer Science Program Home Page",
+    "Body": "Date: Tuesday, 26-Nov-96 22:55:29 GMT Server: NCSA/1.2 MIME-version: 1.0 Content-type: text/html Last-modified: Friday, 22-Nov-96 13:00:19 GMT Content-length: 8311 Kent State, Computer Science Program Home Page Kent State University Department of Mathematics and Computer Science Academic Program | Undergraduate | Graduate | Courses | Faculty | Research Groups | Projects Facilities | Equipment | Systems Information | Departmental Information | Student Organizations Personal Web Pages | Newsletters | OCSnet | Other Information Sources | Usage | NEW Welcome to the Kent State University Computer Science Program  WWW server.",
+    "link": [
+        "http://www.mcs.kent.edu/mcsinfo/csbrochure/csbrochure.html",
+        "http://www.mcs.kent.edu/mcsinfo/csbrochure/csbrochure.html",
+        "http://www.mcs.kent.edu/mcsinfo/csbrochure/ugrad.html"
+    ],
+    "ground_truth": "department"
+}

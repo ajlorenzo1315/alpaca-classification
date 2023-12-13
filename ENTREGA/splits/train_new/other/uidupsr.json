@@ -1,0 +1,10 @@
+{
+    "Title": "UW-Madison: Local Links ",
+    "Body": "Qualifying Exam in AI UW-Madison Computer Sciences Dept UW-Madison School of Letters & Sciences (home of the CS Dept) UW-Madison Graduate School UW-Madison Extension UW-Madison Library UW-Madison Home Page (hopefully this is under construction!)",
+    "link": [
+        "http://www.cs.wisc.edu/~dyer/images/madspxs-interlaced.gif",
+        "http://www.cs.wisc.edu/~shavlik//~shavlik/cs540-all.html",
+        "http://www.cs.wisc.edu/~shavlik//~shavlik/aisem/aisem.html"
+    ],
+    "ground_truth": "other"
+}

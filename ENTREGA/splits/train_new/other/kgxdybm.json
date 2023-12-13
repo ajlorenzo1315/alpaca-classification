@@ -1,0 +1,10 @@
+{
+    "Title": "Software Evolution Lab Projects for Undergraduate and Graduate Students",
+    "Body": "Examples of Smaller Projects Enhancement of C star diagram or CAWK programming tools to read and print source code with comments and related constructs.",
+    "link": [
+        "http://www-cse.ucsd.edu/users/wgg/swevolution.html",
+        "http://www-cse.ucsd.edu/users/wgg/research.html",
+        "http://www-cse.ucsd.edu/users/wgg/papers.html"
+    ],
+    "ground_truth": "other"
+}

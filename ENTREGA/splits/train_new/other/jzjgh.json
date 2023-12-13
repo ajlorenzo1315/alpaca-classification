@@ -1,0 +1,6 @@
+{
+    "Title": "CSE567 Homework Assignment #1",
+    "Body": "A 2-bit comparator compares two 2-bit numbers A and B and generates two results, A>B and A=B.",
+    "link": [],
+    "ground_truth": "other"
+}

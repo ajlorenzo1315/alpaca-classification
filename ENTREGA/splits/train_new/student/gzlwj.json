@@ -1,0 +1,10 @@
+{
+    "Title": "Mike Steele's WWW Homepage",
+    "Body": "I received my Bachelor's Degree in May 1996 from the University of Maryland's Computer Science Department .",
+    "link": [
+        "http://www.cs.wisc.edu/",
+        "http://www.wisc.edu",
+        "http://www.cs.wisc.edu/~shavlik/uwai.html"
+    ],
+    "ground_truth": "student"
+}

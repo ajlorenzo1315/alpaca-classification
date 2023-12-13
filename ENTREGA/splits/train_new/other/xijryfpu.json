@@ -1,0 +1,10 @@
+{
+    "Title": "Optimal Video Transmission",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Sunday, 01-Dec-96 20:07:04 GMT Content-Type: text/html Content-Length: 9271 Last-Modified: Thursday, 29-Feb-96 04:40:15 GMT Optimal Video Transmission Optimal Video Transmission By Mishaal Almashan Advised by Dexter Kozen MEng Project,  Fall 1995 Computer Science Department Cornell University Table of Contents Project Title Introduction Quick Overview of MPEG History Compression Algorithm MPEG Frames Motion Vectors Problem Aim of this Project Research Sources/Notes Links to Relavent Topics Demo output of current mpeg_weigh on RedsNightmare.mpg mpeg_weigh reads in an MPEG-1 video file and parses the frames to extract the motion vectors of blocks within the frames.",
+    "link": [
+        "http://www.cs.cornell.edu/Info/People/mishaal/home.html",
+        "http://www.cs.cornell.edu/Info/People/kozen/kozen.html",
+        "#Title"
+    ],
+    "ground_truth": "other"
+}

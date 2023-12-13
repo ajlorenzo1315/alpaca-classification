@@ -1,0 +1,10 @@
+{
+    "Title": "Information and Search",
+    "Body": "The JumpStation: A Web Search Tool CUI World Wide Web Searchable Catalog Veronica: a GOPHER Search Tool The Archie Gateway: search Anonymous FTP sites Global Network Acadamy's Meta-Library The CMU CS Department has put together an excellent collection of search tools.",
+    "link": [
+        "ftp://ftp.cs.cornell.edu/pub/brd/brd.html",
+        "http://www.cs.cornell.edu/",
+        "http://www.englib.cornell.edu/"
+    ],
+    "ground_truth": "unknow"
+}

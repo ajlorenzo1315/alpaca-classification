@@ -1,0 +1,10 @@
+{
+    "Title": "Scout Report Homepage",
+    "Body": "Organizations are encouraged to link to this page from their own Web pages, or to receive the HTML version of the Report each week via email for local posting at their site.",
+    "link": [
+        "http://www.cs.wisc.edu/scout/report/current/index.html",
+        "http://www.cs.wisc.edu/scout/report/archive/index.html",
+        "http://www.cs.wisc.edu/scout/report/AT-scout_reportquery.html"
+    ],
+    "ground_truth": "other"
+}

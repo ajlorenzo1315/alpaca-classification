@@ -1,0 +1,10 @@
+{
+    "Title": "Collette's Home Page",
+    "Body": "here at UNH in 1993 and is working toward her M.S.",
+    "link": [
+        "http://cdps.umcs.maine.edu:80/cdps.html",
+        "http://cdps.umcs.maine.edu:80/faculty/eht.html",
+        "http://cdps.umcs.maine.edu:80/cdps-projects.html"
+    ],
+    "ground_truth": "student"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Mike Van Wie's URCS Home Page",
+    "Body": "Now they call me: Mike Van Wie, URCS Grad Student and I spend most of my time trying not to work on my web page.",
+    "link": [
+        "http://www.wilmington.net/yes/",
+        "http://www.cs.rochester.edu/users/grads/rao/bigmobot.jpg",
+        "http://www.cs.rochester.edu/users/grads/fuentes/mobot.mpg"
+    ],
+    "ground_truth": "student"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Experiments in Robotic Catching",
+    "Body": "Abstract Real-time coordination of visual information with high speed manipulator control is studied in the specific context of three-dimensional robotic catching.",
+    "link": [
+        "mailto:jesse@ai.mit.edu",
+        "mailto:wam@ai.mit.edu",
+        "http://www.ai.mit.edu/projects/handarm-haptics/manipulation.html"
+    ],
+    "ground_truth": "other"
+}

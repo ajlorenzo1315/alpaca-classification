@@ -1,0 +1,10 @@
+{
+    "Title": "The Internet Learning Agent",
+    "Body": "Date: Tue, 10 Dec 1996 03:33:24 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Thu, 07 Nov 1996 18:50:55 GMT Content-length: 1218 The Internet Learning Agent The Internet Learning Agent (ILA) The number and diversity of information resources on the net is growing rapidly.",
+    "link": [
+        "ftp://cs.washington.edu/pub/map/papers/Category-Translation.ps",
+        "ftp://cs.washington.edu/pub/map/papers/ILA-JIIS.ps",
+        "http://www.cs.washington.edu/homes/bobd/"
+    ],
+    "ground_truth": "other"
+}

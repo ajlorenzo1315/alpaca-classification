@@ -1,0 +1,10 @@
+{
+    "Title": " Jody J. Daniels (daniels@cs.umass.edu)",
+    "Body": "Using a case-base of annotations for each slot we generate and pose a query to an IR system that is aimed at the retrieval of passages within a relevant document.",
+    "link": [
+        "http://www.cs.umass.edu/",
+        "http://www.cs.umass.edu/rcfdocs/newhome/index.html",
+        "mailto:daniels@cs.umass.edu"
+    ],
+    "ground_truth": "student"
+}

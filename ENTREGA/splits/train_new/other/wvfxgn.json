@@ -1,0 +1,8 @@
+{
+    "Title": "CSE 457",
+    "Body": "Grading sessions will consist of: Each team member giving a demonstration of different portions of the program, showing that it satisfies the required part of the assignment and implements an appropriate number of bells and whistles.",
+    "link": [
+        "../writeup/index.html"
+    ],
+    "ground_truth": "other"
+}

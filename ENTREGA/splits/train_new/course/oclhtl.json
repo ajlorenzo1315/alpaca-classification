@@ -1,0 +1,10 @@
+{
+    "Title": "CSE 480 Home Page",
+    "Body": "Server: Netscape-Communications/1.1 Date: Wednesday, 20-Nov-96 23:24:39 GMT Last-modified: Monday, 09-Sep-96 16:30:45 GMT Content-length: 2559 Content-type: text/html CSE 480 Home Page If you were using a Java-enabled browser, you would see an animated scrolling text sign here.",
+    "link": [
+        "http://www.cis.upenn.edu/~lee/cse480/480/outline.ps",
+        "http://www.cis.upenn.edu/~lee/home_lee.html",
+        "http://www.cis.upenn.edu/~lee/cse480/480/Lec1.intro"
+    ],
+    "ground_truth": "course"
+}

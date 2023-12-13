@@ -1,0 +1,10 @@
+{
+    "Title": "M. Stella Atkins",
+    "Body": "1976 Ph.D. Computer Science, Univ.",
+    "link": [
+        "mailto:stella@cs.sfu.ca",
+        "http://fas.sfu.ca/cs/people/Faculty/Atkins/grads.html",
+        "http://fas.sfu.ca/cs/people/Faculty/Atkins/research.html"
+    ],
+    "ground_truth": "faculty"
+}

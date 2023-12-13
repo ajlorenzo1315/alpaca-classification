@@ -1,0 +1,6 @@
+{
+    "Title": "CS 121: Software Development",
+    "Body": "Detailed Design Module Cohesion and Coupling Functional Decomposition Data Flow-Oriented Design Notations Transform and Transaction Analysis Design Heuristics Object-Oriented Design Notations Object Attributes and Operations Information Hiding Software Reusability Design Approach Implementation of Objects in C++ and Ada Data Structure-Oriented Design Notations Input/Ouput Data Structures Jackson's Structured Programmming Software Project Planning Project Scheduling and Cost Estimation Programming Team Structure General Principles For Organizing A Team Hierarchical Team Chief Programmer Team Democratic Team Implementation Issues Coding Style and Quality Proving the Correctness of Programs Derivation of Programs From Specifications Software Verification and Validation Unit Testing Integration Testing Validation Project Besides regular homework and programming assignments, the students are required to do a major team project.",
+    "link": [],
+    "ground_truth": "course"
+}

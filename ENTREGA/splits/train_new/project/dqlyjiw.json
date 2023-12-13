@@ -1,0 +1,10 @@
+{
+    "Title": "Computer Vision Home Page",
+    "Body": "Date: Mon, 25 Nov 1996 23:55:56 GMT Server: Apache/1.1.1 Content-type: text/html Content-length: 3772 Last-modified: Wed, 17 Apr 1996 07:57:45 GMT Computer Vision Home Page Welcome to the (Buttons jump to icon-enhanced pages, labels to text-only pages) Find out what's new in these pages, read about how to submit or jump to a specific topic: Search Computer Vision pages Research Groups Related Links Test Images Hardware Online Publications Conferences and Symposia FAQs, Newsgroups and Related Info Archives Demos Source Code Server Statistics (old) Don't see what you need?",
+    "link": [
+        "http://www-cgi.cs.cmu.edu/cgi-bin/imagemap/afs/cs/project/cil/www/imagemap.cnf",
+        "http://www.cs.cmu.edu:/~cil/vnew.html",
+        "http://www.cs.cmu.edu:/~cil/submit.html"
+    ],
+    "ground_truth": "project"
+}

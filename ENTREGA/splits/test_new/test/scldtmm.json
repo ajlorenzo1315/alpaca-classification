@@ -1,0 +1,10 @@
+{
+    "Title": "PODC '96 home page",
+    "Body": "As a result, the dates for PODC '96 are quite different from the dates for previous PODCs.",
+    "link": [
+        "http://acm.org/conferences/fcrc/",
+        "http://acm.org/conferences/fcrc/",
+        "http://www.research.digital.com/CRL/personal/tuttle/podc/podc96.html"
+    ],
+    "ground_truth": "unknow"
+}

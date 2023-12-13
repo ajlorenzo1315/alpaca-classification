@@ -1,0 +1,10 @@
+{
+    "Title": "Semantics of Program Representation Graphs  ",
+    "Body": "We show that the semantics of the program representation graphs is more defined than the program semantics and that for states on which a program terminates normally, the PRG semantics is identical to the program semantics.",
+    "link": [
+        "http://www.cs.wisc.edu/Dienst/Repository/2.0/Body/ncstrl.uwmadison%2fCS-TR-89-900/postscript",
+        "http://www.cs.wisc.edu/Dienst/UI/2.0/Print/ncstrl.uwmadison%2fCS-TR-89-900",
+        "http://www.cs.wisc.edu/Dienst/UI/2.0/Search"
+    ],
+    "ground_truth": "other"
+}

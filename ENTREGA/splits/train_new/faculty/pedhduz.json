@@ -1,0 +1,10 @@
+{
+    "Title": "Edwina Rissland, (rissland@cs.umass.edu)",
+    "Body": "Rissland, E. L.  \"Artificial Intelligence and Law.\"",
+    "link": [
+        "http://cbr-www.cs.umass.edu/abstracts.html#Rissland:BankXX",
+        "http://cbr-www.cs.umass.edu/abstracts.html#Skalak:Arguments-And-Cases",
+        "http://cbr-www.cs.umass.edu/abstracts.html#Skalak:Inductive-Learning"
+    ],
+    "ground_truth": "faculty"
+}

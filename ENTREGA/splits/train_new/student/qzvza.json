@@ -1,0 +1,10 @@
+{
+    "Title": "\nMichael Duff\n",
+    "Body": "Some Papers Optimal Learning Revisited, AAAI-95 Fall Symposium on Active Learning.es Q-learning for Bandit Problems , Proceedings of Machine Learning 1995.",
+    "link": [
+        "ftp://ftp.cs.umass.edu/pub/anw/pub/duff/ml95_corrected.ps.Z",
+        "ftp://ftp.cs.umass.edu/pub/anw/pub/duff/bandit.ps.Z",
+        "ftp://ftp.cs.umass.edu/pub/anw/pub/duff/nips94_book.ps.Z"
+    ],
+    "ground_truth": "student"
+}

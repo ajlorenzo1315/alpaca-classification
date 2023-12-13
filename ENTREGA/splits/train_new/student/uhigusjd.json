@@ -1,0 +1,10 @@
+{
+    "Title": " John W. Sheppard's home page ",
+    "Body": "In addition to working on my Ph.D., I am also employed as a Principal Research Analyst at ARINC Incorporated.",
+    "link": [
+        "http://www.cs.jhu.edu/",
+        "http://www.jhu.edu/",
+        "http://www.arinc.com/"
+    ],
+    "ground_truth": "student"
+}

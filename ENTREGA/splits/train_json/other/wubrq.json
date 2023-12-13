@@ -1,0 +1,5 @@
+{
+    "Título": "Steve Seitz's Publications",
+    "Cuerpo": "SIGGRAPH 96 , 1996, pp. S. M. Seitz and C. R. Dyer, Toward Image-Based Scene Representation Using View Morphing , Proc. 13th International Conference on Pattern Recognition , 1996. To appear. (See also extended U.W. Tech. Report version) S. M. Seitz and C. R. Dyer, Physically-Valid View Synthesis by Image Interpolation , Proc. Workshop on Representation of Visual Scenes , 1995, pp. Cyclic Motion Analysis S. M. Seitz and C. R. Dyer, View-Invariant Analysis of Cyclic Motion, International Journal of Computer Vision , 1997. To appear. S. M. Seitz and C. R. Dyer, Detecting irregularities in cyclic motion , Proc. Workshop on Motion of Non-Rigid and Articulated Objects , 1994, pp. S. M. Seitz and C. R. Dyer, Affine invariant detection of periodic motion , Proc. Computer Vision and Pattern Recognition Conf. , 1994, pp. (See also extended U.W. Tech. Report version) Scene Reconstruction S. M. Seitz and C. R. Dyer, Complete Scene Structure from Four Point Correspondences , Proc. Fifth International Conference on Computer Vision , 1995, pp. Last Changed: Aug 13, 1996",
+    "ground_truth": "other"
+}

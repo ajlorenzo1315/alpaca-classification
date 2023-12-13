@@ -1,0 +1,10 @@
+{
+    "Title": "Sowmya Ramachandran",
+    "Body": "I am interested in the problem of learning Bayesian networks from examples.",
+    "link": [
+        "http://www.cs.utexas.edu/users/ml/",
+        "http://wwwhost.cc.utexas.edu/",
+        "http://www.cs.utexas.edu/users/sowmya/resume.ps"
+    ],
+    "ground_truth": "student"
+}

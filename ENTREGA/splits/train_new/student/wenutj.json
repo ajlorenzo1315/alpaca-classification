@@ -1,0 +1,10 @@
+{
+    "Title": "\nHome Page for Dionisis Papadopoulos\n",
+    "Body": "I was an undergraduate student in the Department of Computer Engineering and Informatics at the University of Patras in Greece.",
+    "link": [
+        "http://www.cs.utexas.edu/cgi/rwho/dionisis",
+        "http://www.cs.utexas.edu",
+        "http://medusa.ceid.upatras.gr"
+    ],
+    "ground_truth": "student"
+}

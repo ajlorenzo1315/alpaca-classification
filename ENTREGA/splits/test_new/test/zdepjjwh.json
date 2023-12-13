@@ -1,0 +1,10 @@
+{
+    "Title": "Daedalus Project Home Page ",
+    "Body": "Brewer, Elan Amir, Hari Balakrishnan, Armando Fox, Steve Gribble, Todd Hodes, Daniel Jiang, Giao Thanh Nguyen, Venkata Padmanabhan, Mark Stemm.",
+    "link": [
+        "http://daedalus.cs.berkeley.edu/index.html#people",
+        "http://daedalus.cs.berkeley.edu/index.html#recent_publications",
+        "http://daedalus.cs.berkeley.edu/bigpicture.html"
+    ],
+    "ground_truth": "unknow"
+}

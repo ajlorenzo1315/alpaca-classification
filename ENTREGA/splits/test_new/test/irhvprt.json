@@ -1,0 +1,10 @@
+{
+    "Title": "David Yates's Home Page (yates@cs.umass.edu)",
+    "Body": "I am a member of the Computer Networks Research Group .",
+    "link": [
+        "mailto:yates@cs.umass.edu",
+        "http://www.cs.umass.edu/",
+        "http://www.cs.umass.edu/rcfdocs/newhome/index.html"
+    ],
+    "ground_truth": "unknow"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "URLs and the CS Web Server",
+    "Body": "The URL for the condor directory on the CS FTP server is: ftp://ftp.cs.wisc.edu/condor/ Access Control, Tricks, and Details Linking to parts of documents To create a link to a specific part of a document, that document must be written in HTML, and contain a named anchor (see the tutorial ).",
+    "link": [
+        "http://www.cs.wisc.edu/docs/htmltutorial.html#links",
+        "http://www.cs.wisc.edu/docs/htmltutorial.html#links",
+        "http://www.cs.wisc.edu/csl/faq/software/afs.html#acl"
+    ],
+    "ground_truth": "unknow"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Srinivasan Parthasarathy's URCS Home Page",
+    "Body": "I got my Masters degree at the University of Cincinnati in Electrical and Computer Engineering in 1994.",
+    "link": [
+        "http://cs.indiana.edu/finger/cs.rochester.edu/srini/w",
+        "http://weber.u.washington.edu/~rkhare/uor/uorHome.html",
+        "http://www.cs.rochester.edu/u/srini/batch_92.html"
+    ],
+    "ground_truth": "student"
+}

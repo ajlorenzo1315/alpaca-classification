@@ -1,0 +1,10 @@
+{
+    "Title": "AltaVista Forum Summit",
+    "Body": "AltaVista is a trademark of Digital Equipment Corporation.",
+    "link": [
+        "/forum/dri-1/_w/dispatch-w.cgi",
+        "/forum/dri-1/dispatch.cgi/_user/listEntries/10/docNumber/0",
+        "/forum/dri-1/dispatch.cgi/_team/listEntries"
+    ],
+    "ground_truth": "other"
+}

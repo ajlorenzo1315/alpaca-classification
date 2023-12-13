@@ -1,0 +1,10 @@
+{
+    "Title": "\nSoftware Engineering at the University of Washington\n",
+    "Body": "Software engineering is a diverse area, and the projects and faculty in our department reflect that.",
+    "link": [
+        "http://www.cs.washington.edu/",
+        "http://www.washington.edu/",
+        "http://www.cs.washington.edu/research/projects/safety/www/index.html"
+    ],
+    "ground_truth": "other"
+}

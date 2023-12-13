@@ -1,0 +1,10 @@
+{
+    "Title": "Nikos Nikolakis's WWW Home Page",
+    "Body": "I'm a Ph.D. candidate and Research Assistant in the College of Computer Science at Northeastern University .",
+    "link": [
+        "http://www.ccs.neu.edu/home/nikos/photo-info.html",
+        "http://www.ccs.neu.edu/",
+        "http://www.neu.edu"
+    ],
+    "ground_truth": "student"
+}

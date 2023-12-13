@@ -1,0 +1,10 @@
+{
+    "Title": "CS261: Research Topics in Operating Systems",
+    "Body": "Textbooks CS261 Reading List required (collection of papers for the course, available from the Science Center Stock Room) The Design and Implementation of the 4.3 BSD Operating System optional Unix Internals: The New Frontiers optional On-line Documents Course Description Syllabus Reading list E-mail archive Assignments Assignment 1 Final Project Final project handout Elements of Style by William Strunk Jr.",
+    "link": [
+        "http://www.das.harvard.edu/users/faculty/Margo_Seltzer/Margo_Seltzer.html",
+        "mailto:margo@eecs.harvard.edu",
+        "http://www.eecs.harvard.edu/~keith"
+    ],
+    "ground_truth": "course"
+}

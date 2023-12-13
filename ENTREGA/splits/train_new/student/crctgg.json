@@ -1,0 +1,10 @@
+{
+    "Title": "BU - CSD - Grad Student: David G. Durand",
+    "Body": "There are also interesting problems with handling non-hierarchical markup in SGML, as well as good arguments that non-hierarchical structures are important in texts I've been following up the work on non-hierarchical markup with Elli Mylonas and Steven DeRose in a paper abstract accepted at the 1996 ACH/ALLC annual conference in Bergen.",
+    "link": [
+        "http://www.cs.bu.edu/students/grads/dgd/thesis/original_paper.html",
+        "http://www.cs.bu.edu/students/grads/dgd/palimpsest.ps.Z",
+        "http://www.cs.bu.edu/students/grads/dgd/version.html"
+    ],
+    "ground_truth": "student"
+}

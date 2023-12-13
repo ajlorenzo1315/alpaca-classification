@@ -1,0 +1,10 @@
+{
+    "Title": " Effective Removal of Detail for a Multiresolution Viewer ",
+    "Body": "The size of the file stems from the postscript containing the above presentation; webify is a simple, single C program which invokes GhostScript to do most of the real work.",
+    "link": [
+        "P001.html",
+        "P002.html",
+        "P003.html"
+    ],
+    "ground_truth": "other"
+}

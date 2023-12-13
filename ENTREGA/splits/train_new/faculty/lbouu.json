@@ -1,0 +1,10 @@
+{
+    "Title": "John T. Stasko",
+    "Body": "In software visualization, he is currently working on projects in Visualization of parallel and distributed programs Visualization for program understanding and debugging Visualization of object-oriented systems Algorithm animation Empirical analysis of software visualizations as learning aids.",
+    "link": [
+        "http://www.gatech.edu/",
+        "http://www.cc.gatech.edu/gvu",
+        "http://www.cc.gatech.edu/gvu/people"
+    ],
+    "ground_truth": "faculty"
+}

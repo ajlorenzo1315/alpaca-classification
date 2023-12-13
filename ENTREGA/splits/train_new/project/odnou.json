@@ -1,0 +1,10 @@
+{
+    "Title": " QMG project ",
+    "Body": "Ian McPhedran's page of finite element resources on the Web.",
+    "link": [
+        "http://www.cs.cornell.edu/Info/People/vavasis/qmg1.0/qmg-home.html",
+        "http://www.cs.cornell.edu/Info/People/vavasis/qmg1.1/qmg1_1_home.html",
+        "http://www-users.informatik.rwth-aachen.de/~roberts/meshgeneration.html"
+    ],
+    "ground_truth": "project"
+}

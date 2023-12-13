@@ -1,0 +1,10 @@
+{
+    "Title": "WSU Computer Science Dept.",
+    "Body": "Date: Tue, 26 Nov 1996 22:11:07 GMT Server: Apache/1.0.3 Content-type: text/html Content-length: 2008 Last-modified: Tue, 12 Nov 1996 16:49:48 GMT WSU Computer Science Dept.",
+    "link": [
+        "http://www.cs.twsu.edu/faculty.html",
+        "gopher://TWSUVM.UC.TWSU.EDU:70/11/Wichita%20State%20University%20Campus%20Information",
+        "http://www.cs.twsu.edu/~raj/grad.html"
+    ],
+    "ground_truth": "department"
+}

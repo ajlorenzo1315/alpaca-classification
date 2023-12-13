@@ -1,0 +1,10 @@
+{
+    "Title": "CoImage: Activities using Cooperatively Controlled Objects",
+    "Body": "A cooperatively controlled object (CCO) is a controlled object which may be simultaneously manipulated by one or more users.",
+    "link": [
+        "http://www.cs.washington.edu/homes/bricker",
+        "http://www.cs.washington.edu/homes/marla",
+        "http://www.cs.washington.edu/people/faculty/tanimoto"
+    ],
+    "ground_truth": "other"
+}

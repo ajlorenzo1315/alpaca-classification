@@ -1,0 +1,10 @@
+{
+    "Title": " Selected Publications by Daniel S. Weld ",
+    "Body": "Categories are ordered as follows: software agents, general planning, probabilistic planning algorithms, planning with incomplete information, closed-world reasoning, temporal planning, case-based planning, HTN planning, intelligent computer graphics, qualitative and model-based reasoning, travel writing.",
+    "link": [
+        "ftp://june.cs.washington.edu/pub/ai/sadl-kr96.ps.Z",
+        "ftp://ftp.cs.washington.edu/pub/ai/occam-aaai96.ps",
+        "ftp://june.cs.washington.edu/pub/ai/weld_aips96.ps.Z"
+    ],
+    "ground_truth": "unknow"
+}

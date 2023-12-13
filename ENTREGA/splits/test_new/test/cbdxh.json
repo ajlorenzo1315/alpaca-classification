@@ -1,0 +1,10 @@
+{
+    "Title": "Gregory Deatz",
+    "Body": "Date: Tue, 26 Nov 1996 03:58:04 GMT Server: Apache/1.1.1 Content-type: text/html Content-length: 2326 Last-modified: Mon, 22 Apr 1996 02:50:54 GMT Gregory Deatz Graduate Student Department of Computer Science Rutgers University New Brunswick, NJ e-mail: Greg Deatz (deatz@cs.rutgers.edu) Director of Information Technology Hoagland, Longo, Moran, Dunst & Doukas 40 Paterson Street P.O.",
+    "link": [
+        "http://www.cs.rutgers.edu",
+        "http://info.rutgers.edu",
+        "http://www.nnic.noaa.gov/cgi-bin/netcast.do-it?area=Local+Forecast&state=New+Jersey&once=value&search=Middlesex+Including+New+Brunswick&html=yes&bgcolor=&no=8"
+    ],
+    "ground_truth": "unknow"
+}

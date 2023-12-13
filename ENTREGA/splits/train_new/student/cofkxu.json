@@ -1,0 +1,10 @@
+{
+    "Title": "\nKen's Page",
+    "Body": "I received my Master of Science degree in Computer Science in 1992, and I am now about a year away from receiving my Doctor of Philosophy degree in Computer Science.",
+    "link": [
+        "http://www.ics.uci.edu/pub/kanderso/ken/research.html",
+        "mailto:kanderso@ics.uci.edu",
+        "http://www.ics.uci.edu/"
+    ],
+    "ground_truth": "student"
+}

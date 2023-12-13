@@ -1,0 +1,10 @@
+{
+    "Title": " Jerry Potter",
+    "Body": "His research interests include the continuing development of the associative computing paradigm, the integration of associative SIMD computers with other architectures in a heterogeneous supercomputer environment, the development of techniques for compilation on massively parallel SIMD computers, natural language and artificial intelligence processing on SIMD computers, and the development of techniques for the introduction of parallel programming at the high school level.",
+    "link": [
+        "http://www.mcs.kent.edu/mcsinfo/csbrochure/peyravi.html",
+        "http://www.mcs.kent.edu/mcsinfo/csbrochure/faculty.html",
+        "http://www.mcs.kent.edu/mcsinfo/csbrochure/rothstein.html"
+    ],
+    "ground_truth": "faculty"
+}

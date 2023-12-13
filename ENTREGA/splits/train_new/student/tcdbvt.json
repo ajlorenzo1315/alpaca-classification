@@ -1,0 +1,10 @@
+{
+    "Title": "Dragos Niculescu",
+    "Body": "Date: Tue, 26 Nov 1996 03:57:52 GMT Server: Apache/1.1.1 Content-type: text/html Content-length: 1092 Last-modified: Sun, 15 Sep 1996 22:45:34 GMT Dragos Niculescu Dragos Stefan NICULESCU I'm a grad student in the Rutgers Department of Computer Science , studying towards the Ph.D. degree.",
+    "link": [
+        "http://paul.rutgers.edu/",
+        "http://www.dsp.pub.ro/pub/pub.html",
+        "http://www.webcrawler.com/WebCrawler/WebQuery.html"
+    ],
+    "ground_truth": "student"
+}

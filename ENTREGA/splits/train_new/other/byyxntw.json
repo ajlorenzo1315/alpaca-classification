@@ -1,0 +1,10 @@
+{
+    "Title": " CS 701 Reading Assignments and  Research Papers ",
+    "Body": "Read Davison & Fraser paper (\"Code Selection through Object Code Optimization\") Sept 19 (Lecture 6) Read Section 15.1 of Chapter 15 (from handout 1) Sept 24 (Lecture 7) Read Section 15.2 of Chapter 15 (from handout 1) Efficient Instruction Scheduling for Delayed-Load Architectures Sept 26 (Lecture 8) Read Section 15.4 of Chapter 15 (from handout 1) Read Chaitin's paper (\"Register Allocation via Coloring\") Read Project 2 assignment.",
+    "link": [
+        "http://www.cs.wisc.edu/~fischer/cs701/proj1.html",
+        "http://www.cs.wisc.edu/~fischer/cs701/inst.sched.ps",
+        "http://www.cs.wisc.edu/~fischer/cs701/proj2.html"
+    ],
+    "ground_truth": "other"
+}

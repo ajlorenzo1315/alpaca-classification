@@ -1,0 +1,10 @@
+{
+    "Title": " cs368 -- Geometric Algorithms ",
+    "Body": "We will also survey several important paradigms of geometric algorithm design, including sweep line/plane methods, randomized techniques, cuttings and their applications, parametric searching, and various geometric optimization methods.",
+    "link": [
+        "#contact",
+        "#outline",
+        "#mechanics"
+    ],
+    "ground_truth": "course"
+}

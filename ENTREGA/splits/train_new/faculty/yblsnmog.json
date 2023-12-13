@@ -1,0 +1,10 @@
+{
+    "Title": "Liffick Personal Home Page",
+    "Body": "Server: Netscape-Communications/1.1 Date: Monday, 25-Nov-96 20:39:32 GMT Content-type: text/html Liffick Personal Home Page Dr. Blaise W. Liffick Associate Professor Department of Computer Science Millersville University CS Department Home Page Human-Computer Interaction New Directions in HCI Report Applied Science and Engineering Lab at A.I.",
+    "link": [
+        "http://cs.millersv.edu",
+        "http://cs.millersv.edu/~liffick/HCI.html",
+        "http://129.25.40.211/"
+    ],
+    "ground_truth": "faculty"
+}

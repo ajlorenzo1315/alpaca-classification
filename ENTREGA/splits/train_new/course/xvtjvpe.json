@@ -1,0 +1,10 @@
+{
+    "Title": "CSE5450: Intro to Software Engineering",
+    "Body": "Document Name Responsibility A001 Software Development Plan Task Leader A002 Software Configuration Management Plan Configuration/Data Manager A004 Program Documentation Standards Configuration/Data Manager A005 Coding Standard / Maintenance Manual Configuration/Data Manager A006 Cost / Schedule Status Report (bi-weekly) Project Administrator A007 Software Requirements Specification Task Leader A008 Interface Requirements Specification Task Leader A009 Software Design Document Designer A010 Test Plan Test and Evaluation Engineer A011 User Manuals Task Leader A012 Code Implementor A013 Test Report Test and Evaluation Engineer -- Return to top , or: 1.",
+    "link": [
+        "#Fact Sheet",
+        "#Syllabus",
+        "#Roles"
+    ],
+    "ground_truth": "course"
+}

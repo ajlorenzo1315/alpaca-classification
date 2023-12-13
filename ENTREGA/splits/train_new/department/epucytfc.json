@@ -1,0 +1,10 @@
+{
+    "Title": "UW CS Home Page",
+    "Body": "Date: Sun, 10 Nov 1996 20:51:24 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Tue, 05 Nov 1996 23:19:22 GMT Content-length: 2272 UW CS Home Page Computer Sciences Department About the Computer Sciences Department Our department was formed in 1963 and is consistently ranked as one of the top ten computer science departments in the country.",
+    "link": [
+        "http://www.wisc.edu/",
+        "http://www.cs.wisc.edu/areas.html",
+        "http://www.cs.wisc.edu/rsch-info/"
+    ],
+    "ground_truth": "department"
+}

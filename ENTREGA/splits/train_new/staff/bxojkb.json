@@ -1,0 +1,10 @@
+{
+    "Title": "Meir I. Green",
+    "Body": "Green Meir I.",
+    "link": [
+        "mailto:meir@POBoxes.com",
+        "http://www.netforward.com/poboxes/?meir",
+        "http://www.columbia.edu/cu/jsu"
+    ],
+    "ground_truth": "staff"
+}

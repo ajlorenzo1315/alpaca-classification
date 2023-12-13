@@ -1,0 +1,5 @@
+{
+    "Título": "CS 143 Homepage Fall 1996 ",
+    "Cuerpo": "Here are some Help pages for labs. Not every lab will have a help page, so you are best advised to go the a help session and talk to a TA. MIPS LAB#3 Show Hanoi for last lab. TestHanoi is a Sample program that uses ShowHanoi DON'T USE experimental show hanoi II. TOKENS for lab #4. TA hours are posted on the lab door in TMCB 1147. M T W T F S . M T W T F S . B BH2 A A . B . B 6pm . B B A . K B 7pm . B . K B 8pm . 2pm B H1 A . B A K* 3pm . M . K**=Karl aworks 9:30-11:30 K*=Karl works satruday night on passoff days only HELP SESSION ARE ALL TAUGHT BY AARON Help session 1 Help session 2 Help session 3 Help session 4 Help session 5 Tue 2pm 331TMCB Wed 4pm 108TMCB Thur 9am 1227SFLC Fri 9pm 1170TMCB Sat 10am 1170TMCB Aaron's personal homepage For those of you who have a PC at home you can download a version of SPIM so you can work at home. Spim for DOS is not fully compatibal with the MAC lab.",
+    "ground_truth": "course"
+}

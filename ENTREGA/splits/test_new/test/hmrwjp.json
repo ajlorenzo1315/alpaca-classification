@@ -1,0 +1,10 @@
+{
+    "Title": "MSU PRIP Software",
+    "Body": "These directories house links that reference the PRIP resources in each of the packages in the /soft/prip hierarchy.",
+    "link": [
+        "http://web.cps.msu.edu/groups/prip/help/prip-info.html",
+        "http://www.cps.msu.edu/~karissa/help.html",
+        "http://web.cps.msu.edu/groups/prip/general.html"
+    ],
+    "ground_truth": "unknow"
+}

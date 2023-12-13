@@ -1,0 +1,10 @@
+{
+    "Title": "The TreadMarks Distributed Shared Memory (DSM) System",
+    "Body": "There is growing consensus in the parallel computing community that a shared memory interface is more desirable from the application programmer's viewpoint, allowing him or her to focus on algorithmic development rather than on managing communication.",
+    "link": [
+        "http://www.syntron.com/ptools/ptool_pg.htm",
+        "http://www.cs.rice.edu/~willy/TreadMarks/people.html",
+        "http://www.cs.rice.edu/~willy/papers/computer95.ps.gz"
+    ],
+    "ground_truth": "project"
+}

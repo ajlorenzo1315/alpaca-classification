@@ -1,0 +1,10 @@
+{
+    "Title": "Shujian Zhang's Home Page",
+    "Body": "Date: Tue, 26 Nov 1996 16:23:47 GMT Server: Apache/1.0.5 Content-type: text/html Shujian Zhang's Home Page Shujian Zhang's Home Page General Information Brief Biography Publication List [1995 -- present] Selected Publications [before 1995] VLSI Design and Test Group Please click here to get some information about the group.",
+    "link": [
+        "http://www.csc.uvic.ca/home/szhang/bio.html",
+        "http://www.csc.uvic.ca/home/szhang/pub.html",
+        "http://www.csc.uvic.ca/home/szhang/PAPERS/SelPub.html"
+    ],
+    "ground_truth": "student"
+}

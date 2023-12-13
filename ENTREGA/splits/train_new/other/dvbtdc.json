@@ -1,0 +1,10 @@
+{
+    "Title": "c109c Home Page ",
+    "Body": "Date: Tue, 10 Dec 1996 20:30:01 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Fri, 19 Jan 1996 18:22:44 GMT Content-length: 2114 c109c Home Page The Under Construction c109c Home Page c109c@cs.washington.edu Welcome to the home page of c109c.",
+    "link": [
+        "mailto:c109c@cs.washington.edu",
+        "http://www.cs.washington.edu/homes/map/chateau.html",
+        "http://www.cs.washington.edu/homes/sungeun"
+    ],
+    "ground_truth": "other"
+}

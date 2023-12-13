@@ -1,0 +1,10 @@
+{
+    "Title": " Paul Helman's Home Page ",
+    "Body": "Helman, P. and Liepins, G., Statistical foundations of audit trail analysis for the detection of computer misuse, IEEE Trans.",
+    "link": [
+        "http://www.cs.unm.edu",
+        "http://www.unm.edu",
+        "mailto:helman@cs.unm.edu"
+    ],
+    "ground_truth": "faculty"
+}

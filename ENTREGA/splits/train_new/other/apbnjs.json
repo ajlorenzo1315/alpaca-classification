@@ -1,0 +1,10 @@
+{
+    "Title": "Drinking Games",
+    "Body": "Date: Tue, 05 Nov 1996 22:00:29 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Sat, 29 Apr 1995 17:08:30 GMT Content-length: 10187 Drinking Games Drinking Games Name                  Type            Buzz Factor Asshole               Card            Very High Baseball              Coin            Very High BatBeer               Movie/TV        Mid Beat the Barman       Endurance       Very Very High Beer 99               Card/Math       Mid Beer Blow             Card            High Beer Bomb             Skill           High Beer Bungee           Strength (?)",
+    "link": [
+        "http://www.cs.wisc.edu/~sec/drinkingGames/asshole.html",
+        "http://www.cs.wisc.edu/~sec/drinkingGames/baseball.html",
+        "http://www.cs.wisc.edu/~sec/drinkingGames/batbeer.html"
+    ],
+    "ground_truth": "other"
+}

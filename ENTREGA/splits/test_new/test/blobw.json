@@ -1,0 +1,10 @@
+{
+    "Title": "CS 377 Operating Systems ",
+    "Body": "Since several homeworks are due right before an exam, the solutions will be published on the day the homework is due and therefore, no late assignments will be accepted.",
+    "link": [
+        "http://www.cs.umass.edu/~mckinley/",
+        "http://www.cs.umass.edu/~mckinley/377/lectures.html",
+        "http://www.cs.umass.edu/~mckinley/377/nachos.ps"
+    ],
+    "ground_truth": "unknow"
+}

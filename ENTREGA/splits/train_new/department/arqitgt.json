@@ -1,0 +1,10 @@
+{
+    "Title": "Cleveland State University CIS Home Page",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Tuesday, 26-Nov-96 23:06:54 GMT Content-Type: text/html Content-Length: 4180 Last-Modified: Tuesday, 12-Nov-96 16:48:35 GMT Cleveland State University CIS Home Page The Department of Computer and Information Science Programs Undergraduate Education Brochure Undergraduate Courses Offered Graduate Education Brochure Graduate Courses Offered D.B.A.",
+    "link": [
+        "http://grail.cba.csuohio.edu/ugrad.html",
+        "http://grail.cba.csuohio.edu/ucourse.html",
+        "http://grail.cba.csuohio.edu/grad.html"
+    ],
+    "ground_truth": "department"
+}

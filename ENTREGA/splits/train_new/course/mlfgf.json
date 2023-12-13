@@ -1,0 +1,10 @@
+{
+    "Title": "CS 580 and ECEn 528 Home Page",
+    "Body": "Server: Netscape-Communications/1.1 Date: Wednesday, 20-Nov-96 21:56:34 GMT Last-modified: Tuesday, 03-Sep-96 15:26:20 GMT Content-length: 2792 Content-type: text/html CS 580 and ECEn 528 Home Page CS 580 and ECEn 528 Home Page Advanced Computer Architecture -- Description and Goal Computer Science 580 and Electrical and Computer Engineering 528 are currently combined to form an advanced computer architecture course that integrates a large laboratory exercise with a significant writing assignment.",
+    "link": [
+        "http://pel.cs.byu.edu/cs580/syllabus.html",
+        "http://pel.cs.byu.edu/cs580/schedule.html",
+        "http://pel.cs.byu.edu/cs580/lab.html"
+    ],
+    "ground_truth": "course"
+}

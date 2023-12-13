@@ -1,0 +1,10 @@
+{
+    "Title": "Center for Display Technology & Manufacturing\n",
+    "Body": "The DTM Center was established at the University of Michigan's College of Engineering in cooperation with the State of Michigan, the Federal Government , and the flat panel display industry.",
+    "link": [
+        "http://www.umich.edu/",
+        "http://dtm.eecs.umich.edu/define.html",
+        "http://www.engin.umich.edu/college/"
+    ],
+    "ground_truth": "project"
+}

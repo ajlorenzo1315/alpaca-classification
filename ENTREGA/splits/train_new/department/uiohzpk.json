@@ -1,0 +1,10 @@
+{
+    "Title": "Stanford Computer Science Department",
+    "Body": "Founded in 1965, the Department of Computer Science is a center for research and education at the undergraduate and graduate levels.",
+    "link": [
+        "http://db.stanford.edu/~ullman/pub/newsletter.html",
+        "http://www.stanford.edu/",
+        "http://www-soe.stanford.edu/soe.html"
+    ],
+    "ground_truth": "department"
+}

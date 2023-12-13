@@ -1,0 +1,10 @@
+{
+    "Title": "List of Publications",
+    "Body": "Multiresolution Image Processing and Learning for Texture Recognition and Image Enhancement H. Greenspan Ph.D. thesis, Caltech - California Institute of Technology, June 1994.",
+    "link": [
+        "ftp://electra.caltech.edu/pub/users/hayit/PAMI.ps.Z",
+        "ftp://electra.caltech.edu/pub/users/hayit/PAMI-94.ps.Z",
+        "ftp://electra.caltech.edu/pub/users/hayit/PAMI-95-draft.ps.Z"
+    ],
+    "ground_truth": "unknow"
+}

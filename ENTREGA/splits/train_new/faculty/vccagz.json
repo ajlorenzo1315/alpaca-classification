@@ -1,0 +1,10 @@
+{
+    "Title": "Steven Tanimoto's Home Page",
+    "Body": "He served as the editor-in-chief of ``IEEE Transactions on Pattern Analysis and Machine Intelligence'' from 1986 to 1990.",
+    "link": [
+        "http://www.cs.washington.edu/research/metip/imagecom96.html",
+        "http://www.cs.washington.edu/research/metip/metip.html",
+        "http://www.cs.washington.edu/research/metip/eaicl2.html"
+    ],
+    "ground_truth": "faculty"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Publications related to Tushar Chandra's research",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Tuesday, 17-Dec-96 00:17:40 GMT Content-Type: text/html Content-Length: 3860 Last-Modified: Friday, 27-Oct-95 20:23:41 GMT Publications related to Tushar Chandra's research Publications related to my research Research in Fault-tolerant Distributed Computing Message passing systems For my Ph.D. thesis , I studied unreliable failure detection in asynchronous distributed systems (together with Vassos Hadzilacos and my advisor Sam Toueg ).",
+    "link": [
+        "http://www.cs.cornell.edu/Info/People/chandra/Thesis.html",
+        "http://www.cdf.toronto.edu:/DCS/CSRI/Hadzilacos.html",
+        "http://www.cs.cornell.edu/Info/People/sam/sam.html"
+    ],
+    "ground_truth": "other"
+}

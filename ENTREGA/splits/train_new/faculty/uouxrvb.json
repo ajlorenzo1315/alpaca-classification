@@ -1,0 +1,10 @@
+{
+    "Title": "Bernd Hamann",
+    "Body": "He received his Ph.D. in computer science from Arizona State University in 1991.",
+    "link": [
+        "http://graphics.cs.ucdavis.edu/people/hamann/hamann_large.gif",
+        "http://graphics.cs.ucdavis.edu/people/hamann/images/col_sk1.gif",
+        "http://graphics.cs.ucdavis.edu/people/hamann/images/f1_1a.gif"
+    ],
+    "ground_truth": "faculty"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "The Vectra Lab",
+    "Body": "User accounts Default files Quotas Files Creating Handin directories Permissions/Rights Restoring Deleted Files FTPing to Wiley Printing Connection statistics for Wiley For questions about pc-admin related topics, e-mail lab@cs.wisc.edu Questions about general systems lab topics should be e-mailed to lab@cs.wisc.edu Specific questions about this page can be e-mailed to pdsalmon@cs.wisc.edu Wiley currently supports more than 1500 user accounts.",
+    "link": [
+        "http://www.cs.wisc.edu/csl/faq/vectra_lab/nu.html",
+        "http://www.cs.wisc.edu/~cs302/faq.html",
+        "http://www.cs.wisc.edu/~cs132-1/"
+    ],
+    "ground_truth": "unknow"
+}

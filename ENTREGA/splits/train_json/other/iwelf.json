@@ -1,0 +1,5 @@
+{
+    "Título": "\nAn Informal, Local Web Survey\n",
+    "Cuerpo": "The survey was posted to uw-cs.grads and mailed to the Softbot researchers, the HCI seminar and the Web seminar. What do you use the Web for? (5) Keep abreast of research projects. (2) Obtain support on current products. (2) Check availability of computing resources. What do you like about the Web? (7) There is a great range and amount of information available. (5) I can easily access things I know about. (4) It can be quick. (3) I can download documents with a mouse click. (2) It can remember which pages I've visited. It's free. Improve the ability to discover something on the Web. (5) Improve the ability to find something when I don't know it's URL. This can be done with .mailcap or .mime.types . Discriminate quality of information on a page. Better visualization of the Web \"tours\". Make retrieval asynchronous (this is done in Netscape). Prefetch less detailed images, then full images while user is reading (Netscape has this too!). Viewing the Web as a global file system.",
+    "ground_truth": "other"
+}

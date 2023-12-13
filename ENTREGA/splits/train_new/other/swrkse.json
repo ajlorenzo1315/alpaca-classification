@@ -1,0 +1,10 @@
+{
+    "Title": "Western Washington Internet Providers",
+    "Body": "Date: Tue, 10 Dec 1996 17:30:05 GMT Server: NCSA/1.4.2 Content-type: text/html Western Washington Internet Providers AccessOne Alternate Access, Inc. AltNet Blarg!",
+    "link": [
+        "http://www.accessone.com",
+        "http://www.aa.net",
+        "http://www.alt.net"
+    ],
+    "ground_truth": "other"
+}

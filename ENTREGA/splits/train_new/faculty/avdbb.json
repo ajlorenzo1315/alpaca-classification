@@ -1,0 +1,10 @@
+{
+    "Title": "Allan Gottlieb's home page",
+    "Body": "e-mail and finger: gottlieb@nyu.edu phone: (212) 998-3344 fax: (212) 995-4121 New York University 715 Broadway, Tenth Floor\t(it's #28 on the map) New York NY 10003 Upcoming Conferences with which I am Affiliated ISCA'96 a consituent of FCRC'96 (Philadelphia) MPPOI'96--Call for papers in ascii or postscript (Maui) IPPS'97 (Geneva) Academic Family Tree Father (i.e. thesis advisor): Michael Shub shub@watson.ibm.com Grandfather: Steve Smale smale@math.berkeley.edu Great-Grandfather: Raoul Bott bott@math.harvard.edu Great-Great-Grandfather: Duffin (Electrical Engineering) Great-Great-Great-Grandfather: Bourgen Daughters: Patricia Teller teller@nmsu.edu \"Translation-Lookaside Buffer Consistency in Highly-Parallel Shared-Memory Multiprocessors\" Susan Dickey dickey@nyu.edu \"Systolic Combining Switch Designs\" Sons: Clyde Kruskal kruskal@cs.umd.edu \"Upper and Lower Bounds on the Performance of Parallel Algorithms\" Larry Rudolph rudolph@CS.HUJI.AC.IL \"Software Structures for Ultraparallel Computing\" Kevin McAuliffe \"Analysis of cache memories in highly parallel systems\" James Wilson \"Operating System Data Structures for Shared-Memory MIMD Machines with Fetch-and-Add\" .",
+    "link": [
+        "http://cs.nyu.edu/cs/faculty/gottlieb//",
+        "http://cs.nyu.edu/cs/courantnyu.html",
+        "http://www.nyu.edu"
+    ],
+    "ground_truth": "faculty"
+}

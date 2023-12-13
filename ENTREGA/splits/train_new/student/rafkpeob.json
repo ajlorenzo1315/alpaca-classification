@@ -1,0 +1,10 @@
+{
+    "Title": "Homepage of Chris Gibble",
+    "Body": "Date: Tue, 26 Nov 1996 03:57:33 GMT Server: Apache/1.1.1 Content-type: text/html Content-length: 6140 Last-modified: Wed, 16 Oct 1996 13:02:42 GMT Homepage of Chris Gibble Welcome to the homepage of Chris Gibble NEW!!",
+    "link": [
+        "http://paul.rutgers.edu/~gibble/resume.html",
+        "mailto:gibble@paul.rutgers.edu",
+        "http://www.rutgers.edu/"
+    ],
+    "ground_truth": "student"
+}

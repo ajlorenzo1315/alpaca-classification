@@ -1,0 +1,10 @@
+{
+    "Title": "CSE 590g, Architecture Lunch",
+    "Body": "Date: Thu, 21 Nov 1996 22:17:01 GMT Server: NCSA/1.4.2 Content-type: text/html CSE 590g, Architecture Lunch CSE 590g - Architecture Lunch Course organizer: Jean-Loup Baer Meeting time: Tuesdays, 12:30pm to 1:20pm, in MOR 226 CSE590G, aka \"architecture lunch\", will continue this quarter with almost the same  format as previous years, i.e., selection of papers to be discussed at the beginning of the quarter, distribution on week n of the paper to be read during the week and discussed at week (n+1).",
+    "link": [
+        "http://www.cs.washington.edu/people/faculty/baer.html",
+        " http://www.cise.nsf.gov/mips/MSAWorkshop96/index2.html",
+        "http://www.cs.washington.edu/education/courses/590g/ggg.ps"
+    ],
+    "ground_truth": "course"
+}

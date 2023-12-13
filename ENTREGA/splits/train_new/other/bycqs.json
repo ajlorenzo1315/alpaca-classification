@@ -1,0 +1,9 @@
+{
+    "Title": "Don't be afraid now.  Just walk on in.",
+    "Body": "The name comes from a song I wrote in response to a friend who didn't understand what it felt like to be in love.",
+    "link": [
+        "quotes.html",
+        "poemsong.html"
+    ],
+    "ground_truth": "other"
+}

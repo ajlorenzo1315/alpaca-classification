@@ -1,0 +1,10 @@
+{
+    "Title": "\nbshults directory",
+    "Body": "bshults directory bshults Up to pub ATP-info ATP-tech-reports INDEX papers provers",
+    "link": [
+        "bshults/..",
+        "bshults/ATP-info",
+        "bshults/ATP-tech-reports"
+    ],
+    "ground_truth": "other"
+}

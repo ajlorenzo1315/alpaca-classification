@@ -1,0 +1,10 @@
+{
+    "Title": "Lance's Favorite Internet Sites",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Monday, 06-Jan-97 21:43:52 GMT Content-Type: text/html Content-Length: 11069 Last-Modified: Friday, 15-Nov-96 18:16:53 GMT Lance's Favorite Internet Sites Lance's Favorite Internet Sites Directory Entertainment Finance Intramural Sports Magic: The Gathering News Organizations People Reference Research Software Sports Entertainment Cards Media Lab Promindo Food Internet Movie Database Travelocity Utlimate TV List (List of WWW Links for TV Shows) What's On [Television] Tonite!",
+    "link": [
+        "http://www.cs.utexas.edu/users/unicron/directory.html#entertainment",
+        "http://www.cs.utexas.edu/users/unicron/directory.html#financial",
+        "http://www.cs.utexas.edu/users/unicron/intramural.html"
+    ],
+    "ground_truth": "other"
+}

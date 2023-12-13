@@ -1,0 +1,10 @@
+{
+    "Title": "Hierarchical JPEG",
+    "Body": "Difference between Progressive Mode and Hierarchical Mode In the progressive mode, the 8x8 DCT coefficients blocks are encoded in multiple scans.",
+    "link": [
+        "#overview",
+        "#hmode",
+        "#diff"
+    ],
+    "ground_truth": "other"
+}

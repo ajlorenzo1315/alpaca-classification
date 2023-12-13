@@ -1,0 +1,10 @@
+{
+    "Title": "Computer System Design--More Information",
+    "Body": "6.25 to 6.29.",
+    "link": [
+        "index.html",
+        "more-course-info.html#course-descr",
+        "more-course-info.html#instr-descr"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": " Judo at the University of Washington",
+    "Body": "For more information about Judo at the UW, contact dbc1@cs.washington.edu .",
+    "link": [
+        "http://www.cs.washington.edu/homes/dbc1/judo/dojo/index.html",
+        "http://www.cs.washington.edu/homes/dbc1/judo/96JInationals/nationals.html",
+        "http://www.cs.washington.edu/homes/dbc1/judo/links.html"
+    ],
+    "ground_truth": "unknow"
+}

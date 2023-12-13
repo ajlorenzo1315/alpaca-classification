@@ -1,0 +1,10 @@
+{
+    "Title": "Cognitive Computer Science Research Group",
+    "Body": "The focus of our research group is the characterization of adaptive knowledge representations.",
+    "link": [
+        "http://www.cs.wisc.edu/~belew/research-stmnt.html",
+        "http://www-cse.ucsd.edu/users/schraudo/",
+        "http://www-cse.ucsd.edu/users/tkammeye/"
+    ],
+    "ground_truth": "other"
+}

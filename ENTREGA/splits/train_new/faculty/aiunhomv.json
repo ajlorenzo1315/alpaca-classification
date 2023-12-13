@@ -1,0 +1,10 @@
+{
+    "Title": "Rob Jacob",
+    "Body": "02155 U.S.A. Internet: jacob@cs.tufts.edu WWW: http://www.cs.tufts.edu/~jacob/ Phone: 617-627-3217 Fax: 617-627-3220 Background: Robert Jacob is on the faculty of the Electrical Engineering and Computer Science Department at Tufts University, where his research interests are user interface software and interaction techniques.",
+    "link": [
+        "http://www.cs.tufts.edu/~jacob/171",
+        "http://www.cs.tufts.edu/~jacob/175",
+        "http://www.cs.tufts.edu/~jacob/senior.projects.current.html"
+    ],
+    "ground_truth": "faculty"
+}

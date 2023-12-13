@@ -1,0 +1,10 @@
+{
+    "Title": "Peter J. Keleher",
+    "Body": "Research Interests: Distributed Shared Memory Dynamic resource management and adaptation Parallel Computer Architecture Intelligent agents Academic Degrees: Ph.D. (1995), Computer Science , Rice University .",
+    "link": [
+        "http://www.cs.umd.edu/~keleher/odie.html",
+        "mailto:keleher@cs.umd.edu",
+        "http://www.cs.umd.edu/index.html"
+    ],
+    "ground_truth": "faculty"
+}

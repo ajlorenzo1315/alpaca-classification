@@ -1,0 +1,10 @@
+{
+    "Title": "Yiannis Tsiounis, home page",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Thursday, 21-Nov-96 22:32:51 GMT Content-Type: text/html Content-Length: 2519 Last-Modified: Tuesday, 19-Nov-96 17:55:23 GMT Yiannis Tsiounis, home page Who am I?",
+    "link": [
+        "http://www.ccs.neu.edu/home/yiannis/personal.html",
+        "http://www.ccs.neu.edu/home/yiannis/images/myface4.gif",
+        "http://www.ccs.neu.edu/home/yiannis/contact.html"
+    ],
+    "ground_truth": "student"
+}

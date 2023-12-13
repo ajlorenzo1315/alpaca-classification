@@ -1,0 +1,10 @@
+{
+    "Title": " Jason Freund",
+    "Body": "in Computer Science at the University of California at Davis.",
+    "link": [
+        "http://www.the-matrix.com",
+        "http://www.secis.com/home/ala.html",
+        "http://www.cis.uab.edu"
+    ],
+    "ground_truth": "student"
+}

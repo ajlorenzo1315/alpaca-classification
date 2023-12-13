@@ -1,0 +1,10 @@
+{
+    "Title": "Publications",
+    "Body": "The Addition of Bounded Quantification and Partial Functions to a Computational Logic and Its Theorem Prover , with J S. Moore, Journal of Automated Reasoning , Volume 4, pp.",
+    "link": [
+        "http://www.cs.utexas.edu/users/boyer/bledsoe.html",
+        "http://www.cs.utexas.edu/users/boyer/bm96.ps.Z",
+        "http://www.cs.utexas.edu/users/boyer/mc-rev3.ps.Z"
+    ],
+    "ground_truth": "other"
+}

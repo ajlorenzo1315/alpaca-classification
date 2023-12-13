@@ -1,0 +1,10 @@
+{
+    "Title": "The Department",
+    "Body": "A close and cooperative relationship with the Electrical and Computer Engineering Department is maintained for both teaching and research in the areas of distributed computation, VLSI, graphics, architecture, theory of computation, and robotics.",
+    "link": [
+        "http://www.cs.umass.edu/facil.html",
+        "http://www.cs.umass.edu",
+        "mailto:www-admin@cs.umass.edu"
+    ],
+    "ground_truth": "other"
+}

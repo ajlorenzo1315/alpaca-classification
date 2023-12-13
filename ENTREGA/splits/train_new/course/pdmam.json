@@ -1,0 +1,10 @@
+{
+    "Title": "Implementation of Programming Languages",
+    "Body": "The course includes a brief survey of various techniques and formalisms that can be used for describing the syntax and semantics of programming languages, for describing abstract and concrete machine architectures, and for describing program translation and transformation.",
+    "link": [
+        "http://www.cs.dartmouth.edu/~jaa/",
+        "http://www.cs.dartmouth.edu/courseguide/undergrad/cs_23.html",
+        "http://www.cs.dartmouth.edu/courseguide/undergrad/cs_37.html"
+    ],
+    "ground_truth": "course"
+}

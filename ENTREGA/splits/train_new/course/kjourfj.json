@@ -1,0 +1,10 @@
+{
+    "Title": "CS 5 Home Page",
+    "Body": "A \"week\" consists of: A set of lecture notes, to be studied in advance (presumably over the weekend) of the recitation/Q&A session on Monday A set of lab problems to reinforce the ideas in the that week's notes, to be done in lab on Tuesday or Wednesday (depending on your assigned lab section) A homework assignment to reinforce and test the ideas in the lecture, to be worked on that week and due the following Tuesday.",
+    "link": [
+        "http://www.cs.hmc.edu/~hodas/courses/cs5/index.html",
+        "http://www.cs.hmc.edu/~hodas/courses/cs5/syllabus.html",
+        "http://www.cs.hmc.edu/course_support/csHWsub.html"
+    ],
+    "ground_truth": "course"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": " Vijay's Home Page ",
+    "Body": "Compiling Register Communication Register Communication Strategies for the Multiscalar Architecture S. Breach, T. N. Vijaykumar, and G. S. Sohi, Submitted to 29th Annual International Symposium on Microarchitecture (MICRO-29), 1996.",
+    "link": [
+        "http://www.cs.wisc.edu/cgi-bin/finger?vijay",
+        "http://www.cs.wisc.edu",
+        "http://www.wisc.edu/"
+    ],
+    "ground_truth": "student"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "samiha.html",
+    "Body": "Date: Mon, 25 Nov 1996 22:23:15 GMT Server: Apache/1.0.1 Content-type: text/html Content-length: 667 Last-modified: Fri, 25 Nov 1994 19:22:39 GMT samiha.html Dr. Samiha Mourad Samiha Mourad, Associate Dean, Professor, B.S., Ain Shams University, Egypt; M.S., Polytechnic University, New York; Ph.D., North Carolina State University.",
+    "link": [
+        "http://www-comp-eng.scu.edu/vlsilab.html",
+        "http://www-comp-eng.scu.edu/dslab.html",
+        "http://www-comp-eng.scu.edu/faculty.html"
+    ],
+    "ground_truth": "faculty"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Amos Ron's Home Page",
+    "Body": "If you are here in order to download the paper Affine systems: the analysis of the analysis operator of Zuowei Shen and me, choose between the following versions: if you are using Unix, click HERE , to get a compressed version.",
+    "link": [
+        "http://www.cs.wisc.edu/~amos/acimages/family-3.html",
+        "http://www.cs.wisc.edu/cgi-bin/map/~amos/acimages/nron.map",
+        "http://www.cs.wisc.edu/"
+    ],
+    "ground_truth": "faculty"
+}

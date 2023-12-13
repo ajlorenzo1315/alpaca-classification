@@ -1,0 +1,10 @@
+{
+    "Title": "Papers on failure detection",
+    "Body": "By R. Guerraoui and A. Schiper The Transaction Model vs The Virtual Synchrony Model: Bridging the gap By R. Guerraoui and A. Schiper Maintained by tushar@watson.ibm.com",
+    "link": [
+        "http://www.cs.cornell.edu/Info/People/chandra/UnreliableFD.html",
+        "http://www.cs.cornell.edu/Info/People/chandra/home.html",
+        "http://www.cs.cornell.edu/Info/People/sam/sam.html"
+    ],
+    "ground_truth": "other"
+}

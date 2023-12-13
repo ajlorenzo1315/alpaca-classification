@@ -1,0 +1,10 @@
+{
+    "Title": "Ernest Davis",
+    "Body": "\"Foundations of a Logic of Knowledge, Action, and Communication.\"",
+    "link": [
+        "http://cs.nyu.edu/",
+        "http://cs.nyu.edu/cs/courantnyu.html",
+        "http://www.nyu.edu/"
+    ],
+    "ground_truth": "faculty"
+}

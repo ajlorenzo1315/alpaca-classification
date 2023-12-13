@@ -1,0 +1,10 @@
+{
+    "Title": "Gary Lindstrom",
+    "Body": "and M.S.",
+    "link": [
+        "http://www.cs.utah.edu/~gary/rafting.html",
+        "http://www.cs.utah.edu/~gary//index.html",
+        "http://www.cs.utah.edu/~gary/ijpp.html"
+    ],
+    "ground_truth": "faculty"
+}

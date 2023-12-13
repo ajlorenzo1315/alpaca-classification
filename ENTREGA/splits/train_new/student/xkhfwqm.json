@@ -1,0 +1,10 @@
+{
+    "Title": "Harith Frangoul's CCS Home Page (Version 3.1)",
+    "Body": "Weather Links Intellicast USA and World Weather.",
+    "link": [
+        "http://www.ccs.neu.edu/",
+        "http://www.neu.edu/",
+        "http://www.arisia.org/boston.html"
+    ],
+    "ground_truth": "student"
+}

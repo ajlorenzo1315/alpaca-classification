@@ -1,0 +1,10 @@
+{
+    "Title": "\nSoftware Safety at the University of Washington\n",
+    "Body": "In Safeware: System Safety and Computers , Nancy Leveson summarizes the issues involved and lays the foundation for the methodology.",
+    "link": [
+        "http://www.cs.washington.edu/research/projects/safety/www/book.html",
+        "http://www.cs.washington.edu/research/projects/safety/www/research.html",
+        "http://www.cs.washington.edu/research/projects/safety/www/papers.html"
+    ],
+    "ground_truth": "unknow"
+}

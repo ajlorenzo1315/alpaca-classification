@@ -1,0 +1,10 @@
+{
+    "Title": " Important Policy Issues",
+    "Body": "Assignments received later will lose 5 % of the grade for each of the first three days.",
+    "link": [
+        "http://www.cs.wisc.edu/~cs564-1/info/node8.html",
+        "http://www.cs.wisc.edu/~cs564-1/cs564.html",
+        "http://www.cs.wisc.edu/~cs564-1/info/node6.html"
+    ],
+    "ground_truth": "other"
+}

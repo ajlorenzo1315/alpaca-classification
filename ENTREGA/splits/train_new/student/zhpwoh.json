@@ -1,0 +1,10 @@
+{
+    "Title": "Chito's Homepage",
+    "Body": "Contact Information If you want to send me e-mail, here's how .",
+    "link": [
+        "http://www.cs.nmsu.edu/~nchavez/resume.html",
+        "http://www.cs.nmsu.edu/lldap/index.html",
+        "http://www.cs.nmsu.edu/~nchavez/mail.html"
+    ],
+    "ground_truth": "student"
+}

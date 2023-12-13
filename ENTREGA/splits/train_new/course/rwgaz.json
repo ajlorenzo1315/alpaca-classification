@@ -1,0 +1,10 @@
+{
+    "Title": "CSc425/525 Home Page",
+    "Body": "Date: Wed, 15 Jan 1997 00:07:09 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Wed, 08 Jan 1997 18:03:16 GMT Content-length: 2365 CSc425/525 Home Page CSc 425/525 Principles of Computer Networking This course is an introduction to the principles of computer networking.",
+    "link": [
+        "http://www.cs.arizona.edu/classes/cs452",
+        "http://www.cs.arizona.edu/people/llp",
+        "mailto:llp@cs"
+    ],
+    "ground_truth": "course"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": " The CS 580 Homepage ",
+    "Body": "), 7.6(use induction to show that this property holds at each stage of the algorithm), 7.9, 7.10 (either give pseudocode, or explain how to modify the algorithm, with reference to the pseudocode in the book), 7.17, 7.26a, 7.32 Problems to think about (and not hand in):  7.33, 7.79, 7.83 Homework 6 Due Thursday, Dec 3rd, at the beginning of class.",
+    "link": [
+        "http://al.cs.engr.uky.edu/~goldsmit/proofs.html",
+        "http://al.cs.engr.uky.edu/~goldsmit/whine.html",
+        "http://al.cs.engr.uky.edu/~goldsmit/580_syl.html"
+    ],
+    "ground_truth": "course"
+}

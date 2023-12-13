@@ -1,0 +1,10 @@
+{
+    "Title": "The Art Gallery",
+    "Body": "Pictures are here.",
+    "link": [
+        "http://home.mcom.com",
+        "http://www.cs.cornell.edu/Info/People/pavel/ArtGallery/001.html",
+        "http://www.cs.cornell.edu/Info/People/pavel/ArtGallery/AsciiArt/001.html"
+    ],
+    "ground_truth": "other"
+}

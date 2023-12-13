@@ -1,0 +1,10 @@
+{
+    "Title": "publications",
+    "Body": "Passonneau, Rebecca J. Interaction of the Segmental Structure of Discourse with Explicitness of Discourse Anaphora.",
+    "link": [
+        "http://www.research.att.com/~diane/index.html",
+        "http://www.cs.columbia.edu/~becky/pubs/passonneau-96-sp.ps",
+        "http://www.cs.columbia.edu/~becky/pubs/langSp95all.ps"
+    ],
+    "ground_truth": "other"
+}

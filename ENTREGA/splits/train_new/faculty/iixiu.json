@@ -1,0 +1,10 @@
+{
+    "Title": "Homepage for James A. Foster",
+    "Body": "Send email to foster@cs.uidaho.edu Last modified: Tue Oct 29 15:28:37 PST",
+    "link": [
+        "http://www.cs.uidaho.edu",
+        "http://www.uidaho.edu",
+        "http://www.cs.uidaho.edu"
+    ],
+    "ground_truth": "faculty"
+}

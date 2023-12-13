@@ -1,0 +1,10 @@
+{
+    "Title": " Faculty Profile - Dr. Springsteel ",
+    "Body": "Date: Mon, 25 Nov 1996 23:16:28 GMT Server: Apache/1.1.1 Content-type: text/html Set-Cookie: Apache=gs359960848963788472; path=/ Content-length: 900 Last-modified: Tue, 11 Apr 1995 18:27:04 GMT Faculty Profile - Dr. Springsteel Dr. Frederick N. Springsteel Professor and Director of Graduate Studies PhD, Mathematics, University of Washington office: 218 Math Science Bldg.",
+    "link": [
+        "http://www.cs.missouri.edu/deptinfo_docs/Course.html#CS365",
+        "http://www.cs.missouri.edu/deptinfo_docs/Course.html#CS465",
+        "http://www.cs.missouri.edu/deptinfo_docs/Faculty.html"
+    ],
+    "ground_truth": "faculty"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "CSE 413 (Winter 1996) Home Page",
+    "Body": "NOTE THIS: On Thursday, January 4, we will meet in Thompson Hall Room 3, so that we can get introduced to the laboratory facilities for the course.",
+    "link": [
+        "http://www.cs.washington.edu/research/metip/tanimoto.html",
+        "http://www.cs.washington.edu/homes/rea",
+        "http://www.cs.washington.edu/education/courses/413/Mail-archive"
+    ],
+    "ground_truth": "course"
+}

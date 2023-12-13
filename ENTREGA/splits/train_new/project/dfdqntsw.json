@@ -1,0 +1,10 @@
+{
+    "Title": "Complementarity Problem Net: Algorithms and Applications",
+    "Body": "Table of Contents Directory of Researchers in Complementarity Software for Complementarity Problems Applications of Complementarity Relevant Web Links Directory of Complementarity Researchers Software for Complementarity Problems MCPLIB: A collection of nonlinear mixed complementarity problems, problem description, and how to access the GAMS source files for these problems.",
+    "link": [
+        "http://www.cs.wisc.edu/cpnet/researchers.html",
+        "#software",
+        "#applications"
+    ],
+    "ground_truth": "project"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "A.C.R.Newbery (Computer Science)--Home Page",
+    "Body": "Department at the University of Kentucky (1966).",
+    "link": [
+        "http://www.uky.edu/~ode/cs.htm",
+        "http://www.uky.edu/~ode/songwriting.htm",
+        "http://www.cs.engr.uky.edu/index.html"
+    ],
+    "ground_truth": "faculty"
+}

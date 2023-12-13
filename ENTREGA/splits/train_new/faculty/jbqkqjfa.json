@@ -1,0 +1,10 @@
+{
+    "Title": "John S. Werth",
+    "Body": "J. S. Werth and L. H. Werth, \"Directions in software engineering education,\" in Proceedings of Thirteenth International Conference on Software Engineering ,  May 1991.",
+    "link": [
+        "vin.html",
+        "index.html",
+        "lwerth.html"
+    ],
+    "ground_truth": "faculty"
+}

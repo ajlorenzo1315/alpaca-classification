@@ -1,0 +1,10 @@
+{
+    "Title": "Cornell CSRVL",
+    "Body": "On the Complexity of Computing the Homology Type of a Triangulation (B. Donald and D. Chang), Revised MS based on the paper IEEE Symposium on the Foundations of Computer Science San Juan, (October 1991), pp.",
+    "link": [
+        "http://www.cs.cornell.edu/Info/People/dph/dph.html",
+        "http://www.cs.cornell.edu/Info/People/rdz/rdz.html",
+        "http://www.cs.cornell.edu/Info/Projects/csrvl/mems.html"
+    ],
+    "ground_truth": "project"
+}

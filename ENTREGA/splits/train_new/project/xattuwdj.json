@@ -1,0 +1,10 @@
+{
+    "Title": "UTCS Real-Time Systems Research Group",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Monday, 06-Jan-97 19:46:53 GMT Content-Type: text/html Content-Length: 2160 Last-Modified: Wednesday, 14-Aug-96 18:57:02 GMT UTCS Real-Time Systems Research Group The Real-Time Systems research group is headed by Prof. Aloysius Mok .",
+    "link": [
+        "http://www.cs.utexas.edu/users/cpg/RTS/mok.html",
+        "http://www.cs.utexas.edu/users/cpg/RTS/abs",
+        "http://www.cs.utexas.edu/users/cpg/RTS/papers"
+    ],
+    "ground_truth": "project"
+}

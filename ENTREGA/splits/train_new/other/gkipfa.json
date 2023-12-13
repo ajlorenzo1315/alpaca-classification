@@ -1,0 +1,10 @@
+{
+    "Title": "Pictures in Japan",
+    "Body": "Date: Wed, 15 Jan 1997 00:09:34 GMT Server: Apache/1.1.1 Content-type: text/html Content-length: 1979 Last-modified: Wed, 01 May 1996 13:57:47 GMT Pictures in Japan Pictures in Japan (Tokyo University of Agriculture and Technology, Hitachi Central Research Laboratory) Lunch at CAROTICA (1996-04-22) Lecture (1996-04-22.",
+    "link": [
+        "http://www.cs.buffalo.edu/pub/WWW/faculty/selman/injapan/0422079.jpg",
+        "http://www.cs.buffalo.edu/pub/WWW/faculty/selman/injapan/0422080.jpg",
+        "http://www.cs.buffalo.edu/pub/WWW/faculty/selman/injapan/0422081.jpg"
+    ],
+    "ground_truth": "other"
+}

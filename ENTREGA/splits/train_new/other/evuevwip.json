@@ -1,0 +1,10 @@
+{
+    "Title": "LISP Assignment #1 Sample Solution",
+    "Body": "Date: Wed, 08 Jan 1997 21:28:24 GMT Server: NCSA/1.4.2 Content-type: text/html LISP Assignment #1 Sample Solution A sample solution and the test scaffolding for part one.",
+    "link": [
+        "prob1.cl",
+        "tests.lisp",
+        "bank.lisp"
+    ],
+    "ground_truth": "other"
+}

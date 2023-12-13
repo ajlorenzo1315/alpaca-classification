@@ -1,0 +1,10 @@
+{
+    "Title": "Andrew Geery's Home Page",
+    "Body": "Date: Thu, 07 Nov 1996 19:20:45 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Thu, 31 Oct 1996 22:39:52 GMT Content-length: 1489 Andrew Geery's Home Page Andrew Geery geery@cs.wisc.edu 1301 CS&S 1210 West Dayton Street Madison, WI 53706 (608) 262-6600 1402 Regent St Apt.",
+    "link": [
+        "mailto:geery@cs.wisc.edu",
+        "http://www.wisc.edu",
+        "http://www.cs.wisc.edu/.."
+    ],
+    "ground_truth": "student"
+}

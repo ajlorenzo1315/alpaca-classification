@@ -1,0 +1,8 @@
+{
+    "Title": "CS516 Project Proposals",
+    "Body": "You would not need to implement IP or other high-level protocols; essentially you would replace the low-level kernel functions for sending data to an ATM or Ethernet card with routines which read/write to the kernel endpoint.",
+    "link": [
+        "../Welcome.html"
+    ],
+    "ground_truth": "unknow"
+}

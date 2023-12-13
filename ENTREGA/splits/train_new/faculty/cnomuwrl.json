@@ -1,0 +1,10 @@
+{
+    "Title": " Barbara G. Ryder ",
+    "Body": "My research group is informally referred to as PROLANGS, the PROgramming LANGuageS research group.",
+    "link": [
+        "http://www.cs.rutgers.edu/",
+        "http://www.rutgers.edu/",
+        "mailto:ryder@cs.rutgers.edu"
+    ],
+    "ground_truth": "faculty"
+}

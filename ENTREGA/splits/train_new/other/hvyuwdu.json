@@ -1,0 +1,10 @@
+{
+    "Title": "The Beautiful University of Wisconsin at Madison",
+    "Body": "Date: Tue, 05 Nov 1996 00:13:38 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Sun, 22 Sep 1996 20:07:37 GMT Content-length: 1132 The Beautiful University of Wisconsin at Madison Our Campus The Terrace The Big Game Memorial Union Night Winters For suggestions send to me.",
+    "link": [
+        "http://www.cs.wisc.edu/~saeed/uwm/campus.jpg",
+        "http://www.cs.wisc.edu/~saeed/uwm/terrace.jpg",
+        "http://www.cs.wisc.edu/~saeed/uwm/the_game.jpg"
+    ],
+    "ground_truth": "other"
+}

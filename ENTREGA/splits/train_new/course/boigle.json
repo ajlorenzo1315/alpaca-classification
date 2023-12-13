@@ -1,0 +1,10 @@
+{
+    "Title": "\nCS372: Introduction to Operating Systems\n",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Monday, 06-Jan-97 20:35:24 GMT Content-Type: text/html Content-Length: 3715 Last-Modified: Wednesday, 18-Dec-96 22:08:43 GMT CS372: Introduction to Operating Systems CS372: Introduction to Operating Systems Fall 1996 (47700) Lecture: Monday and Wednesday, 4:00 - 5:30, in GEO 112.",
+    "link": [
+        "http://www.cs.utexas.edu/users/rdb",
+        "mailto:rdb@cs.utexas.edu",
+        "http://www.cs.utexas.edu/users/gooty"
+    ],
+    "ground_truth": "course"
+}

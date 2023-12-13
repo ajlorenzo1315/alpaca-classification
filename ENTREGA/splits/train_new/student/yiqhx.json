@@ -1,0 +1,10 @@
+{
+    "Title": "\nHome Page for Francois Barbanson - UTCS version\n",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Monday, 06-Jan-97 19:42:59 GMT Content-Type: text/html Content-Length: 2194 Last-Modified: Thursday, 19-Sep-96 04:44:10 GMT Home Page for Francois Barbanson - UTCS version Home of Francois Barbanson - UTCS version This page located in the directory : /usr/spool/net/www/users/francois/ francois About Me Current research interests : is the black forest cake at central market genuine ?",
+    "link": [
+        "http://www.cs.utexas.edu/users/francois/basket.html",
+        "http://www.cs.utexas.edu/users/francois/cgi/fort.cgi",
+        "http://www.centralmarket.com/"
+    ],
+    "ground_truth": "student"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": " Home Page for Dick Lyon ",
+    "Body": "Dick Lyon My Home Page at Caltech I'm a Visiting Associate in Caltech's Computer Science Dept.",
+    "link": [
+        "http://www.eff.org/blueribbon.html",
+        "http://www.caltech.edu",
+        "http://www.cs.caltech.edu/"
+    ],
+    "ground_truth": "faculty"
+}

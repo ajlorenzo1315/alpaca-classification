@@ -1,0 +1,10 @@
+{
+    "Title": "Duke University Department of Computer Science",
+    "Body": "Date: Tue, 26 Nov 1996 23:03:28 GMT Server: NCSA/1.5.1 Last-modified: Tue, 28 May 1996 13:16:38 GMT Content-type: text/html Content-length: 3586 Duke University Department of Computer Science Duke University Department of Computer Science Welcome to the Duke University Department of Computer Science World Wide Web Service!",
+    "link": [
+        "http://www.duke.edu/",
+        "http://www.cs.duke.edu//images/LSRC.gif",
+        "http://www.w3.org/hypertext/WWW/TheProject.html"
+    ],
+    "ground_truth": "department"
+}

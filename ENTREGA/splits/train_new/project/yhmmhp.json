@@ -1,0 +1,10 @@
+{
+    "Title": "Resource-Bounded Reasoning -- Home Page",
+    "Body": "Resource-bounded reasoning is an emerging field within artificial intelligence that is concerned with the construction of intelligent systems that can operate in real-time environments under uncertainty and limited computational resources.",
+    "link": [
+        "http://anytime.cs.umass.edu/index.html",
+        "http://www.cs.umass.edu",
+        "http://www.umass.edu"
+    ],
+    "ground_truth": "project"
+}

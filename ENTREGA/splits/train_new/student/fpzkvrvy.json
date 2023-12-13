@@ -1,0 +1,10 @@
+{
+    "Title": "Marc Rieffel's Home Page",
+    "Body": "Rieffel, J.A.",
+    "link": [
+        "http://www.caltech.edu",
+        "http://cs.caltech.edu/",
+        "http://www.scp.caltech.edu/"
+    ],
+    "ground_truth": "student"
+}

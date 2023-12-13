@@ -1,0 +1,10 @@
+{
+    "Title": "\nNEXT! People\n",
+    "Body": "Date: Tue, 05 Nov 1996 00:26:48 GMT Server: NCSA/1.5 Content-type: text/html Last-modified: Wed, 27 Sep 1995 22:44:05 GMT Content-length: 1015 NEXT!",
+    "link": [
+        "http://www.cs.wisc.edu/~miron/miron.html",
+        "http://www.cs.wisc.edu/~raghu/raghu.html",
+        "http://www.cs.wisc.edu/~praveen/praveen.html"
+    ],
+    "ground_truth": "other"
+}

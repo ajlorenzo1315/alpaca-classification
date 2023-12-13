@@ -1,0 +1,10 @@
+{
+    "Title": "Handouts cs302-1, cs302-22",
+    "Body": "(Sept 20) These are some relevant code samples from the text: if-else example (2.6) (simple) if-else example (2.9) (complex) while loop example (2.10) (Oct 24) A simple example of a date class.",
+    "link": [
+        "http://www.cs.wisc.edu/~melski/cs302/handouts/first_day.html",
+        "http://www.cs.wisc.edu/~melski/cs302/handouts/getting_started.html",
+        "http://www.cs.wisc.edu/~melski/cs302/handouts/function_square.cpp"
+    ],
+    "ground_truth": "other"
+}

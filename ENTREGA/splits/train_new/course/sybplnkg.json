@@ -1,0 +1,10 @@
+{
+    "Title": null,
+    "Body": "A. Gupta, Inderpal Singh Mumick , and V. Subrahmanian : Maintaining views incrementally Y. Zhuge, H. Molina, and J. Wiener The Strobe Algorithm for Multi-Source Warehouse Consistency R. Hull and G. Zhou A Framework for Supporting Data Integration Using the Materialized and Virtual Approaches R. Hull and G. Zhou Towards the Study of Performance Trade-offs Between Materialized and Virtual Integrated Views A. Kawaguchi, D. Lieuwen, I. Mumick, D. Quass, and K. A. Ross Concurrency Control Theory for Deferred Materialized Views Updated Nov 6by Jianwen Su ( su@cs.ucsb.edu )",
+    "link": [
+        "http://www.research.att.com:80/~mumick/papers/pspapers/DE95PubMaintViews.ps.Z",
+        "http://www.cs.colorado.edu/users/hull/",
+        "ftp://ftp.cs.colorado.edu/users/hull/squirrel:ieee-de-bulletin95.ps"
+    ],
+    "ground_truth": "course"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "CMPS131 - Elementary Computer Programming",
+    "Body": "Content-type: text/html Last-modified: Tuesday, 29-Oct-96 14:27:18 GMT Content-length: 2471 CMPS131 - Elementary Computer Programming CMPS131 - Elementary Computer Programming Gultekin Ozsoyoglu General Course Information Course Description Fall 1996 Schedule Course Logistics Grading Grading Policy Programming Assignments Check your grades Study Materials Examples From the Book Supplemental Instruction String Library Header String Library Implementation Using the Software Servers & Compilers Borland C++ for Windows 3.x and Windows NT 3.x Borland C++ for Windows 95 and Windows NT 4.0 CodeWarrior C++ for the Macintosh OS WWW Resources On-Line Dictionary of Computing C. Marling's CMPS131 Homepage J. Kraft's CMPS131 Homepage P. Stephan's CMPS131 Homepage What Do You Think?",
+    "link": [
+        "http://erciyes.ces.cwru.edu/tekin/131/description.html",
+        "http://erciyes.ces.cwru.edu/tekin/131/schedule.html",
+        "http://erciyes.ces.cwru.edu/tekin/131/logistics.html"
+    ],
+    "ground_truth": "course"
+}

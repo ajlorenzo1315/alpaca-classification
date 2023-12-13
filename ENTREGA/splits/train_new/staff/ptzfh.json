@@ -1,0 +1,10 @@
+{
+    "Title": "Adrian Rodriguez's Home Page",
+    "Body": "Date: Tue, 26 Nov 1996 04:00:03 GMT Server: Apache/1.1.1 Content-type: text/html Content-length: 905 Last-modified: Sun, 11 Aug 1996 05:38:05 GMT Adrian Rodriguez's Home Page Adrian Rodriguez's Home Page I am a Systems Programmer for the LCSR Computing Facility at Rutgers University .",
+    "link": [
+        "http://www.cs.rutgers.edu/LCSR-Computing/",
+        "http://www.rutgers.edu",
+        "http://paul.rutgers.edu/~adrian/pgp.html"
+    ],
+    "ground_truth": "staff"
+}

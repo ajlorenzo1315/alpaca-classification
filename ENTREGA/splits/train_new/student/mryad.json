@@ -1,0 +1,10 @@
+{
+    "Title": "Haiying Cai's Home Page",
+    "Body": "of Computer Science, Fudan University ; Fudan University ; Shanghai ; China ; Earth and beyond ; A mysterious land full of legends, wars and sorrows,  China is by no means lacking in literature, philosophy, beauties, and ... cuisine , let the dragon brings you to My Wonderful China ... Research Interests Research is something bitter, sore but fun.",
+    "link": [
+        "mailto:cai@cs.mcgill.ca",
+        "http://www.cs.mcgill.ca/~cai/resume.html",
+        "http://www.cs.mcgill.ca/~cai/fd_high.html"
+    ],
+    "ground_truth": "student"
+}

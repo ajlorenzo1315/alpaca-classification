@@ -1,0 +1,10 @@
+{
+    "Title": "Mr. Laski's Web Space",
+    "Body": "Date: Thu, 21 Nov 1996 22:52:11 GMT Server: Apache/1.0.5 Content-type: text/html Content-length: 3559 Last-modified: Fri, 15 Nov 1996 04:42:33 GMT Mr. Laski's Web Space Ziemowit Laski !",
+    "link": [
+        "http://www.ics.uci.edu/icsdirserv/gradstudents.html",
+        "http://www.ics.uci.edu/~taylor/software/soft.html",
+        "http://www.ics.uci.edu/~theory/"
+    ],
+    "ground_truth": "unknow"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Fred B. Schneider\n",
+    "Body": "Symposium on Formal Techniques in Real-Time and Fault-Tolerant Systems.",
+    "link": [
+        "http://www.cs.cornell.edu/Info/People/fbs/fbs.gif",
+        "http://www.cs.cornell.edu/Info/Department/Annual95/Beginning/annual-rpt95-home.html",
+        "http://www.cs.cornell.edu/"
+    ],
+    "ground_truth": "faculty"
+}

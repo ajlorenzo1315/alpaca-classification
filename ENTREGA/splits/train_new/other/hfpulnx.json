@@ -1,0 +1,8 @@
+{
+    "Title": "Problem with SkyBlue and Cycles",
+    "Body": "They are redundant, and hence don't give unique values for A and B -- so the cycle solver really needs the other constraints as well to find the correct solution.",
+    "link": [
+        "http://www.cs.washington.edu/research/projects/weird/www/ultraviolet-cp-95.html"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "DAS Video Link Page",
+    "Body": "TV Tonight .",
+    "link": [
+        "\nhttp://www.tvnet.com/ITVG/itvg.html\n",
+        "\nhttp://www.iguide.com/tv\n",
+        "\nhttp://www.prevue.com/\n"
+    ],
+    "ground_truth": "other"
+}

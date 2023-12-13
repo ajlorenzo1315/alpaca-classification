@@ -1,0 +1,10 @@
+{
+    "Title": " Masahiko Saito's Home Page",
+    "Body": "It also has a meaning \"of Kyoto,\" which is my home town.",
+    "link": [
+        "http://www.cs.uiuc.edu",
+        "http://biobio.cs.uiuc.edu/osl.html",
+        "http://www.hitachi.co.jp/Lab/hrl.html"
+    ],
+    "ground_truth": "staff"
+}

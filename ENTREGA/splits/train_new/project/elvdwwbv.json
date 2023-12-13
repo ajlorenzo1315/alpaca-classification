@@ -1,0 +1,10 @@
+{
+    "Title": "ADVANCED NETWORK ARCHITECTURE GROUP",
+    "Body": "The group's Information Mesh project, for example, is developing a network infrastructure that finds and relates information, rather than simply moving it around.",
+    "link": [
+        "http://www.lcs.mit.edu/web_project/anaweb/ANA_Home.html",
+        "http://www.lcs.mit.edu/web_project/Brochure/contents.html",
+        "http://www.lcs.mit.edu/web_project/Brochure/psr/psr.html"
+    ],
+    "ground_truth": "project"
+}

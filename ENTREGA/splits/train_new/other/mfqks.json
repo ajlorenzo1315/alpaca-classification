@@ -1,0 +1,10 @@
+{
+    "Title": "ECE Department",
+    "Body": "The Web Server Highlights: About This Server and Server Statistics and ECE Search and Search the Web [ Departmental Info ] [ What's New ] [ ECE Resources ] [ People ] [ Research ] [ Academics ] [ Admissions Info ] [ Calendar ] [ Publishing ] [ Misc Info ] [ Server ] [ UT HOME ] Number of hits Time in Austin Last updated October 8, 1996 by Rudrakodeswaran N. Janahan Send comments by filling this form or send mail to webmaster@ece.utexas.edu .",
+    "link": [
+        "http://www.ece.utexas.edu/cgi-bin/imagemap/ece/ImageMapData/banner.map",
+        "ece/dept/message.html",
+        "ece/dept/"
+    ],
+    "ground_truth": "other"
+}

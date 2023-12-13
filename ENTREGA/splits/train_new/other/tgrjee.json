@@ -1,0 +1,10 @@
+{
+    "Title": "U-Net",
+    "Body": "We use a network architecture based on the U-Net approach to implement low-latency and high-bandwidth communication over Fast Ethernet, with performance rivaling (and in some cases exceeding) that of 155 Mbps ATM.",
+    "link": [
+        "http://www.ito.darpa.mil/",
+        "ftp://ftp.cs.cornell.edu/pub/mdw/unet/unet-2.tar.gz",
+        "http://www.cs.cornell.edu/Info/Projects/U-Net/release-docs/unet.html"
+    ],
+    "ground_truth": "other"
+}

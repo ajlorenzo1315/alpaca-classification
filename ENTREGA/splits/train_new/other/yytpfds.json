@@ -1,0 +1,10 @@
+{
+    "Title": " CS211 Course Staff ",
+    "Body": "Oliver Chang Office Hours: Monday 11:30 - 12:30 PM (329 Upson) Email oc10@cornell.edu Felix Lung Office Hours: Friday 10:30 - 11:30 AM (Upson 318) Email flung@cs.cornell.edu Sunil Srivastava Office Hours: Wednesday  11:30 - 12:30 PM (Upson 329) Email: sxsrivas@cs.cornell.edu Sections: CS211 Fall 1996 Sections Day Time Room Instructor Tuesday 1:25-2:15 Hollister 110 Jose Machuca Tuesday 2:30-3:20 Olin 155 Nawaaz Ahmed Tuesday 3:35-4:25 Philips 407 Nawaaz Ahmed Wednesday 12:20-1:10 Hollister 372 Oliver Chang Wednesday 1:25-2:15 Hollister 206 Tugkan Batu Thursday 2:30-3:20 Upson 111A Felix Lung Thursday 4:20-5:15 Hollister 368 Sunil Srivastava Consulting: Consultants are available in Upson 305 for help with coursework.",
+    "link": [
+        "mailto:pingali@cs.cornell.edu",
+        "mailto:nawaaz@cs.cornell.edu",
+        "mailto:batu@cs.cornell.edu"
+    ],
+    "ground_truth": "other"
+}

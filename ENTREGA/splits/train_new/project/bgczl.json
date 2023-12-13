@@ -1,0 +1,10 @@
+{
+    "Title": "\nNotre Dame MDO\n",
+    "Body": "These problems are being selected so that they represent a diverse spectrum of MDO applications and will present a variety of challenges for the methods being developed and evaluated as part of this research program.",
+    "link": [
+        "http://www.nd.edu/Departments/EN/AME/Renaud,John.html",
+        "http://www.nd.edu/Departments/EN/AME/Batill,Stephen.html",
+        "http://www.cse.nd.edu/faculty/brockman.html"
+    ],
+    "ground_truth": "project"
+}

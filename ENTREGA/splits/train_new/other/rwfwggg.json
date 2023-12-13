@@ -1,0 +1,10 @@
+{
+    "Title": "Nell Dale Professional Profile",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Tuesday, 07-Jan-97 15:28:15 GMT Content-Type: text/html Content-Length: 3658 Last-Modified: Wednesday, 27-Mar-96 23:40:43 GMT Nell Dale Professional Profile Nell B. Dale: Professional Profile 1200 Westlake Dr. Austin, Texas 78746 (fax-office) 512/471/8885 (e-mail): ndale@cs.utexas.edu Education University of Houston , B.S.",
+    "link": [
+        "mailto:ndale@cs.utexas.edu",
+        "mailto:ndale@cs.utexas.edu",
+        "http://www.uh.edu/UH-HomePage.html"
+    ],
+    "ground_truth": "other"
+}

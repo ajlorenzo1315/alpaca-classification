@@ -1,0 +1,10 @@
+{
+    "Title": "Cornell CS Public Software",
+    "Body": "The /usr/public directory is the place for files that are useful to the entire department, but without official support by adm. Current Announcements Synopsis How to access What is in /usr/public What should not be in /usr/public Directory organization How to obtain further help Other pages available in /usr/public Current List of czars.",
+    "link": [
+        "#A1.0",
+        "#A1.1",
+        "#A1.2"
+    ],
+    "ground_truth": "other"
+}

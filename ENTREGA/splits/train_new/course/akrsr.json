@@ -1,0 +1,10 @@
+{
+    "Title": "CPS 130 Intro to Computing Home Page",
+    "Body": "Here is a collection of some tres cool places to visit as compiled by our staff and students.",
+    "link": [
+        "http://web.cps.msu.edu/~cps130/cps130.mov",
+        "http://www.netscape.com/",
+        "http://web.cps.msu.edu/~cps130/welcome.html"
+    ],
+    "ground_truth": "course"
+}

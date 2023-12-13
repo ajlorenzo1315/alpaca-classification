@@ -1,0 +1,10 @@
+{
+    "Title": "The ISIS Project",
+    "Body": "The ISIS project has moved from Cornell University to Isis Distributed Systems a subsidiary of Stratus Computer, Inc .",
+    "link": [
+        "http://www.stratus.com/ISIS/www.htm",
+        "http://www.stratus.com",
+        "http://www.cs.cornell.edu/Info/Projects/HORUS"
+    ],
+    "ground_truth": "other"
+}

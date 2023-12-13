@@ -1,0 +1,10 @@
+{
+    "Title": "William B. Thompson, University of Utah",
+    "Body": "This project focuses on the analysis of visual motion, including optical flow estimation in the presence of discontinuities, extracting shape properties in a qualitative manner that avoids much of the complexity and noise sensitivity of tranditional structure-from-motion methods, and detecting moving objects in the environment when the sensor might also be moving.",
+    "link": [
+        "http://www.cs.utah.edu/~thompson/cho_oyo_stats.html",
+        "mailto:thompson@cs.utah.edu",
+        "http://www.cs.utah.edu/~tch"
+    ],
+    "ground_truth": "faculty"
+}

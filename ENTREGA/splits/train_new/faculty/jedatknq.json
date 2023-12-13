@@ -1,0 +1,8 @@
+{
+    "Title": " Knudsen Home Page ",
+    "Body": "His research interests include design and analysis of interfaces and protocols, finite state automata theory and concurrency.",
+    "link": [
+        "http://www.cs.unm.edu/cgi-bin/finger?knudsen"
+    ],
+    "ground_truth": "faculty"
+}

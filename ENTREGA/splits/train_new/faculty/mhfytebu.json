@@ -1,0 +1,10 @@
+{
+    "Title": "No title",
+    "Body": "in Computer Science (1985), University of Colorado at Boulder Ph.D. in Computer Science (1989), University of Colorado at Boulder Selected Honors/Awards and Professional Services Distinguished Research Achievement Award, UTSA , 1993.",
+    "link": [
+        "http://rabbit.cs.utsa.edu/Welcome.html",
+        "http://www.ihep.ac.cn/uni/BPU/bpu.html",
+        "http://www.cs.colorado.edu"
+    ],
+    "ground_truth": "faculty"
+}

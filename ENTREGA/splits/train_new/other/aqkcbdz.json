@@ -1,0 +1,10 @@
+{
+    "Title": "Phased Compilation Page",
+    "Body": "Date: Tue, 10 Dec 1996 03:35:11 GMT Server: NCSA/1.4.2 Content-type: text/html Phased Compilation Page Related Work This page lists sites describing other dynamic-compilation efforts, systems that use dynamic compilation, partial evaluation, and other related research.",
+    "link": [
+        "http://www.cs.washington.edu/research/projects/unisw/DynComp/www/",
+        "http://www.cs.washington.edu/homes/pardo/rtcg.d/index.html",
+        "http://www.cse.ogi.edu/~consel/"
+    ],
+    "ground_truth": "other"
+}

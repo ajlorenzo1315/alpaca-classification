@@ -1,0 +1,10 @@
+{
+    "Title": "Brian A. Barsky Personal Homepage",
+    "Body": "His Ph.D. degree is in computer science from the University of Utah .",
+    "link": [
+        "http://http.cs.berkeley.edu/cgi-bin/finger?barsky@cs.berkeley.edu",
+        "mailto:barsky@cs.berkeley.edu",
+        "http://www.reg.uci.edu/SANET/uc.html"
+    ],
+    "ground_truth": "faculty"
+}

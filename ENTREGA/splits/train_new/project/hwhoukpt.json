@@ -1,0 +1,8 @@
+{
+    "Title": "The GNAT Project",
+    "Body": "Date: Tue, 26 Nov 1996 00:11:47 GMT Server: NCSA/1.4.1 Content-type: text/html Last-modified: Fri, 25 Oct 1996 21:07:47 GMT Content-length: 495 The GNAT Project The GNAT project which was started at NYU is no longer active.",
+    "link": [
+        "http://www.gnat.com"
+    ],
+    "ground_truth": "project"
+}

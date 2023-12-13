@@ -1,0 +1,10 @@
+{
+    "Title": "Doug Stuart's Welcome Page",
+    "Body": "I am not sure what I will put here, but for now, there are a number of links to interesting places, as well as some information about Sports , science fiction , books in general, and a few jokes ( test of latex2html), or a weather map and conditions at Austin and New Orleans .",
+    "link": [
+        "http://www.cs.utexas.edu/users/dastuart/places/",
+        "http://www.cs.utexas.edu/users/dastuart/places/sports.html",
+        "http://www.cs.utexas.edu/users/dastuart/fictiondir/sfdir/"
+    ],
+    "ground_truth": "unknow"
+}

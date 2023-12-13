@@ -1,0 +1,10 @@
+{
+    "Title": "Mark D. Hill's Home Page",
+    "Body": "Surpassing the TLB Performance of Superpages with Less Operating System Support, Madhusudhan Talluri and Mark D. Hill, International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), October 1994.",
+    "link": [
+        "mailto:markhill@cs.wisc.edu",
+        "http://www.cs.wisc.edu/",
+        "http://www.engr.wisc.edu/ece/index.html"
+    ],
+    "ground_truth": "faculty"
+}

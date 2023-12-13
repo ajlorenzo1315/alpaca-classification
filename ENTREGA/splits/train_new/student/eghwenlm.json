@@ -1,0 +1,10 @@
+{
+    "Title": " Peter McIlroy--home page",
+    "Body": "Date: Tue, 26 Nov 1996 03:53:56 GMT Server: Apache/1.1.1 Content-type: text/html Content-length: 2524 Last-modified: Wed, 04 Sep 1996 16:15:02 GMT Peter McIlroy--home page Peter McIlroy Dept Computer Science Rutgers University Office: Hill 367 Office phone: (908)455-3213 x21 And email mpeter@paul.rutgers.edu Where am I U S A And map .",
+    "link": [
+        "http://www.fie.com/www/us_gov.html",
+        "http://www.nosc.mil/planet_earth/states.html",
+        "http://www.interactive.net/~upper/njhp.html"
+    ],
+    "ground_truth": "student"
+}

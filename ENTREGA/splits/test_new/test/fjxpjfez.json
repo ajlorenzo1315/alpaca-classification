@@ -1,0 +1,10 @@
+{
+    "Title": "Todd Peskin's Web Page",
+    "Body": "Where I worked as a Co-op The Fall semester of my Junior year and the following two semesters, I worked as a Co-op (intern) with BDM International, Inc. through the Engineering Cooperative Program at Cornell.",
+    "link": [
+        "http://www.cs.cornell.edu/Info/People/peskin/Welcome.html#WHOAMI",
+        "http://www.cs.cornell.edu/Info/People/peskin/Welcome.html#WHEREAMI",
+        "http://www.cs.cornell.edu/Info/People/peskin/Welcome.html#WORK"
+    ],
+    "ground_truth": "unknow"
+}

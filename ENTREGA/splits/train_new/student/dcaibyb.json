@@ -1,0 +1,10 @@
+{
+    "Title": "Micheal Hewett",
+    "Body": "in Mathematics (Honors), Washburn University , 1980.",
+    "link": [
+        "http://www.cs.utexas.edu/cgi/finger/hewett",
+        "mailto:hewett@cs.utexas.edu",
+        "http://www.cs.utexas.edu"
+    ],
+    "ground_truth": "student"
+}

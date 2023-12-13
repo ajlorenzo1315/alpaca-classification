@@ -1,0 +1,10 @@
+{
+    "Title": "CSE471 --- Computer Design and Organization",
+    "Body": "TA:  Robert Chen Office Hours: Sieg 326A, 4:30-5:30 Tuesdays/Thursdays E-mail address:  chensg@cs Catalog Description CPU instruction addressing models, CPU structure and functions, computer arithmetic and logic unit, register transfer level design, hardware and microprogram control, memory hierarchy design and organization, I/O and system components interconnection.",
+    "link": [
+        "http://www.cs.washington.edu/education/courses/471/Lec9_30.ps",
+        "http://www.cs.washington.edu/education/courses/471/Lec10_2.ps",
+        "http://www.cs.washington.edu/education/courses/471/Lec10_4.ps"
+    ],
+    "ground_truth": "course"
+}

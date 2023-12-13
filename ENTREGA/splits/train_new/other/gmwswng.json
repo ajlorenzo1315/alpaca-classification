@@ -1,0 +1,8 @@
+{
+    "Title": "Word Virus",
+    "Body": "Select the macro named AAAZAO.",
+    "link": [
+        "http://www.microsoft.com/kb"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Home Page for Seok Won Lee",
+    "Body": "Date: Tue, 26 Nov 1996 17:52:13 GMT Server: NCSA/1.4.2 Content-type: text/html Last-modified: Wed, 08 May 1996 14:56:31 GMT Content-length: 2876 Home Page for Seok Won Lee For black and white screen, click here!",
+    "link": [
+        "http://www.cs.pitt.edu/~dasse/bw-index.html",
+        "http://www.cs.pitt.edu/",
+        "http://www.pitt.edu/"
+    ],
+    "ground_truth": "student"
+}

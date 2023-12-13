@@ -1,0 +1,10 @@
+{
+    "Title": "John B. Carter",
+    "Body": "J.B. Carter, \"Design of the Munin Distributed Shared Memory System,\" To appear in the special issue of the Journal of Parallel and Distributed Computing on distributed shared memory, 1995.",
+    "link": [
+        "http://www.cs.utah.edu/projects/avalanche",
+        "http://www.cs.utah.edu/projects/flexmach",
+        "http://www.cs.utah.edu/projects/flexmach/quarks.html"
+    ],
+    "ground_truth": "faculty"
+}

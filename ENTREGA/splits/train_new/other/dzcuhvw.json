@@ -1,0 +1,9 @@
+{
+    "Title": "\nHand In Program  \n",
+    "Body": "A program called handin is installed in the bin directory of that account.",
+    "link": [
+        "http://www.cs.twsu.edu/~wallis/wallis.html",
+        "http://www.cs.twsu.edu/~gopal/gopal.html"
+    ],
+    "ground_truth": "other"
+}

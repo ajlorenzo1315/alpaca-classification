@@ -1,0 +1,10 @@
+{
+    "Title": "The UW MacTester home page",
+    "Body": "Features: 128 bi-directional pins ZIF socket for testing chips Direct connection with Macintosh NuBus or IBM PC (ISA) bus All signal pin mapping is performed by software C language interface C library source code is included LogicWorks simulator interface is available (Macintosh only) Principal investigators Neil McKenzie Carl Ebeling Larry McMurchie Gaetano Borriello Sponsors Northwest Laboratory for Integrated Systems (LIS) Apple Computer National Science Foundation Washington Technology Center Xilinx Publications Experiences with the MacTester in Computer Science and Engineering Education .",
+    "link": [
+        "file://shrimp.cs.washington.edu/pub/MacTester/mactester.gif",
+        "http://www.cs.washington.edu/homes/mckenzie/index.html",
+        "http://www.cs.washington.edu/people/faculty/ebeling.html"
+    ],
+    "ground_truth": "other"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "HOME PAGE",
+    "Body": "MIME-Version: 1.0 Server: CERN/3.0 Date: Thursday, 21-Nov-96 22:39:07 GMT Content-Type: text/html Content-Length: 377 Last-Modified: Wednesday, 06-Nov-96 00:55:19 GMT HOME PAGE Welcome to my home page.",
+    "link": [
+        "http://www.ccs.neu.edu/home/mmohamed/ww.ccs.neu.edu",
+        "http://www.ccs.neu.edu/home/ozmez/index.html",
+        "http://www.ccs.neu.edu/home/mmohamed/~/www.javasoft.com"
+    ],
+    "ground_truth": "unknow"
+}
