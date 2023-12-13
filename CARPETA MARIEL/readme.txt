@@ -1,0 +1,3 @@
+En prueba_mariel.py que es el codigo actualizado de Abraham, use el Llama 7B-GGUF y el prompt3 con las palabras claves de los resumenes de las paginas web.
+Adicionalmene hice una prueba siempre usando el prompt3 con las palabras claves de los resumenes de las paginas web, pero cambiandolo a: Categorize the text in this class: Provide a one-word response:
+Esto aun se esta ejecutando, creo que acaba man;ana pero tarde. Aunque viendo los resultados pues no van muy bien, no se si seria interesante hablar que el 7B al ser el mas basico pues no clasifica bien.
