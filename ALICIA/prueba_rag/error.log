@@ -1,0 +1,6 @@
+
+ApiException: (400)
+Reason: Bad Request
+HTTP response headers: HTTPHeaderDict({'content-type': 'application/json', 'Content-Length': '116', 'date': 'Tue, 07 Nov 2023 17:17:56 GMT', 'x-envoy-upstream-service-time': '30', 'server': 'envoy', 'Via': '1.1 google', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'})
+HTTP response body: {"code":3,"message":"Metadata size is 258105 bytes, which exceeds the limit of 40960 bytes per vector","details":[]}
+

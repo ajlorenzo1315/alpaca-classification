@@ -1,0 +1,15 @@
+torch
+sentencepiece
+datasets
+fairscale
+fire
+tqdm
+ujson
+black
+isort
+flake8
+langchain
+sentence-transformers
+faiss-gpu
+ray
+rag

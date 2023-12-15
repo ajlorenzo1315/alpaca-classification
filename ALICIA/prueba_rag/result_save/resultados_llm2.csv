@@ -1,0 +1,172 @@
+Titulo,Resultado
+../data/splits/train_new_short/staff/brryz.json,"
+ faculty
+The text mentions 'Werner Vogels' as the title, indicating that it might be a person associated with a department or faculty. Additionally, there are links provided related to projects and emails, which further suggest a connection to a faculty member. Therefore, the classification is: faculty.
+
+However, considering the project-related information provided within the text, this could also fit under ""project"" or even ""staff"". But, given that the primary affiliation appears to be with a person (faculty), we'll classify it as ""faculty."""
+../data/splits/train_new_short/staff/mupnzjvv.json, faculty
+../data/splits/train_new_short/staff/fptnizis.json,"
+  faculty"
+../data/splits/train_new_short/staff/hazdat.json,"
+  faculty"
+../data/splits/train_new_short/staff/mauom.json, other
+../data/splits/train_new_short/staff/gxbghe.json,"
+faculty
+
+The given text is related to a faculty member, specifically mentioning their academic degree and name (L. Beth Millar). Thus, the classification is [faculty]."
+../data/splits/train_new_short/staff/ewmdv.json,"
+  faculty"
+../data/splits/train_new_short/staff/lwifrtz.json, faculty
+../data/splits/train_new_short/staff/fleprfbe.json, faculty
+../data/splits/train_new_short/staff/nmljvum.json,"
+faculty"
+../data/splits/train_new_short/staff/rsexw.json,"
+faculty"
+../data/splits/train_new_short/staff/stfbsgsv.json, staff
+../data/splits/train_new_short/staff/leorz.json, student
+../data/splits/train_new_short/project/lcwukn.json, project
+../data/splits/train_new_short/project/cwawk.json,"
+project"
+../data/splits/train_new_short/project/uwnabhxl.json,"
+other"
+../data/splits/train_new_short/project/ihgxid.json,"
+course
+
+The text is describing a course related to logical reasoning and diagrams, so it should be classified as a ""course""."
+../data/splits/train_new_short/project/pjfwy.json," other
+The text describes a laboratory within the department of a university, which is involved in graphics and imaging research. It does not directly fall under any of the given categories, so I classify it as 'other'.
+  
+Text classification: other"
+../data/splits/train_new_short/project/ybiyxzr.json," project
+  
+The text discusses the ""CASHMERe Home Page,"" which is introducing a project called ""Coherence Algorithms for SHared MEmory aRchitectures"" (CASHMERe). This classification falls under the category of 'project'."
+../data/splits/train_new_short/project/eufnrc.json," faculty, project, department"
+../data/splits/train_new_short/project/nmeslx.json,
+../data/splits/train_new_short/project/wauuqxgr.json, other
+../data/splits/train_new_short/project/ysotc.json," faculty
+  Reason: The text discusses a faculty-related topic, ""The Laboratory for Perceptual Robotics,"" which provides information about its facilities and associated links to its website."
+../data/splits/train_new_short/project/frgenihu.json,"
+    project"
+../data/splits/train_new_short/project/dsyskmp.json,
+../data/splits/train_new_short/project/gsymj.json, project
+../data/splits/train_new_short/other/vtukpngp.json,"
+Project"
+../data/splits/train_new_short/other/mmxwzmep.json,"
+  Course"
+../data/splits/train_new_short/other/crilnifj.json," project
+"
+../data/splits/train_new_short/other/cenvm.json, course
+../data/splits/train_new_short/other/noerbktj.json," project
+
+The text belongs to the class ""project"" as it describes an event related to Virtual Worlds Demonstrations, which is likely part of a larger research or development project at MIT. It provides information on the date, server, content type, and links associated with this specific demonstration event."
+../data/splits/train_new_short/other/wtcpfopq.json," project
+"
+../data/splits/train_new_short/other/csrfi.json,"
+  Other"
+../data/splits/train_new_short/other/ajoaoix.json," project
+
+The text describes a ""BERNOULLI PROJECT"" which involves solving large systems of equations on parallel machines, using solvers that exploit matrix sparsity. It provides links to more information about the project. Hence, the classification is 'project'."
+../data/splits/train_new_short/other/pmkebmyq.json," faculty
+
+The text provided refers to ""David Sundaram-Stukel's Bio Page"", which implies that it is related to a faculty member within a department or university context. Therefore, the classification is 'faculty'."
+../data/splits/train_new_short/other/nzxmhrky.json, project
+../data/splits/train_new_short/other/oncguc.json,"
+course"
+../data/splits/train_new_short/other/bkojv.json, other
+../data/splits/train_new_short/other/qdedmkxg.json,"
+  course
+
+The text provides information about programming assignment (Hangman) and contains details on code implementation. So, it can be classified as a course-related material."
+../data/splits/train_new_short/faculty/ahjpfa.json," faculty
+
+The text is about Michael T. Goodrich, who is a co-director of the Center for Geometric Computing at Johns Hopkins University. He is connected to a larger collaborative center involving Brown, Duke, and Johns Hopkins universities, supported by the Army Research Office. Therefore, he is part of the faculty group."
+../data/splits/train_new_short/faculty/dqsbsmt.json,"
+faculty
+
+The text is discussing Daniel E. Atkins, who holds the positions of Dean and Professor at the School of Information (SI) and is also a professor in Electrical Engineering and Computer Science at the University of Michigan. Thus, he is classified as [faculty]."
+../data/splits/train_new_short/faculty/aktozeo.json, faculty
+../data/splits/train_new_short/faculty/jybiu.json, faculty
+../data/splits/train_new_short/faculty/nbpzmv.json,"
+  
+based on the provided text, I would classify it as a [course]. This conclusion is based on the mention of an academic publication (ACM Transactions on Programming Languages and Systems) and the context related to Dataflow Analysis of Logic Programs, which typically refers to a topic covered in a course or study."
+../data/splits/train_new_short/faculty/tkssfg.json," [faculty, department]
+
+The text provides information about David Mount, who is a faculty member in the Department of Computer Science at the University of Maryland. Therefore, the classification falls under both ""faculty"" and ""department""."
+../data/splits/train_new_short/faculty/kwmtl.json, faculty
+../data/splits/train_new_short/faculty/kcnigi.json, [other]
+../data/splits/train_new_short/faculty/bcfou.json,
+../data/splits/train_new_short/faculty/gkjrgfsc.json," faculty
+
+The text provides information about Daniela Rus, an Assistant Professor who holds a Ph.D. from Cornell University. Therefore, the classification is [faculty]."
+../data/splits/train_new_short/faculty/vbpcbwwp.json," faculty
+"
+../data/splits/train_new_short/faculty/fxyzr.json," [faculty]
+
+The text describes an associate professor of Computer Science, discussing research interests and linking to their personal website and research pages. This information belongs to a faculty member, so the classification is [faculty]."
+../data/splits/train_new_short/faculty/kuszkq.json," faculty
+Explanation: The text discusses Doug Ierardi, an Assistant Professor in the Department of Computer Science at The University of Southern California. Thus, the classification is ""faculty""."
+../data/splits/train_new_short/department/umtuw.json, faculty
+../data/splits/train_new_short/department/uvlezpcp.json," department
+
+The text is about the EECS Department at Lehigh University, which suggests it belongs to the department category."
+../data/splits/train_new_short/department/jgmyqj.json, department
+../data/splits/train_new_short/department/fybbwqg.json, department
+../data/splits/train_new_short/department/hoxtk.json," faculty, department, course"
+../data/splits/train_new_short/department/ypsmqqj.json," other
+
+Justification: The text mainly provides information about computer science at Dartmouth College, including its history, facilities, programs, courses, and people associated with the department, such as faculty and students. However, it doesn't fit directly into any of the provided categories like staff, project, faculty, department, student, or course. Thus, I classified it as ""other."""
+../data/splits/train_new_short/department/zujfjnjr.json," faculty, department, course, student, staff, project, other"
+../data/splits/train_new_short/department/hcgcvyfr.json, department
+../data/splits/train_new_short/department/ezpngx.json, department
+../data/splits/train_new_short/department/dlzib.json, other
+../data/splits/train_new_short/department/dwckgrc.json, department
+../data/splits/train_new_short/department/hnbclkw.json, department
+../data/splits/train_new_short/department/wvmtgseq.json, [department]
+../data/splits/train_new_short/student/wotyp.json,"
+  faculty"
+../data/splits/train_new_short/student/lnaxcuc.json,"
+other"
+../data/splits/train_new_short/student/dnsyk.json,"
+faculty"
+../data/splits/train_new_short/student/vndrkky.json, [faculty]
+../data/splits/train_new_short/student/pjnzr.json,"
+other
+
+The text is not clearly classifiable as any of the given categories ([staff, project, faculty, department, student, course]) as it provides information about a homepage and does not have specific educational context. However, it can be considered as ""other"" content, which may include miscellaneous or general university-related topics. So the classification is ""other""."
+../data/splits/train_new_short/student/vnvccv.json,"
+  faculty"
+../data/splits/train_new_short/student/tzrvad.json,"
+other"
+../data/splits/train_new_short/student/xlhjaw.json," project 
+
+The text describes a 3D wireframe rotation project using Java, which creates applets that react to user input and dynamically change. The provided links connect to specific elements within the project (e.g., ConeM.html)."
+../data/splits/train_new_short/student/ctoksow.json, course
+../data/splits/train_new_short/student/sdqbvv.json, faculty
+../data/splits/train_new_short/student/zgjupk.json," other
+
+The text is not directly related to any of the given categories, so I classify it as ""other""."
+../data/splits/train_new_short/student/owboteav.json, other
+../data/splits/train_new_short/student/qxsnxm.json, other
+../data/splits/train_new_short/course/tpfitbk.json," course
+
+The text is related to a course, specifically CS 495/Math 405 Analysis of Algorithms and its home page. The content discusses the availability of solutions for homework one. Therefore, it belongs to the 'course' category."
+../data/splits/train_new_short/course/rwgaz.json,"
+course"
+../data/splits/train_new_short/course/twvpcwt.json, course
+../data/splits/train_new_short/course/iyfhkcpn.json, course
+../data/splits/train_new_short/course/dffgwmla.json, course
+../data/splits/train_new_short/course/szwgxac.json," course
+
+The text is describing a specific course, COS 461: Distributed Computing (Fall 1996), providing information about its structure, lecture notes, assignments, and additional resources. Hence, the correct classification for this text is [course]."
+../data/splits/train_new_short/course/panwt.json, course
+../data/splits/train_new_short/course/rsjay.json,"
+[course]"
+../data/splits/train_new_short/course/kkdgmviw.json, course
+../data/splits/train_new_short/course/lfugquw.json," course
+
+The text provides information about an academic course named ""Artificial Intelligence"" within the Computer Science department, including its schedule, instructors, prerequisites, and related links. Thus, it belongs to the 'course' category."
+../data/splits/train_new_short/course/ndiuy.json, course
+../data/splits/train_new_short/course/pkgtspe.json,"
+  course"
+../data/splits/train_new_short/course/fjqsdqsq.json,"
+[other]"

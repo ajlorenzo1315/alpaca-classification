@@ -1,0 +1,22 @@
+['staff', 'project', 'other', 'faculty', 'department', 'student', 'course'] dict_keys(['staff', 'project', 'other', 'faculty', 'department', 'student', 'course'])
+Batches: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1/1 [00:00<00:00,  1.13it/s]
+Traceback (most recent call last):
+  File "/home/alourido/Desktop/alpaca-classification/3_prueba.py", line 290, in <module>
+    rag = RetrievalQA.from_chain_type(
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/alourido/anaconda3/envs/alpaca/lib/python3.11/site-packages/langchain/chains/retrieval_qa/base.py", line 100, in from_chain_type
+    combine_documents_chain = load_qa_chain(
+                              ^^^^^^^^^^^^^^
+  File "/home/alourido/anaconda3/envs/alpaca/lib/python3.11/site-packages/langchain/chains/question_answering/__init__.py", line 249, in load_qa_chain
+    return loader_mapping[chain_type](
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/alourido/anaconda3/envs/alpaca/lib/python3.11/site-packages/langchain/chains/question_answering/__init__.py", line 73, in _load_stuff_chain
+    llm_chain = LLMChain(
+                ^^^^^^^^^
+  File "/home/alourido/anaconda3/envs/alpaca/lib/python3.11/site-packages/langchain/load/serializable.py", line 75, in __init__
+    super().__init__(**kwargs)
+  File "/home/alourido/anaconda3/envs/alpaca/lib/python3.11/site-packages/pydantic/v1/main.py", line 341, in __init__
+    raise validation_error
+pydantic.v1.error_wrappers.ValidationError: 1 validation error for LLMChain
+llm
+  value is not a valid dict (type=type_error.dict)

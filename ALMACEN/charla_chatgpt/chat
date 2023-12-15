@@ -1,0 +1,31 @@
+ChatGPT
+
+Para clasificar páginas web utilizando Prompt Tuning with Rules (PTR) para las categorías que has mencionado (staff, project, other, faculty, department, student, course), seguirías un proceso como el siguiente, adaptado a tu contexto específico:
+
+    Definir Sub-Prompts:
+        Diseña sub-prompts que identifiquen características clave para cada categoría. Por ejemplo, para la categoría 'course', el sub-prompt podría buscar términos como "course overview", "classnotes", o "syllabus".
+
+    Crear Reglas Lógicas:
+        Establece reglas lógicas que ayuden a diferenciar las páginas. Por ejemplo, si una página contiene palabras clave como "instructor" y "syllabus" y enlaces a materiales de curso, es probable que sea una página 'course'.
+
+    Generar Prompts de Tarea Específicos:
+        Combina los sub-prompts con las reglas lógicas para formar prompts completos. En tu caso, un prompt podría ser: "Esta página web contiene información sobre [MASK], incluyendo [MASK] y [MASK]."
+
+    Seleccionar un Modelo de Lenguaje Preentrenado:
+        Escoge un modelo de lenguaje como BERT, GPT-3, o uno específico de la suite de Hugging Face Transformers que pueda adaptarse a la tarea de clasificación.
+
+    Ajuste Fino del Modelo con PTR:
+        Ajusta el modelo con los prompts diseñados para reflejar las reglas y conocimientos específicos de cada categoría.
+        Entrena el modelo con un conjunto de datos que incluya ejemplos de páginas web etiquetadas en las categorías definidas.
+
+    Evaluación:
+        Evalúa el modelo utilizando un conjunto de datos de prueba para determinar la precisión de la clasificación.
+
+    Iteración y Mejora:
+        Basándote en los resultados de la evaluación, ajusta los sub-prompts y las reglas lógicas para mejorar la clasificación.
+        Puedes necesitar iterar varias veces, ajustando los prompts y re-entrenando el modelo hasta alcanzar un rendimiento satisfactorio.
+
+    Implementación:
+        Una vez que el modelo clasifique con precisión según tus criterios, puedes implementarlo para clasificar páginas web en tiempo real o en lotes.
+
+Para la página de ejemplo que has proporcionado, que claramente pertenece a una categoría 'course', un prompt específico diseñado con PTR podría ser algo como: "Esta página web contiene información sobre [MASK], como el [MASK] y detalles del [MASK], indicativos de una página de [MASK]." Las máscaras se rellenarían con palabras como "syllabus", "instructor", "classnotes", y finalmente "course", respectivamente. El modelo, después de ser ajustado con estos prompts, debería ser capaz de llenar las máscaras con alta confianza en las palabras que indican una categoría 'course'.

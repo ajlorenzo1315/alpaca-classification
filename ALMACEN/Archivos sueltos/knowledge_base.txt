@@ -1,0 +1,6 @@
+On July 18, 2023, in partnership with Microsoft, Meta announced LLaMA-2, the next generation of LLaMA.
+Llama 2, a collection of pretrained and fine-tuned large language models (LLMs) 
+The fine-tuned LLMs, called Llama 2-Chat, are optimized for dialogue use cases.
+Meta trained and released LLaMA-2 in three model sizes: 7, 13, and 70 billion parameters.
+The model architecture remains largely unchanged from that of LLaMA-1 models, but 40% more data was used to train the foundational models.
+The accompanying preprint also mentions a model with 34B parameters that might be released in the future upon satisfying safety targets.
