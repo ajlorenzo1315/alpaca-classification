@@ -9,3 +9,5 @@ local-rag/*
 llm-applications/*
 llama_promt_log.txt
 llama_promt_log.txt
+llama-cpp-python
+llama_models
